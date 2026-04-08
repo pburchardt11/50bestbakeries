@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #080808;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2a2520;
+  border-radius: 3px;
+}
+
+a:hover {
+  opacity: 0.9;
+}
+
+details summary {
+  list-style: none;
+}
+
+details summary::marker,
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::before {
+  content: '▸ ';
+  color: #d4944c;
+  margin-right: 4px;
+}
+
+details[open] summary::before {
+  content: '▾ ';
+}
+
+/* Hide Google Translate default UI */
+.goog-te-banner-frame.skiptranslate { display: none !important; }
+body { top: 0 !important; }
+.skiptranslate { display: none !important; }
+#google_translate_element { display: none !important; }

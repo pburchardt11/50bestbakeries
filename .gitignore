@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.env
+.env.local
+.env.production.local
+.env.development.local
+.env*
+.vercel
+public/photos/
+scripts/upload-progress.json
+
+# Generated data — regenerate with scripts/import-overture-bakeries.mjs + pipeline
+lib/bakery-data.js
+lib/editorial-data.js
+lib/editorial-sources/
+scripts/overture-bakeries.parquet
+/tmp-*.json
