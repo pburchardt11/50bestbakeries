@@ -1,0 +1,46 @@
+{
+  "slug": "karakoy-gulluoglu-istanbul",
+  "name": "Karaköy Güllüoğlu",
+  "curatedName": "Karaköy Güllüoğlu",
+  "city": "Istanbul",
+  "country": "Turkey",
+  "placeId": "ChIJ9XlKFOi5yhQR2Bo2XTkPPvA",
+  "googleName": "Karaköy Güllüoğlu - Nadir Güllü",
+  "formattedAddress": "Kemankeş Karamustafa Paşa, Kemankeş Cd. No:67, 34425 Beyoğlu/İstanbul, Türkiye",
+  "phone": "(0212) 225 52 82",
+  "internationalPhone": "+90 212 225 52 82",
+  "website": "https://www.karakoygulluoglu.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17311290756710144728",
+  "rating": 4.4,
+  "reviewCount": 26954,
+  "priceLevel": 3,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.024886,
+    28.9809764
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 AM",
+    "Tuesday: 7:00 AM – 1:00 AM",
+    "Wednesday: 7:00 AM – 1:00 AM",
+    "Thursday: 7:00 AM – 1:00 AM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 7:00 AM – 1:00 AM",
+    "Sunday: 8:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": "Baklava & other traditional Turkish desserts offered in a classic setting with counter-service.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karakoy-gulluoglu-istanbul/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karakoy-gulluoglu-istanbul/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karakoy-gulluoglu-istanbul/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karakoy-gulluoglu-istanbul/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karakoy-gulluoglu-istanbul/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:10:44.430Z"
+}

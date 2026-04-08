@@ -1,0 +1,48 @@
+{
+  "slug": "charli-bruxelles",
+  "name": "Charli",
+  "curatedName": "Charli",
+  "city": "Bruxelles",
+  "country": "Belgium",
+  "placeId": "ChIJIT71xYfDw0cRbJAOw_3iPmY",
+  "googleName": "Charli",
+  "formattedAddress": "Rue Sainte-Catherine 34, 1000 Bruxelles, Belgium",
+  "phone": "02 513 63 32",
+  "internationalPhone": "+32 2 513 63 32",
+  "website": "http://charliboulangerie.com/fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7367575619951825004",
+  "rating": 4.4,
+  "reviewCount": 1675,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.85005229999999,
+    4.3475812
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charli-bruxelles/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charli-bruxelles/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charli-bruxelles/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charli-bruxelles/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charli-bruxelles/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:55:27.887Z"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "forn-baluard-barcelona",
+  "name": "Forn Baluard",
+  "curatedName": "Forn Baluard",
+  "city": "Barcelona",
+  "country": "Spain",
+  "placeId": "ChIJG0p1BKqjpBIRrJXcNJtAw-w",
+  "googleName": "Baluard Barceloneta",
+  "formattedAddress": "Carrer del Baluard, 38, Ciutat Vella, 08003 Barcelona, Spain",
+  "phone": "932 21 12 08",
+  "internationalPhone": "+34 932 21 12 08",
+  "website": "https://www.baluardbarceloneta.com/es?utm_source=GMB&utm_medium=WEB",
+  "googleMapsUrl": "https://maps.google.com/?cid=17060550848760550828",
+  "rating": 4.6,
+  "reviewCount": 1585,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.3800126,
+    2.1889083
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:30 PM",
+    "Tuesday: 7:30 AM – 8:30 PM",
+    "Wednesday: 7:30 AM – 8:30 PM",
+    "Thursday: 7:30 AM – 8:30 PM",
+    "Friday: 7:30 AM – 8:30 PM",
+    "Saturday: 7:30 AM – 8:30 PM",
+    "Sunday: 7:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-baluard-barcelona/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-baluard-barcelona/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-baluard-barcelona/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-baluard-barcelona/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-baluard-barcelona/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:02:06.185Z"
+}

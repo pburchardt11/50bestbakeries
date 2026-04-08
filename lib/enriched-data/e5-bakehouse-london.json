@@ -1,0 +1,47 @@
+{
+  "slug": "e5-bakehouse-london",
+  "name": "E5 Bakehouse",
+  "curatedName": "E5 Bakehouse",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJs0RsDuYcdkgRZtmvLKMG934",
+  "googleName": "E5 Bakehouse",
+  "formattedAddress": "396 Mentmore Terrace, London E8 3PH, UK",
+  "phone": "020 8525 2890",
+  "internationalPhone": "+44 20 8525 2890",
+  "website": "http://e5bakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9148788465925609830",
+  "rating": 4.4,
+  "reviewCount": 1653,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5411855,
+    -0.0577198
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Artisan bakery & cafe with a community focus serving sourdough bread, organic lunches & cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/e5-bakehouse-london/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/e5-bakehouse-london/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/e5-bakehouse-london/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/e5-bakehouse-london/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/e5-bakehouse-london/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:03:05.429Z"
+}

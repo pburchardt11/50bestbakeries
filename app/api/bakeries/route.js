@@ -75,6 +75,13 @@ export async function GET(request) {
       badges: b.badges || null,
       sources: b.sources || null,
       wikipediaUrl: b.wikipediaUrl || null,
+      isEnriched: b.isEnriched || false,
+      address: b.address || null,
+      phone: b.phone || null,
+      website: b.website || null,
+      coords: b.coords || null,
+      googleMapsUrl: b.googleMapsUrl || null,
+      openingHours: b.openingHours || null,
     })),
     total,
   });

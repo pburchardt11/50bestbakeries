@@ -1,0 +1,49 @@
+{
+  "slug": "pasteleria-san-antonio-lima",
+  "name": "Pastelería San Antonio",
+  "curatedName": "Pastelería San Antonio",
+  "city": "Lima",
+  "country": "Peru",
+  "placeId": "ChIJL-_rZB3IBZERB6jMY9-qi1M",
+  "googleName": "Pastelería San Antonio",
+  "formattedAddress": "Av. Vasco Núñez de Balboa 770, Miraflores 15074, Peru",
+  "phone": "(01) 7095000",
+  "internationalPhone": "+51 1 7095000",
+  "website": "http://www.pasteleriasanantonio.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6020093203339585543",
+  "rating": 4.5,
+  "reviewCount": 4677,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -12.1296579,
+    -77.0239837
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-san-antonio-lima/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-san-antonio-lima/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-san-antonio-lima/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-san-antonio-lima/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-san-antonio-lima/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:51:54.080Z"
+}

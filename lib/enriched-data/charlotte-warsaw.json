@@ -1,0 +1,49 @@
+{
+  "slug": "charlotte-warsaw",
+  "name": "Charlotte",
+  "curatedName": "Charlotte",
+  "city": "Warsaw",
+  "country": "Poland",
+  "placeId": "ChIJCzYm5OXMHkcRxOFYkRDxXw0",
+  "googleName": "Charlotte plac Zbawiciela",
+  "formattedAddress": "aleja Wyzwolenia 18/2U, 00-570 Warszawa, Poland",
+  "phone": "508 909 222",
+  "internationalPhone": "+48 508 909 222",
+  "website": "https://bistrocharlotte.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=963753898740867524",
+  "rating": 4.2,
+  "reviewCount": 6629,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.2200841,
+    21.0186388
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 8:00 AM – 1:00 AM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charlotte-warsaw/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charlotte-warsaw/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charlotte-warsaw/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charlotte-warsaw/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charlotte-warsaw/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:09:03.165Z"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "zalatimo-sweets-amman",
+  "name": "Zalatimo Sweets",
+  "curatedName": "Zalatimo Sweets",
+  "city": "Amman",
+  "country": "Jordan",
+  "placeId": "ChIJM8vS3olfGxURYyQE6SpGqAE",
+  "googleName": "Zalatimo Sweets",
+  "formattedAddress": "views، Suliman Al Nabulsi St, Amman, Jordan",
+  "phone": "07 7800 1193",
+  "internationalPhone": "+962 7 7800 1193",
+  "website": "https://zalatimosweets.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=119422540237251683",
+  "rating": 4.2,
+  "reviewCount": 1284,
+  "priceLevel": 3,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.9627354,
+    35.9098927
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 11:00 PM",
+    "Tuesday: 8:30 AM – 11:00 PM",
+    "Wednesday: 8:30 AM – 11:00 PM",
+    "Thursday: 8:30 AM – 11:00 PM",
+    "Friday: 8:30 AM – 11:00 PM",
+    "Saturday: 8:30 AM – 11:00 PM",
+    "Sunday: 8:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zalatimo-sweets-amman/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zalatimo-sweets-amman/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zalatimo-sweets-amman/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zalatimo-sweets-amman/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zalatimo-sweets-amman/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:50:02.971Z"
+}

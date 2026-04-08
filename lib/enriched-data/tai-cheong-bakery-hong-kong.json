@@ -1,0 +1,47 @@
+{
+  "slug": "tai-cheong-bakery-hong-kong",
+  "name": "Tai Cheong Bakery",
+  "curatedName": "Tai Cheong Bakery",
+  "city": "Hong Kong",
+  "country": "Hong Kong",
+  "placeId": "ChIJY0UbcnsABDQRGSLSUdFl1yI",
+  "googleName": "Tai Cheong Bakery",
+  "formattedAddress": "35號 Lyndhurst Terrace, Central, Hong Kong",
+  "phone": "8300 8301",
+  "internationalPhone": "+852 8300 8301",
+  "website": "http://www.taoheung.com.hk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2510587266977636889",
+  "rating": 3.9,
+  "reviewCount": 2928,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.282594,
+    114.153615
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 7:30 PM",
+    "Tuesday: 9:30 AM – 7:30 PM",
+    "Wednesday: 9:30 AM – 7:30 PM",
+    "Thursday: 9:30 AM – 7:30 PM",
+    "Friday: 9:30 AM – 7:30 PM",
+    "Saturday: 9:30 AM – 7:30 PM",
+    "Sunday: 9:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tai-cheong-bakery-hong-kong/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tai-cheong-bakery-hong-kong/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tai-cheong-bakery-hong-kong/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tai-cheong-bakery-hong-kong/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tai-cheong-bakery-hong-kong/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:47:00.822Z"
+}

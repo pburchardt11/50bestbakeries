@@ -1,0 +1,48 @@
+{
+  "slug": "bread-ahead-london",
+  "name": "Bread Ahead",
+  "curatedName": "Bread Ahead",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJBwCND1cDdkgR0uUFSNBwcvU",
+  "googleName": "Bread Ahead Bakery | Borough Market",
+  "formattedAddress": "Borough Market, Cathedral St, London SE1 9DE, UK",
+  "phone": "020 7403 5444",
+  "internationalPhone": "+44 20 7403 5444",
+  "website": "https://www.breadahead.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17686322726501213650",
+  "rating": 4.3,
+  "reviewCount": 2466,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.50578669999999,
+    -0.0904307
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-ahead-london/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-ahead-london/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-ahead-london/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-ahead-london/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-ahead-london/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:54:12.944Z"
+}

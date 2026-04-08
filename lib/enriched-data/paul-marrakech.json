@@ -1,0 +1,47 @@
+{
+  "slug": "paul-marrakech",
+  "name": "Paul Marrakech",
+  "curatedName": "Paul Marrakech",
+  "city": "مراكش",
+  "country": "Morocco",
+  "placeId": "ChIJyfqjKyDvrw0RmWDGY_oPRok",
+  "googleName": "Paul",
+  "formattedAddress": "Avenue Mohamed 6 Menara Mall, Marrakesh 40160, Morocco",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://rak-airport.com/paul/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9891611199656059033",
+  "rating": 3.1,
+  "reviewCount": 797,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.6014173,
+    -8.024937399999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:30 PM",
+    "Tuesday: 7:00 AM – 11:30 PM",
+    "Wednesday: 7:00 AM – 11:30 PM",
+    "Thursday: 7:00 AM – 11:30 PM",
+    "Friday: 7:00 AM – 11:30 PM",
+    "Saturday: 7:00 AM – 11:30 PM",
+    "Sunday: 7:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-marrakech/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-marrakech/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-marrakech/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-marrakech/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-marrakech/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:07:57.547Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "amano-bakery-auckland",
+  "name": "Amano Bakery",
+  "curatedName": "Amano Bakery",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJjz8Dgf5HDW0RcKfgUZdV8fw",
+  "googleName": "Amano",
+  "formattedAddress": "66 - 68, Tyler Street, Britomart Place, Auckland CBD, Auckland 1010, New Zealand",
+  "phone": "09 394 1416",
+  "internationalPhone": "+64 9 394 1416",
+  "website": "https://savor.co.nz/amano",
+  "googleMapsUrl": "https://maps.google.com/?cid=18226443275347208048",
+  "rating": 4.6,
+  "reviewCount": 4832,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -36.8444119,
+    174.770464
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Hip, bohemian, wood-&-brick restaurant & bakery serving locally sourced Italian cuisine.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amano-bakery-auckland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amano-bakery-auckland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amano-bakery-auckland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amano-bakery-auckland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amano-bakery-auckland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:08:18.794Z"
+}

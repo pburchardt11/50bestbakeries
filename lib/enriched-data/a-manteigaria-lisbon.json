@@ -1,0 +1,47 @@
+{
+  "slug": "a-manteigaria-lisbon",
+  "name": "A Manteigaria",
+  "curatedName": "A Manteigaria",
+  "city": "Lisbon",
+  "country": "Portugal",
+  "placeId": "ChIJcxYntH80GQ0RX2Him1Z7r-g",
+  "googleName": "Manteigaria",
+  "formattedAddress": "Rua do Loreto 2, 1200-108 Lisboa, Portugal",
+  "phone": "21 347 1492",
+  "internationalPhone": "+351 21 347 1492",
+  "website": "https://manteigaria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16766755549636354399",
+  "rating": 4.8,
+  "reviewCount": 10359,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.7108394,
+    -9.1440551
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": "Cozy specialist spotlighting tarts filled with egg custard & topped with cinnamon, plus coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-manteigaria-lisbon/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-manteigaria-lisbon/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-manteigaria-lisbon/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-manteigaria-lisbon/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-manteigaria-lisbon/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:01:28.582Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "fuente-alemana-santiago",
+  "name": "Fuente Alemana",
+  "curatedName": "Fuente Alemana",
+  "city": "Santiago",
+  "country": "Chile",
+  "placeId": "ChIJucK0VGfPYpYRIDXPDomTwJc",
+  "googleName": "Fuente Alemana",
+  "formattedAddress": "Av. Pedro de Valdivia 210, 7510248 Providencia, Región Metropolitana, Chile",
+  "phone": "(2) 2819 6825",
+  "internationalPhone": "+56 2 2819 6825",
+  "website": "https://fuentealemana.cl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10934902112123827488",
+  "rating": 4.5,
+  "reviewCount": 7634,
+  "priceLevel": 2,
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.4253797,
+    -70.6114439
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:45 PM",
+    "Tuesday: 10:00 AM – 9:45 PM",
+    "Wednesday: 10:00 AM – 9:45 PM",
+    "Thursday: 10:00 AM – 9:45 PM",
+    "Friday: 10:00 AM – 9:45 PM",
+    "Saturday: 10:30 AM – 9:45 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Easygoing operation with a terrace & a low-key vibe offering a menu of hearty sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fuente-alemana-santiago/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fuente-alemana-santiago/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fuente-alemana-santiago/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fuente-alemana-santiago/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fuente-alemana-santiago/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:04:46.205Z"
+}

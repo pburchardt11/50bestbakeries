@@ -1,0 +1,47 @@
+{
+  "slug": "farine-bakery-shanghai",
+  "name": "Farine Bakery",
+  "curatedName": "Farine Bakery",
+  "city": "Shanghai",
+  "country": "China",
+  "placeId": "ChIJN5fv1FNlsjURUJi-YEQf-3o",
+  "googleName": "SunFlour",
+  "formattedAddress": "China, Shang Hai Shi, Xu Hui Qu, An Fu Lu, 308号104室 邮政编码: 200031",
+  "phone": "021 6473 7757",
+  "internationalPhone": "+86 21 6473 7757",
+  "website": "http://www.sunflour.com.cn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8861711070322923600",
+  "rating": 4.5,
+  "reviewCount": 76,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.213353,
+    121.440585
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:30 PM",
+    "Tuesday: 8:00 AM – 9:30 PM",
+    "Wednesday: 8:00 AM – 9:30 PM",
+    "Thursday: 8:00 AM – 9:30 PM",
+    "Friday: 8:00 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: 8:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farine-bakery-shanghai/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farine-bakery-shanghai/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farine-bakery-shanghai/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farine-bakery-shanghai/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farine-bakery-shanghai/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:04:55.455Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "dona-deola-sao-paulo",
+  "name": "Dona Deôla",
+  "curatedName": "Dona Deôla",
+  "city": "São Paulo",
+  "country": "Brazil",
+  "placeId": "ChIJByafLoL4zpQRs_dav9zKixI",
+  "googleName": "Dona Deôla Bakery",
+  "formattedAddress": "R. Pio XI, 1377 - Lapa, São Paulo - SP, 05468-150, Brazil",
+  "phone": "(11) 3022-5640",
+  "internationalPhone": "+55 11 3022-5640",
+  "website": "http://www.donadeola.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1336384763897509811",
+  "rating": 4.2,
+  "reviewCount": 12491,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5355925,
+    -46.7141922
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "A casual bakery that serves sandwiches, lunch specials & a wide selection of breads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dona-deola-sao-paulo/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dona-deola-sao-paulo/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dona-deola-sao-paulo/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dona-deola-sao-paulo/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dona-deola-sao-paulo/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:04:18.359Z"
+}

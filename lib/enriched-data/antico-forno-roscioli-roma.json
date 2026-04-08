@@ -1,0 +1,48 @@
+{
+  "slug": "antico-forno-roscioli-roma",
+  "name": "Antico Forno Roscioli",
+  "curatedName": "Antico Forno Roscioli",
+  "city": "Roma",
+  "country": "Italy",
+  "placeId": "ChIJH7zhM09gLxMRE7MrwkvC6e8",
+  "googleName": "Antico Forno Roscioli",
+  "formattedAddress": "Via dei Chiavari, 34, 00186 Roma RM, Italy",
+  "phone": "06 686 4045",
+  "internationalPhone": "+39 06 686 4045",
+  "website": "http://www.anticofornoroscioli.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17287562275274339091",
+  "rating": 4.5,
+  "reviewCount": 7440,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.8945667,
+    12.4742778
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Renowned bakery & deli founded in 1972, popular for its crispy, thin-crust Roman-style pizzas.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antico-forno-roscioli-roma/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antico-forno-roscioli-roma/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antico-forno-roscioli-roma/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antico-forno-roscioli-roma/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antico-forno-roscioli-roma/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:17:53.177Z"
+}

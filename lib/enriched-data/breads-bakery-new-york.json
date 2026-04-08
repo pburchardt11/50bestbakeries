@@ -1,0 +1,48 @@
+{
+  "slug": "breads-bakery-new-york",
+  "name": "Breads Bakery",
+  "curatedName": "Breads Bakery",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJcWebfphZwokRRrPNZD7byJw",
+  "googleName": "Breads Bakery",
+  "formattedAddress": "18 E 16th St, New York, NY 10003, USA",
+  "phone": "(212) 633-2253",
+  "internationalPhone": "+1 212-633-2253",
+  "website": "https://restaurants.breadsbakery.com/en/bakery/new-york-16th-street/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11297520726284546886",
+  "rating": 4.6,
+  "reviewCount": 2469,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.73685649999999,
+    -73.9916831
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Bright, high-ceilinged bakery featuring handmade breads & baked goods, plus coffee & sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breads-bakery-new-york/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breads-bakery-new-york/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breads-bakery-new-york/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breads-bakery-new-york/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breads-bakery-new-york/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:20:59.066Z"
+}

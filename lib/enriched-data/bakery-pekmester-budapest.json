@@ -1,0 +1,47 @@
+{
+  "slug": "bakery-pekmester-budapest",
+  "name": "Bakery Pékmester",
+  "curatedName": "Bakery Pékmester",
+  "city": "Budapest",
+  "country": "Hungary",
+  "placeId": "ChIJaw_cGg_cQUcRZKpx9Zyscnw",
+  "googleName": "Prima Bakery",
+  "formattedAddress": "Budapest, Szent István krt. 6, 1137 Hungary",
+  "phone": "06 30 844 4034",
+  "internationalPhone": "+36 30 844 4034",
+  "website": "https://www.primapek.hu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8967419598180821604",
+  "rating": 4.4,
+  "reviewCount": 661,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.5128792,
+    19.0492694
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-pekmester-budapest/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-pekmester-budapest/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-pekmester-budapest/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-pekmester-budapest/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-pekmester-budapest/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:17:41.004Z"
+}

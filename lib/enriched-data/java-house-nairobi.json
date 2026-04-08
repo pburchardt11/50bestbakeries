@@ -1,0 +1,46 @@
+{
+  "slug": "java-house-nairobi",
+  "name": "Java House Nairobi",
+  "curatedName": "Java House Nairobi",
+  "city": "Nairobi",
+  "country": "Kenya",
+  "placeId": "ChIJ4YSfOtQQLxgRM5Pekaxj5F0",
+  "googleName": "Java House - Kimathi Street",
+  "formattedAddress": "Kimathi St, Nairobi, Kenya",
+  "phone": "0725 412164",
+  "internationalPhone": "+254 725 412164",
+  "website": "http://www.javahouseafrica.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6765642133050135347",
+  "rating": 4.3,
+  "reviewCount": 3152,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -1.283158,
+    36.8215711
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/java-house-nairobi/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/java-house-nairobi/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/java-house-nairobi/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/java-house-nairobi/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/java-house-nairobi/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:59:19.781Z"
+}

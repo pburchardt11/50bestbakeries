@@ -1,0 +1,49 @@
+{
+  "slug": "sullivan-street-bakery-new-york",
+  "name": "Sullivan Street Bakery",
+  "curatedName": "Sullivan Street Bakery",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJ7W7211FYwokRW_UVZTqGVFw",
+  "googleName": "Sullivan Street Bakery",
+  "formattedAddress": "533 W 47th St, New York, NY 10036, USA",
+  "phone": "(212) 265-5580",
+  "internationalPhone": "+1 212-265-5580",
+  "website": "http://www.sullivanstreetbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6653090134895228251",
+  "rating": 4.6,
+  "reviewCount": 805,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7636385,
+    -73.9947182
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Upscale bakery selling handcrafted Italian-inspired breads, including multigrain & sesame varieties.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sullivan-street-bakery-new-york/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sullivan-street-bakery-new-york/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sullivan-street-bakery-new-york/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sullivan-street-bakery-new-york/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sullivan-street-bakery-new-york/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:21:56.113Z"
+}

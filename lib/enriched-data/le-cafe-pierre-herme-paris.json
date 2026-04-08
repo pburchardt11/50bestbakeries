@@ -1,0 +1,48 @@
+{
+  "slug": "le-cafe-pierre-herme-paris",
+  "name": "Le Café Pierre Hermé",
+  "curatedName": "Le Café Pierre Hermé",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJwSt5EK1x5kcRo_VgEiFB2VE",
+  "googleName": "Café Pierre Hermé",
+  "formattedAddress": "126 Bd Saint-Germain, 75006 Paris, France",
+  "phone": "01 85 14 61 32",
+  "internationalPhone": "+33 1 85 14 61 32",
+  "website": "https://www.pierreherme.com/?utm_source=google&utm_medium=gmb&utm_campaign=202500018-google_my_business",
+  "googleMapsUrl": "https://maps.google.com/?cid=5897816797316445603",
+  "rating": 4.1,
+  "reviewCount": 999,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8524176,
+    2.3397108
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 8:00 PM",
+    "Tuesday: 9:30 AM – 8:00 PM",
+    "Wednesday: 9:30 AM – 8:00 PM",
+    "Thursday: 9:30 AM – 8:00 PM",
+    "Friday: 9:30 AM – 8:00 PM",
+    "Saturday: 9:30 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-cafe-pierre-herme-paris/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-cafe-pierre-herme-paris/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-cafe-pierre-herme-paris/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-cafe-pierre-herme-paris/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-cafe-pierre-herme-paris/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:12:55.532Z"
+}

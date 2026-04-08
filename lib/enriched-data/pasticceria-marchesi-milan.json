@@ -1,0 +1,47 @@
+{
+  "slug": "pasticceria-marchesi-milan",
+  "name": "Pasticceria Marchesi",
+  "curatedName": "Pasticceria Marchesi",
+  "city": "Milan",
+  "country": "Italy",
+  "placeId": "ChIJQykP363GhkcR57Ljx7fpoWw",
+  "googleName": "Marchesi 1824",
+  "formattedAddress": "Galleria Vittorio Emanuele II, 20121 Milano MI, Italy",
+  "phone": "02 9418 1710",
+  "internationalPhone": "+39 02 9418 1710",
+  "website": "https://www.marchesi1824.com/eu/it.html",
+  "googleMapsUrl": "https://maps.google.com/?cid=7827794602888508135",
+  "rating": 4.2,
+  "reviewCount": 2985,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4656209,
+    9.1900859
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-marchesi-milan/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-marchesi-milan/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-marchesi-milan/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-marchesi-milan/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-marchesi-milan/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:48:15.282Z"
+}

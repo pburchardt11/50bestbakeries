@@ -1,0 +1,45 @@
+{
+  "slug": "al-faisaliah-bakery-riyadh",
+  "name": "Al Faisaliah Bakery",
+  "curatedName": "Al Faisaliah Bakery",
+  "city": "Riyadh",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJHVJUQ0cDLz4RYb2NLYOUnOU",
+  "googleName": "Al Faisaliah Mall",
+  "formattedAddress": "Olaya St, Al Olaya, Riyadh 12212, Saudi Arabia",
+  "phone": "011 273 4083",
+  "internationalPhone": "+966 11 273 4083",
+  "website": "https://alfaisaliahmall.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16545262422178250081",
+  "rating": 4.2,
+  "reviewCount": 8861,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "shopping_mall"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.6899662,
+    46.6867455
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 1:30 – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-faisaliah-bakery-riyadh/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-faisaliah-bakery-riyadh/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-faisaliah-bakery-riyadh/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-faisaliah-bakery-riyadh/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-faisaliah-bakery-riyadh/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:52:34.302Z"
+}

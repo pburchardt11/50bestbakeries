@@ -1,0 +1,42 @@
+{
+  "slug": "musmanni-alajuela",
+  "name": "Musmanni",
+  "curatedName": "Musmanni",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJjYBM1Pr5oI8R7vdtc024gXs",
+  "googleName": "Musmanni",
+  "formattedAddress": "C. 9 Anastasio Alfaro, Provincia de Alajuela, Alajuela, Agonía, Costa Rica",
+  "phone": "2440 2225",
+  "internationalPhone": "+506 2440 2225",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8899596981449390062",
+  "rating": 4.6,
+  "reviewCount": 154,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.0177703,
+    -84.2093763
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 8:00 PM",
+    "Tuesday: 5:00 AM – 8:00 PM",
+    "Wednesday: 5:00 AM – 8:00 PM",
+    "Thursday: 5:00 AM – 8:00 PM",
+    "Friday: 5:00 AM – 8:00 PM",
+    "Saturday: 5:00 AM – 8:00 PM",
+    "Sunday: 5:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T08:44:53.630Z"
+}

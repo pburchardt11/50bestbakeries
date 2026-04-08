@@ -1,0 +1,47 @@
+{
+  "slug": "antoninovo-pekarstvi-prague",
+  "name": "Antonínovo pekařství",
+  "curatedName": "Antonínovo pekařství",
+  "city": "Prague",
+  "country": "Czech Republic",
+  "placeId": "ChIJu_8w6ZyUC0cR0P9Aypbx1xY",
+  "googleName": "Antonínovo pekařství",
+  "formattedAddress": "Laubova 1689/4, Vinohrady, 130 00 Praha-Praha 3, Czechia",
+  "phone": "605 202 861",
+  "internationalPhone": "+420 605 202 861",
+  "website": "http://www.antoninovopekarstvi.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1646049818767851472",
+  "rating": 4.5,
+  "reviewCount": 2271,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.07891129999999,
+    14.4504047
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 7:30 PM",
+    "Sunday: 7:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antoninovo-pekarstvi-prague/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antoninovo-pekarstvi-prague/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antoninovo-pekarstvi-prague/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antoninovo-pekarstvi-prague/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antoninovo-pekarstvi-prague/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:45:12.740Z"
+}

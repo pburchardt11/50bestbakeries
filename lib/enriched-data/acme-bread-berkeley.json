@@ -1,0 +1,47 @@
+{
+  "slug": "acme-bread-berkeley",
+  "name": "Acme Bread",
+  "curatedName": "Acme Bread",
+  "city": "Berkeley",
+  "country": "United States",
+  "placeId": "ChIJcSjwf8Z-hYARu81RUdsuexQ",
+  "googleName": "Acme Bread",
+  "formattedAddress": "1601 San Pablo Ave, Berkeley, CA 94702, USA",
+  "phone": "(510) 524-1021",
+  "internationalPhone": "+1 510-524-1021",
+  "website": "http://www.acmebread.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1475824822391000507",
+  "rating": 4.8,
+  "reviewCount": 1361,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.8751319,
+    -122.2935774
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Popular bakery founded in 1983 known for its whole-grain, gourmet & specialty breads & rolls.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/acme-bread-berkeley/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/acme-bread-berkeley/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/acme-bread-berkeley/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/acme-bread-berkeley/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/acme-bread-berkeley/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:03:15.804Z"
+}

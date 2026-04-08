@@ -1,0 +1,48 @@
+{
+  "slug": "mysak-prague",
+  "name": "Myšák",
+  "curatedName": "Myšák",
+  "city": "Prague",
+  "country": "Czech Republic",
+  "placeId": "ChIJYT1NcO2UC0cR03eqsnhLS1I",
+  "googleName": "Cukrarna Mysak",
+  "formattedAddress": "710/31, Vodičkova, Nové Město, 110 00 Praha-Praha 1, Czechia",
+  "phone": "730 589 249",
+  "internationalPhone": "+420 730 589 249",
+  "website": "https://www.mysak.ambi.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5929916316129064915",
+  "rating": 4.2,
+  "reviewCount": 2962,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.0812557,
+    14.4247099
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Elegant coffee & pastry shop open since 1911 for breakfasts & sweet treats like croissants.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mysak-prague/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mysak-prague/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mysak-prague/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mysak-prague/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mysak-prague/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:56:28.896Z"
+}

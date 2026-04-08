@@ -1,0 +1,47 @@
+{
+  "slug": "juno-the-bakery-k-benhavn",
+  "name": "Juno the bakery",
+  "curatedName": "Juno the bakery",
+  "city": "København",
+  "country": "Denmark",
+  "placeId": "ChIJF5yoNfBSUkYRFjOQZdocHAE",
+  "googleName": "Juno the bakery",
+  "formattedAddress": "Århusgade 48, 2100 København, Denmark",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.junothebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=79970617718223638",
+  "rating": 4.7,
+  "reviewCount": 3800,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    55.7061815,
+    12.5818152
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/juno-the-bakery-k-benhavn/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/juno-the-bakery-k-benhavn/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/juno-the-bakery-k-benhavn/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/juno-the-bakery-k-benhavn/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/juno-the-bakery-k-benhavn/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:45:25.723Z"
+}

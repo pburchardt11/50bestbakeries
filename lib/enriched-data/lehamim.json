@@ -1,0 +1,50 @@
+{
+  "slug": "lehamim",
+  "name": "Lehamim",
+  "curatedName": "Lehamim",
+  "city": "תל אביב - יפו",
+  "country": "Israel",
+  "placeId": "ChIJ5bnfD3hLHRUR_16EL0XKrmo",
+  "googleName": "Lehamim",
+  "formattedAddress": "HaHashmonaim St 103, Tel Aviv-Yafo, 67133, Israel",
+  "phone": "03-561-8111",
+  "internationalPhone": "+972 3-561-8111",
+  "website": "https://www.lehamim.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7687304012466773759",
+  "rating": 4.4,
+  "reviewCount": 4082,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.0697402,
+    34.7843627
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lehamim/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lehamim/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lehamim/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lehamim/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lehamim/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:48:05.395Z"
+}

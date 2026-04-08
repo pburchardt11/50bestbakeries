@@ -1,0 +1,49 @@
+{
+  "slug": "bakari-sandholt-reykjavik",
+  "name": "Bakarí Sandholt",
+  "curatedName": "Bakarí Sandholt",
+  "city": "Reykjavík",
+  "country": "Iceland",
+  "placeId": "ChIJS3A1x8d01kgRQF2oXQG-4qk",
+  "googleName": "Sandholt",
+  "formattedAddress": "Laugavegur 36, 101 Reykjavík, Iceland",
+  "phone": "551 3524",
+  "internationalPhone": "+354 551 3524",
+  "website": "http://sandholt.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12241555650221989184",
+  "rating": 4.6,
+  "reviewCount": 4174,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    64.145055,
+    -21.926318
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Down-to-earth eatery serving breakfast staples, sandwiches & pastries, plus coffee & organic wines.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakari-sandholt-reykjavik/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakari-sandholt-reykjavik/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakari-sandholt-reykjavik/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakari-sandholt-reykjavik/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakari-sandholt-reykjavik/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:06:27.282Z"
+}

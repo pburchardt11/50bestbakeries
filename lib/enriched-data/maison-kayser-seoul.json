@@ -1,0 +1,47 @@
+{
+  "slug": "maison-kayser-seoul",
+  "name": "Maison Kayser Seoul",
+  "curatedName": "Maison Kayser Seoul",
+  "city": "Seoul",
+  "country": "South Korea",
+  "placeId": "ChIJhU9H4MCf4jARbeMzFbWx-7g",
+  "googleName": "Eric Kayser Emquartier",
+  "formattedAddress": "G Floor, 693 695, ถ. สุขุมวิท แขวงคลองตันเหนือ เขตวัฒนา กรุงเทพมหานคร 10110, Thailand",
+  "phone": "087 519 6169",
+  "internationalPhone": "+66 87 519 6169",
+  "website": "https://www.facebook.com/MaisonEricKayserThailand/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13329442913436033901",
+  "rating": 3.5,
+  "reviewCount": 56,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.73201,
+    100.5694938
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-kayser-seoul/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-kayser-seoul/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-kayser-seoul/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-kayser-seoul/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-kayser-seoul/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:18:43.493Z"
+}

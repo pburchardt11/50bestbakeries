@@ -1,0 +1,42 @@
+{
+  "slug": "demel-vienna",
+  "name": "Demel",
+  "curatedName": "Demel",
+  "city": "Vienna",
+  "country": "Austria",
+  "placeId": "ChIJiY3_UpgHbUcRWCIbHu4EWXY",
+  "googleName": "Demel Vienna cafe",
+  "formattedAddress": "Kohlmarkt 14, 1010 Wien, Austria",
+  "phone": "01 5351717",
+  "internationalPhone": "+43 1 5351717",
+  "website": "https://www.demel.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8527852790156567128",
+  "rating": 4.2,
+  "reviewCount": 20850,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.2085962,
+    16.3672185
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Graceful 1888 salon serving specialties such as cream cakes, scones & strudels, with shady terrace.",
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T08:43:48.950Z"
+}

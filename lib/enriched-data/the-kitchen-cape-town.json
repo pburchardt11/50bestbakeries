@@ -1,0 +1,32 @@
+{
+  "slug": "the-kitchen-cape-town",
+  "name": "The Kitchen",
+  "curatedName": "The Kitchen",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "placeId": "ChIJ61HRu_1dzB0RJ4SL6q6jAko",
+  "googleName": "The Kitchen Cape Town",
+  "formattedAddress": "1 Chatham Rd, Observatory, Cape Town, 7925, South Africa",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5333004880414737447",
+  "rating": 3.7,
+  "reviewCount": 3,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.9306456,
+    18.4679767
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T09:01:47.308Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "cukiernia-sowa-bydgoszcz",
+  "name": "Cukiernia Sowa",
+  "curatedName": "Cukiernia Sowa",
+  "city": "Bydgoszcz",
+  "country": "Poland",
+  "placeId": "ChIJBbR1jLsTA0cRxjTLkdFUz2Q",
+  "googleName": "Cukiernia Sowa",
+  "formattedAddress": "Mostowa 5, 85-110 Bydgoszcz, Poland",
+  "phone": "693 994 439",
+  "internationalPhone": "+48 693 994 439",
+  "website": "http://www.cukierniasowa.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7264117983042811078",
+  "rating": 4.3,
+  "reviewCount": 1261,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.1225859,
+    18.0008064
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cukiernia-sowa-bydgoszcz/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cukiernia-sowa-bydgoszcz/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cukiernia-sowa-bydgoszcz/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cukiernia-sowa-bydgoszcz/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cukiernia-sowa-bydgoszcz/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:01:17.467Z"
+}

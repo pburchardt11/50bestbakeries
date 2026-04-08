@@ -1,0 +1,48 @@
+{
+  "slug": "apres-bakery-bangkok",
+  "name": "Après Bakery",
+  "curatedName": "Après Bakery",
+  "city": "Bangkok",
+  "country": "Thailand",
+  "placeId": "ChIJiWeQPu-f4jARWVUZ6NhGzFc",
+  "googleName": "Nine Pastry",
+  "formattedAddress": "615 Sukhumvit Soi 22, Khwaeng Khlong Tan, Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand",
+  "phone": "065 038 3636",
+  "internationalPhone": "+66 65 038 3636",
+  "website": "https://nnetzer5.wixsite.com/nine-pastry",
+  "googleMapsUrl": "https://maps.google.com/?cid=6326509473969558873",
+  "rating": 4.8,
+  "reviewCount": 499,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.7220313,
+    100.5647485
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/apres-bakery-bangkok/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/apres-bakery-bangkok/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/apres-bakery-bangkok/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/apres-bakery-bangkok/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/apres-bakery-bangkok/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:15:40.180Z"
+}

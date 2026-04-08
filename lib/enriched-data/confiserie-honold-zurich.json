@@ -1,0 +1,40 @@
+{
+  "slug": "confiserie-honold-zurich",
+  "name": "Confiserie Honold",
+  "curatedName": "Confiserie Honold",
+  "city": "Zürich",
+  "country": "Switzerland",
+  "placeId": "ChIJT3DM-gYKkEcRT4Cy8FbMz6o",
+  "googleName": "Honold Tea Room, Zurich",
+  "formattedAddress": "Rennweg 53, 8001 Zürich, Switzerland",
+  "phone": "044 211 52 58",
+  "internationalPhone": "+41 44 211 52 58",
+  "website": "http://www.honold.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12308280980404338767",
+  "rating": 4,
+  "reviewCount": 639,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_TEMPORARILY",
+  "coords": [
+    47.37358709999999,
+    8.538890799999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confiserie-honold-zurich/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confiserie-honold-zurich/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confiserie-honold-zurich/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confiserie-honold-zurich/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confiserie-honold-zurich/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:02:27.979Z"
+}

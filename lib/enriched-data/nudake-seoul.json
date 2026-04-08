@@ -1,0 +1,38 @@
+{
+  "slug": "nudake-seoul",
+  "name": "Nudake",
+  "curatedName": "Nudake",
+  "city": "Seoul",
+  "country": "South Korea",
+  "placeId": "ChIJ0W3WzWWjfDURg5fIIEEWubU",
+  "googleName": "Nudake",
+  "formattedAddress": "43 Gangnam-daero 162-gil, Gangnam District, Seoul, South Korea",
+  "phone": "070-4177-6977",
+  "internationalPhone": "+82 70-4177-6977",
+  "website": "http://www.instagram.com/nu_dake",
+  "googleMapsUrl": "https://maps.google.com/?cid=13094521860535129987",
+  "rating": 4,
+  "reviewCount": 367,
+  "priceLevel": null,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    37.5210489,
+    127.0218163
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nudake-seoul/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nudake-seoul/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nudake-seoul/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nudake-seoul/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nudake-seoul/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:15:05.377Z"
+}

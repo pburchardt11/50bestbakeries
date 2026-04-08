@@ -1,0 +1,47 @@
+{
+  "slug": "andersen-maillard-k-benhavn",
+  "name": "Andersen & Maillard",
+  "curatedName": "Andersen & Maillard",
+  "city": "København",
+  "country": "Denmark",
+  "placeId": "ChIJYe9uWEhSUkYRrfz6VFPzf5M",
+  "googleName": "Andersen & Maillard",
+  "formattedAddress": "Nørrebrogade 62, 2200 København N, Denmark",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.andersenmaillard.dk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10628481184851229869",
+  "rating": 4.4,
+  "reviewCount": 1977,
+  "priceLevel": 2,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    55.6903659,
+    12.5551042
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/andersen-maillard-k-benhavn/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/andersen-maillard-k-benhavn/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/andersen-maillard-k-benhavn/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/andersen-maillard-k-benhavn/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/andersen-maillard-k-benhavn/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:17:00.168Z"
+}

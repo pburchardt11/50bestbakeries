@@ -1,0 +1,48 @@
+{
+  "slug": "the-firehouse-delgany",
+  "name": "The Firehouse",
+  "curatedName": "The Firehouse",
+  "city": "Delgany",
+  "country": "Ireland",
+  "placeId": "ChIJZ5KgqESvZ0gRR85xt1Naa5M",
+  "googleName": "Firehouse Bakery and Cafe",
+  "formattedAddress": "Old Delgany Inn, Delgany, Co. Wicklow, Ireland",
+  "phone": "(01) 287 6824",
+  "internationalPhone": "+353 1 287 6824",
+  "website": "https://thefirehouse.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10622683461689921095",
+  "rating": 4.7,
+  "reviewCount": 828,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.1327222,
+    -6.0935386
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 4:00 PM",
+    "Tuesday: 8:30 AM – 4:00 PM",
+    "Wednesday: 8:30 AM – 4:00 PM",
+    "Thursday: 8:30 AM – 4:00 PM",
+    "Friday: 8:30 AM – 4:00 PM",
+    "Saturday: 8:30 AM – 4:00 PM",
+    "Sunday: 8:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-firehouse-delgany/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-firehouse-delgany/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-firehouse-delgany/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-firehouse-delgany/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-firehouse-delgany/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:58:28.394Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "bakkerij-van-dijk-lexmond",
+  "name": "Bakkerij Van Dijk",
+  "curatedName": "Bakkerij Van Dijk",
+  "city": "Lexmond",
+  "country": "Netherlands",
+  "placeId": "ChIJJV6H5BhjxkcRNLqGEmarFi0",
+  "googleName": "Bakery van Dijk",
+  "formattedAddress": "Dorpsstraat 56, 4128 BZ Lexmond, Netherlands",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3248972636080224820",
+  "rating": 4.7,
+  "reviewCount": 80,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    51.963579,
+    5.0368059
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-van-dijk-lexmond/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-van-dijk-lexmond/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-van-dijk-lexmond/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-van-dijk-lexmond/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-van-dijk-lexmond/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:08:08.996Z"
+}

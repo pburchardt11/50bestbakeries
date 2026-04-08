@@ -1,0 +1,47 @@
+{
+  "slug": "simit-saray-istanbul",
+  "name": "Simit Sarayı",
+  "curatedName": "Simit Sarayı",
+  "city": "Istanbul",
+  "country": "Turkey",
+  "placeId": "ChIJHcPKg-y5yhQR62WlMsm3jtY",
+  "googleName": "Simit Sarayı Sirkeci",
+  "formattedAddress": "Hobyar, Ankara Cd. No:69, 34112 Fatih/İstanbul, Türkiye",
+  "phone": "444 8 768",
+  "internationalPhone": "+90 4448768",
+  "website": "https://www.simitsarayi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15460496645575501291",
+  "rating": 3.4,
+  "reviewCount": 1954,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0153475,
+    28.9756607
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simit-saray-istanbul/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simit-saray-istanbul/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simit-saray-istanbul/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simit-saray-istanbul/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simit-saray-istanbul/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:53:51.631Z"
+}

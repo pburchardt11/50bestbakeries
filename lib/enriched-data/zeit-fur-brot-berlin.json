@@ -1,0 +1,48 @@
+{
+  "slug": "zeit-fur-brot-berlin",
+  "name": "Zeit für Brot",
+  "curatedName": "Zeit für Brot",
+  "city": "Berlin",
+  "country": "Germany",
+  "placeId": "ChIJyTPda-JRqEcRFHRtJJAZIwE",
+  "googleName": "Zeit für Brot",
+  "formattedAddress": "Alte Schönhauser Str. 4, 10119 Berlin, Germany",
+  "phone": "030 28046780",
+  "internationalPhone": "+49 30 28046780",
+  "website": "https://zeitfuerbrot.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=81937325099938836",
+  "rating": 4.6,
+  "reviewCount": 5774,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.5280152,
+    13.4086068
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zeit-fur-brot-berlin/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zeit-fur-brot-berlin/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zeit-fur-brot-berlin/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zeit-fur-brot-berlin/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zeit-fur-brot-berlin/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:57:20.186Z"
+}

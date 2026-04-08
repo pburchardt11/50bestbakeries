@@ -1,0 +1,49 @@
+{
+  "slug": "dominique-ansel-bakery-new-york",
+  "name": "Dominique Ansel Bakery",
+  "curatedName": "Dominique Ansel Bakery",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJP0KOWoxZwokRmvPiQAIaH1A",
+  "googleName": "Dominique Ansel Bakery",
+  "formattedAddress": "189 Spring St, New York, NY 10012, USA",
+  "phone": "(212) 219-2773",
+  "internationalPhone": "+1 212-219-2773",
+  "website": "http://www.dominiqueanselny.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5773361844293137306",
+  "rating": 4.3,
+  "reviewCount": 9055,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7252509,
+    -74.0028734
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "This bakery-cafe headed by pastry chef Dominique Ansel serves up creative & beautiful French treats.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dominique-ansel-bakery-new-york/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dominique-ansel-bakery-new-york/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dominique-ansel-bakery-new-york/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dominique-ansel-bakery-new-york/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dominique-ansel-bakery-new-york/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:11:06.731Z"
+}

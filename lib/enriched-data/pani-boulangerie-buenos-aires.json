@@ -1,0 +1,41 @@
+{
+  "slug": "pani-boulangerie-buenos-aires",
+  "name": "Pani Boulangerie",
+  "curatedName": "Pani Boulangerie",
+  "city": "Buenos Aires",
+  "country": "Argentina",
+  "placeId": "ChIJW68K4fnLvJURNmsNvDsGmLo",
+  "googleName": "La Pani - Panadería Artesanal",
+  "formattedAddress": "Luis Viale 350, C1414 Cdad. Autónoma de Buenos Aires, Argentina",
+  "phone": "011 7154-5223",
+  "internationalPhone": "+54 11 7154-5223",
+  "website": "http://www.lapani.com.ar/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13445503541142448950",
+  "rating": 4.7,
+  "reviewCount": 274,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.6038998,
+    -58.4463021
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T08:43:26.091Z"
+}

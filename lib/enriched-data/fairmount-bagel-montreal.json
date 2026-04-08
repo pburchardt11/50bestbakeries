@@ -1,0 +1,41 @@
+{
+  "slug": "fairmount-bagel-montreal",
+  "name": "Fairmount Bagel",
+  "curatedName": "Fairmount Bagel",
+  "city": "Montréal",
+  "country": "Canada",
+  "placeId": "ChIJ57_mPn4ZyUwRrTzWcGWXR9I",
+  "googleName": "Fairmount Bagel",
+  "formattedAddress": "74 Av. Fairmount O, Montréal, QC H2T 2M2, Canada",
+  "phone": "(514) 272-0667",
+  "internationalPhone": "+1 514-272-0667",
+  "website": "http://www.fairmountbagel.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15152245933251902637",
+  "rating": 4.6,
+  "reviewCount": 5935,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5228777,
+    -73.59517050000001
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "Well-known bakery doling out varied flavors of bagels topped with cream cheese, plus other bites.",
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T08:44:21.323Z"
+}

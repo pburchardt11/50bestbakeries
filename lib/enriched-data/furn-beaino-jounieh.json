@@ -1,0 +1,48 @@
+{
+  "slug": "furn-beaino-jounieh",
+  "name": "Furn Beaino",
+  "curatedName": "Furn Beaino",
+  "city": "Jounieh",
+  "country": "Lebanon",
+  "placeId": "ChIJLS5YLpFAHxURoN4JMCCqHnA",
+  "googleName": "Furn Beaino - فرن بعينو",
+  "formattedAddress": "XJHG+W76, Sarba, Lebanon",
+  "phone": "09 225 544",
+  "internationalPhone": "+961 9 225 544",
+  "website": "http://www.furnbeaino.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8079081836770877088",
+  "rating": 4.6,
+  "reviewCount": 794,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.9797955,
+    35.6256368
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/furn-beaino-jounieh/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/furn-beaino-jounieh/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/furn-beaino-jounieh/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/furn-beaino-jounieh/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/furn-beaino-jounieh/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:59:30.503Z"
+}

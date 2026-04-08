@@ -1,0 +1,49 @@
+{
+  "slug": "ekberg-helsinki",
+  "name": "Ekberg",
+  "curatedName": "Ekberg",
+  "city": "Helsinki",
+  "country": "Finland",
+  "placeId": "ChIJX0yYSMoLkkYRkoWHzOoxqSs",
+  "googleName": "Ekberg 1852",
+  "formattedAddress": "Bulevardi 9, 00120 Helsinki, Finland",
+  "phone": "09 6811860",
+  "internationalPhone": "+358 9 6811860",
+  "website": "https://www.ekberg.fi/fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3146100699218544018",
+  "rating": 4.2,
+  "reviewCount": 3190,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    60.1647222,
+    24.9377778
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ekberg-helsinki/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ekberg-helsinki/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ekberg-helsinki/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ekberg-helsinki/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ekberg-helsinki/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:46:12.525Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "niiche-accra",
+  "name": "Niiche",
+  "curatedName": "Niiche",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJsU62KOOa3w8RoXnX2XCeQnc",
+  "googleName": "Niche",
+  "formattedAddress": "One, Airport Rd, Accra, Ghana",
+  "phone": "024 638 0057",
+  "internationalPhone": "+233 24 638 0057",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8593605246504630689",
+  "rating": 4.1,
+  "reviewCount": 29,
+  "priceLevel": null,
+  "types": [
+    "department_store",
+    "establishment",
+    "furniture_store",
+    "general_contractor",
+    "home_goods_store",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    5.6007626,
+    -0.176754
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 12:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/niiche-accra/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/niiche-accra/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/niiche-accra/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/niiche-accra/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/niiche-accra/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:46:35.888Z"
+}

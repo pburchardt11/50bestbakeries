@@ -1,0 +1,48 @@
+{
+  "slug": "daily-bread-auckland",
+  "name": "Daily Bread",
+  "curatedName": "Daily Bread",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJfRsBZg5HDW0Rl4zNEbPh_58",
+  "googleName": "Daily Bread — Britomart",
+  "formattedAddress": "Hayman Kronfeld Building 13 Galway Street, Britomart, Auckland 1010, New Zealand",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://dailybread.co.nz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11529181730305838231",
+  "rating": 4.2,
+  "reviewCount": 545,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -36.8446174,
+    174.7674943
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/daily-bread-auckland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/daily-bread-auckland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/daily-bread-auckland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/daily-bread-auckland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/daily-bread-auckland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:51:24.868Z"
+}

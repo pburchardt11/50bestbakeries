@@ -1,0 +1,47 @@
+{
+  "slug": "confeitaria-nacional-lisbon",
+  "name": "Confeitaria Nacional",
+  "curatedName": "Confeitaria Nacional",
+  "city": "Lisbon",
+  "country": "Portugal",
+  "placeId": "ChIJvYd_nHg0GQ0R4705aijT_s4",
+  "googleName": "Confeitaria Nacional",
+  "formattedAddress": "Praça da Figueira 18B, 1100-241 Lisboa, Portugal",
+  "phone": "21 342 4470",
+  "internationalPhone": "+351 21 342 4470",
+  "website": "https://confeitarianacional.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14915591186431983075",
+  "rating": 4.2,
+  "reviewCount": 5950,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.7131861,
+    -9.1379474
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-nacional-lisbon/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-nacional-lisbon/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-nacional-lisbon/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-nacional-lisbon/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-nacional-lisbon/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:09:14.088Z"
+}

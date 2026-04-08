@@ -1,0 +1,44 @@
+{
+  "slug": "united-bakeries-rud",
+  "name": "United Bakeries",
+  "curatedName": "United Bakeries",
+  "city": "Rud",
+  "country": "Norway",
+  "placeId": "ChIJIfM2JqATQUYR_K4wAdoN5hQ",
+  "googleName": "United Bakeries Norway AS",
+  "formattedAddress": "Rudssletta 35, 1351 Rud, Norway",
+  "phone": "67 17 78 80",
+  "internationalPhone": "+47 67 17 78 80",
+  "website": "http://www.united-bakeries.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1505906355376008956",
+  "rating": 4.4,
+  "reviewCount": 32,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.9100494,
+    10.4931537
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/united-bakeries-rud/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/united-bakeries-rud/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/united-bakeries-rud/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/united-bakeries-rud/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/united-bakeries-rud/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:14:34.157Z"
+}

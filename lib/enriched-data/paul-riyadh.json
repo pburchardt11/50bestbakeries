@@ -1,0 +1,49 @@
+{
+  "slug": "paul-riyadh",
+  "name": "Paul Riyadh",
+  "curatedName": "Paul Riyadh",
+  "city": "Riyadh",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJSyzNEjwDLz4RYQFqWPORTwQ",
+  "googleName": "PAUL Bakery & Restaurant",
+  "formattedAddress": "Prince Muhammad Ibn Abd Al Aziz, Al Olaya, Riyadh 12222, Saudi Arabia",
+  "phone": "011 462 7096",
+  "internationalPhone": "+966 11 462 7096",
+  "website": "http://paularabia.com/?y_source=1_ODI2MTQ5MTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://maps.google.com/?cid=310627373658276193",
+  "rating": 4.4,
+  "reviewCount": 6638,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.6971168,
+    46.6865059
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-riyadh/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-riyadh/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-riyadh/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-riyadh/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-riyadh/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:01:37.448Z"
+}

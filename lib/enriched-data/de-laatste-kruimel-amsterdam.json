@@ -1,0 +1,48 @@
+{
+  "slug": "de-laatste-kruimel-amsterdam",
+  "name": "De Laatste Kruimel",
+  "curatedName": "De Laatste Kruimel",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "placeId": "ChIJjy0uX8AJxkcRklJiMCk_ymE",
+  "googleName": "De Laatste Kruimel",
+  "formattedAddress": "Langebrugsteeg 4, 1012 GB Amsterdam, Netherlands",
+  "phone": "020 423 0499",
+  "internationalPhone": "+31 20 423 0499",
+  "website": "https://delaatstekruimel.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7046514013112521362",
+  "rating": 4.6,
+  "reviewCount": 2691,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.3692405,
+    4.8929958
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-laatste-kruimel-amsterdam/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-laatste-kruimel-amsterdam/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-laatste-kruimel-amsterdam/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-laatste-kruimel-amsterdam/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-laatste-kruimel-amsterdam/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:14:22.341Z"
+}

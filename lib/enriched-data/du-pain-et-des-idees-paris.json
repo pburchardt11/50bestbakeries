@@ -1,0 +1,47 @@
+{
+  "slug": "du-pain-et-des-idees-paris",
+  "name": "Du Pain et des Idées",
+  "curatedName": "Du Pain et des Idées",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJBTgW_Atu5kcRE1YZZIA4EzQ",
+  "googleName": "Du Pain et des Idées",
+  "formattedAddress": "34 Rue Yves Toudic, 75010 Paris, France",
+  "phone": "01 42 40 44 52",
+  "internationalPhone": "+33 1 42 40 44 52",
+  "website": "http://dupainetdesidees.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3752405038616106515",
+  "rating": 4.3,
+  "reviewCount": 4206,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8712453,
+    2.3628904
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Traditional French pastries & signature \"pain des amis\" bread in an 1875 shop with painted ceilings.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/du-pain-et-des-idees-paris/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/du-pain-et-des-idees-paris/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/du-pain-et-des-idees-paris/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/du-pain-et-des-idees-paris/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/du-pain-et-des-idees-paris/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:57:09.803Z"
+}

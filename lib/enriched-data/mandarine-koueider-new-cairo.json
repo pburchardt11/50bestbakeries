@@ -1,0 +1,48 @@
+{
+  "slug": "mandarine-koueider-new-cairo",
+  "name": "Mandarine Koueider",
+  "curatedName": "Mandarine Koueider",
+  "city": "New Cairo",
+  "country": "Egypt",
+  "placeId": "ChIJd_cZ7O88WBQRq_xMXcixY0w",
+  "googleName": "Mandarine Koueider",
+  "formattedAddress": "Plot A, El Tesaeen St City Center، 2C96+4PX, S Teseen, New Cairo 1, Cairo Governorate 4730101, Egypt",
+  "phone": "012 25444447",
+  "internationalPhone": "+20 12 25444447",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5504438643693780139",
+  "rating": 4.4,
+  "reviewCount": 1542,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.0178634,
+    31.4118493
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mandarine-koueider-new-cairo/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mandarine-koueider-new-cairo/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mandarine-koueider-new-cairo/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mandarine-koueider-new-cairo/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mandarine-koueider-new-cairo/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:56:50.557Z"
+}

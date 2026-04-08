@@ -1,0 +1,48 @@
+{
+  "slug": "cukiernia-a-blikle-warszawa",
+  "name": "Cukiernia A. Blikle",
+  "curatedName": "Cukiernia A. Blikle",
+  "city": "Warszawa",
+  "country": "Poland",
+  "placeId": "ChIJOzZJ0fXMHkcRr099xnsHDAY",
+  "googleName": "A.Blikle",
+  "formattedAddress": "Nowy Świat 33, 00-029 Warszawa, Poland",
+  "phone": "669 609 706",
+  "internationalPhone": "+48 669 609 706",
+  "website": "https://www.blikle.pl/?utm_medium=organic&utm_source=google_maps&utm_campaign=google_maps&utm_content=web_url",
+  "googleMapsUrl": "https://maps.google.com/?cid=435731492140568495",
+  "rating": 4.1,
+  "reviewCount": 2183,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.2335258,
+    21.0191449
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Coffee & pastries in an old-school cafe/patisserie established by the Blikle family in 1869.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cukiernia-a-blikle-warszawa/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cukiernia-a-blikle-warszawa/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cukiernia-a-blikle-warszawa/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cukiernia-a-blikle-warszawa/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cukiernia-a-blikle-warszawa/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:52:15.086Z"
+}

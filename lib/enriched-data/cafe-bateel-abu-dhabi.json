@@ -1,0 +1,47 @@
+{
+  "slug": "cafe-bateel-abu-dhabi",
+  "name": "Café Bateel Abu Dhabi",
+  "curatedName": "Café Bateel Abu Dhabi",
+  "city": "Abu Dhabi",
+  "country": "United Arab Emirates",
+  "placeId": "ChIJpVqIuetlXj4RQThC8HYMZJ8",
+  "googleName": "Café Bateel",
+  "formattedAddress": "Nation Towers - 1st Floor - F12Corniche Rd - Al Bateen - W44 - Abu Dhabi - United Arab Emirates",
+  "phone": "02 635 9145",
+  "internationalPhone": "+971 2 635 9145",
+  "website": "https://www.bateel.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11485318654678153281",
+  "rating": 4.4,
+  "reviewCount": 695,
+  "priceLevel": 2,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.4646885,
+    54.3285131
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-bateel-abu-dhabi/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-bateel-abu-dhabi/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-bateel-abu-dhabi/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-bateel-abu-dhabi/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-bateel-abu-dhabi/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:15:48.008Z"
+}

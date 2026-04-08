@@ -1,0 +1,49 @@
+{
+  "slug": "john-baker-zurich",
+  "name": "John Baker",
+  "curatedName": "John Baker",
+  "city": "Zürich",
+  "country": "Switzerland",
+  "placeId": "ChIJe13hoqygmkcRsd2iB2ztZvg",
+  "googleName": "John Baker",
+  "formattedAddress": "Stadelhoferstrasse 28, 8001 Zürich, Switzerland",
+  "phone": "044 281 00 71",
+  "internationalPhone": "+41 44 281 00 71",
+  "website": "http://www.johnbaker.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17899254817270980017",
+  "rating": 4.5,
+  "reviewCount": 634,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.36728,
+    8.5473482
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:30 PM",
+    "Tuesday: 6:30 AM – 6:30 PM",
+    "Wednesday: 6:30 AM – 6:30 PM",
+    "Thursday: 6:30 AM – 6:30 PM",
+    "Friday: 6:30 AM – 6:30 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Modern counter-serve bakery serving artisanal breads, sandwiches & pastries, plus coffee & take-out.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/john-baker-zurich/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/john-baker-zurich/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/john-baker-zurich/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/john-baker-zurich/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/john-baker-zurich/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:10:23.962Z"
+}

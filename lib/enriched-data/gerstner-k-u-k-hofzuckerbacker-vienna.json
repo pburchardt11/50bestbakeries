@@ -1,0 +1,50 @@
+{
+  "slug": "gerstner-k-u-k-hofzuckerbacker-vienna",
+  "name": "Gerstner K.u.K. Hofzuckerbäcker",
+  "curatedName": "Gerstner K.u.K. Hofzuckerbäcker",
+  "city": "Vienna",
+  "country": "Austria",
+  "placeId": "ChIJ6-JMXJwHbUcRbmUqrz9AwkI",
+  "googleName": "Gerstner K. u. K. Hofzuckerbäcker",
+  "formattedAddress": "Kärntner Str. 51, 1010 Wien, Austria",
+  "phone": "01 5261361",
+  "internationalPhone": "+43 1 5261361",
+  "website": "https://www.gerstner.at/palaistodesco/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4810477994251019630",
+  "rating": 4.3,
+  "reviewCount": 4923,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.203383,
+    16.3704336
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Lauded confectionary with gilded salons & frescos, featuring a bakeshop, a posh eatery & garden.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gerstner-k-u-k-hofzuckerbacker-vienna/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gerstner-k-u-k-hofzuckerbacker-vienna/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gerstner-k-u-k-hofzuckerbacker-vienna/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gerstner-k-u-k-hofzuckerbacker-vienna/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gerstner-k-u-k-hofzuckerbacker-vienna/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:55:15.325Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "viron-tokyo",
+  "name": "Viron",
+  "curatedName": "Viron",
+  "city": "Tokyo",
+  "country": "Japan",
+  "placeId": "ChIJMTWC-PqLGGARrODJ7QA3DbU",
+  "googleName": "Brasserie Viron Marunouchi",
+  "formattedAddress": "Japan, 〒100-0005 Tokyo, Chiyoda City, Marunouchi, 2-chōme−7−３ 東京ビルディング 1F 東京ビル",
+  "phone": "03-5220-7289",
+  "internationalPhone": "+81 3-5220-7289",
+  "website": "https://www.instagram.com/viron_brasserie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13046144172691153068",
+  "rating": 3.9,
+  "reviewCount": 1708,
+  "priceLevel": 3,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.6786617,
+    139.7651715
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "French dishes like foie gras & escargot in a classically styled bistro with an adjoining bakery.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/viron-tokyo/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/viron-tokyo/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/viron-tokyo/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/viron-tokyo/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/viron-tokyo/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:07:17.188Z"
+}

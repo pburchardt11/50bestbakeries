@@ -1,0 +1,50 @@
+{
+  "slug": "forno-cultura-toronto",
+  "name": "Forno Cultura",
+  "curatedName": "Forno Cultura",
+  "city": "Toronto",
+  "country": "Canada",
+  "placeId": "ChIJ1dL5s940K4gR97_ZLtTsbwk",
+  "googleName": "Forno Cultura",
+  "formattedAddress": "609 King St W, Toronto, ON M5V 1M5, Canada",
+  "phone": "(416) 603-8305",
+  "internationalPhone": "+1 416-603-8305",
+  "website": "https://fornocultura.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=680022464819478519",
+  "rating": 4.5,
+  "reviewCount": 1470,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "liquor_store",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6441094,
+    -79.40070899999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Stylish & warm cafe & bakery offering an array of Italian-inspired sandwiches & pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forno-cultura-toronto/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forno-cultura-toronto/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forno-cultura-toronto/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forno-cultura-toronto/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forno-cultura-toronto/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:16:49.847Z"
+}

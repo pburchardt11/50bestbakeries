@@ -1,0 +1,47 @@
+{
+  "slug": "red-ribbon-bakeshop-manila",
+  "name": "Red Ribbon Bakeshop",
+  "curatedName": "Red Ribbon Bakeshop",
+  "city": "Manila",
+  "country": "Philippines",
+  "placeId": "ChIJuwEG4ijKlzMR2vpRjEmSIn0",
+  "googleName": "Red Ribbon | Robinsons Place Manila",
+  "formattedAddress": "Pedro Gil St, Ermita, Manila, 1000 Metro Manila, Philippines",
+  "phone": "0928 501 2376",
+  "internationalPhone": "+63 928 501 2376",
+  "website": "http://www.redribbonbakeshop.com.ph/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9016930248533605082",
+  "rating": 4.6,
+  "reviewCount": 57,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5768068,
+    120.9843119
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 7:35 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Chain of Filipino bakeries selling cakes, sweets & pastries, some with savory fillings.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/red-ribbon-bakeshop-manila/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/red-ribbon-bakeshop-manila/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/red-ribbon-bakeshop-manila/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/red-ribbon-bakeshop-manila/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/red-ribbon-bakeshop-manila/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:01:05.887Z"
+}

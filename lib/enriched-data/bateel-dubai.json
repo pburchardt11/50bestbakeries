@@ -1,0 +1,48 @@
+{
+  "slug": "bateel-dubai",
+  "name": "Bateel",
+  "curatedName": "Bateel",
+  "city": "Dubai",
+  "country": "United Arab Emirates",
+  "placeId": "ChIJ5wYlPb9rXz4RzcRRvOtpbVE",
+  "googleName": "Bateel Boutique , Mall of The Emirates, Dubai",
+  "formattedAddress": "Mall of emirates - 1st floor Sheikh Zayed Rd - Al Barsha First - Al Barsha - Dubai - United Arab Emirates",
+  "phone": "050 217 8292",
+  "internationalPhone": "+971 50 217 8292",
+  "website": "https://www.bateel.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5867462350731330765",
+  "rating": 3.8,
+  "reviewCount": 192,
+  "priceLevel": null,
+  "types": [
+    "clothing_store",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.1187373,
+    55.2021183
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 12:00 AM",
+    "Tuesday: 10:00 AM – 12:00 AM",
+    "Wednesday: 10:00 AM – 12:00 AM",
+    "Thursday: 10:00 AM – 12:00 AM",
+    "Friday: 10:00 AM – 12:00 AM",
+    "Saturday: 10:00 AM – 12:00 AM",
+    "Sunday: 10:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bateel-dubai/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bateel-dubai/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bateel-dubai/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bateel-dubai/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bateel-dubai/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:54:01.638Z"
+}

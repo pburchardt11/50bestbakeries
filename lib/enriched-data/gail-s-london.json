@@ -1,0 +1,50 @@
+{
+  "slug": "gail-s-london",
+  "name": "GAIL's",
+  "curatedName": "GAIL's",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJGeN8WtMEdkgRm8DhT1Hvx9k",
+  "googleName": "GAIL's Bakery Soho",
+  "formattedAddress": "128 Wardour St, London W1F 8ZL, UK",
+  "phone": "020 7287 1324",
+  "internationalPhone": "+44 20 7287 1324",
+  "website": "https://gails.com/pages/soho",
+  "googleMapsUrl": "https://maps.google.com/?cid=15692774559107367067",
+  "rating": 4.2,
+  "reviewCount": 1029,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5142981,
+    -0.1344713
+  ],
+  "openingHours": [
+    "Monday: 6:45 AM – 7:00 PM",
+    "Tuesday: 6:45 AM – 7:00 PM",
+    "Wednesday: 6:45 AM – 7:00 PM",
+    "Thursday: 6:45 AM – 7:00 PM",
+    "Friday: 6:45 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gail-s-london/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gail-s-london/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gail-s-london/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gail-s-london/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gail-s-london/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:19:25.373Z"
+}

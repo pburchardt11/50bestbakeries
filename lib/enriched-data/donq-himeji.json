@@ -1,0 +1,46 @@
+{
+  "slug": "donq-himeji",
+  "name": "DONQ 姫路駅店",
+  "curatedName": "DONQ 姫路駅店",
+  "city": "Himeji",
+  "country": "Japan",
+  "placeId": "ChIJRctlJm3gVDURVv69G50Tq0Q",
+  "googleName": "DONQ Himeji Station",
+  "formattedAddress": "Japan, 〒670-0914 Hyogo, Himeji, Tōfumachi, ２２２ ピオレ姫路 ごちそう館",
+  "phone": "079-226-2822",
+  "internationalPhone": "+81 79-226-2822",
+  "website": "https://donq.co.jp/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4948070181092851286",
+  "rating": 3.6,
+  "reviewCount": 110,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.8266986,
+    134.6911771
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/donq-himeji/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/donq-himeji/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/donq-himeji/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/donq-himeji/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:49:52.050Z"
+}

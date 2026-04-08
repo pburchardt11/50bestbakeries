@@ -1,0 +1,32 @@
+{
+  "slug": "rausch-bogota",
+  "name": "Rausch",
+  "curatedName": "Rausch",
+  "city": "Bogotá",
+  "country": "Colombia",
+  "placeId": "ChIJVa_UP6KbP44Rp1guICcAo5c",
+  "googleName": "Rausch Restaurante",
+  "formattedAddress": "Cl. 69a # 5 – 75, Chapinero, Bogotá, Cundinamarca, Colombia",
+  "phone": "322 3534609",
+  "internationalPhone": "+57 322 3534609",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10926577288974588071",
+  "rating": 5,
+  "reviewCount": 8,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    4.651689999999999,
+    -74.056011
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rausch-bogota/0.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:04:57.406Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "tous-les-jours-seoul",
+  "name": "TOUS les JOURS",
+  "curatedName": "TOUS les JOURS",
+  "city": "Seoul",
+  "country": "South Korea",
+  "placeId": "ChIJmfW5gPCifDUR_p5Yy66pxgQ",
+  "googleName": "Tous Les Jours",
+  "formattedAddress": "South Korea, Seoul, Jung District, Chungmuro 2(i)-ga, Toegye-ro, 131 신일빌딩 1층",
+  "phone": "02-319-7863",
+  "internationalPhone": "+82 2-319-7863",
+  "website": "http://www.tlj.co.kr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=344148989741407998",
+  "rating": 4.4,
+  "reviewCount": 213,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.5613549,
+    126.9860417
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-seoul/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-seoul/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-seoul/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-seoul/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-seoul/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:01:56.514Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "jason-bakery-cape-town",
+  "name": "Jason Bakery",
+  "curatedName": "Jason Bakery",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "placeId": "ChIJkQCIw0VnzB0RLx7D5DZ0qSk",
+  "googleName": "Jason Bakery",
+  "formattedAddress": "83 Main Rd, Green Point, Cape Town, 8005, South Africa",
+  "phone": "021 433 0538",
+  "internationalPhone": "+27 21 433 0538",
+  "website": "http://www.jasonbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3002058405734194735",
+  "rating": 4.5,
+  "reviewCount": 2311,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.9083793,
+    18.4108145
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jason-bakery-cape-town/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jason-bakery-cape-town/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jason-bakery-cape-town/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jason-bakery-cape-town/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jason-bakery-cape-town/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:52:54.208Z"
+}

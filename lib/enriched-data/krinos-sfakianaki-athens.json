@@ -1,0 +1,48 @@
+{
+  "slug": "krinos-sfakianaki-athens",
+  "name": "Krinos Sfakianaki",
+  "curatedName": "Krinos Sfakianaki",
+  "city": "Athens",
+  "country": "Greece",
+  "placeId": "ChIJE8e_Oju9oRQRjiYqQ1VEloE",
+  "googleName": "Krinos (since 1923)",
+  "formattedAddress": "Aiolou 87, Athina 105 51, Greece",
+  "phone": "21 0321 6852",
+  "internationalPhone": "+30 21 0321 6852",
+  "website": "https://www.facebook.com/pages/%CE%9A%CF%81%CE%AF%CE%BD%CE%BF%CF%82-%CE%9B%CE%BF%CF%85%CE%BA%CE%BF%CF%85%CE%BC%CE%B1%CE%B4%CE%B5%CF%82/389168741130827",
+  "googleMapsUrl": "https://maps.google.com/?cid=9337726010389046926",
+  "rating": 4.3,
+  "reviewCount": 2412,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.9804048,
+    23.7284108
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/krinos-sfakianaki-athens/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/krinos-sfakianaki-athens/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/krinos-sfakianaki-athens/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/krinos-sfakianaki-athens/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/krinos-sfakianaki-athens/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:06:10.387Z"
+}

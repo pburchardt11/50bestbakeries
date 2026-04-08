@@ -1,0 +1,47 @@
+{
+  "slug": "gontran-cherrier",
+  "name": "Gontran Cherrier",
+  "curatedName": "Gontran Cherrier",
+  "city": "渋谷区",
+  "country": "Japan",
+  "placeId": "ChIJebPsq9-LGGARNhiTjju10MI",
+  "googleName": "Gontran Cherrier Tokyo Aoyama Shop",
+  "formattedAddress": "Japan, 〒150-0001 Tokyo, Shibuya, Jingūmae, 5-chōme−51−８ １階～２階 ラ・ポルト青山",
+  "phone": "03-6450-6184",
+  "internationalPhone": "+81 3-6450-6184",
+  "website": "https://gontrancherrier.jp/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14037919305913538614",
+  "rating": 4.1,
+  "reviewCount": 550,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.6627929,
+    139.7094759
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 7:30 PM",
+    "Sunday: 7:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gontran-cherrier/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gontran-cherrier/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gontran-cherrier/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gontran-cherrier/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gontran-cherrier/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:58:58.340Z"
+}

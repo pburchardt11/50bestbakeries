@@ -1,0 +1,49 @@
+{
+  "slug": "la-baguette-jesus-maria",
+  "name": "La Baguette",
+  "curatedName": "La Baguette",
+  "city": "Jesús María",
+  "country": "Peru",
+  "placeId": "ChIJCzs65vjIBZEROffqUPsFwU8",
+  "googleName": "La Baguette",
+  "formattedAddress": "Jirón Luis Sánchez Cerro 2134, Jesús María 15072, Peru",
+  "phone": "(01) 7155310",
+  "internationalPhone": "+51 1 7155310",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5746881176453969721",
+  "rating": 4.2,
+  "reviewCount": 1413,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -12.0842982,
+    -77.0490374
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:30 PM",
+    "Tuesday: 7:30 AM – 9:30 PM",
+    "Wednesday: 7:30 AM – 9:30 PM",
+    "Thursday: 7:30 AM – 9:30 PM",
+    "Friday: 7:30 AM – 9:30 PM",
+    "Saturday: 7:30 AM – 9:30 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-baguette-jesus-maria/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-baguette-jesus-maria/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-baguette-jesus-maria/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-baguette-jesus-maria/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-baguette-jesus-maria/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:00:49.824Z"
+}

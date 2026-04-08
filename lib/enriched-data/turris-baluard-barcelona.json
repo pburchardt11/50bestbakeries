@@ -1,0 +1,48 @@
+{
+  "slug": "turris-baluard-barcelona",
+  "name": "Turris Baluard",
+  "curatedName": "Turris Baluard",
+  "city": "Barcelona",
+  "country": "Spain",
+  "placeId": "ChIJkfSNopqipBIRr55x25-Mpig",
+  "googleName": "Turris Aribau",
+  "formattedAddress": "Carrer d'Aribau, 158, Eixample, 08036 Barcelona, Spain",
+  "phone": "932 17 96 06",
+  "internationalPhone": "+34 932 17 96 06",
+  "website": "https://turris.es/obradors/aribau?utm_source=google&utm_medium=maps&utm_campaign=Google+Maps&utm_content=aribau",
+  "googleMapsUrl": "https://maps.google.com/?cid=2929183225860431535",
+  "rating": 4.5,
+  "reviewCount": 506,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.3923044,
+    2.1544112
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/turris-baluard-barcelona/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/turris-baluard-barcelona/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/turris-baluard-barcelona/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/turris-baluard-barcelona/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/turris-baluard-barcelona/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:53:15.139Z"
+}

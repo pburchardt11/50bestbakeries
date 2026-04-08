@@ -1,0 +1,46 @@
+{
+  "slug": "kam-wah-cafe-hong-kong",
+  "name": "Kam Wah Café",
+  "curatedName": "Kam Wah Café",
+  "city": "Hong Kong",
+  "country": "Hong Kong",
+  "placeId": "ChIJx191T8gABDQRz11N1JVF6Is",
+  "googleName": "Kam Wah Cafe & Cake Shop",
+  "formattedAddress": "45-47 Bute St, Mong Kok, Hong Kong",
+  "phone": "2392 6830",
+  "internationalPhone": "+852 2392 6830",
+  "website": "https://kamwahcafecakeshop.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10081384275683139023",
+  "rating": 3.7,
+  "reviewCount": 6129,
+  "priceLevel": 1,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.3222738,
+    114.1697189
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kam-wah-cafe-hong-kong/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kam-wah-cafe-hong-kong/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kam-wah-cafe-hong-kong/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kam-wah-cafe-hong-kong/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kam-wah-cafe-hong-kong/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:57:42.064Z"
+}

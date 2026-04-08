@@ -1,0 +1,48 @@
+{
+  "slug": "tivoli-road-bakery-melbourne",
+  "name": "Tivoli Road Bakery",
+  "curatedName": "Tivoli Road Bakery",
+  "city": "Melbourne",
+  "country": "Australia",
+  "placeId": "ChIJhxYBlINC1moRPz9SprQDsp0",
+  "googleName": "Tivoli Road Bakery",
+  "formattedAddress": "3 Tivoli Rd, South Yarra VIC 3141, Australia",
+  "phone": "(03) 9041 1424",
+  "internationalPhone": "+61 3 9041 1424",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11363148884228587327",
+  "rating": 4.4,
+  "reviewCount": 738,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -37.8393541,
+    144.9980183
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:30 PM",
+    "Tuesday: 7:00 AM – 2:30 PM",
+    "Wednesday: 7:00 AM – 2:30 PM",
+    "Thursday: 7:00 AM – 2:30 PM",
+    "Friday: 7:00 AM – 2:30 PM",
+    "Saturday: 7:00 AM – 2:30 PM",
+    "Sunday: 7:00 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tivoli-road-bakery-melbourne/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tivoli-road-bakery-melbourne/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tivoli-road-bakery-melbourne/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tivoli-road-bakery-melbourne/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tivoli-road-bakery-melbourne/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:55:02.667Z"
+}

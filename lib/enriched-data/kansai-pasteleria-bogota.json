@@ -1,0 +1,46 @@
+{
+  "slug": "kansai-pasteleria-bogota",
+  "name": "Kansai Pastelería",
+  "curatedName": "Kansai Pastelería",
+  "city": "Bogotá",
+  "country": "Colombia",
+  "placeId": "ChIJxbtzWwObP44RWDvHaeXkZZ8",
+  "googleName": "Cake Beauty Shop Utensilios e Insumos de repostería",
+  "formattedAddress": "Av. 70 #73-79, Bogotá, Colombia",
+  "phone": "318 6118609",
+  "internationalPhone": "+57 318 6118609",
+  "website": "https://sites.google.com/view/cakebeautyshop/inicio?authuser=0",
+  "googleMapsUrl": "https://maps.google.com/?cid=11485838098651626328",
+  "rating": 3.9,
+  "reviewCount": 14,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "home_goods_store",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    4.6858843,
+    -74.090417
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kansai-pasteleria-bogota/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kansai-pasteleria-bogota/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kansai-pasteleria-bogota/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kansai-pasteleria-bogota/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kansai-pasteleria-bogota/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:56:19.786Z"
+}

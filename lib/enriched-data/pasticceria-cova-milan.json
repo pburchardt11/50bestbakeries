@@ -1,0 +1,48 @@
+{
+  "slug": "pasticceria-cova-milan",
+  "name": "Pasticceria Cova",
+  "curatedName": "Pasticceria Cova",
+  "city": "Milan",
+  "country": "Italy",
+  "placeId": "ChIJtw59UdzDhkcRQYDSBkctXfM",
+  "googleName": "Cova Montenapoleone",
+  "formattedAddress": "Via Monte Napoleone, 8, 20121 Milano MI, Italy",
+  "phone": "02 7600 5599",
+  "internationalPhone": "+39 02 7600 5599",
+  "website": "http://www.pasticceriacova.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17536222307130966081",
+  "rating": 4.4,
+  "reviewCount": 2541,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.46816889999999,
+    9.1954589
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 9:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-cova-milan/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-cova-milan/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-cova-milan/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-cova-milan/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-cova-milan/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:58:47.474Z"
+}

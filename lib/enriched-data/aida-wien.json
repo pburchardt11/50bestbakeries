@@ -1,0 +1,47 @@
+{
+  "slug": "aida-wien",
+  "name": "Aida",
+  "curatedName": "Aida",
+  "city": "Wien",
+  "country": "Austria",
+  "placeId": "ChIJSwalOZ8HbUcRfddOf99g4Lg",
+  "googleName": "AIDA - Café-Konditorei",
+  "formattedAddress": "Singerstraße 1, 1010 Wien, Austria",
+  "phone": "01 8908988210",
+  "internationalPhone": "+43 1 8908988210",
+  "website": "https://aida.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13321754210791774077",
+  "rating": 3.6,
+  "reviewCount": 9231,
+  "priceLevel": 2,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.2080047,
+    16.3720973
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:30 PM",
+    "Tuesday: 8:00 AM – 10:30 PM",
+    "Wednesday: 8:00 AM – 10:30 PM",
+    "Thursday: 8:00 AM – 10:30 PM",
+    "Friday: 8:00 AM – 10:30 PM",
+    "Saturday: 8:00 AM – 10:30 PM",
+    "Sunday: 8:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aida-wien/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aida-wien/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aida-wien/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aida-wien/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aida-wien/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:03:59.570Z"
+}

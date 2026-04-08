@@ -1,0 +1,49 @@
+{
+  "slug": "simonds-new-cairo",
+  "name": "Simonds",
+  "curatedName": "Simonds",
+  "city": "New Cairo",
+  "country": "Egypt",
+  "placeId": "ChIJgbcpyjojWBQRiunnMJkPa9U",
+  "googleName": "Simonds90s st new cairo - سيموندس التجمع ش التسعين",
+  "formattedAddress": "ش التسعين الشمالي فوق مترو في الاتجاه المقابل لواتر واي, تو, قسم أول القاهرة الجديدة، محافظة القاهرة‬ 11123, Egypt",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15378402503211608458",
+  "rating": 4.3,
+  "reviewCount": 640,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.0282957,
+    31.48117
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 AM",
+    "Tuesday: 7:00 AM – 1:00 AM",
+    "Wednesday: 7:00 AM – 1:00 AM",
+    "Thursday: 7:00 AM – 1:00 AM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 7:00 AM – 1:00 AM",
+    "Sunday: 7:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simonds-new-cairo/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simonds-new-cairo/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simonds-new-cairo/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simonds-new-cairo/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simonds-new-cairo/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:05:27.531Z"
+}

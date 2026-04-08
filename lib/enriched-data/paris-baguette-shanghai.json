@@ -1,0 +1,47 @@
+{
+  "slug": "paris-baguette-shanghai",
+  "name": "Paris Baguette Shanghai",
+  "curatedName": "Paris Baguette Shanghai",
+  "city": "Shanghai",
+  "country": "China",
+  "placeId": "ChIJdfthIF1wsjURpStIAd4flEU",
+  "googleName": "Paris Baguette",
+  "formattedAddress": "131 Hu Bei Lu, Huang Pu Qu, Shang Hai Shi, China, 200002",
+  "phone": "021 5109 8280",
+  "internationalPhone": "+86 21 5109 8280",
+  "website": "https://www.pbchina.cn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5013667323534912421",
+  "rating": 3.2,
+  "reviewCount": 12,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.232529,
+    121.481116
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 7:30 AM – 10:00 PM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Cafe & bakery chain serving French pastries, bread, cakes & sandwiches, plus tea & coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-shanghai/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-shanghai/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-shanghai/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-shanghai/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-shanghai/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:12:11.218Z"
+}

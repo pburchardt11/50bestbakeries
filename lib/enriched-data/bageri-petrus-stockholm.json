@@ -1,0 +1,40 @@
+{
+  "slug": "bageri-petrus-stockholm",
+  "name": "Bageri Petrus",
+  "curatedName": "Bageri Petrus",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "placeId": "ChIJTdtrvOV3X0YRaWRAygyyg0Y",
+  "googleName": "Bageri Petrus",
+  "formattedAddress": "Swedenborgsgatan 4B, 118 48 Stockholm, Sweden",
+  "phone": "08-641 52 11",
+  "internationalPhone": "+46 8 641 52 11",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5081100572606620777",
+  "rating": 4.6,
+  "reviewCount": 599,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    59.31705700000001,
+    18.0632637
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bageri-petrus-stockholm/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bageri-petrus-stockholm/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bageri-petrus-stockholm/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bageri-petrus-stockholm/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bageri-petrus-stockholm/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:10:12.407Z"
+}

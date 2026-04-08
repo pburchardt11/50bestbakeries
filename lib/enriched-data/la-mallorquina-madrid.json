@@ -1,0 +1,49 @@
+{
+  "slug": "la-mallorquina-madrid",
+  "name": "La Mallorquina",
+  "curatedName": "La Mallorquina",
+  "city": "Madrid",
+  "country": "Spain",
+  "placeId": "ChIJjVvRaX4oQg0R55xhfQ3uARU",
+  "googleName": "La Mallorquina",
+  "formattedAddress": "Prta del Sol, 8, Centro, 28013 Madrid, Spain",
+  "phone": "915 21 12 01",
+  "internationalPhone": "+34 915 21 12 01",
+  "website": "https://pastelerialamallorquina.es/?utm_source=google&utm_medium=maps&utm_campaign=seolocal&utm_content=puerta-del-sol",
+  "googleMapsUrl": "https://maps.google.com/?cid=1513752691478732007",
+  "rating": 4.1,
+  "reviewCount": 12696,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.416665,
+    -3.7047477
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 9:00 PM",
+    "Tuesday: 8:30 AM – 9:00 PM",
+    "Wednesday: 8:30 AM – 9:00 PM",
+    "Thursday: 8:30 AM – 9:00 PM",
+    "Friday: 8:30 AM – 9:00 PM",
+    "Saturday: 8:30 AM – 9:00 PM",
+    "Sunday: 8:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Cream cakes, violet sweets & other traditional Madrid confections in a landmark cafe from 1894.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mallorquina-madrid/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mallorquina-madrid/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mallorquina-madrid/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mallorquina-madrid/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mallorquina-madrid/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:18:58.952Z"
+}

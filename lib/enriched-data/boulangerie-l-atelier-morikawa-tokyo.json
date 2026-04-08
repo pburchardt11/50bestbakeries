@@ -1,0 +1,50 @@
+{
+  "slug": "boulangerie-l-atelier-morikawa-tokyo",
+  "name": "Boulangerie L'Atelier Morikawa",
+  "curatedName": "Boulangerie L'Atelier Morikawa",
+  "city": "Tokyo",
+  "country": "Japan",
+  "placeId": "ChIJvx7Y5HeLGGARxSSRp7xVDIE",
+  "googleName": "L'Atelier du Pain Roppongi",
+  "formattedAddress": "Japan, 〒106-0032 Tokyo, Minato City, Roppongi, 6-chōme−1−12 21 六本木ビル 1F",
+  "phone": "03-3405-0018",
+  "internationalPhone": "+81 3-3405-0018",
+  "website": "http://latelier-du-pain.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9298901599366751429",
+  "rating": 4.2,
+  "reviewCount": 671,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.6623189,
+    139.7315185
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "French-style & Japanese baked goods, from baguettes to sweet rolls, with tables in an adjacent cafe.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-l-atelier-morikawa-tokyo/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-l-atelier-morikawa-tokyo/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-l-atelier-morikawa-tokyo/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-l-atelier-morikawa-tokyo/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-l-atelier-morikawa-tokyo/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:18:08.041Z"
+}

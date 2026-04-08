@@ -1,0 +1,50 @@
+{
+  "slug": "st-viateur-bagel-cafe-dollard-des-ormeaux",
+  "name": "St-Viateur Bagel & Café",
+  "curatedName": "St-Viateur Bagel & Café",
+  "city": "Dollard-des-Ormeaux",
+  "country": "Canada",
+  "placeId": "ChIJ-f6MSYo8yUwR6PTiFTDL7L8",
+  "googleName": "St-Viateur Bagel & Café DDO",
+  "formattedAddress": "821 Rue Tecumseh, Dollard-des-Ormeaux, QC H9R 4X8, Canada",
+  "phone": "(514) 542-3344",
+  "internationalPhone": "+1 514-542-3344",
+  "website": "http://www.stviateurbagel.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13829651963134014696",
+  "rating": 4.6,
+  "reviewCount": 1484,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4756046,
+    -73.8126645
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Iconic storefront known for wood-oven baked bagels with varied flavors & toppings.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-viateur-bagel-cafe-dollard-des-ormeaux/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-viateur-bagel-cafe-dollard-des-ormeaux/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-viateur-bagel-cafe-dollard-des-ormeaux/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-viateur-bagel-cafe-dollard-des-ormeaux/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-viateur-bagel-cafe-dollard-des-ormeaux/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:55:47.792Z"
+}

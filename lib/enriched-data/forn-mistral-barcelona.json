@@ -1,0 +1,47 @@
+{
+  "slug": "forn-mistral-barcelona",
+  "name": "Forn Mistral",
+  "curatedName": "Forn Mistral",
+  "city": "Barcelona",
+  "country": "Spain",
+  "placeId": "ChIJOejdNIuipBIRtfyofyEMKkE",
+  "googleName": "Forn Mistral | Sant Antoni",
+  "formattedAddress": "Rda. de Sant Antoni, 96, Ciutat Vella, 08001 Barcelona, Spain",
+  "phone": "933 01 80 37",
+  "internationalPhone": "+34 933 01 80 37",
+  "website": "http://www.fornmistral.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4695578899502398645",
+  "rating": 4.5,
+  "reviewCount": 4800,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.3847327,
+    2.1641474
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:30 PM",
+    "Tuesday: 7:30 AM – 8:30 PM",
+    "Wednesday: 7:30 AM – 8:30 PM",
+    "Thursday: 7:30 AM – 8:30 PM",
+    "Friday: 7:30 AM – 8:30 PM",
+    "Saturday: 7:30 AM – 8:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-mistral-barcelona/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-mistral-barcelona/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-mistral-barcelona/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-mistral-barcelona/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-mistral-barcelona/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:10:00.362Z"
+}

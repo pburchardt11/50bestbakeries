@@ -1,0 +1,48 @@
+{
+  "slug": "theobroma-mumbai",
+  "name": "Theobroma",
+  "curatedName": "Theobroma",
+  "city": "Mumbai",
+  "country": "India",
+  "placeId": "ChIJ1SVBFe3O5zsRq-hFKpPZ7To",
+  "googleName": "Theobroma Bakery and Cake Shop - Lower Parel, Mumbai",
+  "formattedAddress": "Unit No. 8, Kamala Mill, Kamala Mills Compound, Lower Parel, Mumbai, Maharashtra 400013, India",
+  "phone": "081828 81881",
+  "internationalPhone": "+91 81828 81881",
+  "website": "https://order.theobroma.in/order/theobroma-kamala-mills-mumbai-1",
+  "googleMapsUrl": "https://maps.google.com/?cid=4246289249772890283",
+  "rating": 4.4,
+  "reviewCount": 1966,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.0027776,
+    72.8287647
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/theobroma-mumbai/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/theobroma-mumbai/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/theobroma-mumbai/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/theobroma-mumbai/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/theobroma-mumbai/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:58:11.539Z"
+}

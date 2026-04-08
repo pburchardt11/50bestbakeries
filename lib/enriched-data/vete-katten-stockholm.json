@@ -1,0 +1,48 @@
+{
+  "slug": "vete-katten-stockholm",
+  "name": "Vete-Katten",
+  "curatedName": "Vete-Katten",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "placeId": "ChIJCSWNMWedX0YR52I_TTl8Pv8",
+  "googleName": "Vete-Katten Kungsgatan",
+  "formattedAddress": "Kungsgatan 55, 111 22 Stockholm, Sweden",
+  "phone": "08-20 84 05",
+  "internationalPhone": "+46 8 20 84 05",
+  "website": "http://www.vetekatten.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18392274513778664167",
+  "rating": 4.4,
+  "reviewCount": 7786,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.334106,
+    18.0583098
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Genteel, 1920s-style cafe for self-serve lunches & pastries, snacks, coffee & afternoon tea.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vete-katten-stockholm/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vete-katten-stockholm/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vete-katten-stockholm/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vete-katten-stockholm/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vete-katten-stockholm/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:02:16.342Z"
+}

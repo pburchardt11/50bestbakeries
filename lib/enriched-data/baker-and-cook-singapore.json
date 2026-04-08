@@ -1,0 +1,49 @@
+{
+  "slug": "baker-and-cook-singapore",
+  "name": "Baker and Cook",
+  "curatedName": "Baker and Cook",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJpTAW1KUQ2jEREMulvSWMB0o",
+  "googleName": "Baker & Cook",
+  "formattedAddress": "77 Hillcrest Rd, Singapore 288951",
+  "phone": "8810 6073",
+  "internationalPhone": "+65 8810 6073",
+  "website": "http://www.bakerandcook.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5334386377367079696",
+  "rating": 4.3,
+  "reviewCount": 431,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.3315651,
+    103.8075586
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-and-cook-singapore/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-and-cook-singapore/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-and-cook-singapore/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-and-cook-singapore/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-and-cook-singapore/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:01:46.258Z"
+}

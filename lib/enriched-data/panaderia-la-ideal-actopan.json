@@ -1,0 +1,47 @@
+{
+  "slug": "panaderia-la-ideal-actopan",
+  "name": "Panaderia La Ideal",
+  "curatedName": "Panaderia La Ideal",
+  "city": "Actopan",
+  "country": "Mexico",
+  "placeId": "ChIJa1A-qLFx0YUR9N8A_WUisC0",
+  "googleName": "Panaderia La Ideal",
+  "formattedAddress": "Calle Guadalupe Victoria 10, Obrera, 42505 Actopan, Hgo., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3292169149039566836",
+  "rating": 4.4,
+  "reviewCount": 9,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.2674141,
+    -98.94615379999999
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 10:00 PM",
+    "Tuesday: 5:30 AM – 10:00 PM",
+    "Wednesday: 5:30 AM – 10:00 PM",
+    "Thursday: 5:30 AM – 10:00 PM",
+    "Friday: 5:30 AM – 10:00 PM",
+    "Saturday: 5:30 AM – 10:00 PM",
+    "Sunday: 5:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-ideal-actopan/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-ideal-actopan/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-ideal-actopan/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-ideal-actopan/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-ideal-actopan/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:59:52.487Z"
+}

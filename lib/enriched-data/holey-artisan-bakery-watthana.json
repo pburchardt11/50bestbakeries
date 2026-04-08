@@ -1,0 +1,49 @@
+{
+  "slug": "holey-artisan-bakery-watthana",
+  "name": "Holey Artisan Bakery",
+  "curatedName": "Holey Artisan Bakery",
+  "city": "Watthana",
+  "country": "Thailand",
+  "placeId": "ChIJTcCIY_ye4jAR9OSZg67PKrg",
+  "googleName": "Holey Artisan Bakery",
+  "formattedAddress": "245 12 Sukhumvit 31, Khwaeng Khlong Toei Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+  "phone": "02 101 1427",
+  "internationalPhone": "+66 2 101 1427",
+  "website": "http://holeyartisanbakery.com/?utm_source=gmb&utm_medium=referral",
+  "googleMapsUrl": "https://maps.google.com/?cid=13270647600439747828",
+  "rating": 4.3,
+  "reviewCount": 1455,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.7378682,
+    100.5664816
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Laid-back locale for paninis, deep dish pizza & craft sandwiches, plus sweet & savory baked goods.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/holey-artisan-bakery-watthana/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/holey-artisan-bakery-watthana/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/holey-artisan-bakery-watthana/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/holey-artisan-bakery-watthana/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/holey-artisan-bakery-watthana/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:53:41.736Z"
+}

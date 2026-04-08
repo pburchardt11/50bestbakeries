@@ -1,0 +1,46 @@
+{
+  "slug": "banh-mi-25-hanoi",
+  "name": "Bánh Mì 25",
+  "curatedName": "Bánh Mì 25",
+  "city": "Hanoi",
+  "country": "Vietnam",
+  "placeId": "ChIJtRY3u3SrNTERs95UQ9jA--s",
+  "googleName": "Banh Mi 25",
+  "formattedAddress": "25 P. Hàng Cá, Hàng Bồ, Hoàn Kiếm, Hà Nội 100000, Vietnam",
+  "phone": "0942 548 214",
+  "internationalPhone": "+84 942 548 214",
+  "website": "https://www.banhmi25.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17004396853142544051",
+  "rating": 4.4,
+  "reviewCount": 16171,
+  "priceLevel": 1,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.036113,
+    105.848577
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Extensive sandwich menu offered at a popular stall with a simple seating area across the road.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-mi-25-hanoi/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-mi-25-hanoi/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-mi-25-hanoi/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-mi-25-hanoi/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-mi-25-hanoi/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:03:37.109Z"
+}

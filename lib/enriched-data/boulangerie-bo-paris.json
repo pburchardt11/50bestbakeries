@@ -1,0 +1,47 @@
+{
+  "slug": "boulangerie-bo-paris",
+  "name": "Boulangerie bo",
+  "curatedName": "Boulangerie bo",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJn6IytQVy5kcRO0Wc3kyme9M",
+  "googleName": "Boulangerie bo",
+  "formattedAddress": "85bis Rue de Charenton, 75012 Paris, France",
+  "phone": "01 43 07 75 21",
+  "internationalPhone": "+33 1 43 07 75 21",
+  "website": "https://www.instagram.com/__boulangeriebo__?igsh=MWp0ZW9wZ2NxaXQ2Yg%3D%3D&utm_source=qr",
+  "googleMapsUrl": "https://maps.google.com/?cid=15238956613220713787",
+  "rating": 4.2,
+  "reviewCount": 801,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8490884,
+    2.3749941
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Croissants, baguettes, tarts & squid-ink bread at a charming bakery in an art nouveau building.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-bo-paris/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-bo-paris/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-bo-paris/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-bo-paris/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-bo-paris/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:22:07.985Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "the-bretzel-bakery-dublin",
+  "name": "The Bretzel Bakery",
+  "curatedName": "The Bretzel Bakery",
+  "city": "Dublin",
+  "country": "Ireland",
+  "placeId": "ChIJRZyzg6AOZ0gRrqJJvZVrgnI",
+  "googleName": "The Bretzel Bakery & Cafe",
+  "formattedAddress": "1A Lennox St, Portobello, Dublin, D08 RK23, Ireland",
+  "phone": "087 380 0211",
+  "internationalPhone": "+353 87 380 0211",
+  "website": "http://www.bretzel.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8251275758166188718",
+  "rating": 4.6,
+  "reviewCount": 685,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.3312626,
+    -6.2650013
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bretzel-bakery-dublin/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bretzel-bakery-dublin/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bretzel-bakery-dublin/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bretzel-bakery-dublin/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bretzel-bakery-dublin/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:47:51.192Z"
+}

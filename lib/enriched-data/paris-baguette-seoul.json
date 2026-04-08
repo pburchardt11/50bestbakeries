@@ -1,0 +1,47 @@
+{
+  "slug": "paris-baguette-seoul",
+  "name": "PARIS BAGUETTE",
+  "curatedName": "PARIS BAGUETTE",
+  "city": "Seoul",
+  "country": "South Korea",
+  "placeId": "ChIJEUHKbHlrMhURroXtYN2-Cz4",
+  "googleName": "Paris Baguette Myeongdong Station Namsan",
+  "formattedAddress": "118 Toegye-ro, Jung District, Seoul, South Korea",
+  "phone": "02-771-7734",
+  "internationalPhone": "+82 2-771-7734",
+  "website": "https://www.paris.co.kr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4470876913118578094",
+  "rating": 4.1,
+  "reviewCount": 176,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.5605152,
+    126.9848583
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Cafe & bakery chain serving French pastries, bread, cakes & sandwiches, plus tea & coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-seoul/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-seoul/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-seoul/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-seoul/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-seoul/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:53:04.274Z"
+}

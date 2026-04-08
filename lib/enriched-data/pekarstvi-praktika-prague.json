@@ -1,0 +1,48 @@
+{
+  "slug": "pekarstvi-praktika-prague",
+  "name": "Pekařství Praktika",
+  "curatedName": "Pekařství Praktika",
+  "city": "Prague",
+  "country": "Czech Republic",
+  "placeId": "ChIJJVyWSIiUC0cRjLahZznWgmc",
+  "googleName": "Pekárna Praktika",
+  "formattedAddress": "Sokolovská 6/85, 183 00 Praha 8-Karlín, Czechia",
+  "phone": "608 542 549",
+  "internationalPhone": "+420 608 542 549",
+  "website": "http://www.pekarnapraktika.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7458759474919093900",
+  "rating": 4.7,
+  "reviewCount": 612,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.0941,
+    14.4509368
+  ],
+  "openingHours": [
+    "Monday: 7:37 AM – 6:38 PM",
+    "Tuesday: 7:37 AM – 6:38 PM",
+    "Wednesday: 7:37 AM – 6:38 PM",
+    "Thursday: 7:37 AM – 6:38 PM",
+    "Friday: 7:37 AM – 6:38 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Organic bakery turning out artisanal breads, pastries coffee & cafe fare in a minimalist space.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarstvi-praktika-prague/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarstvi-praktika-prague/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarstvi-praktika-prague/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarstvi-praktika-prague/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarstvi-praktika-prague/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:12:25.186Z"
+}

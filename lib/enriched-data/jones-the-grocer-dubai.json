@@ -1,0 +1,48 @@
+{
+  "slug": "jones-the-grocer-dubai",
+  "name": "Jones the Grocer",
+  "curatedName": "Jones the Grocer",
+  "city": "Dubai",
+  "country": "United Arab Emirates",
+  "placeId": "ChIJF24U3ixqXz4RA5vyxiam5DA",
+  "googleName": "Jones the Grocer, Al Manara (Sheikh Zayed Road, Dubai)",
+  "formattedAddress": "Indigo Central 8 - Sheikh Zayed Rd - opp. Times Square Building - Al Manara - Dubai - United Arab Emirates",
+  "phone": "04 346 6886",
+  "internationalPhone": "+971 4 346 6886",
+  "website": "https://www.jonesthegrocer.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3523123493987326723",
+  "rating": 4.6,
+  "reviewCount": 3878,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.1410259,
+    55.2175103
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Upscale market with gourmet groceries & a cafe serving global food with an Australian twist.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jones-the-grocer-dubai/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jones-the-grocer-dubai/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jones-the-grocer-dubai/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jones-the-grocer-dubai/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jones-the-grocer-dubai/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:02:58.086Z"
+}

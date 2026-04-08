@@ -1,0 +1,47 @@
+{
+  "slug": "rotiboy-kuala-lumpur",
+  "name": "Rotiboy",
+  "curatedName": "Rotiboy",
+  "city": "Kuala Lumpur",
+  "country": "Malaysia",
+  "placeId": "ChIJfxL8X6s3zDER5aVsXQV8N3M",
+  "googleName": "Rotiboy Pavilion Kuala Lumpur",
+  "formattedAddress": "P1.11.02, Pavilion Kuala Lumpur, 168, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "phone": "011-1635 3128",
+  "internationalPhone": "+60 11-1635 3128",
+  "website": "https://www.rotiboy.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8302240800564880869",
+  "rating": 4.8,
+  "reviewCount": 126,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.1490799,
+    101.7131367
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotiboy-kuala-lumpur/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotiboy-kuala-lumpur/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotiboy-kuala-lumpur/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotiboy-kuala-lumpur/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotiboy-kuala-lumpur/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:50:33.575Z"
+}

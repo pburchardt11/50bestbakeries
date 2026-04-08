@@ -1,0 +1,48 @@
+{
+  "slug": "le-grenier-a-pain-paris",
+  "name": "Le Grenier à Pain",
+  "curatedName": "Le Grenier à Pain",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJdegQakVu5kcRSFyBLbgk7DU",
+  "googleName": "Le Grenier à Pain Abbesses Bodian",
+  "formattedAddress": "38 Rue des Abbesses, 75018 Paris, France",
+  "phone": "01 46 06 41 81",
+  "internationalPhone": "+33 1 46 06 41 81",
+  "website": "https://legrenierapain.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3885520951969930312",
+  "rating": 4.4,
+  "reviewCount": 1384,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.885322,
+    2.3367393
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 7:30 PM",
+    "Sunday: 7:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-grenier-a-pain-paris/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-grenier-a-pain-paris/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-grenier-a-pain-paris/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-grenier-a-pain-paris/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-grenier-a-pain-paris/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:21:46.211Z"
+}

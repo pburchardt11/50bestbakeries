@@ -1,0 +1,52 @@
+{
+  "slug": "forno-london",
+  "name": "Forno",
+  "curatedName": "Forno",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJIVtLdb4ddkgRSxKCld0Z_To",
+  "googleName": "FORNO",
+  "formattedAddress": "322 Andrews Rd, London E8 4RP, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.forno.london/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4250582062794412619",
+  "rating": 4.4,
+  "reviewCount": 728,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "liquor_store",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5346029,
+    -0.05777329999999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forno-london/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forno-london/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forno-london/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forno-london/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forno-london/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:21:20.010Z"
+}

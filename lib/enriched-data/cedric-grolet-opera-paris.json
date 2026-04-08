@@ -1,0 +1,47 @@
+{
+  "slug": "cedric-grolet-opera-paris",
+  "name": "Cédric Grolet Opéra",
+  "curatedName": "Cédric Grolet Opéra",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJhwfsMQxv5kcRZRcJvU--cOw",
+  "googleName": "Cedric Grolet Opéra",
+  "formattedAddress": "35 Av. de l'Opéra, 75002 Paris, France",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://cedric-grolet.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17037326640025769829",
+  "rating": 3.4,
+  "reviewCount": 8670,
+  "priceLevel": 4,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.86785219999999,
+    2.3332982
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "High-concept cakes & pastries crafted in a chic, acclaimed bakery launched by Cedric Grolet.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cedric-grolet-opera-paris/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cedric-grolet-opera-paris/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cedric-grolet-opera-paris/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cedric-grolet-opera-paris/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cedric-grolet-opera-paris/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:05:45.356Z"
+}

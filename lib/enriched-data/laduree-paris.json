@@ -1,0 +1,49 @@
+{
+  "slug": "laduree-paris",
+  "name": "Ladurée",
+  "curatedName": "Ladurée",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJXUi-ScJv5kcRaUX9yJaj4ys",
+  "googleName": "Ladurée",
+  "formattedAddress": "75 Av. des Champs-Élysées, 75008 Paris, France",
+  "phone": "01 40 75 08 75",
+  "internationalPhone": "+33 1 40 75 08 75",
+  "website": "https://laduree.com/?utm_source=yext&utm_medium=referral&utm_campaign=GMB",
+  "googleMapsUrl": "https://maps.google.com/?cid=3162551231356683625",
+  "rating": 4.2,
+  "reviewCount": 15966,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.870839,
+    2.30319
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:30 PM",
+    "Tuesday: 8:00 AM – 9:30 PM",
+    "Wednesday: 8:00 AM – 9:30 PM",
+    "Thursday: 8:00 AM – 9:30 PM",
+    "Friday: 8:00 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: 8:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": "Upscale bakery with Parisian origins, specializing in French macarons in a number of flavors.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laduree-paris/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laduree-paris/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laduree-paris/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laduree-paris/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laduree-paris/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:17:11.799Z"
+}

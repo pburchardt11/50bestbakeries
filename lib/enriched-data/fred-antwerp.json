@@ -1,0 +1,46 @@
+{
+  "slug": "fred-antwerp",
+  "name": "Fred",
+  "curatedName": "Fred",
+  "city": "Antwerp",
+  "country": "Belgium",
+  "placeId": "ChIJp7PbFvr2w0cRDeTdeoHfxJ8",
+  "googleName": "FRED PERRY Antwerp Store",
+  "formattedAddress": "Huidevettersstraat 54, 2000 Antwerpen, Belgium",
+  "phone": "03 770 67 57",
+  "internationalPhone": "+32 3 770 67 57",
+  "website": "http://www.fredperry.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11512572294670967821",
+  "rating": 4.8,
+  "reviewCount": 73,
+  "priceLevel": null,
+  "types": [
+    "clothing_store",
+    "establishment",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.2163847,
+    4.4049969
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 12:00 – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Sports-influenced casual fashion chain selling clothes and shoes with an iconic laurel wreath logo.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fred-antwerp/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fred-antwerp/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fred-antwerp/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fred-antwerp/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fred-antwerp/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:04:09.686Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "cafe-gerbeaud-budapest",
+  "name": "Café Gerbeaud",
+  "curatedName": "Café Gerbeaud",
+  "city": "Budapest",
+  "country": "Hungary",
+  "placeId": "ChIJeQACh0DcQUcRVO6JctVQ5-g",
+  "googleName": "Café Gerbeaud",
+  "formattedAddress": "Budapest, Vörösmarty Square 7-8, 1051 Hungary",
+  "phone": "(06 1) 429 9000",
+  "internationalPhone": "+36 1 429 9000",
+  "website": "https://gerbeaud.hu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16782471414099340884",
+  "rating": 4.2,
+  "reviewCount": 11768,
+  "priceLevel": 3,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.49696400000001,
+    19.0502535
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Grand, high-ceilinged dining room with chandeliers, serving coffee, cakes & Hungarian bistro dishes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-gerbeaud-budapest/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-gerbeaud-budapest/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-gerbeaud-budapest/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-gerbeaud-budapest/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-gerbeaud-budapest/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:47:11.745Z"
+}

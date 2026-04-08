@@ -1,0 +1,48 @@
+{
+  "slug": "nadege-patisserie-toronto",
+  "name": "Nadège Patisserie",
+  "curatedName": "Nadège Patisserie",
+  "city": "Toronto",
+  "country": "Canada",
+  "placeId": "ChIJJ2P9eQo1K4gRakAcWuHjtsw",
+  "googleName": "Nadège Patisserie",
+  "formattedAddress": "780 Queen St W, Toronto, ON M6J 2R5, Canada",
+  "phone": "(416) 203-2009",
+  "internationalPhone": "+1 416-203-2009",
+  "website": "https://www.nadege-patisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14751228186517586026",
+  "rating": 4.4,
+  "reviewCount": 1638,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6458144,
+    -79.4114245
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Charming pastry boutique preparing French-accented confections such as croissants, cakes & macarons.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nadege-patisserie-toronto/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nadege-patisserie-toronto/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nadege-patisserie-toronto/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nadege-patisserie-toronto/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nadege-patisserie-toronto/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:04:31.265Z"
+}

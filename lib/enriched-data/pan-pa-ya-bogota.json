@@ -1,0 +1,41 @@
+{
+  "slug": "pan-pa-ya-bogota",
+  "name": "Pan pa' ya",
+  "curatedName": "Pan pa' ya",
+  "city": "Bogotá",
+  "country": "Colombia",
+  "placeId": "ChIJ9Tzg76WaP44RPSgo5yi-FS4",
+  "googleName": "Pan Pa' Ya! Pepe Sierra",
+  "formattedAddress": "Cra. 11 #116-10, Bogotá, Colombia",
+  "phone": "(601) 4857610",
+  "internationalPhone": "+57 601 4857610",
+  "website": "http://panpaya.com.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3320769383141746749",
+  "rating": 4.2,
+  "reviewCount": 3130,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    4.6951249,
+    -74.0367801
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T08:44:44.250Z"
+}

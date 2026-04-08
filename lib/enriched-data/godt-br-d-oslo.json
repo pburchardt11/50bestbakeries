@@ -1,0 +1,48 @@
+{
+  "slug": "godt-br-d-oslo",
+  "name": "Godt Brød",
+  "curatedName": "Godt Brød",
+  "city": "Oslo",
+  "country": "Norway",
+  "placeId": "ChIJOYlWkWhuQUYRaNq_WLjezBg",
+  "googleName": "Godt Brød Grünerløkka",
+  "formattedAddress": "Thorvald Meyers gate 49, 0555 Oslo, Norway",
+  "phone": "23 22 90 40",
+  "internationalPhone": "+47 23 22 90 40",
+  "website": "https://www.godtbrod.no/godt-brod-bakerier/godt-brod-grunerlokka",
+  "googleMapsUrl": "https://maps.google.com/?cid=1787048035503561320",
+  "rating": 4.4,
+  "reviewCount": 1281,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.9239902,
+    10.7589787
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 7:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Cozy bakery & cafe preparing a variety of traditional breads & pastries, plus coffee & sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/godt-br-d-oslo/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/godt-br-d-oslo/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/godt-br-d-oslo/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/godt-br-d-oslo/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/godt-br-d-oslo/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:08:33.167Z"
+}

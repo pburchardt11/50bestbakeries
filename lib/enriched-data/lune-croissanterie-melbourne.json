@@ -1,0 +1,41 @@
+{
+  "slug": "lune-croissanterie-melbourne",
+  "name": "Lune Croissanterie",
+  "curatedName": "Lune Croissanterie",
+  "city": "Melbourne",
+  "country": "Australia",
+  "placeId": "ChIJT61MWNlD1moRbJAotYDnIGQ",
+  "googleName": "Lune Croissanterie Melbourne CBD on Russell",
+  "formattedAddress": "16/161 Collins St, Melbourne VIC 3000, Australia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.lunecroissanterie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7215021143028699244",
+  "rating": 4.3,
+  "reviewCount": 4446,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -37.8156295,
+    144.9692426
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T08:43:38.403Z"
+}

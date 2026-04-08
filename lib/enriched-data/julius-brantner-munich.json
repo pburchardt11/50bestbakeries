@@ -1,0 +1,48 @@
+{
+  "slug": "julius-brantner-munich",
+  "name": "Julius Brantner",
+  "curatedName": "Julius Brantner",
+  "city": "Munich",
+  "country": "Germany",
+  "placeId": "ChIJhRYsucl1nkcRQl78rW3WlaI",
+  "googleName": "Julius Brantner Brothandwerk - Schwabing",
+  "formattedAddress": "Nordendstraße 23, 80801 München, Germany",
+  "phone": "089 215280990",
+  "internationalPhone": "+49 89 215280990",
+  "website": "http://www.julius-brantner.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11715505772232990274",
+  "rating": 4.8,
+  "reviewCount": 1149,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.1553586,
+    11.575079
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "No-nonsense bakery offering a menu of handmade organic breads, croissants & treats.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/julius-brantner-munich/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/julius-brantner-munich/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/julius-brantner-munich/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/julius-brantner-munich/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/julius-brantner-munich/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:17:28.855Z"
+}

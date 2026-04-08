@@ -1,0 +1,47 @@
+{
+  "slug": "goldilocks-bakeshop-antipolo",
+  "name": "Goldilocks Bakeshop",
+  "curatedName": "Goldilocks Bakeshop",
+  "city": "Antipolo",
+  "country": "Philippines",
+  "placeId": "ChIJo27G61O_lzMR6HGWWY4yXlo",
+  "googleName": "Goldilocks",
+  "formattedAddress": "Dela Paz Street corner Manuel L. Quezon Street, Antipolo, Rizal, H5QG+86Q, Antipolo, 1870 Rizal, Philippines",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.goldilocks.com.ph/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6511697698194092520",
+  "rating": 4.3,
+  "reviewCount": 28,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5883347,
+    121.1756204
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Filipino bakeshop offering bread, cakes & other baked goods, along with classic dishes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goldilocks-bakeshop-antipolo/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goldilocks-bakeshop-antipolo/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goldilocks-bakeshop-antipolo/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goldilocks-bakeshop-antipolo/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goldilocks-bakeshop-antipolo/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:52:04.609Z"
+}

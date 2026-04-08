@@ -1,0 +1,48 @@
+{
+  "slug": "kavarna-slavia-prague",
+  "name": "Kavárna Slavia",
+  "curatedName": "Kavárna Slavia",
+  "city": "Prague",
+  "country": "Czech Republic",
+  "placeId": "ChIJ23fPA_CUC0cR8r0Zdb5P65M",
+  "googleName": "Cafe Slavia",
+  "formattedAddress": "Národní 1, 110 00 Praha 1-Staré Město, Czechia",
+  "phone": "777 709 145",
+  "internationalPhone": "+420 777 709 145",
+  "website": "https://www.cafeslavia.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10658700622529412594",
+  "rating": 4.3,
+  "reviewCount": 8689,
+  "priceLevel": 2,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.0815245,
+    14.4136388
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Mirrored dining room for Czech or international dishes with live piano music each evening.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kavarna-slavia-prague/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kavarna-slavia-prague/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kavarna-slavia-prague/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kavarna-slavia-prague/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kavarna-slavia-prague/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:05:08.189Z"
+}

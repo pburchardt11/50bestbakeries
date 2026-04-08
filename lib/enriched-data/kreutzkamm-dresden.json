@@ -1,0 +1,48 @@
+{
+  "slug": "kreutzkamm-dresden",
+  "name": "Kreutzkamm",
+  "curatedName": "Kreutzkamm",
+  "city": "Dresden",
+  "country": "Germany",
+  "placeId": "ChIJjfBpFGfPCUcRJ-VXNxD5d9I",
+  "googleName": "Kreutzkamm",
+  "formattedAddress": "Im Eingang der Altmarktgalerie, Altmarkt 25, 01067 Dresden, Germany",
+  "phone": "0351 4954172",
+  "internationalPhone": "+49 351 4954172",
+  "website": "http://www.kreutzkamm.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15165864118236734759",
+  "rating": 4.1,
+  "reviewCount": 856,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.0502146,
+    13.7367086
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kreutzkamm-dresden/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kreutzkamm-dresden/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kreutzkamm-dresden/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kreutzkamm-dresden/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kreutzkamm-dresden/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:20:00.704Z"
+}

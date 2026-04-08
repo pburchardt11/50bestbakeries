@@ -1,0 +1,46 @@
+{
+  "slug": "yut-kee-restaurant-kuala-lumpur",
+  "name": "Yut Kee Restaurant",
+  "curatedName": "Yut Kee Restaurant",
+  "city": "Kuala Lumpur",
+  "country": "Malaysia",
+  "placeId": "ChIJDYyGHixIzDERVtAqsZhFZws",
+  "googleName": "Yut Kee Restaurant",
+  "formattedAddress": "1, Jalan Kamunting, Chow Kit, 50300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "phone": "03-2698 8108",
+  "internationalPhone": "+60 3-2698 8108",
+  "website": "http://yutkee.com.my/",
+  "googleMapsUrl": "https://maps.google.com/?cid=821701979128123478",
+  "rating": 4.1,
+  "reviewCount": 5756,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.1565163,
+    101.7003615
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: 7:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Typical Hainanese cuisine is served for breakfast & lunch at this unfussy eatery dating from 1928.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yut-kee-restaurant-kuala-lumpur/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yut-kee-restaurant-kuala-lumpur/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yut-kee-restaurant-kuala-lumpur/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yut-kee-restaurant-kuala-lumpur/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yut-kee-restaurant-kuala-lumpur/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:59:39.137Z"
+}

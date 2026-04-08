@@ -1,0 +1,48 @@
+{
+  "slug": "pasticceria-gamberini-bologna",
+  "name": "Pasticceria Gamberini",
+  "curatedName": "Pasticceria Gamberini",
+  "city": "Bologna",
+  "country": "Italy",
+  "placeId": "ChIJBQZ-D5TUf0cRKWlpMU76suo",
+  "googleName": "Coffee Patiserie Gamberini",
+  "formattedAddress": "Via Ugo Bassi, 12, 40123 Bologna BO, Italy",
+  "phone": "051 296 0467",
+  "internationalPhone": "+39 051 296 0467",
+  "website": "https://gamberini.eu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16911854764473018665",
+  "rating": 4.2,
+  "reviewCount": 3010,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.4954753,
+    11.3378959
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Rustic, longstanding stop for breakfast pastries & elegant cakes, plus tea, coffee & cocktails.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-gamberini-bologna/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-gamberini-bologna/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-gamberini-bologna/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-gamberini-bologna/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-gamberini-bologna/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:14:05.908Z"
+}

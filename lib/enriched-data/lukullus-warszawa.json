@@ -1,0 +1,48 @@
+{
+  "slug": "lukullus-warszawa",
+  "name": "Lukullus",
+  "curatedName": "Lukullus",
+  "city": "Warszawa",
+  "country": "Poland",
+  "placeId": "ChIJx-7BnPTMHkcR1Zls0jR4xWE",
+  "googleName": "LUKULLUS | Chmielna",
+  "formattedAddress": "Chmielna 32, 00-020 Warszawa, Poland",
+  "phone": "726 262 608",
+  "internationalPhone": "+48 726 262 608",
+  "website": "http://www.cukiernialukullus.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7045169360354974165",
+  "rating": 4.6,
+  "reviewCount": 1178,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.2320272,
+    21.0125112
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lukullus-warszawa/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lukullus-warszawa/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lukullus-warszawa/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lukullus-warszawa/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lukullus-warszawa/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:18:20.142Z"
+}

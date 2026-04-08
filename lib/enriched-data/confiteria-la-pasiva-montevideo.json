@@ -1,0 +1,46 @@
+{
+  "slug": "confiteria-la-pasiva-montevideo",
+  "name": "Confitería La Pasiva",
+  "curatedName": "Confitería La Pasiva",
+  "city": "Montevideo",
+  "country": "Uruguay",
+  "placeId": "ChIJ5Wxu9XKBn5UR7WcOvgGltx8",
+  "googleName": "La Pasiva",
+  "formattedAddress": "Juan Benito Blanco 920, 11300 Montevideo, Departamento de Montevideo, Uruguay",
+  "phone": "2707 1700",
+  "internationalPhone": "+598 2707 1700",
+  "website": "https://www.pedidosya.com.uy/restaurantes/montevideo/la-pasiva-pocitos-menu?search=pasiva",
+  "googleMapsUrl": "https://maps.google.com/?cid=2285476762815981549",
+  "rating": 4,
+  "reviewCount": 2551,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.9146408,
+    -56.14934419999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 1:00 AM",
+    "Saturday: 9:00 AM – 1:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confiteria-la-pasiva-montevideo/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confiteria-la-pasiva-montevideo/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confiteria-la-pasiva-montevideo/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confiteria-la-pasiva-montevideo/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confiteria-la-pasiva-montevideo/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:54:33.317Z"
+}

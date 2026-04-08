@@ -1,0 +1,48 @@
+{
+  "slug": "princi-milano",
+  "name": "Princi",
+  "curatedName": "Princi",
+  "city": "Milano",
+  "country": "Italy",
+  "placeId": "ChIJI-rIdKzGhkcR59SrXM5p2Bg",
+  "googleName": "Princi",
+  "formattedAddress": "Via Speronari, 6, 20123 Milano MI, Italy",
+  "phone": "02 874797",
+  "internationalPhone": "+39 02 874797",
+  "website": "https://www.princi.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1790297186918716647",
+  "rating": 4.2,
+  "reviewCount": 4767,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4629919,
+    9.1879952
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/princi-milano/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/princi-milano/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/princi-milano/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/princi-milano/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/princi-milano/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:07:06.216Z"
+}

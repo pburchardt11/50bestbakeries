@@ -1,0 +1,48 @@
+{
+  "slug": "bouchon-bakery-yountville",
+  "name": "Bouchon Bakery",
+  "curatedName": "Bouchon Bakery",
+  "city": "Yountville",
+  "country": "United States",
+  "placeId": "ChIJb6515ENVhIARmPUpwG7DCAE",
+  "googleName": "Bouchon Bakery",
+  "formattedAddress": "6528 Washington St, Yountville, CA 94599, USA",
+  "phone": "(707) 944-2253",
+  "internationalPhone": "+1 707-944-2253",
+  "website": "https://www.thomaskeller.com/bouchonbakeryyountville",
+  "googleMapsUrl": "https://maps.google.com/?cid=74524274289407384",
+  "rating": 4.5,
+  "reviewCount": 803,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.4024339,
+    -122.3617839
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bouchon-bakery-yountville/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bouchon-bakery-yountville/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bouchon-bakery-yountville/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bouchon-bakery-yountville/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bouchon-bakery-yountville/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:19:38.015Z"
+}

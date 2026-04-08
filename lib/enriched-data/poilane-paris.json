@@ -1,0 +1,47 @@
+{
+  "slug": "poilane-paris",
+  "name": "Poilane",
+  "curatedName": "Poilane",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJSdy60tZx5kcR0F5YEiQhLcI",
+  "googleName": "Boulangerie Poilâne",
+  "formattedAddress": "8 Rue du Cherche-Midi, 75006 Paris, France",
+  "phone": "01 45 48 42 59",
+  "internationalPhone": "+33 1 45 48 42 59",
+  "website": "http://www.poilane.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13991876056120319696",
+  "rating": 4.1,
+  "reviewCount": 1111,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8512944,
+    2.3289972
+  ],
+  "openingHours": [
+    "Monday: 7:15 AM – 8:00 PM",
+    "Tuesday: 7:15 AM – 8:00 PM",
+    "Wednesday: 7:15 AM – 8:00 PM",
+    "Thursday: 7:15 AM – 8:00 PM",
+    "Friday: 7:15 AM – 8:00 PM",
+    "Saturday: 7:15 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/poilane-paris/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/poilane-paris/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/poilane-paris/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/poilane-paris/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/poilane-paris/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:46:26.021Z"
+}

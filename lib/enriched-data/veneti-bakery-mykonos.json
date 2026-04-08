@@ -1,0 +1,48 @@
+{
+  "slug": "veneti-bakery-mykonos",
+  "name": "Φούρνος Βενέτη (Veneti Bakery)",
+  "curatedName": "Φούρνος Βενέτη (Veneti Bakery)",
+  "city": "Mykonos",
+  "country": "Greece",
+  "placeId": "ChIJH6pURRC_ohQRd3TqGbNRbW4",
+  "googleName": "Veneti Bakery",
+  "formattedAddress": "Epar.Od. Mikonou-Ano Merias 1422, Mikonos 846 00, Greece",
+  "phone": "2289 027732",
+  "internationalPhone": "+30 2289 027732",
+  "website": "http://www.fournosveneti.gr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7957105946309325943",
+  "rating": 4.3,
+  "reviewCount": 1109,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.4476407,
+    25.3439184
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/veneti-bakery-mykonos/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/veneti-bakery-mykonos/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/veneti-bakery-mykonos/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/veneti-bakery-mykonos/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/veneti-bakery-mykonos/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:46:46.884Z"
+}

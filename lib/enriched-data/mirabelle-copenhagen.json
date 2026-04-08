@@ -1,0 +1,49 @@
+{
+  "slug": "mirabelle-copenhagen",
+  "name": "Mirabelle",
+  "curatedName": "Mirabelle",
+  "city": "Copenhagen",
+  "country": "Denmark",
+  "placeId": "ChIJ2QDM_apTUkYRvlCBYFjWh48",
+  "googleName": "Mirabelle",
+  "formattedAddress": "Denmark, Guldbergsgade 29, 2200 København N, Denmark",
+  "phone": "21 90 04 90",
+  "internationalPhone": "+45 21 90 04 90",
+  "website": "https://mirabelle-spiseria.dk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10342470744344187070",
+  "rating": 4.1,
+  "reviewCount": 932,
+  "priceLevel": 2,
+  "types": [
+    "bar",
+    "establishment",
+    "food",
+    "liquor_store",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    55.6924331,
+    12.5562454
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mirabelle-copenhagen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mirabelle-copenhagen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mirabelle-copenhagen/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mirabelle-copenhagen/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mirabelle-copenhagen/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:56:40.724Z"
+}

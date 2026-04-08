@@ -1,0 +1,46 @@
+{
+  "slug": "tea-market-montevideo",
+  "name": "Tea Market",
+  "curatedName": "Tea Market",
+  "city": "Montevideo",
+  "country": "Uruguay",
+  "placeId": "ChIJu7rhBD-An5URNGrOeeCmeBo",
+  "googleName": "La Tienda del Té",
+  "formattedAddress": "José L. Terra 2220, 11800 Montevideo, Departamento de Montevideo, Uruguay",
+  "phone": "2209 6665",
+  "internationalPhone": "+598 2209 6665",
+  "website": "http://www.latiendadelte.com.uy/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1907457925237860916",
+  "rating": 4.4,
+  "reviewCount": 106,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.8867024,
+    -56.1834785
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tea-market-montevideo/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tea-market-montevideo/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tea-market-montevideo/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tea-market-montevideo/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tea-market-montevideo/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:03:25.790Z"
+}

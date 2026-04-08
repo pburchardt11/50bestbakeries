@@ -1,0 +1,46 @@
+{
+  "slug": "kaldis-coffee-addis-ababa",
+  "name": "Kaldis Coffee",
+  "curatedName": "Kaldis Coffee",
+  "city": "Addis Ababa",
+  "country": "Ethiopia",
+  "placeId": "ChIJIUZXoimESxYRjpO3qrWr6i8",
+  "googleName": "Kaldis Coffee Sarbet Branch | ካልዲስ ኮፊ ሳርቤት ቅርጫፍ",
+  "formattedAddress": "Sarbet Adams Pavillion Building, Roosevelt St, Addis Ababa, Ethiopia",
+  "phone": "011 371 4258",
+  "internationalPhone": "+251 11 371 4258",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3452760861074494350",
+  "rating": 3.6,
+  "reviewCount": 82,
+  "priceLevel": null,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    8.9949347,
+    38.7391777
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaldis-coffee-addis-ababa/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaldis-coffee-addis-ababa/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaldis-coffee-addis-ababa/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaldis-coffee-addis-ababa/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaldis-coffee-addis-ababa/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:46:01.830Z"
+}

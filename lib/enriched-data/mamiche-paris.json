@@ -1,0 +1,47 @@
+{
+  "slug": "mamiche-paris",
+  "name": "Mamiche",
+  "curatedName": "Mamiche",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJ___rCkFu5kcRdE0buxMMHjA",
+  "googleName": "Mamiche",
+  "formattedAddress": "45 Rue Condorcet, 75009 Paris, France",
+  "phone": "01 53 21 03 68",
+  "internationalPhone": "+33 1 53 21 03 68",
+  "website": "http://www.mamiche.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3467222042004901236",
+  "rating": 4.6,
+  "reviewCount": 2538,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8800888,
+    2.3435419
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Traditional bakery specializing in artisanal breads, cookies & pastries, plus coffee & sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mamiche-paris/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mamiche-paris/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mamiche-paris/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mamiche-paris/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mamiche-paris/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:20:34.840Z"
+}

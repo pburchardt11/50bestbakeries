@@ -1,0 +1,46 @@
+{
+  "slug": "wildflour-cafe-and-bakery-san-juan",
+  "name": "Wildflour Cafe And Bakery",
+  "curatedName": "Wildflour Cafe And Bakery",
+  "city": "San Juan",
+  "country": "Philippines",
+  "placeId": "ChIJ4WeIh9i3lzMROCXy-F2W9CY",
+  "googleName": "Wildflour Restaurant - Greenhills",
+  "formattedAddress": "Ground Floor, O-Square Wilson Street corner Ortigas Avenue Greenhills Shopping Center, San Juan City, 1502 Metro Manila, Philippines",
+  "phone": "0917 627 9679",
+  "internationalPhone": "+63 917 627 9679",
+  "website": "https://www.wildflour.com.ph/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2807033798111405368",
+  "rating": 4.5,
+  "reviewCount": 1240,
+  "priceLevel": 3,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.6014909,
+    121.0477145
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wildflour-cafe-and-bakery-san-juan/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wildflour-cafe-and-bakery-san-juan/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wildflour-cafe-and-bakery-san-juan/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wildflour-cafe-and-bakery-san-juan/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wildflour-cafe-and-bakery-san-juan/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:08:51.912Z"
+}

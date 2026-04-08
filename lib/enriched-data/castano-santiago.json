@@ -1,0 +1,43 @@
+{
+  "slug": "castano-santiago",
+  "name": "Castaño",
+  "curatedName": "Castaño",
+  "city": "Santiago",
+  "country": "Chile",
+  "placeId": "ChIJb1yaBaLFYpYRI70xm-Ivr58",
+  "googleName": "Castaño",
+  "formattedAddress": "Huérfanos 638, 8320350 Santiago, Región Metropolitana, Chile",
+  "phone": "(2) 2499 8830",
+  "internationalPhone": "+56 2 2499 8830",
+  "website": "http://www.castano.cl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11506468223267749155",
+  "rating": 4.1,
+  "reviewCount": 214,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.43921,
+    -70.6457394
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T08:44:29.585Z"
+}

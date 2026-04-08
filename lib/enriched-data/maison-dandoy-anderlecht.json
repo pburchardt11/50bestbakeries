@@ -1,0 +1,41 @@
+{
+  "slug": "maison-dandoy-anderlecht",
+  "name": "Maison Dandoy",
+  "curatedName": "Maison Dandoy",
+  "city": "Anderlecht",
+  "country": "Belgium",
+  "placeId": "ChIJQ6MvzXjEw0cRSc77Kw2_zS0",
+  "googleName": "Maison Dandoy",
+  "formattedAddress": "Rue Charles Buls 14, 1000 Bruxelles, Belgium",
+  "phone": "02 512 65 88",
+  "internationalPhone": "+32 2 512 65 88",
+  "website": "http://www.maisondandoy.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3300504165225844297",
+  "rating": 3.8,
+  "reviewCount": 4485,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.8461197,
+    4.3520321
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T08:43:57.777Z"
+}

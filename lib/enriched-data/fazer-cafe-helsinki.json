@@ -1,0 +1,48 @@
+{
+  "slug": "fazer-cafe-helsinki",
+  "name": "Fazer Café",
+  "curatedName": "Fazer Café",
+  "city": "Helsinki",
+  "country": "Finland",
+  "placeId": "ChIJi_D3ks4LkkYRTaAZ8AQATsg",
+  "googleName": "Fazer Café Kluuvikatu",
+  "formattedAddress": "Kluuvikatu 3, 00100 Helsinki, Finland",
+  "phone": "040 5902434",
+  "internationalPhone": "+358 40 5902434",
+  "website": "https://www.fazer.fi/fazer-cafe/kahvilat/karl-fazer-cafe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14433473876977098829",
+  "rating": 4.4,
+  "reviewCount": 5857,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    60.1686468,
+    24.9476736
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fazer-cafe-helsinki/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fazer-cafe-helsinki/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fazer-cafe-helsinki/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fazer-cafe-helsinki/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fazer-cafe-helsinki/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:57:01.269Z"
+}

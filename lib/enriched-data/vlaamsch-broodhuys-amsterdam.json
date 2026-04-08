@@ -1,0 +1,49 @@
+{
+  "slug": "vlaamsch-broodhuys-amsterdam",
+  "name": "Vlaamsch Broodhuys",
+  "curatedName": "Vlaamsch Broodhuys",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "placeId": "ChIJtetzzOYJxkcRlV3TRm5swGE",
+  "googleName": "Vlaamsch Broodhuys",
+  "formattedAddress": "Eerste Constantijn Huygensstraat 64, 1054 BR Amsterdam, Netherlands",
+  "phone": "020 689 9131",
+  "internationalPhone": "+31 20 689 9131",
+  "website": "https://www.vlaamschbroodhuys.nl/winkels/amsterdam/eerste-constantijn-huygensstraat/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7043749038097915285",
+  "rating": 3.6,
+  "reviewCount": 651,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.3639253,
+    4.8742139
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vlaamsch-broodhuys-amsterdam/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vlaamsch-broodhuys-amsterdam/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vlaamsch-broodhuys-amsterdam/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vlaamsch-broodhuys-amsterdam/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vlaamsch-broodhuys-amsterdam/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:51:09.990Z"
+}

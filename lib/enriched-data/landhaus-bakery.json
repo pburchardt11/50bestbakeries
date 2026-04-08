@@ -1,0 +1,39 @@
+{
+  "slug": "landhaus-bakery",
+  "name": "Landhaus Bakery",
+  "curatedName": "Landhaus Bakery",
+  "city": "กรุงเทพมหานคร",
+  "country": "Thailand",
+  "placeId": "ChIJU0co1Kee4jARQOxxPxZl2Ao",
+  "googleName": "Landhaus Bakery",
+  "formattedAddress": "18 Soi Phahonyothin 5, Khwaeng Samsen Nai, Khet Phaya Thai, Krung Thep Maha Nakhon 10400, Thailand",
+  "phone": "02 165 0322",
+  "internationalPhone": "+66 2 165 0322",
+  "website": "https://landhaus-bakery-bangkok.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=781485681576897600",
+  "rating": 4.3,
+  "reviewCount": 1201,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_TEMPORARILY",
+  "coords": [
+    13.777467,
+    100.5411168
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/landhaus-bakery/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/landhaus-bakery/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/landhaus-bakery/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/landhaus-bakery/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/landhaus-bakery/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:10:33.702Z"
+}

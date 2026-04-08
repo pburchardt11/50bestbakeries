@@ -1,0 +1,48 @@
+{
+  "slug": "brasserie-bread-sydney",
+  "name": "Brasserie Bread",
+  "curatedName": "Brasserie Bread",
+  "city": "Sydney",
+  "country": "Australia",
+  "placeId": "ChIJvVDo6-SwEmsRutaLZTPXFq0",
+  "googleName": "Brasserie Bread Sydney Airport",
+  "formattedAddress": "Keith Smith Ave, Mascot NSW 2020, Australia",
+  "phone": "1300 966 845",
+  "internationalPhone": "+61 1300 966 845",
+  "website": "https://brasseriebread.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12472392833796134586",
+  "rating": 3.4,
+  "reviewCount": 104,
+  "priceLevel": null,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.9342971,
+    151.1786956
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 8:00 PM",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 5:30 AM – 8:00 PM",
+    "Sunday: 5:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brasserie-bread-sydney/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brasserie-bread-sydney/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brasserie-bread-sydney/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brasserie-bread-sydney/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brasserie-bread-sydney/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:16:18.869Z"
+}

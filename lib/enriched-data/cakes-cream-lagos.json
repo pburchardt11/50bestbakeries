@@ -1,0 +1,47 @@
+{
+  "slug": "cakes-cream-lagos",
+  "name": "Cakes & Cream",
+  "curatedName": "Cakes & Cream",
+  "city": "Lagos",
+  "country": "Nigeria",
+  "placeId": "ChIJ4_R_eWmSOxAR8bu_1vot9hw",
+  "googleName": "Cakes and Cream Opebi",
+  "formattedAddress": "95 Opebi Rd, Opebi, Ikeja 101233, Lagos, Nigeria",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://cakesandcream.ng/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2086906032700767217",
+  "rating": 4.4,
+  "reviewCount": 3960,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    6.585647499999999,
+    3.3648936
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-cream-lagos/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-cream-lagos/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-cream-lagos/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-cream-lagos/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-cream-lagos/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:51:34.923Z"
+}

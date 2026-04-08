@@ -1,0 +1,47 @@
+{
+  "slug": "balthazar-bakery-englewood",
+  "name": "Balthazar Bakery",
+  "curatedName": "Balthazar Bakery",
+  "city": "Englewood",
+  "country": "United States",
+  "placeId": "ChIJP6MlzibxwokRAjtrpA60xvE",
+  "googleName": "Balthazar Bakery",
+  "formattedAddress": "214 S Dean St, Englewood, NJ 07631, USA",
+  "phone": "(201) 503-9717",
+  "internationalPhone": "+1 201-503-9717",
+  "website": "http://www.balthazarbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17421810183510375170",
+  "rating": 4.6,
+  "reviewCount": 626,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.8873839,
+    -73.9793135
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "French-inspired bakery offering baguettes, croissants & fruit tarts in a bustling, compact setting.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/balthazar-bakery-englewood/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/balthazar-bakery-englewood/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/balthazar-bakery-englewood/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/balthazar-bakery-englewood/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/balthazar-bakery-englewood/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:20:24.142Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "breadtalk-jakarta",
+  "name": "BreadTalk",
+  "curatedName": "BreadTalk",
+  "city": "Jakarta",
+  "country": "Indonesia",
+  "placeId": "ChIJbQkrcq-MaS4RlibbFtEwTlE",
+  "googleName": "MAKO Buaran Plaza",
+  "formattedAddress": "1, Jl. Buaran Raya No.98 8, RT.8/RW.12, Klender, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13470, Indonesia",
+  "phone": "(021) 86615123",
+  "internationalPhone": "+62 21 86615123",
+  "website": "http://www.makobakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5858673839845353110",
+  "rating": 4,
+  "reviewCount": 156,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.2177609,
+    106.9242997
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadtalk-jakarta/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadtalk-jakarta/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadtalk-jakarta/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadtalk-jakarta/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadtalk-jakarta/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:47:41.754Z"
+}

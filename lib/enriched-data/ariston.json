@@ -1,0 +1,46 @@
+{
+  "slug": "ariston",
+  "name": "Ariston",
+  "curatedName": "Ariston",
+  "city": "Αχαρνές",
+  "country": "Greece",
+  "placeId": "ChIJh5UhZMujoRQRuVJWeXSo3NI",
+  "googleName": "Ariston",
+  "formattedAddress": "Ἀcharnon 85, Athina 104 40, Greece",
+  "phone": "21 0882 4321",
+  "internationalPhone": "+30 21 0882 4321",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15194204461046583993",
+  "rating": 4.1,
+  "reviewCount": 60,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.99453560000001,
+    23.7270237
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 11:30 PM",
+    "Tuesday: 12:00 – 11:30 PM",
+    "Wednesday: Closed",
+    "Thursday: 12:00 – 11:55 PM",
+    "Friday: 12:00 AM – 11:30 PM",
+    "Saturday: 12:00 – 11:30 PM",
+    "Sunday: 12:00 PM – 11:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ariston/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ariston/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ariston/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ariston/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ariston/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:57:30.329Z"
+}

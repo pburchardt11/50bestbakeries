@@ -1,0 +1,48 @@
+{
+  "slug": "pasteis-de-belem-lisbon",
+  "name": "Pastéis de Belém",
+  "curatedName": "Pastéis de Belém",
+  "city": "Lisbon",
+  "country": "Portugal",
+  "placeId": "ChIJW3H9LkXLHg0RZZZttMb27_8",
+  "googleName": "Pastéis de Belém",
+  "formattedAddress": "R. de Belém 84 92, 1300-085 Lisboa, Portugal",
+  "phone": "21 363 7423",
+  "internationalPhone": "+351 21 363 7423",
+  "website": "https://pasteisdebelem.pt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18442230332396508773",
+  "rating": 4.6,
+  "reviewCount": 97049,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.6975105,
+    -9.203227600000002
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Large, airy bakery cafe offering Portuguese baked goods including tarts & breads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteis-de-belem-lisbon/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteis-de-belem-lisbon/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteis-de-belem-lisbon/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteis-de-belem-lisbon/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteis-de-belem-lisbon/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:52:25.076Z"
+}

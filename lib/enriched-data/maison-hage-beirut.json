@@ -1,0 +1,43 @@
+{
+  "slug": "maison-hage-beirut",
+  "name": "Maison Hage",
+  "curatedName": "Maison Hage",
+  "city": "Beirut",
+  "country": "Lebanon",
+  "placeId": "ChIJF0mhRWcXHxURsye0cplExPE",
+  "googleName": "Gallery elias el hage",
+  "formattedAddress": "VGMQ+4HQ, Lebanon",
+  "phone": "01 485 214",
+  "internationalPhone": "+961 1 485 214",
+  "website": "http://www.galleryeliaselhage.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17421124684421015475",
+  "rating": 4.1,
+  "reviewCount": 17,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "furniture_store",
+    "home_goods_store",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.8828401,
+    35.5389935
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:30 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-hage-beirut/0.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:50:20.151Z"
+}

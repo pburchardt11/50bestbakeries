@@ -1,0 +1,38 @@
+{
+  "slug": "gloutonnerie-mexico-city",
+  "name": "Gloutonnerie",
+  "curatedName": "Gloutonnerie",
+  "city": "Mexico City",
+  "country": "Mexico",
+  "placeId": "ChIJvXM1XFX_0YURburQMT36DTk",
+  "googleName": "Gloutonnerie",
+  "formattedAddress": "Campos Elíseos 142, Polanco, Polanco V Secc, Miguel Hidalgo, 11850 Ciudad de México, CDMX, Mexico",
+  "phone": "55 5250 3555",
+  "internationalPhone": "+52 55 5250 3555",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4111217175594855022",
+  "rating": 4.6,
+  "reviewCount": 374,
+  "priceLevel": 4,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    19.4292492,
+    -99.18947010000001
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gloutonnerie-mexico-city/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gloutonnerie-mexico-city/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gloutonnerie-mexico-city/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gloutonnerie-mexico-city/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gloutonnerie-mexico-city/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:07:44.450Z"
+}

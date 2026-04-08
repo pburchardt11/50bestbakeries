@@ -1,0 +1,47 @@
+{
+  "slug": "st-john-bakery-london",
+  "name": "St John Bakery",
+  "curatedName": "St John Bakery",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJm3-SykYDdkgR0zKp9TrIZH4",
+  "googleName": "St. JOHN Bakery",
+  "formattedAddress": "72 Druid St, London SE1 2HQ, UK",
+  "phone": "020 7237 5999",
+  "internationalPhone": "+44 20 7237 5999",
+  "website": "https://stjohnrestaurant.com/pages/bakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=9107624502005150419",
+  "rating": 4,
+  "reviewCount": 202,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.4998375,
+    -0.07559099999999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Standalone bakery for well-known restaurant group, selling fresh bread and cakes every Saturday.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-john-bakery-london/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-john-bakery-london/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-john-bakery-london/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-john-bakery-london/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-john-bakery-london/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:10:57.976Z"
+}

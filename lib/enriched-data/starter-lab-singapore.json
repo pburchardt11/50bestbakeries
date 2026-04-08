@@ -1,0 +1,37 @@
+{
+  "slug": "starter-lab-singapore",
+  "name": "Starter Lab",
+  "curatedName": "Starter Lab",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJd6LT3FYZ2jERWyZq4aZl8C4",
+  "googleName": "Starter Lab Central Kitchen",
+  "formattedAddress": "25 Harper Rd, #09-01, Singapore 369683",
+  "phone": "9839 0408",
+  "internationalPhone": "+65 9839 0408",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3382315087576049243",
+  "rating": 4.1,
+  "reviewCount": 564,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.3346701,
+    103.8871584
+  ],
+  "openingHours": null,
+  "editorialSummary": "Straightforward bakery offering fresh sourdough bread, plus a selection of savoury & sweet toasts.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/starter-lab-singapore/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/starter-lab-singapore/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/starter-lab-singapore/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/starter-lab-singapore/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/starter-lab-singapore/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:09:24.493Z"
+}

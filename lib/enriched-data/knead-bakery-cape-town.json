@@ -1,0 +1,49 @@
+{
+  "slug": "knead-bakery-cape-town",
+  "name": "Knead Bakery",
+  "curatedName": "Knead Bakery",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "placeId": "ChIJl6sSnVZAzB0RN7CuNQ6c0OQ",
+  "googleName": "Knead Bakery",
+  "formattedAddress": "82 Beach Rd, Muizenberg, Cape Town, 7945, South Africa",
+  "phone": "021 213 0014",
+  "internationalPhone": "+27 21 213 0014",
+  "website": "https://www.kneadbakery.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16487849820647501879",
+  "rating": 4.1,
+  "reviewCount": 1922,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.1080714,
+    18.4697077
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/knead-bakery-cape-town/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/knead-bakery-cape-town/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/knead-bakery-cape-town/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/knead-bakery-cape-town/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/knead-bakery-cape-town/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:09:35.503Z"
+}

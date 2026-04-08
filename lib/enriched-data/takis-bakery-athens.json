@@ -1,0 +1,47 @@
+{
+  "slug": "takis-bakery-athens",
+  "name": "Takis Bakery",
+  "curatedName": "Takis Bakery",
+  "city": "Athens",
+  "country": "Greece",
+  "placeId": "ChIJL02tEhq9oRQRzzXJuO4Aglk",
+  "googleName": "Takis Bakery",
+  "formattedAddress": "Misaraliotou 14, Athina 117 42, Greece",
+  "phone": "21 0923 0052",
+  "internationalPhone": "+30 21 0923 0052",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6449718641650382287",
+  "rating": 4.7,
+  "reviewCount": 1676,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.9676895,
+    23.726795
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/takis-bakery-athens/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/takis-bakery-athens/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/takis-bakery-athens/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/takis-bakery-athens/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/takis-bakery-athens/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:13:20.134Z"
+}

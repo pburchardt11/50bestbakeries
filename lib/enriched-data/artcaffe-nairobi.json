@@ -1,0 +1,50 @@
+{
+  "slug": "artcaffe-nairobi",
+  "name": "ArtCaffé",
+  "curatedName": "ArtCaffé",
+  "city": "Nairobi",
+  "country": "Kenya",
+  "placeId": "ChIJs0E5iOsRLxgRaO8mX3_WrIw",
+  "googleName": "Artcaffé Restaurant Kenyatta Avenue",
+  "formattedAddress": "Sanlam House, Kenyatta Ave, Nairobi, Kenya",
+  "phone": "0709 828282",
+  "internationalPhone": "+254 709 828282",
+  "website": "https://www.artcaffe.co.ke/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10136712703849721704",
+  "rating": 4.6,
+  "reviewCount": 1985,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -1.284293,
+    36.8223407
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 11:00 PM",
+    "Tuesday: 6:30 AM – 11:00 PM",
+    "Wednesday: 6:30 AM – 11:00 PM",
+    "Thursday: 6:30 AM – 11:00 PM",
+    "Friday: 6:30 AM – 11:00 PM",
+    "Saturday: 6:30 AM – 11:00 PM",
+    "Sunday: 6:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artcaffe-nairobi/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artcaffe-nairobi/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artcaffe-nairobi/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artcaffe-nairobi/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artcaffe-nairobi/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:50:18.370Z"
+}

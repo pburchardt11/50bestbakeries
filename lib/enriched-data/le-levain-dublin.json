@@ -1,0 +1,40 @@
+{
+  "slug": "le-levain-dublin",
+  "name": "Le Levain",
+  "curatedName": "Le Levain",
+  "city": "Dublin",
+  "country": "Ireland",
+  "placeId": "ChIJaeoQYJkPZ0gRSQJdLrszmp8",
+  "googleName": "Le Levain Bakery - Saturday Market Stall",
+  "formattedAddress": "2 Curved St, Temple Bar, Dublin, D02 PC43, Ireland",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11500561477473731145",
+  "rating": 5,
+  "reviewCount": 4,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.34489379999999,
+    -6.2647685
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-levain-dublin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:06:45.914Z"
+}

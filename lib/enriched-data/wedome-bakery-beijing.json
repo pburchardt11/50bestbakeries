@@ -1,0 +1,33 @@
+{
+  "slug": "wedome-bakery-beijing",
+  "name": "味多美 Wedomé Bakery",
+  "curatedName": "味多美 Wedomé Bakery",
+  "city": "Beijing",
+  "country": "China",
+  "placeId": "ChIJb1a8Pa1S8DURqB24TbwvpYs",
+  "googleName": "Wedome",
+  "formattedAddress": "11 Chong Wen Men Wai Da Jie, Chongwenmen, Dong Cheng Qu, Bei Jing Shi, China, 100051",
+  "phone": "010 6708 0970",
+  "internationalPhone": "+86 10 6708 0970",
+  "website": "http://www.wdmcake.cn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10062501428233510312",
+  "rating": 3.8,
+  "reviewCount": 5,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.89363,
+    116.418037
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T08:44:31.860Z"
+}

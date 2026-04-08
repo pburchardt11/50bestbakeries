@@ -1,0 +1,47 @@
+{
+  "slug": "chleb-od-leszka-warsaw",
+  "name": "Chleb od Leszka",
+  "curatedName": "Chleb od Leszka",
+  "city": "Warsaw",
+  "country": "Poland",
+  "placeId": "ChIJITDCNEXNHkcRxOwn0J6ELkY",
+  "googleName": "Bread and Butter",
+  "formattedAddress": "Walecznych 5, 03-916 Warszawa, Poland",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.facebook.com/profile.php?id=100079497626597",
+  "googleMapsUrl": "https://maps.google.com/?cid=5057125249215622340",
+  "rating": 4.7,
+  "reviewCount": 133,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.2349542,
+    21.0479022
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chleb-od-leszka-warsaw/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chleb-od-leszka-warsaw/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chleb-od-leszka-warsaw/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chleb-od-leszka-warsaw/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chleb-od-leszka-warsaw/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:14:48.082Z"
+}

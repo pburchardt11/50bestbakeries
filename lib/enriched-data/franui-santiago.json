@@ -1,0 +1,46 @@
+{
+  "slug": "franui-santiago",
+  "name": "Franui",
+  "curatedName": "Franui",
+  "city": "Santiago",
+  "country": "Chile",
+  "placeId": "ChIJx_kEvV9NYA0R3JBiDcLvc14",
+  "googleName": "Fra Nui España",
+  "formattedAddress": "Carrer dels Gremis, 8, 46290 Alcàsser, Valencia, Spain",
+  "phone": "961 65 80 59",
+  "internationalPhone": "+34 961 65 80 59",
+  "website": "https://franui.es/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6806047078614208732",
+  "rating": 4.6,
+  "reviewCount": 38,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.3698108,
+    -0.4364565
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:30 PM",
+    "Tuesday: 8:00 AM – 4:30 PM",
+    "Wednesday: 8:00 AM – 4:30 PM",
+    "Thursday: 8:00 AM – 4:30 PM",
+    "Friday: 8:00 AM – 4:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/franui-santiago/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/franui-santiago/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/franui-santiago/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/franui-santiago/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/franui-santiago/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:55:54.858Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "flurys-kolkata",
+  "name": "Flurys",
+  "curatedName": "Flurys",
+  "city": "Kolkata",
+  "country": "India",
+  "placeId": "ChIJ77oK-w93AjoRvZonWTOWjIY",
+  "googleName": "Flurys",
+  "formattedAddress": "18A, Park St, Park Street area, Kolkata, West Bengal 700071, India",
+  "phone": "033 4000 7452",
+  "internationalPhone": "+91 33 4000 7452",
+  "website": "http://flurys.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9695289245105101501",
+  "rating": 4.2,
+  "reviewCount": 13367,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.5528088,
+    88.3524338
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Open since 1927, this stylish tearoom serves Indian & European cakes/pastries, plus light fare.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flurys-kolkata/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flurys-kolkata/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flurys-kolkata/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flurys-kolkata/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flurys-kolkata/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:47:32.268Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "sosta-bar-stockholm",
+  "name": "Sosta Bar",
+  "curatedName": "Sosta Bar",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "placeId": "ChIJk4MCvGidX0YRh92fmVUlg5I",
+  "googleName": "Sosta Bar",
+  "formattedAddress": "Sveavägen 84-86, 113 59 Stockholm, Sweden",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.sosta.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10557323001066413447",
+  "rating": 4.7,
+  "reviewCount": 423,
+  "priceLevel": 1,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.3408382,
+    18.0588699
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sosta-bar-stockholm/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sosta-bar-stockholm/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sosta-bar-stockholm/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sosta-bar-stockholm/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sosta-bar-stockholm/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:15:31.183Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "offerl-wien",
+  "name": "Öfferl",
+  "curatedName": "Öfferl",
+  "city": "Wien",
+  "country": "Austria",
+  "placeId": "ChIJx-KHzLwHbUcR0QjcK8QPQYU",
+  "googleName": "Öfferl - Wollzeile 31",
+  "formattedAddress": "Wollzeile 31, 1010 Wien, Austria",
+  "phone": "02522 88337",
+  "internationalPhone": "+43 2522 88337",
+  "website": "https://www.oefferl.bio/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9601973215754455249",
+  "rating": 4.5,
+  "reviewCount": 2384,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.2080153,
+    16.3778306
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/offerl-wien/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/offerl-wien/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/offerl-wien/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/offerl-wien/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/offerl-wien/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:16:38.867Z"
+}

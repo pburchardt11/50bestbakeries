@@ -1,0 +1,48 @@
+{
+  "slug": "banh-mi-phuong-hoi-an",
+  "name": "Bánh Mì Phượng",
+  "curatedName": "Bánh Mì Phượng",
+  "city": "Hoi An",
+  "country": "Vietnam",
+  "placeId": "ChIJdbnbh9UNQjER12kILnndFNI",
+  "googleName": "Bánh Mì Phượng",
+  "formattedAddress": "2b Đ. Phan Chu Trinh, Cẩm Châu, Hội An, Đà Nẵng 560000, Vietnam",
+  "phone": "0905 743 773",
+  "internationalPhone": "+84 905 743 773",
+  "website": "https://tiembanhmiphuong.blogspot.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15137967760032164311",
+  "rating": 4.3,
+  "reviewCount": 15682,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    15.878499,
+    108.3320488
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-mi-phuong-hoi-an/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-mi-phuong-hoi-an/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-mi-phuong-hoi-an/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-mi-phuong-hoi-an/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-mi-phuong-hoi-an/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T08:54:41.417Z"
+}

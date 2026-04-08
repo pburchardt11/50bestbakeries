@@ -1,0 +1,48 @@
+{
+  "slug": "paris-baguette-jakarta",
+  "name": "Paris Baguette Jakarta",
+  "curatedName": "Paris Baguette Jakarta",
+  "city": "Jakarta",
+  "country": "Indonesia",
+  "placeId": "ChIJ4VLGlgHxaS4RvHrCRGcxYyo",
+  "googleName": "Paris Baguette - ASHTA District 8",
+  "formattedAddress": "Ashta District 8, SCBD, Ground Floor, Jl. Jend. Sudirman kav 52-53, RT.8/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190, Indonesia",
+  "phone": "0812-2027-8787",
+  "internationalPhone": "+62 812-2027-8787",
+  "website": "https://www.instagram.com/parisbaguette_id/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3054339291892316860",
+  "rating": 4.5,
+  "reviewCount": 508,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.2283539,
+    106.8070164
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Cafe & bakery chain serving French pastries, bread, cakes & sandwiches, plus tea & coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-jakarta/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-jakarta/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-jakarta/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-jakarta/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-jakarta/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:06:44.060Z"
+}

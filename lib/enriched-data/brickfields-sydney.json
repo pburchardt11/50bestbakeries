@@ -1,0 +1,48 @@
+{
+  "slug": "brickfields-sydney",
+  "name": "Brickfields",
+  "curatedName": "Brickfields",
+  "city": "Sydney",
+  "country": "Australia",
+  "placeId": "ChIJcaWgOdixEmsRL0vXy_mP1a0",
+  "googleName": "Brickfields Chippendale",
+  "formattedAddress": "206 Cleveland St, Chippendale NSW 2008, Australia",
+  "phone": "(02) 9698 7880",
+  "internationalPhone": "+61 2 9698 7880",
+  "website": "http://brickfields.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12526076241630415663",
+  "rating": 4.3,
+  "reviewCount": 883,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.888583,
+    151.199792
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brickfields-sydney/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brickfields-sydney/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brickfields-sydney/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brickfields-sydney/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brickfields-sydney/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:03:50.368Z"
+}

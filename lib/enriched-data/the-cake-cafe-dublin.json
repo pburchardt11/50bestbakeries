@@ -1,0 +1,49 @@
+{
+  "slug": "the-cake-cafe-dublin",
+  "name": "The Cake Café",
+  "curatedName": "The Cake Café",
+  "city": "Dublin",
+  "country": "Ireland",
+  "placeId": "ChIJ1YrPOyAMZ0gRCMDPbVBN_Gk",
+  "googleName": "The Cake Cafe",
+  "formattedAddress": "The Daintree Building, 8 Pleasants Pl, Saint Kevin's, Dublin, Ireland",
+  "phone": "(01) 478 9394",
+  "internationalPhone": "+353 1 478 9394",
+  "website": "https://www.cakecafe.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7637064075948572680",
+  "rating": 4.5,
+  "reviewCount": 863,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.33451969999999,
+    -6.265897100000001
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Mismatched tablecloths give a old world kitsch to this trendy low level cafe with courtyard seating.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-cafe-dublin/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-cafe-dublin/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-cafe-dublin/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-cafe-dublin/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-cafe-dublin/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:13:55.435Z"
+}

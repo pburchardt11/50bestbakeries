@@ -1,0 +1,49 @@
+{
+  "slug": "zingerman-s-bakehouse-ann-arbor",
+  "name": "Zingerman's Bakehouse",
+  "curatedName": "Zingerman's Bakehouse",
+  "city": "Ann Arbor",
+  "country": "United States",
+  "placeId": "ChIJ8Yci6PGvPIgRV8MmqbRCRdc",
+  "googleName": "Zingerman's Bakehouse",
+  "formattedAddress": "3711 Plaza Dr, Ann Arbor, MI 48108, USA",
+  "phone": "(734) 761-2095",
+  "internationalPhone": "+1 734-761-2095",
+  "website": "http://www.zingermansbakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15511877835246977879",
+  "rating": 4.7,
+  "reviewCount": 557,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.2327906,
+    -83.7478647
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Cozy bakery offering breads, bagels, pastries & Hungarian classics, plus soups & sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zingerman-s-bakehouse-ann-arbor/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zingerman-s-bakehouse-ann-arbor/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zingerman-s-bakehouse-ann-arbor/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zingerman-s-bakehouse-ann-arbor/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zingerman-s-bakehouse-ann-arbor/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:21:35.386Z"
+}

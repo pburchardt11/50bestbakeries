@@ -1,0 +1,46 @@
+{
+  "slug": "cserpes-tejivo-budapest",
+  "name": "Cserpes Tejivó",
+  "curatedName": "Cserpes Tejivó",
+  "city": "Budapest",
+  "country": "Hungary",
+  "placeId": "ChIJw8taGljcQUcRzYoMDbJzBG4",
+  "googleName": "Cserpes Tejivó",
+  "formattedAddress": "Budapest, Corvin köz 1082, 1082 Hungary",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.cserpestejivo.hu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7927588452639214285",
+  "rating": 4.5,
+  "reviewCount": 2081,
+  "priceLevel": 2,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.4861222,
+    19.070715
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cserpes-tejivo-budapest/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cserpes-tejivo-budapest/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cserpes-tejivo-budapest/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cserpes-tejivo-budapest/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cserpes-tejivo-budapest/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:13:29.615Z"
+}

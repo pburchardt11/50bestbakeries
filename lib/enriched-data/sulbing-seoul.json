@@ -1,0 +1,46 @@
+{
+  "slug": "sulbing-seoul",
+  "name": "Sulbing",
+  "curatedName": "Sulbing",
+  "city": "Seoul",
+  "country": "South Korea",
+  "placeId": "ChIJI0qfR8OYfDUR2ZtOVHA-Wec",
+  "googleName": "Sulbing Hongik Univ. station branch",
+  "formattedAddress": "15 Hongik-ro 6-gil, Mapo-gu, Seoul, South Korea",
+  "phone": "02-323-3287",
+  "internationalPhone": "+82 2-323-3287",
+  "website": "https://sulbing.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16670424147860298713",
+  "rating": 4.2,
+  "reviewCount": 1993,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.55531939999999,
+    126.9226786
+  ],
+  "openingHours": [
+    "Monday: 12:00 PM – 12:00 AM",
+    "Tuesday: 12:00 PM – 12:00 AM",
+    "Wednesday: 12:00 PM – 12:00 AM",
+    "Thursday: 12:00 PM – 12:00 AM",
+    "Friday: 12:00 PM – 12:00 AM",
+    "Saturday: 12:00 PM – 12:00 AM",
+    "Sunday: 12:00 PM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sulbing-seoul/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sulbing-seoul/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sulbing-seoul/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sulbing-seoul/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sulbing-seoul/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T09:09:45.990Z"
+}
