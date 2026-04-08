@@ -1,19 +1,7 @@
 import { NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth/next';
 import { authOptions } from '../../auth/[...nextauth]/route';
-
-let kv = null;
-async function getKV() {
-  if (kv !== null) return kv;
-  try {
-    const mod = require('@vercel/kv');
-    kv = mod.kv;
-    return kv;
-  } catch (e) {
-    kv = false;
-    return false;
-  }
-}
+import { getKV } from '../../../../lib/kv';
 
 export async function GET() {
   const session = await getServerSession(authOptions);

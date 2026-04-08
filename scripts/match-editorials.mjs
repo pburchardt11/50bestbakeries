@@ -116,8 +116,23 @@ console.log('Indexed ' + Object.keys(dbIndex).length + ' countries');
 // ─── Load raw editorial entries ───
 const wikidata = JSON.parse(fs.readFileSync(path.join(SRC_DIR, 'wikidata.json'), 'utf8'));
 const wikiList = JSON.parse(fs.readFileSync(path.join(SRC_DIR, 'wikipedia-list.json'), 'utf8'));
-const raw = [...wikidata, ...wikiList];
-console.log('Editorial entries to match: ' + raw.length);
+// Curated entries from training knowledge — tagged with source + per-country ordinal
+const curatedRaw = JSON.parse(fs.readFileSync(path.join(SRC_DIR, 'curated.json'), 'utf8'));
+// Within each country, preserve curator's original order as curatorRank (1 = best)
+const _curatorRankByCountry = {};
+const curated = curatedRaw.map(c => {
+  const country = c.country;
+  _curatorRankByCountry[country] = (_curatorRankByCountry[country] || 0) + 1;
+  return {
+    ...c,
+    source: 'Curated',
+    sourceUrl: null,
+    isCurated: true,
+    curatorRank: _curatorRankByCountry[country],
+  };
+});
+const raw = [...wikidata, ...wikiList, ...curated];
+console.log('Editorial entries to match: ' + raw.length + ' (wikidata ' + wikidata.length + ', wikipedia ' + wikiList.length + ', curated ' + curated.length + ')');
 
 // ─── Match ───
 let matchedExact = 0, matchedTokens = 0, matchedTokensCityFuzzy = 0, unmatched = 0;

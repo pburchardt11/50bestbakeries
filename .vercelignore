@@ -1,0 +1,27 @@
+# Vercel deploys IGNORE only these; everything else is uploaded.
+# Unlike .gitignore, .vercelignore is consulted directly by `vercel deploy`.
+
+# Build artefacts and caches
+.next/
+node_modules/
+
+# Local env (secrets are managed via `vercel env add`)
+.env
+.env.local
+.env.development.local
+.env.production.local
+.env*.local
+
+# Git metadata
+.git/
+.gitignore
+
+# One-time import cache (not needed at runtime)
+scripts/overture-bakeries.parquet
+
+# Intermediate editorial pipeline files (the consolidated lib/editorial-data.js IS kept)
+lib/editorial-sources/
+
+# Misc temp
+/tmp-*.json
+scripts/upload-progress.json

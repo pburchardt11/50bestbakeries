@@ -31,6 +31,7 @@ for (const m of matched) {
       wikipedia: null,
       coords: null,
       founded: null,
+      curatorRank: null,
     });
   }
   const e = byKey.get(key);
@@ -43,16 +44,42 @@ for (const m of matched) {
   if (m.wikipedia && !e.wikipedia) e.wikipedia = m.wikipedia;
   if (m.coords && !e.coords) e.coords = m.coords;
   if (m.founded && !e.founded) e.founded = m.founded;
+  // Track the best (lowest) curatorRank if this bakery appears multiple times
+  if (m.curatorRank && (!e.curatorRank || m.curatorRank < e.curatorRank)) {
+    e.curatorRank = m.curatorRank;
+  }
 }
 
-// ─── Per-country ranking: sort by source count desc, then alphabetical, assign sourceRank ───
+// ─── Per-country ranking ───
+// Authority weights: Curated > Wikipedia > Wikidata.
+// Score = sum of weights across sources.
+const SOURCE_WEIGHT = {
+  'Curated': 100,
+  'Wikipedia: List of bakeries': 10,
+  'Wikidata': 5,
+};
+function authorityScore(e) {
+  let s = 0;
+  for (const src of e.sources) s += (SOURCE_WEIGHT[src.name] || 1);
+  return s;
+}
+
 const byCountry = new Map();
 for (const e of byKey.values()) {
   if (!byCountry.has(e.country)) byCountry.set(e.country, []);
   byCountry.get(e.country).push(e);
 }
 for (const [country, arr] of byCountry) {
-  arr.sort((a, b) => (b.sources.length - a.sources.length) || a.name.localeCompare(b.name));
+  arr.sort((a, b) =>
+    // 1. Authority: Curated > Wikipedia > Wikidata
+    (authorityScore(b) - authorityScore(a)) ||
+    // 2. Within curated tier, preserve the order the curator wrote them in
+    ((a.curatorRank || 999) - (b.curatorRank || 999)) ||
+    // 3. More sources is better
+    (b.sources.length - a.sources.length) ||
+    // 4. Alphabetical as final tie-breaker
+    a.name.localeCompare(b.name)
+  );
   arr.forEach((e, i) => { e.sourceRank = i + 1; });
 }
 
