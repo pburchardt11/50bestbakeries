@@ -1,0 +1,48 @@
+{
+  "slug": "kr-bakes-changanasseri",
+  "name": "KR Bakes",
+  "curatedName": "KR Bakes",
+  "city": "Changanasseri",
+  "country": "India",
+  "placeId": "ChIJNQcm-Q8mBjsRof7AlwowZHY",
+  "googleName": "KR Bakes Changanassery",
+  "formattedAddress": "State Highway 1, opp. College Road, Changanassery, Kerala 686101, India",
+  "phone": "085899 96494",
+  "internationalPhone": "+91 85899 96494",
+  "website": "http://www.krbakes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8530996416200375969",
+  "rating": 3.7,
+  "reviewCount": 2915,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    9.4499412,
+    76.5376768
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kr-bakes-changanasseri/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kr-bakes-changanasseri/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kr-bakes-changanasseri/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kr-bakes-changanasseri/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kr-bakes-changanasseri/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:16:42.324Z"
+}

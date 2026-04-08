@@ -1,0 +1,47 @@
+{
+  "slug": "bakers-bench-los-angeles",
+  "name": "Bakers Bench",
+  "curatedName": "Bakers Bench",
+  "city": "Los Angeles",
+  "country": "United States",
+  "placeId": "ChIJuzh2dVnHwoARVF5xze5xKLw",
+  "googleName": "Bakers Bench",
+  "formattedAddress": "1021 Alpine St Unit A, Los Angeles, CA 90012, USA",
+  "phone": "(213) 395-0035",
+  "internationalPhone": "+1 213-395-0035",
+  "website": "http://bakersbenchla.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13558211948661792340",
+  "rating": 4.7,
+  "reviewCount": 139,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.0655282,
+    -118.2468996
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-bench-los-angeles/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-bench-los-angeles/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-bench-los-angeles/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-bench-los-angeles/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-bench-los-angeles/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:54:52.717Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "ihle-gmbh-landbackerei-affing",
+  "name": "Ihle GmbH Landbäckerei",
+  "curatedName": "Ihle GmbH Landbäckerei",
+  "city": "Affing",
+  "country": "Germany",
+  "placeId": "ChIJU7t-hE29nkcRNU2401c4Wxs",
+  "googleName": "Landbäckerei IHLE GmbH",
+  "formattedAddress": "Bahnhofstraße 18, 86150 Augsburg, Germany",
+  "phone": "0821 3491840",
+  "internationalPhone": "+49 821 3491840",
+  "website": "http://www.ihle.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1971231211770105141",
+  "rating": 3.9,
+  "reviewCount": 891,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.3663622,
+    10.8908572
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ihle-gmbh-landbackerei-affing/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ihle-gmbh-landbackerei-affing/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ihle-gmbh-landbackerei-affing/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ihle-gmbh-landbackerei-affing/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ihle-gmbh-landbackerei-affing/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:00:18.984Z"
+}

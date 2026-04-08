@@ -1,0 +1,47 @@
+{
+  "slug": "cinnamon-works-seattle",
+  "name": "Cinnamon Works",
+  "curatedName": "Cinnamon Works",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJay_D9rJqkFQRadhoqa38u2U",
+  "googleName": "Cinnamon Works",
+  "formattedAddress": "1536 Pike Pl, Seattle, WA 98101, USA",
+  "phone": "(206) 583-0085",
+  "internationalPhone": "+1 206-583-0085",
+  "website": "http://www.cinnamonworks.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7330730641277376617",
+  "rating": 4.1,
+  "reviewCount": 294,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.609362,
+    -122.3415053
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 12:00 – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Bake shop with classic, cinnamon-centric, vegan & gluten-free pastries plus coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnamon-works-seattle/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnamon-works-seattle/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnamon-works-seattle/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnamon-works-seattle/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnamon-works-seattle/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:06:09.293Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "wicked-good-cupcakes-boston",
+  "name": "Wicked Good Cupcakes",
+  "curatedName": "Wicked Good Cupcakes",
+  "city": "Boston",
+  "country": "United States",
+  "placeId": "ChIJNYIsXJX344kRc9SatFeR2lk",
+  "googleName": "Wicked Good Cookies",
+  "formattedAddress": "61 Shrewsbury St, Boylston, MA 01505, USA",
+  "phone": "(508) 869-6577",
+  "internationalPhone": "+1 508-869-6577",
+  "website": "http://www.wickedgoodcookies.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6474647220176737395",
+  "rating": 4.8,
+  "reviewCount": 120,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.3348461,
+    -71.74016449999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wicked-good-cupcakes-boston/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wicked-good-cupcakes-boston/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wicked-good-cupcakes-boston/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wicked-good-cupcakes-boston/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wicked-good-cupcakes-boston/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:39:05.944Z"
+}

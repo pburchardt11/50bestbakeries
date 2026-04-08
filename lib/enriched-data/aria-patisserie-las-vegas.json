@@ -1,0 +1,46 @@
+{
+  "slug": "aria-patisserie-las-vegas",
+  "name": "ARIA Patisserie",
+  "curatedName": "ARIA Patisserie",
+  "city": "Las Vegas",
+  "country": "United States",
+  "placeId": "ChIJh9RH0zLEyIAR-dww6YjQHWg",
+  "googleName": "ARIA Patisserie",
+  "formattedAddress": "ARIA Resort & Casino, 3730 S Las Vegas Blvd, Las Vegas, NV 89158, USA",
+  "phone": "(702) 590-8554",
+  "internationalPhone": "+1 702-590-8554",
+  "website": "https://aria.mgmresorts.com/en/restaurants/aria-patisserie.html?ecid=GMB",
+  "googleMapsUrl": "https://maps.google.com/?cid=7502381840715537657",
+  "rating": 3.9,
+  "reviewCount": 811,
+  "priceLevel": null,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.1073485,
+    -115.1765836
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "Upscale, 24-hour site in Aria resort offering French-style pastries, coffee, sandwiches & salads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aria-patisserie-las-vegas/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aria-patisserie-las-vegas/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aria-patisserie-las-vegas/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aria-patisserie-las-vegas/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aria-patisserie-las-vegas/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:32:48.095Z"
+}

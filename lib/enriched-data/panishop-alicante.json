@@ -1,0 +1,48 @@
+{
+  "slug": "panishop-alicante",
+  "name": "Panishop",
+  "curatedName": "Panishop",
+  "city": "Alicante",
+  "country": "Spain",
+  "placeId": "ChIJO38bD383Yg0R6ErH9RZDaAo",
+  "googleName": "El horno de Irina",
+  "formattedAddress": "Av. de Villajoyosa, 97, 03016 Alicante (Alacant), Alicante, Spain",
+  "phone": "965 26 82 43",
+  "internationalPhone": "+34 965 26 82 43",
+  "website": "http://www.panishop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=749923103849007848",
+  "rating": 4.4,
+  "reviewCount": 81,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.3600502,
+    -0.4522917
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panishop-alicante/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panishop-alicante/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panishop-alicante/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panishop-alicante/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panishop-alicante/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:49:39.894Z"
+}

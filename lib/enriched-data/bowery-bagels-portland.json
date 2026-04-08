@@ -1,0 +1,48 @@
+{
+  "slug": "bowery-bagels-portland",
+  "name": "Bowery Bagels",
+  "curatedName": "Bowery Bagels",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJQUGUrAEKlVQR1OL3WUndMEw",
+  "googleName": "Bowery Bagels",
+  "formattedAddress": "310 NW Broadway, Portland, OR 97209, USA",
+  "phone": "(503) 227-6674",
+  "internationalPhone": "+1 503-227-6674",
+  "website": "http://bowerybagels.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5490131252876403412",
+  "rating": 4.3,
+  "reviewCount": 480,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5254126,
+    -122.6773705
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 PM",
+    "Tuesday: 7:00 AM – 1:00 PM",
+    "Wednesday: 7:00 AM – 1:00 PM",
+    "Thursday: 7:00 AM – 1:00 PM",
+    "Friday: 7:00 AM – 1:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": "Snug counter-service space & market offers handmade NYC-style bagels & a selection of schmears.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bowery-bagels-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bowery-bagels-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bowery-bagels-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bowery-bagels-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bowery-bagels-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:03:02.885Z"
+}

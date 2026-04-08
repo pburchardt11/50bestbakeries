@@ -1,0 +1,47 @@
+{
+  "slug": "au-pain-de-mon-grand-pere-dijon",
+  "name": "Au Pain de mon Grand-Pere",
+  "curatedName": "Au Pain de mon Grand-Pere",
+  "city": "Dijon",
+  "country": "France",
+  "placeId": "ChIJTwydMOqd8kcRIIezmd7A-Z0",
+  "googleName": "Au Pain de mon Grand-Père",
+  "formattedAddress": "7 Pl. Bossuet, 21000 Dijon, France",
+  "phone": "03 80 42 39 62",
+  "internationalPhone": "+33 3 80 42 39 62",
+  "website": "http://www.aupaindemongrandpere.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11383341595449591584",
+  "rating": 3.8,
+  "reviewCount": 354,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.3208043,
+    5.0371473
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-pain-de-mon-grand-pere-dijon/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-pain-de-mon-grand-pere-dijon/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-pain-de-mon-grand-pere-dijon/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-pain-de-mon-grand-pere-dijon/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-pain-de-mon-grand-pere-dijon/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:29:06.820Z"
+}

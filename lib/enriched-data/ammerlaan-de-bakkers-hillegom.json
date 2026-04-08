@@ -1,0 +1,47 @@
+{
+  "slug": "ammerlaan-de-bakkers-hillegom",
+  "name": "Ammerlaan de Bakkers",
+  "curatedName": "Ammerlaan de Bakkers",
+  "city": "Hillegom",
+  "country": "Netherlands",
+  "placeId": "ChIJL3S0ZULpxUcRo70tGPusczA",
+  "googleName": "Ammerlaan de Bakkers | Hillegom",
+  "formattedAddress": "Hoofdstraat 33, 2181 RK Hillegom, Netherlands",
+  "phone": "0252 532 008",
+  "internationalPhone": "+31 252 532 008",
+  "website": "https://www.ammerlaanhillegom.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3491324330584685987",
+  "rating": 3.9,
+  "reviewCount": 18,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.294244,
+    4.580573999999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ammerlaan-de-bakkers-hillegom/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ammerlaan-de-bakkers-hillegom/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ammerlaan-de-bakkers-hillegom/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ammerlaan-de-bakkers-hillegom/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ammerlaan-de-bakkers-hillegom/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:10:37.644Z"
+}

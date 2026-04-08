@@ -1,0 +1,47 @@
+{
+  "slug": "bakkerij-van-dongen-ermelo",
+  "name": "Bakkerij Van Dongen",
+  "curatedName": "Bakkerij Van Dongen",
+  "city": "Ermelo",
+  "country": "Netherlands",
+  "placeId": "ChIJ_TdkiBE0xkcRH_1O5voWhCw",
+  "googleName": "Bakkerij Van Dongen 🍞",
+  "formattedAddress": "Stationsstraat 62, 3851 NJ Ermelo, Netherlands",
+  "phone": "0341 552 812",
+  "internationalPhone": "+31 341 552 812",
+  "website": "http://www.bakkerijvandongen.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3207714101456207135",
+  "rating": 4.4,
+  "reviewCount": 124,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.3003126,
+    5.623237899999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-van-dongen-ermelo/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-van-dongen-ermelo/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-van-dongen-ermelo/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-van-dongen-ermelo/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-van-dongen-ermelo/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:29:22.003Z"
+}

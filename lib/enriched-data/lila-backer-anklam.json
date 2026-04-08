@@ -1,0 +1,33 @@
+{
+  "slug": "lila-backer-anklam",
+  "name": "Lila Bäcker",
+  "curatedName": "Lila Bäcker",
+  "city": "Anklam",
+  "country": "Germany",
+  "placeId": "ChIJE42k2WSvq0cRw2KtnSP4CuQ",
+  "googleName": "Lila Bäcker",
+  "formattedAddress": "Netto, Demminer Landstraße 5, 17389 Anklam, Germany",
+  "phone": "03971 2446451",
+  "internationalPhone": "+49 3971 2446451",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16432219022267605699",
+  "rating": 3.5,
+  "reviewCount": 4,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    53.8518877,
+    13.6650341
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T12:06:58.676Z"
+}

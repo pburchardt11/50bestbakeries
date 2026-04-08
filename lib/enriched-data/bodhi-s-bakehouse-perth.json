@@ -1,0 +1,47 @@
+{
+  "slug": "bodhi-s-bakehouse-perth",
+  "name": "Bodhi's Bakehouse",
+  "curatedName": "Bodhi's Bakehouse",
+  "city": "Perth",
+  "country": "Australia",
+  "placeId": "ChIJERg-vWShMioRQumH48ZeYRo",
+  "googleName": "Bodhi's Bakehouse",
+  "formattedAddress": "11 Ellen St, Fremantle WA 6160, Australia",
+  "phone": "(08) 9335 5582",
+  "internationalPhone": "+61 8 9335 5582",
+  "website": "http://www.bodhi.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1900904726040930626",
+  "rating": 4.1,
+  "reviewCount": 35,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -32.0523346,
+    115.7505598
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 2:00 PM",
+    "Tuesday: 7:30 AM – 2:00 PM",
+    "Wednesday: 7:30 AM – 2:00 PM",
+    "Thursday: 7:30 AM – 2:00 PM",
+    "Friday: 7:30 AM – 2:00 PM",
+    "Saturday: 7:30 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bodhi-s-bakehouse-perth/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bodhi-s-bakehouse-perth/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bodhi-s-bakehouse-perth/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bodhi-s-bakehouse-perth/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bodhi-s-bakehouse-perth/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:33:54.536Z"
+}

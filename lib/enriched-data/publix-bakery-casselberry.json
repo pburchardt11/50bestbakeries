@@ -1,0 +1,51 @@
+{
+  "slug": "publix-bakery-casselberry",
+  "name": "Publix Bakery",
+  "curatedName": "Publix Bakery",
+  "city": "Casselberry",
+  "country": "United States",
+  "placeId": "ChIJ_UtssMpv54gRoKA8SiXg8ok",
+  "googleName": "Publix Super Market at Casselberry Commons",
+  "formattedAddress": "1455 FL-436 #221, Casselberry, FL 32707, USA",
+  "phone": "(407) 673-0162",
+  "internationalPhone": "+1 407-673-0162",
+  "website": "https://www.publix.com/?setstorenumber=1285&utm_medium=maps&utm_source=extendednetwork&utm_content=psm_website_url",
+  "googleMapsUrl": "https://maps.google.com/?cid=9940253778324005024",
+  "rating": 4.6,
+  "reviewCount": 2076,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "florist",
+    "food",
+    "grocery_or_supermarket",
+    "liquor_store",
+    "point_of_interest",
+    "store",
+    "supermarket"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.6273341,
+    -81.3193829
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Supermarket chain with a wide selection of groceries, plus deli & bakery departments.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/publix-bakery-casselberry/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/publix-bakery-casselberry/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/publix-bakery-casselberry/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/publix-bakery-casselberry/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/publix-bakery-casselberry/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:25:51.802Z"
+}

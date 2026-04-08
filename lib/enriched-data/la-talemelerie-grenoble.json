@@ -1,0 +1,48 @@
+{
+  "slug": "la-talemelerie-grenoble",
+  "name": "La Talemelerie",
+  "curatedName": "La Talemelerie",
+  "city": "Grenoble",
+  "country": "France",
+  "placeId": "ChIJ8_YnaIz0ikcRbX5GfgN729c",
+  "googleName": "Boulangerie La Talemelerie Etoile",
+  "formattedAddress": "1 Pl. de l'Étoile, 38000 Grenoble, France",
+  "phone": "04 76 43 03 58",
+  "internationalPhone": "+33 4 76 43 03 58",
+  "website": "https://ventenligne.latalemelerie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15554160992987807341",
+  "rating": 3.9,
+  "reviewCount": 242,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.18786069999999,
+    5.728940499999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:30 PM",
+    "Tuesday: 6:30 AM – 7:30 PM",
+    "Wednesday: 6:30 AM – 7:30 PM",
+    "Thursday: 6:30 AM – 7:30 PM",
+    "Friday: 6:30 AM – 7:30 PM",
+    "Saturday: 6:30 AM – 7:30 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-talemelerie-grenoble/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-talemelerie-grenoble/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-talemelerie-grenoble/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-talemelerie-grenoble/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-talemelerie-grenoble/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:52:18.189Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "kaisers-gute-backstube-gmbh-bad-krozingen",
+  "name": "Kaisers Gute Backstube GmbH",
+  "curatedName": "Kaisers Gute Backstube GmbH",
+  "city": "Bad Krozingen",
+  "country": "Germany",
+  "placeId": "ChIJq5GNXUcPkUcRqXQo3Vs_3wo",
+  "googleName": "Kaisers Gute Backstube",
+  "formattedAddress": "Grabenstraße 6, 79189 Bad Krozingen, Germany",
+  "phone": "07633 3212",
+  "internationalPhone": "+49 7633 3212",
+  "website": "https://www.kaisers-backstube.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=783414523970745513",
+  "rating": 4.3,
+  "reviewCount": 132,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.9155133,
+    7.700706500000001
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:30 PM",
+    "Tuesday: 6:30 AM – 6:30 PM",
+    "Wednesday: 6:30 AM – 6:30 PM",
+    "Thursday: 6:30 AM – 6:30 PM",
+    "Friday: 6:30 AM – 6:30 PM",
+    "Saturday: 6:30 AM – 1:00 PM",
+    "Sunday: 8:00 – 11:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaisers-gute-backstube-gmbh-bad-krozingen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaisers-gute-backstube-gmbh-bad-krozingen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaisers-gute-backstube-gmbh-bad-krozingen/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaisers-gute-backstube-gmbh-bad-krozingen/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaisers-gute-backstube-gmbh-bad-krozingen/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:02:02.790Z"
+}

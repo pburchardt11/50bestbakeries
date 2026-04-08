@@ -1,0 +1,47 @@
+{
+  "slug": "oxbow-bakery-palestine",
+  "name": "Oxbow Bakery",
+  "curatedName": "Oxbow Bakery",
+  "city": "Palestine",
+  "country": "United States",
+  "placeId": "ChIJHaem1RBkSIYRVj5dCz9spgs",
+  "googleName": "Oxbow Bakery & Antiques",
+  "formattedAddress": "215 E Crawford St, Palestine, TX 75801, USA",
+  "phone": "(903) 723-5100",
+  "internationalPhone": "+1 903-723-5100",
+  "website": "http://www.oxbowpies.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=839477398580575830",
+  "rating": 4.9,
+  "reviewCount": 266,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.7640835,
+    -95.6296124
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 10:00 AM – 3:00 PM",
+    "Friday: 10:00 AM – 3:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oxbow-bakery-palestine/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oxbow-bakery-palestine/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oxbow-bakery-palestine/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oxbow-bakery-palestine/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oxbow-bakery-palestine/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:24:04.816Z"
+}

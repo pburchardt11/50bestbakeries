@@ -1,0 +1,47 @@
+{
+  "slug": "best-bakers-aluva",
+  "name": "Best Bakers",
+  "curatedName": "Best Bakers",
+  "city": "Aluva",
+  "country": "India",
+  "placeId": "ChIJOatmTyYPCDsRI5XE4TEhNiQ",
+  "googleName": "Best Bakers",
+  "formattedAddress": "659, State Highway 16, Periyar Nagar, Bypass Junction, Periyar Nagar, Aluva, Kerala 683101, India",
+  "phone": "081297 07666",
+  "internationalPhone": "+91 81297 07666",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2609309532232652067",
+  "rating": 3.9,
+  "reviewCount": 229,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.1106928,
+    76.3501556
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/best-bakers-aluva/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/best-bakers-aluva/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/best-bakers-aluva/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/best-bakers-aluva/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/best-bakers-aluva/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:13:26.531Z"
+}

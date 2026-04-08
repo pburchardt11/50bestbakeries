@@ -1,0 +1,48 @@
+{
+  "slug": "berlu-bakery-portland",
+  "name": "Berlu Bakery",
+  "curatedName": "Berlu Bakery",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJATaeJEGhlVQRm1m-IV3dbr0",
+  "googleName": "Berlu Bakery",
+  "formattedAddress": "661 SE Belmont St, Portland, OR 97214, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.berlubakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13650090912674371995",
+  "rating": 4.7,
+  "reviewCount": 163,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5166792,
+    -122.6591805
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 10:00 AM – 3:00 PM, 5:00 – 8:00 PM",
+    "Friday: 10:00 AM – 3:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Informal bakery offering gluten-free options with a range of traditional & Vietnamese cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/berlu-bakery-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/berlu-bakery-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/berlu-bakery-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/berlu-bakery-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/berlu-bakery-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:59:31.063Z"
+}

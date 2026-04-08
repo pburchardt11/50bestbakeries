@@ -1,0 +1,49 @@
+{
+  "slug": "peters-gute-backstube-achern",
+  "name": "Peters Gute Backstube",
+  "curatedName": "Peters Gute Backstube",
+  "city": "Achern",
+  "country": "Germany",
+  "placeId": "ChIJT8DvKK3ZlkcRSLigUEkOjHc",
+  "googleName": "Peters good bakery GmbH & Co. KG",
+  "formattedAddress": "Adlerpl. 13, 77855 Achern, Germany",
+  "phone": "07841 699852",
+  "internationalPhone": "+49 7841 699852",
+  "website": "https://www.petersgutebackstube.de/oeffnungszeiten",
+  "googleMapsUrl": "https://maps.google.com/?cid=8614275895301027912",
+  "rating": 4,
+  "reviewCount": 786,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.6297601,
+    8.0715428
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/peters-gute-backstube-achern/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/peters-gute-backstube-achern/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/peters-gute-backstube-achern/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/peters-gute-backstube-achern/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/peters-gute-backstube-achern/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:09:09.007Z"
+}

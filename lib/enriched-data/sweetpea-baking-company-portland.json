@@ -1,0 +1,49 @@
+{
+  "slug": "sweetpea-baking-company-portland",
+  "name": "Sweetpea Baking Company",
+  "curatedName": "Sweetpea Baking Company",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJ2wEMdaSglVQRmNmfb7fbOqs",
+  "googleName": "Sweetpea Baking Co.",
+  "formattedAddress": "1205 SE Stark St, Portland, OR 97214, USA",
+  "phone": "(503) 477-5916",
+  "internationalPhone": "+1 503-477-5916",
+  "website": "http://www.sweetpeabaking.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12338415710033140120",
+  "rating": 4.6,
+  "reviewCount": 757,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5194836,
+    -122.6534397
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 3:00 PM",
+    "Tuesday: 9:00 AM – 3:00 PM",
+    "Wednesday: 9:00 AM – 3:00 PM",
+    "Thursday: 9:00 AM – 3:00 PM",
+    "Friday: 9:00 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Vegan business featuring wedding cakes, baked goods & light fare in an airy, industrial-chic space.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweetpea-baking-company-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweetpea-baking-company-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweetpea-baking-company-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweetpea-baking-company-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweetpea-baking-company-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:29:21.989Z"
+}

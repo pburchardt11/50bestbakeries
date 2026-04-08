@@ -1,0 +1,48 @@
+{
+  "slug": "konrad-bakery-and-cafe-gmbh-juterbog",
+  "name": "KONRAD bakery and cafe GmbH",
+  "curatedName": "KONRAD bakery and cafe GmbH",
+  "city": "Jüterbog",
+  "country": "Germany",
+  "placeId": "ChIJ8WSTEox4qEcRJ0FXA-vKg6E",
+  "googleName": "KONRAD bakery and cafe GmbH",
+  "formattedAddress": "Mönchenstraße 28, 14913 Jüterbog, Germany",
+  "phone": "03372 4435377",
+  "internationalPhone": "+49 3372 4435377",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11638368972777668903",
+  "rating": 3.9,
+  "reviewCount": 387,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.9918112,
+    13.0794787
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 5:30 PM",
+    "Sunday: 7:00 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konrad-bakery-and-cafe-gmbh-juterbog/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konrad-bakery-and-cafe-gmbh-juterbog/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konrad-bakery-and-cafe-gmbh-juterbog/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konrad-bakery-and-cafe-gmbh-juterbog/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konrad-bakery-and-cafe-gmbh-juterbog/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:05:22.446Z"
+}

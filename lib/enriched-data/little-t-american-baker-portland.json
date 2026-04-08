@@ -1,0 +1,48 @@
+{
+  "slug": "little-t-american-baker-portland",
+  "name": "Little T American Baker",
+  "curatedName": "Little T American Baker",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJFWqwooOglVQRY2BkWFcTXu8",
+  "googleName": "Little T American Baker",
+  "formattedAddress": "2600 SE Division St, Portland, OR 97202, USA",
+  "phone": "(503) 238-3458",
+  "internationalPhone": "+1 503-238-3458",
+  "website": "http://www.littletbaker.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17248244888741634147",
+  "rating": 4.5,
+  "reviewCount": 414,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5047222,
+    -122.6394444
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM",
+    "Tuesday: 8:00 AM – 2:00 PM",
+    "Wednesday: 8:00 AM – 2:00 PM",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Rustic-chic bakery offering artisanal bread & pastries, plus coffee & a menu of gourmet sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/little-t-american-baker-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/little-t-american-baker-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/little-t-american-baker-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/little-t-american-baker-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/little-t-american-baker-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:20:15.098Z"
+}

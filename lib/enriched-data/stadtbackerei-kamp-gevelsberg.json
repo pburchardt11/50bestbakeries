@@ -1,0 +1,48 @@
+{
+  "slug": "stadtbackerei-kamp-gevelsberg",
+  "name": "Stadtbäckerei Kamp",
+  "curatedName": "Stadtbäckerei Kamp",
+  "city": "Gevelsberg",
+  "country": "Germany",
+  "placeId": "ChIJNdQSSI0luUcRUkMITDQErJc",
+  "googleName": "Stadtbäckerei Kamp",
+  "formattedAddress": "Mittelstraße 24, 58285 Gevelsberg, Germany",
+  "phone": "02332 555692",
+  "internationalPhone": "+49 2332 555692",
+  "website": "http://www.stadtbaeckerei-kamp.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10929115018381771602",
+  "rating": 3.8,
+  "reviewCount": 154,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.3197197,
+    7.339657799999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:30 PM",
+    "Tuesday: 7:00 AM – 5:30 PM",
+    "Wednesday: 7:00 AM – 5:30 PM",
+    "Thursday: 7:00 AM – 5:30 PM",
+    "Friday: 7:00 AM – 5:30 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stadtbackerei-kamp-gevelsberg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stadtbackerei-kamp-gevelsberg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stadtbackerei-kamp-gevelsberg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stadtbackerei-kamp-gevelsberg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stadtbackerei-kamp-gevelsberg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:12:53.757Z"
+}

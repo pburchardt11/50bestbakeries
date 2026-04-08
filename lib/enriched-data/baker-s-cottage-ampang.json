@@ -1,0 +1,47 @@
+{
+  "slug": "baker-s-cottage-ampang",
+  "name": "Baker's Cottage",
+  "curatedName": "Baker's Cottage",
+  "city": "Ampang",
+  "country": "Malaysia",
+  "placeId": "ChIJaxL8DAk3zDERJ_eAx5SRsu4",
+  "googleName": "Baker's Cottage Taman Kosas",
+  "formattedAddress": "9, Jalan Kosas 1/2, Taman Kosas, 68000 Ampang, Selangor, Malaysia",
+  "phone": "03-4291 9087",
+  "internationalPhone": "+60 3-4291 9087",
+  "website": "https://www.thebakerscottage.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17199969995069650727",
+  "rating": 4.1,
+  "reviewCount": 228,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.1459111,
+    101.7711449
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-s-cottage-ampang/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-s-cottage-ampang/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-s-cottage-ampang/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-s-cottage-ampang/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-s-cottage-ampang/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:10:26.628Z"
+}

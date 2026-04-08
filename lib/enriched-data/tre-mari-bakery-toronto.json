@@ -1,0 +1,49 @@
+{
+  "slug": "tre-mari-bakery-toronto",
+  "name": "Tre Mari Bakery",
+  "curatedName": "Tre Mari Bakery",
+  "city": "Toronto",
+  "country": "Canada",
+  "placeId": "ChIJsxJTJg00K4gRB0mxMglrcrc",
+  "googleName": "Tre Mari Bakery",
+  "formattedAddress": "1311 St Clair Ave W, Toronto, ON M6E 1C2, Canada",
+  "phone": "(416) 654-8960",
+  "internationalPhone": "+1 416-654-8960",
+  "website": "https://www.tremari.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13218745543535184135",
+  "rating": 4.6,
+  "reviewCount": 2362,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.67653079999999,
+    -79.448634
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Old-school family bakery for various Italian pastries, breads & coffee, plus deli offerings.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tre-mari-bakery-toronto/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tre-mari-bakery-toronto/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tre-mari-bakery-toronto/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tre-mari-bakery-toronto/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tre-mari-bakery-toronto/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:41:03.150Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "the-crumpet-shop-seattle",
+  "name": "The Crumpet Shop",
+  "curatedName": "The Crumpet Shop",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJBx-J_rJqkFQRlLepwvXHbuo",
+  "googleName": "The Crumpet Shop",
+  "formattedAddress": "1503 1st Ave, Seattle, WA 98101, USA",
+  "phone": "(206) 682-1598",
+  "internationalPhone": "+1 206-682-1598",
+  "website": "http://www.thecrumpetshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16892659110660126612",
+  "rating": 4.7,
+  "reviewCount": 1477,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.6090398,
+    -122.3405168
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Long-running spot offering sweet & savory toppings on housemade crumpets, plus tea & coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-crumpet-shop-seattle/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-crumpet-shop-seattle/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-crumpet-shop-seattle/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-crumpet-shop-seattle/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-crumpet-shop-seattle/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:30:16.879Z"
+}

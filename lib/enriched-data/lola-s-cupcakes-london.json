@@ -1,0 +1,47 @@
+{
+  "slug": "lola-s-cupcakes-london",
+  "name": "Lola's Cupcakes",
+  "curatedName": "Lola's Cupcakes",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJL96i2lADdkgRiwZeQXKpVCU",
+  "googleName": "Lola's Cupcakes London Bridge",
+  "formattedAddress": "Retail Trading Cart 1, London Bridge Underground Station, London SE1 3QX, UK",
+  "phone": "020 3991 0192",
+  "internationalPhone": "+44 20 3991 0192",
+  "website": "http://www.lolascupcakes.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2689961185635075723",
+  "rating": 4.3,
+  "reviewCount": 90,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5053911,
+    -0.0871218
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lola-s-cupcakes-london/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lola-s-cupcakes-london/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lola-s-cupcakes-london/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lola-s-cupcakes-london/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lola-s-cupcakes-london/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:01:07.575Z"
+}

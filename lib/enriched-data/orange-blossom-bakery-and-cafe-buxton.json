@@ -1,0 +1,48 @@
+{
+  "slug": "orange-blossom-bakery-and-cafe-buxton",
+  "name": "Orange Blossom Bakery and Cafe",
+  "curatedName": "Orange Blossom Bakery and Cafe",
+  "city": "Buxton",
+  "country": "United States",
+  "placeId": "ChIJLZSbVoMwpIkRhv-C9xjNyEc",
+  "googleName": "Orange Blossom Bakery & Cafe",
+  "formattedAddress": "47206 North Carolina Hwy 12, Buxton, NC 27920, USA",
+  "phone": "(252) 995-4109",
+  "internationalPhone": "+1 252-995-4109",
+  "website": "http://www.orangeblossombakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5172609679150481286",
+  "rating": 4.8,
+  "reviewCount": 1959,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.2656333,
+    -75.5291917
+  ],
+  "openingHours": [
+    "Monday: 6:30 – 11:00 AM",
+    "Tuesday: 6:30 – 11:00 AM",
+    "Wednesday: 6:30 – 11:00 AM",
+    "Thursday: 6:30 – 11:00 AM",
+    "Friday: 6:30 – 11:00 AM",
+    "Saturday: 6:30 – 11:00 AM",
+    "Sunday: 6:30 – 11:00 AM"
+  ],
+  "editorialSummary": "Long-standing bakery in a converted motel serves famous \"apple uglies,\" pastries & breakfast items.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orange-blossom-bakery-and-cafe-buxton/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orange-blossom-bakery-and-cafe-buxton/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orange-blossom-bakery-and-cafe-buxton/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orange-blossom-bakery-and-cafe-buxton/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orange-blossom-bakery-and-cafe-buxton/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:23:44.502Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "steiskal-gmbh-co-altenholz",
+  "name": "Steiskal GmbH & Co",
+  "curatedName": "Steiskal GmbH & Co",
+  "city": "Altenholz",
+  "country": "Germany",
+  "placeId": "ChIJnTaAxiv_skcR3GlAC2V0ah0",
+  "googleName": "Bäcker Steiskal",
+  "formattedAddress": "Altenholzer Str. 9, 24161 Altenholz, Germany",
+  "phone": "0431 323558",
+  "internationalPhone": "+49 431 323558",
+  "website": "http://www.baecker-steiskal.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2119634551960529372",
+  "rating": 3.9,
+  "reviewCount": 148,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    54.4007105,
+    10.1267928
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/steiskal-gmbh-co-altenholz/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/steiskal-gmbh-co-altenholz/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/steiskal-gmbh-co-altenholz/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/steiskal-gmbh-co-altenholz/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/steiskal-gmbh-co-altenholz/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:14:04.305Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "armbruster-bruchsal",
+  "name": "Armbruster",
+  "curatedName": "Armbruster",
+  "city": "Bruchsal",
+  "country": "Germany",
+  "placeId": "ChIJ7RcK4lihl0cRUP8opDl5ZLc",
+  "googleName": "Armbruster",
+  "formattedAddress": "Bahnhofpl. 12, 76646 Bruchsal, Germany",
+  "phone": "07251 3926777",
+  "internationalPhone": "+49 7251 3926777",
+  "website": "https://www.armbruster-baeckerei.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13214820495086124880",
+  "rating": 2.4,
+  "reviewCount": 196,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.124452,
+    8.590366099999999
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:30 PM",
+    "Tuesday: 5:00 AM – 6:30 PM",
+    "Wednesday: 5:00 AM – 6:30 PM",
+    "Thursday: 5:00 AM – 6:30 PM",
+    "Friday: 5:00 AM – 6:30 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/armbruster-bruchsal/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/armbruster-bruchsal/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/armbruster-bruchsal/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/armbruster-bruchsal/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/armbruster-bruchsal/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:18:42.483Z"
+}

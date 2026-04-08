@@ -1,0 +1,49 @@
+{
+  "slug": "rubinstein-bagels-seattle",
+  "name": "Rubinstein Bagels",
+  "curatedName": "Rubinstein Bagels",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJdWW-rp9rkFQRbmxZZwpmj2A",
+  "googleName": "Rubinstein Bagels South Lake Union",
+  "formattedAddress": "2121 6th Ave, Seattle, WA 98121, USA",
+  "phone": "(206) 550-1666",
+  "internationalPhone": "+1 206-550-1666",
+  "website": "https://rubinsteinbagels.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6957892144180325486",
+  "rating": 3.9,
+  "reviewCount": 469,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.6153512,
+    -122.3404186
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rubinstein-bagels-seattle/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rubinstein-bagels-seattle/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rubinstein-bagels-seattle/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rubinstein-bagels-seattle/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rubinstein-bagels-seattle/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:26:57.431Z"
+}

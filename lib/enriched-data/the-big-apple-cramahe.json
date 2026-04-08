@@ -1,0 +1,50 @@
+{
+  "slug": "the-big-apple-cramahe",
+  "name": "The Big Apple",
+  "curatedName": "The Big Apple",
+  "city": "Cramahe",
+  "country": "Canada",
+  "placeId": "ChIJK3wuMHV11okR0u-MrfKL2Yc",
+  "googleName": "The Big Apple",
+  "formattedAddress": "262 Orchard Rd, Colborne, ON K0K 1S0, Canada",
+  "phone": "(905) 355-2574",
+  "internationalPhone": "+1 905-355-2574",
+  "website": "http://www.thebigapple.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9789009139476525010",
+  "rating": 4.4,
+  "reviewCount": 5955,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store",
+    "tourist_attraction"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.02196379999999,
+    -77.9059389
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Roadside venue featuring counter-serve dining, a country store, mini golf & kiddie train rides.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-big-apple-cramahe/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-big-apple-cramahe/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-big-apple-cramahe/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-big-apple-cramahe/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-big-apple-cramahe/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:27:13.931Z"
+}

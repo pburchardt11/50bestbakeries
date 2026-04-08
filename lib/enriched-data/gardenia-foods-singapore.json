@@ -1,0 +1,47 @@
+{
+  "slug": "gardenia-foods-singapore",
+  "name": "Gardenia Foods",
+  "curatedName": "Gardenia Foods",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJfQN9J7wa2jER8YWJj_SVe2E",
+  "googleName": "Gardenia Foods (S) Pte Ltd",
+  "formattedAddress": "224 Pandan Lp, Singapore 128411",
+  "phone": "6778 5666",
+  "internationalPhone": "+65 6778 5666",
+  "website": "http://www.gardenia.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7024372921427133937",
+  "rating": 3.7,
+  "reviewCount": 106,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.31273,
+    103.7489211
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Tuesday: 8:30 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Wednesday: 8:30 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Thursday: 8:30 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Friday: 8:30 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gardenia-foods-singapore/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gardenia-foods-singapore/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gardenia-foods-singapore/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gardenia-foods-singapore/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gardenia-foods-singapore/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:11:29.941Z"
+}

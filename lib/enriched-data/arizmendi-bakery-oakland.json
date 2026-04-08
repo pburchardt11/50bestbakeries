@@ -1,0 +1,50 @@
+{
+  "slug": "arizmendi-bakery-oakland",
+  "name": "Arizmendi Bakery",
+  "curatedName": "Arizmendi Bakery",
+  "city": "Oakland",
+  "country": "United States",
+  "placeId": "ChIJB1gEkEGHj4ARleeyMyJa6y4",
+  "googleName": "Arizmendi Bakery (Lakeshore)",
+  "formattedAddress": "3265 Lakeshore Ave, Oakland, CA 94610, USA",
+  "phone": "(510) 268-8849",
+  "internationalPhone": "+1 510-268-8849",
+  "website": "http://arizmendilakeshore.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3380895048214439829",
+  "rating": 4.8,
+  "reviewCount": 1815,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.8106968,
+    -122.2448
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Simple, worker-owned bakery outpost crafting thin-crust pizza plus cookies, scones, breads & more.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/arizmendi-bakery-oakland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/arizmendi-bakery-oakland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/arizmendi-bakery-oakland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/arizmendi-bakery-oakland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/arizmendi-bakery-oakland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:24:44.248Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "von-allworden-bad-schwartau",
+  "name": "Von Allwörden",
+  "curatedName": "Von Allwörden",
+  "city": "Bad Schwartau",
+  "country": "Germany",
+  "placeId": "ChIJ0W8grX4LskcR6ejbAeXoyJM",
+  "googleName": "Bäckerei H. von Allwörden GmbH",
+  "formattedAddress": "Markttwiete 3, 23611 Bad Schwartau, Germany",
+  "phone": "0451 50573101",
+  "internationalPhone": "+49 451 50573101",
+  "website": "http://www.von-allwoerden.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10649017389193881833",
+  "rating": 3.8,
+  "reviewCount": 64,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    53.918521,
+    10.6978532
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/von-allworden-bad-schwartau/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/von-allworden-bad-schwartau/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/von-allworden-bad-schwartau/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/von-allworden-bad-schwartau/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/von-allworden-bad-schwartau/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:14:50.453Z"
+}

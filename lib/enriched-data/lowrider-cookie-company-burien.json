@@ -1,0 +1,47 @@
+{
+  "slug": "lowrider-cookie-company-burien",
+  "name": "Lowrider Cookie Company",
+  "curatedName": "Lowrider Cookie Company",
+  "city": "Burien",
+  "country": "United States",
+  "placeId": "ChIJLafEYtVFkFQRdRFrN53UzQE",
+  "googleName": "Lowrider Cookie Company",
+  "formattedAddress": "216 SW 153rd St, Burien, WA 98166, USA",
+  "phone": "(206) 829-9786",
+  "internationalPhone": "+1 206-829-9786",
+  "website": "https://www.lowridercookiecompany.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=129993735968330101",
+  "rating": 4.6,
+  "reviewCount": 174,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.4662359,
+    -122.3372999
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lowrider-cookie-company-burien/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lowrider-cookie-company-burien/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lowrider-cookie-company-burien/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lowrider-cookie-company-burien/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lowrider-cookie-company-burien/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:21:12.691Z"
+}

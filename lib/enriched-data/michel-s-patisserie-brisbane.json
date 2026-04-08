@@ -1,0 +1,39 @@
+{
+  "slug": "michel-s-patisserie-brisbane",
+  "name": "Michel's Patisserie",
+  "curatedName": "Michel's Patisserie",
+  "city": "Brisbane",
+  "country": "Australia",
+  "placeId": "ChIJH-RWBQBbkWsRPvUbkRZmoGs",
+  "googleName": "Miche Bakery",
+  "formattedAddress": "50 Oxlade Dr, New Farm QLD 4005, Australia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7755310805441836350",
+  "rating": 4.5,
+  "reviewCount": 10,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.4730126,
+    153.0496669
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/michel-s-patisserie-brisbane/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/michel-s-patisserie-brisbane/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/michel-s-patisserie-brisbane/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/michel-s-patisserie-brisbane/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/michel-s-patisserie-brisbane/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:24:54.566Z"
+}

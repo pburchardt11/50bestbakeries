@@ -1,0 +1,49 @@
+{
+  "slug": "martin-auer-fernitz-mellach",
+  "name": "MARTIN AUER",
+  "curatedName": "MARTIN AUER",
+  "city": "Fernitz-Mellach",
+  "country": "Austria",
+  "placeId": "ChIJuaBsRpy1b0cRCMWLxB-6oaE",
+  "googleName": "MARTIN AUER",
+  "formattedAddress": "Lilienpark 1, 8072, Austria",
+  "phone": "0316 8040140",
+  "internationalPhone": "+43 316 8040140",
+  "website": "http://martinauer.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11646794756961060104",
+  "rating": 4.4,
+  "reviewCount": 545,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    46.9720602,
+    15.4967489
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martin-auer-fernitz-mellach/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martin-auer-fernitz-mellach/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martin-auer-fernitz-mellach/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martin-auer-fernitz-mellach/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martin-auer-fernitz-mellach/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:20:54.720Z"
+}

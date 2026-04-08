@@ -1,0 +1,39 @@
+{
+  "slug": "uto-bakgard-uto",
+  "name": "Utö Bakgård",
+  "curatedName": "Utö Bakgård",
+  "city": "Utö",
+  "country": "Sweden",
+  "placeId": "ChIJtdXqPzmL9UYRpfQ6v-B8wZA",
+  "googleName": "Bakgården Utö AB",
+  "formattedAddress": "Bygatan, 130 56 Utö, Sweden",
+  "phone": "073-546 69 31",
+  "internationalPhone": "+46 73 546 69 31",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10430755516689609893",
+  "rating": 4.6,
+  "reviewCount": 116,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_TEMPORARILY",
+  "coords": [
+    58.9694021,
+    18.3225455
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/uto-bakgard-uto/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/uto-bakgard-uto/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/uto-bakgard-uto/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/uto-bakgard-uto/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/uto-bakgard-uto/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:24:16.905Z"
+}

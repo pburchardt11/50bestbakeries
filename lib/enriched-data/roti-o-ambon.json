@@ -1,0 +1,39 @@
+{
+  "slug": "roti-o-ambon",
+  "name": "Roti O",
+  "curatedName": "Roti O",
+  "city": "Ambon",
+  "country": "Indonesia",
+  "placeId": "ChIJn7A5yLnpbC0RTG_VtzUrnoM",
+  "googleName": "Roti O",
+  "formattedAddress": "Jl. Soa Bali No.115, Kel Silale, Kec. Nusaniwe, Kota Ambon, Maluku, Indonesia",
+  "phone": "0812-4815-2669",
+  "internationalPhone": "+62 812-4815-2669",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9484065375006322508",
+  "rating": 3.5,
+  "reviewCount": 22,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -3.7004797,
+    128.1784326
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roti-o-ambon/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roti-o-ambon/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roti-o-ambon/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roti-o-ambon/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roti-o-ambon/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:21:16.108Z"
+}

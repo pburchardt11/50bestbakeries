@@ -1,0 +1,48 @@
+{
+  "slug": "nata-and-co-bakery-bath",
+  "name": "Nata and Co Bakery",
+  "curatedName": "Nata and Co Bakery",
+  "city": "Bath",
+  "country": "United Kingdom",
+  "placeId": "ChIJObIl34OBcUgRAcYsATHt0UI",
+  "googleName": "Nata & Co Bakery",
+  "formattedAddress": "8 Bridge St, Bath BA2 4AS, UK",
+  "phone": "01225 421850",
+  "internationalPhone": "+44 1225 421850",
+  "website": "https://www.nataco.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4814890271364662785",
+  "rating": 4.6,
+  "reviewCount": 348,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.38291779999999,
+    -2.3585154
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nata-and-co-bakery-bath/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nata-and-co-bakery-bath/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nata-and-co-bakery-bath/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nata-and-co-bakery-bath/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nata-and-co-bakery-bath/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:02:16.338Z"
+}

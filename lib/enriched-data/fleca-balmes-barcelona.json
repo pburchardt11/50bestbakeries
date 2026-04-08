@@ -1,0 +1,48 @@
+{
+  "slug": "fleca-balmes-barcelona",
+  "name": "Fleca Balmes",
+  "curatedName": "Fleca Balmes",
+  "city": "Barcelona",
+  "country": "Spain",
+  "placeId": "ChIJXSGdk5CipBIRC0swgNmRbiU",
+  "googleName": "Fleca Balmes",
+  "formattedAddress": "Carrer de Balmes, 156, Eixample, 08008 Barcelona, Spain",
+  "phone": "932 18 07 10",
+  "internationalPhone": "+34 932 18 07 10",
+  "website": "https://flecabalmes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2697253590186085131",
+  "rating": 4.7,
+  "reviewCount": 466,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.3945355,
+    2.1559341
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleca-balmes-barcelona/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleca-balmes-barcelona/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleca-balmes-barcelona/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleca-balmes-barcelona/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleca-balmes-barcelona/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:19:53.462Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "roeser-s-bakery-chicago",
+  "name": "Roeser's Bakery",
+  "curatedName": "Roeser's Bakery",
+  "city": "Chicago",
+  "country": "United States",
+  "placeId": "ChIJv0Cty0TND4gRINRiyPoLYck",
+  "googleName": "Roeser's Bakery",
+  "formattedAddress": "3216 W North Ave, Chicago, IL 60647, USA",
+  "phone": "(773) 489-6900",
+  "internationalPhone": "+1 773-489-6900",
+  "website": "https://www.roeserscakes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14510892646096098336",
+  "rating": 4.5,
+  "reviewCount": 2179,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.9103696,
+    -87.70760130000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Classic & creative cakes, cookies & tortes from a bakery run by the same family since 1911.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roeser-s-bakery-chicago/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roeser-s-bakery-chicago/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roeser-s-bakery-chicago/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roeser-s-bakery-chicago/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roeser-s-bakery-chicago/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:26:48.054Z"
+}

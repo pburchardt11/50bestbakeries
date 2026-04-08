@@ -1,0 +1,47 @@
+{
+  "slug": "helen-bernhard-bakery-portland",
+  "name": "Helen Bernhard Bakery",
+  "curatedName": "Helen Bernhard Bakery",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJQzegmcqglVQRiu1-n9hSDSw",
+  "googleName": "Helen Bernhard Bakery",
+  "formattedAddress": "1717 NE Broadway #1775, Portland, OR 97232, USA",
+  "phone": "(503) 287-1251",
+  "internationalPhone": "+1 503-287-1251",
+  "website": "https://www.helenbernhardbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3174284402708376970",
+  "rating": 4.5,
+  "reviewCount": 887,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5351915,
+    -122.648079
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:00 PM",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "This homey, long-running bakery with an old-school vibe sells pastries, cookies, cakes & breads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/helen-bernhard-bakery-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/helen-bernhard-bakery-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/helen-bernhard-bakery-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/helen-bernhard-bakery-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/helen-bernhard-bakery-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:16:14.511Z"
+}

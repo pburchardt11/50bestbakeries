@@ -1,0 +1,42 @@
+{
+  "slug": "grace-s-bakery-cowes",
+  "name": "Grace's Bakery",
+  "curatedName": "Grace's Bakery",
+  "city": "Cowes",
+  "country": "United Kingdom",
+  "placeId": "ChIJezYhIlN7dEgRaY6w7UcwC0k",
+  "googleName": "Graces Bakery Cowes",
+  "formattedAddress": "31 High St, Cowes PO31 7RS, UK",
+  "phone": "01983 718832",
+  "internationalPhone": "+44 1983 718832",
+  "website": "http://www.gracesbakery.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5263353675001138793",
+  "rating": 4.5,
+  "reviewCount": 25,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    50.7626853,
+    -1.2978581
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grace-s-bakery-cowes/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grace-s-bakery-cowes/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grace-s-bakery-cowes/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grace-s-bakery-cowes/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grace-s-bakery-cowes/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:59:21.316Z"
+}

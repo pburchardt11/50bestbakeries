@@ -1,0 +1,49 @@
+{
+  "slug": "strock-gerasdorf-bei-wien",
+  "name": "Ströck",
+  "curatedName": "Ströck",
+  "city": "Gerasdorf bei Wien",
+  "country": "Austria",
+  "placeId": "ChIJQU6hDmQEbUcRiQbuFpEd5gs",
+  "googleName": "Ströck - Gerasdorf Leopoldauer Straße",
+  "formattedAddress": "Leopoldauer Str. 18, 2201 Gerasdorf bei Wien, Austria",
+  "phone": "01 204399983025",
+  "internationalPhone": "+43 1 204399983025",
+  "website": "https://stroeck.at/filialfinder/?store_code=3025",
+  "googleMapsUrl": "https://maps.google.com/?cid=857405288052819593",
+  "rating": 4.5,
+  "reviewCount": 1228,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.2932107,
+    16.4663379
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:30 PM",
+    "Tuesday: 5:30 AM – 6:30 PM",
+    "Wednesday: 5:30 AM – 6:30 PM",
+    "Thursday: 5:30 AM – 6:30 PM",
+    "Friday: 5:30 AM – 6:30 PM",
+    "Saturday: 5:30 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/strock-gerasdorf-bei-wien/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/strock-gerasdorf-bei-wien/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/strock-gerasdorf-bei-wien/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/strock-gerasdorf-bei-wien/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/strock-gerasdorf-bei-wien/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:25:10.985Z"
+}

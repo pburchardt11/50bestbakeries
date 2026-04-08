@@ -1,0 +1,47 @@
+{
+  "slug": "landbackerei-stinges-bruggen",
+  "name": "Landbäckerei Stinges",
+  "curatedName": "Landbäckerei Stinges",
+  "city": "Brüggen",
+  "country": "Germany",
+  "placeId": "ChIJO9cq5rtTx0cReEkuMD5q2bo",
+  "googleName": "Landbäckerei Stinges",
+  "formattedAddress": "Borner Str. 50, 41379 Brüggen, Germany",
+  "phone": "02163 7797",
+  "internationalPhone": "+49 2163 7797",
+  "website": "https://www.stinges.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13463909376329664888",
+  "rating": 4.1,
+  "reviewCount": 159,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.24413149999999,
+    6.1900724
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/landbackerei-stinges-bruggen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/landbackerei-stinges-bruggen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/landbackerei-stinges-bruggen/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/landbackerei-stinges-bruggen/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/landbackerei-stinges-bruggen/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:06:46.243Z"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "backhausle-gundelfingen-an-der-donau",
+  "name": "Backhäusle",
+  "curatedName": "Backhäusle",
+  "city": "Gundelfingen an der Donau",
+  "country": "Germany",
+  "placeId": "ChIJp5GgN2tImUcRfxDQ1dYzClo",
+  "googleName": "Backhäusle",
+  "formattedAddress": "Professor-Bamann-Straße 11, 89423 Gundelfingen an der Donau, Germany",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6488055210983821439",
+  "rating": 4.8,
+  "reviewCount": 6,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    48.5530092,
+    10.3688164
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhausle-gundelfingen-an-der-donau/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhausle-gundelfingen-an-der-donau/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhausle-gundelfingen-an-der-donau/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhausle-gundelfingen-an-der-donau/3.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:48:08.115Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "tatte-alexandria",
+  "name": "Tatte",
+  "curatedName": "Tatte",
+  "city": "Alexandria",
+  "country": "United States",
+  "placeId": "ChIJp8Hvvz6xt4kRYxahcGS4y2Y",
+  "googleName": "Tatte Bakery & Cafe | Old Town",
+  "formattedAddress": "535 King St, Alexandria, VA 22314, USA",
+  "phone": "(703) 718-4108",
+  "internationalPhone": "+1 703-718-4108",
+  "website": "https://tattebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7407216753666758243",
+  "rating": 4,
+  "reviewCount": 416,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.80506099999999,
+    -77.04547339999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tatte-alexandria/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tatte-alexandria/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tatte-alexandria/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tatte-alexandria/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tatte-alexandria/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:38:31.800Z"
+}

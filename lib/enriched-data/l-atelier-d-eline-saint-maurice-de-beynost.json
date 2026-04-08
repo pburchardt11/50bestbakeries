@@ -1,0 +1,39 @@
+{
+  "slug": "l-atelier-d-eline-saint-maurice-de-beynost",
+  "name": "L'atelier d'eline",
+  "curatedName": "L'atelier d'eline",
+  "city": "Saint-Maurice-de-Beynost",
+  "country": "France",
+  "placeId": "ChIJXzR6n7a59EcRsPzUOhaswn0",
+  "googleName": "L'Atelier d'Éline",
+  "formattedAddress": "18 Av. Pasteur, 01700 Saint-Maurice-de-Beynost, France",
+  "phone": "09 80 41 72 92",
+  "internationalPhone": "+33 9 80 41 72 92",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9061994611699154096",
+  "rating": 4,
+  "reviewCount": 29,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_TEMPORARILY",
+  "coords": [
+    45.8259125,
+    4.9808975
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-d-eline-saint-maurice-de-beynost/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-d-eline-saint-maurice-de-beynost/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-d-eline-saint-maurice-de-beynost/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-d-eline-saint-maurice-de-beynost/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-d-eline-saint-maurice-de-beynost/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:49:19.399Z"
+}

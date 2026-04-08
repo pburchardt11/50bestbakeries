@@ -1,0 +1,39 @@
+{
+  "slug": "les-fromentiers-lyon",
+  "name": "Les fromentiers",
+  "curatedName": "Les fromentiers",
+  "city": "Lyon",
+  "country": "France",
+  "placeId": "ChIJ77aAh2_q9EcRtkqqYuXsEOI",
+  "googleName": "Les fromentiers",
+  "formattedAddress": "92 Av. Félix Faure, 69003 Lyon, France",
+  "phone": "09 67 32 11 98",
+  "internationalPhone": "+33 9 67 32 11 98",
+  "website": "http://www.lesfromentiers.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16289780322146077366",
+  "rating": 3.5,
+  "reviewCount": 25,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    45.753298,
+    4.8577716
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-fromentiers-lyon/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-fromentiers-lyon/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-fromentiers-lyon/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-fromentiers-lyon/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-fromentiers-lyon/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:54:31.702Z"
+}

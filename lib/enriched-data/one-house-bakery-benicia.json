@@ -1,0 +1,49 @@
+{
+  "slug": "one-house-bakery-benicia",
+  "name": "One House Bakery",
+  "curatedName": "One House Bakery",
+  "city": "Benicia",
+  "country": "United States",
+  "placeId": "ChIJC6zeIXFvhYARF0i_E1mzoDY",
+  "googleName": "One House Bakery",
+  "formattedAddress": "918 First St, Benicia, CA 94510, USA",
+  "phone": "(707) 361-5919",
+  "internationalPhone": "+1 707-361-5919",
+  "website": "https://www.onehousebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3936343269486577687",
+  "rating": 4.7,
+  "reviewCount": 1015,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.0515438,
+    -122.1571161
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/one-house-bakery-benicia/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/one-house-bakery-benicia/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/one-house-bakery-benicia/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/one-house-bakery-benicia/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/one-house-bakery-benicia/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:37:30.194Z"
+}

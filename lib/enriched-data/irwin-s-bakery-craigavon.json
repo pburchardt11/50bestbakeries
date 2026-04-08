@@ -1,0 +1,47 @@
+{
+  "slug": "irwin-s-bakery-craigavon",
+  "name": "Irwin's Bakery",
+  "curatedName": "Irwin's Bakery",
+  "city": "Craigavon",
+  "country": "United Kingdom",
+  "placeId": "ChIJ0cWtmAfwYEgRkTvxDo1Ebeo",
+  "googleName": "Irwin's Bakery",
+  "formattedAddress": "5 Diviny Dr, Portadown, Craigavon BT63 5WE, UK",
+  "phone": "028 3833 2421",
+  "internationalPhone": "+44 28 3833 2421",
+  "website": "https://www.irwinsbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16892233149968366481",
+  "rating": 4.2,
+  "reviewCount": 39,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    54.4482574,
+    -6.4114323
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/irwin-s-bakery-craigavon/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/irwin-s-bakery-craigavon/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/irwin-s-bakery-craigavon/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/irwin-s-bakery-craigavon/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/irwin-s-bakery-craigavon/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:36:22.136Z"
+}

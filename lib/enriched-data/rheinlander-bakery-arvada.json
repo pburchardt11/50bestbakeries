@@ -1,0 +1,47 @@
+{
+  "slug": "rheinlander-bakery-arvada",
+  "name": "Rheinlander Bakery",
+  "curatedName": "Rheinlander Bakery",
+  "city": "Arvada",
+  "country": "United States",
+  "placeId": "ChIJL8MFhSyGa4cROLKc73H8OfA",
+  "googleName": "Rheinlander Bakery",
+  "formattedAddress": "5721 Olde Wadsworth Blvd, Arvada, CO 80002, USA",
+  "phone": "(303) 467-1810",
+  "internationalPhone": "+1 303-467-1810",
+  "website": "http://www.rheinlanderbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17310144209056739896",
+  "rating": 4.7,
+  "reviewCount": 2033,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.8007839,
+    -105.0815944
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Longtime family-owned bakery selling fancy cakes, German pastries & gluten-free goodies.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rheinlander-bakery-arvada/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rheinlander-bakery-arvada/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rheinlander-bakery-arvada/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rheinlander-bakery-arvada/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rheinlander-bakery-arvada/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:26:38.949Z"
+}

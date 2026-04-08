@@ -1,0 +1,48 @@
+{
+  "slug": "goeken-backen-altenbeken",
+  "name": "Goeken Backen",
+  "curatedName": "Goeken Backen",
+  "city": "Altenbeken",
+  "country": "Germany",
+  "placeId": "ChIJA-wJK95TukcRj3mGmWQinH8",
+  "googleName": "Bäckerei Goeken backen Combi Altenbeken",
+  "formattedAddress": "Hüttenstraße 2, 33184 Altenbeken, Germany",
+  "phone": "05255 6113",
+  "internationalPhone": "+49 5255 6113",
+  "website": "https://www.goeken-backen.de/filialien/goeken-backen-markant-altenbeken/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9195262354651511183",
+  "rating": 4,
+  "reviewCount": 23,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.763168,
+    8.9454636
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goeken-backen-altenbeken/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goeken-backen-altenbeken/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goeken-backen-altenbeken/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goeken-backen-altenbeken/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goeken-backen-altenbeken/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:57:25.339Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "malcolm-barnecutt-bakery-bodmin",
+  "name": "Malcolm Barnecutt Bakery",
+  "curatedName": "Malcolm Barnecutt Bakery",
+  "city": "Bodmin",
+  "country": "United Kingdom",
+  "placeId": "ChIJy6a95fh6a0gRvVW6yNou3n8",
+  "googleName": "Malcolm Barnecutt Bakery Bodmin Lucknow Road",
+  "formattedAddress": "Walker Lines Ind Est, 39 Normandy Way, Bodmin PL31 1HA, UK",
+  "phone": "01208 76464",
+  "internationalPhone": "+44 1208 76464",
+  "website": "http://www.barnecutt.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9213853404852016573",
+  "rating": 4.6,
+  "reviewCount": 955,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.4580692,
+    -4.7051123
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 3:00 PM",
+    "Tuesday: 7:30 AM – 3:00 PM",
+    "Wednesday: 7:30 AM – 3:00 PM",
+    "Thursday: 7:30 AM – 3:00 PM",
+    "Friday: 7:30 AM – 3:00 PM",
+    "Saturday: 7:30 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/malcolm-barnecutt-bakery-bodmin/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/malcolm-barnecutt-bakery-bodmin/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/malcolm-barnecutt-bakery-bodmin/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/malcolm-barnecutt-bakery-bodmin/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/malcolm-barnecutt-bakery-bodmin/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:01:40.971Z"
+}

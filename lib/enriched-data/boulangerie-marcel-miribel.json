@@ -1,0 +1,48 @@
+{
+  "slug": "boulangerie-marcel-miribel",
+  "name": "Boulangerie Marcel",
+  "curatedName": "Boulangerie Marcel",
+  "city": "Miribel",
+  "country": "France",
+  "placeId": "ChIJoa9N0nK_9EcRNX9kDKZmt_U",
+  "googleName": "Boulangerie Marcel",
+  "formattedAddress": "699 Rte de Strasbourg, 01700 Miribel, France",
+  "phone": "04 78 91 29 37",
+  "internationalPhone": "+33 4 78 91 29 37",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17705733323388911413",
+  "rating": 4.1,
+  "reviewCount": 424,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.8706138,
+    4.912268
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:30 PM",
+    "Tuesday: 6:00 AM – 7:30 PM",
+    "Wednesday: 6:00 AM – 7:30 PM",
+    "Thursday: 6:00 AM – 7:30 PM",
+    "Friday: 6:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-marcel-miribel/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-marcel-miribel/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-marcel-miribel/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-marcel-miribel/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-marcel-miribel/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:39:49.889Z"
+}

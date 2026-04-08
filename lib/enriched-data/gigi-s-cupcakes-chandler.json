@@ -1,0 +1,47 @@
+{
+  "slug": "gigi-s-cupcakes-chandler",
+  "name": "Gigi's Cupcakes",
+  "curatedName": "Gigi's Cupcakes",
+  "city": "Chandler",
+  "country": "United States",
+  "placeId": "ChIJ_7_t5_VhXIYR6Lo_Q2VZTbE",
+  "googleName": "Gigi's Cupcakes San Antonio",
+  "formattedAddress": "1203 N Loop 1604 W #109, San Antonio, TX 78258, USA",
+  "phone": "(210) 481-2300",
+  "internationalPhone": "+1 210-481-2300",
+  "website": "https://order.gigiscupcakesusa.com/vineyard-shopping-center/menu",
+  "googleMapsUrl": "https://maps.google.com/?cid=12775966009374784232",
+  "rating": 4.1,
+  "reviewCount": 345,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.6095587,
+    -98.5104621
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Bakery chain offering a rotating selection of gourmet cupcakes, plus cookies filled with frosting.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gigi-s-cupcakes-chandler/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gigi-s-cupcakes-chandler/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gigi-s-cupcakes-chandler/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gigi-s-cupcakes-chandler/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gigi-s-cupcakes-chandler/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:35:24.270Z"
+}

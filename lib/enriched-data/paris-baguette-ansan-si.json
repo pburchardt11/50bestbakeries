@@ -1,0 +1,41 @@
+{
+  "slug": "paris-baguette-ansan-si",
+  "name": "PARIS BAGUETTE",
+  "curatedName": "PARIS BAGUETTE",
+  "city": "Ansan-si",
+  "country": "South Korea",
+  "placeId": "ChIJ51JLcNVuezURLGN981njsbY",
+  "googleName": "Paris Baguette",
+  "formattedAddress": "51 Bonsam-ro, Sangnok-gu, Ansan-si, Gyeonggi-do, South Korea",
+  "phone": "031-417-8243",
+  "internationalPhone": "+82 31-417-8243",
+  "website": "https://www.paris.co.kr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13164553161257345836",
+  "rating": 4,
+  "reviewCount": 42,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.3009858,
+    126.8657727
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Cafe & bakery chain serving French pastries, bread, cakes & sandwiches, plus tea & coffee drinks.",
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:14:48.817Z"
+}

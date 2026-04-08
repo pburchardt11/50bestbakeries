@@ -1,0 +1,47 @@
+{
+  "slug": "teixeira-s-bakery-newark",
+  "name": "Teixeira's Bakery",
+  "curatedName": "Teixeira's Bakery",
+  "city": "Newark",
+  "country": "United States",
+  "placeId": "ChIJdRoeT5BTwokR-lcCYa2DsqM",
+  "googleName": "Teixeira's Bakery",
+  "formattedAddress": "186 Ferry St, Newark, NJ 07105, USA",
+  "phone": "(973) 344-4902",
+  "internationalPhone": "+1 973-344-4902",
+  "website": "https://www.facebook.com/pages/Teixeiras-Bakery/153268451353190",
+  "googleMapsUrl": "https://maps.google.com/?cid=11795635154716874746",
+  "rating": 4.5,
+  "reviewCount": 529,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7287833,
+    -74.1567278
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 8:00 PM",
+    "Tuesday: 5:00 AM – 8:00 PM",
+    "Wednesday: 5:00 AM – 8:00 PM",
+    "Thursday: 5:00 AM – 8:00 PM",
+    "Friday: 5:00 AM – 8:00 PM",
+    "Saturday: 5:00 AM – 8:00 PM",
+    "Sunday: 5:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Comfortable bakery in a bright contemporary setting specializing in Portuguese baked goods.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/teixeira-s-bakery-newark/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/teixeira-s-bakery-newark/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/teixeira-s-bakery-newark/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/teixeira-s-bakery-newark/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/teixeira-s-bakery-newark/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:38:43.872Z"
+}

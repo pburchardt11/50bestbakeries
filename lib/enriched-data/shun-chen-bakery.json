@@ -1,0 +1,48 @@
+{
+  "slug": "shun-chen-bakery",
+  "name": "Shun Chen Bakery",
+  "curatedName": "Shun Chen Bakery",
+  "city": "台北市",
+  "country": "Taiwan",
+  "placeId": "ChIJUaLMVMWrQjQRhaFexelZZ-c",
+  "googleName": "Shun Chen Bakery",
+  "formattedAddress": "106, Taiwan, Taipei City, Da’an District, 敦化南路1段212號",
+  "phone": "02 2711 7222",
+  "internationalPhone": "+886 2 2711 7222",
+  "website": "https://www.shunchenbakery.com.tw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16674395005936116101",
+  "rating": 4,
+  "reviewCount": 1274,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.0413158,
+    121.5484663
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:30 PM",
+    "Tuesday: 7:30 AM – 10:30 PM",
+    "Wednesday: 7:30 AM – 10:30 PM",
+    "Thursday: 7:30 AM – 10:30 PM",
+    "Friday: 7:30 AM – 10:30 PM",
+    "Saturday: 7:30 AM – 10:30 PM",
+    "Sunday: 7:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shun-chen-bakery/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shun-chen-bakery/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shun-chen-bakery/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shun-chen-bakery/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shun-chen-bakery/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:12:15.555Z"
+}

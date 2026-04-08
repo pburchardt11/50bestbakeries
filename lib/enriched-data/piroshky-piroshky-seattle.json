@@ -1,0 +1,48 @@
+{
+  "slug": "piroshky-piroshky-seattle",
+  "name": "Piroshky Piroshky",
+  "curatedName": "Piroshky Piroshky",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJRVYKxrJqkFQRFo-ZLZKrfRs",
+  "googleName": "Piroshky Piroshky",
+  "formattedAddress": "1908 Pike Pl, Seattle, WA 98101, USA",
+  "phone": "(206) 764-1000",
+  "internationalPhone": "+1 206-764-1000",
+  "website": "http://piroshkybakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1980928055431499542",
+  "rating": 4.5,
+  "reviewCount": 5749,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.6099225,
+    -122.3423601
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Compact Russian bakery located in Pike Place Market serving over 20 varieties of handmade piroshki.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/piroshky-piroshky-seattle/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/piroshky-piroshky-seattle/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/piroshky-piroshky-seattle/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/piroshky-piroshky-seattle/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/piroshky-piroshky-seattle/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:25:20.455Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "yummy-house-bakery-seattle",
+  "name": "Yummy House Bakery",
+  "curatedName": "Yummy House Bakery",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJg0ty8rxqkFQRov-vHhQCtyg",
+  "googleName": "Yummy House Bakery",
+  "formattedAddress": "522 6th Ave S, Seattle, WA 98104, USA",
+  "phone": "(206) 340-8838",
+  "internationalPhone": "+1 206-340-8838",
+  "website": "http://www.yummyhousebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2933815967692619682",
+  "rating": 4.4,
+  "reviewCount": 153,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.5977421,
+    -122.326248
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 6:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 9:30 AM – 6:00 PM",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 6:00 PM",
+    "Sunday: 9:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Cheerful outpost crafting Hong-Kong-style desserts, including wedding cakes, pastries & buns.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yummy-house-bakery-seattle/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yummy-house-bakery-seattle/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yummy-house-bakery-seattle/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yummy-house-bakery-seattle/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yummy-house-bakery-seattle/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:32:08.204Z"
+}

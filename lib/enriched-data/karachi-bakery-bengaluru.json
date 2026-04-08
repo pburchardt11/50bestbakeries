@@ -1,0 +1,49 @@
+{
+  "slug": "karachi-bakery-bengaluru",
+  "name": "Karachi Bakery",
+  "curatedName": "Karachi Bakery",
+  "city": "Bengaluru",
+  "country": "India",
+  "placeId": "ChIJK6RbmpoXrjsRRdrvjtz4LCc",
+  "googleName": "Karachi Bakery - Indiranagar bangalore",
+  "formattedAddress": "665, 1st Main, 100 Feet Rd, First Stage, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038, India",
+  "phone": "094414 44756",
+  "internationalPhone": "+91 94414 44756",
+  "website": "http://www.karachibakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2822904692629035589",
+  "rating": 4.2,
+  "reviewCount": 3481,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.9773761,
+    77.64110579999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:30 PM",
+    "Tuesday: 9:00 AM – 10:30 PM",
+    "Wednesday: 9:00 AM – 10:30 PM",
+    "Thursday: 9:00 AM – 10:30 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Sweets, cakes and artisan breads from an enduring chain bakeshop established in 1953.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karachi-bakery-bengaluru/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karachi-bakery-bengaluru/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karachi-bakery-bengaluru/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karachi-bakery-bengaluru/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karachi-bakery-bengaluru/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:03:43.380Z"
+}

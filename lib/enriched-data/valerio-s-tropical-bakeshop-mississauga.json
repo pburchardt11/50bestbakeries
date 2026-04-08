@@ -1,0 +1,47 @@
+{
+  "slug": "valerio-s-tropical-bakeshop-mississauga",
+  "name": "Valerio’s  Tropical Bakeshop",
+  "curatedName": "Valerio’s  Tropical Bakeshop",
+  "city": "Mississauga",
+  "country": "Canada",
+  "placeId": "ChIJEdVdl2BAK4gREqoSZPWJthY",
+  "googleName": "Valerio's Tropical Bake Shop",
+  "formattedAddress": "East Credit, Mississauga, ON L5V 2Y1, Canada",
+  "phone": "(905) 203-0532",
+  "internationalPhone": "+1 905-203-0532",
+  "website": "https://valeriostropicalbakeshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1636647201634691602",
+  "rating": 4.3,
+  "reviewCount": 780,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6122304,
+    -79.699561
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/valerio-s-tropical-bakeshop-mississauga/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/valerio-s-tropical-bakeshop-mississauga/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/valerio-s-tropical-bakeshop-mississauga/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/valerio-s-tropical-bakeshop-mississauga/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/valerio-s-tropical-bakeshop-mississauga/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:42:22.720Z"
+}

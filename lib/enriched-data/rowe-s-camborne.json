@@ -1,0 +1,47 @@
+{
+  "slug": "rowe-s-camborne",
+  "name": "Rowe's",
+  "curatedName": "Rowe's",
+  "city": "Camborne",
+  "country": "United Kingdom",
+  "placeId": "ChIJ22WWQvbfakgRwEO3_feOa0Q",
+  "googleName": "Rowe's Bakers Camborne",
+  "formattedAddress": "15 Commercial St, Camborne TR14 8AT, UK",
+  "phone": "01209 715559",
+  "internationalPhone": "+44 1209 715559",
+  "website": "http://www.rowesbakers.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4930191412851852224",
+  "rating": 3.9,
+  "reviewCount": 16,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.2141033,
+    -5.2992541
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rowe-s-camborne/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rowe-s-camborne/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rowe-s-camborne/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rowe-s-camborne/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rowe-s-camborne/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:03:47.894Z"
+}

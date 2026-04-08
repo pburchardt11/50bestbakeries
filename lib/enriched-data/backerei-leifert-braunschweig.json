@@ -1,0 +1,47 @@
+{
+  "slug": "backerei-leifert-braunschweig",
+  "name": "Bäckerei Leifert",
+  "curatedName": "Bäckerei Leifert",
+  "city": "Braunschweig",
+  "country": "Germany",
+  "placeId": "ChIJ9_KIhWH3r0cRLjbG0zpGVXE",
+  "googleName": "Bäckerei Leifert Bienrode",
+  "formattedAddress": "Waggumer Str. 8c, 38110 Braunschweig, Germany",
+  "phone": "05307 2029817",
+  "internationalPhone": "+49 5307 2029817",
+  "website": "https://www.leifert.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8166510717781292590",
+  "rating": 4.2,
+  "reviewCount": 230,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.3178665,
+    10.5343824
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-leifert-braunschweig/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-leifert-braunschweig/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-leifert-braunschweig/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-leifert-braunschweig/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-leifert-braunschweig/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:42:49.182Z"
+}

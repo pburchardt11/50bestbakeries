@@ -1,0 +1,49 @@
+{
+  "slug": "st-honore-boulangerie-portland",
+  "name": "St Honoré Boulangerie",
+  "curatedName": "St Honoré Boulangerie",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJsw68bYaglVQR18drjIMwens",
+  "googleName": "St. Honoré Bakery SE Division",
+  "formattedAddress": "3333 SE Division St, Portland, OR 97202, USA",
+  "phone": "(971) 279-4433",
+  "internationalPhone": "+1 971-279-4433",
+  "website": "http://www.sainthonorebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8897477355378558935",
+  "rating": 4.5,
+  "reviewCount": 848,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5048878,
+    -122.6307388
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "French bakeshop serving coffee, quiche, fresh-baked sweets, breads & salads, as well as sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-honore-boulangerie-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-honore-boulangerie-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-honore-boulangerie-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-honore-boulangerie-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-honore-boulangerie-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:28:45.164Z"
+}

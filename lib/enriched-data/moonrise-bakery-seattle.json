@@ -1,0 +1,47 @@
+{
+  "slug": "moonrise-bakery-seattle",
+  "name": "Moonrise Bakery",
+  "curatedName": "Moonrise Bakery",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJvcgaetsVkFQRtbdRpY6qZUE",
+  "googleName": "Moonrise Bakery",
+  "formattedAddress": "1805 Queen Anne Ave N, Seattle, WA 98109, USA",
+  "phone": "(206) 623-7383",
+  "internationalPhone": "+1 206-623-7383",
+  "website": "http://www.moonrise-bakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4712360114748766133",
+  "rating": 4.4,
+  "reviewCount": 558,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.63497,
+    -122.3573655
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Casual French spot with patio serving breakfast & sandwiches as well as cakes & other baked treats.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moonrise-bakery-seattle/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moonrise-bakery-seattle/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moonrise-bakery-seattle/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moonrise-bakery-seattle/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moonrise-bakery-seattle/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:22:40.821Z"
+}

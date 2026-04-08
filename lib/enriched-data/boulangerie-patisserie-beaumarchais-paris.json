@@ -1,0 +1,49 @@
+{
+  "slug": "boulangerie-patisserie-beaumarchais-paris",
+  "name": "Boulangerie Pâtisserie Beaumarchais",
+  "curatedName": "Boulangerie Pâtisserie Beaumarchais",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJH4w5if9t5kcRmc9AaGijeyY",
+  "googleName": "Maison Landemaine",
+  "formattedAddress": "28 Bd Beaumarchais, 75011 Paris, France",
+  "phone": "01 48 06 22 43",
+  "internationalPhone": "+33 1 48 06 22 43",
+  "website": "http://www.maisonlandemaine.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2772989664397676441",
+  "rating": 3.9,
+  "reviewCount": 769,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8559552,
+    2.3687484
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:30 PM",
+    "Sunday: 7:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-beaumarchais-paris/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-beaumarchais-paris/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-beaumarchais-paris/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-beaumarchais-paris/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-beaumarchais-paris/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:47:08.584Z"
+}

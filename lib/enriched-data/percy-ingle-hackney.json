@@ -1,0 +1,48 @@
+{
+  "slug": "percy-ingle-hackney",
+  "name": "Percy Ingle",
+  "curatedName": "Percy Ingle",
+  "city": "Hackney",
+  "country": "United Kingdom",
+  "placeId": "ChIJ47IAmoEddkgR6Tn5PHibIwI",
+  "googleName": "Breidbakers",
+  "formattedAddress": "Arch 72 Dunbridge St, Bethnal Green, London E2 6JG, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.breidbakers.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=154137752982075881",
+  "rating": 4.8,
+  "reviewCount": 410,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5237407,
+    -0.0635819
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 9:30 AM – 6:30 PM",
+    "Sunday: 9:30 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/percy-ingle-hackney/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/percy-ingle-hackney/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/percy-ingle-hackney/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/percy-ingle-hackney/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/percy-ingle-hackney/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:02:51.222Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "sipl-gmbh-eichstatt",
+  "name": "Sipl GmbH",
+  "curatedName": "Sipl GmbH",
+  "city": "Eichstätt",
+  "country": "Germany",
+  "placeId": "ChIJv-aWVM8en0cRXkX8lmb_XtM",
+  "googleName": "Sipl Brot & Kaffeehaus am Marktplatz in Eichstätt",
+  "formattedAddress": "Marktgasse 2, 85072 Eichstätt, Germany",
+  "phone": "08421 9378088",
+  "internationalPhone": "+49 8421 9378088",
+  "website": "http://www.sipl.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15230891805898458462",
+  "rating": 4.2,
+  "reviewCount": 109,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8931927,
+    11.1843738
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 1:00 PM",
+    "Sunday: 7:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sipl-gmbh-eichstatt/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sipl-gmbh-eichstatt/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sipl-gmbh-eichstatt/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sipl-gmbh-eichstatt/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sipl-gmbh-eichstatt/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:12:34.455Z"
+}

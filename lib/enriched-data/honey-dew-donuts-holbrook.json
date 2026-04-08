@@ -1,0 +1,46 @@
+{
+  "slug": "honey-dew-donuts-holbrook",
+  "name": "Honey Dew Donuts",
+  "curatedName": "Honey Dew Donuts",
+  "city": "Holbrook",
+  "country": "United States",
+  "placeId": "ChIJjRC9pmeD5IkR4enF7_aTQcI",
+  "googleName": "Honey Dew Donuts",
+  "formattedAddress": "845 S Franklin St, Holbrook, MA 02343, USA",
+  "phone": "(781) 885-7467",
+  "internationalPhone": "+1 781-885-7467",
+  "website": "http://honeydewdonuts.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13997631805638175201",
+  "rating": 4.2,
+  "reviewCount": 93,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.1275988,
+    -71.0089808
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:00 PM",
+    "Tuesday: 5:30 AM – 6:00 PM",
+    "Wednesday: 5:30 AM – 6:00 PM",
+    "Thursday: 5:30 AM – 6:00 PM",
+    "Friday: 5:30 AM – 6:00 PM",
+    "Saturday: 5:30 AM – 6:00 PM",
+    "Sunday: 6:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Informal chain serving up coffee drinks, donuts, pastries & breakfast sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/honey-dew-donuts-holbrook/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/honey-dew-donuts-holbrook/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/honey-dew-donuts-holbrook/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/honey-dew-donuts-holbrook/3.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:16:40.843Z"
+}

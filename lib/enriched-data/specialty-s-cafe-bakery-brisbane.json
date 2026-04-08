@@ -1,0 +1,46 @@
+{
+  "slug": "specialty-s-cafe-bakery-brisbane",
+  "name": "Specialty’s Café & Bakery",
+  "curatedName": "Specialty’s Café & Bakery",
+  "city": "Brisbane",
+  "country": "United States",
+  "placeId": "ChIJAfvJ2eJ5j4ARX68p-7yl5RA",
+  "googleName": "Specialty's Café & Bakery",
+  "formattedAddress": "880 Sierra Point Pkwy, Brisbane, CA 94005, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://specialtys.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1217561505359834975",
+  "rating": 4.5,
+  "reviewCount": 54,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.6739446,
+    -122.3831382
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 4:00 PM",
+    "Tuesday: 6:30 AM – 4:00 PM",
+    "Wednesday: 6:30 AM – 4:00 PM",
+    "Thursday: 6:30 AM – 4:00 PM",
+    "Friday: 6:30 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Weekday-only counter-serve chain cafe serving baked goods & light breakfast/lunch fare.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/specialty-s-cafe-bakery-brisbane/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/specialty-s-cafe-bakery-brisbane/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/specialty-s-cafe-bakery-brisbane/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/specialty-s-cafe-bakery-brisbane/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/specialty-s-cafe-bakery-brisbane/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:38:20.802Z"
+}

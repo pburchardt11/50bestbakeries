@@ -1,0 +1,36 @@
+{
+  "slug": "kronenbrot-wurselen",
+  "name": "Kronenbrot",
+  "curatedName": "Kronenbrot",
+  "city": "Würselen",
+  "country": "Germany",
+  "placeId": "ChIJ13LPYs6YwEcRN3jLOx4ELtw",
+  "googleName": "Würselen",
+  "formattedAddress": "52146 Würselen, Germany",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.wuerselen.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15865623065171556407",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "locality",
+    "political"
+  ],
+  "businessStatus": null,
+  "coords": [
+    50.818365,
+    6.132613999999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kronenbrot-wurselen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kronenbrot-wurselen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kronenbrot-wurselen/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kronenbrot-wurselen/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kronenbrot-wurselen/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:05:58.793Z"
+}

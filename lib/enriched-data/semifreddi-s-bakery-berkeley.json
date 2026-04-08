@@ -1,0 +1,40 @@
+{
+  "slug": "semifreddi-s-bakery-berkeley",
+  "name": "Semifreddi's Bakery",
+  "curatedName": "Semifreddi's Bakery",
+  "city": "Berkeley",
+  "country": "United States",
+  "placeId": "ChIJ8Re9ysh9hYARyix66du5vFY",
+  "googleName": "Semifreddi's Bakery",
+  "formattedAddress": "3084 Claremont Ave, Berkeley, CA 94705, USA",
+  "phone": "(510) 596-9942",
+  "internationalPhone": "+1 510-596-9942",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6250074737049480394",
+  "rating": 4.8,
+  "reviewCount": 8,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    37.8546037,
+    -122.2484599
+  ],
+  "openingHours": null,
+  "editorialSummary": "This cafe & bakery offers fresh loaves plus coffee, morning pastries & hot pressed sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/semifreddi-s-bakery-berkeley/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/semifreddi-s-bakery-berkeley/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/semifreddi-s-bakery-berkeley/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/semifreddi-s-bakery-berkeley/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/semifreddi-s-bakery-berkeley/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:28:01.234Z"
+}

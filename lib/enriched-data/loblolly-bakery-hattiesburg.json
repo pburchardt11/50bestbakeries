@@ -1,0 +1,47 @@
+{
+  "slug": "loblolly-bakery-hattiesburg",
+  "name": "Loblolly Bakery",
+  "curatedName": "Loblolly Bakery",
+  "city": "Hattiesburg",
+  "country": "United States",
+  "placeId": "ChIJp-Hx2PrfnIgRrin1o2j1TI8",
+  "googleName": "Loblolly Bakery",
+  "formattedAddress": "3207 Hardy St, Hattiesburg, MS 39401, USA",
+  "phone": "(601) 450-0446",
+  "internationalPhone": "+1 601-450-0446",
+  "website": "https://loblollybakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10325897875429861806",
+  "rating": 4.4,
+  "reviewCount": 205,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.325228,
+    -89.3381762
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loblolly-bakery-hattiesburg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loblolly-bakery-hattiesburg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loblolly-bakery-hattiesburg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loblolly-bakery-hattiesburg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loblolly-bakery-hattiesburg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:20:39.943Z"
+}

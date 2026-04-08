@@ -1,0 +1,47 @@
+{
+  "slug": "hofpfisterei-ainring",
+  "name": "Hofpfisterei",
+  "curatedName": "Hofpfisterei",
+  "city": "Ainring",
+  "country": "Germany",
+  "placeId": "ChIJY-NAKjYadkcRXca78xa6_UE",
+  "googleName": "Ludwig Stocker Hofpfisterei GmbH",
+  "formattedAddress": "Heilig-Geist-Straße 24, 83022 Rosenheim, Germany",
+  "phone": "08031 389274",
+  "internationalPhone": "+49 8031 389274",
+  "website": "https://www.hofpfisterei.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4755161389314328157",
+  "rating": 3.5,
+  "reviewCount": 66,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.8567347,
+    12.125356
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:00 PM",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hofpfisterei-ainring/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hofpfisterei-ainring/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hofpfisterei-ainring/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hofpfisterei-ainring/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hofpfisterei-ainring/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:59:44.333Z"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "shipley-do-nuts-alexandria",
+  "name": "Shipley Do-Nuts",
+  "curatedName": "Shipley Do-Nuts",
+  "city": "Alexandria",
+  "country": "United States",
+  "placeId": "ChIJ-XtoqEG1OoYRHBg9BlDpx_s",
+  "googleName": "Shipley Do-Nuts",
+  "formattedAddress": "6100 Masonic Dr, Alexandria, LA 71301, USA",
+  "phone": "(318) 448-2218",
+  "internationalPhone": "+1 318-448-2218",
+  "website": "https://shipleydonuts.com/locations/6100-masonic",
+  "googleMapsUrl": "https://maps.google.com/?cid=18142726153796655132",
+  "rating": 4.4,
+  "reviewCount": 168,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.2582787,
+    -92.4780153
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:00 PM",
+    "Tuesday: 5:00 AM – 6:00 PM",
+    "Wednesday: 5:00 AM – 6:00 PM",
+    "Thursday: 5:00 AM – 6:00 PM",
+    "Friday: 5:00 AM – 6:00 PM",
+    "Saturday: 5:00 AM – 1:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": "Chain with a variety of yeast, cake & filled donuts, plus kolaches, espresso drinks & smoothies.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shipley-do-nuts-alexandria/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shipley-do-nuts-alexandria/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shipley-do-nuts-alexandria/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shipley-do-nuts-alexandria/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shipley-do-nuts-alexandria/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:28:11.574Z"
+}

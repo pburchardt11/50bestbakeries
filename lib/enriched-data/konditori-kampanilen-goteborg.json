@@ -1,0 +1,47 @@
+{
+  "slug": "konditori-kampanilen-goteborg",
+  "name": "Konditori Kampanilen",
+  "curatedName": "Konditori Kampanilen",
+  "city": "Göteborg",
+  "country": "Sweden",
+  "placeId": "ChIJxUMNcYDzT0YRij_CaRqmbG4",
+  "googleName": "Konditori Kampanilen",
+  "formattedAddress": "Karl Johansgatan 5, 414 59 Göteborg, Sweden",
+  "phone": "031-14 48 11",
+  "internationalPhone": "+46 31 14 48 11",
+  "website": "http://www.kampanilen.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7956917274030522250",
+  "rating": 4.5,
+  "reviewCount": 342,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    57.69859719999999,
+    11.9320288
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditori-kampanilen-goteborg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditori-kampanilen-goteborg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditori-kampanilen-goteborg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditori-kampanilen-goteborg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditori-kampanilen-goteborg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:20:04.628Z"
+}

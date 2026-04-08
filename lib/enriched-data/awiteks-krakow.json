@@ -1,0 +1,47 @@
+{
+  "slug": "awiteks-krakow",
+  "name": "Awiteks",
+  "curatedName": "Awiteks",
+  "city": "Kraków",
+  "country": "Poland",
+  "placeId": "ChIJl91XtbtbFkcRFJPxc85bvjo",
+  "googleName": "Awiteks | Rok zał. 1994",
+  "formattedAddress": "Antoniego Gramatyka 10, 33-332 Kraków, Poland",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.awiteks.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4232921642041447188",
+  "rating": 3.7,
+  "reviewCount": 291,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.0699268,
+    19.9059221
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/awiteks-krakow/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/awiteks-krakow/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/awiteks-krakow/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/awiteks-krakow/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/awiteks-krakow/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:11:04.165Z"
+}

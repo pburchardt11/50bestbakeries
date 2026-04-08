@@ -1,0 +1,47 @@
+{
+  "slug": "gideon-s-bakehouse-orlando",
+  "name": "Gideon's Bakehouse",
+  "curatedName": "Gideon's Bakehouse",
+  "city": "Orlando",
+  "country": "United States",
+  "placeId": "ChIJC9pvtLN654gR6F0GZH-G-8I",
+  "googleName": "Gideon's Bakehouse",
+  "formattedAddress": "3201 Corrine Dr, Orlando, FL 32803, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.gideonsbakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14049971344209501672",
+  "rating": 4.5,
+  "reviewCount": 1745,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.5683585,
+    -81.3437659
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Sweets shop, with a warm Victorian ambiance, specializing in hefty cookies and rich cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gideon-s-bakehouse-orlando/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gideon-s-bakehouse-orlando/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gideon-s-bakehouse-orlando/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gideon-s-bakehouse-orlando/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gideon-s-bakehouse-orlando/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:35:10.499Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "lou-the-french-on-the-block-burbank",
+  "name": "Lou The French On The Block",
+  "curatedName": "Lou The French On The Block",
+  "city": "Burbank",
+  "country": "United States",
+  "placeId": "ChIJn6EB9sy_woARr7r8GNgStyg",
+  "googleName": "Lou, The French On The Block",
+  "formattedAddress": "4007 W Riverside Dr, Burbank, CA 91505, USA",
+  "phone": "(747) 777-1284",
+  "internationalPhone": "+1 747-777-1284",
+  "website": "http://www.louthefrenchontheblock.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2933834401596619439",
+  "rating": 4.8,
+  "reviewCount": 467,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.1520507,
+    -118.3433194
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 8:00 AM – 2:30 PM",
+    "Saturday: 8:00 AM – 2:30 PM",
+    "Sunday: 8:00 AM – 2:30 PM"
+  ],
+  "editorialSummary": "Warm, relaxed stop serving a range of French pastries & coffee plus sandwiches, quiches & salads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lou-the-french-on-the-block-burbank/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lou-the-french-on-the-block-burbank/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lou-the-french-on-the-block-burbank/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lou-the-french-on-the-block-burbank/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lou-the-french-on-the-block-burbank/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:20:49.100Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "crumbville-tx-houston",
+  "name": "Crumbville Tx",
+  "curatedName": "Crumbville Tx",
+  "city": "Houston",
+  "country": "United States",
+  "placeId": "ChIJaVLivdDBQIYRbd22376aGmM",
+  "googleName": "The Crumby Bakeshop",
+  "formattedAddress": "4530 Beechnut St, Houston, TX 77096, USA",
+  "phone": "(713) 485-6608",
+  "internationalPhone": "+1 713-485-6608",
+  "website": "https://www.crumbybakeshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7141190303737109869",
+  "rating": 4.9,
+  "reviewCount": 87,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.689588,
+    -95.452439
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crumbville-tx-houston/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crumbville-tx-houston/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crumbville-tx-houston/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crumbville-tx-houston/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crumbville-tx-houston/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:33:44.050Z"
+}

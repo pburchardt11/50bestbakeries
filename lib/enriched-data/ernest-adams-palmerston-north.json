@@ -1,0 +1,33 @@
+{
+  "slug": "ernest-adams-palmerston-north",
+  "name": "Ernest Adams",
+  "curatedName": "Ernest Adams",
+  "city": "Palmerston North",
+  "country": "New Zealand",
+  "placeId": "ChIJd4IxzjpNQG0RLnIplOeatm4",
+  "googleName": "Ernest Adams",
+  "formattedAddress": "142 Botanical Road, Takaro, Palmerston North 4412, New Zealand",
+  "phone": "06 356 4840",
+  "internationalPhone": "+64 6 356 4840",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7977734109347279406",
+  "rating": 2.7,
+  "reviewCount": 27,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -40.3577771,
+    175.589644
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ernest-adams-palmerston-north/0.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:10:39.407Z"
+}

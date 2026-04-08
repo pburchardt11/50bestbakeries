@@ -1,0 +1,48 @@
+{
+  "slug": "sternenback-albstadt",
+  "name": "Sternenback",
+  "curatedName": "Sternenback",
+  "city": "Albstadt",
+  "country": "Germany",
+  "placeId": "ChIJYVeikxocmkcREFYSDNLUnPs",
+  "googleName": "Backpalast Burladingen",
+  "formattedAddress": "Hauptstraße 59, 72393 Burladingen, Germany",
+  "phone": "07475 8240",
+  "internationalPhone": "+49 7475 8240",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18130600198497523216",
+  "rating": 3.9,
+  "reviewCount": 240,
+  "priceLevel": 2,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.2891991,
+    9.114849099999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sternenback-albstadt/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sternenback-albstadt/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sternenback-albstadt/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sternenback-albstadt/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sternenback-albstadt/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:14:33.187Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "forn-de-pa-barcelona",
+  "name": "Forn de Pa",
+  "curatedName": "Forn de Pa",
+  "city": "Barcelona",
+  "country": "Spain",
+  "placeId": "ChIJ_dck7O-ipBIRqtiw7ehAv5E",
+  "googleName": "Panamà Forn de Pa Artesà",
+  "formattedAddress": "Carrer de Casp, 39, Eixample, 08010 Barcelona, Spain",
+  "phone": "933 17 05 29",
+  "internationalPhone": "+34 933 17 05 29",
+  "website": "https://www.instagram.com/pan_a_ma?igsh=ZDlsZXE3eW1qeHVr&utm_source=qr",
+  "googleMapsUrl": "https://maps.google.com/?cid=10502184225215666346",
+  "rating": 4.6,
+  "reviewCount": 212,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.3918391,
+    2.1736065
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:30 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-pa-barcelona/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-pa-barcelona/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-pa-barcelona/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-pa-barcelona/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-pa-barcelona/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:24:04.818Z"
+}

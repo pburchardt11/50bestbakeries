@@ -1,0 +1,47 @@
+{
+  "slug": "backerei-cafe-bad-sackingen",
+  "name": "Bäckerei & Café",
+  "curatedName": "Bäckerei & Café",
+  "city": "Bad Säckingen",
+  "country": "Germany",
+  "placeId": "ChIJlTvzlSBJkEcRDYoJNcFtiKs",
+  "googleName": "PfeifferBeck",
+  "formattedAddress": "Rheinbrückstraße 16, 79713 Bad Säckingen, Germany",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12360249853904259597",
+  "rating": 4.6,
+  "reviewCount": 55,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.5523288,
+    7.9484911
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-cafe-bad-sackingen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-cafe-bad-sackingen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-cafe-bad-sackingen/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-cafe-bad-sackingen/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-cafe-bad-sackingen/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:12:57.075Z"
+}

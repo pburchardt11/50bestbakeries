@@ -1,0 +1,47 @@
+{
+  "slug": "brumby-s-adelaide",
+  "name": "Brumby's",
+  "curatedName": "Brumby's",
+  "city": "Adelaide",
+  "country": "Australia",
+  "placeId": "ChIJr8Aj9qzJsGoRbiowWkHzL28",
+  "googleName": "Brumby's Bakery Northpark",
+  "formattedAddress": "Australia, South Australia, Prospect, Main N Rd, T67邮政编码: 5082",
+  "phone": "0485 569 103",
+  "internationalPhone": "+61 485 569 103",
+  "website": "http://www.brumbys.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8011889724126931566",
+  "rating": 4.2,
+  "reviewCount": 26,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.8756373,
+    138.6005247
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brumby-s-adelaide/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brumby-s-adelaide/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brumby-s-adelaide/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brumby-s-adelaide/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brumby-s-adelaide/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:20:44.023Z"
+}

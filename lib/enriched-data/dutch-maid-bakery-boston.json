@@ -1,0 +1,37 @@
+{
+  "slug": "dutch-maid-bakery-boston",
+  "name": "Dutch Maid Bakery",
+  "curatedName": "Dutch Maid Bakery",
+  "city": "Boston",
+  "country": "United States",
+  "placeId": "ChIJ8S8wSKF744kRVi7wYl2owpo",
+  "googleName": "Dutch Maid Bakery LCC",
+  "formattedAddress": "50 Park St, Dorchester, MA 02122, USA",
+  "phone": "(617) 265-5417",
+  "internationalPhone": "+1 617-265-5417",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11151660746368101974",
+  "rating": 4.2,
+  "reviewCount": 39,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.2978484,
+    -71.0546052
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dutch-maid-bakery-boston/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dutch-maid-bakery-boston/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dutch-maid-bakery-boston/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dutch-maid-bakery-boston/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dutch-maid-bakery-boston/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:34:46.489Z"
+}

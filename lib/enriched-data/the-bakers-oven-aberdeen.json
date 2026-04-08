@@ -1,0 +1,48 @@
+{
+  "slug": "the-bakers-oven-aberdeen",
+  "name": "The Bakers Oven",
+  "curatedName": "The Bakers Oven",
+  "city": "Aberdeen",
+  "country": "United Kingdom",
+  "placeId": "ChIJe3taXY8RhEgRqZLc9nUst-s",
+  "googleName": "Byron Bakery",
+  "formattedAddress": "11 Byron Square, Aberdeen AB16 7LL, UK",
+  "phone": "01224 691510",
+  "internationalPhone": "+44 1224 691510",
+  "website": "http://byron-bakery.poi.place/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16985093404815561385",
+  "rating": 4.7,
+  "reviewCount": 460,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "home_goods_store",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    57.165193,
+    -2.1620053
+  ],
+  "openingHours": [
+    "Monday: 4:00 AM – 4:00 PM",
+    "Tuesday: 4:00 AM – 4:00 PM",
+    "Wednesday: 4:00 AM – 4:00 PM",
+    "Thursday: 4:00 AM – 4:00 PM",
+    "Friday: 4:00 AM – 2:30 PM, 10:00 PM – 12:00 AM",
+    "Saturday: 12:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakers-oven-aberdeen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakers-oven-aberdeen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakers-oven-aberdeen/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakers-oven-aberdeen/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakers-oven-aberdeen/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:46:45.350Z"
+}

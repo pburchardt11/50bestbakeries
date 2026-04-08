@@ -1,0 +1,39 @@
+{
+  "slug": "jaciva-s-bakery-and-chocolatier-portland",
+  "name": "Jaciva's Bakery And Chocolatier",
+  "curatedName": "Jaciva's Bakery And Chocolatier",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJvYQ1kfOglVQRTlPy7IU8AyY",
+  "googleName": "Jaciva's Bakery And Chocolatier",
+  "formattedAddress": "4733 SE Hawthorne Blvd, Portland, OR 97215, USA",
+  "phone": "(503) 234-8115",
+  "internationalPhone": "+1 503-234-8115",
+  "website": "http://www.jacivas.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2739099544275014478",
+  "rating": 4.5,
+  "reviewCount": 367,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    45.5121244,
+    -122.613403
+  ],
+  "openingHours": null,
+  "editorialSummary": "Old-school bakeshop whipping up housemade wedding cakes, chocolates, mousse, pastries & treats.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jaciva-s-bakery-and-chocolatier-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jaciva-s-bakery-and-chocolatier-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jaciva-s-bakery-and-chocolatier-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jaciva-s-bakery-and-chocolatier-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jaciva-s-bakery-and-chocolatier-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:17:30.351Z"
+}

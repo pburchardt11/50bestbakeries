@@ -1,0 +1,48 @@
+{
+  "slug": "townie-bagels-bakery-cafe-palm-springs",
+  "name": "Townie - Bagels Bakery Cafe",
+  "curatedName": "Townie - Bagels Bakery Cafe",
+  "city": "Palm Springs",
+  "country": "United States",
+  "placeId": "ChIJw9NJIGgb24ARaHkW5nDanTs",
+  "googleName": "Townie Bagels | Bakery | Cafe",
+  "formattedAddress": "650 E Sunny Dunes Rd #5, Palm Springs, CA 92264, USA",
+  "phone": "(760) 459-4555",
+  "internationalPhone": "+1 760-459-4555",
+  "website": "https://towniebagels.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4295829798012746088",
+  "rating": 4.5,
+  "reviewCount": 1019,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.8124008,
+    -116.541534
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 6:30 AM – 12:00 PM",
+    "Thursday: 6:30 AM – 12:00 PM",
+    "Friday: 6:30 AM – 12:00 PM",
+    "Saturday: 6:30 AM – 12:00 PM",
+    "Sunday: 6:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": "Classic boiled bagels, coffee & espresso drinks, plus breakfast or lunch sandwiches & retail beans.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/townie-bagels-bakery-cafe-palm-springs/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/townie-bagels-bakery-cafe-palm-springs/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/townie-bagels-bakery-cafe-palm-springs/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/townie-bagels-bakery-cafe-palm-springs/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/townie-bagels-bakery-cafe-palm-springs/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:31:02.375Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "aube-boulangerie-montreal",
+  "name": "Aube Boulangerie",
+  "curatedName": "Aube Boulangerie",
+  "city": "Montréal",
+  "country": "Canada",
+  "placeId": "ChIJvZzwFOYdyUwRCF6B9KqCvHg",
+  "googleName": "Aube Boulangerie",
+  "formattedAddress": "4715 Rue Sainte-Catherine E, Montréal, QC H1V 1Z3, Canada",
+  "phone": "(514) 419-4715",
+  "internationalPhone": "+1 514-419-4715",
+  "website": "https://aubeboulangerie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8699972250931125768",
+  "rating": 4.7,
+  "reviewCount": 374,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.55484690000001,
+    -73.5316702
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aube-boulangerie-montreal/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aube-boulangerie-montreal/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aube-boulangerie-montreal/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aube-boulangerie-montreal/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aube-boulangerie-montreal/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:28:54.443Z"
+}

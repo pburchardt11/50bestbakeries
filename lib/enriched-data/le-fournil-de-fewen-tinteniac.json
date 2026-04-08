@@ -1,0 +1,39 @@
+{
+  "slug": "le-fournil-de-fewen-tinteniac",
+  "name": "Le Fournil de Féwen",
+  "curatedName": "Le Fournil de Féwen",
+  "city": "Tinténiac",
+  "country": "France",
+  "placeId": "ChIJu3PHVUnsDkgRyGHtTRE26l4",
+  "googleName": "Le Fournil de Féwen",
+  "formattedAddress": "14 Pl. André Ferré, 35190 Tinténiac, France",
+  "phone": "06 32 29 92 47",
+  "internationalPhone": "+33 6 32 29 92 47",
+  "website": "http://lefournildefewen.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6839338432065266120",
+  "rating": 4.8,
+  "reviewCount": 69,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    48.3291128,
+    -1.8346891
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-fournil-de-fewen-tinteniac/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-fournil-de-fewen-tinteniac/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-fournil-de-fewen-tinteniac/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-fournil-de-fewen-tinteniac/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-fournil-de-fewen-tinteniac/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:53:02.218Z"
+}

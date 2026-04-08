@@ -1,0 +1,39 @@
+{
+  "slug": "breadtalk-sentosa-island",
+  "name": "BreadTalk",
+  "curatedName": "BreadTalk",
+  "city": "Sentosa Island",
+  "country": "Singapore",
+  "placeId": "ChIJw5eRIlYZ2jER5e0Zf6gpZt0",
+  "googleName": "BreadTalk",
+  "formattedAddress": "26 Sentosa Gateway, #B1-203/204 Resorts World Sentosa, Singapore 098138",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.breadtalk.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15953484533670211045",
+  "rating": 3.5,
+  "reviewCount": 35,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    1.2569444,
+    103.8202342
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadtalk-sentosa-island/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadtalk-sentosa-island/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadtalk-sentosa-island/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadtalk-sentosa-island/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadtalk-sentosa-island/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:08:10.490Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "patties-foods-bairnsdale",
+  "name": "Patties Foods",
+  "curatedName": "Patties Foods",
+  "city": "Bairnsdale",
+  "country": "Australia",
+  "placeId": "ChIJ_Xsixnd_L2sRxJt_9VZkm5I",
+  "googleName": "PATTIES FOODS",
+  "formattedAddress": "169 Princes Hwy, Lucknow VIC 3875, Australia",
+  "phone": "1800 650 069",
+  "internationalPhone": "+61 1800 650 069",
+  "website": "https://pattiesfoodservice.com.au/pages/contact",
+  "googleMapsUrl": "https://maps.google.com/?cid=10564147675576376260",
+  "rating": 3.9,
+  "reviewCount": 24,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -37.8197102,
+    147.6591111
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patties-foods-bairnsdale/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patties-foods-bairnsdale/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patties-foods-bairnsdale/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patties-foods-bairnsdale/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patties-foods-bairnsdale/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:26:37.385Z"
+}

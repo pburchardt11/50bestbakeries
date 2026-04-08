@@ -1,0 +1,30 @@
+{
+  "slug": "michelske-pekarny-praha",
+  "name": "Michelské pekárny",
+  "curatedName": "Michelské pekárny",
+  "city": "Praha",
+  "country": "Czech Republic",
+  "placeId": "ChIJUayVS_CUC0cRT4POh4NfH6c",
+  "googleName": "Michelské pekárny, a.s.",
+  "formattedAddress": "35, Pštrossova 1508, Nové Město, 110 00 Praha-Praha 1, Czechia",
+  "phone": "222 520 048",
+  "internationalPhone": "+420 222 520 048",
+  "website": "http://www.pekarny-michle.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12042448947135808335",
+  "rating": 4,
+  "reviewCount": 1,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    50.0801302,
+    14.4151875
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:05:50.538Z"
+}

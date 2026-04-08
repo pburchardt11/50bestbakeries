@@ -1,0 +1,47 @@
+{
+  "slug": "salazar-bakery-manila",
+  "name": "Salazar Bakery",
+  "curatedName": "Salazar Bakery",
+  "city": "Manila",
+  "country": "Philippines",
+  "placeId": "ChIJMf5ZQwXKlzMRI9QQkv4WAos",
+  "googleName": "Salazar Bakery",
+  "formattedAddress": "783 Ongpin St, Binondo, Manila, 1006 Metro Manila, Philippines",
+  "phone": "(02) 8733 1392",
+  "internationalPhone": "+63 2 8733 1392",
+  "website": "https://www.facebook.com/Salazar-Bakery-Since-1947-195125480509500/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10016593803853485091",
+  "rating": 4.4,
+  "reviewCount": 487,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.6019451,
+    120.9768321
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/salazar-bakery-manila/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/salazar-bakery-manila/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/salazar-bakery-manila/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/salazar-bakery-manila/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/salazar-bakery-manila/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:25:59.960Z"
+}

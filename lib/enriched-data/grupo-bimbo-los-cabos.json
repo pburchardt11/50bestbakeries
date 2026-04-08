@@ -1,0 +1,38 @@
+{
+  "slug": "grupo-bimbo-los-cabos",
+  "name": "Grupo Bimbo",
+  "curatedName": "Grupo Bimbo",
+  "city": "Los Cabos",
+  "country": "Mexico",
+  "placeId": "ChIJ2b454Is1r4YRr0vcsG6cT9A",
+  "googleName": "Cedis Grupo Bimbo",
+  "formattedAddress": "México 19 178, 23473 Cabo San Lucas, B.C.S., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.grupobimbo.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15010388082276715439",
+  "rating": 4.1,
+  "reviewCount": 27,
+  "priceLevel": null,
+  "types": [
+    "department_store",
+    "establishment",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    22.9235898,
+    -109.9794189
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grupo-bimbo-los-cabos/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grupo-bimbo-los-cabos/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grupo-bimbo-los-cabos/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grupo-bimbo-los-cabos/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grupo-bimbo-los-cabos/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:04:25.856Z"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "shingle-inn-tuggerah",
+  "name": "Shingle Inn",
+  "curatedName": "Shingle Inn",
+  "city": "Tuggerah",
+  "country": "Australia",
+  "placeId": "ChIJDdhyeNzNcmsRhXvD9LCXDyE",
+  "googleName": "Shingle Inn",
+  "formattedAddress": "Kiosk K117/50 Wyong Rd, Tuggerah NSW 2259, Australia",
+  "phone": "(02) 4353 4621",
+  "internationalPhone": "+61 2 4353 4621",
+  "website": "https://www.shingleinn.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2382289514178771845",
+  "rating": 2.3,
+  "reviewCount": 22,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    -33.307669,
+    151.4104442
+  ],
+  "openingHours": null,
+  "editorialSummary": "Charming cafe chain offering classic sandwiches & creative light meals, plus cakes & high tea.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shingle-inn-tuggerah/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shingle-inn-tuggerah/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shingle-inn-tuggerah/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shingle-inn-tuggerah/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shingle-inn-tuggerah/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:40:50.378Z"
+}

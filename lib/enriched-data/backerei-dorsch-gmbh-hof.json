@@ -1,0 +1,36 @@
+{
+  "slug": "backerei-dorsch-gmbh-hof",
+  "name": "Bäckerei Dörsch GmbH",
+  "curatedName": "Bäckerei Dörsch GmbH",
+  "city": "Hof",
+  "country": "Germany",
+  "placeId": "ChIJje8UuREaoUcR_gBvEtCkn8I",
+  "googleName": "Bäckerei Dörsch GmbH",
+  "formattedAddress": "Alsenberg 26-28, 95032 Hof, Germany",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://doerschbrot.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14024108978224431358",
+  "rating": 4.1,
+  "reviewCount": 73,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    50.30164,
+    11.92836
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-dorsch-gmbh-hof/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-dorsch-gmbh-hof/1.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:29:12.161Z"
+}

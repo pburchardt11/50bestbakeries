@@ -1,0 +1,47 @@
+{
+  "slug": "boulangerie-du-monde-cedarburg",
+  "name": "Boulangerie Du Monde",
+  "curatedName": "Boulangerie Du Monde",
+  "city": "Cedarburg",
+  "country": "United States",
+  "placeId": "ChIJ5bDEEPfvBIgRz-Tut4A8cGg",
+  "googleName": "Boulangerie Du Monde",
+  "formattedAddress": "W62 N588 Washington Ave, Cedarburg, WI 53012, USA",
+  "phone": "(262) 375-1050",
+  "internationalPhone": "+1 262-375-1050",
+  "website": "https://m.facebook.com/pages/category/Bakery/Boulangerie-Du-Monde-Cedarburg-WI-264171495772/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7525581500875465935",
+  "rating": 4.9,
+  "reviewCount": 306,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.2969991,
+    -87.9874301
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-du-monde-cedarburg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-du-monde-cedarburg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-du-monde-cedarburg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-du-monde-cedarburg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-du-monde-cedarburg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:02:26.966Z"
+}

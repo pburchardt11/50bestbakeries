@@ -1,0 +1,39 @@
+{
+  "slug": "heyday-bakery-woodinville",
+  "name": "Heyday Bakery",
+  "curatedName": "Heyday Bakery",
+  "city": "Woodinville",
+  "country": "United States",
+  "placeId": "ChIJeaO8f_EPkFQRnUjBVnUNFBA",
+  "googleName": "Heyday Bakery",
+  "formattedAddress": "19600 144th Ave NE, Woodinville, WA 98072, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.heydaybakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1158565801758902429",
+  "rating": 5,
+  "reviewCount": 15,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.77008989999999,
+    -122.1455103
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/heyday-bakery-woodinville/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/heyday-bakery-woodinville/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/heyday-bakery-woodinville/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/heyday-bakery-woodinville/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/heyday-bakery-woodinville/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:16:34.304Z"
+}

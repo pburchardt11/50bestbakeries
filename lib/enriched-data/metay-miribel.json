@@ -1,0 +1,40 @@
+{
+  "slug": "metay-miribel",
+  "name": "Metay",
+  "curatedName": "Metay",
+  "city": "Miribel",
+  "country": "France",
+  "placeId": "ChIJu37znjy_9EcR4uLrTSS9oEk",
+  "googleName": "Les Délices De Marion",
+  "formattedAddress": "941 Grande Rue, 01700 Miribel, France",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://boulangeriemetay.leo2click.fr/single.html",
+  "googleMapsUrl": "https://maps.google.com/?cid=5305448324666221282",
+  "rating": 3.5,
+  "reviewCount": 306,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "CLOSED_TEMPORARILY",
+  "coords": [
+    45.8238948,
+    4.9522157
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/metay-miribel/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/metay-miribel/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/metay-miribel/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/metay-miribel/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/metay-miribel/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:56:31.669Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "casa-bonomi-belo-horizonte",
+  "name": "Casa Bonomi",
+  "curatedName": "Casa Bonomi",
+  "city": "Belo Horizonte",
+  "country": "Brazil",
+  "placeId": "ChIJhQIHg8GZpgARrxJqp7ZF7_Y",
+  "googleName": "Casa Bonomi",
+  "formattedAddress": "Av. Afonso Pena, 2600 - Funcionários, Belo Horizonte - MG, 30140-100, Brazil",
+  "phone": "(31) 99206-2772",
+  "internationalPhone": "+55 31 99206-2772",
+  "website": "http://www.casabonomi.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17793517303559230127",
+  "rating": 4.4,
+  "reviewCount": 3055,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.9342651,
+    -43.9295463
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "A rustic spot serving artisanal breads, cappuccinos, pies & lunches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-bonomi-belo-horizonte/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-bonomi-belo-horizonte/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-bonomi-belo-horizonte/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-bonomi-belo-horizonte/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-bonomi-belo-horizonte/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:03:24.522Z"
+}

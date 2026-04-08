@@ -1,0 +1,39 @@
+{
+  "slug": "carlo-s-bake-shop-dallas",
+  "name": "Carlo's Bake Shop",
+  "curatedName": "Carlo's Bake Shop",
+  "city": "Dallas",
+  "country": "United States",
+  "placeId": "ChIJrYjlvkWeToYRuRqmNfjB4vM",
+  "googleName": "Carlo's Bakery",
+  "formattedAddress": "8319 Preston Rd, Dallas, TX 75225, USA",
+  "phone": "(469) 577-9805",
+  "internationalPhone": "+1 469-577-9805",
+  "website": "http://www.carlosbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17573821967749225145",
+  "rating": 3.8,
+  "reviewCount": 1143,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    32.8642656,
+    -96.8045107
+  ],
+  "openingHours": null,
+  "editorialSummary": "\"Cake Boss\" Buddy Valastro's bakery, known for a variety of cookies, cannoli & elaborate cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/carlo-s-bake-shop-dallas/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/carlo-s-bake-shop-dallas/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/carlo-s-bake-shop-dallas/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/carlo-s-bake-shop-dallas/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/carlo-s-bake-shop-dallas/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:26:31.649Z"
+}

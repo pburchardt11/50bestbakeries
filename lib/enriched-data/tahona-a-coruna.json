@@ -1,0 +1,47 @@
+{
+  "slug": "tahona-a-coruna",
+  "name": "Tahona",
+  "curatedName": "Tahona",
+  "city": "A Coruña",
+  "country": "Spain",
+  "placeId": "ChIJXVJzwId8Lg0RXEwymYeK16w",
+  "googleName": "Tahona | Praza de Lugo (A Coruña)",
+  "formattedAddress": "Praza de Lugo, 1, 15004 A Coruña, Spain",
+  "phone": "981 22 69 66",
+  "internationalPhone": "+34 981 22 69 66",
+  "website": "https://www.instagram.com/panaderiatahona/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12454575609511824476",
+  "rating": 3.8,
+  "reviewCount": 252,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.3655653,
+    -8.4062533
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:30 PM",
+    "Tuesday: 7:30 AM – 9:30 PM",
+    "Wednesday: 7:30 AM – 9:30 PM",
+    "Thursday: 7:30 AM – 9:30 PM",
+    "Friday: 7:30 AM – 9:30 PM",
+    "Saturday: 7:30 AM – 9:30 PM",
+    "Sunday: 8:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tahona-a-coruna/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tahona-a-coruna/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tahona-a-coruna/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tahona-a-coruna/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tahona-a-coruna/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:50:24.223Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "el-globo-aguascalientes",
+  "name": "El Globo",
+  "curatedName": "El Globo",
+  "city": "Aguascalientes",
+  "country": "Mexico",
+  "placeId": "ChIJtSUmDPvuKYQR0WitkVPNKOA",
+  "googleName": "El Globo Las Palmas",
+  "formattedAddress": "Av. Universidad, San José del Arenal, 20130 Aguascalientes, Ags., Mexico",
+  "phone": "449 914 7305",
+  "internationalPhone": "+52 449 914 7305",
+  "website": "http://www.elglobo.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16152385822374324433",
+  "rating": 4.2,
+  "reviewCount": 359,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.9084054,
+    -102.3096761
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-globo-aguascalientes/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-globo-aguascalientes/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-globo-aguascalientes/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-globo-aguascalientes/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-globo-aguascalientes/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:06:49.031Z"
+}

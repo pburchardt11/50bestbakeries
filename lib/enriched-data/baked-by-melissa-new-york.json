@@ -1,0 +1,47 @@
+{
+  "slug": "baked-by-melissa-new-york",
+  "name": "Baked by Melissa",
+  "curatedName": "Baked by Melissa",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJkRp_DxhawokRmL3LPtxWYqo",
+  "googleName": "Baked by Melissa",
+  "formattedAddress": "110 Fulton St, New York, NY 10038, USA",
+  "phone": "(212) 842-0220",
+  "internationalPhone": "+1 212-842-0220",
+  "website": "http://www.bakedbymelissa.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12277471038111727000",
+  "rating": 3.8,
+  "reviewCount": 176,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7096623,
+    -74.0070162
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Bakery known for a wide variety of inventive, one-bite cupcakes, some dipped in chocolate.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-by-melissa-new-york/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-by-melissa-new-york/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-by-melissa-new-york/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-by-melissa-new-york/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-by-melissa-new-york/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:54:20.891Z"
+}

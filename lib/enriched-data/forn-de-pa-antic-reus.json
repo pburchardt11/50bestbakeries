@@ -1,0 +1,45 @@
+{
+  "slug": "forn-de-pa-antic-reus",
+  "name": "Forn de Pa Antic",
+  "curatedName": "Forn de Pa Antic",
+  "city": "Reus",
+  "country": "Spain",
+  "placeId": "ChIJTemjP-JQoRIRgWXp2FNUbYk",
+  "googleName": "Forn de pa Antic forn de Lleida",
+  "formattedAddress": "Raval de Robuster, 20, 43204 Reus, Tarragona, Spain",
+  "phone": "977 75 65 73",
+  "internationalPhone": "+34 977 75 65 73",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9902663874755782017",
+  "rating": 4.5,
+  "reviewCount": 33,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1535478,
+    1.1102173
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM",
+    "Tuesday: 8:00 AM – 2:00 PM",
+    "Wednesday: 8:00 AM – 2:00 PM",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-pa-antic-reus/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-pa-antic-reus/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-pa-antic-reus/2.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:26:19.036Z"
+}

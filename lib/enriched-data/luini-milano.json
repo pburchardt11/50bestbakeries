@@ -1,0 +1,48 @@
+{
+  "slug": "luini-milano",
+  "name": "Luini",
+  "curatedName": "Luini",
+  "city": "Milano",
+  "country": "Italy",
+  "placeId": "ChIJoUEJQq7GhkcRI153LB6-eXY",
+  "googleName": "Panzerotti Luini",
+  "formattedAddress": "Via Santa Radegonda, 16, 20121 Milano MI, Italy",
+  "phone": "02 8646 1917",
+  "internationalPhone": "+39 02 8646 1917",
+  "website": "http://www.luini.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8537063605461802531",
+  "rating": 4.5,
+  "reviewCount": 16193,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.46582859999999,
+    9.1915578
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Popular, decades-old bakery selling panzerotti turnovers with sweet & savory fillings.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/luini-milano/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/luini-milano/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/luini-milano/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/luini-milano/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/luini-milano/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:13:48.387Z"
+}

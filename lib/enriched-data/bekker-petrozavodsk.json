@@ -1,0 +1,48 @@
+{
+  "slug": "bekker-petrozavodsk",
+  "name": "Bekker",
+  "curatedName": "Bekker",
+  "city": "Petrozavodsk",
+  "country": "Russia",
+  "placeId": "ChIJjWTrDDjsoUYRPpqga_OAWwk",
+  "googleName": "Bekker",
+  "formattedAddress": "Ploshchad' Gagarina, 2, Petrozavodsk, Respublika Kareliya, Russia, 185010",
+  "phone": "8 (814) 272-07-20",
+  "internationalPhone": "+7 814 272-07-20",
+  "website": "http://bekkerjoy.ru/",
+  "googleMapsUrl": "https://maps.google.com/?cid=674274352193116734",
+  "rating": 4.6,
+  "reviewCount": 1116,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    61.7851588,
+    34.34498
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bekker-petrozavodsk/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bekker-petrozavodsk/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bekker-petrozavodsk/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bekker-petrozavodsk/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bekker-petrozavodsk/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:00:13.651Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "t-bakkertje-den-haag",
+  "name": "’t Bakkertje",
+  "curatedName": "’t Bakkertje",
+  "city": "Den Haag",
+  "country": "Netherlands",
+  "placeId": "ChIJaQzE7C-3xUcRC6_eSIiWokY",
+  "googleName": "'t Bakkertje",
+  "formattedAddress": "Oude Molstraat 38, 2513 BB Den Haag, Netherlands",
+  "phone": "070 346 0229",
+  "internationalPhone": "+31 70 346 0229",
+  "website": "https://www.hetbakkertje.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5089796040964353803",
+  "rating": 4.7,
+  "reviewCount": 365,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.0796062,
+    4.3066259
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/t-bakkertje-den-haag/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/t-bakkertje-den-haag/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/t-bakkertje-den-haag/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/t-bakkertje-den-haag/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/t-bakkertje-den-haag/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:07:04.913Z"
+}

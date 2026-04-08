@@ -1,0 +1,47 @@
+{
+  "slug": "farina-bakery-portland",
+  "name": "Farina Bakery",
+  "curatedName": "Farina Bakery",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJVQWZTJmglVQR6B19x0C6GnM",
+  "googleName": "Farina Bakery",
+  "formattedAddress": "1844 SE Hawthorne Blvd, Portland, OR 97214, USA",
+  "phone": "(971) 279-5939",
+  "internationalPhone": "+1 971-279-5939",
+  "website": "http://farinabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8294146451143728616",
+  "rating": 4.6,
+  "reviewCount": 317,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5120485,
+    -122.6466062
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Snug, cheery bakeshop offering colorful macarons, elegant custom cakes & a variety of pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farina-bakery-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farina-bakery-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farina-bakery-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farina-bakery-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farina-bakery-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:12:25.335Z"
+}

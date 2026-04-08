@@ -1,0 +1,41 @@
+{
+  "slug": "paradise-bakery-cafe-allen",
+  "name": "Paradise Bakery & Café",
+  "curatedName": "Paradise Bakery & Café",
+  "city": "Allen",
+  "country": "United States",
+  "placeId": "ChIJqw0zjykRTIYRXaJdFsxcJtk",
+  "googleName": "Paradise Bakery & Cafe",
+  "formattedAddress": "190 E Stacy Rd Suite 500, Allen, TX 75002, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15647295986963685981",
+  "rating": 3.7,
+  "reviewCount": 242,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    33.1292257,
+    -96.6550929
+  ],
+  "openingHours": null,
+  "editorialSummary": "Baked goods & light bites, such as soups & sandwiches, are offered at this casual chain.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paradise-bakery-cafe-allen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paradise-bakery-cafe-allen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paradise-bakery-cafe-allen/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paradise-bakery-cafe-allen/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paradise-bakery-cafe-allen/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:24:41.081Z"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "walkers-shortbread-aberlour",
+  "name": "Walkers Shortbread",
+  "curatedName": "Walkers Shortbread",
+  "city": "Aberlour",
+  "country": "United Kingdom",
+  "placeId": "ChIJ69IeXGekhUgRbUesJBrHnrA",
+  "googleName": "Walker's Shortbread Factory Shop",
+  "formattedAddress": "Fisherton Industrial Estate, Aberlour AB38 9PD, UK",
+  "phone": "01340 871555",
+  "internationalPhone": "+44 1340 871555",
+  "website": "http://www.walkersshortbread.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12726828512093947757",
+  "rating": 4.4,
+  "reviewCount": 139,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    57.4739125,
+    -3.2131713
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/walkers-shortbread-aberlour/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/walkers-shortbread-aberlour/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/walkers-shortbread-aberlour/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/walkers-shortbread-aberlour/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/walkers-shortbread-aberlour/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:55:21.619Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "spielman-bagels-coffee-portland",
+  "name": "Spielman Bagels & Coffee",
+  "curatedName": "Spielman Bagels & Coffee",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJTUNDuMuglVQRTQrMmmXDDbk",
+  "googleName": "Spielman Bagels and Coffee Roasters",
+  "formattedAddress": "2200 NE Broadway, Portland, OR 97232, USA",
+  "phone": "(503) 467-0600",
+  "internationalPhone": "+1 503-467-0600",
+  "website": "https://spielmanbagels.co/spielmanbroadway?utm_source=google",
+  "googleMapsUrl": "https://maps.google.com/?cid=13334528912870083149",
+  "rating": 4.2,
+  "reviewCount": 583,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.53489,
+    -122.642856
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/spielman-bagels-coffee-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/spielman-bagels-coffee-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/spielman-bagels-coffee-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/spielman-bagels-coffee-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/spielman-bagels-coffee-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:28:31.137Z"
+}

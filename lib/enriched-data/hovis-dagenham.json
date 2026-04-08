@@ -1,0 +1,48 @@
+{
+  "slug": "hovis-dagenham",
+  "name": "Hovis",
+  "curatedName": "Hovis",
+  "city": "Dagenham",
+  "country": "United Kingdom",
+  "placeId": "ChIJQy693Eyu2EcR9g66ISYOdn8",
+  "googleName": "Hovis Bakery - Erith",
+  "formattedAddress": "Belmont Rd, Erith DA8 1JZ, UK",
+  "phone": "01322 344010",
+  "internationalPhone": "+44 1322 344010",
+  "website": "http://www.hovis.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9184544047006093046",
+  "rating": 4.2,
+  "reviewCount": 193,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "storage",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.4712123,
+    0.1569163
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hovis-dagenham/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hovis-dagenham/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hovis-dagenham/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hovis-dagenham/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hovis-dagenham/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:34:53.917Z"
+}

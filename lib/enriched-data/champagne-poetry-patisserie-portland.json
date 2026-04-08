@@ -1,0 +1,49 @@
+{
+  "slug": "champagne-poetry-patisserie-portland",
+  "name": "Champagne Poetry Patisserie",
+  "curatedName": "Champagne Poetry Patisserie",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJH-c5wvyhlVQRXQJ5Mj15a9Y",
+  "googleName": "Champagne Poetry Patisserie",
+  "formattedAddress": "3343 SE Hawthorne Blvd, Portland, OR 97214, USA",
+  "phone": "(503) 265-8834",
+  "internationalPhone": "+1 503-265-8834",
+  "website": "https://www.champagnepoetrypdx.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15450576250371375709",
+  "rating": 4.6,
+  "reviewCount": 794,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5122312,
+    -122.6299011
+  ],
+  "openingHours": [
+    "Monday: 11:30 AM – 8:00 PM",
+    "Tuesday: 11:30 AM – 8:00 PM",
+    "Wednesday: 11:30 AM – 8:00 PM",
+    "Thursday: 11:30 AM – 8:00 PM",
+    "Friday: 9:30 AM – 10:00 PM",
+    "Saturday: 9:30 AM – 10:00 PM",
+    "Sunday: 9:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/champagne-poetry-patisserie-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/champagne-poetry-patisserie-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/champagne-poetry-patisserie-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/champagne-poetry-patisserie-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/champagne-poetry-patisserie-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:04:42.328Z"
+}

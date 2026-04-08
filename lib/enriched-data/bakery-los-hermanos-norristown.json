@@ -1,0 +1,37 @@
+{
+  "slug": "bakery-los-hermanos-norristown",
+  "name": "Bakery Los Hermanos",
+  "curatedName": "Bakery Los Hermanos",
+  "city": "Norristown",
+  "country": "United States",
+  "placeId": "ChIJD05CTweWxokRAWP5W4FQ5K8",
+  "googleName": "Bakery Los Hermanos",
+  "formattedAddress": "520 DeKalb St, Bridgeport, PA 19405, USA",
+  "phone": "(484) 908-3023",
+  "internationalPhone": "+1 484-908-3023",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12674343767851492097",
+  "rating": 4.7,
+  "reviewCount": 13,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    40.1044863,
+    -75.3477499
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-los-hermanos-norristown/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-los-hermanos-norristown/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-los-hermanos-norristown/2.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:55:30.707Z"
+}

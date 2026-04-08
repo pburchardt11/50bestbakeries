@@ -1,0 +1,48 @@
+{
+  "slug": "cafe-de-thaan-aoan-chiang-mai",
+  "name": "Café de Thaan Aoan (กาแฟตาลอ่อน)",
+  "curatedName": "Café de Thaan Aoan (กาแฟตาลอ่อน)",
+  "city": "Chiang Mai",
+  "country": "Thailand",
+  "placeId": "ChIJ6yBbIp862jAR7qYMN888EzA",
+  "googleName": "Thaan Aoan",
+  "formattedAddress": "154/5 Prapokklao Road, Tambon Phra Sing, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+  "phone": "092 613 0320",
+  "internationalPhone": "+66 92 613 0320",
+  "website": "https://www.cafedethaanaoan.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3464179399057516270",
+  "rating": 4.6,
+  "reviewCount": 2550,
+  "priceLevel": 1,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.7855709,
+    98.9884105
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-de-thaan-aoan-chiang-mai/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-de-thaan-aoan-chiang-mai/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-de-thaan-aoan-chiang-mai/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-de-thaan-aoan-chiang-mai/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-de-thaan-aoan-chiang-mai/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:08:44.572Z"
+}

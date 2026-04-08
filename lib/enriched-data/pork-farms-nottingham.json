@@ -1,0 +1,33 @@
+{
+  "slug": "pork-farms-nottingham",
+  "name": "Pork Farms",
+  "curatedName": "Pork Farms",
+  "city": "Nottingham",
+  "country": "United Kingdom",
+  "placeId": "ChIJUTZGn6zDeUgRNI98qH645_4",
+  "googleName": "Pork Farms (Riverside Bakery) NG2 1LW",
+  "formattedAddress": "Queens Drive Industrial Estate, 1 Longwall Ave, Nottingham NG2 1NA, UK",
+  "phone": "07426 341773",
+  "internationalPhone": "+44 7426 341773",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18367852459385982772",
+  "rating": 4.1,
+  "reviewCount": 19,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.9384726,
+    -1.1634896
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pork-farms-nottingham/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pork-farms-nottingham/1.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:53:18.058Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "panaderia-cabello-sevilla",
+  "name": "Panaderia Cabello",
+  "curatedName": "Panaderia Cabello",
+  "city": "Sevilla",
+  "country": "Spain",
+  "placeId": "ChIJ66DRRkBsEg0Rg3xs-AuJkyw",
+  "googleName": "Horno Cabello",
+  "formattedAddress": "C. Trabajo, 43b, 41010 Sevilla, Spain",
+  "phone": "611 58 62 46",
+  "internationalPhone": "+34 611 58 62 46",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3212061643750800515",
+  "rating": 4.3,
+  "reviewCount": 28,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.378314,
+    -6.006081399999999
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 3:30 PM",
+    "Tuesday: 8:30 AM – 3:30 PM",
+    "Wednesday: 8:30 AM – 3:30 PM",
+    "Thursday: 8:30 AM – 3:30 PM",
+    "Friday: 8:30 AM – 3:30 PM",
+    "Saturday: 8:30 AM – 3:00 PM",
+    "Sunday: 8:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-cabello-sevilla/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-cabello-sevilla/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-cabello-sevilla/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-cabello-sevilla/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-cabello-sevilla/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:42:59.026Z"
+}

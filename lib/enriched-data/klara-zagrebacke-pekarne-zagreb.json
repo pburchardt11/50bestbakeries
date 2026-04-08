@@ -1,0 +1,47 @@
+{
+  "slug": "klara-zagrebacke-pekarne-zagreb",
+  "name": "Klara zagrebačke pekarne",
+  "curatedName": "Klara zagrebačke pekarne",
+  "city": "Zagreb",
+  "country": "Croatia",
+  "placeId": "ChIJHdc8EjLUZUcR07SJxbF3YXQ",
+  "googleName": "Pekarnica Klara",
+  "formattedAddress": "Utinjska ul. 48, 10020, Zagreb, Croatia",
+  "phone": "091 451 1596",
+  "internationalPhone": "+385 91 451 1596",
+  "website": "http://www.klara.hr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8386115586547627219",
+  "rating": 4.2,
+  "reviewCount": 298,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.7684665,
+    15.954219
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 PM",
+    "Tuesday: 6:00 AM – 2:00 PM",
+    "Wednesday: 6:00 AM – 2:00 PM",
+    "Thursday: 6:00 AM – 2:00 PM",
+    "Friday: 6:00 AM – 2:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klara-zagrebacke-pekarne-zagreb/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klara-zagrebacke-pekarne-zagreb/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klara-zagrebacke-pekarne-zagreb/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klara-zagrebacke-pekarne-zagreb/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klara-zagrebacke-pekarne-zagreb/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T10:59:02.077Z"
+}

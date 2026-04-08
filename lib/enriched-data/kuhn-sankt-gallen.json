@@ -1,0 +1,47 @@
+{
+  "slug": "kuhn-sankt-gallen",
+  "name": "Kuhn",
+  "curatedName": "Kuhn",
+  "city": "Sankt Gallen",
+  "country": "Switzerland",
+  "placeId": "ChIJ6UFSGksem0cRK2tlmqHak1k",
+  "googleName": "Kuhn",
+  "formattedAddress": "Vadianstrasse 29, 9000 St. Gallen, Switzerland",
+  "phone": "071 220 95 06",
+  "internationalPhone": "+41 71 220 95 06",
+  "website": "https://baeckerei-kuhn.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6454743078566980395",
+  "rating": 4.1,
+  "reviewCount": 350,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.42148539999999,
+    9.371281699999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kuhn-sankt-gallen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kuhn-sankt-gallen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kuhn-sankt-gallen/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kuhn-sankt-gallen/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kuhn-sankt-gallen/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:15:23.472Z"
+}

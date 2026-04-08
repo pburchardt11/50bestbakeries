@@ -1,0 +1,47 @@
+{
+  "slug": "grimminger-gmbh-biebesheim-am-rhein",
+  "name": "Grimminger GmbH",
+  "curatedName": "Grimminger GmbH",
+  "city": "Biebesheim am Rhein",
+  "country": "Germany",
+  "placeId": "ChIJkd__rqZ_vUcRabMooSvwW-k",
+  "googleName": "Familienbäckerei Grimminger",
+  "formattedAddress": "Heidelberger Str. 32, 64584 Biebesheim am Rhein, Germany",
+  "phone": "06258 9899181",
+  "internationalPhone": "+49 6258 9899181",
+  "website": "http://www.grimminger.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16815297703895937897",
+  "rating": 4.1,
+  "reviewCount": 98,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.7717184,
+    8.4678358
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grimminger-gmbh-biebesheim-am-rhein/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grimminger-gmbh-biebesheim-am-rhein/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grimminger-gmbh-biebesheim-am-rhein/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grimminger-gmbh-biebesheim-am-rhein/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grimminger-gmbh-biebesheim-am-rhein/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:58:08.087Z"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "brooklyn-boy-bagels-matraville-sydney-nsw",
+  "name": "Brooklyn Boy Bagels",
+  "curatedName": "Brooklyn Boy Bagels",
+  "city": "Matraville, Sydney, NSW",
+  "country": "Australia",
+  "placeId": "ChIJRXsxL16xEmsRTQeNjgYErgQ",
+  "googleName": "Brooklyn Boy Bagels",
+  "formattedAddress": "448 Bunnerong Rd, Matraville NSW 2036, Australia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=337211448307287885",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    -33.9562448,
+    151.2300436
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:12:16.349Z"
+}

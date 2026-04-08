@@ -24,8 +24,10 @@ if (!BLOB_TOKEN) { console.error('Blob token missing'); process.exit(1); }
 const argLimit = process.argv.find(a => a.startsWith('--limit='));
 const LIMIT = argLimit ? parseInt(argLimit.split('=')[1], 10) : 10;
 const argDryRun = process.argv.includes('--dry-run');
+const argAllEditorial = process.argv.includes('--all-editorial');
+const argSkipEnriched = !process.argv.includes('--force');
 
-console.log(`Phase 4 enrichment — limit=${LIMIT}${argDryRun ? ' (DRY RUN)' : ''}`);
+console.log(`Phase 4 enrichment — limit=${LIMIT}${argDryRun ? ' (DRY RUN)' : ''}${argAllEditorial ? ' (ALL editorial)' : ' (curated only)'}${argSkipEnriched ? ' (skip already-enriched)' : ''}`);
 
 // ─── Cost tracking ───
 const COST = { findPlace: 0, details: 0, photos: 0, totalCalls: 0 };
@@ -48,14 +50,38 @@ function bakerySlug(name, city) {
 // ─── Load editorial data ───
 const { EDITORIAL_BAKERIES } = await import('../lib/editorial-data.js');
 
-// Pick top entries: prefer Curated source + low sourceRank
-const candidates = EDITORIAL_BAKERIES
-  .filter(b => b.sources?.some(s => s.name === 'Curated'))
+// Build set of already-enriched slugs
+const alreadyEnriched = new Set();
+if (argSkipEnriched && fs.existsSync(ENRICHED_DIR)) {
+  for (const f of fs.readdirSync(ENRICHED_DIR)) {
+    if (f.endsWith('.json') && !f.startsWith('_')) {
+      alreadyEnriched.add(f.replace(/\.json$/, ''));
+    }
+  }
+}
+
+// Pick entries: curated-only (default) or all editorial (--all-editorial)
+function slugify(name, city) {
+  const toSlug = s => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  const ns = toSlug(name), cs = toSlug(city || '');
+  return cs && !ns.endsWith(cs) ? ns + '-' + cs : ns;
+}
+
+let pool = argAllEditorial
+  ? EDITORIAL_BAKERIES
+  : EDITORIAL_BAKERIES.filter(b => b.sources?.some(s => s.name === 'Curated'));
+
+// Skip already-enriched
+pool = pool.filter(b => !alreadyEnriched.has(slugify(b.name, b.city)));
+
+const candidates = pool
   .sort((a, b) => (a.sourceRank || 999) - (b.sourceRank || 999) || a.country.localeCompare(b.country))
   .slice(0, LIMIT);
 
-console.log(`Selected ${candidates.length} candidates from ${EDITORIAL_BAKERIES.length} editorial bakeries:`);
-for (const c of candidates) console.log(`  - ${c.name} (${c.city}, ${c.country})`);
+console.log(`Pool: ${pool.length} (from ${EDITORIAL_BAKERIES.length} total). Already enriched: ${alreadyEnriched.size}. Selected: ${candidates.length}.`);
+if (candidates.length <= 20) {
+  for (const c of candidates) console.log(`  - ${c.name} (${c.city}, ${c.country})`);
+}
 console.log();
 
 // ─── Helper: Google Places Find Place ───

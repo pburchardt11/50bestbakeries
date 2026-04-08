@@ -1,0 +1,31 @@
+{
+  "slug": "pepperidge-farm-albuquerque",
+  "name": "Pepperidge Farm",
+  "curatedName": "Pepperidge Farm",
+  "city": "Albuquerque",
+  "country": "United States",
+  "placeId": "ChIJ6Zk6WUN0IocRzQRxaQuE8ow",
+  "googleName": "Pepperidge Farms Whs",
+  "formattedAddress": "3900 Hawkins St NE, Albuquerque, NM 87109, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10156325294222410957",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    35.1620294,
+    -106.5994902
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T12:24:42.026Z"
+}

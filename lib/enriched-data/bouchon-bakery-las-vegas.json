@@ -1,0 +1,47 @@
+{
+  "slug": "bouchon-bakery-las-vegas",
+  "name": "Bouchon Bakery",
+  "curatedName": "Bouchon Bakery",
+  "city": "Las Vegas",
+  "country": "United States",
+  "placeId": "ChIJiwV3rBXEyIARPpyXRo1lb_w",
+  "googleName": "Bouchon Bakery",
+  "formattedAddress": "3355 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+  "phone": "(702) 414-6203",
+  "internationalPhone": "+1 702-414-6203",
+  "website": "https://www.thomaskeller.com/bouchonbakerylasvegas",
+  "googleMapsUrl": "https://maps.google.com/?cid=18189869077421857854",
+  "rating": 4.3,
+  "reviewCount": 737,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.1215874,
+    -115.1692281
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 6:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Parisian-style sweets & sandwich shop in The Venetian from famed French Laundry chef Thomas Keller.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bouchon-bakery-las-vegas/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bouchon-bakery-las-vegas/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bouchon-bakery-las-vegas/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bouchon-bakery-las-vegas/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bouchon-bakery-las-vegas/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:33:24.967Z"
+}

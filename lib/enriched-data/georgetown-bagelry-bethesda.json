@@ -1,0 +1,47 @@
+{
+  "slug": "georgetown-bagelry-bethesda",
+  "name": "Georgetown Bagelry",
+  "curatedName": "Georgetown Bagelry",
+  "city": "Bethesda",
+  "country": "United States",
+  "placeId": "ChIJWUKf3yfKt4kRcEyShgxRHHc",
+  "googleName": "Georgetown Bagelry",
+  "formattedAddress": "5227 River Rd, Bethesda, MD 20816, USA",
+  "phone": "(301) 657-4442",
+  "internationalPhone": "+1 301-657-4442",
+  "website": "http://georgetownbagelry.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8582824104100514928",
+  "rating": 3.5,
+  "reviewCount": 112,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.96581880000001,
+    -77.1041104
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Longtime option for artisan bagels & sandwiches in a casual strip-mall locale with sidewalk tables.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/georgetown-bagelry-bethesda/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/georgetown-bagelry-bethesda/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/georgetown-bagelry-bethesda/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/georgetown-bagelry-bethesda/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/georgetown-bagelry-bethesda/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:14:20.555Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "cooper-s",
+  "name": "Cooper's",
+  "curatedName": "Cooper's",
+  "city": "ঢাকা",
+  "country": "Bangladesh",
+  "placeId": "ChIJxdQaJKfHVTcRErrEUgN44E4",
+  "googleName": "Cooper's Gulshan 2",
+  "formattedAddress": "Nearest, QCV7+MP5 American Burger Shop, সড়ক ৪৬, ঢাকা 1212, Bangladesh",
+  "phone": "01729-076913",
+  "internationalPhone": "+880 1729-076913",
+  "website": "https://www.coopersbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5683674685410425362",
+  "rating": 4.3,
+  "reviewCount": 2575,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.7941337,
+    90.4143476
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:30 PM",
+    "Tuesday: 7:30 AM – 10:30 PM",
+    "Wednesday: 7:30 AM – 10:30 PM",
+    "Thursday: 7:30 AM – 10:30 PM",
+    "Friday: 7:30 AM – 10:30 PM",
+    "Saturday: 7:30 AM – 10:30 PM",
+    "Sunday: 7:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cooper-s/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cooper-s/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cooper-s/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cooper-s/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cooper-s/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T10:58:38.520Z"
+}

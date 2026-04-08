@@ -1,0 +1,47 @@
+{
+  "slug": "paris-croissant-seoul",
+  "name": "Paris Croissant",
+  "curatedName": "Paris Croissant",
+  "city": "Seoul",
+  "country": "South Korea",
+  "placeId": "ChIJ7862pWaifDUR6xguFLe8S9s",
+  "googleName": "Paris Croissant Seoul Station",
+  "formattedAddress": "South Korea, Seoul, Jung District, Hangang-daero, 405 서울역사 2",
+  "phone": "02-312-7734",
+  "internationalPhone": "+82 2-312-7734",
+  "website": "http://www.pariscroissant.co.kr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15801931212063119595",
+  "rating": 3.3,
+  "reviewCount": 158,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.5548152,
+    126.970292
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-croissant-seoul/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-croissant-seoul/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-croissant-seoul/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-croissant-seoul/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-croissant-seoul/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:19:36.324Z"
+}

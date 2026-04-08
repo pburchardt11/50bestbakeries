@@ -1,0 +1,46 @@
+{
+  "slug": "boulangerie-patisserie-bardoulet-contrevoz",
+  "name": "Boulangerie Patisserie Bardoulet",
+  "curatedName": "Boulangerie Patisserie Bardoulet",
+  "city": "Contrevoz",
+  "country": "France",
+  "placeId": "ChIJ79Z7IQhri0cRCb6lLBi8ppM",
+  "googleName": "Boulangerie Pâtisserie Bardoulet",
+  "formattedAddress": "Place de Mefon, 01300 Contrevoz, France",
+  "phone": "04 79 81 85 56",
+  "internationalPhone": "+33 4 79 81 85 56",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10639397981723672073",
+  "rating": 4.6,
+  "reviewCount": 133,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.80298740000001,
+    5.6286803
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 12:30 PM, 4:00 – 7:00 PM",
+    "Wednesday: 6:00 AM – 12:30 PM, 4:00 – 7:00 PM",
+    "Thursday: 6:00 AM – 12:30 PM, 4:00 – 7:00 PM",
+    "Friday: 6:00 AM – 12:30 PM, 4:00 – 7:00 PM",
+    "Saturday: 6:00 AM – 12:30 PM, 4:00 – 7:00 PM",
+    "Sunday: 6:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-bardoulet-contrevoz/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-bardoulet-contrevoz/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-bardoulet-contrevoz/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-bardoulet-contrevoz/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:46:06.865Z"
+}

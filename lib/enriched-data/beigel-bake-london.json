@@ -1,0 +1,47 @@
+{
+  "slug": "beigel-bake-london",
+  "name": "Beigel Bake",
+  "curatedName": "Beigel Bake",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJjUgahq0ddkgRDLV2zZrg4ck",
+  "googleName": "Beigel Bake",
+  "formattedAddress": "159 Brick Ln, London E1 6SB, UK",
+  "phone": "020 7729 0616",
+  "internationalPhone": "+44 20 7729 0616",
+  "website": "https://www.beigelbake.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14547155226860107020",
+  "rating": 4.4,
+  "reviewCount": 14166,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5244985,
+    -0.0717608
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "24-hour bakery known for traditional Jewish-style filled bagels such as salt beef and smoked salmon.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beigel-bake-london/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beigel-bake-london/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beigel-bake-london/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beigel-bake-london/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beigel-bake-london/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:24:27.554Z"
+}

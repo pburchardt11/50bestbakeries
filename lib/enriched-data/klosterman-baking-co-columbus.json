@@ -1,0 +1,46 @@
+{
+  "slug": "klosterman-baking-co-columbus",
+  "name": "Klosterman Baking Co.",
+  "curatedName": "Klosterman Baking Co.",
+  "city": "Columbus",
+  "country": "United States",
+  "placeId": "ChIJNVcwC1B9OIgRXJ6U__fjY08",
+  "googleName": "Klosterman Baking Company Fresh Distribution and Bakery Outlet- Columbus",
+  "formattedAddress": "2655 Courtright Rd, Columbus, OH 43232, USA",
+  "phone": "(614) 745-8894",
+  "internationalPhone": "+1 614-745-8894",
+  "website": "http://www.klostermanbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5720666605975019100",
+  "rating": 4.6,
+  "reviewCount": 22,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.9174703,
+    -82.8974881
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 4:00 PM",
+    "Wednesday: 10:00 AM – 4:00 PM",
+    "Thursday: 10:00 AM – 4:00 PM",
+    "Friday: 10:00 AM – 4:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klosterman-baking-co-columbus/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klosterman-baking-co-columbus/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klosterman-baking-co-columbus/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klosterman-baking-co-columbus/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klosterman-baking-co-columbus/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:36:11.156Z"
+}

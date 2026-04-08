@@ -1,0 +1,45 @@
+{
+  "slug": "birzu-duona-kaunas",
+  "name": "Biržų Duona",
+  "curatedName": "Biržų Duona",
+  "city": "Kaunas",
+  "country": "Lithuania",
+  "placeId": "ChIJ-coWsgAj50YRhs0R4fm2v9w",
+  "googleName": "BIRŽŲ DUONA | KEPINIŲ NAMAI (Laisvės al.)",
+  "formattedAddress": "Laisvės al. 89, 44297 Kaunas, Lithuania",
+  "phone": "(0-612) 51825",
+  "internationalPhone": "+370 612 51825",
+  "website": "https://www.birzuduona.lt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15906633593235033478",
+  "rating": 4,
+  "reviewCount": 102,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    54.8974219,
+    23.9068122
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/birzu-duona-kaunas/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/birzu-duona-kaunas/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/birzu-duona-kaunas/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/birzu-duona-kaunas/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/birzu-duona-kaunas/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T10:59:40.318Z"
+}

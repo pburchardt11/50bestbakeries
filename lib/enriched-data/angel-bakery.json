@@ -1,0 +1,48 @@
+{
+  "slug": "angel-bakery",
+  "name": "Angel Bakery",
+  "curatedName": "Angel Bakery",
+  "city": "ירושלים",
+  "country": "Israel",
+  "placeId": "ChIJwf4oLivWAhURj2FwZ_04Xyk",
+  "googleName": "Angel Bakery",
+  "formattedAddress": "HaKeren HaKayemet Le-Israel St 26, Jerusalem, Israel",
+  "phone": "02-566-0374",
+  "internationalPhone": "+972 2-566-0374",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2981164139355857295",
+  "rating": 4,
+  "reviewCount": 136,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.77685769999999,
+    35.2114083
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 3:30 PM",
+    "Saturday: Closed",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/angel-bakery/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/angel-bakery/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/angel-bakery/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/angel-bakery/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/angel-bakery/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:03:54.027Z"
+}

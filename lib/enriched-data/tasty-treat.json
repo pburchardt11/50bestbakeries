@@ -1,0 +1,47 @@
+{
+  "slug": "tasty-treat",
+  "name": "Tasty Treat",
+  "curatedName": "Tasty Treat",
+  "city": "সিলেট",
+  "country": "Bangladesh",
+  "placeId": "ChIJmZeYpDxVUDcRodh-RdzTzVI",
+  "googleName": "Tasty Treat",
+  "formattedAddress": "WV4C+663, Electric Supply Rd, Sylhet 3100, Bangladesh",
+  "phone": "01704-134487",
+  "internationalPhone": "+880 1704-134487",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5966658024347981985",
+  "rating": 4,
+  "reviewCount": 537,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.9048936,
+    91.8711026
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tasty-treat/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tasty-treat/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tasty-treat/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tasty-treat/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tasty-treat/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:01:05.724Z"
+}

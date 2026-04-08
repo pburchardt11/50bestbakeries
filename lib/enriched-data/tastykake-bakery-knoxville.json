@@ -1,0 +1,37 @@
+{
+  "slug": "tastykake-bakery-knoxville",
+  "name": "Tastykake bakery",
+  "curatedName": "Tastykake bakery",
+  "city": "Knoxville",
+  "country": "United States",
+  "placeId": "ChIJQ1ZXc7IVXIgR-PkkafMQDNA",
+  "googleName": "Tastykake bakery",
+  "formattedAddress": "4612 Greenway Dr, Knoxville, TN 37918, USA",
+  "phone": "(865) 329-3336",
+  "internationalPhone": "+1 865-329-3336",
+  "website": "https://www.tastykake.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14991375897236666872",
+  "rating": 4,
+  "reviewCount": 25,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    36.0342153,
+    -83.88984640000001
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tastykake-bakery-knoxville/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tastykake-bakery-knoxville/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tastykake-bakery-knoxville/2.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:29:39.802Z"
+}

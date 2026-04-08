@@ -1,0 +1,33 @@
+{
+  "slug": "cloverhill-bakery-chicago",
+  "name": "Cloverhill Bakery",
+  "curatedName": "Cloverhill Bakery",
+  "city": "Chicago",
+  "country": "United States",
+  "placeId": "ChIJraqqb13LD4gRN3FD_ISGvAA",
+  "googleName": "Cloverhill",
+  "formattedAddress": "2035 N Narragansett Ave, Chicago, IL 60639, USA",
+  "phone": "(773) 745-9800",
+  "internationalPhone": "+1 773-745-9800",
+  "website": "http://cloverhill.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=53065201347686711",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    41.9174145,
+    -87.7844903
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:28:22.352Z"
+}

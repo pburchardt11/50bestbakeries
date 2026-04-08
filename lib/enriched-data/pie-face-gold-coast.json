@@ -1,0 +1,45 @@
+{
+  "slug": "pie-face-gold-coast",
+  "name": "Pie Face",
+  "curatedName": "Pie Face",
+  "city": "Gold Coast",
+  "country": "Australia",
+  "placeId": "ChIJ1cG_ENYRkWsR-jE8YPUHr-w",
+  "googleName": "Pie Face - Arundel",
+  "formattedAddress": "United Petroleum Service Station, 1 Marble Arch Pl, Arundel QLD 4214, Australia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17054859064338297338",
+  "rating": 3.5,
+  "reviewCount": 35,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.9235422,
+    153.3542234
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "Bright counter-serve chain fixing up hearty pies, plus sausage rolls & sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pie-face-gold-coast/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pie-face-gold-coast/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pie-face-gold-coast/2.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:28:28.643Z"
+}

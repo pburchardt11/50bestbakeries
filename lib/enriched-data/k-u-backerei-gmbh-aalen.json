@@ -1,0 +1,47 @@
+{
+  "slug": "k-u-backerei-gmbh-aalen",
+  "name": "K&U Bäckerei GmbH",
+  "curatedName": "K&U Bäckerei GmbH",
+  "city": "Aalen",
+  "country": "Germany",
+  "placeId": "ChIJ5eaUXnwcmUcRHxOnTHTQ_08",
+  "googleName": "Markt-Bäckerei Aalen",
+  "formattedAddress": "E-Center, Heinrich-Rieger-Straße 22, 73430 Aalen, Germany",
+  "phone": "07361 5559105",
+  "internationalPhone": "+49 7361 5559105",
+  "website": "https://markt-baeckerei.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5764555245978325791",
+  "rating": 1.8,
+  "reviewCount": 16,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8494509,
+    10.0950136
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/k-u-backerei-gmbh-aalen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/k-u-backerei-gmbh-aalen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/k-u-backerei-gmbh-aalen/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/k-u-backerei-gmbh-aalen/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/k-u-backerei-gmbh-aalen/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:01:31.828Z"
+}

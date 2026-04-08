@@ -1,0 +1,40 @@
+{
+  "slug": "bakery-h-von-allworden-gmbh-ahrensbok",
+  "name": "Bakery H. von Allwörden GmbH",
+  "curatedName": "Bakery H. von Allwörden GmbH",
+  "city": "Ahrensbök",
+  "country": "Germany",
+  "placeId": "ChIJ17GfwnRtskcRLi3pGBRpJFM",
+  "googleName": "Bakery H. von Allwörden GmbH",
+  "formattedAddress": "Lübecker Str. 4, 23623 Ahrensbök, Germany",
+  "phone": "04525 7789138",
+  "internationalPhone": "+49 4525 7789138",
+  "website": "http://www.von-allwoerden.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5991028939347799342",
+  "rating": 3.8,
+  "reviewCount": 292,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    54.0092772,
+    10.5733782
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-h-von-allworden-gmbh-ahrensbok/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-h-von-allworden-gmbh-ahrensbok/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-h-von-allworden-gmbh-ahrensbok/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-h-von-allworden-gmbh-ahrensbok/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-h-von-allworden-gmbh-ahrensbok/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:51:42.800Z"
+}

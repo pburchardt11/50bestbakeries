@@ -1,0 +1,48 @@
+{
+  "slug": "dat-backhus-ahrensburg",
+  "name": "Dat Backhus",
+  "curatedName": "Dat Backhus",
+  "city": "Ahrensburg",
+  "country": "Germany",
+  "placeId": "ChIJ20tCHPUfskcRuClkDpjDDDg",
+  "googleName": "Dat Backhus Ahrensburg Brückenstraße",
+  "formattedAddress": "Hamburger Str. 81, 22926 Ahrensburg, Germany",
+  "phone": "04102 8887100",
+  "internationalPhone": "+49 4102 8887100",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4038818023688382904",
+  "rating": 4.1,
+  "reviewCount": 536,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.6677,
+    10.228944
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dat-backhus-ahrensburg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dat-backhus-ahrensburg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dat-backhus-ahrensburg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dat-backhus-ahrensburg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dat-backhus-ahrensburg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:53:53.802Z"
+}

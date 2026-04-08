@@ -1,0 +1,30 @@
+{
+  "slug": "fuchs-bakery-homestead",
+  "name": "Fuchs Bakery",
+  "curatedName": "Fuchs Bakery",
+  "city": "Homestead",
+  "country": "United States",
+  "placeId": "ChIJVaVMjz_n2YgRVEp5jthtvgY",
+  "googleName": "Fuchs Bakery",
+  "formattedAddress": "102 S Krome Ave, Homestead, FL 33030, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=485946586673269332",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    25.4690608,
+    -80.4775228
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T12:13:25.563Z"
+}

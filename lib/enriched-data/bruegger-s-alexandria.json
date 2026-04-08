@@ -1,0 +1,41 @@
+{
+  "slug": "bruegger-s-alexandria",
+  "name": "Bruegger's",
+  "curatedName": "Bruegger's",
+  "city": "Alexandria",
+  "country": "United States",
+  "placeId": "ChIJ68TyCviwt4kRfd2aFDHMFwg",
+  "googleName": "Bruegger's Bagels",
+  "formattedAddress": "606 King St, Alexandria, VA 22314, USA",
+  "phone": "(703) 683-0080",
+  "internationalPhone": "+1 703-683-0080",
+  "website": "https://www.brueggers.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=583159187938925949",
+  "rating": 3.5,
+  "reviewCount": 53,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    38.8048796,
+    -77.0461899
+  ],
+  "openingHours": null,
+  "editorialSummary": "Cafe/bakery chain preparing small-batch, New York-style bagels, plus breakfast & lunch sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bruegger-s-alexandria/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bruegger-s-alexandria/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bruegger-s-alexandria/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bruegger-s-alexandria/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bruegger-s-alexandria/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:04:00.828Z"
+}

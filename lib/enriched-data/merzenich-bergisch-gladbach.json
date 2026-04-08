@@ -1,0 +1,49 @@
+{
+  "slug": "merzenich-bergisch-gladbach",
+  "name": "Merzenich",
+  "curatedName": "Merzenich",
+  "city": "Bergisch Gladbach",
+  "country": "Germany",
+  "placeId": "ChIJldR9JdvXvkcRIgqVf2ke0LE",
+  "googleName": "Bakery Merzenich in Bergisch Gladbach",
+  "formattedAddress": "Hauptstraße 164, 51465 Bergisch Gladbach, Germany",
+  "phone": "02202 9645991",
+  "internationalPhone": "+49 2202 9645991",
+  "website": "https://baeckerei-merzenich.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12812774378329934370",
+  "rating": 3.6,
+  "reviewCount": 203,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.9910229,
+    7.1276908
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 8:00 – 11:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/merzenich-bergisch-gladbach/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/merzenich-bergisch-gladbach/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/merzenich-bergisch-gladbach/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/merzenich-bergisch-gladbach/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/merzenich-bergisch-gladbach/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:07:42.746Z"
+}

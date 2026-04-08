@@ -1,0 +1,30 @@
+{
+  "slug": "arnold-bakery-austin",
+  "name": "Arnold Bakery",
+  "curatedName": "Arnold Bakery",
+  "city": "Austin",
+  "country": "United States",
+  "placeId": "ChIJF-dxFbu1RIYR-Vm25uJ2LtE",
+  "googleName": "Arnold Bakery",
+  "formattedAddress": "1010 E 11th St, Austin, TX 78702, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.eastendculturaldistrict.org/cms/historic-sites-architecture/arnolds-bakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=15073115719761025529",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    30.2693722,
+    -97.7293904
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:49:08.347Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "banjo-s-bakery-and-cafe-adelaide",
+  "name": "Banjo's Bakery and Cafe",
+  "curatedName": "Banjo's Bakery and Cafe",
+  "city": "Adelaide",
+  "country": "Australia",
+  "placeId": "ChIJOXLJTTLbsGoRXE1kmvk-_WA",
+  "googleName": "Banjo’s Bakery Café – Glenelg",
+  "formattedAddress": "1/15 Moseley Sq, Glenelg SA 5045, Australia",
+  "phone": "(08) 8376 3285",
+  "internationalPhone": "+61 8 8376 3285",
+  "website": "https://banjos.com.au/?utm_source=Google&utm_medium=GMB&utm_campaign=Website&utm_term=Glenelg",
+  "googleMapsUrl": "https://maps.google.com/?cid=6988811438506921308",
+  "rating": 3.8,
+  "reviewCount": 349,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.9800716,
+    138.5120558
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Brekkie & sandwiches, plus handmade sweet treats, in a cafe chain with a local community focus.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banjo-s-bakery-and-cafe-adelaide/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banjo-s-bakery-and-cafe-adelaide/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banjo-s-bakery-and-cafe-adelaide/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banjo-s-bakery-and-cafe-adelaide/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banjo-s-bakery-and-cafe-adelaide/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:32:30.914Z"
+}

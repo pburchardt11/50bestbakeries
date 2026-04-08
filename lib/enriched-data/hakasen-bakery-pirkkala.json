@@ -1,0 +1,47 @@
+{
+  "slug": "hakasen-bakery-pirkkala",
+  "name": "Hakasen Bakery",
+  "curatedName": "Hakasen Bakery",
+  "city": "Pirkkala",
+  "country": "Finland",
+  "placeId": "ChIJ37J-lAfZjkYRZW0-7zKJ9tY",
+  "googleName": "Hakasen Bakery",
+  "formattedAddress": "Suupantori 4, 33960 Pirkkala, Finland",
+  "phone": "010 3271715",
+  "internationalPhone": "+358 10 3271715",
+  "website": "http://www.hakasenleipomo.fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15489718820242615653",
+  "rating": 4.1,
+  "reviewCount": 99,
+  "priceLevel": 2,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    61.46637289999999,
+    23.6438574
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 2:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hakasen-bakery-pirkkala/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hakasen-bakery-pirkkala/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hakasen-bakery-pirkkala/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hakasen-bakery-pirkkala/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hakasen-bakery-pirkkala/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:06:00.227Z"
+}

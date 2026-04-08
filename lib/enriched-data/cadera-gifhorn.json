@@ -1,0 +1,47 @@
+{
+  "slug": "cadera-gifhorn",
+  "name": "Cadera",
+  "curatedName": "Cadera",
+  "city": "Gifhorn",
+  "country": "Germany",
+  "placeId": "ChIJw-SAaSnvr0cRvjoh2XTBN8Q",
+  "googleName": "Cadera",
+  "formattedAddress": "Steinweg 71, 38518 Gifhorn, Germany",
+  "phone": "05371 990470",
+  "internationalPhone": "+49 5371 990470",
+  "website": "https://cadera.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14138982262756162238",
+  "rating": 4.1,
+  "reviewCount": 104,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.48327800000001,
+    10.54567
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cadera-gifhorn/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cadera-gifhorn/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cadera-gifhorn/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cadera-gifhorn/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cadera-gifhorn/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:52:28.876Z"
+}

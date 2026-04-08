@@ -1,0 +1,48 @@
+{
+  "slug": "jolly-holiday-bakery-cafe-anaheim",
+  "name": "Jolly Holiday Bakery Cafe",
+  "curatedName": "Jolly Holiday Bakery Cafe",
+  "city": "Anaheim",
+  "country": "United States",
+  "placeId": "ChIJE0iPiioo3YARdl55P2miQSM",
+  "googleName": "Jolly Holiday Bakery Cafe",
+  "formattedAddress": "1313 Disneyland Dr, Anaheim, CA 92802, USA",
+  "phone": "(714) 781-4636",
+  "internationalPhone": "+1 714-781-4636",
+  "website": "https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/?CMP=OKC-16363584_GM_DLR_dining_jollyholidaybakerycafe_NA",
+  "googleMapsUrl": "https://maps.google.com/?cid=2540490237733854838",
+  "rating": 4.3,
+  "reviewCount": 428,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.811599,
+    -117.919366
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:15 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 11:15 PM",
+    "Thursday: 8:00 AM – 11:15 PM",
+    "Friday: 8:00 AM – 11:15 PM",
+    "Saturday: 8:00 AM – 11:15 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Disneyland cafe with a garden patio serving breakfast & lunch in Mary Poppins-inspired environs.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jolly-holiday-bakery-cafe-anaheim/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jolly-holiday-bakery-cafe-anaheim/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jolly-holiday-bakery-cafe-anaheim/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jolly-holiday-bakery-cafe-anaheim/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jolly-holiday-bakery-cafe-anaheim/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:35:58.738Z"
+}

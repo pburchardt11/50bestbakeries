@@ -1,0 +1,47 @@
+{
+  "slug": "somerset-bakehouse-bridgwater",
+  "name": "Somerset Bakehouse",
+  "curatedName": "Somerset Bakehouse",
+  "city": "Bridgwater",
+  "country": "United Kingdom",
+  "placeId": "ChIJw_Z4egUJckgRsPAVvoDho54",
+  "googleName": "Somerset Bakehouse - Taunton Road",
+  "formattedAddress": "Service Station, Taunton Rd, Bridgwater TA6 6LD, UK",
+  "phone": "01278 450794",
+  "internationalPhone": "+44 1278 450794",
+  "website": "http://www.somersetbakehouse.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11431228222257623216",
+  "rating": 4.5,
+  "reviewCount": 89,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.1139363,
+    -2.9953988
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 3:45 PM",
+    "Tuesday: 6:30 AM – 3:45 PM",
+    "Wednesday: 6:30 AM – 3:45 PM",
+    "Thursday: 6:30 AM – 3:45 PM",
+    "Friday: 6:30 AM – 3:45 PM",
+    "Saturday: 7:00 AM – 3:15 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/somerset-bakehouse-bridgwater/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/somerset-bakehouse-bridgwater/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/somerset-bakehouse-bridgwater/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/somerset-bakehouse-bridgwater/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/somerset-bakehouse-bridgwater/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:04:28.616Z"
+}

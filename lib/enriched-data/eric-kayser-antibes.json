@@ -1,0 +1,48 @@
+{
+  "slug": "eric-kayser-antibes",
+  "name": "Eric Kayser",
+  "curatedName": "Eric Kayser",
+  "city": "Antibes",
+  "country": "France",
+  "placeId": "ChIJ-wmyvmnVzRIRzyyEW4-6GFM",
+  "googleName": "Eric Kayser",
+  "formattedAddress": "28 Bd Maréchal Leclerc, 06600 Antibes, France",
+  "phone": "04 93 61 40 43",
+  "internationalPhone": "+33 4 93 61 40 43",
+  "website": "https://maison-kayser.com/boulangerie/antibes-plage-de-la-salis/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5987740829467552975",
+  "rating": 3.5,
+  "reviewCount": 1360,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.573298,
+    7.1240704
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eric-kayser-antibes/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eric-kayser-antibes/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eric-kayser-antibes/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eric-kayser-antibes/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eric-kayser-antibes/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:27:30.644Z"
+}

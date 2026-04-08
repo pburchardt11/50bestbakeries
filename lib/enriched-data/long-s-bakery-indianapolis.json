@@ -1,0 +1,47 @@
+{
+  "slug": "long-s-bakery-indianapolis",
+  "name": "Long's Bakery",
+  "curatedName": "Long's Bakery",
+  "city": "Indianapolis",
+  "country": "United States",
+  "placeId": "ChIJUWAxfBlXa4gRV5uqyEbbjUg",
+  "googleName": "Long's Bakery",
+  "formattedAddress": "1453 N Tremont St, Indianapolis, IN 46222, USA",
+  "phone": "(317) 632-3741",
+  "internationalPhone": "+1 317-632-3741",
+  "website": "http://longsbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5228075839507831639",
+  "rating": 4.7,
+  "reviewCount": 7616,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.7876339,
+    -86.2007727
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 10:00 PM",
+    "Tuesday: 5:30 AM – 10:00 PM",
+    "Wednesday: 5:30 AM – 10:00 PM",
+    "Thursday: 5:30 AM – 10:00 PM",
+    "Friday: 5:30 AM – 10:00 PM",
+    "Saturday: 5:30 AM – 10:00 PM",
+    "Sunday: 5:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Cash-only local institution serves up a variety of treats including donuts, danishes & cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/long-s-bakery-indianapolis/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/long-s-bakery-indianapolis/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/long-s-bakery-indianapolis/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/long-s-bakery-indianapolis/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/long-s-bakery-indianapolis/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:36:21.767Z"
+}

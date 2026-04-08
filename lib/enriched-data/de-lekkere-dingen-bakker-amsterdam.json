@@ -1,0 +1,47 @@
+{
+  "slug": "de-lekkere-dingen-bakker-amsterdam",
+  "name": "De Lekkere Dingen Bakker",
+  "curatedName": "De Lekkere Dingen Bakker",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "placeId": "ChIJbYUsut0IxkcRx2qVW3C2Vp4",
+  "googleName": "De Lekkere Dingen Bakker",
+  "formattedAddress": "Waterlandplein 266 Waterlandplein@deldb, 1024 NB Amsterdam, Netherlands",
+  "phone": "020 637 3660",
+  "internationalPhone": "+31 20 637 3660",
+  "website": "https://delekkeredingenbakker.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11409507299678841543",
+  "rating": 3.1,
+  "reviewCount": 49,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.392435,
+    4.9548125
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 4:00 PM",
+    "Tuesday: 8:30 AM – 4:00 PM",
+    "Wednesday: 8:30 AM – 4:00 PM",
+    "Thursday: 8:30 AM – 4:00 PM",
+    "Friday: 8:30 AM – 4:00 PM",
+    "Saturday: 8:30 AM – 3:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-lekkere-dingen-bakker-amsterdam/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-lekkere-dingen-bakker-amsterdam/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-lekkere-dingen-bakker-amsterdam/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-lekkere-dingen-bakker-amsterdam/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-lekkere-dingen-bakker-amsterdam/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:33:18.966Z"
+}

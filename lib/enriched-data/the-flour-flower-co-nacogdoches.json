@@ -1,0 +1,47 @@
+{
+  "slug": "the-flour-flower-co-nacogdoches",
+  "name": "The Flour & Flower Co.",
+  "curatedName": "The Flour & Flower Co.",
+  "city": "Nacogdoches",
+  "country": "United States",
+  "placeId": "ChIJUVwmVQCNN4YRKkYTBZh6_1g",
+  "googleName": "The Flour and Flower Co",
+  "formattedAddress": "2519 Stallings Dr N, Nacogdoches, TX 75964, USA",
+  "phone": "(936) 205-3034",
+  "internationalPhone": "+1 936-205-3034",
+  "website": "http://theflourandflowercompany.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6412979187737642538",
+  "rating": 5,
+  "reviewCount": 15,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.6520762,
+    -94.6771904
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-flour-flower-co-nacogdoches/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-flour-flower-co-nacogdoches/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-flour-flower-co-nacogdoches/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-flour-flower-co-nacogdoches/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-flour-flower-co-nacogdoches/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:30:32.818Z"
+}

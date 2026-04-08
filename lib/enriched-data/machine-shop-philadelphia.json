@@ -1,0 +1,47 @@
+{
+  "slug": "machine-shop-philadelphia",
+  "name": "Machine Shop",
+  "curatedName": "Machine Shop",
+  "city": "Philadelphia",
+  "country": "United States",
+  "placeId": "ChIJi6ppvcLHxokRojCJZmd_1b8",
+  "googleName": "Machine Shop",
+  "formattedAddress": "1901 S 9th St, Philadelphia, PA 19148, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://machineshopphilly.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13823094713362231458",
+  "rating": 4.7,
+  "reviewCount": 269,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.9250434,
+    -75.1602189
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/machine-shop-philadelphia/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/machine-shop-philadelphia/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/machine-shop-philadelphia/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/machine-shop-philadelphia/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/machine-shop-philadelphia/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:21:40.960Z"
+}

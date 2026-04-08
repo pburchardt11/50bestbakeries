@@ -1,0 +1,48 @@
+{
+  "slug": "pix-patisserie-portland",
+  "name": "Pix Patisserie",
+  "curatedName": "Pix Patisserie",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJAbGxIoaglVQRzgjI8TZkYRw",
+  "googleName": "Pix Patisserie / Pix-O-Matic",
+  "formattedAddress": "2225 E Burnside St, Portland, OR 97214, USA",
+  "phone": "(971) 271-7166",
+  "internationalPhone": "+1 971-271-7166",
+  "website": "http://www.pixpatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2045025892950345934",
+  "rating": 4.3,
+  "reviewCount": 1125,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "liquor_store",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5230914,
+    -122.6427946
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 3:00 AM",
+    "Tuesday: 5:00 AM – 3:00 AM",
+    "Wednesday: 5:00 AM – 3:00 AM",
+    "Thursday: 5:00 AM – 3:00 AM",
+    "Friday: 5:00 AM – 3:00 AM",
+    "Saturday: 5:00 AM – 3:00 AM",
+    "Sunday: 5:00 AM – 3:00 AM"
+  ],
+  "editorialSummary": "Macarons & other French delicacies are served at a bakery sharing space with a lively tapas bar.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pix-patisserie-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pix-patisserie-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pix-patisserie-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pix-patisserie-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pix-patisserie-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:25:40.729Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "dave-s-killer-bread-milwaukie",
+  "name": "Dave's Killer Bread",
+  "curatedName": "Dave's Killer Bread",
+  "city": "Milwaukie",
+  "country": "United States",
+  "placeId": "ChIJ1V_4rRp1lVQRtfMANd24MM8",
+  "googleName": "Dave's Killer Bread",
+  "formattedAddress": "5209 SE International Way, Milwaukie, OR 97222, USA",
+  "phone": "(503) 335-8077",
+  "internationalPhone": "+1 503-335-8077",
+  "website": "http://daveskillerbread.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14929636024949732277",
+  "rating": 4.4,
+  "reviewCount": 153,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4335585,
+    -122.6107612
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Bakery outlet lures locals with imperfect & day-old health-conscious & organic breads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dave-s-killer-bread-milwaukie/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dave-s-killer-bread-milwaukie/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dave-s-killer-bread-milwaukie/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dave-s-killer-bread-milwaukie/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dave-s-killer-bread-milwaukie/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:08:57.820Z"
+}

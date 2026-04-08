@@ -1,0 +1,47 @@
+{
+  "slug": "hinnerbacker-bad-nauheim",
+  "name": "Hinnerbäcker",
+  "curatedName": "Hinnerbäcker",
+  "city": "Bad Nauheim",
+  "country": "Germany",
+  "placeId": "ChIJxYgWPOP9vEcR8Cf9OIEQrMs",
+  "googleName": "Hinnerbäcker GmbH & Co. KG",
+  "formattedAddress": "Frankfurter Landstraße 15, 61231 Bad Nauheim, Germany",
+  "phone": "06032 700929",
+  "internationalPhone": "+49 6032 700929",
+  "website": "http://www.hinnerbaecker.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14676123432886544368",
+  "rating": 3.8,
+  "reviewCount": 127,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.361439,
+    8.7503647
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: 7:00 – 11:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hinnerbacker-bad-nauheim/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hinnerbacker-bad-nauheim/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hinnerbacker-bad-nauheim/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hinnerbacker-bad-nauheim/3.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:59:08.247Z"
+}

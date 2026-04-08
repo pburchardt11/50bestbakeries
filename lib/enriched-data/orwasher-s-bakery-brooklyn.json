@@ -1,0 +1,48 @@
+{
+  "slug": "orwasher-s-bakery-brooklyn",
+  "name": "Orwasher’s Bakery",
+  "curatedName": "Orwasher’s Bakery",
+  "city": "Brooklyn",
+  "country": "United States",
+  "placeId": "ChIJE9I-Pr9YwokReow27sEgdLU",
+  "googleName": "Orwashers Bakery",
+  "formattedAddress": "308 E 78th St, New York, NY 10075, USA",
+  "phone": "(212) 288-6569",
+  "internationalPhone": "+1 212-288-6569",
+  "website": "http://www.orwashers.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13075111635460721786",
+  "rating": 4.5,
+  "reviewCount": 818,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7722982,
+    -73.95494599999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Long-running artisanal bread maker also stocking cookies, sweets & a selection of gourmet foods.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orwasher-s-bakery-brooklyn/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orwasher-s-bakery-brooklyn/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orwasher-s-bakery-brooklyn/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orwasher-s-bakery-brooklyn/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orwasher-s-bakery-brooklyn/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:23:54.811Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "balfours-bakery-adelaide",
+  "name": "Balfours Bakery",
+  "curatedName": "Balfours Bakery",
+  "city": "Adelaide",
+  "country": "Australia",
+  "placeId": "ChIJ51VIovPIsGoRP63ary2fEE0",
+  "googleName": "Balfours",
+  "formattedAddress": "91 Exeter Terrace, Dudley Park SA 5008, Australia",
+  "phone": "(08) 8368 5300",
+  "internationalPhone": "+61 8 8368 5300",
+  "website": "http://balfours.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5553113359120510271",
+  "rating": 2.6,
+  "reviewCount": 41,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.879125,
+    138.5816656
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 AM",
+    "Wednesday: 8:30 AM – 5:00 AM",
+    "Thursday: 8:30 AM – 5:00 AM",
+    "Friday: 8:30 AM – 5:00 AM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/balfours-bakery-adelaide/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/balfours-bakery-adelaide/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/balfours-bakery-adelaide/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/balfours-bakery-adelaide/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/balfours-bakery-adelaide/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:08:51.081Z"
+}

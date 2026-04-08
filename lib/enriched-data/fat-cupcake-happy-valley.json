@@ -1,0 +1,47 @@
+{
+  "slug": "fat-cupcake-happy-valley",
+  "name": "FAT Cupcake",
+  "curatedName": "FAT Cupcake",
+  "city": "Happy Valley",
+  "country": "United States",
+  "placeId": "ChIJF9HJOS2flVQRQhinUwzMkKo",
+  "googleName": "FAT Cupcake",
+  "formattedAddress": "13203 SE 172nd Ave Suite 170, Happy Valley, OR 97086, USA",
+  "phone": "(971) 224-4286",
+  "internationalPhone": "+1 971-224-4286",
+  "website": "http://fatcupcake.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12290547736409217090",
+  "rating": 4.4,
+  "reviewCount": 69,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4273081,
+    -122.4861921
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 6:00 PM",
+    "Tuesday: 12:00 – 6:00 PM",
+    "Wednesday: 12:00 – 6:00 PM",
+    "Thursday: 12:00 – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fat-cupcake-happy-valley/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fat-cupcake-happy-valley/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fat-cupcake-happy-valley/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fat-cupcake-happy-valley/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fat-cupcake-happy-valley/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:12:44.904Z"
+}

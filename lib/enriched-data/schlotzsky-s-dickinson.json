@@ -1,0 +1,40 @@
+{
+  "slug": "schlotzsky-s-dickinson",
+  "name": "Schlotzsky's",
+  "curatedName": "Schlotzsky's",
+  "city": "Dickinson",
+  "country": "United States",
+  "placeId": "ChIJl6lp1c8ZJlMR7CVrpjE32jo",
+  "googleName": "Schlotzsky's",
+  "formattedAddress": "191 40th St W Suite #2, Dickinson, ND 58601, USA",
+  "phone": "(701) 483-5689",
+  "internationalPhone": "+1 701-483-5689",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4240762685507708396",
+  "rating": 4.2,
+  "reviewCount": 158,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    46.9188511,
+    -102.7883971
+  ],
+  "openingHours": null,
+  "editorialSummary": "Counter-serve chain serving deli fare, such as their Original sandwich, specialty pizzas & salads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schlotzsky-s-dickinson/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schlotzsky-s-dickinson/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schlotzsky-s-dickinson/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schlotzsky-s-dickinson/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schlotzsky-s-dickinson/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:27:36.880Z"
+}

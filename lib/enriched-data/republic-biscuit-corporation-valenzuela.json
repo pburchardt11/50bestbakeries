@@ -1,0 +1,31 @@
+{
+  "slug": "republic-biscuit-corporation-valenzuela",
+  "name": "Republic Biscuit Corporation",
+  "curatedName": "Republic Biscuit Corporation",
+  "city": "Valenzuela",
+  "country": "Philippines",
+  "placeId": "ChIJRWVvOEuzlzMRnZ7E9Q2aOaA",
+  "googleName": "warehouse rebisco",
+  "formattedAddress": "PX7G+79X, Valenzuela, Metro Manila, Philippines",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11545428504489533085",
+  "rating": 4.4,
+  "reviewCount": 5,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "storage"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.7132484,
+    120.9759937
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:17:02.628Z"
+}

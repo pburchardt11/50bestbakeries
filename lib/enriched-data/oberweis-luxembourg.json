@@ -1,0 +1,47 @@
+{
+  "slug": "oberweis-luxembourg",
+  "name": "Oberweis",
+  "curatedName": "Oberweis",
+  "city": "Luxembourg",
+  "country": "Luxembourg",
+  "placeId": "ChIJw6QK6ixPlUcR3oWfiIDrttA",
+  "googleName": "Oberweis Grand-Rue",
+  "formattedAddress": "16 Grand-Rue, 1660 Ville-Haute Luxembourg",
+  "phone": "47 07 03",
+  "internationalPhone": "+352 47 07 03",
+  "website": "http://www.oberweis.lu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15039466942930847198",
+  "rating": 4.3,
+  "reviewCount": 1625,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.6120149,
+    6.1312608
+  ],
+  "openingHours": [
+    "Monday: 7:45 AM – 6:00 PM",
+    "Tuesday: 7:45 AM – 6:00 PM",
+    "Wednesday: 7:45 AM – 6:00 PM",
+    "Thursday: 7:45 AM – 6:00 PM",
+    "Friday: 7:45 AM – 6:00 PM",
+    "Saturday: 7:45 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oberweis-luxembourg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oberweis-luxembourg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oberweis-luxembourg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oberweis-luxembourg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oberweis-luxembourg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:01:29.839Z"
+}

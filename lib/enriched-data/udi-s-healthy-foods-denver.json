@@ -1,0 +1,41 @@
+{
+  "slug": "udi-s-healthy-foods-denver",
+  "name": "Udi's Healthy Foods",
+  "curatedName": "Udi's Healthy Foods",
+  "city": "Denver",
+  "country": "United States",
+  "placeId": "ChIJja0o639kbIcRkBWU9hh_XgU",
+  "googleName": "Udi's Granola Manufacturing site",
+  "formattedAddress": "16358 E 33rd Dr, Aurora, CO 80011, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=386886363193283984",
+  "rating": 4.5,
+  "reviewCount": 4,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.764083,
+    -104.797355
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:00 PM",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 10:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T12:31:14.440Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "kolls-quickborn",
+  "name": "Kolls",
+  "curatedName": "Kolls",
+  "city": "Quickborn",
+  "country": "Germany",
+  "placeId": "ChIJy6czrv8pskcRZEKYg67D_O8",
+  "googleName": "Familienbäckerei Kolls Beluga-Café",
+  "formattedAddress": "Güttloh/Beluga, Güttloh 1-5, 25451 Quickborn, Germany",
+  "phone": "04106 9769916",
+  "internationalPhone": "+49 4106 9769916",
+  "website": "http://www.baeckerei-kolls.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17292911823495381604",
+  "rating": 4.4,
+  "reviewCount": 386,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.7214439,
+    9.9023314
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 7:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kolls-quickborn/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kolls-quickborn/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kolls-quickborn/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kolls-quickborn/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kolls-quickborn/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:04:12.028Z"
+}

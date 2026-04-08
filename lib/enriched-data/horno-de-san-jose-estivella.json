@@ -1,0 +1,47 @@
+{
+  "slug": "horno-de-san-jose-estivella",
+  "name": "HORNO De SAN JOSE",
+  "curatedName": "HORNO De SAN JOSE",
+  "city": "Estivella",
+  "country": "Spain",
+  "placeId": "ChIJRQW4f71rYA0R024JCkZ1rWg",
+  "googleName": "Forn San José",
+  "formattedAddress": "Plaça de l'Hostal, 13, 46590 Estivella, Valencia, Spain",
+  "phone": "962 62 86 25",
+  "internationalPhone": "+34 962 62 86 25",
+  "website": "https://horno-de-san-jose-estivella.eatbu.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7542813894591999699",
+  "rating": 4.4,
+  "reviewCount": 62,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.7131132,
+    -0.3488414
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 2:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 7:30 AM – 2:00 PM",
+    "Thursday: 7:30 AM – 2:00 PM",
+    "Friday: 7:30 AM – 2:00 PM",
+    "Saturday: 7:30 AM – 2:00 PM",
+    "Sunday: 8:15 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/horno-de-san-jose-estivella/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/horno-de-san-jose-estivella/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/horno-de-san-jose-estivella/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/horno-de-san-jose-estivella/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/horno-de-san-jose-estivella/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:33:31.429Z"
+}

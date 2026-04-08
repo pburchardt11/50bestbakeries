@@ -1,0 +1,47 @@
+{
+  "slug": "grzybki-warsaw",
+  "name": "Grzybki",
+  "curatedName": "Grzybki",
+  "city": "Warsaw",
+  "country": "Poland",
+  "placeId": "ChIJT6s26GMzGUcR4uOl2qni9Ik",
+  "googleName": "Piekarnia Cukiernia Grzybki",
+  "formattedAddress": "Malownicza 33, 02-272 Warszawa, Poland",
+  "phone": "538 238 261",
+  "internationalPhone": "+48 538 238 261",
+  "website": "https://piekarniagrzybki.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9940819496659182562",
+  "rating": 4.6,
+  "reviewCount": 2830,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.1776631,
+    20.9382187
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grzybki-warsaw/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grzybki-warsaw/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grzybki-warsaw/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grzybki-warsaw/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grzybki-warsaw/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:23:52.247Z"
+}

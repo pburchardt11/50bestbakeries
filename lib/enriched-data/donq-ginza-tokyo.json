@@ -1,0 +1,48 @@
+{
+  "slug": "donq-ginza-tokyo",
+  "name": "Donq Ginza",
+  "curatedName": "Donq Ginza",
+  "city": "Tokyo",
+  "country": "Japan",
+  "placeId": "ChIJE1wGD-iLGGARyisyYKXJcV8",
+  "googleName": "Don Quijote Ginza Honkan",
+  "formattedAddress": "GINZA NINE 3, 8-chōme-6-10 Ginza, Chuo City, Tokyo 104-0061, Japan",
+  "phone": "0570-023-811",
+  "internationalPhone": "+81 570-023-811",
+  "website": "https://www.donki.com/store/shop_detail.php?shop_id=92",
+  "googleMapsUrl": "https://maps.google.com/?cid=6877499818092145610",
+  "rating": 3.7,
+  "reviewCount": 5630,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "furniture_store",
+    "home_goods_store",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.667122,
+    139.7618936
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "Convenience store selling groceries, toys, footwear & other household items.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/donq-ginza-tokyo/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/donq-ginza-tokyo/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/donq-ginza-tokyo/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/donq-ginza-tokyo/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/donq-ginza-tokyo/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:04:01.818Z"
+}

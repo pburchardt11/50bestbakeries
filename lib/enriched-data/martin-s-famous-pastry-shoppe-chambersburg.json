@@ -1,0 +1,44 @@
+{
+  "slug": "martin-s-famous-pastry-shoppe-chambersburg",
+  "name": "Martin's Famous Pastry Shoppe",
+  "curatedName": "Martin's Famous Pastry Shoppe",
+  "city": "Chambersburg",
+  "country": "United States",
+  "placeId": "ChIJgbQ8WqWeyYkRyDS2b-ASH_w",
+  "googleName": "Martin's Famous Pastry Shoppe",
+  "formattedAddress": "1000 Potato Roll Ln, Chambersburg, PA 17202, USA",
+  "phone": "(717) 263-9580",
+  "internationalPhone": "+1 717-263-9580",
+  "website": "https://potatorolls.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18167260176992056520",
+  "rating": 4.1,
+  "reviewCount": 92,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.9036555,
+    -77.6428753
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martin-s-famous-pastry-shoppe-chambersburg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martin-s-famous-pastry-shoppe-chambersburg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martin-s-famous-pastry-shoppe-chambersburg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martin-s-famous-pastry-shoppe-chambersburg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martin-s-famous-pastry-shoppe-chambersburg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:22:02.257Z"
+}

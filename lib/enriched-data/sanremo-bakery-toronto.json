@@ -1,0 +1,51 @@
+{
+  "slug": "sanremo-bakery-toronto",
+  "name": "Sanremo Bakery",
+  "curatedName": "Sanremo Bakery",
+  "city": "Toronto",
+  "country": "Canada",
+  "placeId": "ChIJG9mvbCQ2K4gR7plruqYa1ak",
+  "googleName": "Sanremo Bakery",
+  "formattedAddress": "374 Royal York Rd, Etobicoke, ON M8Y 2R3, Canada",
+  "phone": "(416) 255-2808",
+  "internationalPhone": "+1 416-255-2808",
+  "website": "https://www.sanremobakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12237716865843698158",
+  "rating": 4.6,
+  "reviewCount": 5833,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6185665,
+    -79.49954699999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Italian-style recipes are used in the goods at this bakery & deli with imported produce.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sanremo-bakery-toronto/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sanremo-bakery-toronto/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sanremo-bakery-toronto/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sanremo-bakery-toronto/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sanremo-bakery-toronto/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:39:32.362Z"
+}

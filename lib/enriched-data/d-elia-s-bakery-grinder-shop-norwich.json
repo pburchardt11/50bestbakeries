@@ -1,0 +1,48 @@
+{
+  "slug": "d-elia-s-bakery-grinder-shop-norwich",
+  "name": "D'elia's Bakery & Grinder Shop",
+  "curatedName": "D'elia's Bakery & Grinder Shop",
+  "city": "Norwich",
+  "country": "United States",
+  "placeId": "ChIJqeV7KGdx5okRNTxICLCrHsw",
+  "googleName": "D'Elia's Bakery & Grinder Shop",
+  "formattedAddress": "272 Franklin St, Norwich, CT 06360, USA",
+  "phone": "(860) 887-1062",
+  "internationalPhone": "+1 860-887-1062",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14708382205580164149",
+  "rating": 4.8,
+  "reviewCount": 519,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.5291454,
+    -72.0732101
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/d-elia-s-bakery-grinder-shop-norwich/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/d-elia-s-bakery-grinder-shop-norwich/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/d-elia-s-bakery-grinder-shop-norwich/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/d-elia-s-bakery-grinder-shop-norwich/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/d-elia-s-bakery-grinder-shop-norwich/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:34:34.657Z"
+}

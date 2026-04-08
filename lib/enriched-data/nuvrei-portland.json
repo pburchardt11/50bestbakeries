@@ -1,0 +1,48 @@
+{
+  "slug": "nuvrei-portland",
+  "name": "Nuvrei",
+  "curatedName": "Nuvrei",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJfbIC5AEKlVQRRELaYqTQRfQ",
+  "googleName": "Nuvrei",
+  "formattedAddress": "1122 SW Harvey Milk St, Portland, OR 97205, USA",
+  "phone": "(971) 346-2259",
+  "internationalPhone": "+1 971-346-2259",
+  "website": "http://www.nuvrei.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17601704123099136580",
+  "rating": 4.6,
+  "reviewCount": 794,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5223203,
+    -122.6826649
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Petite bakery open for breakfast & lunch, specializing in coffee, sandwiches & French pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nuvrei-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nuvrei-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nuvrei-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nuvrei-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nuvrei-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:23:33.406Z"
+}

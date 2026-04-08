@@ -1,0 +1,49 @@
+{
+  "slug": "grand-central-bakery-burien",
+  "name": "Grand Central Bakery",
+  "curatedName": "Grand Central Bakery",
+  "city": "Burien",
+  "country": "United States",
+  "placeId": "ChIJZ9yYpJxEkFQR7Ffgb5wAUWE",
+  "googleName": "Grand Central Bakery - Burien cafe",
+  "formattedAddress": "626 SW 152nd St, Burien, WA 98166, USA",
+  "phone": "(206) 436-1065",
+  "internationalPhone": "+1 206-436-1065",
+  "website": "https://www.grandcentralbakery.com/burien",
+  "googleMapsUrl": "https://maps.google.com/?cid=7012386766684444652",
+  "rating": 4.5,
+  "reviewCount": 845,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.466987,
+    -122.343026
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Artisan bakery & cafe offering breads, pastries, soups & sandwiches made from local ingredients.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grand-central-bakery-burien/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grand-central-bakery-burien/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grand-central-bakery-burien/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grand-central-bakery-burien/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grand-central-bakery-burien/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:14:42.094Z"
+}

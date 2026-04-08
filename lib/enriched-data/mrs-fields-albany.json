@@ -1,0 +1,47 @@
+{
+  "slug": "mrs-fields-albany",
+  "name": "Mrs. Fields",
+  "curatedName": "Mrs. Fields",
+  "city": "Albany",
+  "country": "United States",
+  "placeId": "ChIJc6bOxEl13okRCR3ccYb0bDc",
+  "googleName": "Mrs. Fields",
+  "formattedAddress": "1 Crossgates Mall Rd, Albany, NY 12203, USA",
+  "phone": "(518) 918-6255",
+  "internationalPhone": "+1 518-918-6255",
+  "website": "https://store.mrsfields.com/store/crossgatesmall/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3993835827843833097",
+  "rating": 2.5,
+  "reviewCount": 19,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.689963,
+    -73.8501765
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Mall-based chain offering cookies, brownies & personalized cookie cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mrs-fields-albany/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mrs-fields-albany/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mrs-fields-albany/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mrs-fields-albany/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mrs-fields-albany/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:37:01.090Z"
+}

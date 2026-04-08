@@ -1,0 +1,47 @@
+{
+  "slug": "liguria-bakery-san-francisco",
+  "name": "Liguria Bakery",
+  "curatedName": "Liguria Bakery",
+  "city": "San Francisco",
+  "country": "United States",
+  "placeId": "ChIJa4qDAvGAhYARmSfVMvBmhp0",
+  "googleName": "Liguria Bakery",
+  "formattedAddress": "1700 Stockton St, San Francisco, CA 94133, USA",
+  "phone": "(415) 421-3786",
+  "internationalPhone": "+1 415-421-3786",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11350873092664928153",
+  "rating": 4.8,
+  "reviewCount": 444,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.801528,
+    -122.4092657
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 12:00 PM",
+    "Wednesday: 7:00 AM – 12:00 PM",
+    "Thursday: 7:00 AM – 12:00 PM",
+    "Friday: 7:00 AM – 12:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Classic counter-serve Italian storefront doling out handmade green onion, rosemary & pizza focaccia.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/liguria-bakery-san-francisco/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/liguria-bakery-san-francisco/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/liguria-bakery-san-francisco/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/liguria-bakery-san-francisco/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/liguria-bakery-san-francisco/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:20:05.551Z"
+}

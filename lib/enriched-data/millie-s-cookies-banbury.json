@@ -1,0 +1,47 @@
+{
+  "slug": "millie-s-cookies-banbury",
+  "name": "Millie's Cookies",
+  "curatedName": "Millie's Cookies",
+  "city": "Banbury",
+  "country": "United Kingdom",
+  "placeId": "ChIJgTmisIi8cEgRZjUIBldUULQ",
+  "googleName": "Millies Cookie's Birmingham Bull Ring Shopping Centre",
+  "formattedAddress": "Unit K7, Smallbrook Queensway, Birmingham B5 4BE, UK",
+  "phone": "0121 616 1624",
+  "internationalPhone": "+44 121 616 1624",
+  "website": "https://www.milliescookies.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12992977657703970150",
+  "rating": 4.6,
+  "reviewCount": 427,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.4773363,
+    -1.8960302
+  ],
+  "openingHours": [
+    "Monday: 9:15 AM – 5:30 PM",
+    "Tuesday: 9:15 AM – 7:00 PM",
+    "Wednesday: 9:15 AM – 7:00 PM",
+    "Thursday: 9:15 AM – 7:00 PM",
+    "Friday: 9:15 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/millie-s-cookies-banbury/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/millie-s-cookies-banbury/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/millie-s-cookies-banbury/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/millie-s-cookies-banbury/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/millie-s-cookies-banbury/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:52:40.694Z"
+}

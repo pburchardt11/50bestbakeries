@@ -1,0 +1,48 @@
+{
+  "slug": "backhaus-hennig-altenburg",
+  "name": "Backhaus Hennig",
+  "curatedName": "Backhaus Hennig",
+  "city": "Altenburg",
+  "country": "Germany",
+  "placeId": "ChIJS6laH4TfpkcRNhgUTR-ZqFc",
+  "googleName": "Backhaus Hennig - Back Café",
+  "formattedAddress": "Kornmarkt 7-8, 04600 Altenburg, Germany",
+  "phone": "03447 509725",
+  "internationalPhone": "+49 3447 509725",
+  "website": "https://www.backhaus-hennig.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6316466837103319094",
+  "rating": 4.5,
+  "reviewCount": 722,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.984288,
+    12.4339551
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhaus-hennig-altenburg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhaus-hennig-altenburg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhaus-hennig-altenburg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhaus-hennig-altenburg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhaus-hennig-altenburg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:47:19.141Z"
+}

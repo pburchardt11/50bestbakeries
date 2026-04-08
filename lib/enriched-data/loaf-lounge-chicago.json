@@ -1,0 +1,46 @@
+{
+  "slug": "loaf-lounge-chicago",
+  "name": "Loaf Lounge",
+  "curatedName": "Loaf Lounge",
+  "city": "Chicago",
+  "country": "United States",
+  "placeId": "ChIJ0xyjQETND4gRaX412C9BD_4",
+  "googleName": "Loaf Lounge",
+  "formattedAddress": "2934 N Milwaukee Ave Suite E, Chicago, IL 60618, USA",
+  "phone": "(773) 904-7852",
+  "internationalPhone": "+1 773-904-7852",
+  "website": "https://www.loafloungechicago.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18306922684031008361",
+  "rating": 4.6,
+  "reviewCount": 454,
+  "priceLevel": 2,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.9345637,
+    -87.7166469
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loaf-lounge-chicago/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loaf-lounge-chicago/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loaf-lounge-chicago/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loaf-lounge-chicago/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loaf-lounge-chicago/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:20:25.811Z"
+}

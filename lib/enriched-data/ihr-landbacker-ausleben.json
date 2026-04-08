@@ -1,0 +1,47 @@
+{
+  "slug": "ihr-landbacker-ausleben",
+  "name": "Ihr Landbäcker",
+  "curatedName": "Ihr Landbäcker",
+  "city": "Ausleben",
+  "country": "Germany",
+  "placeId": "ChIJtahWhdmDpUcR5Eex0fqMms8",
+  "googleName": "Ihr Landbäcker",
+  "formattedAddress": "Str. d. Einheit 26A, 39393 Ausleben, Germany",
+  "phone": "01520 9010158",
+  "internationalPhone": "+49 1520 9010158",
+  "website": "https://www.ihrlandbaecker.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14959424121152292836",
+  "rating": 4.2,
+  "reviewCount": 84,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.0875457,
+    11.119099
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: 7:00 – 9:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ihr-landbacker-ausleben/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ihr-landbacker-ausleben/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ihr-landbacker-ausleben/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ihr-landbacker-ausleben/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ihr-landbacker-ausleben/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:00:57.297Z"
+}

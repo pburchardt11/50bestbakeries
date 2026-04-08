@@ -1,0 +1,49 @@
+{
+  "slug": "backerei-schneider-gmbh-aachen",
+  "name": "Bäckerei Schneider GmbH",
+  "curatedName": "Bäckerei Schneider GmbH",
+  "city": "Aachen",
+  "country": "Germany",
+  "placeId": "ChIJHQoHjlujwEcRK52W7sJ5Y8g",
+  "googleName": "Bäckerei Schneider GmbH",
+  "formattedAddress": "Heerlener Str. 233, 52531 Übach-Palenberg, Germany",
+  "phone": "02451 4090751",
+  "internationalPhone": "+49 2451 4090751",
+  "website": "https://www.baecker-schneider.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14439518708413406507",
+  "rating": 4.3,
+  "reviewCount": 307,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.9314457,
+    6.072692099999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-schneider-gmbh-aachen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-schneider-gmbh-aachen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-schneider-gmbh-aachen/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-schneider-gmbh-aachen/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-schneider-gmbh-aachen/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:43:43.183Z"
+}

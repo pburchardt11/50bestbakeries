@@ -1,0 +1,49 @@
+{
+  "slug": "big-apple-bagels-appleton",
+  "name": "Big Apple Bagels",
+  "curatedName": "Big Apple Bagels",
+  "city": "Appleton",
+  "country": "United States",
+  "placeId": "ChIJv75ICl-wA4gRXRDxMrnav7c",
+  "googleName": "Big Apple Bagels",
+  "formattedAddress": "2400 S Kensington Dr, Appleton, WI 54915, USA",
+  "phone": "(920) 733-3120",
+  "internationalPhone": "+1 920-733-3120",
+  "website": "https://appleton.orderbigapplebagels.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13240541918451011677",
+  "rating": 4.2,
+  "reviewCount": 282,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.2401365,
+    -88.36013229999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": "Counter-serve chain for coffee, sandwiches & basic breakfast fare including muffins & bagels.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/big-apple-bagels-appleton/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/big-apple-bagels-appleton/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/big-apple-bagels-appleton/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/big-apple-bagels-appleton/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/big-apple-bagels-appleton/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:00:09.205Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "boulangerie-murciano-paris",
+  "name": "Boulangerie Murciano",
+  "curatedName": "Boulangerie Murciano",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJOVXGaQJu5kcRqaKsZANMyKk",
+  "googleName": "Boulangerie Murciano",
+  "formattedAddress": "16 Rue des Rosiers, 75004 Paris, France",
+  "phone": "01 48 87 48 88",
+  "internationalPhone": "+33 1 48 87 48 88",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12234111965209600681",
+  "rating": 4.1,
+  "reviewCount": 553,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.85702070000001,
+    2.3598353
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: 8:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Elegant counter-serve stop presenting delicate French & Ashkenazi pastries, plus bread & coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-murciano-paris/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-murciano-paris/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-murciano-paris/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-murciano-paris/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-murciano-paris/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:43:30.491Z"
+}

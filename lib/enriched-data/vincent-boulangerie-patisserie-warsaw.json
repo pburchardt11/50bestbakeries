@@ -1,0 +1,49 @@
+{
+  "slug": "vincent-boulangerie-patisserie-warsaw",
+  "name": "Vincent Boulangerie Patisserie",
+  "curatedName": "Vincent Boulangerie Patisserie",
+  "city": "Warsaw",
+  "country": "Poland",
+  "placeId": "ChIJgxwpY1_MHkcRTr8AwQJYq28",
+  "googleName": "Vincent Bakery & Café",
+  "formattedAddress": "Nowy Świat 64, 00-357 Warszawa, Poland",
+  "phone": "536 104 432",
+  "internationalPhone": "+48 536 104 432",
+  "website": "http://www.vincentcafe.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8046621928078753614",
+  "rating": 4.1,
+  "reviewCount": 1939,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.2361338,
+    21.0183712
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 12:00 AM",
+    "Saturday: 7:30 AM – 12:00 AM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vincent-boulangerie-patisserie-warsaw/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vincent-boulangerie-patisserie-warsaw/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vincent-boulangerie-patisserie-warsaw/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vincent-boulangerie-patisserie-warsaw/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vincent-boulangerie-patisserie-warsaw/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:31:28.833Z"
+}

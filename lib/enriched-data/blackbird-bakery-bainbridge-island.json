@@ -1,0 +1,49 @@
+{
+  "slug": "blackbird-bakery-bainbridge-island",
+  "name": "Blackbird Bakery",
+  "curatedName": "Blackbird Bakery",
+  "city": "Bainbridge Island",
+  "country": "United States",
+  "placeId": "ChIJz1FUY7c-kFQRkh2K1_on-7o",
+  "googleName": "Blackbird Bakery",
+  "formattedAddress": "210 Winslow Way E, Bainbridge Island, WA 98110, USA",
+  "phone": "(206) 780-1322",
+  "internationalPhone": "+1 206-780-1322",
+  "website": "http://blackbirdbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13473406668520430994",
+  "rating": 4.5,
+  "reviewCount": 904,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.62497279999999,
+    -122.5194804
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Quaint bakery crafting coffee drinks, pastries & cakes, plus savory tarts, breads & soups.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blackbird-bakery-bainbridge-island/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blackbird-bakery-bainbridge-island/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blackbird-bakery-bainbridge-island/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blackbird-bakery-bainbridge-island/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blackbird-bakery-bainbridge-island/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:01:21.985Z"
+}

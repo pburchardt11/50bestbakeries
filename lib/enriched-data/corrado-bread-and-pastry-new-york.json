@@ -1,0 +1,47 @@
+{
+  "slug": "corrado-bread-and-pastry-new-york",
+  "name": "Corrado Bread and Pastry",
+  "curatedName": "Corrado Bread and Pastry",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJq6pWnKRYwokRJ0t3GQtrhf8",
+  "googleName": "Corrado Bread & Pastry",
+  "formattedAddress": "1361 Lexington Ave, New York, NY 10128, USA",
+  "phone": "(212) 348-8943",
+  "internationalPhone": "+1 212-348-8943",
+  "website": "https://corradobreadandpastry.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18412240346990201639",
+  "rating": 4.7,
+  "reviewCount": 95,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.78208739999999,
+    -73.9535221
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/corrado-bread-and-pastry-new-york/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/corrado-bread-and-pastry-new-york/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/corrado-bread-and-pastry-new-york/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/corrado-bread-and-pastry-new-york/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/corrado-bread-and-pastry-new-york/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:34:25.113Z"
+}

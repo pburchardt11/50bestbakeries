@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-polvillo-alcala-de-guadaira",
+  "name": "Panaderia Polvillo",
+  "curatedName": "Panaderia Polvillo",
+  "city": "Alcalá de Guadaíra",
+  "country": "Spain",
+  "placeId": "ChIJn9jFXdlkEg0RR-EOGxMf28c",
+  "googleName": "Pan de Polvillo",
+  "formattedAddress": "C. Duquesa de Talavera, 45, 41500 Alcalá de Guadaíra, Sevilla, Spain",
+  "phone": "955 38 68 01",
+  "internationalPhone": "+34 955 38 68 01",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14401138400366092615",
+  "rating": 3.8,
+  "reviewCount": 17,
+  "priceLevel": 1,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "CLOSED_TEMPORARILY",
+  "coords": [
+    37.3384836,
+    -5.8516016
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:48:09.089Z"
+}

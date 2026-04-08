@@ -1,0 +1,47 @@
+{
+  "slug": "mother-s-cookies-louisville",
+  "name": "Mother's Cookies",
+  "curatedName": "Mother's Cookies",
+  "city": "Louisville",
+  "country": "United States",
+  "placeId": "ChIJu_H-JswMaYgR9W-Z--6PPUk",
+  "googleName": "Kizito Cookies",
+  "formattedAddress": "1398 Bardstown Rd, Louisville, KY 40204, USA",
+  "phone": "(502) 456-2891",
+  "internationalPhone": "+1 502-456-2891",
+  "website": "http://kizito.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5277532594934214645",
+  "rating": 4.9,
+  "reviewCount": 231,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.233304,
+    -85.71199999999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mother-s-cookies-louisville/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mother-s-cookies-louisville/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mother-s-cookies-louisville/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mother-s-cookies-louisville/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mother-s-cookies-louisville/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:22:54.396Z"
+}

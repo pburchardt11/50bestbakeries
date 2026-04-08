@@ -1,0 +1,49 @@
+{
+  "slug": "lou-s-restaurant-bakery-hanover",
+  "name": "Lou's Restaurant & Bakery",
+  "curatedName": "Lou's Restaurant & Bakery",
+  "city": "Hanover",
+  "country": "United States",
+  "placeId": "ChIJ8SbL3efJtEwRFAOBYXmo-ds",
+  "googleName": "Lou's Restaurant & Bakery",
+  "formattedAddress": "30 S Main St, Hanover, NH 03755, USA",
+  "phone": "(603) 643-3321",
+  "internationalPhone": "+1 603-643-3321",
+  "website": "https://lousrestaurant.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15850885602787525396",
+  "rating": 4.6,
+  "reviewCount": 1401,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.7015143,
+    -72.2892181
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 3:00 PM",
+    "Tuesday: 6:30 AM – 3:00 PM",
+    "Wednesday: 6:30 AM – 3:00 PM",
+    "Thursday: 6:30 AM – 3:00 PM",
+    "Friday: 6:30 AM – 3:00 PM",
+    "Saturday: 6:30 AM – 3:00 PM",
+    "Sunday: 6:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Breakfasts, diner-style lunches & baked treats in an old-timey locale open since 1947.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lou-s-restaurant-bakery-hanover/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lou-s-restaurant-bakery-hanover/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lou-s-restaurant-bakery-hanover/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lou-s-restaurant-bakery-hanover/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lou-s-restaurant-bakery-hanover/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:36:30.682Z"
+}

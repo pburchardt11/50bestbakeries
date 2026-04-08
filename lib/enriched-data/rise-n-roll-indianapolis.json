@@ -1,0 +1,47 @@
+{
+  "slug": "rise-n-roll-indianapolis",
+  "name": "Rise ‘N Roll",
+  "curatedName": "Rise ‘N Roll",
+  "city": "Indianapolis",
+  "country": "United States",
+  "placeId": "ChIJa7YTfudTa4gRj2pt_d-emww",
+  "googleName": "Rise'n Roll Bakery — Indianapolis",
+  "formattedAddress": "1115 E 86th St, Indianapolis, IN 46240, USA",
+  "phone": "(317) 207-9670",
+  "internationalPhone": "+1 317-207-9670",
+  "website": "https://risenroll.com/locations-nora/",
+  "googleMapsUrl": "https://maps.google.com/?cid=908494434711988879",
+  "rating": 4.8,
+  "reviewCount": 85,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.9121147,
+    -86.1389037
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 3:00 PM",
+    "Tuesday: 6:00 AM – 3:00 PM",
+    "Wednesday: 6:00 AM – 3:00 PM",
+    "Thursday: 6:00 AM – 3:00 PM",
+    "Friday: 6:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rise-n-roll-indianapolis/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rise-n-roll-indianapolis/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rise-n-roll-indianapolis/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rise-n-roll-indianapolis/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rise-n-roll-indianapolis/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:37:44.269Z"
+}

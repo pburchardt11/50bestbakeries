@@ -1,0 +1,47 @@
+{
+  "slug": "greyston-bakery-yonkers",
+  "name": "Greyston Bakery",
+  "curatedName": "Greyston Bakery",
+  "city": "Yonkers",
+  "country": "United States",
+  "placeId": "ChIJ1Zli_IftwokRUdZ_Nuh_aJU",
+  "googleName": "Greyston Bakery",
+  "formattedAddress": "104 Alexander St, Yonkers, NY 10701, USA",
+  "phone": "(914) 375-1510",
+  "internationalPhone": "+1 914-375-1510",
+  "website": "http://www.greystonbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10765995544552658513",
+  "rating": 4.6,
+  "reviewCount": 71,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.94104799999999,
+    -73.90039399999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greyston-bakery-yonkers/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greyston-bakery-yonkers/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greyston-bakery-yonkers/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greyston-bakery-yonkers/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greyston-bakery-yonkers/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:15:37.268Z"
+}

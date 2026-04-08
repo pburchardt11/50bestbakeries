@@ -1,0 +1,46 @@
+{
+  "slug": "ostrich-bakery-kaduna",
+  "name": "Ostrich Bakery",
+  "curatedName": "Ostrich Bakery",
+  "city": "Kaduna",
+  "country": "Nigeria",
+  "placeId": "ChIJwVfJtNtLTRAR8tE6q0_cDWc",
+  "googleName": "Ostrich Bakery",
+  "formattedAddress": "opp. Gtbank, Tunga, Kaduna 800283, Kaduna, Nigeria",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7425833595337101810",
+  "rating": 4,
+  "reviewCount": 25,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.5015183,
+    7.4408397
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ostrich-bakery-kaduna/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ostrich-bakery-kaduna/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ostrich-bakery-kaduna/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ostrich-bakery-kaduna/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ostrich-bakery-kaduna/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:02:41.322Z"
+}

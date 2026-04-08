@@ -1,0 +1,47 @@
+{
+  "slug": "boulangerie-la-paix-bafoussam",
+  "name": "Boulangerie La Paix",
+  "curatedName": "Boulangerie La Paix",
+  "city": "Bafoussam",
+  "country": "Cameroon",
+  "placeId": "ChIJdVDCIKOaXxAR6KcWx68A6AI",
+  "googleName": "Boulangerie La Paix",
+  "formattedAddress": "Bafoussam Djemoun, TOTAL d'en Bas , Route Foumbot, Bafoussam, Cameroon",
+  "phone": "6 73 48 58 00",
+  "internationalPhone": "+237 6 73 48 58 00",
+  "website": "https://boulangerielapaix.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=209418137632155624",
+  "rating": 3.7,
+  "reviewCount": 434,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    5.479813399999999,
+    10.4202357
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-la-paix-bafoussam/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-la-paix-bafoussam/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-la-paix-bafoussam/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-la-paix-bafoussam/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-la-paix-bafoussam/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T10:58:50.757Z"
+}

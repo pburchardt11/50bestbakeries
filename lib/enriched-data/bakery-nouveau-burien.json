@@ -1,0 +1,48 @@
+{
+  "slug": "bakery-nouveau-burien",
+  "name": "Bakery Nouveau",
+  "curatedName": "Bakery Nouveau",
+  "city": "Burien",
+  "country": "United States",
+  "placeId": "ChIJte_5YJxEkFQRzvxF_UqyCa0",
+  "googleName": "Bakery Nouveau",
+  "formattedAddress": "426 SW 153rd St, Burien, WA 98166, USA",
+  "phone": "(206) 717-2100",
+  "internationalPhone": "+1 206-717-2100",
+  "website": "http://www.bakerynouveau.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12468693078498475214",
+  "rating": 4.7,
+  "reviewCount": 1640,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.466204,
+    -122.340425
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Casual, counter-serve bakery doling out baked goods, chocolates, coffee & unique sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-nouveau-burien/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-nouveau-burien/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-nouveau-burien/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-nouveau-burien/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-nouveau-burien/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:56:20.991Z"
+}

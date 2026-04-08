@@ -1,0 +1,41 @@
+{
+  "slug": "unicorn-bake-shop-portland",
+  "name": "Unicorn Bake Shop",
+  "curatedName": "Unicorn Bake Shop",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJXxCIdrx1lVQRah7xxAIyLqY",
+  "googleName": "Unicorn Bake Shop",
+  "formattedAddress": "2824 SE Gladstone St, Portland, OR 97202, USA",
+  "phone": "(503) 477-9906",
+  "internationalPhone": "+1 503-477-9906",
+  "website": "https://www.unicornbakeshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11974563446700187242",
+  "rating": 4.6,
+  "reviewCount": 173,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    45.4931934,
+    -122.6369068
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/unicorn-bake-shop-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/unicorn-bake-shop-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/unicorn-bake-shop-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/unicorn-bake-shop-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/unicorn-bake-shop-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:31:25.161Z"
+}

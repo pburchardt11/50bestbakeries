@@ -1,0 +1,47 @@
+{
+  "slug": "chez-julien-estivareilles",
+  "name": "Chez Julien",
+  "curatedName": "Chez Julien",
+  "city": "Estivareilles",
+  "country": "France",
+  "placeId": "ChIJ9XyV-vah8EcRgKGLphaIeKI",
+  "googleName": "Chez Julien",
+  "formattedAddress": "9 Pl. du Lampier, 03190 Estivareilles, France",
+  "phone": "04 70 29 10 87",
+  "internationalPhone": "+33 4 70 29 10 87",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11707256862214431104",
+  "rating": 4.8,
+  "reviewCount": 29,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    46.425084,
+    2.6172871
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 1:00 PM, 4:00 – 7:00 PM",
+    "Wednesday: 7:00 AM – 1:00 PM",
+    "Thursday: 7:00 AM – 1:00 PM, 4:00 – 7:00 PM",
+    "Friday: 7:00 AM – 1:00 PM, 4:00 – 7:00 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chez-julien-estivareilles/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chez-julien-estivareilles/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chez-julien-estivareilles/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chez-julien-estivareilles/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chez-julien-estivareilles/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:47:59.975Z"
+}

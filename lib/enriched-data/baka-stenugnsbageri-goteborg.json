@@ -1,0 +1,48 @@
+{
+  "slug": "baka-stenugnsbageri-goteborg",
+  "name": "Baka stenugnsbageri",
+  "curatedName": "Baka stenugnsbageri",
+  "city": "Göteborg",
+  "country": "Sweden",
+  "placeId": "ChIJx4oa2rWMT0YRlYFhdg7kNxs",
+  "googleName": "BAKA Stenugnsbageri",
+  "formattedAddress": "Ostindiefararen 27, 417 65 Göteborg, Sweden",
+  "phone": "031-23 31 00",
+  "internationalPhone": "+46 31 23 31 00",
+  "website": "http://www.bakastenugnsbageri.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1961286913509917077",
+  "rating": 4.2,
+  "reviewCount": 425,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    57.6992556,
+    11.9096611
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baka-stenugnsbageri-goteborg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baka-stenugnsbageri-goteborg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baka-stenugnsbageri-goteborg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baka-stenugnsbageri-goteborg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baka-stenugnsbageri-goteborg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:11:53.010Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "baked-wired-washington",
+  "name": "Baked & Wired",
+  "curatedName": "Baked & Wired",
+  "city": "Washington",
+  "country": "United States",
+  "placeId": "ChIJh1gSd0y2t4kRVFtw1KAS1-E",
+  "googleName": "Baked & Wired",
+  "formattedAddress": "1052 Thomas Jefferson St NW, Washington, DC 20007, USA",
+  "phone": "(703) 663-8727",
+  "internationalPhone": "+1 703-663-8727",
+  "website": "https://bakedandwired.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16273496260494777172",
+  "rating": 4.5,
+  "reviewCount": 3768,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.9039997,
+    -77.0603429
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Artsy neighborhood bakery & coffeehouse supplying espresso drinks, big cupcakes & signature granola.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-wired-washington/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-wired-washington/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-wired-washington/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-wired-washington/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-wired-washington/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:53:29.924Z"
+}

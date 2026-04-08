@@ -1,0 +1,48 @@
+{
+  "slug": "banh-by-lauren-new-york",
+  "name": "Banh by Lauren",
+  "curatedName": "Banh by Lauren",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJWdM0kLNbwokR1n6Qzn5c-IU",
+  "googleName": "Bánh by Lauren",
+  "formattedAddress": "42 Market St, New York, NY 10002, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://banhbylauren.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9653567500969869014",
+  "rating": 4.4,
+  "reviewCount": 348,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7122385,
+    -73.9942257
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-by-lauren-new-york/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-by-lauren-new-york/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-by-lauren-new-york/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-by-lauren-new-york/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-by-lauren-new-york/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:57:48.160Z"
+}

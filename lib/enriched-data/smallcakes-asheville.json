@@ -1,0 +1,39 @@
+{
+  "slug": "smallcakes-asheville",
+  "name": "Smallcakes",
+  "curatedName": "Smallcakes",
+  "city": "Asheville",
+  "country": "United States",
+  "placeId": "ChIJh8zVu5DtWYgRsC_1YYh2Jgs",
+  "googleName": "Smallcakes Arcadia",
+  "formattedAddress": "33 Town Square Blvd Unit 130, Asheville, NC 28803, USA",
+  "phone": "(828) 676-2711",
+  "internationalPhone": "+1 828-676-2711",
+  "website": "https://smallcakesarcadia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=803459911663300528",
+  "rating": 4.7,
+  "reviewCount": 228,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    35.4846853,
+    -82.5564684
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/smallcakes-asheville/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/smallcakes-asheville/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/smallcakes-asheville/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/smallcakes-asheville/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/smallcakes-asheville/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:38:08.994Z"
+}

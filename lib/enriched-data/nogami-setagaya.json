@@ -1,0 +1,38 @@
+{
+  "slug": "nogami-setagaya",
+  "name": "Nogami",
+  "curatedName": "Nogami",
+  "city": "Setagaya",
+  "country": "Japan",
+  "placeId": "ChIJL0K-WCDzGGARvgzxPHb5_Uw",
+  "googleName": "Nogami",
+  "formattedAddress": "Japan, 〒164-0014 Tokyo, Nakano City, Minamidai, 1-chōme−14−７ 野上ビル",
+  "phone": "03-3376-1029",
+  "internationalPhone": "+81 3-3376-1029",
+  "website": "http://www.nogami-glass.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5547864602214206654",
+  "rating": 1,
+  "reviewCount": 1,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.683901,
+    139.673208
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:16:50.913Z"
+}

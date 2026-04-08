@@ -1,0 +1,49 @@
+{
+  "slug": "sebastiano-s-portland",
+  "name": "Sebastiano's",
+  "curatedName": "Sebastiano's",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJS3IbXMehlVQRdKCB6vdRTHI",
+  "googleName": "Sebastiano's",
+  "formattedAddress": "8235 SE 13th Ave Ste 7, Portland, OR 97202, USA",
+  "phone": "(971) 415-8714",
+  "internationalPhone": "+1 971-415-8714",
+  "website": "http://eatsebs.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8236047943786930292",
+  "rating": 4.6,
+  "reviewCount": 321,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "liquor_store",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4630997,
+    -122.6531646
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 3:00 PM",
+    "Tuesday: 9:00 AM – 3:00 PM",
+    "Wednesday: 9:00 AM – 3:00 PM",
+    "Thursday: 9:00 AM – 3:00 PM",
+    "Friday: 9:00 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sebastiano-s-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sebastiano-s-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sebastiano-s-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sebastiano-s-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sebastiano-s-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:27:50.990Z"
+}

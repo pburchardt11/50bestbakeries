@@ -1,0 +1,48 @@
+{
+  "slug": "l-atelier-papilles-la-vaupaliere",
+  "name": "L'atelier Papilles",
+  "curatedName": "L'atelier Papilles",
+  "city": "La Vaupalière",
+  "country": "France",
+  "placeId": "ChIJ2VHWX4Tn4EcR775g1nImlsg",
+  "googleName": "Boulangerie L'atelier Papilles La Vaupalière",
+  "formattedAddress": "2 Rue François Arago, 76150 La Vaupalière, France",
+  "phone": "02 76 78 70 78",
+  "internationalPhone": "+33 2 76 78 70 78",
+  "website": "https://latelier-papilles.com/latelier-papilles-la-vaupaliere/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+  "googleMapsUrl": "https://maps.google.com/?cid=14453782328756977391",
+  "rating": 4.5,
+  "reviewCount": 928,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.48325999999999,
+    1.0141789
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:30 PM",
+    "Tuesday: 6:30 AM – 7:30 PM",
+    "Wednesday: 6:30 AM – 7:30 PM",
+    "Thursday: 6:30 AM – 7:30 PM",
+    "Friday: 6:30 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 7:30 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-papilles-la-vaupaliere/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-papilles-la-vaupaliere/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-papilles-la-vaupaliere/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-papilles-la-vaupaliere/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-papilles-la-vaupaliere/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:50:03.704Z"
+}

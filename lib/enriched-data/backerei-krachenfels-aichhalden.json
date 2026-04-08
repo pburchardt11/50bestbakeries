@@ -1,0 +1,38 @@
+{
+  "slug": "backerei-krachenfels-aichhalden",
+  "name": "Bäckerei Krachenfels",
+  "curatedName": "Bäckerei Krachenfels",
+  "city": "Aichhalden",
+  "country": "Germany",
+  "placeId": "ChIJkSEMNgPIkEcRfByjOw6nwWs",
+  "googleName": "Bäckerei Krachenfels GmbH",
+  "formattedAddress": "Koppengässle 2, 78733 Aichhalden, Germany",
+  "phone": "07422 5605154",
+  "internationalPhone": "+49 7422 5605154",
+  "website": "https://krachenfels.org/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7764670912135371900",
+  "rating": 3.8,
+  "reviewCount": 68,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_TEMPORARILY",
+  "coords": [
+    48.26092,
+    8.40969
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-krachenfels-aichhalden/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-krachenfels-aichhalden/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-krachenfels-aichhalden/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-krachenfels-aichhalden/3.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:41:37.370Z"
+}

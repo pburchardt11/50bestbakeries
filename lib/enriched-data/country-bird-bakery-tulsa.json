@@ -1,0 +1,47 @@
+{
+  "slug": "country-bird-bakery-tulsa",
+  "name": "Country Bird Bakery",
+  "curatedName": "Country Bird Bakery",
+  "city": "Tulsa",
+  "country": "United States",
+  "placeId": "ChIJK-LVTDbttocRzM-3gVP-rpQ",
+  "googleName": "Country Bird Bakery",
+  "formattedAddress": "1644 E 3rd St unit b, Tulsa, OK 74120, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.countrybirdbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10713780198173036492",
+  "rating": 4.8,
+  "reviewCount": 174,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.1565133,
+    -95.96741379999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 10:00 AM – 2:00 PM",
+    "Friday: Closed",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/country-bird-bakery-tulsa/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/country-bird-bakery-tulsa/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/country-bird-bakery-tulsa/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/country-bird-bakery-tulsa/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/country-bird-bakery-tulsa/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:07:30.933Z"
+}

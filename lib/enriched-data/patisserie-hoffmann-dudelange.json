@@ -1,0 +1,47 @@
+{
+  "slug": "patisserie-hoffmann-dudelange",
+  "name": "Pâtisserie Hoffmann",
+  "curatedName": "Pâtisserie Hoffmann",
+  "city": "Dudelange",
+  "country": "Luxembourg",
+  "placeId": "ChIJsZsR0-Q2lUcRz4PW2ImQl6o",
+  "googleName": "Pâtisserie Hoffmann Dudelange",
+  "formattedAddress": "83 Av. Grande-Duchesse Charlotte, 3441 Dudelange, Luxembourg",
+  "phone": "26 51 29 30",
+  "internationalPhone": "+352 26 51 29 30",
+  "website": "http://www.patisserie-hoffmann.lu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12292452629653914575",
+  "rating": 4.2,
+  "reviewCount": 242,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.4801315,
+    6.0855806
+  ],
+  "openingHours": [
+    "Monday: 6:15 AM – 6:00 PM",
+    "Tuesday: 6:15 AM – 6:00 PM",
+    "Wednesday: 6:15 AM – 6:00 PM",
+    "Thursday: 6:15 AM – 6:00 PM",
+    "Friday: 6:15 AM – 6:00 PM",
+    "Saturday: 6:15 AM – 6:00 PM",
+    "Sunday: 6:15 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-hoffmann-dudelange/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-hoffmann-dudelange/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-hoffmann-dudelange/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-hoffmann-dudelange/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-hoffmann-dudelange/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:02:28.460Z"
+}

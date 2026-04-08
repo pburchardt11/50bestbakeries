@@ -1,0 +1,47 @@
+{
+  "slug": "milkau-braunschweig",
+  "name": "Milkau",
+  "curatedName": "Milkau",
+  "city": "Braunschweig",
+  "country": "Germany",
+  "placeId": "ChIJ1XkM0Hb2r0cRvUGVQoRkrZU",
+  "googleName": "Milkau - Der Stadtbäcker",
+  "formattedAddress": "Poststraße 5, 38100 Braunschweig, Germany",
+  "phone": "0531 885430",
+  "internationalPhone": "+49 531 885430",
+  "website": "http://www.milkau.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10785387201837744573",
+  "rating": 4.3,
+  "reviewCount": 22,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.262441,
+    10.5188314
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/milkau-braunschweig/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/milkau-braunschweig/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/milkau-braunschweig/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/milkau-braunschweig/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/milkau-braunschweig/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:07:54.277Z"
+}

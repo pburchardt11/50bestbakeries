@@ -1,0 +1,47 @@
+{
+  "slug": "bella-s-italian-bakery-portland",
+  "name": "Bella's Italian Bakery",
+  "curatedName": "Bella's Italian Bakery",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJ-6SA6OahlVQRSnMxP_rAaEU",
+  "googleName": "Bella's Italian Bakery",
+  "formattedAddress": "9119 SE Woodstock Blvd, Portland, OR 97266, USA",
+  "phone": "(971) 255-1212",
+  "internationalPhone": "+1 971-255-1212",
+  "website": "http://www.bellasitalianbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5001459567229498186",
+  "rating": 4.8,
+  "reviewCount": 581,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4793624,
+    -122.5695172
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bella-s-italian-bakery-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bella-s-italian-bakery-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bella-s-italian-bakery-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bella-s-italian-bakery-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bella-s-italian-bakery-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:58:19.133Z"
+}

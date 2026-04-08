@@ -1,0 +1,44 @@
+{
+  "slug": "leidenheimer-baking-co-new-orleans",
+  "name": "Leidenheimer Baking Co",
+  "curatedName": "Leidenheimer Baking Co",
+  "city": "New Orleans",
+  "country": "United States",
+  "placeId": "ChIJIcfJAtulIIYRb2njB9oY01M",
+  "googleName": "Leidenheimer Baking Co",
+  "formattedAddress": "1501 Simon Bolivar Ave, New Orleans, LA 70113, USA",
+  "phone": "(504) 525-1575",
+  "internationalPhone": "+1 504-525-1575",
+  "website": "http://www.leidenheimer.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6040198849948248431",
+  "rating": 4.6,
+  "reviewCount": 48,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.9422389,
+    -90.08222529999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leidenheimer-baking-co-new-orleans/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leidenheimer-baking-co-new-orleans/1.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:19:15.278Z"
+}

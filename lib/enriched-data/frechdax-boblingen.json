@@ -1,0 +1,48 @@
+{
+  "slug": "frechdax-boblingen",
+  "name": "FrechDax",
+  "curatedName": "FrechDax",
+  "city": "Böblingen",
+  "country": "Germany",
+  "placeId": "ChIJ7-YvaoPgmUcR_Bh0IHOV8eo",
+  "googleName": "FrechDax",
+  "formattedAddress": "Poststraße 6, 71032 Böblingen, Germany",
+  "phone": "07031 2091550",
+  "internationalPhone": "+49 7031 2091550",
+  "website": "https://www.frech-bb.de/content/125/82/ladengeschaefte/frechdax",
+  "googleMapsUrl": "https://maps.google.com/?cid=16929476795960662268",
+  "rating": 4,
+  "reviewCount": 1284,
+  "priceLevel": 2,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.6847831,
+    9.0101325
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/frechdax-boblingen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/frechdax-boblingen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/frechdax-boblingen/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/frechdax-boblingen/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/frechdax-boblingen/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:56:41.200Z"
+}

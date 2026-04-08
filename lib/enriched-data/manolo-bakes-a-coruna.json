@@ -1,0 +1,48 @@
+{
+  "slug": "manolo-bakes-a-coruna",
+  "name": "Manolo Bakes",
+  "curatedName": "Manolo Bakes",
+  "city": "A Coruña",
+  "country": "Spain",
+  "placeId": "ChIJpzW50bN9Lg0RqPwCZMCM7xg",
+  "googleName": "Manolo Bakes",
+  "formattedAddress": "R. Cantón Pequeno, 22, 15003 A Coruña, Spain",
+  "phone": "881 04 49 13",
+  "internationalPhone": "+34 881 04 49 13",
+  "website": "https://www.manolobakes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1796809534283644072",
+  "rating": 4,
+  "reviewCount": 2295,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.3670124,
+    -8.404569799999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/manolo-bakes-a-coruna/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/manolo-bakes-a-coruna/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/manolo-bakes-a-coruna/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/manolo-bakes-a-coruna/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/manolo-bakes-a-coruna/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:40:08.179Z"
+}

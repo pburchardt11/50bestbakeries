@@ -1,0 +1,47 @@
+{
+  "slug": "schafer-dein-backer-gmbh-co-andernach",
+  "name": "Schäfer, dein Bäcker GmbH & Co",
+  "curatedName": "Schäfer, dein Bäcker GmbH & Co",
+  "city": "Andernach",
+  "country": "Germany",
+  "placeId": "ChIJ40tdzDhhvkcRL705n43BXg8",
+  "googleName": "Schäfer Dein Bäcker GmbH",
+  "formattedAddress": "Koblenzer Str. 58, 56626 Andernach, Germany",
+  "phone": "02632 2939989",
+  "internationalPhone": "+49 2632 2939989",
+  "website": "https://www.schaefer-dein-baecker.de/neueroeffnung-in-andernach/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1107535372385631535",
+  "rating": 4,
+  "reviewCount": 170,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.4360857,
+    7.4180433
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schafer-dein-backer-gmbh-co-andernach/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schafer-dein-backer-gmbh-co-andernach/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schafer-dein-backer-gmbh-co-andernach/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schafer-dein-backer-gmbh-co-andernach/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schafer-dein-backer-gmbh-co-andernach/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:10:28.326Z"
+}

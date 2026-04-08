@@ -1,0 +1,47 @@
+{
+  "slug": "auntie-anne-s-aberdeen",
+  "name": "Auntie Anne's",
+  "curatedName": "Auntie Anne's",
+  "city": "Aberdeen",
+  "country": "United States",
+  "placeId": "ChIJQdNaZ4_Cx4kRk7jYx7sdWbc",
+  "googleName": "Auntie Anne's",
+  "formattedAddress": "Maryland House, I-95, Aberdeen, MD 21001, USA",
+  "phone": "(443) 681-2103",
+  "internationalPhone": "+1 443-681-2103",
+  "website": "https://locations.auntieannes.com/md/aberdeen/maryland-house-plaza-i-95-mm82?utm_source=google&utm_medium=organic&utm_campaign=locations_partner",
+  "googleMapsUrl": "https://maps.google.com/?cid=13211623674217019539",
+  "rating": 1.9,
+  "reviewCount": 49,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.4974737,
+    -76.2321644
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Global chain of counters dispensing sweet & savory soft pretzels with a variety of toppings & dips.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/auntie-anne-s-aberdeen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/auntie-anne-s-aberdeen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/auntie-anne-s-aberdeen/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/auntie-anne-s-aberdeen/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/auntie-anne-s-aberdeen/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:52:04.490Z"
+}

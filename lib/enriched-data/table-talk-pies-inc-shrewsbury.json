@@ -1,0 +1,43 @@
+{
+  "slug": "table-talk-pies-inc-shrewsbury",
+  "name": "Table Talk Pies Inc",
+  "curatedName": "Table Talk Pies Inc",
+  "city": "Shrewsbury",
+  "country": "United States",
+  "placeId": "ChIJS1n51woI5IkRl4YrIqk4eng",
+  "googleName": "Table Talk Pies Inc",
+  "formattedAddress": "28 Bowditch Dr, Worcester, MA 01605, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.tabletalkpie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8681313530783958679",
+  "rating": 4,
+  "reviewCount": 4,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.298938,
+    -71.75931
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 6:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/table-talk-pies-inc-shrewsbury/0.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:29:23.959Z"
+}

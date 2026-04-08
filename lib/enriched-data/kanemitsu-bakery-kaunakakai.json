@@ -1,0 +1,48 @@
+{
+  "slug": "kanemitsu-bakery-kaunakakai",
+  "name": "Kanemitsu Bakery",
+  "curatedName": "Kanemitsu Bakery",
+  "city": "Kaunakakai",
+  "country": "United States",
+  "placeId": "ChIJmQVrHhO2qn4RgVIyoIZ10KE",
+  "googleName": "Kanemitsu's Bakery & Coffee Shop",
+  "formattedAddress": "79 Ala Malama Ave, Kaunakakai, HI 96748, USA",
+  "phone": "(808) 553-5855",
+  "internationalPhone": "+1 808-553-5855",
+  "website": "https://m.facebook.com/pages/Kanemitsu-Bakery/159888850691014",
+  "googleMapsUrl": "https://maps.google.com/?cid=11659948656335934081",
+  "rating": 4.5,
+  "reviewCount": 301,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0908533,
+    -157.0208825
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 6:00 AM – 1:30 PM",
+    "Friday: 6:00 AM – 1:30 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: 6:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Simple, down-home bakery & cafe serving breakfast, lunch, pastries & fresh-baked bread since 1922.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kanemitsu-bakery-kaunakakai/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kanemitsu-bakery-kaunakakai/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kanemitsu-bakery-kaunakakai/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kanemitsu-bakery-kaunakakai/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kanemitsu-bakery-kaunakakai/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:42:13.611Z"
+}

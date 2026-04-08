@@ -1,0 +1,48 @@
+{
+  "slug": "vie-de-france-cafe",
+  "name": "Vie de France Cafe",
+  "curatedName": "Vie de France Cafe",
+  "city": "千葉市美浜区",
+  "country": "Japan",
+  "placeId": "ChIJ3bMIWTWCImARHAqkUuMDRTA",
+  "googleName": "VIE DE FRANCE Kemigawahama",
+  "formattedAddress": "Japan, 〒261-0011 Chiba, Mihama Ward, Masago, 4-chōme−2−１ 「ペリエ検見川浜」１F",
+  "phone": "043-278-1650",
+  "internationalPhone": "+81 43-278-1650",
+  "website": "https://shop.viedefrance.co.jp/detail/94/?utm_source=google&utm_medium=maps&utm_campaign=gbp",
+  "googleMapsUrl": "https://maps.google.com/?cid=3478190562092517916",
+  "rating": 3.6,
+  "reviewCount": 92,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.6373519,
+    140.0590857
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "French-inspired chain with housemade baked goods & cafe fare, such as sandwiches, salads & soups.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vie-de-france-cafe/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vie-de-france-cafe/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vie-de-france-cafe/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vie-de-france-cafe/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vie-de-france-cafe/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:21:28.357Z"
+}

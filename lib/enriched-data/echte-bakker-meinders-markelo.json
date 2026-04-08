@@ -1,0 +1,47 @@
+{
+  "slug": "echte-bakker-meinders-markelo",
+  "name": "Echte Bakker Meinders",
+  "curatedName": "Echte Bakker Meinders",
+  "city": "Markelo",
+  "country": "Netherlands",
+  "placeId": "ChIJwSiAu1r0x0cRONj1MhuuNTw",
+  "googleName": "De Echte Bakker , Meinders",
+  "formattedAddress": "Grotestraat 7, 7475 AZ Markelo, Netherlands",
+  "phone": "0547 361 374",
+  "internationalPhone": "+31 547 361 374",
+  "website": "https://bakkermeinders.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4338565247883663416",
+  "rating": 4.3,
+  "reviewCount": 64,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.2352121,
+    6.4935936
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:15 AM – 6:00 PM",
+    "Wednesday: 8:15 AM – 6:00 PM",
+    "Thursday: 8:15 AM – 6:00 PM",
+    "Friday: 8:15 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/echte-bakker-meinders-markelo/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/echte-bakker-meinders-markelo/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/echte-bakker-meinders-markelo/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/echte-bakker-meinders-markelo/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/echte-bakker-meinders-markelo/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:34:35.509Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "ferguson-plarre-s-bakehouse-melbourne",
+  "name": "Ferguson Plarre's Bakehouse",
+  "curatedName": "Ferguson Plarre's Bakehouse",
+  "city": "Melbourne",
+  "country": "Australia",
+  "placeId": "ChIJzaNDLjRd1moR-TIXjp3PHhc",
+  "googleName": "Ferguson Plarre's Bakehouse - Queen Victoria Market",
+  "formattedAddress": "In Dairy Hall, 513 Elizabeth St, Melbourne VIC 3000, Australia",
+  "phone": "0497 537 077",
+  "internationalPhone": "+61 497 537 077",
+  "website": "http://www.fergusonplarre.com.au/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=queen-victoria-market",
+  "googleMapsUrl": "https://maps.google.com/?cid=1665997187774362361",
+  "rating": 4,
+  "reviewCount": 72,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -37.8069387,
+    144.9591705
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 3:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 6:00 AM – 3:00 PM",
+    "Friday: 6:00 AM – 3:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ferguson-plarre-s-bakehouse-melbourne/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ferguson-plarre-s-bakehouse-melbourne/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ferguson-plarre-s-bakehouse-melbourne/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ferguson-plarre-s-bakehouse-melbourne/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ferguson-plarre-s-bakehouse-melbourne/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:35:19.229Z"
+}

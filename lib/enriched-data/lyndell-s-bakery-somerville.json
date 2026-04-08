@@ -1,0 +1,47 @@
+{
+  "slug": "lyndell-s-bakery-somerville",
+  "name": "Lyndell's Bakery",
+  "curatedName": "Lyndell's Bakery",
+  "city": "Somerville",
+  "country": "United States",
+  "placeId": "ChIJI8pDm9h244kRZ9d9v1BVhW4",
+  "googleName": "Lyndell's Bakery",
+  "formattedAddress": "720 Broadway, Somerville, MA 02144, USA",
+  "phone": "(617) 625-1793",
+  "internationalPhone": "+1 617-625-1793",
+  "website": "http://lyndells.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7963865321373030247",
+  "rating": 4.6,
+  "reviewCount": 577,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.3999947,
+    -71.1129722
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Enduring shop, opened in 1887, specializing in cakes, donuts & Italian treats.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lyndell-s-bakery-somerville/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lyndell-s-bakery-somerville/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lyndell-s-bakery-somerville/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lyndell-s-bakery-somerville/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lyndell-s-bakery-somerville/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:21:27.142Z"
+}

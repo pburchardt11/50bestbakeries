@@ -1,0 +1,47 @@
+{
+  "slug": "mei-sum-bakery-boston",
+  "name": "Mei Sum Bakery",
+  "curatedName": "Mei Sum Bakery",
+  "city": "Boston",
+  "country": "United States",
+  "placeId": "ChIJ2_jVI3h644kRdG9H7EZ2yoY",
+  "googleName": "Mei Sum Bakery",
+  "formattedAddress": "36 Beach St, Boston, MA 02111, USA",
+  "phone": "(617) 357-4050",
+  "internationalPhone": "+1 617-357-4050",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9712705593361788788",
+  "rating": 4.1,
+  "reviewCount": 113,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.3515326,
+    -71.0619966
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "No-frills counter-serve stop for Chinese pastries, banh mi & savory snacks like pork buns.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mei-sum-bakery-boston/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mei-sum-bakery-boston/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mei-sum-bakery-boston/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mei-sum-bakery-boston/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mei-sum-bakery-boston/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:22:11.979Z"
+}

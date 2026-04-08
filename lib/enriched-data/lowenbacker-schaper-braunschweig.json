@@ -1,0 +1,48 @@
+{
+  "slug": "lowenbacker-schaper-braunschweig",
+  "name": "Löwenbäcker Schaper",
+  "curatedName": "Löwenbäcker Schaper",
+  "city": "Braunschweig",
+  "country": "Germany",
+  "placeId": "ChIJX7QL9Hn2r0cRpMWCzfxW3rA",
+  "googleName": "Löwenbäcker Schaper",
+  "formattedAddress": "Alte Waage 1, 38100 Braunschweig, Germany",
+  "phone": "0531 61499531",
+  "internationalPhone": "+49 531 61499531",
+  "website": "http://loewenbaecker-schaper.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12744719639284729252",
+  "rating": 4,
+  "reviewCount": 540,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.26676879999999,
+    10.519719
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lowenbacker-schaper-braunschweig/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lowenbacker-schaper-braunschweig/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lowenbacker-schaper-braunschweig/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lowenbacker-schaper-braunschweig/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lowenbacker-schaper-braunschweig/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:07:19.008Z"
+}

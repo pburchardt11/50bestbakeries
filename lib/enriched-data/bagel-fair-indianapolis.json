@@ -1,0 +1,47 @@
+{
+  "slug": "bagel-fair-indianapolis",
+  "name": "Bagel Fair",
+  "curatedName": "Bagel Fair",
+  "city": "Indianapolis",
+  "country": "United States",
+  "placeId": "ChIJ95q-fCtTa4gR3TMHCTjn3b8",
+  "googleName": "Bagel Fair",
+  "formattedAddress": "1300 E 86th St Suite 19, Indianapolis, IN 46240, USA",
+  "phone": "(317) 846-0950",
+  "internationalPhone": "+1 317-846-0950",
+  "website": "http://www.bagelfair.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13825460658952942557",
+  "rating": 4.7,
+  "reviewCount": 353,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.91501909999999,
+    -86.13715959999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": "Take-out New York-style bagels served in a cash-only, family-run strip-mall shop since 1975.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bagel-fair-indianapolis/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bagel-fair-indianapolis/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bagel-fair-indianapolis/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bagel-fair-indianapolis/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bagel-fair-indianapolis/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:33:05.568Z"
+}

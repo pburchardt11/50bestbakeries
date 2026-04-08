@@ -1,0 +1,47 @@
+{
+  "slug": "pike-place-bakery-renton",
+  "name": "Pike Place Bakery",
+  "curatedName": "Pike Place Bakery",
+  "city": "Renton",
+  "country": "United States",
+  "placeId": "ChIJ08ytsAFokFQRDfomBK5iclc",
+  "googleName": "Pike Place Bakery",
+  "formattedAddress": "1222 Bronson Way N STE 150, Renton, WA 98057, USA",
+  "phone": "(425) 226-2340",
+  "internationalPhone": "+1 425-226-2340",
+  "website": "https://m.facebook.com/pages/Pike-Place-Bakery/162669900418841",
+  "googleMapsUrl": "https://maps.google.com/?cid=6301207328178240013",
+  "rating": 4.3,
+  "reviewCount": 25,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.4838304,
+    -122.2013889
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 6:30 AM – 2:30 PM",
+    "Friday: 6:30 AM – 2:30 PM",
+    "Saturday: 7:30 AM – 1:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Local family-owned institution creating donuts, bread & custom cakes since 1983.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pike-place-bakery-renton/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pike-place-bakery-renton/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pike-place-bakery-renton/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pike-place-bakery-renton/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pike-place-bakery-renton/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:25:01.058Z"
+}

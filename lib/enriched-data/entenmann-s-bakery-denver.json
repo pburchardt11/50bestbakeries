@@ -1,0 +1,47 @@
+{
+  "slug": "entenmann-s-bakery-denver",
+  "name": "Entenmann's Bakery",
+  "curatedName": "Entenmann's Bakery",
+  "city": "Denver",
+  "country": "United States",
+  "placeId": "ChIJedB6CeV9bIcRPMn9IhdDAYE",
+  "googleName": "Entenmann's Bakery",
+  "formattedAddress": "5050 E Evans Ave, Denver, CO 80222, USA",
+  "phone": "(303) 691-6342",
+  "internationalPhone": "+1 303-691-6342",
+  "website": "https://www.entenmanns.com/en",
+  "googleMapsUrl": "https://maps.google.com/?cid=9295784872519780668",
+  "rating": 4.8,
+  "reviewCount": 163,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.67816,
+    -104.9291967
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/entenmann-s-bakery-denver/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/entenmann-s-bakery-denver/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/entenmann-s-bakery-denver/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/entenmann-s-bakery-denver/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/entenmann-s-bakery-denver/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:11:03.776Z"
+}

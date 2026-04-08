@@ -1,0 +1,47 @@
+{
+  "slug": "chia-te-bakery-taipei",
+  "name": "佳德糕餅 Chia Te Bakery",
+  "curatedName": "佳德糕餅 Chia Te Bakery",
+  "city": "Taipei",
+  "country": "Taiwan",
+  "placeId": "ChIJdzzG5pSrQjQR8r_CfyXqf7U",
+  "googleName": "Chia Te Bakery",
+  "formattedAddress": "No. 88號, Section 5, Nanjing E Rd, Songshan District, Taipei City, Taiwan 105",
+  "phone": "02 8787 8186",
+  "internationalPhone": "+886 2 8787 8186",
+  "website": "https://www.chiate88.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13078429289685368818",
+  "rating": 4.2,
+  "reviewCount": 15672,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.0512434,
+    121.5614407
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:30 PM",
+    "Tuesday: 8:30 AM – 8:30 PM",
+    "Wednesday: 8:30 AM – 8:30 PM",
+    "Thursday: 8:30 AM – 8:30 PM",
+    "Friday: 8:30 AM – 8:30 PM",
+    "Saturday: 8:30 AM – 8:30 PM",
+    "Sunday: 8:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": "Popular with souvenir seekers, this bakery prepares pineapple cake & other traditional pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chia-te-bakery-taipei/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chia-te-bakery-taipei/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chia-te-bakery-taipei/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chia-te-bakery-taipei/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chia-te-bakery-taipei/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:05:21.463Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "georgetown-cupcake-new-york",
+  "name": "Georgetown Cupcake",
+  "curatedName": "Georgetown Cupcake",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJ1cArv45ZwokRat0jLRtNHRE",
+  "googleName": "Georgetown Cupcake",
+  "formattedAddress": "111 Mercer St, New York, NY 10012, USA",
+  "phone": "(212) 431-4504",
+  "internationalPhone": "+1 212-431-4504",
+  "website": "http://www.georgetowncupcake.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1233226652086164842",
+  "rating": 4.4,
+  "reviewCount": 885,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    40.7238625,
+    -73.9994124
+  ],
+  "openingHours": null,
+  "editorialSummary": "Celebrated bakery outlet crafting gourmet cupcakes in more than 100 flavors in chic digs.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/georgetown-cupcake-new-york/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/georgetown-cupcake-new-york/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/georgetown-cupcake-new-york/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/georgetown-cupcake-new-york/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/georgetown-cupcake-new-york/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:37:29.953Z"
+}

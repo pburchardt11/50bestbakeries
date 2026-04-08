@@ -1,0 +1,47 @@
+{
+  "slug": "galloways-bakers-ashton-in-makerfield",
+  "name": "Galloways Bakers",
+  "curatedName": "Galloways Bakers",
+  "city": "Ashton-in-Makerfield",
+  "country": "United Kingdom",
+  "placeId": "ChIJFa5b6-gFe0gRaS8qsK89vcQ",
+  "googleName": "Galloways Bakers",
+  "formattedAddress": "5b Gerard St, Ashton-in-Makerfield, Wigan WN4 9AE, UK",
+  "phone": "01942 728061",
+  "internationalPhone": "+44 1942 728061",
+  "website": "https://www.gallowaysbakers.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14176555026816315241",
+  "rating": 3.7,
+  "reviewCount": 19,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.4865952,
+    -2.6369427
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Bakery offering cakes & savouries, plus cooked breakfasts & pies made with locally sourced meat.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/galloways-bakers-ashton-in-makerfield/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/galloways-bakers-ashton-in-makerfield/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/galloways-bakers-ashton-in-makerfield/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/galloways-bakers-ashton-in-makerfield/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/galloways-bakers-ashton-in-makerfield/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:51:53.369Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "corner-bakery-cafe-amherst",
+  "name": "Corner Bakery Cafe",
+  "curatedName": "Corner Bakery Cafe",
+  "city": "Amherst",
+  "country": "United States",
+  "placeId": "ChIJJ8DdGPbN5okRzCVS4OLZVuU",
+  "googleName": "The Works Bakery Cafe",
+  "formattedAddress": "48 N Pleasant St, Amherst, MA 01002, USA",
+  "phone": "(877) 520-3921",
+  "internationalPhone": "+1 877-520-3921",
+  "website": "https://workscafe.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16525635451131930060",
+  "rating": 4.2,
+  "reviewCount": 440,
+  "priceLevel": 1,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.3764197,
+    -72.5203441
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Local counter-serve cafe chain offering breakfast & artisan sandwiches, plus coffee & smoothies",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/corner-bakery-cafe-amherst/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/corner-bakery-cafe-amherst/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/corner-bakery-cafe-amherst/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/corner-bakery-cafe-amherst/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/corner-bakery-cafe-amherst/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:07:06.820Z"
+}

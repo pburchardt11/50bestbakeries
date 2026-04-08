@@ -1,0 +1,49 @@
+{
+  "slug": "new-cascadia-traditional-portland",
+  "name": "New Cascadia Traditional",
+  "curatedName": "New Cascadia Traditional",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJK2yd6HQKlVQRKbkRWt1eBAQ",
+  "googleName": "New Cascadia Traditional",
+  "formattedAddress": "2502 SE Division St, Portland, OR 97202, USA",
+  "phone": "(503) 546-4901",
+  "internationalPhone": "+1 503-546-4901",
+  "website": "http://www.newcascadiatraditional.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=289460580850448681",
+  "rating": 4.5,
+  "reviewCount": 1081,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5046308,
+    -122.6401143
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM",
+    "Tuesday: 8:00 AM – 2:00 PM",
+    "Wednesday: 8:00 AM – 2:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Bakery specializing in gluten-free goods plus pizza, sandwiches & coffee in a bright space.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/new-cascadia-traditional-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/new-cascadia-traditional-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/new-cascadia-traditional-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/new-cascadia-traditional-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/new-cascadia-traditional-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:23:21.461Z"
+}

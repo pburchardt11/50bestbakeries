@@ -1,0 +1,47 @@
+{
+  "slug": "birds-anstey",
+  "name": "Birds",
+  "curatedName": "Birds",
+  "city": "Anstey",
+  "country": "United Kingdom",
+  "placeId": "ChIJQ1NfgnVgd0gRRvpYR4J5j7A",
+  "googleName": "Birds Bakery in Anstey",
+  "formattedAddress": "7 The Nook, Anstey, Leicester LE7 7AZ, UK",
+  "phone": "0116 236 7039",
+  "internationalPhone": "+44 116 236 7039",
+  "website": "https://birdsbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12722521072794663494",
+  "rating": 4.6,
+  "reviewCount": 121,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.6724112,
+    -1.1871984
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Specialist chain for bread, cakes & savoury pastries, plus takeaway sandwiches & lunchtime snacks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/birds-anstey/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/birds-anstey/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/birds-anstey/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/birds-anstey/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/birds-anstey/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:56:51.253Z"
+}

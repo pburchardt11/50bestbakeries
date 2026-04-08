@@ -1,0 +1,43 @@
+{
+  "slug": "cinnabon-abilene",
+  "name": "Cinnabon",
+  "curatedName": "Cinnabon",
+  "city": "Abilene",
+  "country": "United States",
+  "placeId": "ChIJkZskUKmPVoYRMaZmILIWuMM",
+  "googleName": "Cinnabon at Schlotzsky's",
+  "formattedAddress": "4518 S 14th St Ste 1350, Abilene, TX 79605, USA",
+  "phone": "(325) 695-2021",
+  "internationalPhone": "+1 325-695-2021",
+  "website": "https://locations.cinnabon.com/tx/abilene/4518-south-14th-street?utm_source=google&utm_medium=organic&utm_campaign=locations_partner",
+  "googleMapsUrl": "https://maps.google.com/?cid=14103047187414296113",
+  "rating": 1,
+  "reviewCount": 1,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.4312208,
+    -99.7821037
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Counter-serve chain serving cinnamon rolls plus other baked goods & specialty frozen beverages.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnabon-abilene/0.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:05:08.793Z"
+}

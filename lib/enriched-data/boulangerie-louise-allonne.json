@@ -1,0 +1,39 @@
+{
+  "slug": "boulangerie-louise-allonne",
+  "name": "Boulangerie Louise",
+  "curatedName": "Boulangerie Louise",
+  "city": "Allonne",
+  "country": "France",
+  "placeId": "ChIJ3f3_2sEA50cRgzM7aXI42us",
+  "googleName": "Boulangerie Louise",
+  "formattedAddress": "Parc de la Briqueterie, 1bis Anc. Rte de Paris, 60000 Allonne, France",
+  "phone": "09 67 24 37 34",
+  "internationalPhone": "+33 9 67 24 37 34",
+  "website": "http://www.boulangerielouise.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16994958207878902659",
+  "rating": 3.9,
+  "reviewCount": 347,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    49.4065862,
+    2.1144813
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-louise-allonne/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-louise-allonne/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-louise-allonne/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-louise-allonne/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-louise-allonne/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:34:15.369Z"
+}

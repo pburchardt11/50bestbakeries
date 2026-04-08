@@ -1,0 +1,48 @@
+{
+  "slug": "forn-de-la-vila-barcelona",
+  "name": "Forn de la Vila",
+  "curatedName": "Forn de la Vila",
+  "city": "Barcelona",
+  "country": "Spain",
+  "placeId": "ChIJK8MU-FWipBIRRaeGHj8b4KE",
+  "googleName": "Forn de la Vila",
+  "formattedAddress": "Carrer Ample, 33, Ciutat Vella, 08002 Barcelona, Spain",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11664352992798615365",
+  "rating": 4.3,
+  "reviewCount": 223,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.3805444,
+    2.1799429
+  ],
+  "openingHours": [
+    "Monday: 7:45 AM – 8:00 PM",
+    "Tuesday: 7:45 AM – 8:00 PM",
+    "Wednesday: 7:45 AM – 8:00 PM",
+    "Thursday: 7:45 AM – 8:00 PM",
+    "Friday: 7:45 AM – 8:00 PM",
+    "Saturday: 7:45 AM – 8:00 PM",
+    "Sunday: 7:45 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-la-vila-barcelona/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-la-vila-barcelona/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-la-vila-barcelona/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-la-vila-barcelona/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-la-vila-barcelona/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:11:41.476Z"
+}

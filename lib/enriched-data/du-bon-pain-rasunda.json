@@ -1,0 +1,48 @@
+{
+  "slug": "du-bon-pain-rasunda",
+  "name": "Du Bon Pain",
+  "curatedName": "Du Bon Pain",
+  "city": "Råsunda",
+  "country": "Sweden",
+  "placeId": "ChIJh4uhSMGdX0YRB2fuiuAOWX0",
+  "googleName": "Du Bon Pain - gott bröd",
+  "formattedAddress": "Tottvägen 5B, 169 54 Solna, Sweden",
+  "phone": "08-27 04 27",
+  "internationalPhone": "+46 8 27 04 27",
+  "website": "https://www.facebook.com/Du-Bon-Pain-gott-br%C3%B6d-176437885743081",
+  "googleMapsUrl": "https://maps.google.com/?cid=9032266885234583303",
+  "rating": 4.6,
+  "reviewCount": 327,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.3658964,
+    17.9950434
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:30 PM",
+    "Tuesday: 7:00 AM – 5:30 PM",
+    "Wednesday: 7:00 AM – 5:30 PM",
+    "Thursday: 7:00 AM – 5:30 PM",
+    "Friday: 7:00 AM – 5:30 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/du-bon-pain-rasunda/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/du-bon-pain-rasunda/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/du-bon-pain-rasunda/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/du-bon-pain-rasunda/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/du-bon-pain-rasunda/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:18:01.924Z"
+}

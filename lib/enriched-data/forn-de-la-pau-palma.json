@@ -1,0 +1,47 @@
+{
+  "slug": "forn-de-la-pau-palma",
+  "name": "Forn de la Pau",
+  "curatedName": "Forn de la Pau",
+  "city": "Palma",
+  "country": "Spain",
+  "placeId": "ChIJT-DpRVuSlxIRmydqTE3fmmE",
+  "googleName": "Forn de la Pau",
+  "formattedAddress": "Carrer de la Pau, 12, Centre, 07012 Palma, Illes Balears, Spain",
+  "phone": "971 72 78 55",
+  "internationalPhone": "+34 971 72 78 55",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7033179291179952027",
+  "rating": 4.4,
+  "reviewCount": 142,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.5709661,
+    2.6445944
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:30 PM",
+    "Tuesday: 7:00 AM – 1:30 PM",
+    "Wednesday: 7:00 AM – 1:30 PM",
+    "Thursday: 7:00 AM – 1:30 PM",
+    "Friday: 7:00 AM – 1:30 PM",
+    "Saturday: 7:30 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-la-pau-palma/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-la-pau-palma/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-la-pau-palma/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-la-pau-palma/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-la-pau-palma/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:22:12.774Z"
+}

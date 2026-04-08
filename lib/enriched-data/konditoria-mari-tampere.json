@@ -1,0 +1,48 @@
+{
+  "slug": "konditoria-mari-tampere",
+  "name": "Konditoria Mari",
+  "curatedName": "Konditoria Mari",
+  "city": "Tampere",
+  "country": "Finland",
+  "placeId": "ChIJRxyTnEPfjkYR9iZifokK_XU",
+  "googleName": "Konditoria Mari",
+  "formattedAddress": "Ahotie 34, 33800 Tampere, Finland",
+  "phone": "03 2144446",
+  "internationalPhone": "+358 3 2144446",
+  "website": "https://www.konditoriamari.fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8501963257192523510",
+  "rating": 4.8,
+  "reviewCount": 2247,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    61.48316430000001,
+    23.7944191
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditoria-mari-tampere/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditoria-mari-tampere/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditoria-mari-tampere/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditoria-mari-tampere/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditoria-mari-tampere/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:09:35.743Z"
+}

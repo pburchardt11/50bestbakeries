@@ -1,0 +1,45 @@
+{
+  "slug": "rotiboy-alor-setar",
+  "name": "Rotiboy",
+  "curatedName": "Rotiboy",
+  "city": "Alor Setar",
+  "country": "Malaysia",
+  "placeId": "ChIJ1cANm5lFSzARD3kBb7s6qEo",
+  "googleName": "Rotiboy CMart Alor Setar",
+  "formattedAddress": "Lot S15, 535, Jalan Teluk Wanjah, Bandar Alor Setar, 05200 Alor Setar, Kedah, Malaysia",
+  "phone": "019-987 4035",
+  "internationalPhone": "+60 19-987 4035",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5379614331589720335",
+  "rating": 4.8,
+  "reviewCount": 108,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    6.1247716,
+    100.3689347
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotiboy-alor-setar/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotiboy-alor-setar/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotiboy-alor-setar/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotiboy-alor-setar/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotiboy-alor-setar/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:04:11.029Z"
+}

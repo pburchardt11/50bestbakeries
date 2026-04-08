@@ -1,0 +1,43 @@
+{
+  "slug": "stangengruner-muhlenbackerei-bad-kostritz",
+  "name": "Stangengrüner Mühlenbäckerei",
+  "curatedName": "Stangengrüner Mühlenbäckerei",
+  "city": "Bad Köstritz",
+  "country": "Germany",
+  "placeId": "ChIJvUYWZfPFpkcRRIKk_w5rohk",
+  "googleName": "Stangengrüner Mühlenbäckerei",
+  "formattedAddress": "Johannes-R.-Becher-Straße 25, 07545 Gera, Germany",
+  "phone": "0365 5512077",
+  "internationalPhone": "+49 365 5512077",
+  "website": "https://www.stangengruener-muehlenbaeckerei.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1847156509338010180",
+  "rating": 3,
+  "reviewCount": 2,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.8965305,
+    12.0854678
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stangengruner-muhlenbackerei-bad-kostritz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:13:01.605Z"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "poundbakery-ashton-in-makerfield",
+  "name": "Poundbakery",
+  "curatedName": "Poundbakery",
+  "city": "Ashton-in-Makerfield",
+  "country": "United Kingdom",
+  "placeId": "ChIJz4z6Iv8Ee0gRCbsTY69MMRM",
+  "googleName": "Poundbakery",
+  "formattedAddress": "24 Gerard St, Ashton-in-Makerfield, Wigan WN4 9AA, UK",
+  "phone": "01942 718858",
+  "internationalPhone": "+44 1942 718858",
+  "website": "http://www.poundbakery.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1382970876744678153",
+  "rating": 4,
+  "reviewCount": 10,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    53.4870491,
+    -2.6373245
+  ],
+  "openingHours": null,
+  "editorialSummary": "Bakery chain offering deals on hot & cold baked goods, including sandwiches, cakes & breads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/poundbakery-ashton-in-makerfield/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/poundbakery-ashton-in-makerfield/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/poundbakery-ashton-in-makerfield/2.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:43:05.171Z"
+}

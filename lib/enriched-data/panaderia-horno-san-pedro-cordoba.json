@@ -1,0 +1,39 @@
+{
+  "slug": "panaderia-horno-san-pedro-cordoba",
+  "name": "Panadería Horno San Pedro",
+  "curatedName": "Panadería Horno San Pedro",
+  "city": "Córdoba",
+  "country": "Spain",
+  "placeId": "ChIJo6HJag_fbA0RVZrA1XqWaZE",
+  "googleName": "Panadería Horno San Pedro",
+  "formattedAddress": "C. Escultor Juan de Mesa, 10, Centro, 14002 Córdoba, Spain",
+  "phone": "957 47 44 82",
+  "internationalPhone": "+34 957 47 44 82",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10478071462370515541",
+  "rating": 4.4,
+  "reviewCount": 278,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_TEMPORARILY",
+  "coords": [
+    37.8828789,
+    -4.7725848
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-horno-san-pedro-cordoba/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-horno-san-pedro-cordoba/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-horno-san-pedro-cordoba/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-horno-san-pedro-cordoba/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-horno-san-pedro-cordoba/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:46:31.881Z"
+}

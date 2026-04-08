@@ -1,0 +1,41 @@
+{
+  "slug": "heiner-s-bakery-gallipolis",
+  "name": "Heiner's Bakery",
+  "curatedName": "Heiner's Bakery",
+  "city": "Gallipolis",
+  "country": "United States",
+  "placeId": "ChIJybIKLs6dSIgRv99r9xUv5wQ",
+  "googleName": "Heiner's Bakery Inc",
+  "formattedAddress": "1708 Eastern Ave, Gallipolis, OH 45631, USA",
+  "phone": "(740) 446-4552",
+  "internationalPhone": "+1 740-446-4552",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=353302867163733951",
+  "rating": 3.8,
+  "reviewCount": 37,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.8206165,
+    -82.1789421
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T12:16:04.731Z"
+}

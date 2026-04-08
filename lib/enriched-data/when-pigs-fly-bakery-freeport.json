@@ -1,0 +1,39 @@
+{
+  "slug": "when-pigs-fly-bakery-freeport",
+  "name": "When Pigs Fly Bakery",
+  "curatedName": "When Pigs Fly Bakery",
+  "city": "Freeport",
+  "country": "United States",
+  "placeId": "ChIJDzOVHT9-skwR6cSV4F0YGCU",
+  "googleName": "When Pigs Fly",
+  "formattedAddress": "21 Main St, Freeport, ME 04032, USA",
+  "phone": "(207) 865-6006",
+  "internationalPhone": "+1 207-865-6006",
+  "website": "https://sendbread.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2672913170323326185",
+  "rating": 4.7,
+  "reviewCount": 341,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    43.8551047,
+    -70.1069048
+  ],
+  "openingHours": null,
+  "editorialSummary": "Cozy bakery spotlighting housemade breads, plus cookies, cakes, jams & olive oils.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/when-pigs-fly-bakery-freeport/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/when-pigs-fly-bakery-freeport/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/when-pigs-fly-bakery-freeport/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/when-pigs-fly-bakery-freeport/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/when-pigs-fly-bakery-freeport/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:31:57.527Z"
+}

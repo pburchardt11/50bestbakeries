@@ -1,0 +1,47 @@
+{
+  "slug": "wiener-feinbackerei-heberer-gmbh-ahrensfelde",
+  "name": "Wiener Feinbäckerei Heberer GmbH",
+  "curatedName": "Wiener Feinbäckerei Heberer GmbH",
+  "city": "Ahrensfelde",
+  "country": "Germany",
+  "placeId": "ChIJy4gMPn5JqEcRZRphhEi5XEk",
+  "googleName": "Wiener Feinbäcker Heberer",
+  "formattedAddress": "Spree Center, Hellersdorfer Str. 77, 12619 Berlin, Germany",
+  "phone": "030 56045419",
+  "internationalPhone": "+49 30 56045419",
+  "website": "https://heberer.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5286303783735859813",
+  "rating": 4,
+  "reviewCount": 194,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.52122860000001,
+    13.5873738
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wiener-feinbackerei-heberer-gmbh-ahrensfelde/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wiener-feinbackerei-heberer-gmbh-ahrensfelde/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wiener-feinbackerei-heberer-gmbh-ahrensfelde/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wiener-feinbackerei-heberer-gmbh-ahrensfelde/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wiener-feinbackerei-heberer-gmbh-ahrensfelde/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:15:16.913Z"
+}

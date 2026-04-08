@@ -1,0 +1,49 @@
+{
+  "slug": "three-girls-bakery-big-rapids",
+  "name": "Three Girls Bakery",
+  "curatedName": "Three Girls Bakery",
+  "city": "Big Rapids",
+  "country": "United States",
+  "placeId": "ChIJv1YCSSrTGIgRJbNPJPqo5RY",
+  "googleName": "Three Girls Deli Bakery and Catering",
+  "formattedAddress": "106 N Michigan Ave, Big Rapids, MI 49307, USA",
+  "phone": "(231) 796-4822",
+  "internationalPhone": "+1 231-796-4822",
+  "website": "https://threegirlsbakery12.wixsite.com/threegirlsbakery123",
+  "googleMapsUrl": "https://maps.google.com/?cid=1649910630805648165",
+  "rating": 4.5,
+  "reviewCount": 111,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6986424,
+    -85.4817048
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/three-girls-bakery-big-rapids/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/three-girls-bakery-big-rapids/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/three-girls-bakery-big-rapids/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/three-girls-bakery-big-rapids/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/three-girls-bakery-big-rapids/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:30:48.861Z"
+}

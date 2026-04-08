@@ -1,0 +1,47 @@
+{
+  "slug": "o-h-danish-bakery-mt-pleasant",
+  "name": "O&H Danish Bakery",
+  "curatedName": "O&H Danish Bakery",
+  "city": "Mt Pleasant",
+  "country": "United States",
+  "placeId": "ChIJI3czxINCBYgRnshJMkRKtpo",
+  "googleName": "O&H DANISH BAKERY",
+  "formattedAddress": "5910 Washington Ave, Mt Pleasant, WI 53406, USA",
+  "phone": "(262) 504-7000",
+  "internationalPhone": "+1 262-504-7000",
+  "website": "https://stores.ohbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11148179584364169374",
+  "rating": 4.7,
+  "reviewCount": 1171,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.720132,
+    -87.851675
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/o-h-danish-bakery-mt-pleasant/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/o-h-danish-bakery-mt-pleasant/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/o-h-danish-bakery-mt-pleasant/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/o-h-danish-bakery-mt-pleasant/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/o-h-danish-bakery-mt-pleasant/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:37:18.390Z"
+}

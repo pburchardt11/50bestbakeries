@@ -1,0 +1,41 @@
+{
+  "slug": "burns-the-bread-castle-cary",
+  "name": "Burns the Bread",
+  "curatedName": "Burns the Bread",
+  "city": "Castle Cary",
+  "country": "United Kingdom",
+  "placeId": "ChIJt_5ulQ07ckgRV087Mlbf0F0",
+  "googleName": "Burns the Bread",
+  "formattedAddress": "15 Fore St, Castle Cary BA7 7BG, UK",
+  "phone": "01963 350779",
+  "internationalPhone": "+44 1963 350779",
+  "website": "http://www.burnsthebread.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6760148601986043735",
+  "rating": 5,
+  "reviewCount": 14,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.0887995,
+    -2.5142137
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:58:08.814Z"
+}

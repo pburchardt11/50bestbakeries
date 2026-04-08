@@ -1,0 +1,47 @@
+{
+  "slug": "salahuddin-bakery-johor-bahru",
+  "name": "Salahuddin Bakery",
+  "curatedName": "Salahuddin Bakery",
+  "city": "Johor Bahru",
+  "country": "Malaysia",
+  "placeId": "ChIJJZ72dQBz2jER5HY27mGgius",
+  "googleName": "Salahuddin Bakery",
+  "formattedAddress": "15, Jalan Jagong 1, Bandar Baru Uda, 81200 Johor Bahru, Johor Darul Ta'zim, Malaysia",
+  "phone": "012-766 8380",
+  "internationalPhone": "+60 12-766 8380",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16972554488167954148",
+  "rating": 4.5,
+  "reviewCount": 83,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.4923474,
+    103.7148015
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: Closed",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/salahuddin-bakery-johor-bahru/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/salahuddin-bakery-johor-bahru/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/salahuddin-bakery-johor-bahru/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/salahuddin-bakery-johor-bahru/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/salahuddin-bakery-johor-bahru/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:14:15.149Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "steinecke-berlin",
+  "name": "Steinecke",
+  "curatedName": "Steinecke",
+  "city": "Berlin",
+  "country": "Germany",
+  "placeId": "ChIJ-9cMg_5RqEcR9suwDWbeh5I",
+  "googleName": "Brotmeisterei Steinecke",
+  "formattedAddress": "Lützowpl., 10785 Berlin, Germany",
+  "phone": "030 85621862",
+  "internationalPhone": "+49 30 85621862",
+  "website": "https://www.steinecke.info/standorte/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10558652381291138038",
+  "rating": 3.7,
+  "reviewCount": 320,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.5054653,
+    13.3514029
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 4:30 PM",
+    "Sunday: 7:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/steinecke-berlin/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/steinecke-berlin/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/steinecke-berlin/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/steinecke-berlin/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/steinecke-berlin/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:13:37.722Z"
+}

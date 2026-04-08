@@ -1,0 +1,44 @@
+{
+  "slug": "kee-wah-bakery-cotai-strip",
+  "name": "Kee Wah Bakery (奇華餅家)",
+  "curatedName": "Kee Wah Bakery (奇華餅家)",
+  "city": "Cotai Strip",
+  "country": "China",
+  "placeId": "ChIJQxLbnQVwATQRSC3auazUWxg",
+  "googleName": "Kee Wah Bakery The Venetian Store",
+  "formattedAddress": "Estrada da Baia de Nossa Senhora da Esperanca, Macao",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1755230318108486984",
+  "rating": 4,
+  "reviewCount": 21,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.1488824,
+    113.5620387
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Outpost of a Hong Kong-based bakery offering Chinese pastries & other snacks, plus custom cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kee-wah-bakery-cotai-strip/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kee-wah-bakery-cotai-strip/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kee-wah-bakery-cotai-strip/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kee-wah-bakery-cotai-strip/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kee-wah-bakery-cotai-strip/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:05:49.557Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "konditorei-junge-butzow",
+  "name": "Konditorei Junge",
+  "curatedName": "Konditorei Junge",
+  "city": "Bützow",
+  "country": "Germany",
+  "placeId": "ChIJgYxqTjBIrEcRz5Ljdgiv01E",
+  "googleName": "Junge Die Bäckerei.",
+  "formattedAddress": "Langestraße 43, 18246 Bützow, Germany",
+  "phone": "038461 69026",
+  "internationalPhone": "+49 38461 69026",
+  "website": "https://www.jb.de/standorte/l/butzow/langestrasse-43/4595023?mtm_source=google&mtm_medium=uberall&mtm_campaign=323",
+  "googleMapsUrl": "https://maps.google.com/?cid=5896248788047336143",
+  "rating": 4.3,
+  "reviewCount": 293,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.8478802,
+    11.9820141
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:30 PM",
+    "Tuesday: 6:00 AM – 5:30 PM",
+    "Wednesday: 6:00 AM – 5:30 PM",
+    "Thursday: 6:00 AM – 5:30 PM",
+    "Friday: 6:00 AM – 5:30 PM",
+    "Saturday: 6:00 AM – 4:30 PM",
+    "Sunday: 6:00 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditorei-junge-butzow/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditorei-junge-butzow/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditorei-junge-butzow/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditorei-junge-butzow/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditorei-junge-butzow/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:04:51.598Z"
+}

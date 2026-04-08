@@ -1,0 +1,47 @@
+{
+  "slug": "atul-bakery-ahmedabad",
+  "name": "Atul Bakery",
+  "curatedName": "Atul Bakery",
+  "city": "Ahmedabad",
+  "country": "India",
+  "placeId": "ChIJOTdKIQ2FXjkRmTKrC55J2zM",
+  "googleName": "Atul Bakery | Raju Complex | Memnagar | Ahmedabad",
+  "formattedAddress": "Shop No. 5, Raju Complex, Gurukul Rd, Memnagar, Ahmedabad, Gujarat 380052, India",
+  "phone": "089805 08000",
+  "internationalPhone": "+91 89805 08000",
+  "website": "http://www.atulbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3736661258983387801",
+  "rating": 4.6,
+  "reviewCount": 265,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.047741,
+    72.5338621
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/atul-bakery-ahmedabad/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/atul-bakery-ahmedabad/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/atul-bakery-ahmedabad/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/atul-bakery-ahmedabad/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/atul-bakery-ahmedabad/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:09:45.083Z"
+}

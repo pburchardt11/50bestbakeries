@@ -1,0 +1,48 @@
+{
+  "slug": "laci-marupe",
+  "name": "Lāči",
+  "curatedName": "Lāči",
+  "city": "Mārupe",
+  "country": "Latvia",
+  "placeId": "ChIJwSKwrUTe7kYRvgye-wbFdd0",
+  "googleName": "Ceptuve Lāči",
+  "formattedAddress": "Benūžu Skauģi, Babītes pagasts, Mārupes novads, LV-2107, Latvia",
+  "phone": "66 047 555",
+  "internationalPhone": "+371 66 047 555",
+  "website": "http://www.laci.lv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15957877488439135422",
+  "rating": 4.4,
+  "reviewCount": 4454,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    56.89716079999999,
+    23.7162466
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laci-marupe/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laci-marupe/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laci-marupe/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laci-marupe/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laci-marupe/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T10:59:28.851Z"
+}

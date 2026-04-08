@@ -1,0 +1,46 @@
+{
+  "slug": "dom-chleba-dobczyce",
+  "name": "Dom Chleba",
+  "curatedName": "Dom Chleba",
+  "city": "Dobczyce",
+  "country": "Poland",
+  "placeId": "ChIJRS6fNvBqFkcRbiILeN0POsE",
+  "googleName": "Piekarnia Cukiernia Dom Chleba/ Dom weselny",
+  "formattedAddress": "Nowa Wieś 27, 32-410 Dobczyce, Poland",
+  "phone": "606 816 847",
+  "internationalPhone": "+48 606 816 847",
+  "website": "http://www.domchleba.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13923458641845494382",
+  "rating": 4.5,
+  "reviewCount": 116,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.9058799,
+    20.0520049
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dom-chleba-dobczyce/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dom-chleba-dobczyce/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dom-chleba-dobczyce/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dom-chleba-dobczyce/3.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:14:47.715Z"
+}

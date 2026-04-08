@@ -1,0 +1,49 @@
+{
+  "slug": "le-macaron-chapel-hill",
+  "name": "Le Macaron",
+  "curatedName": "Le Macaron",
+  "city": "Chapel Hill",
+  "country": "United States",
+  "placeId": "ChIJEfYnF0XDrIkROQLHaLljQto",
+  "googleName": "Le Macaron French Pastries Chapel Hill",
+  "formattedAddress": "140 W Franklin St #120, Chapel Hill, NC 27516, USA",
+  "phone": "(984) 234-3023",
+  "internationalPhone": "+1 984-234-3023",
+  "website": "https://lemacaronchapelhill.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15727242496709165625",
+  "rating": 4.3,
+  "reviewCount": 70,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.912527,
+    -79.0578274
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 8:30 PM",
+    "Saturday: 11:00 AM – 8:30 PM",
+    "Sunday: 11:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-macaron-chapel-hill/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-macaron-chapel-hill/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-macaron-chapel-hill/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-macaron-chapel-hill/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-macaron-chapel-hill/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:18:59.122Z"
+}

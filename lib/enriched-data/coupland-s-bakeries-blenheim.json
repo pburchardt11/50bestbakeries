@@ -1,0 +1,47 @@
+{
+  "slug": "coupland-s-bakeries-blenheim",
+  "name": "Coupland's Bakeries",
+  "curatedName": "Coupland's Bakeries",
+  "city": "Blenheim",
+  "country": "New Zealand",
+  "placeId": "ChIJ8cl_SJEUOW0R2a1M9E5VfVk",
+  "googleName": "Coupland's Bakeries - Blenheim",
+  "formattedAddress": "27 Grove Road, Mayfield, Blenheim 7201, New Zealand",
+  "phone": "03 579 4153",
+  "internationalPhone": "+64 3 579 4153",
+  "website": "https://www.couplands.co.nz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6448404039058894297",
+  "rating": 4.4,
+  "reviewCount": 759,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -41.5083422,
+    173.9587414
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:00 PM",
+    "Tuesday: 5:30 AM – 6:00 PM",
+    "Wednesday: 5:30 AM – 6:00 PM",
+    "Thursday: 5:30 AM – 6:00 PM",
+    "Friday: 5:30 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coupland-s-bakeries-blenheim/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coupland-s-bakeries-blenheim/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coupland-s-bakeries-blenheim/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coupland-s-bakeries-blenheim/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coupland-s-bakeries-blenheim/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:07:16.473Z"
+}

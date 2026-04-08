@@ -1,0 +1,48 @@
+{
+  "slug": "fleca-artesana-barcelona",
+  "name": "Fleca artesana",
+  "curatedName": "Fleca artesana",
+  "city": "Barcelona",
+  "country": "Spain",
+  "placeId": "ChIJ4zScjHejpBIRLLM6qL401Zw",
+  "googleName": "Artesano Panadería y Pastelería",
+  "formattedAddress": "Carrer de Sardenya, 443, local, Gràcia, 08025 Barcelona, Spain",
+  "phone": "617 11 00 14",
+  "internationalPhone": "+34 617 11 00 14",
+  "website": "https://www.artesanobcn.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11300996833426977580",
+  "rating": 4.9,
+  "reviewCount": 460,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.408545,
+    2.1663595
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 8:00 PM",
+    "Wednesday: 8:30 AM – 8:00 PM",
+    "Thursday: 8:30 AM – 8:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 3:00 PM",
+    "Sunday: 8:30 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleca-artesana-barcelona/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleca-artesana-barcelona/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleca-artesana-barcelona/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleca-artesana-barcelona/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleca-artesana-barcelona/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:17:49.376Z"
+}

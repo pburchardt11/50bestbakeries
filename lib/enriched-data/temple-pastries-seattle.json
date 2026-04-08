@@ -1,0 +1,48 @@
+{
+  "slug": "temple-pastries-seattle",
+  "name": "Temple Pastries",
+  "curatedName": "Temple Pastries",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJnZgkjuVrkFQRsJ6q5N-EsZA",
+  "googleName": "Temple Pastries",
+  "formattedAddress": "2524 S Jackson St #104, Seattle, WA 98144, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://templepastries.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10426260709488369328",
+  "rating": 4.5,
+  "reviewCount": 640,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.59961990000001,
+    -122.2988863
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/temple-pastries-seattle/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/temple-pastries-seattle/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/temple-pastries-seattle/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/temple-pastries-seattle/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/temple-pastries-seattle/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:29:53.301Z"
+}

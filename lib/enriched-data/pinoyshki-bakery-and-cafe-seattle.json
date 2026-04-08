@@ -1,0 +1,50 @@
+{
+  "slug": "pinoyshki-bakery-and-cafe-seattle",
+  "name": "Pinoyshki Bakery and Cafe",
+  "curatedName": "Pinoyshki Bakery and Cafe",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJYfC_iLBqkFQRsaJEBMBYm94",
+  "googleName": "Pinoyshki Bakery, Cafe & Bar",
+  "formattedAddress": "715 E Pine St, Seattle, WA 98122, USA",
+  "phone": "(206) 322-2820",
+  "internationalPhone": "+1 206-322-2820",
+  "website": "https://www.pinoyshki.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16040512079538725553",
+  "rating": 4.6,
+  "reviewCount": 1098,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.6150702,
+    -122.3226252
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 2:30 PM",
+    "Wednesday: 8:30 AM – 2:30 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: 8:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Savory & sweet Russian turnovers & other baked goods are the specialties at this counter-serve cafe.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pinoyshki-bakery-and-cafe-seattle/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pinoyshki-bakery-and-cafe-seattle/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pinoyshki-bakery-and-cafe-seattle/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pinoyshki-bakery-and-cafe-seattle/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pinoyshki-bakery-and-cafe-seattle/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:25:10.540Z"
+}

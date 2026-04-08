@@ -1,0 +1,34 @@
+{
+  "slug": "schmidt-baking-co-ashland",
+  "name": "Schmidt Baking Co",
+  "curatedName": "Schmidt Baking Co",
+  "city": "Ashland",
+  "country": "United States",
+  "placeId": "ChIJw6rnVfU5sYkR7ye5iSsVAoA",
+  "googleName": "Schmidt Baking Co",
+  "formattedAddress": "14140 Washington Hwy, Ashland, VA 23005, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9223958263546587119",
+  "rating": 4.7,
+  "reviewCount": 15,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.7916117,
+    -77.46586359999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schmidt-baking-co-ashland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:27:41.978Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "bakker-van-maanen-breukelen",
+  "name": "Bakker van Maanen",
+  "curatedName": "Bakker van Maanen",
+  "city": "Breukelen",
+  "country": "Netherlands",
+  "placeId": "ChIJLxgb_1JzxkcRhRdFgqpxFeg",
+  "googleName": "Bakker van Maanen",
+  "formattedAddress": "Markt 6, 3621 AB Breukelen, Netherlands",
+  "phone": "0346 728 047",
+  "internationalPhone": "+31 346 728 047",
+  "website": "https://www.bakkervanmaanen.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16723397768454150021",
+  "rating": 4.3,
+  "reviewCount": 9,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.1709895,
+    5.0037842
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-van-maanen-breukelen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-van-maanen-breukelen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-van-maanen-breukelen/2.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:25:49.335Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "wenzel-s-aldborough-hatch",
+  "name": "Wenzel's",
+  "curatedName": "Wenzel's",
+  "city": "Aldborough Hatch",
+  "country": "United Kingdom",
+  "placeId": "ChIJ8UhvN2Gn2EcRycTe0EKj0gI",
+  "googleName": "Wenzel's the Bakers",
+  "formattedAddress": "98 High Rd, Ilford IG1 1DS, UK",
+  "phone": "020 3393 6946",
+  "internationalPhone": "+44 20 3393 6946",
+  "website": "https://www.wenzels.co.uk/our-stores/ilford/",
+  "googleMapsUrl": "https://maps.google.com/?cid=203404440552522953",
+  "rating": 3.3,
+  "reviewCount": 62,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5586819,
+    0.0722145
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wenzel-s-aldborough-hatch/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wenzel-s-aldborough-hatch/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wenzel-s-aldborough-hatch/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wenzel-s-aldborough-hatch/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wenzel-s-aldborough-hatch/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:05:35.485Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "familijna-brzeg-dolny",
+  "name": "Familijna",
+  "curatedName": "Familijna",
+  "city": "Brzeg Dolny",
+  "country": "Poland",
+  "placeId": "ChIJP9rHzOibD0cRR3ZKYmmJ7ks",
+  "googleName": "Familijna Brzeg Dolny | Piekarnia | Cukiernia |",
+  "formattedAddress": "Leśmiana 1/B, 56-120 Brzeg Dolny, Poland",
+  "phone": "534 436 315",
+  "internationalPhone": "+48 534 436 315",
+  "website": "https://www.familijna.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5471461683015349831",
+  "rating": 4.8,
+  "reviewCount": 64,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.266614,
+    16.7061124
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/familijna-brzeg-dolny/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/familijna-brzeg-dolny/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/familijna-brzeg-dolny/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/familijna-brzeg-dolny/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/familijna-brzeg-dolny/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:17:19.151Z"
+}

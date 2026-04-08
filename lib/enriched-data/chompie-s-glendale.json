@@ -1,0 +1,48 @@
+{
+  "slug": "chompie-s-glendale",
+  "name": "Chompie's",
+  "curatedName": "Chompie's",
+  "city": "Glendale",
+  "country": "United States",
+  "placeId": "ChIJq_5kJDtoK4cRdoD1Cqnjoao",
+  "googleName": "Chompie's Restaurant, Deli, and Bakery",
+  "formattedAddress": "7700 W Arrowhead Towne Center #1145, Glendale, AZ 85308, USA",
+  "phone": "(623) 344-3104",
+  "internationalPhone": "+1 623-344-3104",
+  "website": "https://chompies.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12295358772871004278",
+  "rating": 4.2,
+  "reviewCount": 1796,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.6417345,
+    -112.2238013
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Breakfast faves, matzo ball soup & sandwiches make up the menu at this New York-style deli.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chompie-s-glendale/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chompie-s-glendale/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chompie-s-glendale/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chompie-s-glendale/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chompie-s-glendale/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:34:08.599Z"
+}

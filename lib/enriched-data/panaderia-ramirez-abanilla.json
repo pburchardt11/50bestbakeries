@@ -1,0 +1,47 @@
+{
+  "slug": "panaderia-ramirez-abanilla",
+  "name": "Panaderia Ramírez",
+  "curatedName": "Panaderia Ramírez",
+  "city": "Abanilla",
+  "country": "Spain",
+  "placeId": "ChIJF_EIbc0NoI8R666PNmqS_oE",
+  "googleName": "Ramirez Bakery Fortuna",
+  "formattedAddress": "F9C4+7X8, Av. 325, Provincia de Alajuela, La Fortuna, Costa Rica",
+  "phone": "8582 3839",
+  "internationalPhone": "+506 8582 3839",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9367085259856785131",
+  "rating": 4.6,
+  "reviewCount": 150,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.4706646,
+    -84.6425491
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-ramirez-abanilla/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-ramirez-abanilla/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-ramirez-abanilla/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-ramirez-abanilla/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-ramirez-abanilla/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:48:58.357Z"
+}

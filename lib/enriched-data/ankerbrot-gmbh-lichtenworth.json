@@ -1,0 +1,45 @@
+{
+  "slug": "ankerbrot-gmbh-lichtenworth",
+  "name": "Ankerbrot GmbH",
+  "curatedName": "Ankerbrot GmbH",
+  "city": "Lichtenwörth",
+  "country": "Austria",
+  "placeId": "ChIJLWUgRcY0bEcRzWkdR9XQtQI",
+  "googleName": "Linauer&Wagner \"Backstuben\" Backwarenproduktionsges.mbH",
+  "formattedAddress": "Bäckerstraße 1, 2493 Lichtenwörth, Austria",
+  "phone": "050 5189 1300",
+  "internationalPhone": "+43 50 5189 1300",
+  "website": "https://www.ankerbrot.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=195291773300206029",
+  "rating": 4.7,
+  "reviewCount": 28,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.81175229999999,
+    16.3339958
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ankerbrot-gmbh-lichtenworth/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ankerbrot-gmbh-lichtenworth/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ankerbrot-gmbh-lichtenworth/2.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:08:57.132Z"
+}

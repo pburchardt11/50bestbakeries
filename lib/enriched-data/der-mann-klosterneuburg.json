@@ -1,0 +1,48 @@
+{
+  "slug": "der-mann-klosterneuburg",
+  "name": "Der Mann",
+  "curatedName": "Der Mann",
+  "city": "Klosterneuburg",
+  "country": "Austria",
+  "placeId": "ChIJtVmWmf0PbUcRnKHBXT90UMQ",
+  "googleName": "DerMann, der verwöhnt",
+  "formattedAddress": "Niedermarkt 15, 3400 Klosterneuburg, Austria",
+  "phone": "01 866999184",
+  "internationalPhone": "+43 1 866999184",
+  "website": "https://www.dermann.at/filiale/niedermarkt-15/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14145934245075460508",
+  "rating": 4,
+  "reviewCount": 302,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.309377,
+    16.3256041
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/der-mann-klosterneuburg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/der-mann-klosterneuburg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/der-mann-klosterneuburg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/der-mann-klosterneuburg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/der-mann-klosterneuburg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:18:32.527Z"
+}

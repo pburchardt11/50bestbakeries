@@ -1,0 +1,47 @@
+{
+  "slug": "great-american-cookies-acworth",
+  "name": "Great American Cookies",
+  "curatedName": "Great American Cookies",
+  "city": "Acworth",
+  "country": "United States",
+  "placeId": "ChIJnzXmjatH9YgRYLBrobxuTgc",
+  "googleName": "Great American Cookies",
+  "formattedAddress": "3466 Cobb Pkwy NW #130, Acworth, GA 30101, USA",
+  "phone": "(770) 726-7704",
+  "internationalPhone": "+1 770-726-7704",
+  "website": "https://www.greatamericancookies.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+  "googleMapsUrl": "https://maps.google.com/?cid=526479962890023008",
+  "rating": 4.1,
+  "reviewCount": 13,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.0399441,
+    -84.6908404
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 8:30 PM",
+    "Tuesday: 12:00 – 8:30 PM",
+    "Wednesday: 12:00 – 8:30 PM",
+    "Thursday: 12:00 – 8:30 PM",
+    "Friday: 11:00 AM – 9:30 PM",
+    "Saturday: 11:00 AM – 9:30 PM",
+    "Sunday: 12:00 – 8:00 PM"
+  ],
+  "editorialSummary": "Mall-based chain selling cookies & brownies offering some specialty flavors, plus cookie cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/great-american-cookies-acworth/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/great-american-cookies-acworth/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/great-american-cookies-acworth/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/great-american-cookies-acworth/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/great-american-cookies-acworth/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:15:00.087Z"
+}

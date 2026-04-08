@@ -1,0 +1,47 @@
+{
+  "slug": "zu-bakery-portland",
+  "name": "Zu Bakery",
+  "curatedName": "Zu Bakery",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJjY8V7QecskwR8TnEGhffHJU",
+  "googleName": "ZUbakery",
+  "formattedAddress": "81 Clark St, Portland, ME 04102, USA",
+  "phone": "(207) 409-0117",
+  "internationalPhone": "+1 207-409-0117",
+  "website": "http://www.zubakery.com/contact.html",
+  "googleMapsUrl": "https://maps.google.com/?cid=10744708101325470193",
+  "rating": 4.9,
+  "reviewCount": 115,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6484081,
+    -70.26441299999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zu-bakery-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zu-bakery-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zu-bakery-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zu-bakery-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zu-bakery-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:32:21.041Z"
+}

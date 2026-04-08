@@ -1,0 +1,48 @@
+{
+  "slug": "great-harvest-bread-albuquerque",
+  "name": "Great Harvest Bread",
+  "curatedName": "Great Harvest Bread",
+  "city": "Albuquerque",
+  "country": "United States",
+  "placeId": "ChIJv8j4cPKfGIcRZSAnKJBSAWg",
+  "googleName": "Great Harvest Bread",
+  "formattedAddress": "11200 Montgomery Blvd NE, Albuquerque, NM 87111, USA",
+  "phone": "(505) 293-8277",
+  "internationalPhone": "+1 505-293-8277",
+  "website": "http://www.greatharvestalbuquerque.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7494362034023637093",
+  "rating": 4.6,
+  "reviewCount": 702,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.130052,
+    -106.5143165
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: 8:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Bakery chain specializing in whole-grain breads & muffins made with Montana wheat.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/great-harvest-bread-albuquerque/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/great-harvest-bread-albuquerque/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/great-harvest-bread-albuquerque/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/great-harvest-bread-albuquerque/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/great-harvest-bread-albuquerque/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:40:35.811Z"
+}

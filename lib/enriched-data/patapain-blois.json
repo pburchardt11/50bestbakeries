@@ -1,0 +1,48 @@
+{
+  "slug": "patapain-blois",
+  "name": "PatàPain ☕🍞🍩🍪",
+  "curatedName": "PatàPain ☕🍞🍩🍪",
+  "city": "Blois",
+  "country": "France",
+  "placeId": "ChIJ50P6awJY40cR0tGaOv1Jdlc",
+  "googleName": "Patapain",
+  "formattedAddress": "65 Av. de Vendôme, 41000 Blois, France",
+  "phone": "02 54 43 31 75",
+  "internationalPhone": "+33 2 54 43 31 75",
+  "website": "https://restaurants.patapain.com/blois",
+  "googleMapsUrl": "https://maps.google.com/?cid=6302306080510366162",
+  "rating": 4,
+  "reviewCount": 1116,
+  "priceLevel": 2,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.5993388,
+    1.3217547
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patapain-blois/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patapain-blois/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patapain-blois/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patapain-blois/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patapain-blois/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:57:09.420Z"
+}

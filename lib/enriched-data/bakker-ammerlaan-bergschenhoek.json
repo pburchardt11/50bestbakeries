@@ -1,0 +1,47 @@
+{
+  "slug": "bakker-ammerlaan-bergschenhoek",
+  "name": "Bakker Ammerlaan",
+  "curatedName": "Bakker Ammerlaan",
+  "city": "Bergschenhoek",
+  "country": "Netherlands",
+  "placeId": "ChIJKUKl6G_MxUcRt6Bc0Vgx0Lo",
+  "googleName": "Bakker Ammerlaan (Winkel Bergschenhoek)",
+  "formattedAddress": "Rondom 1, 2661 CA Bergschenhoek, Netherlands",
+  "phone": "010 521 5912",
+  "internationalPhone": "+31 10 521 5912",
+  "website": "http://www.bakkerammerlaan.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13461313543749804215",
+  "rating": 4.4,
+  "reviewCount": 85,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.9894945,
+    4.5014106
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:30 PM",
+    "Tuesday: 7:00 AM – 5:30 PM",
+    "Wednesday: 7:00 AM – 5:30 PM",
+    "Thursday: 7:00 AM – 5:30 PM",
+    "Friday: 7:00 AM – 5:30 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-ammerlaan-bergschenhoek/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-ammerlaan-bergschenhoek/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-ammerlaan-bergschenhoek/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-ammerlaan-bergschenhoek/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-ammerlaan-bergschenhoek/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:14:26.437Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "veniero-s-new-york",
+  "name": "Veniero's",
+  "curatedName": "Veniero's",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJ7yAJwJ1ZwokR1Y-x_5Dg434",
+  "googleName": "Veniero's Pasticceria & Caffe",
+  "formattedAddress": "342 E 11th St, New York, NY 10003, USA",
+  "phone": "(212) 674-7070",
+  "internationalPhone": "+1 212-674-7070",
+  "website": "http://www.venieros.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9143398581861978069",
+  "rating": 4.6,
+  "reviewCount": 5336,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7294208,
+    -73.9845332
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Busy, circa-1894 Italian bakery serving cannoli & coffee beneath a stained-glass ceiling.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/veniero-s-new-york/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/veniero-s-new-york/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/veniero-s-new-york/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/veniero-s-new-york/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/veniero-s-new-york/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:31:47.978Z"
+}

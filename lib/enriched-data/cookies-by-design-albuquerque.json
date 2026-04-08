@@ -1,0 +1,47 @@
+{
+  "slug": "cookies-by-design-albuquerque",
+  "name": "Cookies by Design",
+  "curatedName": "Cookies by Design",
+  "city": "Albuquerque",
+  "country": "United States",
+  "placeId": "ChIJW3gZWMUKIocReBDwR8nxCno",
+  "googleName": "Cookies by Design",
+  "formattedAddress": "6001 San Mateo Blvd NE Ste G1, Albuquerque, NM 87109, USA",
+  "phone": "(505) 881-4822",
+  "internationalPhone": "+1 505-881-4822",
+  "website": "https://www.cookiesbydesign.com/locations/new_mexico/albuquerque/87110_009.aspx",
+  "googleMapsUrl": "https://maps.google.com/?cid=8794107069191950456",
+  "rating": 4.9,
+  "reviewCount": 138,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.1454087,
+    -106.5872834
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:00 PM",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Chain selling handcrafted cookies in creative arrangements, gift baskets & trays.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cookies-by-design-albuquerque/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cookies-by-design-albuquerque/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cookies-by-design-albuquerque/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cookies-by-design-albuquerque/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cookies-by-design-albuquerque/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:06:57.512Z"
+}

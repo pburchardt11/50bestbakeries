@@ -1,0 +1,47 @@
+{
+  "slug": "bloch-bakery-gent",
+  "name": "Bloch Bakery",
+  "curatedName": "Bloch Bakery",
+  "city": "Gent",
+  "country": "Belgium",
+  "placeId": "ChIJqcjemtlxw0cRV-PwO-MwIl4",
+  "googleName": "Bloch Bakery",
+  "formattedAddress": "Sint-Pietersnieuwstraat 42, 9000 Gent, Belgium",
+  "phone": "09 335 00 76",
+  "internationalPhone": "+32 9 335 00 76",
+  "website": "http://www.bloch1899.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6783037741294740311",
+  "rating": 4.6,
+  "reviewCount": 134,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.04824860000001,
+    3.7271255
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bloch-bakery-gent/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bloch-bakery-gent/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bloch-bakery-gent/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bloch-bakery-gent/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bloch-bakery-gent/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:03:08.458Z"
+}

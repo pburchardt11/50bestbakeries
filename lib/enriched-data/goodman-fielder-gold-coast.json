@@ -1,0 +1,45 @@
+{
+  "slug": "goodman-fielder-gold-coast",
+  "name": "Goodman Fielder",
+  "curatedName": "Goodman Fielder",
+  "city": "Gold Coast",
+  "country": "Australia",
+  "placeId": "ChIJ7WXrFSEDkWsRE80iRepXhhc",
+  "googleName": "Goodman Fielder",
+  "formattedAddress": "3/5 Greg Chappell Dr, Burleigh Heads QLD 4220, Australia",
+  "phone": "1300 225 464",
+  "internationalPhone": "+61 1300 225 464",
+  "website": "http://www.goodmanfielder.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1695138973445442835",
+  "rating": 3.2,
+  "reviewCount": 16,
+  "priceLevel": 1,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -28.1038958,
+    153.4111422
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goodman-fielder-gold-coast/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goodman-fielder-gold-coast/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goodman-fielder-gold-coast/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goodman-fielder-gold-coast/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goodman-fielder-gold-coast/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:22:40.071Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "a-padaria-portuguesa-agualva",
+  "name": "A Padaria Portuguesa",
+  "curatedName": "A Padaria Portuguesa",
+  "city": "Agualva",
+  "country": "Portugal",
+  "placeId": "ChIJL00PfxbOHg0Rh6iyRXkvcnM",
+  "googleName": "A Padaria Portuguesa",
+  "formattedAddress": "Av. dos Bons Amigos 7B, 2735-521 Agualva-Cacém, Portugal",
+  "phone": "967 079 300",
+  "internationalPhone": "+351 967 079 300",
+  "website": "http://www.apadariaportuguesa.pt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8318763659613612167",
+  "rating": 3.9,
+  "reviewCount": 34,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    38.76848469999999,
+    -9.298218199999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-padaria-portuguesa-agualva/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-padaria-portuguesa-agualva/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-padaria-portuguesa-agualva/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-padaria-portuguesa-agualva/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-padaria-portuguesa-agualva/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:04:44.139Z"
+}

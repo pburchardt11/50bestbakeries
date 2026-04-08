@@ -1,0 +1,41 @@
+{
+  "slug": "tous-les-jours-chilgok-gun",
+  "name": "TOUS les JOURS",
+  "curatedName": "TOUS les JOURS",
+  "city": "Chilgok-gun",
+  "country": "South Korea",
+  "placeId": "ChIJEe_wvYzmZTURYbUrydMzM_I",
+  "googleName": "Tous Les Jours",
+  "formattedAddress": "1107 Taejeon-dong, Buk-gu, Daegu, South Korea",
+  "phone": "053-311-8295",
+  "internationalPhone": "+82 53-311-8295",
+  "website": "http://www.tlj.co.kr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17452349965697004897",
+  "rating": 4.5,
+  "reviewCount": 4,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.913223,
+    128.5468777
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:11:31.074Z"
+}

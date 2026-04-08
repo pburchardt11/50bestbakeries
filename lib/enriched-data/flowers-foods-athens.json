@@ -1,0 +1,43 @@
+{
+  "slug": "flowers-foods-athens",
+  "name": "Flowers Foods",
+  "curatedName": "Flowers Foods",
+  "city": "Athens",
+  "country": "United States",
+  "placeId": "ChIJSZl7BzNt9ogRvR7iAP-cgHE",
+  "googleName": "Flowers Foods",
+  "formattedAddress": "1455 N Chase St, Athens, GA 30601, USA",
+  "phone": "(706) 549-7222",
+  "internationalPhone": "+1 706-549-7222",
+  "website": "http://www.flowersfoods.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8178709542350233277",
+  "rating": 4.6,
+  "reviewCount": 25,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.9766419,
+    -83.3944111
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flowers-foods-athens/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flowers-foods-athens/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flowers-foods-athens/2.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:12:59.195Z"
+}

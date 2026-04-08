@@ -1,0 +1,47 @@
+{
+  "slug": "cooks-bakery-upton-upon-severn",
+  "name": "Cooks Bakery",
+  "curatedName": "Cooks Bakery",
+  "city": "Upton upon Severn",
+  "country": "United Kingdom",
+  "placeId": "ChIJM0rPQUL8cEgRRmmVmM6A-0g",
+  "googleName": "Colston Bakery",
+  "formattedAddress": "23 High St, Upton upon Severn, Worcester WR8 0HJ, UK",
+  "phone": "01684 592357",
+  "internationalPhone": "+44 1684 592357",
+  "website": "https://m.facebook.com/profile.php?id=127348130675362",
+  "googleMapsUrl": "https://maps.google.com/?cid=5258938614696732998",
+  "rating": 4.3,
+  "reviewCount": 16,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.06345289999999,
+    -2.2173266
+  ],
+  "openingHours": [
+    "Monday: 8:45 AM – 3:30 PM",
+    "Tuesday: 8:45 AM – 3:30 PM",
+    "Wednesday: 8:45 AM – 3:30 PM",
+    "Thursday: 8:45 AM – 3:30 PM",
+    "Friday: 8:45 AM – 3:30 PM",
+    "Saturday: 8:45 AM – 3:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cooks-bakery-upton-upon-severn/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cooks-bakery-upton-upon-severn/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cooks-bakery-upton-upon-severn/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cooks-bakery-upton-upon-severn/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cooks-bakery-upton-upon-severn/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:29:58.913Z"
+}

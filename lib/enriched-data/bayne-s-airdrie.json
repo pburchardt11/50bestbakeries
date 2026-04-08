@@ -1,0 +1,47 @@
+{
+  "slug": "bayne-s-airdrie",
+  "name": "Bayne's",
+  "curatedName": "Bayne's",
+  "city": "Airdrie",
+  "country": "United Kingdom",
+  "placeId": "ChIJhxAZLWBtiEgRTT9Y_eCf_Mg",
+  "googleName": "Baynes the Family Bakers",
+  "formattedAddress": "2-4 Bank St, Airdrie ML6 6AF, UK",
+  "phone": "01236 768914",
+  "internationalPhone": "+44 1236 768914",
+  "website": "https://baynes.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14482626290388582221",
+  "rating": 4.5,
+  "reviewCount": 116,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    55.8662872,
+    -3.9807529
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 8:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bayne-s-airdrie/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bayne-s-airdrie/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bayne-s-airdrie/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bayne-s-airdrie/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bayne-s-airdrie/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:56:11.553Z"
+}

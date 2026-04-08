@@ -1,0 +1,47 @@
+{
+  "slug": "greenhalgh-s-accrington",
+  "name": "Greenhalgh's",
+  "curatedName": "Greenhalgh's",
+  "city": "Accrington",
+  "country": "United Kingdom",
+  "placeId": "ChIJZQAxg-wJe0gRucXCuPBWAWs",
+  "googleName": "Greenhalgh's",
+  "formattedAddress": "Greenhalgh's Craft Bakery, Crescent Rd, Lostock, Bolton BL6 4BU, UK",
+  "phone": "01204 696204",
+  "internationalPhone": "+44 1204 696204",
+  "website": "https://www.greenhalghs.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7710539628926911929",
+  "rating": 4,
+  "reviewCount": 149,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.582071,
+    -2.5224406
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Bakery chain selling savouries, celebration cakes & breads, plus soups & sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greenhalgh-s-accrington/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greenhalgh-s-accrington/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greenhalgh-s-accrington/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greenhalgh-s-accrington/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greenhalgh-s-accrington/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:59:54.852Z"
+}

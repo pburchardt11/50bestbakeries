@@ -1,0 +1,49 @@
+{
+  "slug": "sander-s-backstube-braunschweig",
+  "name": "Sander's Backstube",
+  "curatedName": "Sander's Backstube",
+  "city": "Braunschweig",
+  "country": "Germany",
+  "placeId": "ChIJuYr3d_5HZUERTIDtUNR2LFM",
+  "googleName": "sander’s backstube",
+  "formattedAddress": "Steinweg 9, 38100 Braunschweig, Germany",
+  "phone": "0531 12167871",
+  "internationalPhone": "+49 531 12167871",
+  "website": "http://www.sanders-backstube.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5993295858386174028",
+  "rating": 4.5,
+  "reviewCount": 520,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.26567,
+    10.5279377
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sander-s-backstube-braunschweig/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sander-s-backstube-braunschweig/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sander-s-backstube-braunschweig/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sander-s-backstube-braunschweig/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sander-s-backstube-braunschweig/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:09:59.628Z"
+}

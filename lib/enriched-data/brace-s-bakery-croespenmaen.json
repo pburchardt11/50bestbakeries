@@ -1,0 +1,30 @@
+{
+  "slug": "brace-s-bakery-croespenmaen",
+  "name": "Brace's Bakery",
+  "curatedName": "Brace's Bakery",
+  "city": "Croespenmaen",
+  "country": "United Kingdom",
+  "placeId": "ChIJxVXrq8AhbkgRUNqJAq3-xB8",
+  "googleName": "Brace's Bakery",
+  "formattedAddress": "Croespenmaen, Blackwood NP11 3AG, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2289234529636440656",
+  "rating": 3.7,
+  "reviewCount": 3,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.6770582,
+    -3.1643564
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:26:19.897Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "canada-bread-brampton",
+  "name": "Canada Bread",
+  "curatedName": "Canada Bread",
+  "city": "Brampton",
+  "country": "Canada",
+  "placeId": "ChIJnSdgDTg-K4gR0ho_QAgsqMA",
+  "googleName": "Canada Bread",
+  "formattedAddress": "321 Rutherford Rd S, Brampton, ON L6W 0A3, Canada",
+  "phone": "(905) 861-2000",
+  "internationalPhone": "+1 905-861-2000",
+  "website": "https://www.canadabread.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13882394265318791890",
+  "rating": 3.6,
+  "reviewCount": 11,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6815839,
+    -79.7220572
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:30 PM",
+    "Tuesday: 8:30 AM – 5:30 PM",
+    "Wednesday: 8:30 AM – 5:30 PM",
+    "Thursday: 8:30 AM – 5:30 PM",
+    "Friday: 8:30 AM – 5:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:20:55.445Z"
+}

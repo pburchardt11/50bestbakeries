@@ -1,0 +1,47 @@
+{
+  "slug": "meesterbakker-roodenrijs-den-haag",
+  "name": "Meesterbakker Roodenrijs",
+  "curatedName": "Meesterbakker Roodenrijs",
+  "city": "Den Haag",
+  "country": "Netherlands",
+  "placeId": "ChIJA8aDRr-wxUcRCdRp1HXOjxY",
+  "googleName": "Meesterbakker Remmerswaal Roodenrijs Frederik Hendriklaan 109 | Bakker Den Haag",
+  "formattedAddress": "Frederik Hendriklaan 109, 2582 BW Den Haag, Netherlands",
+  "phone": "070 355 4208",
+  "internationalPhone": "+31 70 355 4208",
+  "website": "http://roodenrijs.meesterbakker.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1625744995974239241",
+  "rating": 4.2,
+  "reviewCount": 29,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.0935924,
+    4.2763722
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:30 PM",
+    "Tuesday: 8:00 AM – 5:30 PM",
+    "Wednesday: 8:00 AM – 5:30 PM",
+    "Thursday: 8:00 AM – 5:30 PM",
+    "Friday: 8:00 AM – 5:30 PM",
+    "Saturday: 8:00 AM – 4:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/meesterbakker-roodenrijs-den-haag/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/meesterbakker-roodenrijs-den-haag/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/meesterbakker-roodenrijs-den-haag/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/meesterbakker-roodenrijs-den-haag/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/meesterbakker-roodenrijs-den-haag/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:35:59.459Z"
+}

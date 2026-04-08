@@ -1,0 +1,47 @@
+{
+  "slug": "backstube-wunsche-abensberg",
+  "name": "Backstube Wünsche",
+  "curatedName": "Backstube Wünsche",
+  "city": "Abensberg",
+  "country": "Germany",
+  "placeId": "ChIJ1X8AvUG0n0cR_-Ik472mJ2M",
+  "googleName": "Backstube Wünsche",
+  "formattedAddress": "Straubinger Str. 42, 93326 Abensberg, Germany",
+  "phone": "09443 700326",
+  "internationalPhone": "+49 9443 700326",
+  "website": "https://www.backstube-wuensche.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7144862668336456447",
+  "rating": 4.2,
+  "reviewCount": 91,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8106845,
+    11.8586636
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backstube-wunsche-abensberg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backstube-wunsche-abensberg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backstube-wunsche-abensberg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backstube-wunsche-abensberg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backstube-wunsche-abensberg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:48:47.674Z"
+}

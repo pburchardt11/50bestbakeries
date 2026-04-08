@@ -1,0 +1,47 @@
+{
+  "slug": "collin-street-bakery-bellmead",
+  "name": "Collin Street Bakery",
+  "curatedName": "Collin Street Bakery",
+  "city": "Bellmead",
+  "country": "United States",
+  "placeId": "ChIJxRroKpKCT4YRYVSRdZkELuI",
+  "googleName": "Collin Street Bakery I-35 Waco",
+  "formattedAddress": "701 I-35, Bellmead, TX 76705, USA",
+  "phone": "(254) 799-5824",
+  "internationalPhone": "+1 254-799-5824",
+  "website": "https://collinstreet.com/pages/cafe-locations",
+  "googleMapsUrl": "https://maps.google.com/?cid=16297969158649369697",
+  "rating": 4.4,
+  "reviewCount": 2852,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.581672,
+    -97.10905609999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/collin-street-bakery-bellmead/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/collin-street-bakery-bellmead/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/collin-street-bakery-bellmead/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/collin-street-bakery-bellmead/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/collin-street-bakery-bellmead/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:30:08.260Z"
+}

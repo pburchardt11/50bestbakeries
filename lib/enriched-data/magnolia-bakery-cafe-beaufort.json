@@ -1,0 +1,46 @@
+{
+  "slug": "magnolia-bakery-cafe-beaufort",
+  "name": "Magnolia Bakery Cafe",
+  "curatedName": "Magnolia Bakery Cafe",
+  "city": "Beaufort",
+  "country": "United States",
+  "placeId": "ChIJ_6QMfJwN_IgRYtJ8lD2UOs0",
+  "googleName": "Magnolia Cafe Beaufort",
+  "formattedAddress": "703 Congress St, Beaufort, SC 29902, USA",
+  "phone": "(843) 816-8535",
+  "internationalPhone": "+1 843-816-8535",
+  "website": "https://www.magnoliabeaufort.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14788295318629569122",
+  "rating": 4.7,
+  "reviewCount": 223,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.4388296,
+    -80.6703546
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magnolia-bakery-cafe-beaufort/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magnolia-bakery-cafe-beaufort/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magnolia-bakery-cafe-beaufort/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magnolia-bakery-cafe-beaufort/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magnolia-bakery-cafe-beaufort/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:44:25.365Z"
+}

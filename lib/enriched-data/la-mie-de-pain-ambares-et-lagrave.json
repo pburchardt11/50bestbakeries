@@ -1,0 +1,48 @@
+{
+  "slug": "la-mie-de-pain-ambares-et-lagrave",
+  "name": "La Mie de Pain",
+  "curatedName": "La Mie de Pain",
+  "city": "Ambarès-et-Lagrave",
+  "country": "France",
+  "placeId": "ChIJp-BSIgouVQ0RBp2W9E-m0_o",
+  "googleName": "La Mie de Pain Ambarès-et-Lagrave",
+  "formattedAddress": "53 Av. de Saint-Loubès, 33440 Ambarès-et-Lagrave, France",
+  "phone": "09 67 35 45 25",
+  "internationalPhone": "+33 9 67 35 45 25",
+  "website": "https://www.lamiedepain-boulangerie.fr/boulangerie-la-mie-de-pain-saint-loubes-33450/?utm_source=Google&utm_medium=MyBusiness",
+  "googleMapsUrl": "https://maps.google.com/?cid=18073972591904070918",
+  "rating": 3.6,
+  "reviewCount": 828,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.9233235,
+    -0.4646896999999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mie-de-pain-ambares-et-lagrave/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mie-de-pain-ambares-et-lagrave/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mie-de-pain-ambares-et-lagrave/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mie-de-pain-ambares-et-lagrave/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mie-de-pain-ambares-et-lagrave/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:51:33.430Z"
+}

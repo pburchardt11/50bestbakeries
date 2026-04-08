@@ -1,0 +1,47 @@
+{
+  "slug": "regent-bakery-cafe-bellevue",
+  "name": "Regent Bakery & cafe",
+  "curatedName": "Regent Bakery & cafe",
+  "city": "Bellevue",
+  "country": "United States",
+  "placeId": "ChIJm4a53AltkFQRzd1yjN3yYuc",
+  "googleName": "Regent Bakery & Cafe",
+  "formattedAddress": "677 120th Ave NE #9a, Bellevue, WA 98005, USA",
+  "phone": "(425) 378-1498",
+  "internationalPhone": "+1 425-378-1498",
+  "website": "http://www.regentbakeryandcafe.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16673155803837029837",
+  "rating": 4.3,
+  "reviewCount": 1074,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.6160668,
+    -122.1808051
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Simple bakery specializing in unusual Asian desserts, also serving lunch & dinner.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/regent-bakery-cafe-bellevue/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/regent-bakery-cafe-bellevue/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/regent-bakery-cafe-bellevue/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/regent-bakery-cafe-bellevue/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/regent-bakery-cafe-bellevue/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:26:26.817Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "bakker-hilvers-arnhem",
+  "name": "Bakker Hilvers",
+  "curatedName": "Bakker Hilvers",
+  "city": "Arnhem",
+  "country": "Netherlands",
+  "placeId": "ChIJTQC3ecqlx0cRa8xFCXMN6-8",
+  "googleName": "Bakker Hilvers",
+  "formattedAddress": "Broerenstraat 23, 6811 EA Arnhem, Netherlands",
+  "phone": "026 750 3447",
+  "internationalPhone": "+31 26 750 3447",
+  "website": "http://www.bakkerhilvers.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17287926382319750251",
+  "rating": 4.3,
+  "reviewCount": 55,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.9794509,
+    5.9081554
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-hilvers-arnhem/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-hilvers-arnhem/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-hilvers-arnhem/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-hilvers-arnhem/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-hilvers-arnhem/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:21:43.761Z"
+}

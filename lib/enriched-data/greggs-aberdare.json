@@ -1,0 +1,47 @@
+{
+  "slug": "greggs-aberdare",
+  "name": "Greggs",
+  "curatedName": "Greggs",
+  "city": "Aberdare",
+  "country": "United Kingdom",
+  "placeId": "ChIJmyjqCx48bkgRWOx00OzWiFY",
+  "googleName": "Greggs",
+  "formattedAddress": "U3A, Riverside Retail Park, Aberdare CF44 0AH, UK",
+  "phone": "01685 701651",
+  "internationalPhone": "+44 1685 701651",
+  "website": "https://www.greggs.co.uk/?utm_source=Yext&utm_medium=GMB",
+  "googleMapsUrl": "https://maps.google.com/?cid=6235469996692401240",
+  "rating": 4.1,
+  "reviewCount": 252,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.7020712,
+    -3.4201749
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": "A chain bakery that prepares breads, savoury snacks, sandwiches and sweet treats.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greggs-aberdare/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greggs-aberdare/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greggs-aberdare/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greggs-aberdare/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greggs-aberdare/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:32:03.156Z"
+}

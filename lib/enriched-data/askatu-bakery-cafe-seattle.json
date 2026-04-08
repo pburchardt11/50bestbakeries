@@ -1,0 +1,49 @@
+{
+  "slug": "askatu-bakery-cafe-seattle",
+  "name": "Askatu Bakery Cafe",
+  "curatedName": "Askatu Bakery Cafe",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJecso5E4VkFQRFE9R6wbhsQo",
+  "googleName": "Askatu Bakery",
+  "formattedAddress": "2209 4th Ave, Seattle, WA 98121, USA",
+  "phone": "(206) 485-7503",
+  "internationalPhone": "+1 206-485-7503",
+  "website": "http://liberatedfoods.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=770644431091093268",
+  "rating": 4.5,
+  "reviewCount": 175,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.6146763,
+    -122.3433415
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 3:00 PM",
+    "Wednesday: 10:00 AM – 3:00 PM",
+    "Thursday: 10:00 AM – 3:00 PM",
+    "Friday: 10:00 AM – 3:00 PM",
+    "Saturday: 10:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/askatu-bakery-cafe-seattle/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/askatu-bakery-cafe-seattle/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/askatu-bakery-cafe-seattle/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/askatu-bakery-cafe-seattle/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/askatu-bakery-cafe-seattle/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:49:51.135Z"
+}

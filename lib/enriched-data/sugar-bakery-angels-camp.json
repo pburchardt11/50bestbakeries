@@ -1,0 +1,39 @@
+{
+  "slug": "sugar-bakery-angels-camp",
+  "name": "SUGAR Bakery",
+  "curatedName": "SUGAR Bakery",
+  "city": "Angels Camp",
+  "country": "United States",
+  "placeId": "ChIJS95vLJuVkIARLA23cjD-cbs",
+  "googleName": "Sugar Bakery",
+  "formattedAddress": "1257 S Main St, Angels Camp, CA 95222, USA",
+  "phone": "(209) 736-9511",
+  "internationalPhone": "+1 209-736-9511",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13506856241497312556",
+  "rating": 4.4,
+  "reviewCount": 24,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    38.0690595,
+    -120.5396518
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-bakery-angels-camp/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-bakery-angels-camp/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-bakery-angels-camp/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-bakery-angels-camp/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-bakery-angels-camp/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:29:06.777Z"
+}

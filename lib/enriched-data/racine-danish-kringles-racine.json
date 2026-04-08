@@ -1,0 +1,45 @@
+{
+  "slug": "racine-danish-kringles-racine",
+  "name": "Racine Danish Kringles",
+  "curatedName": "Racine Danish Kringles",
+  "city": "Racine",
+  "country": "United States",
+  "placeId": "ChIJQfHwMDNCBYgRQe_4VM5ypNI",
+  "googleName": "Racine Danish Kringles",
+  "formattedAddress": "2529 Golf Ave, Racine, WI 53404, USA",
+  "phone": "(262) 633-1819",
+  "internationalPhone": "+1 262-633-1819",
+  "website": "http://www.kringle.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15178382874659843905",
+  "rating": 4.2,
+  "reviewCount": 122,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.752084,
+    -87.81610649999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/racine-danish-kringles-racine/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/racine-danish-kringles-racine/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/racine-danish-kringles-racine/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/racine-danish-kringles-racine/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/racine-danish-kringles-racine/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:26:05.480Z"
+}

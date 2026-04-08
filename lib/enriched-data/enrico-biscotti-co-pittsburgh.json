@@ -1,0 +1,49 @@
+{
+  "slug": "enrico-biscotti-co-pittsburgh",
+  "name": "Enrico Biscotti Co.",
+  "curatedName": "Enrico Biscotti Co.",
+  "city": "Pittsburgh",
+  "country": "United States",
+  "placeId": "ChIJp6IO5NzzNIgRrBFr-HBNTP0",
+  "googleName": "Enrico Biscotti Co.",
+  "formattedAddress": "2022 Penn Ave, Pittsburgh, PA 15222, USA",
+  "phone": "(412) 281-2602",
+  "internationalPhone": "+1 412-281-2602",
+  "website": "https://www.enricobiscotti.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18252048537425220012",
+  "rating": 4.7,
+  "reviewCount": 506,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.4513928,
+    -79.9833003
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Italian cookies & cakes, plus pizza & pasta offered in a rustic, charming cafe & bakery.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/enrico-biscotti-co-pittsburgh/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/enrico-biscotti-co-pittsburgh/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/enrico-biscotti-co-pittsburgh/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/enrico-biscotti-co-pittsburgh/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/enrico-biscotti-co-pittsburgh/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:10:37.997Z"
+}

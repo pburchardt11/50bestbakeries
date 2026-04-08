@@ -1,0 +1,35 @@
+{
+  "slug": "druckers-vienna-patisserie-birmingham",
+  "name": "Druckers Vienna Patisserie",
+  "curatedName": "Druckers Vienna Patisserie",
+  "city": "Birmingham",
+  "country": "United Kingdom",
+  "placeId": "ChIJL-ZacOe7cEgRSUXnSivdZGU",
+  "googleName": "Druckers Vienna Patisserie",
+  "formattedAddress": "unit2, fountain business park, Bromford Rd, Oldbury B69 4BH, UK",
+  "phone": "0121 786 1664",
+  "internationalPhone": "+44 121 786 1664",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7306207673511789897",
+  "rating": 4,
+  "reviewCount": 22,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.5090217,
+    -2.0138838
+  ],
+  "openingHours": null,
+  "editorialSummary": "Patisserie chain retailer specialising in fancy cakes; some locations have cafes with lunch menus.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/druckers-vienna-patisserie-birmingham/0.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:51:13.951Z"
+}

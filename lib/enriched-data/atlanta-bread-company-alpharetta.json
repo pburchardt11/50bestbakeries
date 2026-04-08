@@ -1,0 +1,49 @@
+{
+  "slug": "atlanta-bread-company-alpharetta",
+  "name": "Atlanta Bread Company",
+  "curatedName": "Atlanta Bread Company",
+  "city": "Alpharetta",
+  "country": "United States",
+  "placeId": "ChIJCZcDiXmb9YgRl2O9DqpIdrI",
+  "googleName": "Atlanta Bread",
+  "formattedAddress": "410 Peachtree Pkwy Suite 116, Cumming, GA 30041, USA",
+  "phone": "(678) 845-5881",
+  "internationalPhone": "+1 678-845-5881",
+  "website": "https://atlantabread.com/location/410-peachtree-parkway-suite-116-cumming-ga-30041",
+  "googleMapsUrl": "https://maps.google.com/?cid=12859545681231963031",
+  "rating": 4,
+  "reviewCount": 395,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.1543148,
+    -84.17613560000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Sandwiches, salads, soups & breakfast fare fill out the menu at this counter-serve chain.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/atlanta-bread-company-alpharetta/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/atlanta-bread-company-alpharetta/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/atlanta-bread-company-alpharetta/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/atlanta-bread-company-alpharetta/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/atlanta-bread-company-alpharetta/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:50:49.310Z"
+}

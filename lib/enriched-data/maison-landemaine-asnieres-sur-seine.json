@@ -1,0 +1,49 @@
+{
+  "slug": "maison-landemaine-asnieres-sur-seine",
+  "name": "Maison Landemaine",
+  "curatedName": "Maison Landemaine",
+  "city": "Asnières-sur-Seine",
+  "country": "France",
+  "placeId": "ChIJwwa25nxv5kcRDuHKr83fD0M",
+  "googleName": "Maison Landemaine",
+  "formattedAddress": "2 Rue de la Station, 92600 Asnières-sur-Seine, France",
+  "phone": "09 80 63 51 04",
+  "internationalPhone": "+33 9 80 63 51 04",
+  "website": "http://www.maisonlandemaine.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4832326999702429966",
+  "rating": 3.3,
+  "reviewCount": 700,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.9062907,
+    2.2843661
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:30 PM",
+    "Tuesday: 6:30 AM – 8:30 PM",
+    "Wednesday: 6:30 AM – 8:30 PM",
+    "Thursday: 6:30 AM – 8:30 PM",
+    "Friday: 6:30 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:30 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-landemaine-asnieres-sur-seine/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-landemaine-asnieres-sur-seine/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-landemaine-asnieres-sur-seine/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-landemaine-asnieres-sur-seine/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-landemaine-asnieres-sur-seine/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:55:02.878Z"
+}

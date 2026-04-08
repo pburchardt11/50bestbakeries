@@ -1,0 +1,47 @@
+{
+  "slug": "ace-bakery-mississauga",
+  "name": "ACE Bakery",
+  "curatedName": "ACE Bakery",
+  "city": "Mississauga",
+  "country": "Canada",
+  "placeId": "ChIJo5WMfKg_K4gR0k2GajDTLlw",
+  "googleName": "ACE Bakery",
+  "formattedAddress": "580 Secretariat Ct, Mississauga, ON L5S 0A4, Canada",
+  "phone": "(800) 443-7929",
+  "internationalPhone": "+1 800-443-7929",
+  "website": "http://www.acebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6642478705317137874",
+  "rating": 3.8,
+  "reviewCount": 61,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6600206,
+    -79.6980335
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ace-bakery-mississauga/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ace-bakery-mississauga/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ace-bakery-mississauga/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ace-bakery-mississauga/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ace-bakery-mississauga/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:16:09.405Z"
+}

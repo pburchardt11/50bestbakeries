@@ -1,0 +1,48 @@
+{
+  "slug": "schwalmer-brotladen-alsfeld",
+  "name": "Schwälmer Brotladen",
+  "curatedName": "Schwälmer Brotladen",
+  "city": "Alsfeld",
+  "country": "Germany",
+  "placeId": "ChIJ81TiFGq8vEcR-4j_4mqgvOk",
+  "googleName": "Schwälmer Brotladen",
+  "formattedAddress": "Schellengasse 41, 36304 Alsfeld, Germany",
+  "phone": "06631 72955",
+  "internationalPhone": "+49 6631 72955",
+  "website": "https://www.schwaelmer-brotladen.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16842513087394187515",
+  "rating": 4.3,
+  "reviewCount": 547,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.7517366,
+    9.2788282
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 4:30 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schwalmer-brotladen-alsfeld/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schwalmer-brotladen-alsfeld/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schwalmer-brotladen-alsfeld/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schwalmer-brotladen-alsfeld/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schwalmer-brotladen-alsfeld/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:12:11.582Z"
+}

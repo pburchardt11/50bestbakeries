@@ -1,0 +1,48 @@
+{
+  "slug": "sayers-altrincham",
+  "name": "Sayers",
+  "curatedName": "Sayers",
+  "city": "Altrincham",
+  "country": "United Kingdom",
+  "placeId": "ChIJFSkFReSse0gRaPztIBpLAwQ",
+  "googleName": "Sayers",
+  "formattedAddress": "228 Stockport Rd, Timperley, Cheshire, Altrincham WA15 7UN, UK",
+  "phone": "0161 980 3922",
+  "internationalPhone": "+44 161 980 3922",
+  "website": "https://www.sayersthebakers.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=289157376675544168",
+  "rating": 4.2,
+  "reviewCount": 34,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.3969696,
+    -2.3194539
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 8:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sayers-altrincham/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sayers-altrincham/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sayers-altrincham/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sayers-altrincham/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sayers-altrincham/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:44:07.615Z"
+}

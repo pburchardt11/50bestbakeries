@@ -1,0 +1,47 @@
+{
+  "slug": "backerei-janssen-bad-zwischenahn",
+  "name": "Bäckerei Janssen",
+  "curatedName": "Bäckerei Janssen",
+  "city": "Bad Zwischenahn",
+  "country": "Germany",
+  "placeId": "ChIJ4ZRzaqLjtkcRtTUQwU6BNDQ",
+  "googleName": "Bäckerei Janssen",
+  "formattedAddress": "Lange Str. 14, 26160 Bad Zwischenahn, Germany",
+  "phone": "04403 59143",
+  "internationalPhone": "+49 4403 59143",
+  "website": "http://www.baeckereijanssen.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3761773764007703989",
+  "rating": 4.5,
+  "reviewCount": 92,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.1855671,
+    8.0010835
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 1:00 PM",
+    "Tuesday: 6:30 AM – 1:00 PM",
+    "Wednesday: 6:30 AM – 1:00 PM",
+    "Thursday: 6:30 AM – 1:00 PM",
+    "Friday: 6:30 AM – 1:00 PM",
+    "Saturday: 6:30 AM – 12:00 PM",
+    "Sunday: 7:30 – 11:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-janssen-bad-zwischenahn/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-janssen-bad-zwischenahn/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-janssen-bad-zwischenahn/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-janssen-bad-zwischenahn/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-janssen-bad-zwischenahn/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:35:49.497Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "schmidt-backerei-konditorei-cafe-ahnatal",
+  "name": "Schmidt Bäckerei-Konditorei-Cafe",
+  "curatedName": "Schmidt Bäckerei-Konditorei-Cafe",
+  "city": "Ahnatal",
+  "country": "Germany",
+  "placeId": "ChIJtfO5bowVu0cRv9K19yn_gug",
+  "googleName": "Schmidt Bäckerei-Konditorei- Cafe",
+  "formattedAddress": "Steinweg 1B, 34292 Ahnatal, Germany",
+  "phone": "05609 2022",
+  "internationalPhone": "+49 5609 2022",
+  "website": "https://landbaecker.myshopify.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16754234119486296767",
+  "rating": 4.5,
+  "reviewCount": 133,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.3666342,
+    9.3928998
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 1:00 PM",
+    "Sunday: 8:00 – 11:00 AM, 2:00 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schmidt-backerei-konditorei-cafe-ahnatal/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schmidt-backerei-konditorei-cafe-ahnatal/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schmidt-backerei-konditorei-cafe-ahnatal/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schmidt-backerei-konditorei-cafe-ahnatal/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schmidt-backerei-konditorei-cafe-ahnatal/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:11:47.746Z"
+}

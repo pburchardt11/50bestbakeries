@@ -1,0 +1,48 @@
+{
+  "slug": "au-bon-pain-atlanta",
+  "name": "Au Bon Pain",
+  "curatedName": "Au Bon Pain",
+  "city": "Atlanta",
+  "country": "United States",
+  "placeId": "ChIJn5pnWB_yNIgR9toCB8xF8gk",
+  "googleName": "Au Bon Pain",
+  "formattedAddress": "Cohon University Center, 5000 Forbes Ave, Pittsburgh, PA 415213, USA",
+  "phone": "(412) 268-1054",
+  "internationalPhone": "+1 412-268-1054",
+  "website": "http://aubonpain.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=716712033298602742",
+  "rating": 3.3,
+  "reviewCount": 202,
+  "priceLevel": 2,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.4439197,
+    -79.9423267
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Counter-service chain cafe serving soups, salads & sandwiches along with breads & other baked goods.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-bon-pain-atlanta/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-bon-pain-atlanta/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-bon-pain-atlanta/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-bon-pain-atlanta/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-bon-pain-atlanta/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:51:22.220Z"
+}

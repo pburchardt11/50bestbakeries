@@ -1,0 +1,47 @@
+{
+  "slug": "cobs-bread-abbotsford",
+  "name": "COBS Bread",
+  "curatedName": "COBS Bread",
+  "city": "Abbotsford",
+  "country": "Canada",
+  "placeId": "ChIJOX6qx1w1hFQRYmPiMvpgZrY",
+  "googleName": "COBS Bread",
+  "formattedAddress": "2777 Gladwin Rd, Abbotsford, BC V2T 4V1, Canada",
+  "phone": "(604) 556-7725",
+  "internationalPhone": "+1 604-556-7725",
+  "website": "https://www.cobsbread.com/pages/bakeries/gladwin-crossing-bakery?utm_source=google-maps&utm_medium=organic&utm_campaign=organic-bakery-links",
+  "googleMapsUrl": "https://maps.google.com/?cid=13143299190239159138",
+  "rating": 4.6,
+  "reviewCount": 254,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.0519989,
+    -122.3154508
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cobs-bread-abbotsford/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cobs-bread-abbotsford/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cobs-bread-abbotsford/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cobs-bread-abbotsford/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cobs-bread-abbotsford/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:09:13.422Z"
+}

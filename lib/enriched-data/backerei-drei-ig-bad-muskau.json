@@ -1,0 +1,49 @@
+{
+  "slug": "backerei-drei-ig-bad-muskau",
+  "name": "Bäckerei Dreißig",
+  "curatedName": "Bäckerei Dreißig",
+  "city": "Bad Muskau",
+  "country": "Germany",
+  "placeId": "ChIJAR6ciRaJCEcRfmC4PWvQKDk",
+  "googleName": "Dreißig",
+  "formattedAddress": "Kirchstraße 34, 02953 Bad Muskau, Germany",
+  "phone": "035771 60871",
+  "internationalPhone": "+49 35771 60871",
+  "website": "https://www.baeckerei-dreissig.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4118771018245890174",
+  "rating": 4.2,
+  "reviewCount": 308,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5464302,
+    14.7205827
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 6:00 PM",
+    "Sunday: 6:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-drei-ig-bad-muskau/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-drei-ig-bad-muskau/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-drei-ig-bad-muskau/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-drei-ig-bad-muskau/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-drei-ig-bad-muskau/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:30:56.259Z"
+}

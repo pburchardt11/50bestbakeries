@@ -1,0 +1,47 @@
+{
+  "slug": "skroz-dobra-pekara-belgrade",
+  "name": "Skroz dobra pekara",
+  "curatedName": "Skroz dobra pekara",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJf3Uu9p56WkcR_D5bxSvA2cQ",
+  "googleName": "Skroz Dobra Pekara",
+  "formattedAddress": "Bulevar kralja Aleksandra 126, Beograd, Serbia",
+  "phone": "064 8031017",
+  "internationalPhone": "+381 64 8031017",
+  "website": "http://www.skrozdobrapekara.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14184579795607305980",
+  "rating": 4.2,
+  "reviewCount": 2294,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.8036425,
+    20.4791768
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/skroz-dobra-pekara-belgrade/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/skroz-dobra-pekara-belgrade/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/skroz-dobra-pekara-belgrade/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/skroz-dobra-pekara-belgrade/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/skroz-dobra-pekara-belgrade/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:01:48.530Z"
+}

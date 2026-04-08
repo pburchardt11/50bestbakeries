@@ -1,0 +1,47 @@
+{
+  "slug": "rotte-bakery-dumai",
+  "name": "Rotte Bakery",
+  "curatedName": "Rotte Bakery",
+  "city": "Dumai",
+  "country": "Indonesia",
+  "placeId": "ChIJvZcv7eCv0zERtjueNFyCRIg",
+  "googleName": "Rotte Bakery Dumai Sukajadi",
+  "formattedAddress": "Jl. Pangeran Diponegoro, Sukajadi, Kec. Dumai Tim., Kota Dumai, Riau 28812, Indonesia",
+  "phone": "0811-7050-808",
+  "internationalPhone": "+62 811-7050-808",
+  "website": "https://rottebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9819116420105911222",
+  "rating": 4.7,
+  "reviewCount": 69,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.6723194,
+    101.4433156
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotte-bakery-dumai/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotte-bakery-dumai/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotte-bakery-dumai/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotte-bakery-dumai/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotte-bakery-dumai/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:09:51.899Z"
+}

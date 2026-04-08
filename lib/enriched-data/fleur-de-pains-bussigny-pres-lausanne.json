@@ -1,0 +1,48 @@
+{
+  "slug": "fleur-de-pains-bussigny-pres-lausanne",
+  "name": "Fleur de Pains",
+  "curatedName": "Fleur de Pains",
+  "city": "Bussigny-près-Lausanne",
+  "country": "Switzerland",
+  "placeId": "ChIJ8yHwEUMxjEcRT84pskSrQlY",
+  "googleName": "Fleur de Pains",
+  "formattedAddress": "Rue de la Gare 13, 1030 Bussigny, Switzerland",
+  "phone": "021 613 80 02",
+  "internationalPhone": "+41 21 613 80 02",
+  "website": "http://www.fleurdepains.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6215718747259915855",
+  "rating": 3.7,
+  "reviewCount": 343,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    46.5489927,
+    6.5528964
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 6:30 PM",
+    "Sunday: 6:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleur-de-pains-bussigny-pres-lausanne/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleur-de-pains-bussigny-pres-lausanne/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleur-de-pains-bussigny-pres-lausanne/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleur-de-pains-bussigny-pres-lausanne/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fleur-de-pains-bussigny-pres-lausanne/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:08:23.074Z"
+}

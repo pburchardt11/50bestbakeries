@@ -1,0 +1,49 @@
+{
+  "slug": "backer-gortz-gmbh-alsbach-hahnlein",
+  "name": "Bäcker Görtz GmbH",
+  "curatedName": "Bäcker Görtz GmbH",
+  "city": "Alsbach-Hähnlein",
+  "country": "Germany",
+  "placeId": "ChIJk7g7IDN9vUcRiox8QHeXA5Q",
+  "googleName": "Bäcker Görtz",
+  "formattedAddress": "REWE, Alte Bergstraße 80, 64665 Alsbach-Hähnlein, Germany",
+  "phone": "06257 9425510",
+  "internationalPhone": "+49 6257 9425510",
+  "website": "https://www.baeckergoertz.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10665534880982273162",
+  "rating": 4.4,
+  "reviewCount": 163,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.7454811,
+    8.6219661
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backer-gortz-gmbh-alsbach-hahnlein/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backer-gortz-gmbh-alsbach-hahnlein/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backer-gortz-gmbh-alsbach-hahnlein/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backer-gortz-gmbh-alsbach-hahnlein/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backer-gortz-gmbh-alsbach-hahnlein/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:25:43.502Z"
+}

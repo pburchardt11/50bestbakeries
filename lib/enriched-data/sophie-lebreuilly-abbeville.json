@@ -1,0 +1,50 @@
+{
+  "slug": "sophie-lebreuilly-abbeville",
+  "name": "Sophie Lebreuilly",
+  "curatedName": "Sophie Lebreuilly",
+  "city": "Abbeville",
+  "country": "France",
+  "placeId": "ChIJyxZ6BomM3UcRsytwRcttw5g",
+  "googleName": "Sophie Lebreuilly",
+  "formattedAddress": "1 Rue Jules Verne, 80100 Abbeville, France",
+  "phone": "03 22 20 48 69",
+  "internationalPhone": "+33 3 22 20 48 69",
+  "website": "https://sophie-lebreuilly.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11007762634034391987",
+  "rating": 4,
+  "reviewCount": 1130,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.099441,
+    1.862792
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sophie-lebreuilly-abbeville/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sophie-lebreuilly-abbeville/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sophie-lebreuilly-abbeville/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sophie-lebreuilly-abbeville/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sophie-lebreuilly-abbeville/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:58:28.898Z"
+}

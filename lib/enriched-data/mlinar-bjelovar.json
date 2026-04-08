@@ -1,0 +1,47 @@
+{
+  "slug": "mlinar-bjelovar",
+  "name": "Mlinar",
+  "curatedName": "Mlinar",
+  "city": "Bjelovar",
+  "country": "Croatia",
+  "placeId": "ChIJay8QAAs2ZkcRo3sX5ceGIuI",
+  "googleName": "Mlinar",
+  "formattedAddress": "Ul. Frana Supila 1, 43000, Bjelovar, Croatia",
+  "phone": "091 238 8410",
+  "internationalPhone": "+385 91 238 8410",
+  "website": "https://mlinar.hr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16294734594880011171",
+  "rating": 4.4,
+  "reviewCount": 69,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.8992399,
+    16.8437586
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mlinar-bjelovar/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mlinar-bjelovar/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mlinar-bjelovar/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mlinar-bjelovar/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mlinar-bjelovar/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:01:15.077Z"
+}

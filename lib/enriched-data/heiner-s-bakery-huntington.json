@@ -1,0 +1,44 @@
+{
+  "slug": "heiner-s-bakery-huntington",
+  "name": "Heiner's Bakery",
+  "curatedName": "Heiner's Bakery",
+  "city": "Huntington",
+  "country": "United States",
+  "placeId": "ChIJU2XU8MkrT4gROdtEcHyKEE0",
+  "googleName": "Heiner's Bakery Inc",
+  "formattedAddress": "5015 Raven Dr, Charleston, WV 25306, USA",
+  "phone": "(304) 459-8255",
+  "internationalPhone": "+1 304-459-8255",
+  "website": "http://www.heinersbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5553090607611960121",
+  "rating": 3.9,
+  "reviewCount": 27,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.285836,
+    -81.565483
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 9:00 AM – 5:30 PM",
+    "Friday: 9:00 AM – 5:30 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/heiner-s-bakery-huntington/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/heiner-s-bakery-huntington/1.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:35:27.928Z"
+}

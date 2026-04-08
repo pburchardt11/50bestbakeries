@@ -1,0 +1,47 @@
+{
+  "slug": "backerei-fuchs-bad-staffelstein",
+  "name": "Bäckerei Fuchs",
+  "curatedName": "Bäckerei Fuchs",
+  "city": "Bad Staffelstein",
+  "country": "Germany",
+  "placeId": "ChIJUVVBEFVVVQURVCwR2t71AVY",
+  "googleName": "Bäckerei Fuchs",
+  "formattedAddress": "Bamberger Str. 35A, 96231 Bad Staffelstein, Germany",
+  "phone": "09573 330115",
+  "internationalPhone": "+49 9573 330115",
+  "website": "https://www.baeckerei-fuchs.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6197504899728616532",
+  "rating": 4,
+  "reviewCount": 39,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.09902169999999,
+    10.9989883
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-fuchs-bad-staffelstein/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-fuchs-bad-staffelstein/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-fuchs-bad-staffelstein/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-fuchs-bad-staffelstein/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-fuchs-bad-staffelstein/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:33:08.466Z"
+}

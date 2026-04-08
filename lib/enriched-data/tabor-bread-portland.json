@@ -1,0 +1,48 @@
+{
+  "slug": "tabor-bread-portland",
+  "name": "Tabor Bread",
+  "curatedName": "Tabor Bread",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJazvA__OglVQRSNySeFVV5XA",
+  "googleName": "Tabor Bread",
+  "formattedAddress": "4438 SE Belmont St, Portland, OR 97215, USA",
+  "phone": "(971) 279-5530",
+  "internationalPhone": "+1 971-279-5530",
+  "website": "http://taborbread.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8135002127498140744",
+  "rating": 4.4,
+  "reviewCount": 739,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5164067,
+    -122.6162426
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Homey counter-serve spot crafting artisanal breads & other baked goods, with sandwiches & coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tabor-bread-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tabor-bread-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tabor-bread-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tabor-bread-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tabor-bread-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:29:33.038Z"
+}

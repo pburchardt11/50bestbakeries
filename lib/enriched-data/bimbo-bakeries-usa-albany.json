@@ -1,0 +1,39 @@
+{
+  "slug": "bimbo-bakeries-usa-albany",
+  "name": "Bimbo Bakeries USA",
+  "curatedName": "Bimbo Bakeries USA",
+  "city": "Albany",
+  "country": "United States",
+  "placeId": "ChIJn2VSUMgL3okRG-tnlt9OjJ8",
+  "googleName": "Bimbo Bakeries",
+  "formattedAddress": "1 Prospect Avenue, Albany, NY 12206, USA",
+  "phone": "(518) 463-2221",
+  "internationalPhone": "+1 518-463-2221",
+  "website": "https://www.bimbobakeriesusa.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11496650670978099995",
+  "rating": 4.1,
+  "reviewCount": 49,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.6734091,
+    -73.7685484
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bimbo-bakeries-usa-albany/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bimbo-bakeries-usa-albany/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bimbo-bakeries-usa-albany/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bimbo-bakeries-usa-albany/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bimbo-bakeries-usa-albany/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:00:44.383Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "max-s-corner-bakery-puerto-princesa-city",
+  "name": "Max's Corner Bakery",
+  "curatedName": "Max's Corner Bakery",
+  "city": "Puerto Princesa City",
+  "country": "Philippines",
+  "placeId": "ChIJ6QWsGnhjtTMRGf_Nv8kMXwI",
+  "googleName": "Max & Bunny",
+  "formattedAddress": "Lansanas Rd, San Pedro, Puerto Princesa City, 5300 Palawan, Philippines",
+  "phone": "0917 702 6649",
+  "internationalPhone": "+63 917 702 6649",
+  "website": "http://www.facebook.com/maxandbunnyshop",
+  "googleMapsUrl": "https://maps.google.com/?cid=170869371509276441",
+  "rating": 4.5,
+  "reviewCount": 335,
+  "priceLevel": null,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    9.7616424,
+    118.7525052
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/max-s-corner-bakery-puerto-princesa-city/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/max-s-corner-bakery-puerto-princesa-city/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/max-s-corner-bakery-puerto-princesa-city/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/max-s-corner-bakery-puerto-princesa-city/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/max-s-corner-bakery-puerto-princesa-city/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:14:36.067Z"
+}

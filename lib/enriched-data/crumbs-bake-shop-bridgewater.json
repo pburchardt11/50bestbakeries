@@ -1,0 +1,33 @@
+{
+  "slug": "crumbs-bake-shop-bridgewater",
+  "name": "Crumbs Bake Shop",
+  "curatedName": "Crumbs Bake Shop",
+  "city": "Bridgewater",
+  "country": "United States",
+  "placeId": "ChIJl07YZxWVw4kRiADIIxaWucM",
+  "googleName": "Crumbs Bake Shop",
+  "formattedAddress": "400 Commons Way, Bridgewater, NJ 08807, USA",
+  "phone": "(908) 552-0073",
+  "internationalPhone": "+1 908-552-0073",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14103468729921175688",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    40.5857629,
+    -74.6188822
+  ],
+  "openingHours": null,
+  "editorialSummary": "Resource for cupcakes in a wide range of creative flavors like milkshake & cookie dough.",
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T12:07:43.771Z"
+}

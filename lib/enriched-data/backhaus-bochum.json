@@ -1,0 +1,48 @@
+{
+  "slug": "backhaus-bochum",
+  "name": "Backhaus",
+  "curatedName": "Backhaus",
+  "city": "Bochum",
+  "country": "Germany",
+  "placeId": "ChIJYVEG0VDeuEcRIawfjvA9XwE",
+  "googleName": "Citybäcker Bochum Linden",
+  "formattedAddress": "Hattinger Str. 788, 44879 Bochum, Germany",
+  "phone": "0234 45261314",
+  "internationalPhone": "+49 234 45261314",
+  "website": "http://www.citybaecker.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=98865820211325985",
+  "rating": 4.3,
+  "reviewCount": 510,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.42834089999999,
+    7.1639059
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhaus-bochum/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhaus-bochum/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhaus-bochum/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhaus-bochum/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backhaus-bochum/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T10:59:17.034Z"
+}

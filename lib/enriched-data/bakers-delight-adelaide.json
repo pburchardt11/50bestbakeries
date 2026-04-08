@@ -1,0 +1,47 @@
+{
+  "slug": "bakers-delight-adelaide",
+  "name": "Bakers Delight",
+  "curatedName": "Bakers Delight",
+  "city": "Adelaide",
+  "country": "Australia",
+  "placeId": "ChIJi83lAY3PsGoRYsvG5wfE1Yk",
+  "googleName": "Bakers Delight Kurralta Park",
+  "formattedAddress": "Shopping Centre, Shop T010/153 Anzac Hwy, Kurralta Park SA 5037, Australia",
+  "phone": "(08) 8371 5396",
+  "internationalPhone": "+61 8 8371 5396",
+  "website": "https://www.bakersdelight.com.au/pages/bakeries/kurralta-park-bakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=9932060091467877218",
+  "rating": 4.3,
+  "reviewCount": 94,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.956045,
+    138.5658943
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-delight-adelaide/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-delight-adelaide/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-delight-adelaide/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-delight-adelaide/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-delight-adelaide/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:15:48.789Z"
+}

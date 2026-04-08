@@ -1,0 +1,31 @@
+{
+  "slug": "rathbones-wakefield",
+  "name": "Rathbones",
+  "curatedName": "Rathbones",
+  "city": "Wakefield",
+  "country": "United Kingdom",
+  "placeId": "ChIJDRc5EwBneUgRi1wMcodMTTU",
+  "googleName": "Rathbones Wakefield",
+  "formattedAddress": "31 Grand Stand Rd, Lofthouse, Wakefield WF3 3JP, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3840810201834609803",
+  "rating": 5,
+  "reviewCount": 2,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "storage"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.7150632,
+    -1.5145076
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:54:41.919Z"
+}

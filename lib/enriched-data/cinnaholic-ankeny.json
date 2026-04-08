@@ -1,0 +1,48 @@
+{
+  "slug": "cinnaholic-ankeny",
+  "name": "Cinnaholic",
+  "curatedName": "Cinnaholic",
+  "city": "Ankeny",
+  "country": "United States",
+  "placeId": "ChIJ30sg4XOF7ocRfRiIAEc2kHk",
+  "googleName": "Cinnaholic",
+  "formattedAddress": "1465 SW Park Square Dr Suite 103, Ankeny, IA 50023, USA",
+  "phone": "(515) 355-3762",
+  "internationalPhone": "+1 515-355-3762",
+  "website": "https://locations.cinnaholic.com/ll/us/ia/ankeny/132/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8759560953815111805",
+  "rating": 4.5,
+  "reviewCount": 127,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.7140905,
+    -93.6186109
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnaholic-ankeny/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnaholic-ankeny/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnaholic-ankeny/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnaholic-ankeny/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnaholic-ankeny/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:05:48.964Z"
+}

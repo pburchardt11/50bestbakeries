@@ -1,0 +1,48 @@
+{
+  "slug": "forn-de-pa-artesa-sant-vicenc-dels-horts",
+  "name": "Forn de Pa Artesà",
+  "curatedName": "Forn de Pa Artesà",
+  "city": "Sant Vicenç dels Horts",
+  "country": "Spain",
+  "placeId": "ChIJy4FfmSebpBIR44oDG2sALg4",
+  "googleName": "Forn de Pa Artesà",
+  "formattedAddress": "Av. Central de Sant Antoni, 39, 08620 Sant Vicenç dels Horts, Barcelona, Spain",
+  "phone": "936 56 12 02",
+  "internationalPhone": "+34 936 56 12 02",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1021754625474398947",
+  "rating": 4.3,
+  "reviewCount": 299,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.3828845,
+    2.0001816
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 2:30 PM",
+    "Tuesday: 6:30 AM – 2:30 PM",
+    "Wednesday: 6:30 AM – 2:30 PM",
+    "Thursday: 6:30 AM – 2:30 PM",
+    "Friday: 6:30 AM – 2:30 PM",
+    "Saturday: 7:00 AM – 2:30 PM",
+    "Sunday: 7:00 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-pa-artesa-sant-vicenc-dels-horts/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-pa-artesa-sant-vicenc-dels-horts/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-pa-artesa-sant-vicenc-dels-horts/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-pa-artesa-sant-vicenc-dels-horts/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-de-pa-artesa-sant-vicenc-dels-horts/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:28:08.985Z"
+}

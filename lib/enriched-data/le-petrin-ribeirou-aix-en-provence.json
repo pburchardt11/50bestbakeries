@@ -1,0 +1,48 @@
+{
+  "slug": "le-petrin-ribeirou-aix-en-provence",
+  "name": "Le Pétrin Ribeirou",
+  "curatedName": "Le Pétrin Ribeirou",
+  "city": "Aix en Provence",
+  "country": "France",
+  "placeId": "ChIJe0GzBPCNyRIReu9_BccV_ko",
+  "googleName": "Le Pétrin Ribeirou",
+  "formattedAddress": "569 Av. Henri Mauriat, 13100 Aix-en-Provence, France",
+  "phone": "04 42 93 50 85",
+  "internationalPhone": "+33 4 42 93 50 85",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5403780547426119546",
+  "rating": 4.1,
+  "reviewCount": 467,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.5161684,
+    5.4662929
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-petrin-ribeirou-aix-en-provence/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-petrin-ribeirou-aix-en-provence/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-petrin-ribeirou-aix-en-provence/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-petrin-ribeirou-aix-en-provence/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-petrin-ribeirou-aix-en-provence/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:53:43.235Z"
+}

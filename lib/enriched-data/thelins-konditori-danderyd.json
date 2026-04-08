@@ -1,0 +1,47 @@
+{
+  "slug": "thelins-konditori-danderyd",
+  "name": "Thelins Konditori",
+  "curatedName": "Thelins Konditori",
+  "city": "Danderyd",
+  "country": "Sweden",
+  "placeId": "ChIJTbDjqyGdX0YRZU_SHSmQTYk",
+  "googleName": "Thelins Konditori",
+  "formattedAddress": "Golfvägen 4, 182 31 Danderyd, Sweden",
+  "phone": "08-755 60 50",
+  "internationalPhone": "+46 8 755 60 50",
+  "website": "http://thelinskonditori.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9893722462671228773",
+  "rating": 4.2,
+  "reviewCount": 78,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.3981396,
+    18.03659
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 10:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thelins-konditori-danderyd/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thelins-konditori-danderyd/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thelins-konditori-danderyd/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thelins-konditori-danderyd/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thelins-konditori-danderyd/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:22:29.585Z"
+}

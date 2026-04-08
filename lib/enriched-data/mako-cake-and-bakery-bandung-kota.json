@@ -1,0 +1,47 @@
+{
+  "slug": "mako-cake-and-bakery-bandung-kota",
+  "name": "Mako Cake and Bakery",
+  "curatedName": "Mako Cake and Bakery",
+  "city": "Bandung Kota",
+  "country": "Indonesia",
+  "placeId": "ChIJgbbEtwTnaC4RoZ78RjE-q1U",
+  "googleName": "MAKO CAKE & BAKERY - Merdeka Bandung",
+  "formattedAddress": "Jl. Merdeka No.54, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40117, Indonesia",
+  "phone": "0821-8088-2009",
+  "internationalPhone": "+62 821-8088-2009",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6173096095606677153",
+  "rating": 4.4,
+  "reviewCount": 150,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.909365999999999,
+    107.6107548
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mako-cake-and-bakery-bandung-kota/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mako-cake-and-bakery-bandung-kota/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mako-cake-and-bakery-bandung-kota/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mako-cake-and-bakery-bandung-kota/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mako-cake-and-bakery-bandung-kota/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:16:50.062Z"
+}

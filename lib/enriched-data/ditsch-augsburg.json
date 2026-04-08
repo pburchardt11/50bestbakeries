@@ -1,0 +1,45 @@
+{
+  "slug": "ditsch-augsburg",
+  "name": "Ditsch",
+  "curatedName": "Ditsch",
+  "city": "Augsburg",
+  "country": "Germany",
+  "placeId": "ChIJRfo2YP-fnkcR4KLPNDrgyO0",
+  "googleName": "Ditsch Bau GmbH & Co. KG",
+  "formattedAddress": "Hauptstraße 39, 86931 Prittriching, Germany",
+  "phone": "08206 96000",
+  "internationalPhone": "+49 8206 96000",
+  "website": "http://www.ditsch-bau.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17134191322929799904",
+  "rating": 4.3,
+  "reviewCount": 18,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "general_contractor",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.20071309999999,
+    10.9257875
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 1:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ditsch-augsburg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ditsch-augsburg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ditsch-augsburg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ditsch-augsburg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ditsch-augsburg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:55:12.131Z"
+}

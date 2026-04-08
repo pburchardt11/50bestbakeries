@@ -1,0 +1,49 @@
+{
+  "slug": "bakeshop-arlington",
+  "name": "Bakeshop",
+  "curatedName": "Bakeshop",
+  "city": "Arlington",
+  "country": "United States",
+  "placeId": "ChIJQ2p5wIW2t4kRdWKtsa-vEQQ",
+  "googleName": "Bakeshop",
+  "formattedAddress": "1025 N Fillmore St G, Arlington, VA 22201, USA",
+  "phone": "(571) 970-6460",
+  "internationalPhone": "+1 571-970-6460",
+  "website": "http://www.bakeshopva.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=293208619890860661",
+  "rating": 4.5,
+  "reviewCount": 608,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.8859861,
+    -77.0927962
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Bakery crafting pies, cookies, cupcakes & other goodies, plus vegan choices in snug surrounds.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakeshop-arlington/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakeshop-arlington/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakeshop-arlington/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakeshop-arlington/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakeshop-arlington/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:56:59.740Z"
+}

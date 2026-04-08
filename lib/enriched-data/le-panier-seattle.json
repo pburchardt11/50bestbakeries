@@ -1,0 +1,47 @@
+{
+  "slug": "le-panier-seattle",
+  "name": "Le Panier",
+  "curatedName": "Le Panier",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJSZYmxLJqkFQRw_JlbdtkVBE",
+  "googleName": "Le Panier",
+  "formattedAddress": "1902 Pike Pl, Seattle, WA 98101, USA",
+  "phone": "(206) 441-3669",
+  "internationalPhone": "+1 206-441-3669",
+  "website": "https://www.lepanier.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1248733890284483267",
+  "rating": 4.7,
+  "reviewCount": 2945,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.6098446,
+    -122.3421937
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Handcrafted goodies run the gamut from fresh-baked bread to macarons, all made in a French style.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-panier-seattle/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-panier-seattle/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-panier-seattle/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-panier-seattle/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-panier-seattle/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:19:09.483Z"
+}

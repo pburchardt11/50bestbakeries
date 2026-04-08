@@ -1,0 +1,39 @@
+{
+  "slug": "sprinkles-cupcakes-nashville",
+  "name": "Sprinkles Cupcakes",
+  "curatedName": "Sprinkles Cupcakes",
+  "city": "Nashville",
+  "country": "United States",
+  "placeId": "ChIJ9S4myS9kZIgRylQ2yJSswLc",
+  "googleName": "Sprinkles Cupcakes and Ice Cream",
+  "formattedAddress": "2606 12th Ave S, Nashville, TN 37204, USA",
+  "phone": "(615) 712-6885",
+  "internationalPhone": "+1 615-712-6885",
+  "website": "http://www.sprinkles.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13240772659483399370",
+  "rating": 4.3,
+  "reviewCount": 43,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    36.1233143,
+    -86.7897424
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sprinkles-cupcakes-nashville/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sprinkles-cupcakes-nashville/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sprinkles-cupcakes-nashville/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sprinkles-cupcakes-nashville/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sprinkles-cupcakes-nashville/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:46:56.149Z"
+}

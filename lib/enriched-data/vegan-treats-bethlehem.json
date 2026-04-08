@@ -1,0 +1,48 @@
+{
+  "slug": "vegan-treats-bethlehem",
+  "name": "Vegan Treats",
+  "curatedName": "Vegan Treats",
+  "city": "Bethlehem",
+  "country": "United States",
+  "placeId": "ChIJDTJo37Y_xIkRKJgGaexUQSM",
+  "googleName": "Vegan Treats, Inc.",
+  "formattedAddress": "1444 Linden St, Bethlehem, PA 18018, USA",
+  "phone": "(610) 861-7660",
+  "internationalPhone": "+1 610-861-7660",
+  "website": "http://www.vegantreats.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2540405039164725288",
+  "rating": 4.6,
+  "reviewCount": 1912,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.6334616,
+    -75.36870329999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Hip, popular outlet for gourmet desserts including cookies & cakes, plus soft serve ice cream.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vegan-treats-bethlehem/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vegan-treats-bethlehem/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vegan-treats-bethlehem/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vegan-treats-bethlehem/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vegan-treats-bethlehem/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:31:38.128Z"
+}

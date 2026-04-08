@@ -1,0 +1,45 @@
+{
+  "slug": "king-s-bakery-calgary",
+  "name": "King's Bakery",
+  "curatedName": "King's Bakery",
+  "city": "Calgary",
+  "country": "Canada",
+  "placeId": "ChIJLWQ7lmV3cVMR7-j2fYtgUk8",
+  "googleName": "Kings Bakery Ltd.",
+  "formattedAddress": "11769 40 St SE Unit 105, Calgary, AB T2Z 4M8, Canada",
+  "phone": "(403) 607-0496",
+  "internationalPhone": "+1 403-607-0496",
+  "website": "http://www.kingsbakery.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5715737029316634863",
+  "rating": 4.4,
+  "reviewCount": 36,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.9452691,
+    -113.9786321
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 4:30 – 8:30 AM",
+    "Wednesday: 4:30 – 7:30 AM",
+    "Thursday: 4:30 – 8:30 AM",
+    "Friday: 4:30 – 8:30 AM",
+    "Saturday: 4:30 – 8:30 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/king-s-bakery-calgary/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/king-s-bakery-calgary/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/king-s-bakery-calgary/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/king-s-bakery-calgary/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/king-s-bakery-calgary/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:32:43.533Z"
+}

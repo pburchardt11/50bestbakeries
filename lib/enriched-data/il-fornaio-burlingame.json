@@ -1,0 +1,46 @@
+{
+  "slug": "il-fornaio-burlingame",
+  "name": "Il Fornaio",
+  "curatedName": "Il Fornaio",
+  "city": "Burlingame",
+  "country": "United States",
+  "placeId": "ChIJxyMCLPKdj4ARCOZkwvPLG1c",
+  "googleName": "Il Fornaio Burlingame",
+  "formattedAddress": "327 Lorton Ave, Burlingame, CA 94010, USA",
+  "phone": "(650) 375-8000",
+  "internationalPhone": "+1 650-375-8000",
+  "website": "https://www.ilfornaio.com/location/il-fornaio-burlingame/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6276834753469801992",
+  "rating": 4.3,
+  "reviewCount": 1317,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.579933,
+    -122.347116
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 9:00 PM",
+    "Tuesday: 12:00 – 9:00 PM",
+    "Wednesday: 12:00 – 9:00 PM",
+    "Thursday: 12:00 – 9:00 PM",
+    "Friday: 12:00 – 9:00 PM",
+    "Saturday: 12:00 – 9:00 PM",
+    "Sunday: 12:00 – 9:00 PM"
+  ],
+  "editorialSummary": "Upmarket chain for Italian dining, including freshly made pasta & bread from an in-house bakery.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/il-fornaio-burlingame/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/il-fornaio-burlingame/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/il-fornaio-burlingame/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/il-fornaio-burlingame/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/il-fornaio-burlingame/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:17:05.499Z"
+}

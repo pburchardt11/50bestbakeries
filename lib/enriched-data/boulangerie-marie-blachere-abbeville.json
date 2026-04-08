@@ -1,0 +1,50 @@
+{
+  "slug": "boulangerie-marie-blachere-abbeville",
+  "name": "Boulangerie Marie Blachère",
+  "curatedName": "Boulangerie Marie Blachère",
+  "city": "Abbeville",
+  "country": "France",
+  "placeId": "ChIJmdbYkseN3UcRaDB92szBEHA",
+  "googleName": "Marie Blachère ABBEVILLE",
+  "formattedAddress": "14 Bd de la République, 80100 Abbeville, France",
+  "phone": "03 22 19 09 12",
+  "internationalPhone": "+33 3 22 19 09 12",
+  "website": "https://boulangeries.marieblachere.com/fr/france-FR/5043/marie-blachere-abbeville/details?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+  "googleMapsUrl": "https://maps.google.com/?cid=8075167217458425960",
+  "rating": 4,
+  "reviewCount": 677,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.1110595,
+    1.8382593
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:30 PM",
+    "Tuesday: 6:30 AM – 7:30 PM",
+    "Wednesday: 6:30 AM – 7:30 PM",
+    "Thursday: 6:30 AM – 7:30 PM",
+    "Friday: 6:30 AM – 7:30 PM",
+    "Saturday: 6:30 AM – 7:30 PM",
+    "Sunday: 7:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-marie-blachere-abbeville/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-marie-blachere-abbeville/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-marie-blachere-abbeville/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-marie-blachere-abbeville/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-marie-blachere-abbeville/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:41:23.923Z"
+}

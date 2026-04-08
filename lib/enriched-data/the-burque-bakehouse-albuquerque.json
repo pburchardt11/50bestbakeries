@@ -1,0 +1,47 @@
+{
+  "slug": "the-burque-bakehouse-albuquerque",
+  "name": "The Burque Bakehouse",
+  "curatedName": "The Burque Bakehouse",
+  "city": "Albuquerque",
+  "country": "United States",
+  "placeId": "ChIJ__-TyVp0IocR-J-8dVo5geM",
+  "googleName": "The Burque Bakehouse",
+  "formattedAddress": "640 Broadway Blvd SE, Albuquerque, NM 87102, USA",
+  "phone": "(505) 234-6294",
+  "internationalPhone": "+1 505-234-6294",
+  "website": "http://www.burquebakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16393447179290451960",
+  "rating": 4.9,
+  "reviewCount": 594,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.0771715,
+    -106.6455805
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-burque-bakehouse-albuquerque/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-burque-bakehouse-albuquerque/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-burque-bakehouse-albuquerque/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-burque-bakehouse-albuquerque/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-burque-bakehouse-albuquerque/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:30:03.495Z"
+}

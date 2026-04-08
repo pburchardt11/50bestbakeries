@@ -1,0 +1,39 @@
+{
+  "slug": "french-meadow-bakery-cafe-atlanta",
+  "name": "French Meadow Bakery Cafe",
+  "curatedName": "French Meadow Bakery Cafe",
+  "city": "Atlanta",
+  "country": "United States",
+  "placeId": "ChIJDeacAz399IgRDxmRTX1WXMQ",
+  "googleName": "French Meadow",
+  "formattedAddress": "6000 N Terminal Pkwy, Atlanta, GA 30337, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.frenchmeadowcafe.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14149279225463511311",
+  "rating": 2.6,
+  "reviewCount": 27,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    33.6399869,
+    -84.41967819999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/french-meadow-bakery-cafe-atlanta/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/french-meadow-bakery-cafe-atlanta/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/french-meadow-bakery-cafe-atlanta/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/french-meadow-bakery-cafe-atlanta/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/french-meadow-bakery-cafe-atlanta/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:13:14.388Z"
+}

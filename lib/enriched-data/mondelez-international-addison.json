@@ -1,0 +1,39 @@
+{
+  "slug": "mondelez-international-addison",
+  "name": "Mondelez International",
+  "curatedName": "Mondelez International",
+  "city": "Addison",
+  "country": "United States",
+  "placeId": "ChIJQ50eaxetD4gR16TDb1JcwRU",
+  "googleName": "Mondelez/ Nabisco",
+  "formattedAddress": "221 S Swift Rd, Addison, IL 60101, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1567635654433809623",
+  "rating": 3.6,
+  "reviewCount": 17,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "storage"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.9266537,
+    -88.0399815
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 4:00 PM",
+    "Tuesday: 5:00 AM – 4:00 PM",
+    "Wednesday: 5:00 AM – 4:00 PM",
+    "Thursday: 5:00 AM – 4:00 PM",
+    "Friday: 5:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T12:22:27.510Z"
+}

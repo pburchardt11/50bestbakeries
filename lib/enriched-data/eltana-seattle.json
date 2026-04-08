@@ -1,0 +1,49 @@
+{
+  "slug": "eltana-seattle",
+  "name": "Eltana",
+  "curatedName": "Eltana",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJk7Lfx81qkFQRtCabom-m91s",
+  "googleName": "Eltana",
+  "formattedAddress": "1538 12th Ave, Seattle, WA 98122, USA",
+  "phone": "(206) 724-0660",
+  "internationalPhone": "+1 206-724-0660",
+  "website": "https://eltana.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6626948375098631860",
+  "rating": 4.2,
+  "reviewCount": 761,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.6150271,
+    -122.3165276
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Local counter-serve chain featuring wood-fired bagels, plus sandwiches & Middle Eastern food.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eltana-seattle/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eltana-seattle/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eltana-seattle/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eltana-seattle/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eltana-seattle/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:10:18.862Z"
+}

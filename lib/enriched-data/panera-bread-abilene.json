@@ -1,0 +1,50 @@
+{
+  "slug": "panera-bread-abilene",
+  "name": "Panera Bread",
+  "curatedName": "Panera Bread",
+  "city": "Abilene",
+  "country": "United States",
+  "placeId": "ChIJx2dyc0ONVoYRdjUa01_-C8g",
+  "googleName": "Panera Bread",
+  "formattedAddress": "3506 S Clack St, Abilene, TX 79606, USA",
+  "phone": "(325) 480-0304",
+  "internationalPhone": "+1 325-480-0304",
+  "website": "https://www.panerabread.com/en-us/cafe/locations/tx/abilene/3506-s-clack-street?utm_medium=local&utm_source=google&utm_campaign=dpm-dist&utm_term=606453&utm_content=main",
+  "googleMapsUrl": "https://maps.google.com/?cid=14414894719846462838",
+  "rating": 3.2,
+  "reviewCount": 483,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.4084462,
+    -99.7708299
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Counter-serve bakery/cafe chain serving sandwiches, salads & more, known for its bread & free WiFi.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panera-bread-abilene/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panera-bread-abilene/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panera-bread-abilene/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panera-bread-abilene/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panera-bread-abilene/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:24:23.014Z"
+}

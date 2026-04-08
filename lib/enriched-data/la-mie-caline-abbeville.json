@@ -1,0 +1,49 @@
+{
+  "slug": "la-mie-caline-abbeville",
+  "name": "La Mie Câline",
+  "curatedName": "La Mie Câline",
+  "city": "Abbeville",
+  "country": "France",
+  "placeId": "ChIJORXubriM3UcRdVPpcserSS8",
+  "googleName": "La Mie Câline",
+  "formattedAddress": "26 Pl. Max Lejeune, 80100 Abbeville, France",
+  "phone": "03 22 28 94 17",
+  "internationalPhone": "+33 3 22 28 94 17",
+  "website": "https://www.lamiecaline.com/boutiques/abbeville/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+  "googleMapsUrl": "https://maps.google.com/?cid=3407443466197226357",
+  "rating": 4.4,
+  "reviewCount": 995,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.1054829,
+    1.8334282
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:15 PM",
+    "Tuesday: 7:00 AM – 7:15 PM",
+    "Wednesday: 7:00 AM – 7:15 PM",
+    "Thursday: 7:00 AM – 7:15 PM",
+    "Friday: 7:00 AM – 7:15 PM",
+    "Saturday: 7:00 AM – 7:15 PM",
+    "Sunday: 7:00 AM – 7:15 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mie-caline-abbeville/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mie-caline-abbeville/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mie-caline-abbeville/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mie-caline-abbeville/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-mie-caline-abbeville/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:50:59.353Z"
+}

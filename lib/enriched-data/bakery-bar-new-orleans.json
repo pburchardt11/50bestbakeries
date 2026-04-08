@@ -1,0 +1,41 @@
+{
+  "slug": "bakery-bar-new-orleans",
+  "name": "Bakery Bar",
+  "curatedName": "Bakery Bar",
+  "city": "New Orleans",
+  "country": "United States",
+  "placeId": "ChIJzayfc3qmIIYRrN972H1ryRM",
+  "googleName": "Bakery Bar",
+  "formattedAddress": "1179 Annunciation St, New Orleans, LA 70130, USA",
+  "phone": "(504) 513-8664",
+  "internationalPhone": "+1 504-513-8664",
+  "website": "http://bakery.bar/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1425788945286553516",
+  "rating": 4.5,
+  "reviewCount": 998,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    29.9389025,
+    -90.0686838
+  ],
+  "openingHours": null,
+  "editorialSummary": "Cozy spot serving up baked goods, doberge cakes by the slice, inventive cocktails & savory bites.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-bar-new-orleans/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-bar-new-orleans/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-bar-new-orleans/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-bar-new-orleans/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-bar-new-orleans/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:33:14.416Z"
+}

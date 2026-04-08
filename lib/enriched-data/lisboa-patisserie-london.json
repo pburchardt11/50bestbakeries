@@ -1,0 +1,48 @@
+{
+  "slug": "lisboa-patisserie-london",
+  "name": "Lisboa Patisserie",
+  "curatedName": "Lisboa Patisserie",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJ6fxvDBkQdkgRl42frZpcPrg",
+  "googleName": "Lisboa Patisserie",
+  "formattedAddress": "57 Golborne Rd, London W10 5NR, UK",
+  "phone": "020 8968 5242",
+  "internationalPhone": "+44 20 8968 5242",
+  "website": "http://www.lisboalondon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13276150570942434711",
+  "rating": 4.5,
+  "reviewCount": 1949,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5223935,
+    -0.2074005
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 5:30 PM",
+    "Wednesday: 7:00 AM – 5:30 PM",
+    "Thursday: 7:00 AM – 5:30 PM",
+    "Friday: 7:00 AM – 5:30 PM",
+    "Saturday: 7:00 AM – 5:30 PM",
+    "Sunday: 7:30 AM – 5:30 PM"
+  ],
+  "editorialSummary": "Simple cafe for coffee and numerous Portuguese pastries, including pastéis de nata custard tarts.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lisboa-patisserie-london/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lisboa-patisserie-london/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lisboa-patisserie-london/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lisboa-patisserie-london/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lisboa-patisserie-london/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:40:20.157Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "ayu-bakehouse-new-orleans",
+  "name": "Ayu Bakehouse",
+  "curatedName": "Ayu Bakehouse",
+  "city": "New Orleans",
+  "country": "United States",
+  "placeId": "ChIJcZCKslinIIYRRebPp7wa4Zs",
+  "googleName": "Ayu Bakehouse",
+  "formattedAddress": "801 Frenchmen St, New Orleans, LA 70117, USA",
+  "phone": "(504) 302-7985",
+  "internationalPhone": "+1 504-302-7985",
+  "website": "http://ayubakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11232288343210321477",
+  "rating": 4.8,
+  "reviewCount": 802,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.9656621,
+    -90.05779969999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM",
+    "Tuesday: 8:00 AM – 2:00 PM",
+    "Wednesday: 8:00 AM – 3:30 PM",
+    "Thursday: 8:00 AM – 3:30 PM",
+    "Friday: 8:00 AM – 3:30 PM",
+    "Saturday: 8:00 AM – 3:30 PM",
+    "Sunday: 8:00 AM – 3:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ayu-bakehouse-new-orleans/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ayu-bakehouse-new-orleans/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ayu-bakehouse-new-orleans/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ayu-bakehouse-new-orleans/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ayu-bakehouse-new-orleans/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:52:52.767Z"
+}

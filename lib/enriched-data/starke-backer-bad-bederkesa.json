@@ -1,0 +1,47 @@
+{
+  "slug": "starke-backer-bad-bederkesa",
+  "name": "Starke Bäcker",
+  "curatedName": "Starke Bäcker",
+  "city": "Bad Bederkesa",
+  "country": "Germany",
+  "placeId": "ChIJUzy-U-JSsUcRRb_CWjkGOJ0",
+  "googleName": "Starke Bäcker Bad Bederkesa",
+  "formattedAddress": "Handelspark 17, 27624 Geestland, Germany",
+  "phone": "04745 7820702",
+  "internationalPhone": "+49 4745 7820702",
+  "website": "http://www.starkebaecker.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11328811706056097605",
+  "rating": 4.4,
+  "reviewCount": 137,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.6277144,
+    8.8108997
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/starke-backer-bad-bederkesa/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/starke-backer-bad-bederkesa/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/starke-backer-bad-bederkesa/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/starke-backer-bad-bederkesa/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/starke-backer-bad-bederkesa/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:13:24.690Z"
+}

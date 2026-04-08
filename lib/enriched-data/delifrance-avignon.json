@@ -1,0 +1,47 @@
+{
+  "slug": "delifrance-avignon",
+  "name": "Delifrance",
+  "curatedName": "Delifrance",
+  "city": "Avignon",
+  "country": "France",
+  "placeId": "ChIJH36B3c_rtRIRHq4r_FgZHZo",
+  "googleName": "Delifrance",
+  "formattedAddress": "643 Rue Sainte-Geneviève, 84000 Avignon, France",
+  "phone": "04 90 80 44 80",
+  "internationalPhone": "+33 4 90 80 44 80",
+  "website": "https://www.delifrance.com/fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11105060126144048670",
+  "rating": 3.9,
+  "reviewCount": 93,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.9303882,
+    4.777559
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delifrance-avignon/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delifrance-avignon/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delifrance-avignon/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delifrance-avignon/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delifrance-avignon/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:25:32.551Z"
+}

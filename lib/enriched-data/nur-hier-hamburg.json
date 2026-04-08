@@ -1,0 +1,47 @@
+{
+  "slug": "nur-hier-hamburg",
+  "name": "Nur Hier",
+  "curatedName": "Nur Hier",
+  "city": "Hamburg",
+  "country": "Germany",
+  "placeId": "ChIJPxGQbRiPsUcRQOMYCHPEjPk",
+  "googleName": "Bäckerei Nur Hier",
+  "formattedAddress": "Esplanade, Colonnaden 51, 20354 Hamburg, Germany",
+  "phone": "040 32516397",
+  "internationalPhone": "+49 40 32516397",
+  "website": "http://www.nur-hier.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17981963410519679808",
+  "rating": 4,
+  "reviewCount": 788,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.5578254,
+    9.989751499999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nur-hier-hamburg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nur-hier-hamburg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nur-hier-hamburg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nur-hier-hamburg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nur-hier-hamburg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:08:43.789Z"
+}

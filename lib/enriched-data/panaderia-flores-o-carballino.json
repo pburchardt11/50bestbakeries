@@ -1,0 +1,47 @@
+{
+  "slug": "panaderia-flores-o-carballino",
+  "name": "Panadería Flores",
+  "curatedName": "Panadería Flores",
+  "city": "O Carballiño",
+  "country": "Spain",
+  "placeId": "ChIJXRLCDI_tLw0ROFIT9EPCkCI",
+  "googleName": "Panadería Flores",
+  "formattedAddress": "32500 O Carballiño, Ourense, Spain",
+  "phone": "988 27 28 75",
+  "internationalPhone": "+34 988 27 28 75",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2490704191049388600",
+  "rating": 4.7,
+  "reviewCount": 106,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.4287952,
+    -8.0778111
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:30 PM",
+    "Tuesday: 8:00 AM – 3:30 PM",
+    "Wednesday: 8:00 AM – 3:30 PM",
+    "Thursday: 8:00 AM – 3:30 PM",
+    "Friday: 8:00 AM – 3:30 PM",
+    "Saturday: 8:00 AM – 3:30 PM",
+    "Sunday: 8:00 AM – 3:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-flores-o-carballino/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-flores-o-carballino/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-flores-o-carballino/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-flores-o-carballino/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-flores-o-carballino/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:43:55.400Z"
+}

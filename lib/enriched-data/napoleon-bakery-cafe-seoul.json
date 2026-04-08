@@ -1,0 +1,47 @@
+{
+  "slug": "napoleon-bakery-cafe-seoul",
+  "name": "Napoleon Bakery Cafe",
+  "curatedName": "Napoleon Bakery Cafe",
+  "city": "Seoul",
+  "country": "South Korea",
+  "placeId": "ChIJf-oLYNG8fDURslvQf3k7cQc",
+  "googleName": "Napoleon Bakery",
+  "formattedAddress": "7 Seongbuk-ro, Seongbuk District, Seoul, South Korea",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://napoleonbakery.co.kr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=536275223655242674",
+  "rating": 4.1,
+  "reviewCount": 1562,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.5889099,
+    127.0051879
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:30 PM",
+    "Tuesday: 9:00 AM – 8:30 PM",
+    "Wednesday: 9:00 AM – 8:30 PM",
+    "Thursday: 9:00 AM – 8:30 PM",
+    "Friday: 9:00 AM – 8:30 PM",
+    "Saturday: 9:00 AM – 8:30 PM",
+    "Sunday: 9:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/napoleon-bakery-cafe-seoul/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/napoleon-bakery-cafe-seoul/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/napoleon-bakery-cafe-seoul/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/napoleon-bakery-cafe-seoul/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/napoleon-bakery-cafe-seoul/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:17:33.802Z"
+}

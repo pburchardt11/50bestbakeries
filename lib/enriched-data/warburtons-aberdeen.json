@@ -1,0 +1,35 @@
+{
+  "slug": "warburtons-aberdeen",
+  "name": "Warburtons",
+  "curatedName": "Warburtons",
+  "city": "Aberdeen",
+  "country": "United Kingdom",
+  "placeId": "ChIJL9ClzIgahEgRuJH_KPhHZ5w",
+  "googleName": "Warburtons Ltd",
+  "formattedAddress": "Badentoy Ave, Badentoy Cres, Portlethen, Aberdeen AB12 4YD, UK",
+  "phone": "01224 781812",
+  "internationalPhone": "+44 1224 781812",
+  "website": "http://www.warburtons.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11270055723683254712",
+  "rating": 4.5,
+  "reviewCount": 8,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    57.0709258,
+    -2.1603551
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/warburtons-aberdeen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:48:11.676Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "cake-box-barnsley",
+  "name": "Cake Box",
+  "curatedName": "Cake Box",
+  "city": "Barnsley",
+  "country": "United Kingdom",
+  "placeId": "ChIJwfkzuEN7eUgREgYg-VA8tvU",
+  "googleName": "Cake Box Barnsley",
+  "formattedAddress": "24-26 Eldon St, Barnsley S70 2JB, UK",
+  "phone": "020 8050 4027",
+  "internationalPhone": "+44 20 8050 4027",
+  "website": "http://www.eggfreecake.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17705405303528359442",
+  "rating": 4.8,
+  "reviewCount": 10,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    53.55310430000001,
+    -1.4803305
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-box-barnsley/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-box-barnsley/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-box-barnsley/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-box-barnsley/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-box-barnsley/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:50:38.187Z"
+}

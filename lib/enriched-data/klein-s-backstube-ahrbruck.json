@@ -1,0 +1,49 @@
+{
+  "slug": "klein-s-backstube-ahrbruck",
+  "name": "Klein’s Backstube",
+  "curatedName": "Klein’s Backstube",
+  "city": "Ahrbrück",
+  "country": "Germany",
+  "placeId": "ChIJ-7LaQCIAv0cRARI0aDV74N0",
+  "googleName": "Stadtbäckerei Hürth Klein's Backstube GmbH",
+  "formattedAddress": "An den Märkten 3-5, 53506 Ahrbrück, Germany",
+  "phone": "02643 9414134",
+  "internationalPhone": "+49 2643 9414134",
+  "website": "http://www.kleinsbackstube.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15987914146476986881",
+  "rating": 4.2,
+  "reviewCount": 419,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.4925668,
+    6.981497
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klein-s-backstube-ahrbruck/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klein-s-backstube-ahrbruck/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klein-s-backstube-ahrbruck/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klein-s-backstube-ahrbruck/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klein-s-backstube-ahrbruck/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:03:39.867Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "boulangerie-mariette-tagolsheim",
+  "name": "Boulangerie Mariette",
+  "curatedName": "Boulangerie Mariette",
+  "city": "Tagolsheim",
+  "country": "France",
+  "placeId": "ChIJNYfpNwCPkUcRnQwDKBu8YYY",
+  "googleName": "Mariette - Pains et Pâtisseries",
+  "formattedAddress": "1 Rte nationale, 68720 Tagolsheim, France",
+  "phone": "03 89 68 24 35",
+  "internationalPhone": "+33 3 89 68 24 35",
+  "website": "https://mariette-pains-patisseries.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9683227498644704413",
+  "rating": 3.3,
+  "reviewCount": 95,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.654751,
+    7.266
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:00 PM",
+    "Tuesday: 5:00 AM – 7:00 PM",
+    "Wednesday: 5:00 AM – 7:00 PM",
+    "Thursday: 5:00 AM – 7:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 5:00 AM – 7:00 PM",
+    "Sunday: 5:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-mariette-tagolsheim/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-mariette-tagolsheim/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-mariette-tagolsheim/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-mariette-tagolsheim/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-mariette-tagolsheim/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:42:34.050Z"
+}

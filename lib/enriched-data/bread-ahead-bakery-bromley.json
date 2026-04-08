@@ -1,0 +1,49 @@
+{
+  "slug": "bread-ahead-bakery-bromley",
+  "name": "Bread Ahead Bakery",
+  "curatedName": "Bread Ahead Bakery",
+  "city": "Bromley",
+  "country": "United Kingdom",
+  "placeId": "ChIJzYRjHYar2EcRRSPGd3F93NU",
+  "googleName": "Bread Ahead Bakery Bromley",
+  "formattedAddress": "The Glades, Bromley BR1 1DN, UK",
+  "phone": "020 3319 2673",
+  "internationalPhone": "+44 20 3319 2673",
+  "website": "https://www.breadahead.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15410329951249244997",
+  "rating": 4.3,
+  "reviewCount": 249,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.4026661,
+    0.0157553
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-ahead-bakery-bromley/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-ahead-bakery-bromley/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-ahead-bakery-bromley/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-ahead-bakery-bromley/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-ahead-bakery-bromley/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:28:21.630Z"
+}

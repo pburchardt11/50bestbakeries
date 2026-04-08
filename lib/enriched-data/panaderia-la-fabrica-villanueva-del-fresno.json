@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-la-fabrica-villanueva-del-fresno",
+  "name": "Panadería La Fábrica",
+  "curatedName": "Panadería La Fábrica",
+  "city": "Villanueva del Fresno",
+  "country": "Spain",
+  "placeId": "ChIJCWwIjW7UEA0RF2phINvOdZg",
+  "googleName": "Panadería La Fábrica",
+  "formattedAddress": "Av. Juan Carlos I, 36, 06110 Villanueva del Fresno, Badajoz, Spain",
+  "phone": "924 42 70 17",
+  "internationalPhone": "+34 924 42 70 17",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10985914306576607767",
+  "rating": 4.2,
+  "reviewCount": 38,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.3776315,
+    -7.165006999999998
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-fabrica-villanueva-del-fresno/0.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:47:21.850Z"
+}

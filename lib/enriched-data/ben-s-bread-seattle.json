@@ -1,0 +1,47 @@
+{
+  "slug": "ben-s-bread-seattle",
+  "name": "Ben's Bread",
+  "curatedName": "Ben's Bread",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJNyky-FEVkFQRyrVSbRhKg3w",
+  "googleName": "Ben's Bread Co.",
+  "formattedAddress": "216 N 70th St, Seattle, WA 98103, USA",
+  "phone": "(206) 420-7506",
+  "internationalPhone": "+1 206-420-7506",
+  "website": "https://www.bensbread.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8972096351425967562",
+  "rating": 4.6,
+  "reviewCount": 313,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.67968949999999,
+    -122.3557727
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM, 5:30 – 7:30 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ben-s-bread-seattle/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ben-s-bread-seattle/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ben-s-bread-seattle/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ben-s-bread-seattle/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ben-s-bread-seattle/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:59:01.413Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "fuji-bakery-bellevue",
+  "name": "Fuji Bakery",
+  "curatedName": "Fuji Bakery",
+  "city": "Bellevue",
+  "country": "United States",
+  "placeId": "ChIJ2UIdj7xqkFQRf5OVSNKl2DQ",
+  "googleName": "Fuji Bakery-ID/King St",
+  "formattedAddress": "526 S King St #2834, Seattle, WA 98104, USA",
+  "phone": "(206) 216-3616",
+  "internationalPhone": "+1 206-216-3616",
+  "website": "http://fujibakeryinc.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3807975807521231743",
+  "rating": 4.6,
+  "reviewCount": 558,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.5984521,
+    -122.3265114
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: 7:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Branch of a bakery chain with Japanese & French treats made from carefully sourced ingredients.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fuji-bakery-bellevue/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fuji-bakery-bellevue/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fuji-bakery-bellevue/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fuji-bakery-bellevue/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fuji-bakery-bellevue/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:13:48.774Z"
+}

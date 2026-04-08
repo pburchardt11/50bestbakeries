@@ -1,0 +1,49 @@
+{
+  "slug": "la-bou-bakery-and-cafe-carmichael",
+  "name": "La Bou Bakery and Cafe",
+  "curatedName": "La Bou Bakery and Cafe",
+  "city": "Carmichael",
+  "country": "United States",
+  "placeId": "ChIJ4e-F8yDcmoAR1ZmszjkKu0I",
+  "googleName": "La Bou Bakery & Cafe",
+  "formattedAddress": "7250 Fair Oaks Blvd, Carmichael, CA 95608, USA",
+  "phone": "(916) 481-9948",
+  "internationalPhone": "+1 916-481-9948",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4808448270544968149",
+  "rating": 4.3,
+  "reviewCount": 350,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.6330716,
+    -121.3275747
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 4:00 PM",
+    "Tuesday: 6:30 AM – 4:00 PM",
+    "Wednesday: 6:30 AM – 4:00 PM",
+    "Thursday: 6:30 AM – 4:00 PM",
+    "Friday: 6:30 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Local bakery chain serving croissants & other pastries, plus soups, salads & sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-bou-bakery-and-cafe-carmichael/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-bou-bakery-and-cafe-carmichael/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-bou-bakery-and-cafe-carmichael/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-bou-bakery-and-cafe-carmichael/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-bou-bakery-and-cafe-carmichael/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:18:14.684Z"
+}

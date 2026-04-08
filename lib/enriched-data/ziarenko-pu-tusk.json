@@ -1,0 +1,39 @@
+{
+  "slug": "ziarenko-pu-tusk",
+  "name": "Ziarenko",
+  "curatedName": "Ziarenko",
+  "city": "Pułtusk",
+  "country": "Poland",
+  "placeId": "ChIJUe4FZw-SHkcRB6lyZH2uXIk",
+  "googleName": "Sklep Ogrodniczo-Przemysłowy Ziarenko",
+  "formattedAddress": "Rynek 8, 06-100 Pułtusk, Poland",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9897977934632888583",
+  "rating": 5,
+  "reviewCount": 4,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.706698,
+    21.0893899
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 4:30 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:33:19.847Z"
+}

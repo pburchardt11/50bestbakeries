@@ -1,0 +1,48 @@
+{
+  "slug": "breads-on-oak-new-orleans",
+  "name": "Breads On Oak",
+  "curatedName": "Breads On Oak",
+  "city": "New Orleans",
+  "country": "United States",
+  "placeId": "ChIJ9XgipkClIIYRiIeH-7ARnyE",
+  "googleName": "Breads On Oak",
+  "formattedAddress": "8640 Oak St Suite A, New Orleans, LA 70118, USA",
+  "phone": "(504) 324-8271",
+  "internationalPhone": "+1 504-324-8271",
+  "website": "http://www.breadsonoak.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2422674576380495752",
+  "rating": 4.7,
+  "reviewCount": 999,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.9512522,
+    -90.1347723
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 3:00 PM",
+    "Tuesday: 7:30 AM – 3:00 PM",
+    "Wednesday: 7:30 AM – 3:00 PM",
+    "Thursday: 7:30 AM – 3:00 PM",
+    "Friday: 7:30 AM – 3:00 PM",
+    "Saturday: 7:30 AM – 3:00 PM",
+    "Sunday: 7:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Low-key organic café & bakery for breads & vegan breakfast & lunch plus coffee, beer & wine.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breads-on-oak-new-orleans/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breads-on-oak-new-orleans/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breads-on-oak-new-orleans/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breads-on-oak-new-orleans/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breads-on-oak-new-orleans/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:33:41.061Z"
+}

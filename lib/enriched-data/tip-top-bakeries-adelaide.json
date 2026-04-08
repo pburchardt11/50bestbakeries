@@ -1,0 +1,41 @@
+{
+  "slug": "tip-top-bakeries-adelaide",
+  "name": "Tip Top Bakeries",
+  "curatedName": "Tip Top Bakeries",
+  "city": "Adelaide",
+  "country": "Australia",
+  "placeId": "ChIJn6PL1de3sGoRvBy8ACEJtjs",
+  "googleName": "Tip Top Bakeries",
+  "formattedAddress": "29/43 Gum Ave, Dry Creek SA 5094, Australia",
+  "phone": "(08) 8208 0288",
+  "internationalPhone": "+61 8 8208 0288",
+  "website": "http://tip-top-bakeries.edan.io/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4302636531349986492",
+  "rating": 4.1,
+  "reviewCount": 43,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.8407994,
+    138.5914323
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:30 PM",
+    "Tuesday: 8:30 AM – 5:30 PM",
+    "Wednesday: 8:30 AM – 5:30 PM",
+    "Thursday: 8:30 AM – 5:30 PM",
+    "Friday: 8:30 AM – 5:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:30:09.371Z"
+}

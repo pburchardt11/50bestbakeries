@@ -1,0 +1,47 @@
+{
+  "slug": "rustic-bakery-toronto",
+  "name": "Rustic Bakery",
+  "curatedName": "Rustic Bakery",
+  "city": "Toronto",
+  "country": "Canada",
+  "placeId": "ChIJFzKJdm0xK4gRkov6QAoqsuM",
+  "googleName": "Rustic Bakery",
+  "formattedAddress": "318 Rustic Rd, North York, ON M6L 1W5, Canada",
+  "phone": "(416) 245-1919",
+  "internationalPhone": "+1 416-245-1919",
+  "website": "http://therusticbakery.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16407222615992339346",
+  "rating": 4.6,
+  "reviewCount": 1354,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.7154972,
+    -79.4903306
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:30 PM",
+    "Tuesday: 6:00 AM – 8:30 PM",
+    "Wednesday: 6:00 AM – 8:30 PM",
+    "Thursday: 6:00 AM – 8:30 PM",
+    "Friday: 6:00 AM – 8:30 PM",
+    "Saturday: 6:00 AM – 8:30 PM",
+    "Sunday: 6:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": "Old-fashioned shop for Italian breads, pastries & hot dishes, plus gelato & espresso drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rustic-bakery-toronto/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rustic-bakery-toronto/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rustic-bakery-toronto/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rustic-bakery-toronto/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rustic-bakery-toronto/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:35:27.630Z"
+}

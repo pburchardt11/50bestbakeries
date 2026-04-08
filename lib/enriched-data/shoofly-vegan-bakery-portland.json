@@ -1,0 +1,39 @@
+{
+  "slug": "shoofly-vegan-bakery-portland",
+  "name": "Shoofly Vegan Bakery",
+  "curatedName": "Shoofly Vegan Bakery",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJQwiQZMILlVQRmx8cBm6pPr8",
+  "googleName": "Shoofly Vegan Bakery and Cafe",
+  "formattedAddress": "2505 SE 11th Ave #101, Portland, OR 97202, USA",
+  "phone": "(503) 863-4196",
+  "internationalPhone": "+1 503-863-4196",
+  "website": "http://www.shooflyveganbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13780638199814299547",
+  "rating": 4.5,
+  "reviewCount": 230,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    45.5047514,
+    -122.6549357
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shoofly-vegan-bakery-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shoofly-vegan-bakery-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shoofly-vegan-bakery-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shoofly-vegan-bakery-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shoofly-vegan-bakery-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:28:20.894Z"
+}

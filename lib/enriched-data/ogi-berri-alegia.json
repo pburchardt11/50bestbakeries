@@ -1,0 +1,47 @@
+{
+  "slug": "ogi-berri-alegia",
+  "name": "Ogi Berri",
+  "curatedName": "Ogi Berri",
+  "city": "Alegia",
+  "country": "Spain",
+  "placeId": "ChIJ02v7nK9LUA0R8ousOyNYowE",
+  "googleName": "Ogi Berri Okindegia Gourmet",
+  "formattedAddress": "Polígono Bazurka, 20260, Guipúzcoa, Spain",
+  "phone": "943 69 86 02",
+  "internationalPhone": "+34 943 69 86 02",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=118034923590028274",
+  "rating": 4,
+  "reviewCount": 43,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.1093646,
+    -2.0966765
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:30 PM, 4:30 – 8:00 PM",
+    "Tuesday: 7:00 AM – 2:30 PM, 4:30 – 8:00 PM",
+    "Wednesday: 7:00 AM – 2:30 PM, 4:30 – 8:00 PM",
+    "Thursday: 7:00 AM – 2:30 PM, 4:30 – 8:00 PM",
+    "Friday: 7:00 AM – 2:30 PM, 4:30 – 8:00 PM",
+    "Saturday: 7:30 AM – 2:00 PM",
+    "Sunday: 7:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ogi-berri-alegia/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ogi-berri-alegia/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ogi-berri-alegia/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ogi-berri-alegia/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ogi-berri-alegia/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:41:52.490Z"
+}

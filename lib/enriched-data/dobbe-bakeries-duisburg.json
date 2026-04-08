@@ -1,0 +1,48 @@
+{
+  "slug": "dobbe-bakeries-duisburg",
+  "name": "Döbbe Bakeries",
+  "curatedName": "Döbbe Bakeries",
+  "city": "Duisburg",
+  "country": "Germany",
+  "placeId": "ChIJZW5MJRO_uEcRlGTvRKe32Cw",
+  "googleName": "Döbbe Bakeries GmbH & Co. KG",
+  "formattedAddress": "Königstraße 80, 47051 Duisburg, Germany",
+  "phone": "0203 2983768",
+  "internationalPhone": "+49 203 2983768",
+  "website": "https://doebbe.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3231534661682291860",
+  "rating": 4.3,
+  "reviewCount": 332,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.431802,
+    6.772855400000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dobbe-bakeries-duisburg/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dobbe-bakeries-duisburg/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dobbe-bakeries-duisburg/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dobbe-bakeries-duisburg/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dobbe-bakeries-duisburg/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:55:59.733Z"
+}

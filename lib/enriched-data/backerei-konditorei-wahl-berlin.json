@@ -1,0 +1,47 @@
+{
+  "slug": "backerei-konditorei-wahl-berlin",
+  "name": "Bäckerei Konditorei Wahl",
+  "curatedName": "Bäckerei Konditorei Wahl",
+  "city": "Berlin",
+  "country": "Germany",
+  "placeId": "ChIJCYpGhpZHqEcRnUCGGysfD2I",
+  "googleName": "Bäckerei Konditorei Wahl GmbH (Filiale Bohnsdorf)",
+  "formattedAddress": "Buntzelstraße 14, 12526 Berlin, Germany",
+  "phone": "030 63221420",
+  "internationalPhone": "+49 30 63221420",
+  "website": "https://www.baeckerwahl.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7065900610373435549",
+  "rating": 4.3,
+  "reviewCount": 84,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.4090538,
+    13.5722599
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-konditorei-wahl-berlin/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-konditorei-wahl-berlin/1.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:39:54.890Z"
+}

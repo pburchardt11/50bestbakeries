@@ -1,0 +1,47 @@
+{
+  "slug": "forn-roura-barcelona",
+  "name": "Forn Roura",
+  "curatedName": "Forn Roura",
+  "city": "Barcelona",
+  "country": "Spain",
+  "placeId": "ChIJW4BV7HWYpBIRG5RY3e5Nw0I",
+  "googleName": "Forn Roura",
+  "formattedAddress": "Carrer de Calaf, 15, Sarrià-Sant Gervasi, 08021 Barcelona, Spain",
+  "phone": "932 09 17 69",
+  "internationalPhone": "+34 932 09 17 69",
+  "website": "http://www.bcngourmet.com/barcelona.asp?tienda=forn-roura",
+  "googleMapsUrl": "https://maps.google.com/?cid=4810774515272946715",
+  "rating": 4.5,
+  "reviewCount": 407,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.3974062,
+    2.1442471
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 8:15 PM",
+    "Wednesday: 7:00 AM – 8:15 PM",
+    "Thursday: 7:00 AM – 8:15 PM",
+    "Friday: Closed",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-roura-barcelona/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-roura-barcelona/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-roura-barcelona/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-roura-barcelona/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-roura-barcelona/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:29:46.239Z"
+}

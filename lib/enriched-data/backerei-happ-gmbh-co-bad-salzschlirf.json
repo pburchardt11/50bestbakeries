@@ -1,0 +1,48 @@
+{
+  "slug": "backerei-happ-gmbh-co-bad-salzschlirf",
+  "name": "Bäckerei Happ GmbH & Co",
+  "curatedName": "Bäckerei Happ GmbH & Co",
+  "city": "Bad Salzschlirf",
+  "country": "Germany",
+  "placeId": "ChIJlzjZwvS1vEcR_o0Wjv3O50g",
+  "googleName": "Bäckerei Happ GmbH & Co. KG",
+  "formattedAddress": "Fuldaer Str. 52, 36364 Bad Salzschlirf, Germany",
+  "phone": "06648 911251",
+  "internationalPhone": "+49 6648 911251",
+  "website": "https://www.baecker-happ.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5253395078756863486",
+  "rating": 4.4,
+  "reviewCount": 60,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.6212581,
+    9.5129302
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-happ-gmbh-co-bad-salzschlirf/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-happ-gmbh-co-bad-salzschlirf/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-happ-gmbh-co-bad-salzschlirf/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-happ-gmbh-co-bad-salzschlirf/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-happ-gmbh-co-bad-salzschlirf/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:34:24.143Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "gusto-bread-long-beach",
+  "name": "Gusto Bread",
+  "curatedName": "Gusto Bread",
+  "city": "Long Beach",
+  "country": "United States",
+  "placeId": "ChIJ48g1Fk8x3YARINyUvGM92D0",
+  "googleName": "Gusto Bread",
+  "formattedAddress": "2710 E 4th St, Long Beach, CA 90814, USA",
+  "phone": "(562) 343-1881",
+  "internationalPhone": "+1 562-343-1881",
+  "website": "https://gustobread.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4456379329858034720",
+  "rating": 4.8,
+  "reviewCount": 450,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.77161350000001,
+    -118.1598628
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gusto-bread-long-beach/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gusto-bread-long-beach/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gusto-bread-long-beach/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gusto-bread-long-beach/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gusto-bread-long-beach/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:16:03.401Z"
+}

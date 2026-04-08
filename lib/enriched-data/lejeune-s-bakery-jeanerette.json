@@ -1,0 +1,47 @@
+{
+  "slug": "lejeune-s-bakery-jeanerette",
+  "name": "LeJeune's Bakery",
+  "curatedName": "LeJeune's Bakery",
+  "city": "Jeanerette",
+  "country": "United States",
+  "placeId": "ChIJQQFy84eQI4YRKdbN1mXHRYU",
+  "googleName": "LeJeune's Bakery Inc.",
+  "formattedAddress": "1510 Main St, Jeanerette, LA 70544, USA",
+  "phone": "(337) 276-5690",
+  "internationalPhone": "+1 337-276-5690",
+  "website": "https://lejeunesbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9603301020646889001",
+  "rating": 4.9,
+  "reviewCount": 184,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.9164086,
+    -91.6679509
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:30 PM",
+    "Tuesday: 8:00 AM – 4:30 PM",
+    "Wednesday: 8:00 AM – 4:30 PM",
+    "Thursday: 8:00 AM – 4:30 PM",
+    "Friday: 8:00 AM – 4:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lejeune-s-bakery-jeanerette/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lejeune-s-bakery-jeanerette/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lejeune-s-bakery-jeanerette/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lejeune-s-bakery-jeanerette/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lejeune-s-bakery-jeanerette/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:43:19.337Z"
+}

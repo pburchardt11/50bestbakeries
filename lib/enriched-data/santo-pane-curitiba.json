@@ -1,0 +1,39 @@
+{
+  "slug": "santo-pane-curitiba",
+  "name": "Santo Pane",
+  "curatedName": "Santo Pane",
+  "city": "Curitiba",
+  "country": "Brazil",
+  "placeId": "ChIJnznKSx_i3JQRSwoM07IHOKg",
+  "googleName": "Santo Pane Fabbrica",
+  "formattedAddress": "Rua João Batista Dallarmi, 996 - Santo Inácio, Curitiba - PR, 82010-610, Brazil",
+  "phone": "(41) 3092-3669",
+  "internationalPhone": "+55 41 3092-3669",
+  "website": "http://www.santopane.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12121446861694044747",
+  "rating": 4.3,
+  "reviewCount": 504,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    -25.4214455,
+    -49.33302
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santo-pane-curitiba/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santo-pane-curitiba/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santo-pane-curitiba/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santo-pane-curitiba/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santo-pane-curitiba/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:05:37.455Z"
+}

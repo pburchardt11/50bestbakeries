@@ -1,0 +1,47 @@
+{
+  "slug": "woops-cerritos",
+  "name": "Woops",
+  "curatedName": "Woops",
+  "city": "Cerritos",
+  "country": "United States",
+  "placeId": "ChIJUT3TXP2Z4jAR6LFPgGPxmOk",
+  "googleName": "WOOPS Smoothie - Sathon 11",
+  "formattedAddress": "50-52 ซอย สาทร 11 Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+  "phone": "064 153 1567",
+  "internationalPhone": "+66 64 153 1567",
+  "website": "https://www.instagram.com/woops.smoothie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16832469016953991656",
+  "rating": 4.9,
+  "reviewCount": 164,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "florist",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.7186005,
+    100.5266886
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/woops-cerritos/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/woops-cerritos/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/woops-cerritos/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/woops-cerritos/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/woops-cerritos/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:39:16.980Z"
+}

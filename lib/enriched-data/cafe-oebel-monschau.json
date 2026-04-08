@@ -1,0 +1,46 @@
+{
+  "slug": "cafe-oebel-monschau",
+  "name": "Café Oebel",
+  "curatedName": "Café Oebel",
+  "city": "Monschau",
+  "country": "Germany",
+  "placeId": "ChIJe6YVNv1-v0cRYpIOS1LJ9Zw",
+  "googleName": "Cafe Hirsch Oebel",
+  "formattedAddress": "Markt 3, 52156 Monschau, Germany",
+  "phone": "02472 8031754",
+  "internationalPhone": "+49 2472 8031754",
+  "website": "https://www.facebook.com/HirschCafeMonschau/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11310167394494616162",
+  "rating": 3.7,
+  "reviewCount": 486,
+  "priceLevel": 2,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.5552259,
+    6.2419339
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-oebel-monschau/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-oebel-monschau/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-oebel-monschau/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-oebel-monschau/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-oebel-monschau/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:53:14.481Z"
+}

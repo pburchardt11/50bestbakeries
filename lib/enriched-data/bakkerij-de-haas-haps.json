@@ -1,0 +1,36 @@
+{
+  "slug": "bakkerij-de-haas-haps",
+  "name": "Bakkerij de Haas",
+  "curatedName": "Bakkerij de Haas",
+  "city": "Haps",
+  "country": "Netherlands",
+  "placeId": "ChIJxaWT5tERx0cREP6QPeRnl_s",
+  "googleName": "Bakkerij de Haas B.V. (aka Patisserie Limburgia)",
+  "formattedAddress": "Kalkhofseweg 41B, 5443 NB Haps, Netherlands",
+  "phone": "0485 316 163",
+  "internationalPhone": "+31 485 316 163",
+  "website": "https://www.bakkerijdehaas.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18129073054986337808",
+  "rating": 4.4,
+  "reviewCount": 32,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    51.69716200000001,
+    5.858656
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-de-haas-haps/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-de-haas-haps/1.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:27:45.127Z"
+}

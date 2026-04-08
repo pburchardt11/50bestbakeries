@@ -1,0 +1,40 @@
+{
+  "slug": "pan-pa-ya-barranquilla",
+  "name": "Pan Pa' Ya!",
+  "curatedName": "Pan Pa' Ya!",
+  "city": "Barranquilla",
+  "country": "Colombia",
+  "placeId": "ChIJvVsc2Kct9I4R782i3PgNjGc",
+  "googleName": "PAN PA´YA Barranquilla",
+  "formattedAddress": "Calle 82 con carrera 50, esquina, Nte. Centro Historico, Barranquilla, Atlántico, Colombia",
+  "phone": "(605) 3782288",
+  "internationalPhone": "+57 605 3782288",
+  "website": "http://www.panpaya.com.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7461354045150776815",
+  "rating": 4.3,
+  "reviewCount": 1236,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    11.0027972,
+    -74.8156812
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-pa-ya-barranquilla/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-pa-ya-barranquilla/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-pa-ya-barranquilla/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-pa-ya-barranquilla/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-pa-ya-barranquilla/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:03:33.381Z"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "petunia-s-pies-pastries-portland",
+  "name": "Petunia's Pies & Pastries",
+  "curatedName": "Petunia's Pies & Pastries",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJ077hRAMKlVQRplg6YCgHO5w",
+  "googleName": "Petunia's Pies & Pastries",
+  "formattedAddress": "610 SW 12th Ave, Portland, OR 97205, USA",
+  "phone": "(503) 841-5961",
+  "internationalPhone": "+1 503-841-5961",
+  "website": "http://www.petuniaspiesandpastries.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11257599563537209510",
+  "rating": 4.5,
+  "reviewCount": 1489,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5209167,
+    -122.6837306
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:00 PM",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Cute, hip bakery cafe serving up creative vegan & gluten-free desserts in a relaxed space.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/petunia-s-pies-pastries-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/petunia-s-pies-pastries-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/petunia-s-pies-pastries-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/petunia-s-pies-pastries-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/petunia-s-pies-pastries-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:24:51.285Z"
+}

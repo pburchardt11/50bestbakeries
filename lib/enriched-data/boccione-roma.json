@@ -1,0 +1,47 @@
+{
+  "slug": "boccione-roma",
+  "name": "Boccione",
+  "curatedName": "Boccione",
+  "city": "Roma",
+  "country": "Italy",
+  "placeId": "ChIJQZsHR0lgLxMRxMojow0zSI4",
+  "googleName": "Boccione",
+  "formattedAddress": "Via del Portico d'Ottavia, 1, 00186 Roma RM, Italy",
+  "phone": "06 687 8637",
+  "internationalPhone": "+39 06 687 8637",
+  "website": "https://m.facebook.com/BOCCIONE-lantico-forno-52936670759/?locale2=it_IT",
+  "googleMapsUrl": "https://maps.google.com/?cid=10252500685373557444",
+  "rating": 4.2,
+  "reviewCount": 1412,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.8932248,
+    12.4768899
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 3:30 PM",
+    "Saturday: Closed",
+    "Sunday: 7:30 AM – 5:30 PM"
+  ],
+  "editorialSummary": "Compact kosher bakery serving Jewish-Roman-style 'pizza' & traditional cakes & tarts.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boccione-roma/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boccione-roma/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boccione-roma/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boccione-roma/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boccione-roma/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:09:59.836Z"
+}

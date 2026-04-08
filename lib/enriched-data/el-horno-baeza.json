@@ -1,0 +1,38 @@
+{
+  "slug": "el-horno-baeza",
+  "name": "El Horno",
+  "curatedName": "El Horno",
+  "city": "Baeza",
+  "country": "Spain",
+  "placeId": "ChIJ1xWuVZiLbg0RFcc3aQo-k_E",
+  "googleName": "El Horno",
+  "formattedAddress": "C. Cózar, 2, 23440 Baeza, Jaén, Spain",
+  "phone": "953 74 27 37",
+  "internationalPhone": "+34 953 74 27 37",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17407325199152957205",
+  "rating": 3.1,
+  "reviewCount": 41,
+  "priceLevel": 1,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.99348639999999,
+    -3.4677051
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-horno-baeza/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-horno-baeza/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-horno-baeza/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-horno-baeza/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-horno-baeza/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:14:58.513Z"
+}

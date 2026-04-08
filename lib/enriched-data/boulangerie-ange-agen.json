@@ -1,0 +1,49 @@
+{
+  "slug": "boulangerie-ange-agen",
+  "name": "Boulangerie Ange",
+  "curatedName": "Boulangerie Ange",
+  "city": "Agen",
+  "country": "France",
+  "placeId": "ChIJ1xHcyBCzqxIRMTHfg6pCjx4",
+  "googleName": "BOULANGERIE ANGE",
+  "formattedAddress": "916 Av. du Midi, 47000 Agen, France",
+  "phone": "05 53 86 14 56",
+  "internationalPhone": "+33 5 53 86 14 56",
+  "website": "https://www.boulangerie-ange.fr/stores/boulangerie-ange-agen/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+  "googleMapsUrl": "https://maps.google.com/?cid=2202052042931777841",
+  "rating": 4.1,
+  "reviewCount": 434,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.186845,
+    0.616429
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:30 PM",
+    "Tuesday: 6:30 AM – 7:30 PM",
+    "Wednesday: 6:30 AM – 7:30 PM",
+    "Thursday: 6:30 AM – 7:30 PM",
+    "Friday: 6:30 AM – 7:30 PM",
+    "Saturday: 6:30 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-ange-agen/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-ange-agen/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-ange-agen/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-ange-agen/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-ange-agen/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:32:55.008Z"
+}

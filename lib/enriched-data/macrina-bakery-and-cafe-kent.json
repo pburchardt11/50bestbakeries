@@ -1,0 +1,48 @@
+{
+  "slug": "macrina-bakery-and-cafe-kent",
+  "name": "Macrina Bakery and Cafe",
+  "curatedName": "Macrina Bakery and Cafe",
+  "city": "Kent",
+  "country": "United States",
+  "placeId": "ChIJxYSwQ41ckFQRZAjoLGBRiik",
+  "googleName": "Macrina Bakery & Cafe",
+  "formattedAddress": "19215 66th Ave S, Kent, WA 98032, USA",
+  "phone": "(253) 395-8017",
+  "internationalPhone": "+1 253-395-8017",
+  "website": "http://macrinabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2993294375853230180",
+  "rating": 4.4,
+  "reviewCount": 200,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.4304426,
+    -122.2520474
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Artisan breads, gourmet baked sweets & savory sandwiches served in a warm space.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/macrina-bakery-and-cafe-kent/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/macrina-bakery-and-cafe-kent/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/macrina-bakery-and-cafe-kent/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/macrina-bakery-and-cafe-kent/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/macrina-bakery-and-cafe-kent/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:21:50.850Z"
+}

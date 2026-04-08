@@ -1,0 +1,46 @@
+{
+  "slug": "paul-aeroport-d-orly",
+  "name": "Paul",
+  "curatedName": "Paul",
+  "city": "Aeroport D Orly",
+  "country": "France",
+  "placeId": "ChIJzRvMESV15kcR1496WN7JaZo",
+  "googleName": "PAUL - Orly 1 - Portes A21 - A22",
+  "formattedAddress": "Aéroport de Paris-Orly Orly, 1 - Porte A, 94310 Orly, France",
+  "phone": "01 49 75 05 30",
+  "internationalPhone": "+33 1 49 75 05 30",
+  "website": "https://www.paul.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11126646311199870935",
+  "rating": 2.2,
+  "reviewCount": 329,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.7312443,
+    2.3617383
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 9:00 PM",
+    "Tuesday: 5:30 AM – 9:00 PM",
+    "Wednesday: 5:30 AM – 9:00 PM",
+    "Thursday: 5:30 AM – 9:00 PM",
+    "Friday: 5:30 AM – 9:00 PM",
+    "Saturday: 5:30 AM – 9:00 PM",
+    "Sunday: 5:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-aeroport-d-orly/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-aeroport-d-orly/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-aeroport-d-orly/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-aeroport-d-orly/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-aeroport-d-orly/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:23:13.364Z"
+}

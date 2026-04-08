@@ -1,0 +1,48 @@
+{
+  "slug": "loaf-bakery-alton",
+  "name": "Loaf Bakery",
+  "curatedName": "Loaf Bakery",
+  "city": "Alton",
+  "country": "United Kingdom",
+  "placeId": "ChIJ51fYORM8dEgRdii46omoC2c",
+  "googleName": "Loaf Bakery, Four Marks",
+  "formattedAddress": "3, Oak Green, Four Marks, Alton GU34 5HQ, UK",
+  "phone": "01420 562449",
+  "internationalPhone": "+44 1420 562449",
+  "website": "http://www.loafbakery.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7425213720952318070",
+  "rating": 4.5,
+  "reviewCount": 234,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.1115599,
+    -1.0434532
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loaf-bakery-alton/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loaf-bakery-alton/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loaf-bakery-alton/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loaf-bakery-alton/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loaf-bakery-alton/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:00:31.143Z"
+}

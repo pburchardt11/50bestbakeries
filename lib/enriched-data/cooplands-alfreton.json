@@ -1,0 +1,41 @@
+{
+  "slug": "cooplands-alfreton",
+  "name": "Cooplands",
+  "curatedName": "Cooplands",
+  "city": "Alfreton",
+  "country": "United Kingdom",
+  "placeId": "ChIJQx3DwhugeUgRI1G4-inxOz0",
+  "googleName": "Cooplands Of Doncaster",
+  "formattedAddress": "56 Laughton Rd, Dinnington, Sheffield S25 2PS, UK",
+  "phone": "01909 560047",
+  "internationalPhone": "+44 1909 560047",
+  "website": "http://cooplands.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4412385422541869347",
+  "rating": 4,
+  "reviewCount": 16,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.3690019,
+    -1.2106073
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Enduring bakery offering bread, sandwiches, savouries & confectionery, including chocolate concrete.",
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:22:30.465Z"
+}

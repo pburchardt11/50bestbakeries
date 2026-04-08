@@ -1,0 +1,50 @@
+{
+  "slug": "lovejoy-bakers-portland",
+  "name": "Lovejoy Bakers",
+  "curatedName": "Lovejoy Bakers",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJVx6WQ_4JlVQRjnIeBS_E9YA",
+  "googleName": "Lovejoy Bakers",
+  "formattedAddress": "939 NW 10th Ave, Portland, OR 97209, USA",
+  "phone": "(971) 302-2322",
+  "internationalPhone": "+1 971-302-2322",
+  "website": "http://www.lovejoybakers.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9292549112377275022",
+  "rating": 4.3,
+  "reviewCount": 902,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5296533,
+    -122.6815906
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:30 PM",
+    "Tuesday: 7:00 AM – 2:30 PM",
+    "Wednesday: 7:00 AM – 2:30 PM",
+    "Thursday: 7:00 AM – 2:30 PM",
+    "Friday: 7:00 AM – 2:30 PM",
+    "Saturday: 7:00 AM – 2:30 PM",
+    "Sunday: 7:00 AM – 2:30 PM"
+  ],
+  "editorialSummary": "Popular, airy bakery featuring desserts & light fare plus local coffee & outdoor seating.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lovejoy-bakers-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lovejoy-bakers-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lovejoy-bakers-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lovejoy-bakers-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lovejoy-bakers-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:21:02.164Z"
+}

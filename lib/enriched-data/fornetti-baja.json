@@ -1,0 +1,41 @@
+{
+  "slug": "fornetti-baja",
+  "name": "Fornetti",
+  "curatedName": "Fornetti",
+  "city": "Baja",
+  "country": "Hungary",
+  "placeId": "ChIJ1zzAxOEfQ0cRawuZkD6psN4",
+  "googleName": "Fornetti",
+  "formattedAddress": "Baja, Gránátos u. 11, 6500 Hungary",
+  "phone": "06 30 617 4118",
+  "internationalPhone": "+36 30 617 4118",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16046511558500092779",
+  "rating": 4,
+  "reviewCount": 2,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    46.1903618,
+    18.9356668
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:09:36.695Z"
+}

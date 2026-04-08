@@ -1,0 +1,47 @@
+{
+  "slug": "elsasser-bakery-omaha",
+  "name": "Elsasser Bakery",
+  "curatedName": "Elsasser Bakery",
+  "city": "Omaha",
+  "country": "United States",
+  "placeId": "ChIJWe9v6Ofxk4cRlMGmhlyinC4",
+  "googleName": "Reis' Bakery Omaha",
+  "formattedAddress": "1314 S 119th St, Omaha, NE 68144, USA",
+  "phone": "(531) 213-2739",
+  "internationalPhone": "+1 531-213-2739",
+  "website": "http://reisbakeryomaha.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3358737940391313812",
+  "rating": 4.9,
+  "reviewCount": 173,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.2464399,
+    -96.0995944
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 3:00 PM",
+    "Tuesday: 7:30 AM – 3:00 PM",
+    "Wednesday: 7:30 AM – 3:00 PM",
+    "Thursday: 7:30 AM – 3:00 PM",
+    "Friday: 7:30 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elsasser-bakery-omaha/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elsasser-bakery-omaha/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elsasser-bakery-omaha/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elsasser-bakery-omaha/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elsasser-bakery-omaha/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:09:49.137Z"
+}

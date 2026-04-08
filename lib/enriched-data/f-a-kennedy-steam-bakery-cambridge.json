@@ -1,0 +1,36 @@
+{
+  "slug": "f-a-kennedy-steam-bakery-cambridge",
+  "name": "F. A. Kennedy Steam Bakery",
+  "curatedName": "F. A. Kennedy Steam Bakery",
+  "city": "Cambridge",
+  "country": "United States",
+  "placeId": "ChIJD2m4RVR344kRdWWHwjs5SrI",
+  "googleName": "F. A. Kennedy Steam Bakery",
+  "formattedAddress": "129 Franklin St, Cambridge, MA 02139, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12847143815857268085",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.3627462,
+    -71.1013044
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/f-a-kennedy-steam-bakery-cambridge/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/f-a-kennedy-steam-bakery-cambridge/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/f-a-kennedy-steam-bakery-cambridge/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/f-a-kennedy-steam-bakery-cambridge/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/f-a-kennedy-steam-bakery-cambridge/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:11:59.310Z"
+}

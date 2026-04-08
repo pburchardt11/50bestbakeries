@@ -1,0 +1,39 @@
+{
+  "slug": "warrens-bakery-altrincham",
+  "name": "Warrens Bakery",
+  "curatedName": "Warrens Bakery",
+  "city": "Altrincham",
+  "country": "United Kingdom",
+  "placeId": "ChIJJ25P26Kse0gRUevXo4Z82W4",
+  "googleName": "Warrens Bakery Ltd",
+  "formattedAddress": "3-5 Cross St, Altrincham WA14 1EQ, UK",
+  "phone": "0161 359 5574",
+  "internationalPhone": "+44 161 359 5574",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7987552331834583889",
+  "rating": 3.9,
+  "reviewCount": 110,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    53.3871125,
+    -2.3495258
+  ],
+  "openingHours": null,
+  "editorialSummary": "Enduring bakery chain offering bread, savouries, scones & its signature Cornish pasties.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/warrens-bakery-altrincham/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/warrens-bakery-altrincham/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/warrens-bakery-altrincham/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/warrens-bakery-altrincham/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/warrens-bakery-altrincham/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:49:07.523Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "bakker-klootwijk-barendrecht",
+  "name": "Bakker Klootwijk",
+  "curatedName": "Bakker Klootwijk",
+  "city": "Barendrecht",
+  "country": "Netherlands",
+  "placeId": "ChIJBXqu3GMxxEcR77kZIIERBlc",
+  "googleName": "Bakkerij Klootwijk",
+  "formattedAddress": "Van Beuningenhaven 7, 2993 EH Barendrecht, Netherlands",
+  "phone": "010 303 3246",
+  "internationalPhone": "+31 10 303 3246",
+  "website": "http://www.klootwijk.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6270718777447004655",
+  "rating": 3.4,
+  "reviewCount": 47,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.8473444,
+    4.4989794
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-klootwijk-barendrecht/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-klootwijk-barendrecht/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-klootwijk-barendrecht/2.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:23:32.297Z"
+}

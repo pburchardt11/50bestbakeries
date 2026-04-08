@@ -1,0 +1,48 @@
+{
+  "slug": "zuckercreme-portland",
+  "name": "Zuckercreme",
+  "curatedName": "Zuckercreme",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJl4y8K6wLlVQRpdKWnWoQlMk",
+  "googleName": "zuckercreme | strawberry museum!",
+  "formattedAddress": "414 SE 81st Ave, Portland, OR 97215, USA",
+  "phone": "(503) 877-5226",
+  "internationalPhone": "+1 503-877-5226",
+  "website": "http://zuckercreme.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14525252748273177253",
+  "rating": 4.8,
+  "reviewCount": 132,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5195759,
+    -122.5803504
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 12:00 – 8:00 PM",
+    "Thursday: 12:00 – 5:00 PM",
+    "Friday: 12:00 – 8:00 PM",
+    "Saturday: 12:00 – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zuckercreme-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zuckercreme-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zuckercreme-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zuckercreme-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zuckercreme-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:32:36.383Z"
+}

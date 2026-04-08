@@ -1,0 +1,33 @@
+{
+  "slug": "boulangerie-multi-marques-inc-brossard",
+  "name": "Boulangerie Multi-Marques Inc",
+  "curatedName": "Boulangerie Multi-Marques Inc",
+  "city": "Brossard",
+  "country": "Canada",
+  "placeId": "ChIJGa2QVIIFyUwR1KSfLWZPT44",
+  "googleName": "Boulangerie Multi-Marques",
+  "formattedAddress": "2550 Boul. Lapinière Suite 102, Brossard, QC J4Z 2M2, Canada",
+  "phone": "(450) 656-5823",
+  "internationalPhone": "+1 450-656-5823",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10254502176816604372",
+  "rating": 4.5,
+  "reviewCount": 6,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    45.4682344,
+    -73.4621844
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:18:33.262Z"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "castano-la-florida",
+  "name": "Castaño",
+  "curatedName": "Castaño",
+  "city": "La Florida",
+  "country": "Chile",
+  "placeId": "ChIJ4V9DTVLQYpYRX0UAKA92SvU",
+  "googleName": "Diagonal Los Castaños",
+  "formattedAddress": "Diag. Los Castaños, La Florida, Región Metropolitana, Chile",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17675069495036626271",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "route"
+  ],
+  "businessStatus": null,
+  "coords": [
+    -33.5124237,
+    -70.5784352
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-08T11:02:04.224Z"
+}

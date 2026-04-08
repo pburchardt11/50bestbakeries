@@ -1,0 +1,47 @@
+{
+  "slug": "premiere-moisson-baie-d-urfe",
+  "name": "Premiere Moisson",
+  "curatedName": "Premiere Moisson",
+  "city": "Baie-D'Urfé",
+  "country": "Canada",
+  "placeId": "ChIJMV-XxA05yUwRikNwVcugFNc",
+  "googleName": "Première Moisson",
+  "formattedAddress": "19301 Av. Clark Graham, Baie-d'Urfé, QC H9X 3P5, Canada",
+  "phone": "(514) 787-1252",
+  "internationalPhone": "+1 514-787-1252",
+  "website": "https://premieremoisson.com/fr",
+  "googleMapsUrl": "https://maps.google.com/?cid=15498189012860945290",
+  "rating": 4.2,
+  "reviewCount": 100,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4257833,
+    -73.9061123
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/premiere-moisson-baie-d-urfe/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/premiere-moisson-baie-d-urfe/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/premiere-moisson-baie-d-urfe/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/premiere-moisson-baie-d-urfe/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/premiere-moisson-baie-d-urfe/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:12:39.148Z"
+}

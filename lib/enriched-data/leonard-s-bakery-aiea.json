@@ -1,0 +1,47 @@
+{
+  "slug": "leonard-s-bakery-aiea",
+  "name": "Leonard's Bakery",
+  "curatedName": "Leonard's Bakery",
+  "city": "Aiea",
+  "country": "United States",
+  "placeId": "ChIJX9l4bVJvAHwRW9zYPYqefi8",
+  "googleName": "Leonard's Pearlridge Malasada Mobile",
+  "formattedAddress": "98-1005 Moanalua Rd, Aiea, HI 96701, USA",
+  "phone": "(808) 737-5591",
+  "internationalPhone": "+1 808-737-5591",
+  "website": "http://www.leonardshawaii.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3422347083428453467",
+  "rating": 4.7,
+  "reviewCount": 724,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.381573,
+    -157.9412366
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leonard-s-bakery-aiea/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leonard-s-bakery-aiea/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leonard-s-bakery-aiea/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leonard-s-bakery-aiea/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leonard-s-bakery-aiea/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:19:42.697Z"
+}

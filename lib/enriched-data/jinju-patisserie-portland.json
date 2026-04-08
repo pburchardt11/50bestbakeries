@@ -1,0 +1,39 @@
+{
+  "slug": "jinju-patisserie-portland",
+  "name": "Jinju Patisserie",
+  "curatedName": "Jinju Patisserie",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJfejFLianlVQREf81z1SwhEU",
+  "googleName": "Jinju Patisserie",
+  "formattedAddress": "4063 N Williams Ave, Portland, OR 97227, USA",
+  "phone": "(503) 828-7728",
+  "internationalPhone": "+1 503-828-7728",
+  "website": "https://jinjupatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5009322563842998033",
+  "rating": 4.8,
+  "reviewCount": 664,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    45.5529624,
+    -122.666962
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jinju-patisserie-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jinju-patisserie-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jinju-patisserie-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jinju-patisserie-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jinju-patisserie-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:17:46.929Z"
+}

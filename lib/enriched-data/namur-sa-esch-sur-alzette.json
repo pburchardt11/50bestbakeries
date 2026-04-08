@@ -1,0 +1,48 @@
+{
+  "slug": "namur-sa-esch-sur-alzette",
+  "name": "Namur SA",
+  "curatedName": "Namur SA",
+  "city": "Esch-sur-Alzette",
+  "country": "Luxembourg",
+  "placeId": "ChIJveDCL-I0lUcRt-OE41tBsac",
+  "googleName": "Confiserie Namur - Esch-Sur-Alzette",
+  "formattedAddress": "64 Rue de l'Alzette, 4010 Esch-sur-Alzette, Luxembourg",
+  "phone": "43 69 23 500",
+  "internationalPhone": "+352 43 69 23 500",
+  "website": "http://www.namur.lu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12083511138126717879",
+  "rating": 3.3,
+  "reviewCount": 91,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.4938688,
+    5.9806268
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/namur-sa-esch-sur-alzette/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/namur-sa-esch-sur-alzette/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/namur-sa-esch-sur-alzette/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/namur-sa-esch-sur-alzette/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/namur-sa-esch-sur-alzette/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T10:59:50.616Z"
+}

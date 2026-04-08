@@ -1,0 +1,47 @@
+{
+  "slug": "an-xuyen-bakery-portland",
+  "name": "An Xuyen Bakery",
+  "curatedName": "An Xuyen Bakery",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJzWWsLm-glVQRZaqdnXBjwUA",
+  "googleName": "An Xuyên Bakery",
+  "formattedAddress": "5345 SE Foster Rd, Portland, OR 97206, USA",
+  "phone": "(503) 788-0866",
+  "internationalPhone": "+1 503-788-0866",
+  "website": "http://mng890.wixsite.com/an-xuyen-bakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=4666120024264387173",
+  "rating": 4.7,
+  "reviewCount": 1115,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4952117,
+    -122.6073029
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Casual cafe & bakeshop doling out artisanal pastries, plus Pan-Asian sandwiches on housemade bread.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/an-xuyen-bakery-portland/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/an-xuyen-bakery-portland/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/an-xuyen-bakery-portland/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/an-xuyen-bakery-portland/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/an-xuyen-bakery-portland/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:48:27.959Z"
+}

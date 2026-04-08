@@ -1,0 +1,48 @@
+{
+  "slug": "dahlia-bakery-seattle",
+  "name": "Dahlia Bakery",
+  "curatedName": "Dahlia Bakery",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJG0jTnUwVkFQRawMulmeDYDw",
+  "googleName": "Dahlia Bakery",
+  "formattedAddress": "2001 4th Ave, Seattle, WA 98121, USA",
+  "phone": "(206) 441-4540",
+  "internationalPhone": "+1 206-441-4540",
+  "website": "https://www.dahliabakery.com/?utm_source=gbp&utm_medium=organic&utm_campaign=fm",
+  "googleMapsUrl": "https://maps.google.com/?cid=4350621720964367211",
+  "rating": 4.5,
+  "reviewCount": 1226,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.613111,
+    -122.340459
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 3:00 PM",
+    "Tuesday: 7:30 AM – 3:00 PM",
+    "Wednesday: 7:30 AM – 3:00 PM",
+    "Thursday: 7:30 AM – 3:00 PM",
+    "Friday: 7:30 AM – 3:00 PM",
+    "Saturday: 7:30 AM – 3:00 PM",
+    "Sunday: 7:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Snug bakery serving breakfast fare & pastries along with sandwiches & signature coconut cream pie.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dahlia-bakery-seattle/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dahlia-bakery-seattle/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dahlia-bakery-seattle/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dahlia-bakery-seattle/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dahlia-bakery-seattle/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T12:08:05.324Z"
+}

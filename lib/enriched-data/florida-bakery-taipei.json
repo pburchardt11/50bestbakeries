@@ -1,0 +1,47 @@
+{
+  "slug": "florida-bakery-taipei",
+  "name": "福利麵包(FLORIDA BAKERY) 微風台北車站店",
+  "curatedName": "福利麵包(FLORIDA BAKERY) 微風台北車站店",
+  "city": "Taipei",
+  "country": "Taiwan",
+  "placeId": "ChIJK0r7fXKpQjQRcvAEwFXD4EY",
+  "googleName": "福利麵包微風店 Florida Bakery @Taipei Main Breeze",
+  "formattedAddress": "台北市北平西路, 1樓臺北車站No. 3號, 近北2門, 中正區臺北市 Taiwan 10041",
+  "phone": "02 2311 1189",
+  "internationalPhone": "+886 2 2311 1189",
+  "website": "https://www.bread.com.tw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5107296750499328114",
+  "rating": 4.1,
+  "reviewCount": 288,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.0475139,
+    121.5164508
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/florida-bakery-taipei/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/florida-bakery-taipei/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/florida-bakery-taipei/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/florida-bakery-taipei/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/florida-bakery-taipei/4.jpg"
+  ],
+  "enrichedAt": "2026-04-08T11:20:21.851Z"
+}
