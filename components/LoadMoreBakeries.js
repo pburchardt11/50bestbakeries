@@ -13,23 +13,23 @@ function barSlug(name, city) {
   return nameSlug + '-' + citySlug;
 }
 
-const BAR_STOCK_IMAGES = [
-  'https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800&h=500&fit=crop',
-  'https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800&h=500&fit=crop',
-  'https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=800&h=500&fit=crop',
-  'https://images.unsplash.com/photo-1525268323446-0505b6fe7778?w=800&h=500&fit=crop',
-  'https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800&h=500&fit=crop',
-  'https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800&h=500&fit=crop',
-  'https://images.unsplash.com/photo-1574391884720-bbc3740c59d1?w=800&h=500&fit=crop',
-  'https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?w=800&h=500&fit=crop',
-  'https://images.unsplash.com/photo-1575444758702-4a6b9222c016?w=800&h=500&fit=crop',
-  'https://images.unsplash.com/photo-1536935338788-846bb9981813?w=800&h=500&fit=crop',
+const BAKERY_STOCK_IMAGES = [
+  'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&h=500&fit=crop',
+  'https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=800&h=500&fit=crop',
+  'https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?w=800&h=500&fit=crop',
+  'https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=800&h=500&fit=crop',
+  'https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=800&h=500&fit=crop',
+  'https://images.unsplash.com/photo-1568254183919-78a4f43a2877?w=800&h=500&fit=crop',
+  'https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=500&fit=crop',
+  'https://images.unsplash.com/photo-1509365465985-25d11c17e812?w=800&h=500&fit=crop',
+  'https://images.unsplash.com/photo-1546538490-0fe0a8eba4e6?w=800&h=500&fit=crop',
+  'https://images.unsplash.com/photo-1550617931-e17a7b70dce2?w=800&h=500&fit=crop',
 ];
 function getFallbackUrl(name, city) {
   const str = name + city;
   let hash = 0;
   for (let i = 0; i < str.length; i++) hash = ((hash << 5) - hash + str.charCodeAt(i)) | 0;
-  return BAR_STOCK_IMAGES[Math.abs(hash) % BAR_STOCK_IMAGES.length];
+  return BAKERY_STOCK_IMAGES[Math.abs(hash) % BAKERY_STOCK_IMAGES.length];
 }
 
 function getPhotoUrl(name, city, slug) {
