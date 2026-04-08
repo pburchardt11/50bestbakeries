@@ -406,7 +406,8 @@ export async function generateStaticParams() {
   return Object.keys(POSTS).map(slug => ({ slug }));
 }
 
-export async function generateMetadata({ params }) {
+export async function generateMetadata(props) {
+  const params = await props.params;
   const post = POSTS[params.slug];
   if (!post) return { title: 'Post Not Found' };
   return {
@@ -425,7 +426,8 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function BlogPost({ params }) {
+export default async function BlogPost(props) {
+  const params = await props.params;
   const post = POSTS[params.slug];
   if (!post) notFound();
 

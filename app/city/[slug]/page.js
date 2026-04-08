@@ -31,7 +31,8 @@ export async function generateStaticParams() {
   return [];
 }
 
-export async function generateMetadata({ params }) {
+export async function generateMetadata(props) {
+  const params = await props.params;
   const match = findCityCountry(params.slug);
   if (!match) return { title: 'City Not Found' };
   const bakeries = getBarsForCity(match.country, match.city);
@@ -47,7 +48,8 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function CityPage({ params }) {
+export default async function CityPage(props) {
+  const params = await props.params;
   const match = findCityCountry(params.slug);
   if (!match) notFound();
 

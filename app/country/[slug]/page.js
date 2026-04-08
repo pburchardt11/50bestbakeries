@@ -20,7 +20,8 @@ export async function generateStaticParams() {
   return [];
 }
 
-export async function generateMetadata({ params }) {
+export async function generateMetadata(props) {
+  const params = await props.params;
   const countries = getAllCountries();
   const country = countries.find(c => toSlug(c) === params.slug);
   if (!country) return { title: 'Country Not Found' };
@@ -38,7 +39,8 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function CountryPage({ params }) {
+export default async function CountryPage(props) {
+  const params = await props.params;
   const countries = getAllCountries();
   const country = countries.find(c => toSlug(c) === params.slug);
   if (!country) notFound();

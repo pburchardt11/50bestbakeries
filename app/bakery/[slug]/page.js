@@ -31,7 +31,8 @@ export async function generateStaticParams() {
 }
 
 // ─── Dynamic Metadata ───
-export async function generateMetadata({ params }) {
+export async function generateMetadata(props) {
+  const params = await props.params;
   const bakery = getBarBySlug(params.slug);
   if (!bakery) return { title: 'Bakery Not Found' };
 
@@ -56,7 +57,8 @@ export async function generateMetadata({ params }) {
 }
 
 // ─── Page Component ───
-export default function BarPage({ params }) {
+export default async function BarPage(props) {
+  const params = await props.params;
   const bakery = getBarBySlug(params.slug);
   if (!bakery) notFound();
 

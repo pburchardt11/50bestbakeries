@@ -17,7 +17,8 @@ export async function generateStaticParams() {
   return [];
 }
 
-export async function generateMetadata({ params }) {
+export async function generateMetadata(props) {
+  const params = await props.params;
   const allTypes = getTypeStats();
   const typeInfo = allTypes.find(t => t.slug === params.typeSlug);
   if (!typeInfo) return { title: 'Not Found' };
@@ -36,7 +37,8 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function TypeCountryPage({ params }) {
+export default async function TypeCountryPage(props) {
+  const params = await props.params;
   const allTypes = getTypeStats();
   const typeInfo = allTypes.find(t => t.slug === params.typeSlug);
   if (!typeInfo) notFound();
