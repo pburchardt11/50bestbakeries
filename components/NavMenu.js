@@ -4,18 +4,19 @@ import { useState, useRef, useEffect } from 'react';
 import { TYPE_ICONS } from '../lib/bakery-db';
 
 const TYPES = [
-  { name: 'Cocktail Bakery', slug: 'cocktail-bakery' },
-  { name: 'Speakeasy', slug: 'speakeasy' },
-  { name: 'Wine Bakery', slug: 'wine-bakery' },
-  { name: 'Dive Bakery', slug: 'dive-bakery' },
-  { name: 'Rooftop Bakery', slug: 'rooftop-bakery' },
-  { name: 'Tiki Bakery', slug: 'tiki-bakery' },
-  { name: 'Pub', slug: 'pub' },
-  { name: 'Beer Garden', slug: 'beer-garden' },
-  { name: 'Lounge', slug: 'lounge' },
-  { name: 'Hotel Bakery', slug: 'hotel-bakery' },
-  { name: 'Gastropub', slug: 'gastropub' },
-  { name: 'Jazz Bakery', slug: 'jazz-bakery' },
+  { name: 'Bakery', slug: 'bakery' },
+  { name: 'Patisserie', slug: 'patisserie' },
+  { name: 'Boulangerie', slug: 'boulangerie' },
+  { name: 'Cafe Bakery', slug: 'cafe-bakery' },
+  { name: 'Artisan Bakery', slug: 'artisan-bakery' },
+  { name: 'Pastry Shop', slug: 'pastry-shop' },
+  { name: 'Viennoiserie', slug: 'viennoiserie' },
+  { name: 'Bagel Shop', slug: 'bagel-shop' },
+  { name: 'Bread Bakery', slug: 'bread-bakery' },
+  { name: 'Macaron Shop', slug: 'macaron-shop' },
+  { name: 'Cake Shop', slug: 'cake-shop' },
+  { name: 'Donut Shop', slug: 'donut-shop' },
+  { name: 'Croissanterie', slug: 'croissanterie' },
 ];
 
 export default function NavMenu() {
@@ -68,7 +69,7 @@ export default function NavMenu() {
               borderBottom: '1px solid rgba(255,255,255,0.03)',
               transition: 'background 0.15s',
             }}>
-              {TYPE_ICONS[t.name] || '🍸'} {t.name}
+              {TYPE_ICONS[t.name] || '🥐'} {t.name}
             </a>
           ))}
           <div style={{

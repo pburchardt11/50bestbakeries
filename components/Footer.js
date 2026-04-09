@@ -97,8 +97,8 @@ export default function Footer() {
           </h4>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
             <a href="/blog" style={{ fontFamily: "'Outfit', sans-serif", fontSize: 13, color: '#6a6560', textDecoration: 'none' }}>Blog</a>
-            <a href="/blog/best-cocktail-bakeries-in-the-world" style={{ fontFamily: "'Outfit', sans-serif", fontSize: 13, color: '#6a6560', textDecoration: 'none' }}>Best Cocktail Bakeries in the World</a>
-            <a href="/blog/how-to-find-a-speakeasy" style={{ fontFamily: "'Outfit', sans-serif", fontSize: 13, color: '#6a6560', textDecoration: 'none' }}>How to Find a Speakeasy</a>
+            <a href="/blog/best-sourdough-bakeries-world" style={{ fontFamily: "'Outfit', sans-serif", fontSize: 13, color: '#6a6560', textDecoration: 'none' }}>Best Sourdough Bakeries in the World</a>
+            <a href="/blog/patisserie-vs-boulangerie" style={{ fontFamily: "'Outfit', sans-serif", fontSize: 13, color: '#6a6560', textDecoration: 'none' }}>Pâtisserie vs Boulangerie</a>
             <a href="/about" style={{ fontFamily: "'Outfit', sans-serif", fontSize: 13, color: '#6a6560', textDecoration: 'none' }}>About</a>
             <a href="/contact" style={{ fontFamily: "'Outfit', sans-serif", fontSize: 13, color: '#6a6560', textDecoration: 'none' }}>Contact</a>
             <a href="/privacy-policy" style={{ fontFamily: "'Outfit', sans-serif", fontSize: 13, color: '#6a6560', textDecoration: 'none' }}>Privacy Policy</a>

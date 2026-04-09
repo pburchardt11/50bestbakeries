@@ -59,15 +59,16 @@ export default function sitemap({ id }) {
     // Blog
     urls.push({ url: `${baseUrl}/blog`, lastModified: now, changeFrequency: 'weekly', priority: 0.7 });
     const blogSlugs = [
-      'best-cocktail-bakeries-in-the-world', 'speakeasy-guide', 'whiskey-bakery-etiquette',
-      'best-rooftop-bakeries', 'history-of-the-cocktail', 'how-to-order-at-a-japanese-bakery',
-      'worlds-50-best-bakerys-guide', 'classic-cocktail-recipes', 'mezcal-and-tequila-bakeries',
-      'wine-bakery-guide-for-beginners', 'craft-beer-bakery-culture', 'hotel-bakery-golden-age',
-      'bartending-techniques-guide', 'bakery-snacks-around-the-world', 'aperitivo-culture-italy',
-      'best-dive-bakeries-charm', 'negroni-variations-guide', 'gin-renaissance-cocktail-bakeries',
-      'tiki-bakery-history-and-culture', 'natural-wine-bakery-movement', 'best-jazz-bakeries-worldwide',
-      'home-bakery-setup-guide', 'cocktail-pairing-with-food', 'rum-bakery-caribbean-culture',
-      'non-alcoholic-cocktail-bakeries',
+      'best-sourdough-bakeries-world',
+      'patisserie-vs-boulangerie',
+      'best-croissants-world',
+      'what-is-a-viennoiserie',
+      'beginners-guide-to-sourdough',
+      'beginners-guide-to-macarons',
+      'beginners-guide-to-bagels',
+      'beginners-guide-to-babka',
+      'how-to-choose-bread',
+      'classic-pastries-guide',
     ];
     for (const slug of blogSlugs) {
       urls.push({ url: `${baseUrl}/blog/${slug}`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 });

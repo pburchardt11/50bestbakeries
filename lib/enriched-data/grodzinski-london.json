@@ -1,0 +1,48 @@
+{
+  "slug": "grodzinski-london",
+  "name": "Grodzinski",
+  "curatedName": "Grodzinski",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJm4RJGmocdkgRU3Ybwm9lCMY",
+  "googleName": "Grodzinski Stamford Hill bakery",
+  "formattedAddress": "168-170, 170 Clapton Common, London E5 9AG, UK",
+  "phone": "020 8802 4166",
+  "internationalPhone": "+44 20 8802 4166",
+  "website": "https://grodzinski.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14269766949995771475",
+  "rating": 4.6,
+  "reviewCount": 1219,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.57340199999999,
+    -0.071518
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 AM",
+    "Tuesday: 7:00 AM – 1:00 AM",
+    "Wednesday: 7:00 AM – 1:00 AM",
+    "Thursday: 7:00 AM – 1:00 AM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grodzinski-london/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grodzinski-london/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grodzinski-london/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grodzinski-london/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grodzinski-london/4.jpg"
+  ],
+  "enrichedAt": "2026-04-09T06:08:17.932Z"
+}

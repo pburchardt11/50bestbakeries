@@ -9,7 +9,7 @@ import AdUnit from '../components/AdUnit';
 
 export const metadata = {
   title: "50 Best Bakeries — The World's Best Bakeries Reviewed",
-  description: "Discover the 50 best bakeries in the world plus thousands of bakeries and cocktail lounges across 100+ countries. Expert ratings, Google reviews, cocktail menus & more.",
+  description: "Discover the 50 best bakeries in the world plus hundreds of thousands of boulangeries, patisseries, artisan sourdough shops and pastry houses across 200+ countries. Editorial rankings, verified Google ratings, real photos.",
   alternates: { canonical: 'https://www.50bestbakeries.com' },
 };
 
@@ -59,8 +59,9 @@ export default function HomePage() {
             fontFamily: "'Outfit', sans-serif", fontSize: 'clamp(12px, 1.6vw, 15px)',
             fontWeight: 300, color: '#6a6560', lineHeight: 1.7, maxWidth: 520, margin: '20px auto 0',
           }}>
-            The definitive guide to {totalBars.toLocaleString()}+ bakeries and cocktail lounges across {totalCountries} countries.
-            Expert ratings, verified Google reviews, and curated cocktail guides.
+            The definitive guide to {totalBars.toLocaleString()}+ bakeries across {totalCountries} countries —
+            boulangeries, patisseries, artisan sourdough, viennoiserie and neighbourhood institutions,
+            with verified Google ratings and editorial curation.
           </p>
         </div>
       </section>
@@ -120,18 +121,19 @@ export default function HomePage() {
         </h2>
         <div style={{ fontFamily: "'Outfit', sans-serif", fontSize: 14, color: '#8a8278', lineHeight: 1.8 }}>
           <p style={{ marginBottom: 16 }}>
-            50 Best Bakeries is the world{"'"}s most comprehensive bakery directory, featuring {totalBars.toLocaleString()}+ bakeries
-            and cocktail lounges across {totalCountries} countries and {totalCities} cities. We combine expert editorial
-            curation with verified Google review data to help you find the perfect bakery experience anywhere in the world.
+            50 Best Bakeries is the world{"'"}s most comprehensive bakery directory, featuring {totalBars.toLocaleString()}+
+            bakeries across {totalCountries} countries and {totalCities} cities. We combine editorial
+            curation with verified Google review data to help you find the best bread, pastries and cakes anywhere in the world.
           </p>
           <p style={{ marginBottom: 16 }}>
-            Every bakery in our directory is curated by our editorial team based on cocktail quality, atmosphere, service,
-            and innovation. Our top-ranked bakeries are selected for consistent excellence across these criteria.
+            Every bakery in our top-ranked lists is curated by our editorial team based on bread and pastry quality,
+            consistency, local reputation, and expert recognition from sources like Wikipedia, Wikidata, and Michelin-adjacent
+            publications. Our top-ranked bakeries are selected for consistent excellence across these criteria.
           </p>
           <p>
-            Whether you{"'"}re looking for a world-class cocktail bakery, a hidden speakeasy, a sophisticated wine bakery,
-            a lively rooftop bakery, or a neighbourhood pub near you — 50 Best Bakeries helps you compare ratings, explore menus,
-            and discover with confidence.
+            Whether you{"'"}re looking for a world-class boulangerie, a French-style patisserie, an artisan sourdough shop,
+            a viennoiserie specialist or a celebrated cake shop near you — 50 Best Bakeries helps you compare ratings,
+            explore menus, and plan your visit with confidence.
           </p>
         </div>
       </section>

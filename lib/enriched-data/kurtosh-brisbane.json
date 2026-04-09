@@ -1,0 +1,48 @@
+{
+  "slug": "kurtosh-brisbane",
+  "name": "Kürtősh",
+  "curatedName": "Kürtősh",
+  "city": "Brisbane",
+  "country": "Australia",
+  "placeId": "ChIJe2qO-_dRkWsRAPc8jxgwj_U",
+  "googleName": "Kürtősh - West End",
+  "formattedAddress": "Shop TR-06, 111 Boundary Street, West Village Retail, West End QLD 4101, Australia",
+  "phone": "(07) 3667 8386",
+  "internationalPhone": "+61 7 3667 8386",
+  "website": "http://www.kurtosh.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17694414343002453760",
+  "rating": 4,
+  "reviewCount": 688,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.4776476,
+    153.012061
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kurtosh-brisbane/0.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kurtosh-brisbane/1.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kurtosh-brisbane/2.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kurtosh-brisbane/3.jpg",
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kurtosh-brisbane/4.jpg"
+  ],
+  "enrichedAt": "2026-04-09T06:08:26.859Z"
+}
