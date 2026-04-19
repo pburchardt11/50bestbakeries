@@ -75,6 +75,7 @@ export async function GET(request) {
       badges: b.badges || null,
       sources: b.sources || null,
       wikipediaUrl: b.wikipediaUrl || null,
+      editorialScore: b.editorialScore || 0,
       isEnriched: b.isEnriched || false,
       address: b.address || null,
       phone: b.phone || null,
