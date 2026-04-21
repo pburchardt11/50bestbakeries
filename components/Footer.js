@@ -107,6 +107,32 @@ export default function Footer() {
         </div>
       </div>
 
+      {/* 50 Best Network */}
+      <div style={{ paddingTop: 20, borderTop: '1px solid rgba(212,148,76,0.04)' }}>
+        <h4 style={{
+          fontFamily: "'Outfit', sans-serif", fontSize: 10, fontWeight: 600,
+          letterSpacing: 1.5, textTransform: 'uppercase', color: '#d4944c',
+          marginTop: 0, marginBottom: 10, textAlign: 'center',
+        }}>
+          50 Best Network
+        </h4>
+        <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: '4px 16px', marginBottom: 16 }}>
+          {[
+            { name: '50 Best Bar', url: 'https://www.50bestbar.com' },
+            { name: '50 Best Peptides', url: 'https://www.50bestpeptides.com' },
+            { name: '50 Best Hotels', url: 'https://www.50besthotels.com' },
+            { name: '50 Best Spa', url: 'https://www.50bestspa.com' },
+            { name: '50 Best Museums', url: 'https://www.50bestmuseums.com' },
+            { name: '50 Best Games', url: 'https://www.50bestgames.com' },
+          ].map(site => (
+            <a key={site.url} href={site.url} target="_blank" rel="noopener noreferrer" style={{
+              fontFamily: "'Outfit', sans-serif", fontSize: 12, color: '#6a6560',
+              textDecoration: 'none', transition: 'color 0.2s',
+            }}>{site.name}</a>
+          ))}
+        </div>
+      </div>
+
       {/* Stats + Copyright */}
       <div style={{
         paddingTop: 20,
