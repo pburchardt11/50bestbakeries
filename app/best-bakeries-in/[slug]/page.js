@@ -11,6 +11,7 @@ import { getCountryIntro, getCountryWhyVisit, getCountryFAQs } from '../../../li
 import BakeryCardPhoto from '../../../components/BakeryCardPhoto';
 
 export const dynamicParams = true;
+export const revalidate = 86400;
 
 export async function generateStaticParams() {
   return [];

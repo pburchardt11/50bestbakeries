@@ -14,6 +14,7 @@ import { getExperienceUrl, getViatorUrl } from '../../../lib/affiliate';
 import AdUnit from '../../../components/AdUnit';
 
 export const dynamicParams = true;
+export const revalidate = 86400;
 
 export async function generateStaticParams() {
   // Generate on-demand for all countries

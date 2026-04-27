@@ -25,6 +25,7 @@ function findCityCountry(slug) {
 }
 
 export const dynamicParams = true;
+export const revalidate = 86400;
 
 export async function generateStaticParams() {
   // Generate on-demand for all cities

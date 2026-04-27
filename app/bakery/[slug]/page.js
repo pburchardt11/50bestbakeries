@@ -23,6 +23,7 @@ import { getExperienceUrl, getViatorUrl } from '../../../lib/affiliate';
 // Only pre-render a few key pages at build time
 // All other pages render on first visit (fast, cached automatically)
 export const dynamicParams = true;
+export const revalidate = 86400;
 
 export async function generateStaticParams() {
   // Pre-render only the Global Top 50 bakery slugs
