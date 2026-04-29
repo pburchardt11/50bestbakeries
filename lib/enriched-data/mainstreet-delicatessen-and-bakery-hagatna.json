@@ -1,0 +1,32 @@
+{
+  "slug": "mainstreet-delicatessen-and-bakery-hagatna",
+  "name": "MainStreet Delicatessen and Bakery",
+  "city": "Hagatna",
+  "country": "Guam",
+  "placeId": "ChIJUYMPHy94H2cRRfa7YBJ8p6A",
+  "googleName": "MainStreet Delicatessen & Bakery",
+  "formattedAddress": "130 Hernan Herman Cortez Ave, Hagåtña, 96910, Guam",
+  "phone": "(671) 479-3354",
+  "website": "https://www.facebook.com/mainstreetbakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11576357785553335877",
+  "rating": 4.5,
+  "reviewCount": 85,
+  "coords": [
+    13.4761205,
+    144.7497453
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 6:00 AM – 1:00 PM",
+    "Thursday: 6:00 AM – 1:00 PM",
+    "Friday: 6:00 AM – 1:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mainstreet-delicatessen-and-bakery-hagatna/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:22:38.915Z"
+}

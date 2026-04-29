@@ -1,0 +1,32 @@
+{
+  "slug": "chez-jeannette-antsirabe",
+  "name": "Chez Jeannette",
+  "city": "Antsirabe",
+  "country": "Madagascar",
+  "placeId": "ChIJf4zXkooP5SERfmDdKrOUP38",
+  "googleName": "Chez Jeannette boulangerie pâtisserie",
+  "formattedAddress": "Ave Jean Ralaimongo, Antsirabe 110, Madagascar",
+  "phone": "034 30 973 85",
+  "website": "https://www.facebook.com/Chez-Jeannette-100082257770619/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9169210863588827262",
+  "rating": 4.6,
+  "reviewCount": 29,
+  "coords": [
+    -19.8714417,
+    47.03425259999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chez-jeannette-antsirabe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:11:24.658Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-chisinau",
+  "name": "Sweet",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJ6erkA359yUARiID7E9x7JFg",
+  "googleName": "Julia's Sweets Coffee House",
+  "formattedAddress": "Strada Calea Ieşilor 9, Chișinău, Moldova",
+  "phone": "0686 25 212",
+  "website": "http://www.julias-sweets.md/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6351337559657513096",
+  "rating": 4.7,
+  "reviewCount": 153,
+  "coords": [
+    47.0379308,
+    28.8078311
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:00 PM",
+    "Tuesday: 8:30 AM – 8:00 PM",
+    "Wednesday: 8:30 AM – 8:00 PM",
+    "Thursday: 8:30 AM – 8:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:08.109Z"
+}

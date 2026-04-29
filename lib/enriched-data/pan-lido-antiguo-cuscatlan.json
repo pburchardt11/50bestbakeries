@@ -1,0 +1,32 @@
+{
+  "slug": "pan-lido-antiguo-cuscatlan",
+  "name": "Pan Lido",
+  "city": "Antiguo Cuscatlán",
+  "country": "El Salvador",
+  "placeId": "ChIJVQby-tAxY48Ruk9BlCK7KhE",
+  "googleName": "Lido",
+  "formattedAddress": "MQC5+VX3, Calle Principal, Antiguo Cuscatlán, El Salvador",
+  "phone": "2243 8701",
+  "website": "https://www.facebook.com/panlido.sv/posts/524506427573585",
+  "googleMapsUrl": "https://maps.google.com/?cid=1237006804857212858",
+  "rating": 4.3,
+  "reviewCount": 183,
+  "coords": [
+    13.6721305,
+    -89.2400712
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-lido-antiguo-cuscatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:03:54.442Z"
+}

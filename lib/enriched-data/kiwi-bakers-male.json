@@ -1,0 +1,32 @@
+{
+  "slug": "kiwi-bakers-male",
+  "name": "Kiwi Bakers",
+  "city": "Malé",
+  "country": "Maldives",
+  "placeId": "ChIJwfDLlvh-PzsRFDGOIq2MTy8",
+  "googleName": "Kiwi Bakers",
+  "formattedAddress": "Malé, Maldives",
+  "phone": "775-4140",
+  "website": "http://facebook.com/pg/Kiwi-Bakers-1449355648699371",
+  "googleMapsUrl": "https://maps.google.com/?cid=3409098118179729684",
+  "rating": 3.8,
+  "reviewCount": 4,
+  "coords": [
+    4.1715772,
+    73.5132823
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kiwi-bakers-male/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:13:20.504Z"
+}

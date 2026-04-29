@@ -1,0 +1,32 @@
+{
+  "slug": "naz-bakery-atyrau",
+  "name": "Naz_Bakery_Atyrau",
+  "city": "Атырау",
+  "country": "Kazakhstan",
+  "placeId": "ChIJBxaSCKnpo0ERMa1vCrq-uHo",
+  "googleName": "🍰 (Nan cakes and bakes)",
+  "formattedAddress": "Baqtygerey Qulmanov St 119 а, Atyrau, Kazakhstan",
+  "phone": "8 (708) 111 6608",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8843027574590254385",
+  "rating": 4.3,
+  "reviewCount": 44,
+  "coords": [
+    47.1065742,
+    51.89519259999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 AM",
+    "Tuesday: 7:00 AM – 1:00 AM",
+    "Wednesday: 7:00 AM – 1:00 AM",
+    "Thursday: 7:00 AM – 1:00 AM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 7:00 AM – 1:00 AM",
+    "Sunday: 7:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/naz-bakery-atyrau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:52:39.546Z"
+}

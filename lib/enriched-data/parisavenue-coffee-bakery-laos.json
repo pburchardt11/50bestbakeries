@@ -1,0 +1,32 @@
+{
+  "slug": "parisavenue-coffee-bakery-laos",
+  "name": "ParisAvenue Coffee & Bakery",
+  "city": "Laos",
+  "country": "Laos",
+  "placeId": "ChIJNXER01L_FDERvsTw3AazvIA",
+  "googleName": "Paris Avenue Pâtisserie&Café",
+  "formattedAddress": "231 Rue N°13 Ban Thahin Neua, Paksé, Champasak 00000, Laos",
+  "phone": "031 212 441",
+  "website": "https://www.facebook.com/parisavenuepakse",
+  "googleMapsUrl": "https://maps.google.com/?cid=9276486174534321342",
+  "rating": 4.7,
+  "reviewCount": 13,
+  "coords": [
+    15.123806,
+    105.791338
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 AM",
+    "Tuesday: 8:00 AM – 5:00 AM",
+    "Wednesday: 8:00 AM – 5:00 AM",
+    "Thursday: 8:00 AM – 5:00 AM",
+    "Friday: 8:00 AM – 5:00 AM",
+    "Saturday: 8:00 AM – 5:00 AM",
+    "Sunday: 8:00 AM – 5:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/parisavenue-coffee-bakery-laos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:59:46.517Z"
+}

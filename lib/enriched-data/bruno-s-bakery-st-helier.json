@@ -1,0 +1,32 @@
+{
+  "slug": "bruno-s-bakery-st-helier",
+  "name": "Bruno's Bakery",
+  "city": "St Helier",
+  "country": "Jersey",
+  "placeId": "ChIJl1lAyqdSDEgRg0Zz-EfgE2Q",
+  "googleName": "Bruno's Bakery - La Baguette Chaude",
+  "formattedAddress": "5 York Street, St Helier, Jersey JE2 3RQ, Jersey",
+  "phone": "01534 767355",
+  "website": "https://www.brunos.je/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7211354028065900163",
+  "rating": 4.6,
+  "reviewCount": 140,
+  "coords": [
+    49.1857023,
+    -2.1096592
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bruno-s-bakery-st-helier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:48:32.658Z"
+}

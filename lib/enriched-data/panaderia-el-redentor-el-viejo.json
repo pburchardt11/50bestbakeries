@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-el-redentor-el-viejo",
+  "name": "Panadería El Redentor",
+  "city": "El Viejo",
+  "country": "Nicaragua",
+  "placeId": "ChIJEUpqirnzcI8R2bDQRP9rN44",
+  "googleName": "Panadería El Redentor",
+  "formattedAddress": "MR8M+74X, NIC-50, El Viejo, Nicaragua",
+  "phone": "2344 1769",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10247778221220212953",
+  "rating": 3.8,
+  "reviewCount": 161,
+  "coords": [
+    12.6657373,
+    -87.1671286
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:30 PM",
+    "Tuesday: 5:00 AM – 6:30 PM",
+    "Wednesday: 5:00 AM – 6:30 PM",
+    "Thursday: 5:00 AM – 6:30 PM",
+    "Friday: 5:00 AM – 6:30 PM",
+    "Saturday: 5:00 AM – 6:30 PM",
+    "Sunday: 6:00 – 11:59 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-el-redentor-el-viejo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:38:21.920Z"
+}

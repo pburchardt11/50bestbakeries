@@ -1,0 +1,32 @@
+{
+  "slug": "bread-and-bun",
+  "name": "Bread and Bun",
+  "city": "حولى",
+  "country": "Kuwait",
+  "placeId": "ChIJ1WBiIU6dzz8R9F6n2CmDxSU",
+  "googleName": "Bread & Bun",
+  "formattedAddress": "Hasawi Complex, Beirut Street, Hawally, Kuwait",
+  "phone": "6500 0184",
+  "website": "http://breadandbunme.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2721725765567078132",
+  "rating": 4.1,
+  "reviewCount": 27,
+  "coords": [
+    29.3400365,
+    48.0275237
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 AM",
+    "Tuesday: 7:00 AM – 1:00 AM",
+    "Wednesday: 7:00 AM – 1:00 AM",
+    "Thursday: 7:00 AM – 1:00 AM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 7:00 AM – 1:00 AM",
+    "Sunday: 7:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-and-bun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:58:05.336Z"
+}

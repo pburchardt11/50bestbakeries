@@ -1,0 +1,32 @@
+{
+  "slug": "wheat-water-macau",
+  "name": "Wheat & Water",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJJ6UGdAB7ATQR6e4mOpaLJBs",
+  "googleName": "Wheat & Water",
+  "formattedAddress": "鏡湖馬路66號C, 66 Estr. do Repouso, Macao",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1955841615522623209",
+  "rating": 4.8,
+  "reviewCount": 9,
+  "coords": [
+    22.2010369,
+    113.543182
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wheat-water-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:10:10.295Z"
+}

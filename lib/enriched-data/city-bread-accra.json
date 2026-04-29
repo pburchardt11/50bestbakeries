@@ -1,0 +1,32 @@
+{
+  "slug": "city-bread-accra",
+  "name": "City Bread",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJ4yzI6mua3w8RKg70T8KXrhc",
+  "googleName": "City Bread",
+  "formattedAddress": "121 Hill St, Accra, Ghana",
+  "phone": "054 837 5866",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1706468169640840746",
+  "rating": 4.5,
+  "reviewCount": 65,
+  "coords": [
+    5.5786867,
+    -0.2021614
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 9:00 PM",
+    "Tuesday: 5:00 AM – 9:00 PM",
+    "Wednesday: 5:00 AM – 9:00 PM",
+    "Thursday: 5:00 AM – 9:00 PM",
+    "Friday: 5:00 AM – 9:00 PM",
+    "Saturday: 5:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/city-bread-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:08.943Z"
+}

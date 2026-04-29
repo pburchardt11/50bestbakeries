@@ -1,0 +1,32 @@
+{
+  "slug": "amberley-pies-amberley",
+  "name": "Amberley Pies",
+  "city": "Amberley",
+  "country": "New Zealand",
+  "placeId": "ChIJc-XJQvC7MW0RCEDmd5dNarw",
+  "googleName": "Amberley Pies",
+  "formattedAddress": "1 Markham Street, Amberley 7410, New Zealand",
+  "phone": "022 506 8899",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13576749339608760328",
+  "rating": 4.7,
+  "reviewCount": 286,
+  "coords": [
+    -43.1530922,
+    172.7287259
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: 9:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amberley-pies-amberley/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:14.055Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "gulliver-pagar-kohtla-jarve",
+  "name": "Gulliver Pagar",
+  "city": "Kohtla-Järve",
+  "country": "Estonia",
+  "placeId": "ChIJmZiquOlxlEYRR2XAHRxo7Uk",
+  "googleName": "GULLIVER PAGAR",
+  "formattedAddress": "Ravi 10p, Järve, 30322 Ida-Viru maakond, Estonia",
+  "phone": "5858 0990",
+  "website": "https://instagram.com/gulliver.pagar",
+  "googleMapsUrl": "https://maps.google.com/?cid=5327028404216685895",
+  "rating": 5,
+  "reviewCount": 10,
+  "coords": [
+    59.4017496,
+    27.2909201
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gulliver-pagar-kohtla-jarve/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:21.275Z"
+}

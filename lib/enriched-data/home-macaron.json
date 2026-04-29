@@ -1,0 +1,32 @@
+{
+  "slug": "home-macaron",
+  "name": "Home Macaron",
+  "city": "Астана",
+  "country": "Kazakhstan",
+  "placeId": "ChIJ3UtLNduFRUIRfUMJlvIvQiU",
+  "googleName": "HOME MACARON",
+  "formattedAddress": "Qabanbay Batyr Ave 58Б, Astana 020000, Kazakhstan",
+  "phone": "8 (707) 816 8009",
+  "website": "https://www.instagram.com/home_macaron",
+  "googleMapsUrl": "https://maps.google.com/?cid=2684761046812017533",
+  "rating": 4,
+  "reviewCount": 10,
+  "coords": [
+    51.09454789999999,
+    71.4096222
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/home-macaron/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:52:36.604Z"
+}

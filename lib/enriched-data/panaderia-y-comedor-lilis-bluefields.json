@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-comedor-lilis-bluefields",
+  "name": "Panaderia y Comedor LILIS",
+  "city": "Bluefields",
+  "country": "Nicaragua",
+  "placeId": "ChIJMbYPnQcIDI8R5znWV34dXpk",
+  "googleName": "PANADERIA DOMINGUEZ",
+  "formattedAddress": "1, Del obelisco, 2 C al Este, Bluefields, Nicaragua",
+  "phone": "2572 2388",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11051302964090517991",
+  "rating": 3.8,
+  "reviewCount": 72,
+  "coords": [
+    12.0114101,
+    -83.7637106
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:30 PM",
+    "Tuesday: 5:00 AM – 7:30 PM",
+    "Wednesday: 5:00 AM – 7:30 PM",
+    "Thursday: 5:00 AM – 7:30 PM",
+    "Friday: 5:00 AM – 7:30 PM",
+    "Saturday: 5:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-comedor-lilis-bluefields/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:32.163Z"
+}

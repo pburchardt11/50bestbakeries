@@ -1,0 +1,32 @@
+{
+  "slug": "farm-fresh-supermarket-koronivia-nausori",
+  "name": "Farm Fresh Supermarket - Koronivia",
+  "city": "Nausori",
+  "country": "Fiji",
+  "placeId": "ChIJ7SCM0NrhG24Rrrx6bn8e3GE",
+  "googleName": "Farm Fresh Supermarket",
+  "formattedAddress": "WGVV+X33, Fiji",
+  "phone": "895 0800",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7051544649218571438",
+  "rating": 3.3,
+  "reviewCount": 19,
+  "coords": [
+    -18.0551202,
+    178.5426801
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farm-fresh-supermarket-koronivia-nausori/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:09:02.875Z"
+}

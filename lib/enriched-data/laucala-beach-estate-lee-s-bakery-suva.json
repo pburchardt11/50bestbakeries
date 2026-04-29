@@ -1,0 +1,32 @@
+{
+  "slug": "laucala-beach-estate-lee-s-bakery-suva",
+  "name": "Laucala Beach Estate Lee's Bakery",
+  "city": "Suva",
+  "country": "Fiji",
+  "placeId": "ChIJJ0OWWT3eG24RdyevN5IOlU4",
+  "googleName": "Lees Bakery",
+  "formattedAddress": "Suva, Fiji",
+  "phone": "999 9620",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5662448127650506615",
+  "rating": 3.7,
+  "reviewCount": 98,
+  "coords": [
+    -18.112816,
+    178.4687483
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laucala-beach-estate-lee-s-bakery-suva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:10:02.281Z"
+}

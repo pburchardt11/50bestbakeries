@@ -1,0 +1,30 @@
+{
+  "slug": "kicakes-n-co-koumac",
+  "name": "Kicakes n'Co",
+  "city": "Koumac",
+  "country": "New Caledonia",
+  "placeId": "ChIJVXTYNwDXnm4RIqu1klM-dpo",
+  "googleName": "Kicakes n'Co",
+  "formattedAddress": "16 Rue Charles Colleux, Koumac, New Caledonia",
+  "phone": "44.24.01",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11130152057757346594",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -20.5509413,
+    164.2884612
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:30 – 11:30 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:34:50.412Z"
+}

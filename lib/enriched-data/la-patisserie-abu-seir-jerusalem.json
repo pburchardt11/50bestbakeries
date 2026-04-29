@@ -1,0 +1,32 @@
+{
+  "slug": "la-patisserie-abu-seir-jerusalem",
+  "name": "La Pâtisserie ABU SEIR",
+  "city": "Jerusalem",
+  "country": "Israel",
+  "placeId": "ChIJIbP78EgpAxURTEoV1K10Oys",
+  "googleName": "La Pâtisserie ABU SEIR",
+  "formattedAddress": "New Gate st, Ha-Sha'ar he-Khadash St 35, Jerusalem",
+  "phone": "052-877-0255",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3115211857193159244",
+  "rating": 4.7,
+  "reviewCount": 375,
+  "coords": [
+    31.7787559,
+    35.226569
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:00 PM",
+    "Tuesday: 8:30 AM – 8:00 PM",
+    "Wednesday: 8:30 AM – 8:30 PM",
+    "Thursday: 8:30 AM – 8:30 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-patisserie-abu-seir-jerusalem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:19.690Z"
+}

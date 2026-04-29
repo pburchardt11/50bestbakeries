@@ -1,0 +1,24 @@
+{
+  "slug": "wine-house-kotor",
+  "name": "Wine house",
+  "city": "Kotor",
+  "country": "Montenegro",
+  "placeId": "ChIJz0-RzAQzTBMRHAoZykCX8gg",
+  "googleName": "Apartments Wine House Old Town",
+  "formattedAddress": "Stari Grad 488, Kotor 85330, Montenegro",
+  "phone": "068 387 929",
+  "website": "http://www.wine-house.me/",
+  "googleMapsUrl": "https://maps.google.com/?cid=644744001191741980",
+  "rating": 4.7,
+  "reviewCount": 74,
+  "coords": [
+    42.42538589999999,
+    18.7718324
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wine-house-kotor/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:48.583Z"
+}

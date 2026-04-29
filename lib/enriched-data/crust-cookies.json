@@ -1,0 +1,24 @@
+{
+  "slug": "crust-cookies",
+  "name": "Crust Cookies",
+  "city": "Алматы",
+  "country": "Kazakhstan",
+  "placeId": "ChIJSfSTIABvgzgRl1RZRuJCYJI",
+  "googleName": "CHUNKY COOKIES",
+  "formattedAddress": "Tolebaev St 38/61, Almaty 050000, Kazakhstan",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10547503866912003223",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    43.2649056,
+    76.9475171
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crust-cookies/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:51:38.604Z"
+}

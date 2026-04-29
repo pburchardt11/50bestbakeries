@@ -1,0 +1,32 @@
+{
+  "slug": "maxim-s-cakes-causeway-bay",
+  "name": "Maxim's Cakes",
+  "city": "Causeway Bay",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJ9aeV6lYABDQR3GFK-4KsJUw",
+  "googleName": "Maxim's Cakes",
+  "formattedAddress": "Causeway Bay, Hong Kong",
+  "phone": "2892 1969",
+  "website": "http://www.maximscakes.com.hk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5486981399582499292",
+  "rating": 3.6,
+  "reviewCount": 47,
+  "coords": [
+    22.2798812,
+    114.1843847
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maxim-s-cakes-causeway-bay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:36.208Z"
+}

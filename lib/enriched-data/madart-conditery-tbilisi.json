@@ -1,0 +1,32 @@
+{
+  "slug": "madart-conditery-tbilisi",
+  "name": "• Madart Conditery",
+  "city": "Tbilisi",
+  "country": "Georgia",
+  "placeId": "ChIJU4hgmBYNREARU7kPoxduiv4",
+  "googleName": "Madart",
+  "formattedAddress": "ოსიპ მანდელშტამის ქუჩა, T'bilisi, Georgia",
+  "phone": "032 219 29 19",
+  "website": "http://www.madart.ge/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18341593480218786131",
+  "rating": 4.8,
+  "reviewCount": 913,
+  "coords": [
+    41.6905603,
+    44.86282970000001
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:30 PM",
+    "Tuesday: 8:30 AM – 10:30 PM",
+    "Wednesday: 8:30 AM – 10:30 PM",
+    "Thursday: 8:30 AM – 10:30 PM",
+    "Friday: 8:30 AM – 10:30 PM",
+    "Saturday: 8:30 AM – 10:30 PM",
+    "Sunday: 8:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/madart-conditery-tbilisi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:54.900Z"
+}

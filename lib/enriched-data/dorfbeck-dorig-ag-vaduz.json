@@ -1,0 +1,32 @@
+{
+  "slug": "dorfbeck-dorig-ag-vaduz",
+  "name": "Dorfbeck Dörig AG",
+  "city": "Vaduz",
+  "country": "Liechtenstein",
+  "placeId": "ChIJNdPZEyMxm0cRf0kE9IwDtO4",
+  "googleName": "Dorfbeck Dörig AG",
+  "formattedAddress": "Altenbach 14, 9490 Vaduz, Liechtenstein",
+  "phone": "232 10 74",
+  "website": "https://www.erlebevaduz.li/mitglied/dorfbeck-doerig-ag/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17200376780758993279",
+  "rating": 4.8,
+  "reviewCount": 37,
+  "coords": [
+    47.142217,
+    9.522758
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:00 PM, 2:00 – 6:00 PM",
+    "Tuesday: 6:30 AM – 12:00 PM, 2:00 – 6:00 PM",
+    "Wednesday: 6:30 AM – 12:00 PM",
+    "Thursday: 6:30 AM – 12:00 PM, 2:00 – 6:00 PM",
+    "Friday: 6:30 AM – 12:00 PM, 2:00 – 6:00 PM",
+    "Saturday: 6:30 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dorfbeck-dorig-ag-vaduz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:05:20.921Z"
+}

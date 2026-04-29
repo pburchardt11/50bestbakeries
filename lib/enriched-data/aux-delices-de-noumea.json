@@ -1,0 +1,32 @@
+{
+  "slug": "aux-delices-de-noumea",
+  "name": "Aux Delices de Noumea",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJTTVoe4XiJ2wRFl0g6Lmsvzc",
+  "googleName": "Aux Delices de Noumea",
+  "formattedAddress": "21 Rue Eugene Porcheron, Nouméa 98800, New Caledonia",
+  "phone": "27.25.24",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4017119307101134102",
+  "rating": 3.8,
+  "reviewCount": 13,
+  "coords": [
+    -22.2749898,
+    166.4453884
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:00 PM",
+    "Tuesday: 5:00 AM – 6:00 PM",
+    "Wednesday: 5:00 AM – 6:00 PM",
+    "Thursday: 5:00 AM – 6:00 PM",
+    "Friday: 5:00 AM – 6:00 PM",
+    "Saturday: 5:00 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aux-delices-de-noumea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:18.030Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cake-land-liberia-monrovia",
+  "name": "Cake land Liberia",
+  "city": "Monrovia",
+  "country": "Liberia",
+  "placeId": "ChIJ0zTX0aYCCg8RwWjejMZ0ogw",
+  "googleName": "Cakehouse Liberia.",
+  "formattedAddress": "13th Street, Monrovia 1000, Liberia",
+  "phone": "077 077 6667",
+  "website": "http://www.facebook.com/cakehouseliberia",
+  "googleMapsUrl": "https://maps.google.com/?cid=910418470797994177",
+  "rating": 4.3,
+  "reviewCount": 12,
+  "coords": [
+    6.292734599999999,
+    -10.7812632
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-land-liberia-monrovia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:04:18.420Z"
+}

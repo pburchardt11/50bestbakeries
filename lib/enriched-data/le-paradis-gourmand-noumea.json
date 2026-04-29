@@ -1,0 +1,32 @@
+{
+  "slug": "le-paradis-gourmand-noumea",
+  "name": "Le Paradis Gourmand",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJseG3BIHiJ2wR97V-iysdwjw",
+  "googleName": "GOURMET HEAVEN",
+  "formattedAddress": "Rte du Port Despointes, Nouméa 98800, New Caledonia",
+  "phone": "23.83.10",
+  "website": "https://www.lateliergourmand.nc/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4378093860618679799",
+  "rating": 3.9,
+  "reviewCount": 33,
+  "coords": [
+    -22.2817655,
+    166.4528787
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:30 PM",
+    "Tuesday: 5:30 AM – 6:30 PM",
+    "Wednesday: 5:30 AM – 6:30 PM",
+    "Thursday: 5:30 AM – 6:30 PM",
+    "Friday: 5:30 AM – 6:30 PM",
+    "Saturday: 5:30 AM – 6:30 PM",
+    "Sunday: 5:30 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-paradis-gourmand-noumea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:30.574Z"
+}

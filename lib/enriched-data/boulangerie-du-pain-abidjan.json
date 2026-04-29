@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-du-pain-abidjan",
+  "name": "Boulangerie Du Pain",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJZRlvdmDrwQ8RXKAV4INAG80",
+  "googleName": "Des Gâteaux & du Pain - 2 Plateaux",
+  "formattedAddress": "Rue des Jardins, Abidjan, Côte d'Ivoire",
+  "phone": "27 22 4 15538",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14779477537290821724",
+  "rating": 4.2,
+  "reviewCount": 3064,
+  "coords": [
+    5.3602323,
+    -3.9894986
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:30 PM",
+    "Tuesday: 6:30 AM – 8:30 PM",
+    "Wednesday: 6:30 AM – 8:30 PM",
+    "Thursday: 6:30 AM – 8:30 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-du-pain-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:01.589Z"
+}

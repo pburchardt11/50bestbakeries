@@ -1,0 +1,32 @@
+{
+  "slug": "tatti-meken",
+  "name": "Tatti Meken",
+  "city": "Астана",
+  "country": "Kazakhstan",
+  "placeId": "ChIJIyNjNx2ERUIRx6I7TflbzGA",
+  "googleName": "Тәп-Тәтті",
+  "formattedAddress": "Dinmukhamed Qonayev St 14, Astana 020000, Kazakhstan",
+  "phone": "8 (705) 755 6815",
+  "website": "https://taptatti.kz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6975051049190793927",
+  "rating": 4.7,
+  "reviewCount": 1966,
+  "coords": [
+    51.1286162,
+    71.4383371
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:30 PM",
+    "Tuesday: 8:00 AM – 9:30 PM",
+    "Wednesday: 8:00 AM – 9:30 PM",
+    "Thursday: 8:00 AM – 9:30 PM",
+    "Friday: 8:00 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: 8:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tatti-meken/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:52:31.648Z"
+}

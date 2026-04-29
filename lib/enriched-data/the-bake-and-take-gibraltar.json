@@ -1,0 +1,32 @@
+{
+  "slug": "the-bake-and-take-gibraltar",
+  "name": "The Bake and Take",
+  "city": "Gibraltar",
+  "country": "Gibraltar",
+  "placeId": "ChIJn2wRluTBDA0R1EZZ_pNqzVY",
+  "googleName": "The Bake and Take",
+  "formattedAddress": "Unit 1.0.02 ( next to Timeout Café) , Block 1, Eurotowers, Gibraltar GX11 1AA, Gibraltar",
+  "phone": "200 66699",
+  "website": "https://facebook.com/pages/category/Bakery/The-Bake-and-Take-2295671033781971/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6254772641347487444",
+  "rating": 4,
+  "reviewCount": 14,
+  "coords": [
+    36.1435011,
+    -5.357663899999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bake-and-take-gibraltar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:54.857Z"
+}

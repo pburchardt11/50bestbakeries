@@ -1,0 +1,32 @@
+{
+  "slug": "liina-kupsetised-parnu",
+  "name": "Liina küpsetised",
+  "city": "Pärnu",
+  "country": "Estonia",
+  "placeId": "ChIJi8llez_97EYRlQHlErLTfDI",
+  "googleName": "Liina küpsetised",
+  "formattedAddress": "Haapsalu mnt 37, Pärnu, 80029 Pärnu maakond, Estonia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3638015360783155605",
+  "rating": 4.8,
+  "reviewCount": 142,
+  "coords": [
+    58.39273729999999,
+    24.4631571
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/liina-kupsetised-parnu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:06:03.971Z"
+}

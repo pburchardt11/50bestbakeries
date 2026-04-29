@@ -1,0 +1,32 @@
+{
+  "slug": "salmatouch-casablanca",
+  "name": "salmatouch_",
+  "city": "Casablanca",
+  "country": "Morocco",
+  "placeId": "ChIJxQnoR-7Spw0RUqDZZwdrg4Y",
+  "googleName": "Moroccan Touch",
+  "formattedAddress": "4 Rue Abou Kacem Kotbari, Casablanca 20000, Morocco",
+  "phone": "05 22 20 15 45",
+  "website": "https://moroccantouch.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9692708502582698066",
+  "rating": 3.1,
+  "reviewCount": 19,
+  "coords": [
+    33.5926724,
+    -7.642140899999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 1:00 PM, 3:00 – 7:30 PM",
+    "Tuesday: 10:00 AM – 1:00 PM, 3:00 – 7:30 PM",
+    "Wednesday: 10:00 AM – 1:00 PM, 3:00 – 7:30 PM",
+    "Thursday: 10:00 AM – 1:00 PM, 3:00 – 7:30 PM",
+    "Friday: 10:00 AM – 1:00 PM, 3:00 – 7:30 PM",
+    "Saturday: 10:00 AM – 1:00 PM, 3:00 – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/salmatouch-casablanca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:27:21.418Z"
+}

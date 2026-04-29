@@ -1,0 +1,32 @@
+{
+  "slug": "la-patisserie-fort-de-france",
+  "name": "La Pâtisserie",
+  "city": "Fort-de-France",
+  "country": "Martinique",
+  "placeId": "ChIJMXH1auOmaowRocGR9wpbZtA",
+  "googleName": "La Pâtisserie",
+  "formattedAddress": "C.C. Les Boutiques du Parc de Cluny, 7 Rte de Cluny, Fort-de-France 97200, Martinique",
+  "phone": "0596 71 73 80",
+  "website": "https://www.facebook.com/pg/LaPatisseriedeCluny",
+  "googleMapsUrl": "https://maps.google.com/?cid=15016790110174822817",
+  "rating": 4.7,
+  "reviewCount": 72,
+  "coords": [
+    14.6125695,
+    -61.08050369999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 3:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-patisserie-fort-de-france/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:58.541Z"
+}

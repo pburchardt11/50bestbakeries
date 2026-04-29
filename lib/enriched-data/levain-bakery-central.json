@@ -1,0 +1,32 @@
+{
+  "slug": "levain-bakery-central",
+  "name": "Levain Bakery",
+  "city": "Central",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJWZYRNK8BBDQRtqhtg04mTmE",
+  "googleName": "Levain Bakery",
+  "formattedAddress": "Hong Kong, Wan Chai, Queen's Rd E, 138-144號Shop A, G/F",
+  "phone": "2708 8112",
+  "website": "http://www.levain-bakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7011583788516747446",
+  "rating": 3.8,
+  "reviewCount": 269,
+  "coords": [
+    22.2758504,
+    114.1707654
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/levain-bakery-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:30:08.293Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "au-savoureux-gateau-remire-montjoly",
+  "name": "Au Savoureux Gâteau",
+  "city": "Remire-Montjoly",
+  "country": "French Guiana",
+  "placeId": "ChIJGeui9vU7Eo0RJUI0lLvparE",
+  "googleName": "Au Savoureux Gâteau",
+  "formattedAddress": "5 Av. Robert Sampson, Remire-Montjoly 97354, French Guiana",
+  "phone": "0594 38 02 10",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12784287484099183141",
+  "rating": 3.7,
+  "reviewCount": 142,
+  "coords": [
+    4.8867698,
+    -52.2758993
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:30 PM",
+    "Thursday: 6:00 AM – 7:30 PM",
+    "Friday: 6:00 AM – 7:30 PM",
+    "Saturday: 6:00 AM – 7:30 PM",
+    "Sunday: 6:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-savoureux-gateau-remire-montjoly/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:06.791Z"
+}

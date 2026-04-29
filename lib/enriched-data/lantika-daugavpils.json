@@ -1,0 +1,32 @@
+{
+  "slug": "lantika-daugavpils",
+  "name": "Lantika",
+  "city": "Daugavpils",
+  "country": "Latvia",
+  "placeId": "ChIJR6qpmPOVwkYR9wEI_J-KwKA",
+  "googleName": "Lantika",
+  "formattedAddress": "Gaismas iela 4, Daugavpils, LV-5414, Latvia",
+  "phone": "29 606 957",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11583410661329732087",
+  "rating": 4.5,
+  "reviewCount": 22,
+  "coords": [
+    55.8670659,
+    26.5821034
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 – 11:00 AM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lantika-daugavpils/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:10.818Z"
+}

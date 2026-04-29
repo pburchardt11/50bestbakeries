@@ -1,0 +1,32 @@
+{
+  "slug": "diamond-cakes-antigua-guatemala",
+  "name": "Diamond Cakes",
+  "city": "Antigua Guatemala",
+  "country": "Guatemala",
+  "placeId": "ChIJQWUSSp0PiYURjE_iEySUH10",
+  "googleName": "Diamond Cakes",
+  "formattedAddress": "No. 35 A, Casa Diamond, Calle Real, Antigua Guatemala 03001, Guatemala",
+  "phone": "3697 3468",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6710244852478660492",
+  "rating": 4.8,
+  "reviewCount": 11,
+  "coords": [
+    14.5495012,
+    -90.7479458
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 2:00 PM",
+    "Wednesday: 6:00 AM – 2:00 PM",
+    "Thursday: 6:00 AM – 2:00 PM",
+    "Friday: 6:00 AM – 2:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/diamond-cakes-antigua-guatemala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:23:49.701Z"
+}

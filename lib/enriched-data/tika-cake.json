@@ -1,0 +1,32 @@
+{
+  "slug": "tika-cake",
+  "name": "Tika cake",
+  "city": "Астана",
+  "country": "Kazakhstan",
+  "placeId": "ChIJC7H3yTuERUIR5gPZ5m0_5po",
+  "googleName": "Tika cake",
+  "formattedAddress": "Aqmeshit St 9/2, Astana 020000, Kazakhstan",
+  "phone": "8 (775) 078 1778",
+  "website": "http://tikacake.kz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11161678467741320166",
+  "rating": 4.3,
+  "reviewCount": 105,
+  "coords": [
+    51.1132596,
+    71.4220809
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tika-cake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:52:10.874Z"
+}

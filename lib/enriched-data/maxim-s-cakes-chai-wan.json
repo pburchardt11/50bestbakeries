@@ -1,0 +1,32 @@
+{
+  "slug": "maxim-s-cakes-chai-wan",
+  "name": "Maxim's Cakes",
+  "city": "Chai Wan",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJmVDP_CcCBDQRub6nRuAZXsE",
+  "googleName": "Maxim's Cakes",
+  "formattedAddress": "Shop 47-50, G/F of Block B, Walton Estate, 1, 3 Yee Shun St, Chai Wan, Hong Kong",
+  "phone": "3401 9878",
+  "website": "https://www.maximscakes.com.hk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13933602748179660473",
+  "rating": 2.3,
+  "reviewCount": 6,
+  "coords": [
+    22.2644106,
+    114.2395131
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maxim-s-cakes-chai-wan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:30:24.756Z"
+}

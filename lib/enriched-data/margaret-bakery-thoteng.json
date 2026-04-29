@@ -1,0 +1,32 @@
+{
+  "slug": "margaret-bakery-thoteng",
+  "name": "Margaret Bakery",
+  "city": "Thoteng",
+  "country": "Lesotho",
+  "placeId": "ChIJ-fOkWRbLjR4RBK-nQSer0PE",
+  "googleName": "Margaret Bakery",
+  "formattedAddress": "PGCW+7C6 Next to Mineworkers, Naleli-Sekamaneng Rd, Lesotho",
+  "phone": "5905 8170",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17424615143390031620",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    -29.2793378,
+    27.5460114
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/margaret-bakery-thoteng/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:04:07.471Z"
+}

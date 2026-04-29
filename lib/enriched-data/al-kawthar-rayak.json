@@ -1,0 +1,32 @@
+{
+  "slug": "al-kawthar-rayak",
+  "name": "Al Kawthar",
+  "city": "Rayak",
+  "country": "Lebanon",
+  "placeId": "ChIJoTbm2-UZHxURKVdUzUg8uGA",
+  "googleName": "Al Kawthar Secondary School",
+  "formattedAddress": "Beirut, Bir Hasan, President Al-Assad Boulevard, facing the Golf club Beirut، Lebanon",
+  "phone": "01 452 121",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6969386706736011049",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    33.8475664,
+    35.4942053
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-kawthar-rayak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:03:08.222Z"
+}

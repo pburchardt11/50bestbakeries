@@ -1,0 +1,32 @@
+{
+  "slug": "the-gourmet-workshop-curepipe-town",
+  "name": "The Gourmet Workshop",
+  "city": "Curepipe Town",
+  "country": "Mauritius",
+  "placeId": "ChIJGzk7OmtdfCERMh6JoRmxOuI",
+  "googleName": "The Gourmet Workshop",
+  "formattedAddress": "Maurel Lane Gustave Colin Street Forest-Side MU, Curepipe 74422, Mauritius",
+  "phone": "5939 2385",
+  "website": "https://www.thegourmetworkshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16301536524863348274",
+  "rating": 4.9,
+  "reviewCount": 72,
+  "coords": [
+    -20.329563,
+    57.527866
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:30 PM",
+    "Tuesday: 8:00 AM – 5:30 PM",
+    "Wednesday: 8:00 AM – 5:30 PM",
+    "Thursday: 8:00 AM – 5:30 PM",
+    "Friday: 8:00 AM – 5:30 PM",
+    "Saturday: 8:00 AM – 5:30 PM",
+    "Sunday: 8:00 – 10:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-gourmet-workshop-curepipe-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:09.430Z"
+}

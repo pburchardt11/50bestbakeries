@@ -1,0 +1,32 @@
+{
+  "slug": "la-gourmandise-dembeni",
+  "name": "La gourmandise",
+  "city": "Dembeni",
+  "country": "Mayotte",
+  "placeId": "ChIJzyLTctgRCiIRWry7pfEkbsU",
+  "googleName": "La gourmandise",
+  "formattedAddress": "4 Impasse Bacar Malo Ongojou, Dembéni 97660, Mayotte",
+  "phone": "0639 67 37 90",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14226348893196237914",
+  "rating": 4.7,
+  "reviewCount": 7,
+  "coords": [
+    -12.8383173,
+    45.1591953
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 9:00 PM",
+    "Tuesday: 5:30 AM – 9:00 PM",
+    "Wednesday: 5:30 AM – 9:00 PM",
+    "Thursday: 5:30 AM – 9:00 PM",
+    "Friday: 5:30 AM – 9:00 PM",
+    "Saturday: 5:30 AM – 9:00 PM",
+    "Sunday: 5:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-gourmandise-dembeni/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:20:00.580Z"
+}

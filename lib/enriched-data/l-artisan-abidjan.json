@@ -1,0 +1,32 @@
+{
+  "slug": "l-artisan-abidjan",
+  "name": "L'Artisan",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJewUjhN7rwQ8RqKLSzH94qTs",
+  "googleName": "𝑪𝒉𝒆𝒛 𝒍'𝑨𝒓𝒕𝒊𝒔𝒂𝒏 𝑪𝑰",
+  "formattedAddress": "Boulevard Thérèse Houphouet Boigny(Marché, AKA MATHIAS, A.du Nord, Abidjan, Côte d'Ivoire",
+  "phone": "07 07 97 1792",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4299099809594385064",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    5.3351586,
+    -4.0022632
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-artisan-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:44:02.550Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "perisinakis-pastry-project-ierapetra",
+  "name": "Perisinakis Pastry Project",
+  "city": "Ierápetra",
+  "country": "Greece",
+  "placeId": "ChIJxfAtXJ95kBQRK0FibY7dcvk",
+  "googleName": "Zacharoplastíon Perisinákis",
+  "formattedAddress": "Ierapetra 722 00, Greece",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17974672666579321131",
+  "rating": 5,
+  "reviewCount": 7,
+  "coords": [
+    35.01192380000001,
+    25.7413949
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:30 PM",
+    "Tuesday: 8:00 AM – 9:30 PM",
+    "Wednesday: 8:00 AM – 9:30 PM",
+    "Thursday: 8:00 AM – 9:30 PM",
+    "Friday: 8:00 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: 8:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/perisinakis-pastry-project-ierapetra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:41.102Z"
+}

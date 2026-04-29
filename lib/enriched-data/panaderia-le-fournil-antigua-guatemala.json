@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-le-fournil-antigua-guatemala",
+  "name": "Panadería Le fournil",
+  "city": "Antigua Guatemala",
+  "country": "Guatemala",
+  "placeId": "ChIJq5QsQvgPiYUReQg3_334_Xw",
+  "googleName": "Panadería Le fournil",
+  "formattedAddress": "6a Avenida Norte n°34, Antigua Guatemala 03001, Guatemala",
+  "phone": "7771 4380",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9006628049847257209",
+  "rating": 4.7,
+  "reviewCount": 81,
+  "coords": [
+    14.5601196,
+    -90.73534149999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 7:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-le-fournil-antigua-guatemala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:23:41.278Z"
+}

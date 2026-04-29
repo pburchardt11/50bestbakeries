@@ -1,0 +1,32 @@
+{
+  "slug": "city-bakery-4-male",
+  "name": "City Bakery 4",
+  "city": "Malé",
+  "country": "Maldives",
+  "placeId": "ChIJxxm81FN-PzsRp-XWwexdRZU",
+  "googleName": "City Bakery Showroom 4",
+  "formattedAddress": "5GF3+798, Izzuddeen Magu, Malé, Maldives",
+  "phone": "302-9846",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10756106556490048935",
+  "rating": 4.4,
+  "reviewCount": 30,
+  "coords": [
+    4.1731656,
+    73.5034549
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 – 10:30 AM, 2:00 – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/city-bakery-4-male/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:13:50.028Z"
+}

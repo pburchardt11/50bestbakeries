@@ -1,0 +1,32 @@
+{
+  "slug": "piece-of-cake-jaffa",
+  "name": "Piece Of Cake (פיס אוף קייק)",
+  "city": "Jaffa",
+  "country": "Israel",
+  "placeId": "ChIJpYe3GLpMHRUR4PNk7jr-QFA",
+  "googleName": "פיס אוף קייק יפו Piece of Cake",
+  "formattedAddress": "Yehuda Hayamit St 17, Tel Aviv-Yafo, Israel",
+  "phone": null,
+  "website": "http://www.pieceofcake.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5782901450604868576",
+  "rating": 4.4,
+  "reviewCount": 557,
+  "coords": [
+    32.049558,
+    34.757917
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/piece-of-cake-jaffa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:10.611Z"
+}

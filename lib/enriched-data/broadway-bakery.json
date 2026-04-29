@@ -1,0 +1,32 @@
+{
+  "slug": "broadway-bakery",
+  "name": "Broadway Bakery",
+  "city": "Битола",
+  "country": "North Macedonia",
+  "placeId": "ChIJY_Py-Z4lVxMRlbhYiEHM0bA",
+  "googleName": "Broadway Bakery Bitola",
+  "formattedAddress": "Shirok Sokak 57, Bitola 7000, North Macedonia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12741189402640300181",
+  "rating": 3.8,
+  "reviewCount": 25,
+  "coords": [
+    41.0291144,
+    21.3356499
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/broadway-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:42:45.202Z"
+}

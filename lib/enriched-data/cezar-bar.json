@@ -1,0 +1,32 @@
+{
+  "slug": "cezar-bar",
+  "name": "Cezar",
+  "city": "Bar",
+  "country": "Montenegro",
+  "placeId": "ChIJn4FE7gB0ThMRGqRTt1d0sro",
+  "googleName": "Cezar",
+  "formattedAddress": "33XW+FJG, Ul. Vladimira Rolovića, Bar, Montenegro",
+  "phone": "069 266 955",
+  "website": "http://www.cezarpeciva.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13452942956995781658",
+  "rating": 4.1,
+  "reviewCount": 168,
+  "coords": [
+    42.0986764,
+    19.0965925
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cezar-bar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:25:09.781Z"
+}

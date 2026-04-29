@@ -1,0 +1,32 @@
+{
+  "slug": "zurich-bread-factory-cafe-laos",
+  "name": "Zurich Bread Factory & Cafe",
+  "city": "Laos",
+  "country": "Laos",
+  "placeId": "ChIJC20lWBMqLzERX5ERiDZY67o",
+  "googleName": "Zurich Bread Factory & Cafe",
+  "formattedAddress": "Sakkaline Rd, Luang Prabang, Laos",
+  "phone": "020 58 528 953",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13468956101815931231",
+  "rating": 4.2,
+  "reviewCount": 868,
+  "coords": [
+    19.8947602,
+    102.1411782
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zurich-bread-factory-cafe-laos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:59:30.397Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boni-sweets",
+  "name": "Boni_Sweets",
+  "city": "Астана",
+  "country": "Kazakhstan",
+  "placeId": "ChIJrxd1ZluHRUIRdPiYH6LPijk",
+  "googleName": "Bonbonastana01",
+  "formattedAddress": "Iliyas Omarov St 21, Astana 010000, Kazakhstan",
+  "phone": "8 (707) 711 1809",
+  "website": "https://www.instagram.com/bonbonastana01/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4146354702169733236",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    51.13750899999999,
+    71.3681417
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:30 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boni-sweets/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:52:01.863Z"
+}

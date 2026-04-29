@@ -1,0 +1,32 @@
+{
+  "slug": "joann-s-bakery-yigo",
+  "name": "Joann’s Bakery",
+  "city": "Yigo",
+  "country": "Guam",
+  "placeId": "ChIJpQy44YWEH2cRERo_IFKFe5g",
+  "googleName": "Joann's Bakery",
+  "formattedAddress": "Limbaga Bldg A-1,, Rte 1, Yigo, 96929, Guam",
+  "phone": "(671) 653-3302",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10987522303675275793",
+  "rating": 4.1,
+  "reviewCount": 107,
+  "coords": [
+    13.5255285,
+    144.8828834
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 1:00 PM",
+    "Tuesday: 5:00 AM – 1:00 PM",
+    "Wednesday: 5:00 AM – 1:00 PM",
+    "Thursday: 5:00 AM – 1:00 PM",
+    "Friday: 5:00 AM – 1:00 PM",
+    "Saturday: 5:00 AM – 1:00 PM",
+    "Sunday: 5:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/joann-s-bakery-yigo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:23:08.474Z"
+}

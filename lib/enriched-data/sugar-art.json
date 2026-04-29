@@ -1,0 +1,32 @@
+{
+  "slug": "sugar-art",
+  "name": "Sugar Art",
+  "city": "حولى",
+  "country": "Kuwait",
+  "placeId": "ChIJwXfTtpWczz8RN3JVgg0_FVs",
+  "googleName": "Sugar Art",
+  "formattedAddress": "9 Ibn Khaldoun St, Hawally, Kuwait",
+  "phone": "9971 4409",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6563221359216128567",
+  "rating": 4.4,
+  "reviewCount": 11,
+  "coords": [
+    29.3464847,
+    48.0171883
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-art/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:58.511Z"
+}

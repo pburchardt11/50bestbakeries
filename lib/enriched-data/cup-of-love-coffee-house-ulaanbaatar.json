@@ -1,0 +1,32 @@
+{
+  "slug": "cup-of-love-coffee-house-ulaanbaatar",
+  "name": "Cup of Love Coffee House",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJye8ICdftll0Rp0L2HJ6lx2s",
+  "googleName": "Cup of Love",
+  "formattedAddress": "SHD - 3 khoroo, Ulaanbaatar 18105, Mongolia",
+  "phone": "9665 3352",
+  "website": "https://www.facebook.com/colcoffeehouse/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7766358180933026471",
+  "rating": 4.5,
+  "reviewCount": 17,
+  "coords": [
+    47.9205115,
+    106.7954403
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cup-of-love-coffee-house-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:24:28.565Z"
+}

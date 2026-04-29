@@ -1,0 +1,32 @@
+{
+  "slug": "cateriner-lilongwe",
+  "name": "Cateriner",
+  "city": "Lilongwe",
+  "country": "Malawi",
+  "placeId": "ChIJRyCCcerTIRkR9rkzROCpiM4",
+  "googleName": "Cateriner",
+  "formattedAddress": "Area47/174, Lilongwe, Malawi",
+  "phone": "0888 45 43 91",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14882331749327813110",
+  "rating": 4.5,
+  "reviewCount": 11,
+  "coords": [
+    -13.9559925,
+    33.7631034
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cateriner-lilongwe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:11:44.742Z"
+}

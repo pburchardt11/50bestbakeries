@@ -1,0 +1,32 @@
+{
+  "slug": "butik-kiflica-bar",
+  "name": "Butik kiflica",
+  "city": "Bar",
+  "country": "Montenegro",
+  "placeId": "ChIJo1wC20x1ThMRe-Tprx8V3zQ",
+  "googleName": "Butik kiflica",
+  "formattedAddress": "H12 Mila Boskovica, Bar 85000, Montenegro",
+  "phone": "067 592 902",
+  "website": "http://www.butikkiflica.me/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3809787035618239611",
+  "rating": 4.3,
+  "reviewCount": 11,
+  "coords": [
+    42.101713,
+    19.0970587
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/butik-kiflica-bar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:25:30.683Z"
+}

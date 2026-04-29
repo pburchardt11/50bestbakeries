@@ -1,0 +1,32 @@
+{
+  "slug": "ozoba-bakkerij-s-gravenzande",
+  "name": "Ozoba Bakkerij",
+  "city": "'s-Gravenzande",
+  "country": "Netherlands",
+  "placeId": "ChIJz0U4T5CtxUcRuWkSKmjQw8I",
+  "googleName": "Turkse Bakkerij Özoba",
+  "formattedAddress": "Graaf Florisplein 42, 2691 ZX 's-Gravenzande, Netherlands",
+  "phone": "06 17073289",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14034290009617623481",
+  "rating": 4.3,
+  "reviewCount": 189,
+  "coords": [
+    52.0031268,
+    4.163944499999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ozoba-bakkerij-s-gravenzande/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:33:56.300Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sl-company",
+  "name": "SL Company",
+  "city": "ახალციხე",
+  "country": "Georgia",
+  "placeId": "ChIJ55J7kljbQkAR7Cs-PJxz-Lg",
+  "googleName": "sl company",
+  "formattedAddress": "kostavas str, ახალციხე 0800, Georgia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13328530212065782764",
+  "rating": 3.8,
+  "reviewCount": 9,
+  "coords": [
+    41.6434293,
+    42.9934449
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sl-company/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:14:06.348Z"
+}

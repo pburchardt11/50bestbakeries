@@ -1,0 +1,32 @@
+{
+  "slug": "the-natural-bakery-blackrock",
+  "name": "The Natural Bakery",
+  "city": "Blackrock",
+  "country": "Ireland",
+  "placeId": "ChIJF96ACxgJZ0gRm1JcjB43rbA",
+  "googleName": "The Natural Bakery Blackrock",
+  "formattedAddress": "Unit F06, Frascati Centre, Blackrock, Dublin, A94 K4W0, Ireland",
+  "phone": "(01) 278 3989",
+  "website": "https://thenaturalbakery.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12730892325989667483",
+  "rating": 2.7,
+  "reviewCount": 23,
+  "coords": [
+    53.301407,
+    -6.1812707
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-natural-bakery-blackrock/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:19.448Z"
+}

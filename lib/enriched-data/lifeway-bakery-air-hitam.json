@@ -1,0 +1,32 @@
+{
+  "slug": "lifeway-bakery-air-hitam",
+  "name": "Lifeway Bakery",
+  "city": "Air Hitam",
+  "country": "Malaysia",
+  "placeId": "ChIJb8FkUwDDSjARmFgD-YUOIZI",
+  "googleName": "Lifeway Bakery",
+  "formattedAddress": "7A-1-9, Lbh Thean Teik, Desa Intan, 11500 Ayer Itam, Pulau Pinang, Malaysia",
+  "phone": "011-6569 5465",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10529713372340115608",
+  "rating": 4.9,
+  "reviewCount": 17,
+  "coords": [
+    5.393225999999999,
+    100.2869592
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 12:00 – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lifeway-bakery-air-hitam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:12:42.980Z"
+}

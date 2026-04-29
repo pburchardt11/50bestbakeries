@@ -1,0 +1,32 @@
+{
+  "slug": "aira-s-cakes-jelgava",
+  "name": "Aira's Cakes",
+  "city": "Jelgava",
+  "country": "Latvia",
+  "placeId": "ChIJwaNy43cl70YRdUAPt9-9KVg",
+  "googleName": "Aira's cakes mājas konditorejas studija",
+  "formattedAddress": "3. līnija 32K, Jelgava, LV-3003, Latvia",
+  "phone": "26 812 155",
+  "website": "http://www.airascakes.lv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6352817517929382005",
+  "rating": 5,
+  "reviewCount": 29,
+  "coords": [
+    56.6641047,
+    23.6656664
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 5:00 PM",
+    "Wednesday: 11:00 AM – 5:00 PM",
+    "Thursday: 11:00 AM – 5:00 PM",
+    "Friday: 11:00 AM – 5:00 PM",
+    "Saturday: 11:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aira-s-cakes-jelgava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:47.680Z"
+}

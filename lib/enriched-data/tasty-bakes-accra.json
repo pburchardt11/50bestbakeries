@@ -1,0 +1,24 @@
+{
+  "slug": "tasty-bakes-accra",
+  "name": "Tasty Bakes",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJCUrLYj2b3w8RNWSEz7meASs",
+  "googleName": "Tasty Bakes",
+  "formattedAddress": "Borstal Ave Ln, Accra, Ghana",
+  "phone": "027 082 3355",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3098932539495310389",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    5.608094800000001,
+    -0.1927901
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tasty-bakes-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:16:36.728Z"
+}

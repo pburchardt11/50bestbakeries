@@ -1,0 +1,32 @@
+{
+  "slug": "bakerloo-maldives-hulhumale",
+  "name": "Bakerloo, Maldives",
+  "city": "Hulhumale",
+  "country": "Maldives",
+  "placeId": "ChIJBerOpcx_PzsRSZEdhr_R6oI",
+  "googleName": "Bakerloo",
+  "formattedAddress": "Ahigas Magu, Malé, Maldives",
+  "phone": "762-6512",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9433582989999968585",
+  "rating": 3.9,
+  "reviewCount": 140,
+  "coords": [
+    4.2125621,
+    73.544005
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 3:00 PM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakerloo-maldives-hulhumale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:12:55.714Z"
+}

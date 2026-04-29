@@ -1,0 +1,32 @@
+{
+  "slug": "roz-bakery-coffee-shop-ajka",
+  "name": "Róz Bakery & Coffee Shop",
+  "city": "Ajka",
+  "country": "Hungary",
+  "placeId": "ChIJkzMnWgBzaUcRyPeyru7IX3A",
+  "googleName": "Róz Bakery & Coffee Shop",
+  "formattedAddress": "Ajka, Kossuth u. 4, 8400 Hungary",
+  "phone": "06 30 442 8032",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8097411582494177224",
+  "rating": 4.5,
+  "reviewCount": 6,
+  "coords": [
+    47.107768,
+    17.5598088
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 4:00 PM",
+    "Tuesday: 5:00 AM – 4:00 PM",
+    "Wednesday: 5:00 AM – 4:00 PM",
+    "Thursday: 5:00 AM – 4:00 PM",
+    "Friday: 5:00 AM – 4:00 PM",
+    "Saturday: 6:00 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roz-bakery-coffee-shop-ajka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:32:20.803Z"
+}

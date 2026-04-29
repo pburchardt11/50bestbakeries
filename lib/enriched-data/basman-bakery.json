@@ -1,0 +1,32 @@
+{
+  "slug": "basman-bakery",
+  "name": "Basman Bakery ( )",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJh0J5NiugHBURnycMh39_TRw",
+  "googleName": "Basman Bakery",
+  "formattedAddress": "Al-Madina Al-Monawara St 261, Amman, Jordan",
+  "phone": "(06) 551 5933",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2039426391971997599",
+  "rating": 4.3,
+  "reviewCount": 1734,
+  "coords": [
+    31.9980238,
+    35.8719663
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 AM",
+    "Tuesday: 6:00 AM – 2:00 AM",
+    "Wednesday: 6:00 AM – 2:00 AM",
+    "Thursday: 6:00 AM – 2:00 AM",
+    "Friday: 6:00 AM – 2:00 AM",
+    "Saturday: 6:00 AM – 2:00 AM",
+    "Sunday: 6:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/basman-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:50:01.313Z"
+}

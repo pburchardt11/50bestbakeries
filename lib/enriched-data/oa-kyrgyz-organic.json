@@ -1,0 +1,32 @@
+{
+  "slug": "oa-kyrgyz-organic",
+  "name": "oa Kyrgyz Organic",
+  "city": "Бишкек шаары",
+  "country": "Kyrgyzstan",
+  "placeId": "ChIJ7TWyZPXJnjgR2kEqpqy1PrU",
+  "googleName": "ОА Кыргыз Органик",
+  "formattedAddress": "4th Street, Bishkek, Kyrgyzstan",
+  "phone": "0554 995 523",
+  "website": "https://oako.kg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13060075722547806682",
+  "rating": 4.3,
+  "reviewCount": 103,
+  "coords": [
+    42.8181052,
+    74.5719411
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oa-kyrgyz-organic/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:58:17.596Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "braud-and-co-kopavogsb-r",
+  "name": "Braud and Co",
+  "city": "Kópavogsbær",
+  "country": "Iceland",
+  "placeId": "ChIJ_w-tULZz1kgREcDdjvdUC88",
+  "googleName": "Brauð & Co",
+  "formattedAddress": "Nýbýlavegur 12, 200 Kopavogur, Iceland",
+  "phone": "456 7777",
+  "website": "https://braudogco.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14919111612825452561",
+  "rating": 4.7,
+  "reviewCount": 121,
+  "coords": [
+    64.114209,
+    -21.8942329
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/braud-and-co-kopavogsb-r/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:18.881Z"
+}

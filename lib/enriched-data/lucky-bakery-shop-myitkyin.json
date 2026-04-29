@@ -1,0 +1,32 @@
+{
+  "slug": "lucky-bakery-shop-myitkyin",
+  "name": "Lucky Bakery Shop",
+  "city": "Myitkyin",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJozazgH10MDcRW5RBpN1NAiY",
+  "googleName": "Lucky Bakery Shop",
+  "formattedAddress": "99RV+7WM, Myitkyina, Myanmar (Burma)",
+  "phone": "074 21 881",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2738837137733555291",
+  "rating": 4.2,
+  "reviewCount": 206,
+  "coords": [
+    25.3907176,
+    97.3948119
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lucky-bakery-shop-myitkyin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:31:18.965Z"
+}

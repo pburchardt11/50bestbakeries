@@ -1,0 +1,32 @@
+{
+  "slug": "mik-casablanca",
+  "name": "Mik",
+  "city": "Casablanca",
+  "country": "Morocco",
+  "placeId": "ChIJE58UbADTpw0RS2Calyz6XW4",
+  "googleName": "MIK BBQ [Made In Korea]",
+  "formattedAddress": "2 Rue Théophile Gauthier, Casablanca 20060, Morocco",
+  "phone": "05 20 02 29 79",
+  "website": "https://www.madeinkorea.ma/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7952787586435145803",
+  "rating": 4.4,
+  "reviewCount": 1132,
+  "coords": [
+    33.5882972,
+    -7.631298399999999
+  ],
+  "openingHours": [
+    "Monday: 12:00 PM – 12:00 AM",
+    "Tuesday: 12:00 PM – 12:00 AM",
+    "Wednesday: 12:00 PM – 12:00 AM",
+    "Thursday: 12:00 PM – 12:00 AM",
+    "Friday: 12:00 PM – 1:00 AM",
+    "Saturday: 12:00 PM – 1:00 AM",
+    "Sunday: 12:00 PM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mik-casablanca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:27:19.213Z"
+}

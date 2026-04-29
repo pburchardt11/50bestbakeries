@@ -1,0 +1,32 @@
+{
+  "slug": "cookie-house-lavasan",
+  "name": "Cookie House",
+  "city": "Lavasan",
+  "country": "Iran",
+  "placeId": "ChIJ52Wdr08Zjj8R_cWkzK42gpw",
+  "googleName": "Cookie House",
+  "formattedAddress": "Tehran Lavasan, Lavasan, Imam Khomeini Blvd, RJ96+6MW, Iran",
+  "phone": "021 2656 5726",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11277636541274703357",
+  "rating": 3.8,
+  "reviewCount": 18,
+  "coords": [
+    35.8181101,
+    51.611704
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cookie-house-lavasan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:35:42.803Z"
+}

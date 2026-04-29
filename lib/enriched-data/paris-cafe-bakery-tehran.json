@@ -1,0 +1,32 @@
+{
+  "slug": "paris-cafe-bakery-tehran",
+  "name": "Paris Cafe Bakery",
+  "city": "Tehran",
+  "country": "Iran",
+  "placeId": "ChIJqauAEQABjj8RIW0uQdFwQyc",
+  "googleName": "Paris Cafe & Bakery",
+  "formattedAddress": "Tehran, خیابان مطهری، نبش کوچه آزادگان, Mirzaye Shirazi St, No. بالاتر از, Iran",
+  "phone": "0935 630 3890",
+  "website": "https://www.instagram.com/pariscafe.bakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=2829229034962840865",
+  "rating": 4.1,
+  "reviewCount": 25,
+  "coords": [
+    35.7255198,
+    51.4161759
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-cafe-bakery-tehran/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:36:47.944Z"
+}

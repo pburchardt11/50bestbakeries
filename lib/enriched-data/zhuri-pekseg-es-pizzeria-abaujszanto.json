@@ -1,0 +1,32 @@
+{
+  "slug": "zhuri-pekseg-es-pizzeria-abaujszanto",
+  "name": "Zhuri Pékség es Pizzéria",
+  "city": "Abaújszántó",
+  "country": "Hungary",
+  "placeId": "ChIJvzmuSnFPP0cRWOjDReSHTu8",
+  "googleName": "Zhuri Pékség es Pizzéria",
+  "formattedAddress": "Abaújszántó, Béke út 30, 3881 Hungary",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17243869437740968024",
+  "rating": 4.8,
+  "reviewCount": 45,
+  "coords": [
+    48.2771909,
+    21.1858487
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 9:00 PM",
+    "Tuesday: 5:00 AM – 9:00 PM",
+    "Wednesday: 5:00 AM – 9:00 PM",
+    "Thursday: 5:00 AM – 9:00 PM",
+    "Friday: 5:00 AM – 9:00 PM",
+    "Saturday: 5:00 AM – 9:00 PM",
+    "Sunday: 5:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zhuri-pekseg-es-pizzeria-abaujszanto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:31:58.656Z"
+}

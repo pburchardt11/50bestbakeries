@@ -1,0 +1,32 @@
+{
+  "slug": "kokulist-hafnarfjar-arkaupsta-ur",
+  "name": "Kökulist",
+  "city": "Hafnarfjarðarkaupstaður",
+  "country": "Iceland",
+  "placeId": "ChIJAWzCGOQN1kgRoAhqRTpe05k",
+  "googleName": "Kökulist",
+  "formattedAddress": "Fjarðargata 13-15, 220, 220 Hafnarfjörður, Iceland",
+  "phone": "555 6655",
+  "website": "http://kokulist.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11084306712254613664",
+  "rating": 4.4,
+  "reviewCount": 18,
+  "coords": [
+    64.0682094,
+    -21.9568091
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kokulist-hafnarfjar-arkaupsta-ur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:33:51.483Z"
+}

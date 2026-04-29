@@ -1,0 +1,32 @@
+{
+  "slug": "lehem-erez-herzliya",
+  "name": "Lehem Erez",
+  "city": "Herzliya",
+  "country": "Israel",
+  "placeId": "ChIJRYKlJXdIHRURhY5A9Mceyiw",
+  "googleName": "Lehem Erez",
+  "formattedAddress": "HaNadiv St 71, Herzliya, Israel",
+  "phone": "09-955-5612",
+  "website": "http://www.lehemerez.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3227425927109578373",
+  "rating": 3.8,
+  "reviewCount": 723,
+  "coords": [
+    32.1704435,
+    34.8316159
+  ],
+  "openingHours": [
+    "Monday: 7:15 AM – 8:00 PM",
+    "Tuesday: 7:15 AM – 8:00 PM",
+    "Wednesday: 7:15 AM – 8:00 PM",
+    "Thursday: 7:15 AM – 8:00 PM",
+    "Friday: 7:15 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:15 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lehem-erez-herzliya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:03.189Z"
+}

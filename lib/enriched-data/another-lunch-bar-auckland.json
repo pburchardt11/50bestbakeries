@@ -1,0 +1,32 @@
+{
+  "slug": "another-lunch-bar-auckland",
+  "name": "Another lunch bar",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJ1f6XgRZTDW0Rb6XgyAWZfgQ",
+  "googleName": "Another lunch bar",
+  "formattedAddress": "55B/185 Great South Road, Manurewa, Auckland 2102, New Zealand",
+  "phone": "021 118 3839",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=323864473341306223",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -37.0226524,
+    174.8963001
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:30 PM",
+    "Tuesday: 7:30 AM – 5:30 PM",
+    "Wednesday: 7:30 AM – 5:30 PM",
+    "Thursday: 7:30 AM – 5:30 PM",
+    "Friday: 7:30 AM – 5:30 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/another-lunch-bar-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:39.159Z"
+}

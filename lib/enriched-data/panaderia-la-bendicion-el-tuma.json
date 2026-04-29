@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-bendicion-el-tuma",
+  "name": "Panaderia La Bendicion.",
+  "city": "El Tuma",
+  "country": "Nicaragua",
+  "placeId": "ChIJeaPt145dco8RQSQONRL8g2Y",
+  "googleName": "CAFETERIA PANADERIA LA BENDICION La Dalia .",
+  "formattedAddress": "La Dalia, Nicaragua",
+  "phone": "2774 1020",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7387024968947475521",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    13.1376501,
+    -85.7370104
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-bendicion-el-tuma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:38:19.561Z"
+}

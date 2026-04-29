@@ -1,0 +1,32 @@
+{
+  "slug": "hajnal-ajka",
+  "name": "Hajnal",
+  "city": "Ajka",
+  "country": "Hungary",
+  "placeId": "ChIJuRJN0WlzaUcRRIc5IifOtGg",
+  "googleName": "Hajnal-Édes Csoda-Kuckó",
+  "formattedAddress": "Ajka, Bólyai János u. 17, 8451 Hungary",
+  "phone": null,
+  "website": "https://www.facebook.com/Hajnal-%C3%89des-Csoda-Kuck%C3%B3-1283393985069675/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7544881943225665348",
+  "rating": 5,
+  "reviewCount": 31,
+  "coords": [
+    47.0608994,
+    17.5487161
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 1:00 – 4:00 PM",
+    "Saturday: 8:00 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hajnal-ajka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:32:33.272Z"
+}

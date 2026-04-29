@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-cravings-gibraltar",
+  "name": "Sweet Cravings",
+  "city": "Gibraltar",
+  "country": "Gibraltar",
+  "placeId": "ChIJC8O84-a_DA0RLd6SUYFtyNE",
+  "googleName": "Sweet Cravings",
+  "formattedAddress": "12 Castle St, Gibraltar GX11 1AA, Gibraltar",
+  "phone": null,
+  "website": "https://www.instagram.com/sweetcravings.gib",
+  "googleMapsUrl": "https://maps.google.com/?cid=15116452551455858221",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    36.1417313,
+    -5.3520034
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-cravings-gibraltar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:44.573Z"
+}

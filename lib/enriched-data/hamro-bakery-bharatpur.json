@@ -1,0 +1,32 @@
+{
+  "slug": "hamro-bakery-bharatpur",
+  "name": "Hamro Bakery",
+  "city": "Bharatpur",
+  "country": "Nepal",
+  "placeId": "ChIJL2yY6T77lDkR2jmj_Pm0v_E",
+  "googleName": "Hamro Bakery",
+  "formattedAddress": "बेल्चोक रोड, Bharatpur 44207, Nepal",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17419840869470779866",
+  "rating": 4.5,
+  "reviewCount": 66,
+  "coords": [
+    27.6915853,
+    84.4213127
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hamro-bakery-bharatpur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:33:26.894Z"
+}

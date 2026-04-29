@@ -1,0 +1,32 @@
+{
+  "slug": "viipurilainen-kotileipomo-asikkala",
+  "name": "Viipurilainen Kotileipomo",
+  "city": "Asikkala",
+  "country": "Finland",
+  "placeId": "ChIJ_____64pjkYRyM-6x973PnY",
+  "googleName": "Viipurilainen Kotileipomo",
+  "formattedAddress": "Pasolanharjuntie 1, 17200 Vääksy, Finland",
+  "phone": "046 9234551",
+  "website": "http://viipurilainen.fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8520520081237266376",
+  "rating": 4.6,
+  "reviewCount": 1328,
+  "coords": [
+    61.161898,
+    25.5790662
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/viipurilainen-kotileipomo-asikkala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:10:38.746Z"
+}

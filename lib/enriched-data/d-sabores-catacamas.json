@@ -1,0 +1,30 @@
+{
+  "slug": "d-sabores-catacamas",
+  "name": "D'Sabores",
+  "city": "Catacamas",
+  "country": "Honduras",
+  "placeId": "ChIJAfGWoyhzbI8RXQlSl9idxfU",
+  "googleName": "D'Sabores",
+  "formattedAddress": "V424+VC3, Catacamas, Olancho, Honduras",
+  "phone": "3143-0943",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17709734663281576285",
+  "rating": 3.5,
+  "reviewCount": 6,
+  "coords": [
+    14.8521465,
+    -85.893939
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 7:30 PM",
+    "Sunday: 7:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:27:13.710Z"
+}

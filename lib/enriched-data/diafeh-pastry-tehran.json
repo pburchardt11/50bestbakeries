@@ -1,0 +1,32 @@
+{
+  "slug": "diafeh-pastry-tehran",
+  "name": "Diafeh Pastry",
+  "city": "Tehran",
+  "country": "Iran",
+  "placeId": "ChIJdTsshOQCjj8RJXF41M3iqyI",
+  "googleName": "Yazdi Pastry",
+  "formattedAddress": "PFCP+67Q, Tehran, Tehran Province, Iran",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2498339791967908133",
+  "rating": 3.9,
+  "reviewCount": 32,
+  "coords": [
+    35.7205892,
+    51.4857351
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:30 PM",
+    "Tuesday: 9:00 AM – 10:30 PM",
+    "Wednesday: 9:00 AM – 10:30 PM",
+    "Thursday: 9:00 AM – 10:30 PM",
+    "Friday: 9:00 AM – 10:30 PM",
+    "Saturday: 9:00 AM – 10:30 PM",
+    "Sunday: 9:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/diafeh-pastry-tehran/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:36:25.492Z"
+}

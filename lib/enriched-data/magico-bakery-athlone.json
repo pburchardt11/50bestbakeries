@@ -1,0 +1,32 @@
+{
+  "slug": "magico-bakery-athlone",
+  "name": "Magico Bakery",
+  "city": "Athlone",
+  "country": "Ireland",
+  "placeId": "ChIJoUneZdCzXUgRBvcpis3IKeI",
+  "googleName": "Magico Bakery",
+  "formattedAddress": "Aherlow Court, Brideswell Street, Ankers Bower, Athlone, Co. Westmeath, N37 C7N8, Ireland",
+  "phone": "086 166 9279",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16296777511728707334",
+  "rating": 4.7,
+  "reviewCount": 195,
+  "coords": [
+    53.4208577,
+    -7.9253535
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magico-bakery-athlone/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:40:05.079Z"
+}

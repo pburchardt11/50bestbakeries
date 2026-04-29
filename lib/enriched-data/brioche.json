@@ -1,0 +1,24 @@
+{
+  "slug": "brioche",
+  "name": "Brioche",
+  "city": "Гагра",
+  "country": "Georgia",
+  "placeId": "ChIJ0ZuUD_aL9UARfxXHxBx4BZI",
+  "googleName": "Brioche",
+  "formattedAddress": "141 Ardzinba Ave, Gagra",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10521948169376830847",
+  "rating": 4.4,
+  "reviewCount": 27,
+  "coords": [
+    43.3016654,
+    40.2557885
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brioche/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:14:03.813Z"
+}

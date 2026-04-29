@@ -1,0 +1,32 @@
+{
+  "slug": "panilino-chisinau",
+  "name": "Panilino",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJV7mc9Ap9yUARp4lE-Cbj8LM",
+  "googleName": "Panilino",
+  "formattedAddress": "Strada Uzinelor 17/2, MD-2023, Chișinău, Moldova",
+  "phone": "0798 59 777",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12966113083713161639",
+  "rating": 4,
+  "reviewCount": 186,
+  "coords": [
+    47.01298860000001,
+    28.8781807
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panilino-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:48.764Z"
+}

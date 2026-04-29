@@ -1,0 +1,32 @@
+{
+  "slug": "latorta-bakeshop-cafe",
+  "name": "LaTorta Bakeshop&Cafe",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJceTBIhGHZ0ARtEZXCwXh714",
+  "googleName": "LAppetit Pastry Shop / ლაპეტიტი საკონდიტრო",
+  "formattedAddress": "67 Lermontov Str, Batumi, Georgia",
+  "phone": "595 48 05 05",
+  "website": "https://www.facebook.com/LAppetit-461399601093302/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6840933770780427956",
+  "rating": 4.4,
+  "reviewCount": 147,
+  "coords": [
+    41.6395765,
+    41.6281411
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/latorta-bakeshop-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:16.443Z"
+}

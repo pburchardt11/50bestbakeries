@@ -1,0 +1,32 @@
+{
+  "slug": "biossa-bunkyo",
+  "name": "biossa",
+  "city": "Bunkyō",
+  "country": "Japan",
+  "placeId": "ChIJTZl1dT-NGGARQ3H6vdrCyzA",
+  "googleName": "Biossa bakery & gluten free",
+  "formattedAddress": "2-chōme-10-19 Kasuga, Bunkyo City, Tokyo 112-0003, Japan",
+  "phone": "03-3830-0676",
+  "website": "http://biossajapan.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3516118178838769987",
+  "rating": 4.5,
+  "reviewCount": 160,
+  "coords": [
+    35.7128186,
+    139.7425324
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/biossa-bunkyo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:36.967Z"
+}

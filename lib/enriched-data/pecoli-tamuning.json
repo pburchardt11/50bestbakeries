@@ -1,0 +1,32 @@
+{
+  "slug": "pecoli-tamuning",
+  "name": "Pecoli",
+  "city": "Tamuning",
+  "country": "Guam",
+  "placeId": "ChIJt-SwdhWDH2cRFRe5VCqqaE4",
+  "googleName": "Pecoli",
+  "formattedAddress": "Pia Marine 112, 193 Tumon Lane, Upper Tumon, 96913, Guam",
+  "phone": "(671) 969-0635",
+  "website": "https://www.facebook.com/Pecoli-2046207748950853/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5649952831323051797",
+  "rating": 4.9,
+  "reviewCount": 24,
+  "coords": [
+    13.5108777,
+    144.812782
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pecoli-tamuning/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:22:52.125Z"
+}

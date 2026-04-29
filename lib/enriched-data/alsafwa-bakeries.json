@@ -1,0 +1,32 @@
+{
+  "slug": "alsafwa-bakeries",
+  "name": "Alsafwa Bakeries",
+  "city": "زليطن",
+  "country": "Libya",
+  "placeId": "ChIJWRQNfwCdphMRvjtfPfe5Xqw",
+  "googleName": "افران الصفوة للخبز والخبيز (فرع زليتن)",
+  "formattedAddress": "بالقرب من كافية كوستا، Zliten, Libya",
+  "phone": "091-4106644",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12420569293872118718",
+  "rating": 3.8,
+  "reviewCount": 25,
+  "coords": [
+    32.4637929,
+    14.5640074
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 8:00 – 11:30 AM, 3:00 – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alsafwa-bakeries/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:04:44.921Z"
+}

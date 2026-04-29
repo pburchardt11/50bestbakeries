@@ -1,0 +1,32 @@
+{
+  "slug": "cinnamon-bakery-more-chisinau",
+  "name": "Cinnamon Bakery&More",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJoygAZAB9yUARzZ1EIjZhAV0",
+  "googleName": "Cinnamon Bakery & More",
+  "formattedAddress": "Str. Ioana Radu 27/2, Chișinău, Moldova",
+  "phone": "0799 90 998",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6701744605635059149",
+  "rating": 4.7,
+  "reviewCount": 70,
+  "coords": [
+    47.0268591,
+    28.7984356
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnamon-bakery-more-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:22:39.929Z"
+}

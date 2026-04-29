@@ -1,0 +1,32 @@
+{
+  "slug": "pasteleria-adriana-cortes",
+  "name": "Pasteleria Adriana",
+  "city": "Cortés",
+  "country": "Honduras",
+  "placeId": "ChIJCSTRNgBPZo8Ru3mrJZIDvZ0",
+  "googleName": "Pastelería Adriana",
+  "formattedAddress": "15.6135446 87.9389829, Choloma, Cortés, Honduras",
+  "phone": "8952-4880",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11366244960785103291",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    15.6135314,
+    -87.938988
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-adriana-cortes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:27:54.747Z"
+}

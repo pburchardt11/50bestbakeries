@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-evropa-bar",
+  "name": "pekara Evropa",
+  "city": "Bar",
+  "country": "Montenegro",
+  "placeId": "ChIJ7U1Qk45zThMRs59e9ngfS84",
+  "googleName": "Pekara Evropa",
+  "formattedAddress": "E851, Jadranska Magistrale, Tomba, Montenegro",
+  "phone": "069 350 965",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14865009599456386995",
+  "rating": 4.4,
+  "reviewCount": 288,
+  "coords": [
+    42.0861051,
+    19.1240682
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-evropa-bar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:25:26.298Z"
+}

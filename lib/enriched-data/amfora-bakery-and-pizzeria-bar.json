@@ -1,0 +1,32 @@
+{
+  "slug": "amfora-bakery-and-pizzeria-bar",
+  "name": "Amfora Bakery and Pizzeria",
+  "city": "Bar",
+  "country": "Montenegro",
+  "placeId": "ChIJUavs_mh3ThMRqDZZAZSk9mY",
+  "googleName": "Amfora bakery/pizzeria",
+  "formattedAddress": "55 Cara Lazara, Sutomore 85355, Montenegro",
+  "phone": "067 174 431",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7419298391724209832",
+  "rating": 4.5,
+  "reviewCount": 128,
+  "coords": [
+    42.1415897,
+    19.0420991
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amfora-bakery-and-pizzeria-bar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:25:38.240Z"
+}

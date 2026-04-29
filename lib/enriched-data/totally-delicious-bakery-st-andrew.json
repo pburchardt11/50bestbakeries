@@ -1,0 +1,32 @@
+{
+  "slug": "totally-delicious-bakery-st-andrew",
+  "name": "Totally Delicious Bakery",
+  "city": "St Andrew",
+  "country": "Jamaica",
+  "placeId": "ChIJ78GPCac_244R3ieOuABShIk",
+  "googleName": "Totally Delicious Bakery",
+  "formattedAddress": "21 Mannings Hill Rd, Kingston, Jamaica",
+  "phone": "(876) 460-4660",
+  "website": "https://instagram.com/totallydeliciousja?igshid=10m2aaxoa31fm",
+  "googleMapsUrl": "https://maps.google.com/?cid=9909135243171735518",
+  "rating": 4.4,
+  "reviewCount": 144,
+  "coords": [
+    18.0405296,
+    -76.7986993
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/totally-delicious-bakery-st-andrew/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:46:46.324Z"
+}

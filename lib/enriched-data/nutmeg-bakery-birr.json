@@ -1,0 +1,24 @@
+{
+  "slug": "nutmeg-bakery-birr",
+  "name": "Nutmeg Bakery Birr",
+  "city": "Birr",
+  "country": "Ireland",
+  "placeId": "ChIJKTncQ4b3XEgR8U6RUip32xc",
+  "googleName": "Nutmeg",
+  "formattedAddress": "43-21 Main St, Townparks, Birr, Co. Offaly, R42 F897, Ireland",
+  "phone": "(057) 912 2619",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1719098706429562609",
+  "rating": 4.7,
+  "reviewCount": 45,
+  "coords": [
+    53.0937535,
+    -7.9125887
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nutmeg-bakery-birr/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:13.725Z"
+}

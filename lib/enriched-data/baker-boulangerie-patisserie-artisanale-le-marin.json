@@ -1,0 +1,32 @@
+{
+  "slug": "baker-boulangerie-patisserie-artisanale-le-marin",
+  "name": "Baker Boulangerie Patisserie Artisanale",
+  "city": "Le Marin",
+  "country": "Martinique",
+  "placeId": "ChIJC_sxWQAhQIwRO_IoJp2sdGg",
+  "googleName": "Baker Boulangerie Patisserie Artisanale",
+  "formattedAddress": "20 Rue Emile Zola, Le Marin 97290, Martinique",
+  "phone": "0596 74 90 84",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7526830668193002043",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    14.4701119,
+    -60.87055410000001
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:00 PM",
+    "Tuesday: 5:30 AM – 6:00 PM",
+    "Wednesday: 5:30 AM – 6:00 PM",
+    "Thursday: 5:30 AM – 6:00 PM",
+    "Friday: 5:30 AM – 6:00 PM",
+    "Saturday: 5:30 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-boulangerie-patisserie-artisanale-le-marin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:18:03.547Z"
+}

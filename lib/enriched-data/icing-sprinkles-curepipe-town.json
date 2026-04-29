@@ -1,0 +1,32 @@
+{
+  "slug": "icing-sprinkles-curepipe-town",
+  "name": "Icing & Sprinkles",
+  "city": "Curepipe Town",
+  "country": "Mauritius",
+  "placeId": "ChIJFSd6wSJlfCERp5uevqT2LX0",
+  "googleName": "Sprinkles",
+  "formattedAddress": "293, Gris Gris Jean Pierre des Verney, Souillac, Mauritius",
+  "phone": "5919 1322",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9020136816126106535",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -20.5214854,
+    57.52937319999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/icing-sprinkles-curepipe-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:22.270Z"
+}

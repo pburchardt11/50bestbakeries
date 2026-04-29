@@ -1,0 +1,32 @@
+{
+  "slug": "joy-of-food-st-andrew",
+  "name": "Joy of Food",
+  "city": "St Andrew",
+  "country": "Jamaica",
+  "placeId": "ChIJtWZLPg4_244RAuRiltqDxPA",
+  "googleName": "Ms joy foods",
+  "formattedAddress": "Shop 7, 38 Slipe Rd, Kingston, Jamaica",
+  "phone": "(876) 671-0013",
+  "website": "https://www.msjoyfoods.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17349136639387165698",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    17.9893083,
+    -76.7891999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:30 PM",
+    "Tuesday: 9:00 AM – 4:30 PM",
+    "Wednesday: 9:00 AM – 4:30 PM",
+    "Thursday: 9:00 AM – 4:30 PM",
+    "Friday: 9:00 AM – 4:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/joy-of-food-st-andrew/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:46:49.113Z"
+}

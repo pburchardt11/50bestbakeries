@@ -1,0 +1,32 @@
+{
+  "slug": "la-patisserie-limited-gibraltar",
+  "name": "La Patisserie Limited",
+  "city": "Gibraltar",
+  "country": "Gibraltar",
+  "placeId": "ChIJaU-CYM3BDA0R2LBGf7wIoGU",
+  "googleName": "La Patisserie Limited",
+  "formattedAddress": "Bakery:16 Halifax Road, Devils Tower Road, Shop: 104, Cafeteria: Madison Building Mid Town, 106 Irish Town, Gibraltar GX11 1AA, Gibraltar",
+  "phone": "200 74777",
+  "website": "http://www.lapatisserie.gi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7322862599786639576",
+  "rating": 3.8,
+  "reviewCount": 13,
+  "coords": [
+    36.1471301,
+    -5.342453
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-patisserie-limited-gibraltar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:51.460Z"
+}

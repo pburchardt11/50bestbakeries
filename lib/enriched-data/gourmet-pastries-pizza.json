@@ -1,0 +1,32 @@
+{
+  "slug": "gourmet-pastries-pizza",
+  "name": "Gourmet Pastries & Pizza",
+  "city": "اربد",
+  "country": "Jordan",
+  "placeId": "ChIJBZiZpGR3HBURXk2mMr1GqXU",
+  "googleName": "The baker jo",
+  "formattedAddress": "Omar Ibn Al-Khattab Mosque Street, Irbid 21110, Jordan",
+  "phone": "07 9602 1200",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8478385551914192222",
+  "rating": 4.8,
+  "reviewCount": 77,
+  "coords": [
+    32.5196497,
+    35.8649067
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 AM",
+    "Tuesday: 7:00 AM – 1:00 AM",
+    "Wednesday: 7:00 AM – 1:00 AM",
+    "Thursday: 7:00 AM – 1:00 AM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 7:00 AM – 1:00 AM",
+    "Sunday: 7:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gourmet-pastries-pizza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:09.215Z"
+}

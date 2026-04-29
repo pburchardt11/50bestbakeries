@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-d-auteuil-dumbea",
+  "name": "Boulangerie d'Auteuil",
+  "city": "Dumbéa",
+  "country": "New Caledonia",
+  "placeId": "ChIJFcjwmr8HKGwRkqz4RtQVLEU",
+  "googleName": "Boulangerie d'Auteuil",
+  "formattedAddress": "22 Rue Jacques Iékawé, Auteuil, New Caledonia",
+  "phone": "41.66.33",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4984382889060248722",
+  "rating": 4.3,
+  "reviewCount": 15,
+  "coords": [
+    -22.2167082,
+    166.4815559
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:00 PM",
+    "Tuesday: 5:00 AM – 7:00 PM",
+    "Wednesday: 5:00 AM – 7:00 PM",
+    "Thursday: 5:00 AM – 7:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 5:00 AM – 7:00 PM",
+    "Sunday: 5:30 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-d-auteuil-dumbea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:39.877Z"
+}

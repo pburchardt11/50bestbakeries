@@ -1,0 +1,32 @@
+{
+  "slug": "la-bouyantez-bouillante",
+  "name": "La bouyantez",
+  "city": "Bouillante",
+  "country": "Guadeloupe",
+  "placeId": "ChIJB8oaJgVnE4wRyqr5IUZFMIA",
+  "googleName": "La bouyantez",
+  "formattedAddress": "malendure, 97125 Rue des galet, Bouillante 97125, Guadeloupe",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9236959003256924874",
+  "rating": 4.8,
+  "reviewCount": 72,
+  "coords": [
+    16.1673248,
+    -61.7759869
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 3:00 PM",
+    "Tuesday: 6:00 AM – 3:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 6:00 AM – 3:00 PM",
+    "Friday: 6:00 AM – 3:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-bouyantez-bouillante/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:21:13.967Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-cake-bake-bhaktapur",
+  "name": "Sweet Cake Bake",
+  "city": "Bhaktapur",
+  "country": "Nepal",
+  "placeId": "ChIJB9MNrZsa6zkRKZyLeUTo9T4",
+  "googleName": "Sweet Cake Bake",
+  "formattedAddress": "Katunje, Road, Suryabinayak 44800, Nepal",
+  "phone": "984-0055194",
+  "website": "http://www.sweetcakebake.com.np/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4536787580440255529",
+  "rating": 4.2,
+  "reviewCount": 106,
+  "coords": [
+    27.6702332,
+    85.4097139
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-cake-bake-bhaktapur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:32:57.418Z"
+}

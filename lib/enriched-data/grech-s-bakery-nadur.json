@@ -1,0 +1,32 @@
+{
+  "slug": "grech-s-bakery-nadur",
+  "name": "Grech's Bakery",
+  "city": "Nadur",
+  "country": "Malta",
+  "placeId": "ChIJb1NI-zJLDhMRZlIWbvAggAM",
+  "googleName": "Grech's bakery",
+  "formattedAddress": "Our Lady of Lourdes Street, Nadur, Malta",
+  "phone": "2155 1123",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=252237796143944294",
+  "rating": 4.9,
+  "reviewCount": 153,
+  "coords": [
+    36.0372678,
+    14.2888332
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 PM",
+    "Tuesday: 6:00 AM – 2:00 PM",
+    "Wednesday: 6:00 AM – 2:00 PM",
+    "Thursday: 6:00 AM – 2:00 PM",
+    "Friday: 6:00 AM – 2:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grech-s-bakery-nadur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:51.211Z"
+}

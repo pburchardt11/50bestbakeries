@@ -1,0 +1,32 @@
+{
+  "slug": "anfora-antigua-guatemala",
+  "name": "Anfora",
+  "city": "Antigua Guatemala",
+  "country": "Guatemala",
+  "placeId": "ChIJU5OipeoPiYURBT01GvJQEbQ",
+  "googleName": "Anfora",
+  "formattedAddress": "Poniente 24, Antigua Guatemala, Guatemala",
+  "phone": "2499 0000",
+  "website": "https://anfora.com.gt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12975241002183113989",
+  "rating": 4.4,
+  "reviewCount": 56,
+  "coords": [
+    14.5573461,
+    -90.7351308
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/anfora-antigua-guatemala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:23:33.819Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "le-pain-des-copains-redoute-fort-de-france",
+  "name": "Le Pain des Copains Redoute",
+  "city": "Fort-de-France",
+  "country": "Martinique",
+  "placeId": "ChIJ9Zcg8oynaowRoATk5_r1CPI",
+  "googleName": "Le Pain des Copains Redoute",
+  "formattedAddress": "217 Rte de Redoute, Fort-de-France 97200, Martinique",
+  "phone": "0596 56 01 42",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17440460014973355168",
+  "rating": 4.3,
+  "reviewCount": 65,
+  "coords": [
+    14.6301113,
+    -61.05531729999999
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: 5:30 AM – 7:00 PM",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: 5:30 AM – 7:00 PM",
+    "Saturday: 5:30 AM – 2:00 PM",
+    "Sunday: 5:30 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-pain-des-copains-redoute-fort-de-france/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:51.486Z"
+}

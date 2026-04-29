@@ -1,0 +1,32 @@
+{
+  "slug": "ducis-grobina",
+  "name": "Ducis",
+  "city": "Grobiņa",
+  "country": "Latvia",
+  "placeId": "ChIJ0fNYksCp-kYRBpu4CjcSepE",
+  "googleName": "Ducis, LTD",
+  "formattedAddress": "Lielā iela 70, Grobiņa, Grobiņa pilsēta, Dienvidkurzemes novads, LV-3430, Latvia",
+  "phone": "63 490 428",
+  "website": "https://liepaja.pilseta24.lv/katalogs/info/ducis-7-sia-veikals-konditoreja",
+  "googleMapsUrl": "https://maps.google.com/?cid=10482711110270622470",
+  "rating": 4.5,
+  "reviewCount": 128,
+  "coords": [
+    56.5351862,
+    21.1672111
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ducis-grobina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:27.400Z"
+}

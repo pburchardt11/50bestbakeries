@@ -1,0 +1,32 @@
+{
+  "slug": "fancy-patisserie-port-au-prince",
+  "name": "Fancy Pâtisserie",
+  "city": "Port-au-Prince",
+  "country": "Haiti",
+  "placeId": "ChIJlzszWNTnuY4RkPAKv3e_YkU",
+  "googleName": "Fancy Pâtisserie",
+  "formattedAddress": "401 Delmas 89, Port-au-Prince, Haiti",
+  "phone": "36 94 5137",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4999769057361850512",
+  "rating": 3.5,
+  "reviewCount": 50,
+  "coords": [
+    18.526308,
+    -72.2863161
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:30 PM",
+    "Tuesday: 7:30 AM – 5:30 PM",
+    "Wednesday: 7:30 AM – 5:30 PM",
+    "Thursday: 7:30 AM – 5:30 PM",
+    "Friday: 7:30 AM – 5:30 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fancy-patisserie-port-au-prince/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:26:31.874Z"
+}

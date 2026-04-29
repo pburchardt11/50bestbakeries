@@ -1,0 +1,32 @@
+{
+  "slug": "carpe-diem",
+  "name": "Carpe diem",
+  "city": "أربيل",
+  "country": "Iraq",
+  "placeId": "ChIJ6VmfPR8ZB0ARWy4D8WiiJOY",
+  "googleName": "Carpe diem",
+  "formattedAddress": "Unnamed Road, 6X5F+894, Erbil, Erbil Governorate, Iraq",
+  "phone": "0750 333 8877",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16583558299488824923",
+  "rating": 4.3,
+  "reviewCount": 4,
+  "coords": [
+    36.2082628,
+    43.9734633
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/carpe-diem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:38:08.678Z"
+}

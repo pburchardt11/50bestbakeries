@@ -1,0 +1,32 @@
+{
+  "slug": "petrovskaya-bakery-narva",
+  "name": "Petrovskaya Bakery",
+  "city": "Narva",
+  "country": "Estonia",
+  "placeId": "ChIJF4M_hB1JlEYRJcVgW2Lm8t0",
+  "googleName": "Petrovskaya Bakery",
+  "formattedAddress": "A. Puškini tn 10, 20308 Narva, Estonia",
+  "phone": "5373 3334",
+  "website": "https://www.facebook.com/Petrovskayabakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=15993098536860304677",
+  "rating": 4.5,
+  "reviewCount": 13,
+  "coords": [
+    59.3739195,
+    28.1958379
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/petrovskaya-bakery-narva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:33.644Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "le-palet-d-or-libreville",
+  "name": "Le Palet D'Or",
+  "city": "Libreville",
+  "country": "Gabon",
+  "placeId": "ChIJCZMpXZk7fxARKU9XaxW2aUw",
+  "googleName": "Le Palais Gourmet",
+  "formattedAddress": "CC2Q+GHC, Libreville, Gabon",
+  "phone": "066 24 83 41",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5506132222548594473",
+  "rating": 4.3,
+  "reviewCount": 128,
+  "coords": [
+    0.4013017,
+    9.438900499999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-palet-d-or-libreville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:27.492Z"
+}

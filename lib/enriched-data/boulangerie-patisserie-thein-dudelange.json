@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-thein-dudelange",
+  "name": "Boulangerie Patisserie Thein",
+  "city": "Dudelange",
+  "country": "Luxembourg",
+  "placeId": "ChIJXfGDsOQ2lUcRUQnMi-b2lts",
+  "googleName": "Boulangerie-Pâtisserie Thein",
+  "formattedAddress": "86 Av. Grande-Duchesse Charlotte, 3440 Dudelange, Luxembourg",
+  "phone": "51 11 38",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15823105810861132113",
+  "rating": 4.3,
+  "reviewCount": 93,
+  "coords": [
+    49.4799242,
+    6.0852023
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 5:30 PM",
+    "Tuesday: 6:30 AM – 5:30 PM",
+    "Wednesday: 6:30 AM – 5:30 PM",
+    "Thursday: 6:30 AM – 5:30 PM",
+    "Friday: 6:30 AM – 5:30 PM",
+    "Saturday: 6:30 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-thein-dudelange/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:10.265Z"
+}

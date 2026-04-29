@@ -1,0 +1,32 @@
+{
+  "slug": "shugar-spot-chiba",
+  "name": "shugar spot.",
+  "city": "Chiba",
+  "country": "Japan",
+  "placeId": "ChIJx8mCtu2DImARd2TCenxefcA",
+  "googleName": "sugar spot.",
+  "formattedAddress": "122-2 Sonnōchō, Inage Ward, Chiba, 263-0051, Japan",
+  "phone": "043-386-3648",
+  "website": "https://sugar-spot.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13870346316099511415",
+  "rating": 4.3,
+  "reviewCount": 88,
+  "coords": [
+    35.6495994,
+    140.1004695
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shugar-spot-chiba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:46.166Z"
+}

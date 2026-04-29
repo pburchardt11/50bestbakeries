@@ -1,0 +1,32 @@
+{
+  "slug": "b-madame-athens-center",
+  "name": "B Madame",
+  "city": "Athens Center",
+  "country": "Greece",
+  "placeId": "ChIJf0EonAijoRQRAsbKV69kCVk",
+  "googleName": "Oui Madame Athens",
+  "formattedAddress": "Kodrigktonos 18, Athina 112 57, Greece",
+  "phone": "21 1013 0609",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6415769848420943362",
+  "rating": 4.4,
+  "reviewCount": 209,
+  "coords": [
+    37.99564609999999,
+    23.7326157
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/b-madame-athens-center/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:18:59.049Z"
+}

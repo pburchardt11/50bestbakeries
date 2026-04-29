@@ -1,0 +1,32 @@
+{
+  "slug": "neon-bakery-hithadhoo",
+  "name": "Neon Bakery",
+  "city": "Hithadhoo",
+  "country": "Maldives",
+  "placeId": "ChIJ295d7tyftSQRBwiAREPrDCY",
+  "googleName": "Neon Bakery",
+  "formattedAddress": "93WR+64G, Addu City, Maldives",
+  "phone": "997-6868",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2741824947306366983",
+  "rating": 3.7,
+  "reviewCount": 20,
+  "coords": [
+    -0.6044326,
+    73.09032069999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/neon-bakery-hithadhoo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:12:50.381Z"
+}

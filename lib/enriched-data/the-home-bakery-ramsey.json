@@ -1,0 +1,32 @@
+{
+  "slug": "the-home-bakery-ramsey",
+  "name": "The Home Bakery",
+  "city": "Ramsey",
+  "country": "Isle of Man",
+  "placeId": "ChIJ_-ZtgQifY0gRkA17NgrBnYk",
+  "googleName": "Home Bakery",
+  "formattedAddress": "54 Parliament St, Ramsey, Isle of Man IM8 1AN, Isle of Man",
+  "phone": "01624 816222",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9916294204147568016",
+  "rating": 4.1,
+  "reviewCount": 8,
+  "coords": [
+    54.3222302,
+    -4.383647799999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 3:00 PM",
+    "Tuesday: 9:00 AM – 3:00 PM",
+    "Wednesday: 9:00 AM – 3:00 PM",
+    "Thursday: 9:00 AM – 3:00 PM",
+    "Friday: 9:00 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-home-bakery-ramsey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:48.770Z"
+}

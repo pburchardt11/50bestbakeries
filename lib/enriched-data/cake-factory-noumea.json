@@ -1,0 +1,30 @@
+{
+  "slug": "cake-factory-noumea",
+  "name": "Cake factory",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJdRSTeEz9J2wRxBW6ReWjT0w",
+  "googleName": "Cake factory",
+  "formattedAddress": "QC8Q+99P, Rue Patrice Nielly, Nouméa 98800, New Caledonia",
+  "phone": "25.97.46",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5498793875155326404",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -22.2340384,
+    166.438465
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 2:00 PM",
+    "Tuesday: 7:30 AM – 2:00 PM",
+    "Wednesday: 7:30 AM – 2:00 PM",
+    "Thursday: 7:30 AM – 2:00 PM",
+    "Friday: 7:30 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:35:54.884Z"
+}

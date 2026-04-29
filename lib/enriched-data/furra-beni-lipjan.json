@@ -1,0 +1,32 @@
+{
+  "slug": "furra-beni-lipjan",
+  "name": "Furra beni",
+  "city": "Lipjan",
+  "country": "Kosovo",
+  "placeId": "ChIJP6GRpueDVBMRgzsHnv0ZJ4c",
+  "googleName": "Furra beni",
+  "formattedAddress": "Rruga haradin bajrami, Lipjan 14000",
+  "phone": "044 294 493",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9738781296280681347",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    42.5172006,
+    21.1189153
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 11:00 PM",
+    "Tuesday: 6:30 AM – 11:00 PM",
+    "Wednesday: 6:30 AM – 11:00 PM",
+    "Thursday: 6:30 AM – 11:00 PM",
+    "Friday: 6:30 AM – 11:30 PM",
+    "Saturday: 6:30 AM – 11:00 PM",
+    "Sunday: 6:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/furra-beni-lipjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:56:10.389Z"
+}

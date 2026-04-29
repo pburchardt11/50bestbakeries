@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-camoin-curepipe-town",
+  "name": "Patisserie Camoin",
+  "city": "Curepipe Town",
+  "country": "Mauritius",
+  "placeId": "ChIJW57fg05cfCERJesyHI9wSV4",
+  "googleName": "pâtisserie camoin",
+  "formattedAddress": "MGCF+C2G, Curepipe, Mauritius",
+  "phone": "5714 3544",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6794085272820837157",
+  "rating": 4,
+  "reviewCount": 28,
+  "coords": [
+    -20.3289356,
+    57.5225854
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 9:30 PM",
+    "Tuesday: 5:00 AM – 9:30 PM",
+    "Wednesday: 5:00 AM – 9:30 PM",
+    "Thursday: 5:00 AM – 9:30 PM",
+    "Friday: 5:00 AM – 9:30 PM",
+    "Saturday: 5:00 AM – 9:30 PM",
+    "Sunday: 5:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-camoin-curepipe-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:06.913Z"
+}

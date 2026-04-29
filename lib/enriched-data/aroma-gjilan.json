@@ -1,0 +1,32 @@
+{
+  "slug": "aroma-gjilan",
+  "name": "Aroma",
+  "city": "Gjilan",
+  "country": "Kosovo",
+  "placeId": "ChIJ9z923SSNVBMRYCQzi6y5ERw",
+  "googleName": "Aroma",
+  "formattedAddress": "FF85+8WQ, Rruga Beqir Musliu, Gjilan 60000",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2022601858386961504",
+  "rating": 4.5,
+  "reviewCount": 48,
+  "coords": [
+    42.4658428,
+    21.4598676
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:30 PM",
+    "Tuesday: 6:30 AM – 11:00 PM",
+    "Wednesday: 6:30 AM – 11:00 PM",
+    "Thursday: 6:30 AM – 11:00 PM",
+    "Friday: 6:30 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:30 PM",
+    "Sunday: 7:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aroma-gjilan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:55:12.328Z"
+}

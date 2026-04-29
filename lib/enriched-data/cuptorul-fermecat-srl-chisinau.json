@@ -1,0 +1,32 @@
+{
+  "slug": "cuptorul-fermecat-srl-chisinau",
+  "name": "Cuptorul Fermecat SRL",
+  "city": "Chisinau",
+  "country": "Moldova",
+  "placeId": "ChIJpcxZ3kp8yUARLGUiOesq9C8",
+  "googleName": "Cuptorul Fermecat",
+  "formattedAddress": "Strada Anton Pann 4, MD-2005, Chișinău, Moldova",
+  "phone": "022 234 511",
+  "website": "https://www.cuptorul-fermecat.md/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3455434003864249644",
+  "rating": 3.9,
+  "reviewCount": 49,
+  "coords": [
+    47.0311059,
+    28.8360214
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cuptorul-fermecat-srl-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:05.183Z"
+}

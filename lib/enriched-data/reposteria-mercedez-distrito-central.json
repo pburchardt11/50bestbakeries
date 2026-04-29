@@ -1,0 +1,32 @@
+{
+  "slug": "reposteria-mercedez-distrito-central",
+  "name": "Repostería Mercedez",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJv9ii8C-9b48R3v5kUuWAmV8",
+  "googleName": "Repostería Mercedez",
+  "formattedAddress": "3RF5+3CJ, Tegucigalpa, Francisco Morazán, Honduras",
+  "phone": "9952-3696",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6888678827458100958",
+  "rating": 4.7,
+  "reviewCount": 22,
+  "coords": [
+    14.0727203,
+    -87.1914764
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/reposteria-mercedez-distrito-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:08.925Z"
+}

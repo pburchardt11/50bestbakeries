@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-warya-suva",
+  "name": "Sweet Warya",
+  "city": "Suva",
+  "country": "Fiji",
+  "placeId": "ChIJJS1mbtzdG24RuA2NvBg3Yi4",
+  "googleName": "Sweet endings fiji",
+  "formattedAddress": "Carnarvon St, Suva, Fiji",
+  "phone": "809 5227",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3342294452844432824",
+  "rating": 4.4,
+  "reviewCount": 20,
+  "coords": [
+    -18.1440779,
+    178.4239768
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 5:30 PM",
+    "Tuesday: 6:30 AM – 5:30 PM",
+    "Wednesday: 6:30 AM – 5:30 PM",
+    "Thursday: 6:30 AM – 5:30 PM",
+    "Friday: 6:30 AM – 5:30 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-warya-suva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:09:58.495Z"
+}

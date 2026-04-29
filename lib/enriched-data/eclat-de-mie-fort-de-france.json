@@ -1,0 +1,32 @@
+{
+  "slug": "eclat-de-mie-fort-de-france",
+  "name": "Eclat De Mie",
+  "city": "Fort-de-France",
+  "country": "Martinique",
+  "placeId": "ChIJgzSNd9SgaowRI5PzPy0IAHI",
+  "googleName": "Eclat De Mie",
+  "formattedAddress": "HXX4+8JF, Fort-de-France 97200, Martinique",
+  "phone": "0596 75 16 17",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8214574710763262755",
+  "rating": 3.3,
+  "reviewCount": 58,
+  "coords": [
+    14.5983069,
+    -61.0434582
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eclat-de-mie-fort-de-france/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:17:34.735Z"
+}

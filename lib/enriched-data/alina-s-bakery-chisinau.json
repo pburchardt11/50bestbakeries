@@ -1,0 +1,32 @@
+{
+  "slug": "alina-s-bakery-chisinau",
+  "name": "Alina's bakery",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJaYs1BJhiyUARqOp5OsQl-sE",
+  "googleName": "Mega Alina Discounter",
+  "formattedAddress": "Stăuceni, Moldova",
+  "phone": null,
+  "website": "http://megaalina.md/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13977525918222641832",
+  "rating": 4.5,
+  "reviewCount": 714,
+  "coords": [
+    47.1062257,
+    28.86367499999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alina-s-bakery-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:55.327Z"
+}

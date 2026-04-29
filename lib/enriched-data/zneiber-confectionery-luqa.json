@@ -1,0 +1,32 @@
+{
+  "slug": "zneiber-confectionery-luqa",
+  "name": "Zneiber Confectionery",
+  "city": "Luqa",
+  "country": "Malta",
+  "placeId": "ChIJiRGaRWdFDhMRS-bM9IBFvJQ",
+  "googleName": "Deguara Confectionery",
+  "formattedAddress": "Triq Il-Qasam, Is-Swieqi SWQ 3024, Malta",
+  "phone": "2137 1264",
+  "website": "http://www.deguaraconfectionery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10717517633400137291",
+  "rating": 4.6,
+  "reviewCount": 189,
+  "coords": [
+    35.9215427,
+    14.4788101
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:30 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: 7:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zneiber-confectionery-luqa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:23.991Z"
+}

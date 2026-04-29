@@ -1,0 +1,24 @@
+{
+  "slug": "square-coffee-macau",
+  "name": "Square Coffee",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJFVg8BZh7ATQRpQ0khXM3nIw",
+  "googleName": "Square Coffee",
+  "formattedAddress": "Macao羅老利馬路3-IA號建安大廈地下C",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10132034230971272613",
+  "rating": 4.2,
+  "reviewCount": 5,
+  "coords": [
+    22.2005873,
+    113.5467394
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/square-coffee-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:10:31.065Z"
+}

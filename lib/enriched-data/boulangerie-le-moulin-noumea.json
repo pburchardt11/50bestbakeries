@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-le-moulin-noumea",
+  "name": "Boulangerie Le Moulin",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJ1_yoj1L9J2wRQVbwlM4kuG0",
+  "googleName": "Boulangerie Le Moulin",
+  "formattedAddress": "QC7W+R7F, Nouméa 98800, New Caledonia",
+  "phone": "29.89.29",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7906109615529547329",
+  "rating": 4.1,
+  "reviewCount": 34,
+  "coords": [
+    -22.2354309,
+    166.445674
+  ],
+  "openingHours": [
+    "Monday: 4:30 AM – 6:30 PM",
+    "Tuesday: 4:30 AM – 8:00 PM",
+    "Wednesday: 4:30 AM – 8:00 PM",
+    "Thursday: 4:30 AM – 8:00 PM",
+    "Friday: 4:30 AM – 8:00 PM",
+    "Saturday: 5:00 AM – 3:00 PM",
+    "Sunday: 6:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-le-moulin-noumea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:54.276Z"
+}

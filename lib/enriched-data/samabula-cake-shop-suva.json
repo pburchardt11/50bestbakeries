@@ -1,0 +1,32 @@
+{
+  "slug": "samabula-cake-shop-suva",
+  "name": "Samabula Cake Shop",
+  "city": "Suva",
+  "country": "Fiji",
+  "placeId": "ChIJ6-hehjrfG24RLOxTouK_dmc",
+  "googleName": "Samabula Cake Shop",
+  "formattedAddress": "Belo street ,Samabula, 9888613, Suva, Fiji",
+  "phone": "988 8613",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7455357213265357868",
+  "rating": 3,
+  "reviewCount": 3,
+  "coords": [
+    -18.1258128,
+    178.4464769
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:00 PM",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/samabula-cake-shop-suva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:10:11.348Z"
+}

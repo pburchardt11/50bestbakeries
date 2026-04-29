@@ -1,0 +1,32 @@
+{
+  "slug": "jardin-del-pan-antiguo-cuscatlan",
+  "name": "Jardin Del Pan",
+  "city": "Antiguo Cuscatlán",
+  "country": "El Salvador",
+  "placeId": "ChIJoyG6Z9IxY48R6eAzgiOuSNA",
+  "googleName": "Jardin Del Pan",
+  "formattedAddress": "MQH6+5P6, Calle Del Adriatico, San Salvador, El Salvador",
+  "phone": "2243 1298",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15008437225743704297",
+  "rating": 4.3,
+  "reviewCount": 68,
+  "coords": [
+    13.6779051,
+    -89.2382475
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jardin-del-pan-antiguo-cuscatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:03:46.649Z"
+}

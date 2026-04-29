@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-pasteleria-la-moderna-chiquimula",
+  "name": "Panaderia y pasteleria la moderna chiquimula",
+  "city": "Chiquimula",
+  "country": "Guatemala",
+  "placeId": "ChIJF-2kFEoxYo8R7GIr5pf_i7Q",
+  "googleName": "Panaderia la Moderna",
+  "formattedAddress": "8 avenida 5-65, Chiquimula, Guatemala",
+  "phone": "7942 0935",
+  "website": "https://www.bakerias.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13009772976456557292",
+  "rating": 4.7,
+  "reviewCount": 9,
+  "coords": [
+    14.7971749,
+    -89.5447356
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:30 PM",
+    "Tuesday: 5:30 AM – 7:30 PM",
+    "Wednesday: 5:30 AM – 7:30 PM",
+    "Thursday: 5:30 AM – 7:30 PM",
+    "Friday: 5:30 AM – 7:30 PM",
+    "Saturday: 5:30 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-pasteleria-la-moderna-chiquimula/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:24:47.429Z"
+}

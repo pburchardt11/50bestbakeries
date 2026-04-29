@@ -1,0 +1,32 @@
+{
+  "slug": "home-sweet-treat-auckland",
+  "name": "home sweet treat",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJIeL8-6RJDW0RwBW5ZVLyRbk",
+  "googleName": "Sweet Treats",
+  "formattedAddress": "272 Broadway, Newmarket, Auckland 1023, New Zealand",
+  "phone": "09 971 1786",
+  "website": "https://www.ordermeal.co.nz/sweet-treats/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13350343106117572032",
+  "rating": 4.6,
+  "reviewCount": 30,
+  "coords": [
+    -36.8702022,
+    174.7776215
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 12:00 – 9:00 PM",
+    "Wednesday: 12:00 – 11:00 PM",
+    "Thursday: 12:00 – 11:00 PM",
+    "Friday: 12:00 – 11:00 PM",
+    "Saturday: 12:00 – 11:00 PM",
+    "Sunday: 12:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/home-sweet-treat-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:09.808Z"
+}

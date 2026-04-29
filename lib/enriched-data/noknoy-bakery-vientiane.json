@@ -1,0 +1,32 @@
+{
+  "slug": "noknoy-bakery-vientiane",
+  "name": "Noknoy Bakery",
+  "city": "Vientiane",
+  "country": "Laos",
+  "placeId": "ChIJncNzlGFnJDERMFBwkvEYz9E",
+  "googleName": "Osemann German Bakery & Restaurant",
+  "formattedAddress": "Unnamed Road, Vientiane, Laos",
+  "phone": "020 56 100 015",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15118329899929063472",
+  "rating": 4.8,
+  "reviewCount": 133,
+  "coords": [
+    17.9375115,
+    102.6236445
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/noknoy-bakery-vientiane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:00:38.450Z"
+}

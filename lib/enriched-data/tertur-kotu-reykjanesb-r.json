@@ -1,0 +1,32 @@
+{
+  "slug": "tertur-kotu-reykjanesb-r",
+  "name": "Tertur Kötu",
+  "city": "Reykjanesbær",
+  "country": "Iceland",
+  "placeId": "ChIJW_-UHBUC1kgRK22dByL8FRE",
+  "googleName": "Kökulist bakery",
+  "formattedAddress": "Reykjanesbær, Hólagata 17, 260 Njarðvík, Iceland",
+  "phone": "555 6655",
+  "website": "http://kokulist.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1231167296242543915",
+  "rating": 4.6,
+  "reviewCount": 1033,
+  "coords": [
+    63.9876025,
+    -22.5496916
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tertur-kotu-reykjanesb-r/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:38.971Z"
+}

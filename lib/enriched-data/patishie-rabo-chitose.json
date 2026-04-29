@@ -1,0 +1,32 @@
+{
+  "slug": "patishie-rabo-chitose",
+  "name": "Patishie Rabo",
+  "city": "Chitose",
+  "country": "Japan",
+  "placeId": "ChIJo-nNnp07dV8Rwkqa7SuUpkE",
+  "googleName": "スイーツショップ パティシエ・ラボ",
+  "formattedAddress": "17 Shikotsukoonsen, Chitose, Hokkaido 066-0281, Japan",
+  "phone": "0123-25-2211",
+  "website": "https://www.mizunouta.com/facilities/lab/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4730631374990101186",
+  "rating": 4.5,
+  "reviewCount": 117,
+  "coords": [
+    42.7737436,
+    141.4038204
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patishie-rabo-chitose/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:48.972Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "hagabakari-reykjavikurborg",
+  "name": "Hagabakarí",
+  "city": "Reykjavíkurborg",
+  "country": "Iceland",
+  "placeId": "ChIJvbc3niUL1kgR_-Q7PCmmuTQ",
+  "googleName": "Hagabakarí",
+  "formattedAddress": "Hraunberg 4, 111 Reykjavík, Iceland",
+  "phone": "557 7272",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3799250456698152191",
+  "rating": 4.9,
+  "reviewCount": 8,
+  "coords": [
+    64.1051541,
+    -21.8154909
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hagabakari-reykjavikurborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:45.037Z"
+}

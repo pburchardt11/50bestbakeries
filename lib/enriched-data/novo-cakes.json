@@ -1,0 +1,32 @@
+{
+  "slug": "novo-cakes",
+  "name": "Novo Cakes",
+  "city": "אשדוד",
+  "country": "Israel",
+  "placeId": "ChIJc6PA0LE_XIERNyGWlqubsTI",
+  "googleName": "נובו קייקס - Novo Cakes",
+  "formattedAddress": "Sapir St 11, Ashdod, 7776005, Israel",
+  "phone": "050-842-2241",
+  "website": "https://lmbakery.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3652871934042317111",
+  "rating": 4.9,
+  "reviewCount": 14,
+  "coords": [
+    31.76687,
+    34.6284288
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 12:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/novo-cakes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:30.658Z"
+}

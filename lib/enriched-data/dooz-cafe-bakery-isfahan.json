@@ -1,0 +1,32 @@
+{
+  "slug": "dooz-cafe-bakery-isfahan",
+  "name": "Dooz Cafe Bakery",
+  "city": "Isfahan",
+  "country": "Iran",
+  "placeId": "ChIJZfrdcwA3vD8RwHjI-w4ifLM",
+  "googleName": "Dooz Cafe Elite | دوز کافه الیت",
+  "formattedAddress": "Isfahan, Isfahan, Azadi Ave, Farabi south Avenue, No. 20, Iran",
+  "phone": "031 9109 9919",
+  "website": "http://doozelite.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12933249677650327744",
+  "rating": 4.7,
+  "reviewCount": 9,
+  "coords": [
+    32.6142985,
+    51.6766672
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:30 PM",
+    "Tuesday: 9:00 AM – 11:30 PM",
+    "Wednesday: 9:00 AM – 11:30 PM",
+    "Thursday: 9:00 AM – 11:30 PM",
+    "Friday: 9:00 AM – 11:30 PM",
+    "Saturday: 9:00 AM – 11:30 PM",
+    "Sunday: 9:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dooz-cafe-bakery-isfahan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:35:28.968Z"
+}

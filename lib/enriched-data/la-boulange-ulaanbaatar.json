@@ -1,0 +1,32 @@
+{
+  "slug": "la-boulange-ulaanbaatar",
+  "name": "la boulange",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJO-miwXaTll0RvgbBD0Rpp2Y",
+  "googleName": "La Parisienne",
+  "formattedAddress": "Манлай Баатар Дамдинсүрзнгийн Гудамж 1, SBD - 1 khoroo, Ulaanbaatar 14220, Mongolia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7396996654022330046",
+  "rating": 3.3,
+  "reviewCount": 20,
+  "coords": [
+    47.913084,
+    106.9285735
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boulange-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:23:34.215Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "popsi-kitchen-mulgi-vald",
+  "name": "Popsi Kitchen",
+  "city": "Mulgi vald",
+  "country": "Estonia",
+  "placeId": "ChIJbyp4P5mG7EYR3d9gSe6iDcg",
+  "googleName": "Popsi Kitchen",
+  "formattedAddress": "Pärnu mnt 11, Abja-Paluoja, 69403 Viljandi maakond, Estonia",
+  "phone": "434 0042",
+  "website": "http://www.popsikook.ee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14415357126599827421",
+  "rating": 4.8,
+  "reviewCount": 273,
+  "coords": [
+    58.1260465,
+    25.3562119
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/popsi-kitchen-mulgi-vald/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:31.920Z"
+}

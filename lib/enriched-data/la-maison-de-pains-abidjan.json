@@ -1,0 +1,32 @@
+{
+  "slug": "la-maison-de-pains-abidjan",
+  "name": "La Maison De Pains",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJL-69qF_rwQ8Ria5kLeyQckE",
+  "googleName": "Maison Du Pain",
+  "formattedAddress": "9276+229, Abidjan, Côte d'Ivoire",
+  "phone": "27 22 4 10239",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4715991103858585225",
+  "rating": 3.7,
+  "reviewCount": 148,
+  "coords": [
+    5.3625256,
+    -3.9898905
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-maison-de-pains-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:03.744Z"
+}

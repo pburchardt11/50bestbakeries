@@ -1,0 +1,32 @@
+{
+  "slug": "banana-split-antananarivo-sud",
+  "name": "Banana Split",
+  "city": "Antananarivo-Sud",
+  "country": "Madagascar",
+  "placeId": "ChIJBUeaIQB_8CERDzzn2_mpYz0",
+  "googleName": "Banana Split",
+  "formattedAddress": "3GHG+F3M, Antananarivo, Madagascar",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4423566149609274383",
+  "rating": 3.6,
+  "reviewCount": 5,
+  "coords": [
+    -18.9212755,
+    47.5251771
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banana-split-antananarivo-sud/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:11:16.718Z"
+}

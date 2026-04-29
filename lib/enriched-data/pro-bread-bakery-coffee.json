@@ -1,0 +1,32 @@
+{
+  "slug": "pro-bread-bakery-coffee",
+  "name": "Pro Bread Bakery & Coffee",
+  "city": "Астана",
+  "country": "Kazakhstan",
+  "placeId": "ChIJ5zZgsj2HRUIRS97Tf9cM_ek",
+  "googleName": "Pro Bread Bakery & Coffee",
+  "formattedAddress": "вход с торца Здания (за остановкой, Zhengis Ave 27А, Astana 020000, Kazakhstan",
+  "phone": "8 (701) 090 0333",
+  "website": "https://pbb.kz/?source=googlemaps",
+  "googleMapsUrl": "https://maps.google.com/?cid=16860646699647098443",
+  "rating": 4.7,
+  "reviewCount": 6,
+  "coords": [
+    51.1711699,
+    71.4115848
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pro-bread-bakery-coffee/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:51:52.223Z"
+}

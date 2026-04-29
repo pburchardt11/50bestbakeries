@@ -1,0 +1,32 @@
+{
+  "slug": "zdrav-zalogaj-bar",
+  "name": "Zdrav Zalogaj Bar",
+  "city": "Bar",
+  "country": "Montenegro",
+  "placeId": "ChIJq0nFwm91ThMRGJY78kKJj_o",
+  "googleName": "ZDRAV ZALOGAJ BAR",
+  "formattedAddress": "1 Makedonska, Bar, Montenegro",
+  "phone": "068 516 556",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18054800351776445976",
+  "rating": 3.8,
+  "reviewCount": 26,
+  "coords": [
+    42.0981976,
+    19.100095
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zdrav-zalogaj-bar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:25:15.805Z"
+}

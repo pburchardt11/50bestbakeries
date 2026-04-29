@@ -1,0 +1,32 @@
+{
+  "slug": "danish-bakery-yarmouk",
+  "name": "Danish bakery (Yarmouk)",
+  "city": "الفروانية",
+  "country": "Kuwait",
+  "placeId": "ChIJTSmSPvUJzz8RrzcsWwXJKKQ",
+  "googleName": "Danish bakery (Yarmouk)",
+  "formattedAddress": "3 3 St 2 Ln, 72501, Kuwait",
+  "phone": "2239 9993",
+  "website": "https://www.danishbakery.com.kw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11828925446130251695",
+  "rating": 4.4,
+  "reviewCount": 848,
+  "coords": [
+    29.3142402,
+    47.9718923
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:45 PM",
+    "Tuesday: 7:00 AM – 10:45 PM",
+    "Wednesday: 7:00 AM – 10:45 PM",
+    "Thursday: 7:00 AM – 10:45 PM",
+    "Friday: 7:00 AM – 10:45 PM",
+    "Saturday: 7:00 AM – 10:45 PM",
+    "Sunday: 7:00 AM – 10:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/danish-bakery-yarmouk/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:16.117Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "qweci-the-baker-accra",
+  "name": "Qweci The BaKer",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJs0x9rXOb3w8RrYtestfZUzY",
+  "googleName": "The Good Baker",
+  "formattedAddress": "Amal Suites, Garden Street, Accra, Ghana",
+  "phone": "030 295 6995",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3914712021548829613",
+  "rating": 4.4,
+  "reviewCount": 549,
+  "coords": [
+    5.6428277,
+    -0.1520797
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/qweci-the-baker-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:16:02.421Z"
+}

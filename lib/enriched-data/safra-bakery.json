@@ -1,0 +1,24 @@
+{
+  "slug": "safra-bakery",
+  "name": "SAFRA Bakery",
+  "city": "السليمانية",
+  "country": "Iraq",
+  "placeId": "ChIJJ2TlvpgtAEARWZQSnKQmLtY",
+  "googleName": "SAFRA Bakery",
+  "formattedAddress": "14 Piramagrun St, Sulaymaniyah, Sulaymaniyah Governorate, Iraq",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15433315461480223833",
+  "rating": 3.8,
+  "reviewCount": 146,
+  "coords": [
+    35.5674776,
+    45.4166185
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/safra-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:38:26.652Z"
+}

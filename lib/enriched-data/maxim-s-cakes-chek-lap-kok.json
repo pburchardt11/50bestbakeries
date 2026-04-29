@@ -1,0 +1,32 @@
+{
+  "slug": "maxim-s-cakes-chek-lap-kok",
+  "name": "Maxim's Cakes",
+  "city": "Chek Lap Kok",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJ30LTuezjAzQRMTXviHcMfC4",
+  "googleName": "Maxim's Cakes (MTR Tung Chung Station)",
+  "formattedAddress": "Kiosk No.Tuc4, MTR Tung Chung Station, Tung Chung, Lantau, Hong Kong",
+  "phone": "2109 2416",
+  "website": "https://www.maximscakes.com.hk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3349565930394826033",
+  "rating": 3.5,
+  "reviewCount": 32,
+  "coords": [
+    22.2895053,
+    113.9416039
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maxim-s-cakes-chek-lap-kok/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:31:44.659Z"
+}

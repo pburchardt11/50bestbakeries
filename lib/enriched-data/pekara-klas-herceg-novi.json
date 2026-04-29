@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-klas-herceg-novi",
+  "name": "Pekara Klas",
+  "city": "Herceg Novi",
+  "country": "Montenegro",
+  "placeId": "ChIJOTVZagA7TBMRDeG-nTB6Yzk",
+  "googleName": "PEKARELA",
+  "formattedAddress": "Jadranska magistrala, Herceg - Novi, Montenegro",
+  "phone": "069 102 300",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4135283232079798541",
+  "rating": 4.6,
+  "reviewCount": 130,
+  "coords": [
+    42.4541123,
+    18.5316891
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:30 PM",
+    "Tuesday: 6:30 AM – 10:30 PM",
+    "Wednesday: 6:30 AM – 10:30 PM",
+    "Thursday: 6:30 AM – 10:30 PM",
+    "Friday: 6:30 AM – 10:30 PM",
+    "Saturday: 6:30 AM – 10:30 PM",
+    "Sunday: 6:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-klas-herceg-novi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:22.784Z"
+}

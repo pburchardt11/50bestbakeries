@@ -1,0 +1,32 @@
+{
+  "slug": "sweety-bakery-cafe-istro",
+  "name": "Sweety Bakery Cafe",
+  "city": "Istro",
+  "country": "Greece",
+  "placeId": "ChIJEzlIS5-AkBQRW5AB1L-4Uq8",
+  "googleName": "\"Sweety\" Cafe - Bakery shop",
+  "formattedAddress": "Istro kalo chorio, Istro 721 00, Greece",
+  "phone": "2841 061701",
+  "website": "https://www.instagram.com/sweetybakerycafe?r=nametag",
+  "googleMapsUrl": "https://maps.google.com/?cid=12633363038762799195",
+  "rating": 4.7,
+  "reviewCount": 64,
+  "coords": [
+    35.122321,
+    25.7325782
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:55 PM",
+    "Tuesday: 6:00 AM – 11:55 PM",
+    "Wednesday: 6:00 AM – 11:55 PM",
+    "Thursday: 6:00 AM – 11:55 PM",
+    "Friday: 6:00 AM – 11:55 PM",
+    "Saturday: 6:00 AM – 11:55 PM",
+    "Sunday: 6:00 AM – 11:55 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweety-bakery-cafe-istro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:46.103Z"
+}

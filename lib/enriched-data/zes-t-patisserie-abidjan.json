@@ -1,0 +1,32 @@
+{
+  "slug": "zes-t-patisserie-abidjan",
+  "name": "Zes't Pâtisserie",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJs6WViQzrwQ8REoSdIuMkHMI",
+  "googleName": "Zes't",
+  "formattedAddress": "Rue du Lycée Technique, Abidjan, Côte d'Ivoire",
+  "phone": "07 09 48 4869",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13987095100662842386",
+  "rating": 4.2,
+  "reviewCount": 432,
+  "coords": [
+    5.3451109,
+    -4.0105879
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zes-t-patisserie-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:12.136Z"
+}

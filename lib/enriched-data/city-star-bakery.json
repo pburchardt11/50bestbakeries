@@ -1,0 +1,32 @@
+{
+  "slug": "city-star-bakery",
+  "name": "City star bakery",
+  "city": "السليمانية",
+  "country": "Iraq",
+  "placeId": "ChIJM0pgPyEtAEAR6-nRveThkQo",
+  "googleName": "City star bakery",
+  "formattedAddress": "HC5G+CXG, Şeqamî Bêxud, Sulaymaniyah, Sulaymaniyah Governorate, Iraq",
+  "phone": "0772 910 1717",
+  "website": "http://www.citystarbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=761638184555768299",
+  "rating": 4.4,
+  "reviewCount": 391,
+  "coords": [
+    35.55856430000001,
+    45.427443
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: Closed",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/city-star-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:38:35.950Z"
+}

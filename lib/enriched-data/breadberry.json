@@ -1,0 +1,32 @@
+{
+  "slug": "breadberry",
+  "name": "Breadberry",
+  "city": "אור יהודה",
+  "country": "Israel",
+  "placeId": "ChIJy6H5M6dKHRURWuYkA6If9rs",
+  "googleName": "Breadberry - ברדברי",
+  "formattedAddress": "Ha-Kharoshet St 1, Or Yehuda, Israel",
+  "phone": "03-962-1955",
+  "website": "http://breadberry.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13544047710061258330",
+  "rating": 4.3,
+  "reviewCount": 465,
+  "coords": [
+    32.0210589,
+    34.8607587
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:30 PM",
+    "Tuesday: 8:00 AM – 5:30 PM",
+    "Wednesday: 8:00 AM – 5:30 PM",
+    "Thursday: 8:00 AM – 5:30 PM",
+    "Friday: 7:30 AM – 2:30 PM",
+    "Saturday: Closed",
+    "Sunday: 8:00 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadberry/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:02.431Z"
+}

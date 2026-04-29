@@ -1,0 +1,32 @@
+{
+  "slug": "maxim-s-cakes-admiralty",
+  "name": "Maxim's Cakes",
+  "city": "Admiralty",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJqZ8Pp_gBBDQRU5bX3TK7-jQ",
+  "googleName": "Maxim's Cakes",
+  "formattedAddress": "Admiralty, Hong Kong",
+  "phone": "2520 2182",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3817569461294569043",
+  "rating": 4.4,
+  "reviewCount": 9,
+  "coords": [
+    22.2793116,
+    114.1652936
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:30 PM",
+    "Tuesday: 7:30 AM – 8:30 PM",
+    "Wednesday: 7:30 AM – 8:30 PM",
+    "Thursday: 7:30 AM – 8:30 PM",
+    "Friday: 7:30 AM – 8:30 PM",
+    "Saturday: 7:30 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maxim-s-cakes-admiralty/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:27.491Z"
+}

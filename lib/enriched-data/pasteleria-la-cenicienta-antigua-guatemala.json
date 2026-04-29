@@ -1,0 +1,32 @@
+{
+  "slug": "pasteleria-la-cenicienta-antigua-guatemala",
+  "name": "Pasteleria La Cenicienta",
+  "city": "Antigua Guatemala",
+  "country": "Guatemala",
+  "placeId": "ChIJ7QbpU3MOiYUR1VCR2IwArYo",
+  "googleName": "Pastelería La Cenicienta Centro",
+  "formattedAddress": "7 avenida norte #6 Antigua, Guatemala 03001, Guatemala",
+  "phone": "7832 8892",
+  "website": "https://pastelerialacenicienta.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9992643753133822165",
+  "rating": 4.1,
+  "reviewCount": 67,
+  "coords": [
+    14.5573748,
+    -90.7364582
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-la-cenicienta-antigua-guatemala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:23:31.600Z"
+}

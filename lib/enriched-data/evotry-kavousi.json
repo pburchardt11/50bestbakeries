@@ -1,0 +1,24 @@
+{
+  "slug": "evotry-kavousi",
+  "name": "Evotry",
+  "city": "Kavousi",
+  "country": "Greece",
+  "placeId": "ChIJD-fNtHmIkBQRo8bRE5_F6C8",
+  "googleName": "Evotry",
+  "formattedAddress": "1821, Kavousi 722 00, Greece",
+  "phone": "694 267 3375",
+  "website": "http://www.evotry.gr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3452226401402472099",
+  "rating": 4.9,
+  "reviewCount": 121,
+  "coords": [
+    35.1216459,
+    25.855159
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/evotry-kavousi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:56.283Z"
+}

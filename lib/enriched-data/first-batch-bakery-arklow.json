@@ -1,0 +1,32 @@
+{
+  "slug": "first-batch-bakery-arklow",
+  "name": "First Batch Bakery",
+  "city": "Arklow",
+  "country": "Ireland",
+  "placeId": "ChIJibuNfwDrZ0gRIy1IiAXOPSg",
+  "googleName": "First Batch Bakery",
+  "formattedAddress": "12, Cúirt an Gleanna, Aughrim Lower, Aughrim, Co. Wicklow, Y14 A9K7, Ireland",
+  "phone": null,
+  "website": "http://firstbatch.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2899700258253057315",
+  "rating": 4.9,
+  "reviewCount": 86,
+  "coords": [
+    52.8558396,
+    -6.327829899999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/first-batch-bakery-arklow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:39:39.234Z"
+}

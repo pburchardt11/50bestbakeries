@@ -1,0 +1,30 @@
+{
+  "slug": "chads-bakery-and-grill-beirut",
+  "name": "CHADS Bakery and GRILL",
+  "city": "Beirut",
+  "country": "Lebanon",
+  "placeId": "ChIJVR4TjEk9HxURTFL63Vhz9SY",
+  "googleName": "Chad’s Bakery",
+  "formattedAddress": "RHHG+9QC, Kahaleh, Lebanon",
+  "phone": "05 768 587",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2807276768253858380",
+  "rating": 4.6,
+  "reviewCount": 16,
+  "coords": [
+    33.8284447,
+    35.5769007
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:02:31.357Z"
+}

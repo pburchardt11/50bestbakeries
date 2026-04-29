@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-carrillo-chichigalpa",
+  "name": "Panadería Carrillo",
+  "city": "Chichigalpa",
+  "country": "Nicaragua",
+  "placeId": "ChIJEziwkATlcI8RN3jyfxg62RI",
+  "googleName": "Panadería Carrillo",
+  "formattedAddress": "De la Policía 1 cuadra al Sur 1/2 cuadra al Este., Chichigalpa, Nicaragua",
+  "phone": "2343 0798",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1358180639529138231",
+  "rating": 4,
+  "reviewCount": 15,
+  "coords": [
+    12.5688874,
+    -87.0281272
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-carrillo-chichigalpa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:43.712Z"
+}

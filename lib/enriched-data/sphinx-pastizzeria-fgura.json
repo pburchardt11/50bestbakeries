@@ -1,0 +1,32 @@
+{
+  "slug": "sphinx-pastizzeria-fgura",
+  "name": "Sphinx Pastizzeria",
+  "city": "Fgura",
+  "country": "Malta",
+  "placeId": "ChIJDU1IXVhbDhMR_i1oR77tXl0",
+  "googleName": "Sphinx Pastizzeria",
+  "formattedAddress": "Hompesch Road, Fgura, Malta",
+  "phone": "2701 2588",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6728076294835678718",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    35.8723344,
+    14.519701
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 5:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sphinx-pastizzeria-fgura/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:03.419Z"
+}

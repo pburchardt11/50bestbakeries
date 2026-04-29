@@ -1,0 +1,32 @@
+{
+  "slug": "joannes-tasty-bakes-arklow",
+  "name": "Joannes Tasty Bakes",
+  "city": "Arklow",
+  "country": "Ireland",
+  "placeId": "ChIJW8yYGP3DZ0gRyp1eCZfWzdc",
+  "googleName": "Joanne's Cafe - Arklow",
+  "formattedAddress": "Main St, Arklow, Co. Wicklow, Y14 X4X5, Ireland",
+  "phone": "(0402) 39498",
+  "website": "https://www.staffordbakeries.ie/cafe-stores/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15550321032565792202",
+  "rating": 4.3,
+  "reviewCount": 328,
+  "coords": [
+    52.7981861,
+    -6.1563965
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/joannes-tasty-bakes-arklow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:39:41.180Z"
+}

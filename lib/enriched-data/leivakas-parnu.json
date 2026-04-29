@@ -1,0 +1,32 @@
+{
+  "slug": "leivakas-parnu",
+  "name": "Leivakas",
+  "city": "Pärnu",
+  "country": "Estonia",
+  "placeId": "ChIJBUIhBBL97EYRD7nZ23WZ6nE",
+  "googleName": "Leivakas - Pagaritöökoda / Kiviahjupitsa",
+  "formattedAddress": "Lai tn 10-3, Pärnu, 80010 Pärnu maakond, Estonia",
+  "phone": "5631 5099",
+  "website": "http://leivakas.ee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8208542002314852623",
+  "rating": 4.7,
+  "reviewCount": 406,
+  "coords": [
+    58.3887262,
+    24.5033505
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leivakas-parnu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:51.732Z"
+}

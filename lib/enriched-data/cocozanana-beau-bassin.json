@@ -1,0 +1,32 @@
+{
+  "slug": "cocozanana-beau-bassin",
+  "name": "CocoZanana",
+  "city": "Beau Bassin",
+  "country": "Mauritius",
+  "placeId": "ChIJRUGW34pbfCER5CSBJ_kZQhE",
+  "googleName": "Restaurant Coco",
+  "formattedAddress": "88 Pope Hennessy Street, Beau Bassin-Rose Hill, Mauritius",
+  "phone": "5258 8106",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1243585005008004324",
+  "rating": 4.2,
+  "reviewCount": 38,
+  "coords": [
+    -20.2321407,
+    57.46318059999999
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 5:00 PM – 12:30 AM",
+    "Wednesday: 8:30 AM – 12:30 AM",
+    "Thursday: 8:30 AM – 12:30 AM",
+    "Friday: 8:30 AM – 12:30 AM",
+    "Saturday: 8:30 AM – 12:30 AM",
+    "Sunday: 8:30 AM – 12:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cocozanana-beau-bassin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:18:24.297Z"
+}

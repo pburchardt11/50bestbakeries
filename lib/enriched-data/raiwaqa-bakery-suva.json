@@ -1,0 +1,32 @@
+{
+  "slug": "raiwaqa-bakery-suva",
+  "name": "Raiwaqa Bakery",
+  "city": "Suva",
+  "country": "Fiji",
+  "placeId": "ChIJ_9NHWNndG24RtL2QSR_--ak",
+  "googleName": "Raiwaqa Bakery",
+  "formattedAddress": "VC4P+CF4, Suva, Fiji",
+  "phone": "735 3355",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12248100071942438324",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    -18.1439985,
+    178.4362086
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Open 24 hours",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/raiwaqa-bakery-suva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:09:53.601Z"
+}

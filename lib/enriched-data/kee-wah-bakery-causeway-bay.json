@@ -1,0 +1,32 @@
+{
+  "slug": "kee-wah-bakery-causeway-bay",
+  "name": "Kee Wah Bakery ()",
+  "city": "Causeway Bay",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJc3qnzFYABDQRPj3yht8jAdw",
+  "googleName": "Kee Wah Bakery (Lee Garden Road)",
+  "formattedAddress": "33號舖, Lee Garden Rd, Causeway Bay, Hong Kong",
+  "phone": "2890 3678",
+  "website": "https://keewah.com/hk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15852991606269558078",
+  "rating": 4.1,
+  "reviewCount": 58,
+  "coords": [
+    22.2790433,
+    114.1833676
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 8:30 PM",
+    "Tuesday: 9:30 AM – 8:30 PM",
+    "Wednesday: 9:30 AM – 8:30 PM",
+    "Thursday: 9:30 AM – 8:30 PM",
+    "Friday: 9:30 AM – 8:30 PM",
+    "Saturday: 9:30 AM – 8:30 PM",
+    "Sunday: 9:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": "Outpost of a Hong Kong-based bakery offering Chinese pastries & other snacks, plus custom cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kee-wah-bakery-causeway-bay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:34.516Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "chictastic-baking-espoo",
+  "name": "Chictastic Baking",
+  "city": "Espoo",
+  "country": "Finland",
+  "placeId": "ChIJP8DCJ8L0jUYRo2L8-pAgF1U",
+  "googleName": "Chictastic Baking",
+  "formattedAddress": "Päivänkakkarantie 10 F, 02270 Espoo, Finland",
+  "phone": "040 0350104",
+  "website": "https://www.chictastic.fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6131405224746443427",
+  "rating": 4.5,
+  "reviewCount": 107,
+  "coords": [
+    60.1580738,
+    24.6991986
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chictastic-baking-espoo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:10:59.796Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "missing-dessert-macau",
+  "name": "Missing Dessert",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJwQn4kNF7ATQR6fn9314yQhI",
+  "googleName": "MISSING DESSERT",
+  "formattedAddress": "MacaoR. do Padre Antonio Roliz, 16-A號C座",
+  "phone": "6825 5299",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1315669424211884521",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    22.2042074,
+    113.5472046
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 7:00 PM",
+    "Tuesday: 12:00 – 7:00 PM",
+    "Wednesday: 12:00 – 7:00 PM",
+    "Thursday: 12:00 – 7:00 PM",
+    "Friday: 12:00 – 7:00 PM",
+    "Saturday: 12:00 – 7:00 PM",
+    "Sunday: 12:00 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/missing-dessert-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:15.285Z"
+}

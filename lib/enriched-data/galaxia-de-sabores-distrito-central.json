@@ -1,0 +1,32 @@
+{
+  "slug": "galaxia-de-sabores-distrito-central",
+  "name": "Galaxia de sabores",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJifWbYm2jb48R7jY6EnXZlxE",
+  "googleName": "Galaxia de sabores",
+  "formattedAddress": "Barrio concepción. En la 4 avenida, Entre 11 y 12 Calle, 11101 Tegucigalpa, Francisco Morazán, Honduras",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1267720916968290030",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    14.0941228,
+    -87.2084879
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/galaxia-de-sabores-distrito-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:28:44.936Z"
+}

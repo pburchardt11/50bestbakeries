@@ -1,0 +1,32 @@
+{
+  "slug": "cakes-by-noora-auckland",
+  "name": "Cakes by Noora",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJ0QJfYdetcm0RNp3ti8g9HKM",
+  "googleName": "Nivora Bake House",
+  "formattedAddress": "83 Walters Road, Papakura, Auckland 2110, New Zealand",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11753337059080510774",
+  "rating": 5,
+  "reviewCount": 16,
+  "coords": [
+    -37.0462576,
+    174.942258
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-by-noora-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:14.463Z"
+}

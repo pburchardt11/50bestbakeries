@@ -1,0 +1,32 @@
+{
+  "slug": "darkoum-skhirat",
+  "name": "Darkoum",
+  "city": "Skhirat",
+  "country": "Morocco",
+  "placeId": "ChIJO-OSGecJpw0RQ-zLQaOwjoQ",
+  "googleName": "DARKOUM :BOULANGERIE -PATISSERIE",
+  "formattedAddress": "NO 98, LOT AIN LAATARIS, Skhirat 12020, Morocco",
+  "phone": "06 67 23 43 44",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9551766074929441859",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    33.8509477,
+    -7.060599799999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/darkoum-skhirat/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:28:33.682Z"
+}

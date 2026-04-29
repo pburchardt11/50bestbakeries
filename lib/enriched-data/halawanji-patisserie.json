@@ -1,0 +1,32 @@
+{
+  "slug": "halawanji-patisserie",
+  "name": "Halawanji Patisserie",
+  "city": "البوشرية",
+  "country": "Lebanon",
+  "placeId": "ChIJyfMKwi8WHxURdqx2fBEvpjs",
+  "googleName": "Halawanji Patisserie",
+  "formattedAddress": "VHJ4+V75, Baouchriyeh, Lebanon",
+  "phone": "03 819 707",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4298174646520818806",
+  "rating": 4.2,
+  "reviewCount": 14,
+  "coords": [
+    33.8821367,
+    35.5557407
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/halawanji-patisserie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:03:52.981Z"
+}

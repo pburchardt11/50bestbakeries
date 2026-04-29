@@ -1,0 +1,32 @@
+{
+  "slug": "sahar-bakery-tehran",
+  "name": "Sahar Bakery",
+  "city": "Tehran",
+  "country": "Iran",
+  "placeId": "ChIJR38fwoT9jT8RgbmVU5wSPAY",
+  "googleName": "Sahar Bakery",
+  "formattedAddress": "Tehran, استان تهران شهرک صنعتی سبلان بلوار مرزداران بلوار 6 خیابان گلها, خیابان بوستان، Iran",
+  "phone": "021 4424 8631",
+  "website": "http://sahargroup.ir/",
+  "googleMapsUrl": "https://maps.google.com/?cid=449254525456726401",
+  "rating": 4,
+  "reviewCount": 200,
+  "coords": [
+    35.7381502,
+    51.3376184
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:30 PM",
+    "Tuesday: 7:30 AM – 9:30 PM",
+    "Wednesday: 7:30 AM – 9:30 PM",
+    "Thursday: 7:30 AM – 9:30 PM",
+    "Friday: 7:30 AM – 9:30 PM",
+    "Saturday: 7:30 AM – 9:30 PM",
+    "Sunday: 7:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sahar-bakery-tehran/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:36:57.212Z"
+}

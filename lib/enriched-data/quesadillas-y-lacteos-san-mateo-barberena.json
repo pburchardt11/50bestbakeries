@@ -1,0 +1,32 @@
+{
+  "slug": "quesadillas-y-lacteos-san-mateo-barberena",
+  "name": "Quesadillas y Lácteos San Mateo",
+  "city": "Barberena",
+  "country": "Guatemala",
+  "placeId": "ChIJv3IvOGF3QI4RMyz1ZomE5d0",
+  "googleName": "Lácteos San Mateo",
+  "formattedAddress": "Cra. 6, Cajicá, Cundinamarca, Colombia",
+  "phone": "314 4576448",
+  "website": "https://www.lacteoshaciendasanmateo.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15989331777721543731",
+  "rating": 4.3,
+  "reviewCount": 103,
+  "coords": [
+    4.9219507,
+    -74.0248412
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 9:30 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/quesadillas-y-lacteos-san-mateo-barberena/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:24:15.675Z"
+}

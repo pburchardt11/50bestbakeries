@@ -1,0 +1,32 @@
+{
+  "slug": "vaasan-leipomomyymala-espoo",
+  "name": "Vaasan Leipomomyymälä",
+  "city": "Espoo",
+  "country": "Finland",
+  "placeId": "ChIJATi3_S30jUYRyMNE80sIMfQ",
+  "googleName": "Vaasan Bakery Shop Espoo",
+  "formattedAddress": "Nuijalantie 13, 02630 Espoo, Finland",
+  "phone": "020 4462361",
+  "website": "https://www.vaasan.fi/tietoa/yhteystiedot/vaasan-myymalat/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17595854341410177992",
+  "rating": 4.4,
+  "reviewCount": 80,
+  "coords": [
+    60.2070522,
+    24.7749811
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vaasan-leipomomyymala-espoo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:29.012Z"
+}

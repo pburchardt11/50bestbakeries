@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-dust-abuja",
+  "name": "Sweet Dust",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "placeId": "ChIJMyxwLRcLThAR5PfsqdTtWIs",
+  "googleName": "Sweet Dust | Cake & Pastries",
+  "formattedAddress": "13 Ngwa Cl, Garki, Abuja 900103, Federal Capital Territory, Nigeria",
+  "phone": "0813 607 2778",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10041036866862249956",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    9.0313093,
+    7.4857972
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-dust-abuja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:41:29.165Z"
+}

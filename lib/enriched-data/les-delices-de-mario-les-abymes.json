@@ -1,0 +1,32 @@
+{
+  "slug": "les-delices-de-mario-les-abymes",
+  "name": "Les délices de Mario",
+  "city": "Les Abymes",
+  "country": "Guadeloupe",
+  "placeId": "ChIJ3ckeEsJJE4wR9AsTJdKx4_A",
+  "googleName": "Les délices de Mario",
+  "formattedAddress": "Rue de la chapelle, Rte de Chazeau, Les Abymes 97142, Guadeloupe",
+  "phone": "0590 91 73 60",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17357912904939277300",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    16.2893853,
+    -61.4792272
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 12:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-delices-de-mario-les-abymes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:21:52.620Z"
+}

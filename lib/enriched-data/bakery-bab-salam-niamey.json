@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-bab-salam-niamey",
+  "name": "Bakery Bab Salam",
+  "city": "Niamey",
+  "country": "Niger",
+  "placeId": "ChIJ0xLuisGf2hER7wpRHfTuXUw",
+  "googleName": "Bakery Bab Salam",
+  "formattedAddress": "H42F+VJF, Niamey, Niger",
+  "phone": "90 13 13 94",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5502817051947895535",
+  "rating": 4.1,
+  "reviewCount": 297,
+  "coords": [
+    13.552197,
+    2.1240511
+  ],
+  "openingHours": [
+    "Monday: 6:45 AM – 11:00 PM",
+    "Tuesday: 6:15 AM – 11:00 PM",
+    "Wednesday: 6:45 AM – 11:00 PM",
+    "Thursday: 6:45 AM – 11:00 PM",
+    "Friday: 6:45 AM – 11:00 PM",
+    "Saturday: 6:45 AM – 11:00 PM",
+    "Sunday: 6:45 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-bab-salam-niamey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:40:29.779Z"
+}

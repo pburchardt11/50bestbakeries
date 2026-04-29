@@ -1,0 +1,32 @@
+{
+  "slug": "pizzeta",
+  "name": "Pizzeta",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJ5dDJks2HZ0ARAzyjKTkWXMg",
+  "googleName": "Pizza Mizza Batumi",
+  "formattedAddress": "11 Rustaveli Ave, Batumi 6010, Georgia",
+  "phone": "598 25 99 77",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14437438940210478083",
+  "rating": 4.7,
+  "reviewCount": 220,
+  "coords": [
+    41.6519372,
+    41.63526510000001
+  ],
+  "openingHours": [
+    "Monday: 12:00 PM – 12:00 AM",
+    "Tuesday: 12:00 PM – 12:00 AM",
+    "Wednesday: 12:00 PM – 12:00 AM",
+    "Thursday: 12:00 PM – 12:00 AM",
+    "Friday: 12:00 PM – 12:00 AM",
+    "Saturday: 12:00 PM – 12:00 AM",
+    "Sunday: 12:00 PM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pizzeta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:22.360Z"
+}

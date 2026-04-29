@@ -1,0 +1,32 @@
+{
+  "slug": "king-baker-s-banjul",
+  "name": "King Baker's",
+  "city": "Banjul",
+  "country": "Gambia",
+  "placeId": "ChIJE3NbR4iXwg4RPKGdkt0G0cU",
+  "googleName": "King Baker",
+  "formattedAddress": "C749+JWJ , Tranquil, Banjul, The Gambia",
+  "phone": "373 3092",
+  "website": "https://kingbaker.gm/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14254181844321673532",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    13.4066051,
+    -16.7302271
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/king-baker-s-banjul/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:38.191Z"
+}

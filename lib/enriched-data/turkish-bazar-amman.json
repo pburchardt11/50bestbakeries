@@ -1,0 +1,32 @@
+{
+  "slug": "turkish-bazar-amman",
+  "name": "Turkish Bazar",
+  "city": "Amman",
+  "country": "Jordan",
+  "placeId": "ChIJd8NApDhhGxURSpCUX_Iccpo",
+  "googleName": "Turkish bazar",
+  "formattedAddress": "XWJR+29H, Amman, Jordan",
+  "phone": "07 8058 0408",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11128989456497152074",
+  "rating": 4.5,
+  "reviewCount": 44,
+  "coords": [
+    31.9800594,
+    35.9409868
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 12:00 AM",
+    "Tuesday: 10:00 AM – 12:00 AM",
+    "Wednesday: 10:00 AM – 12:00 AM",
+    "Thursday: 10:00 AM – 12:01 AM",
+    "Friday: 10:00 AM – 12:00 AM",
+    "Saturday: 10:00 AM – 12:15 AM",
+    "Sunday: 10:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/turkish-bazar-amman/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:02.780Z"
+}

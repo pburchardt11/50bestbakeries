@@ -1,0 +1,32 @@
+{
+  "slug": "trio-cukraszda-albertirsa",
+  "name": "Trió Cukrászda",
+  "city": "Albertirsa",
+  "country": "Hungary",
+  "placeId": "ChIJRXbMWPidQUcR81TE_WsiD6E",
+  "googleName": "Trió Cukrászda Albertirsa Vasút u. 8.",
+  "formattedAddress": "Albertirsa, Vasút u. 8, 2730 Hungary",
+  "phone": "06 20 260 9492",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11605532611971405043",
+  "rating": 4.6,
+  "reviewCount": 173,
+  "coords": [
+    47.2430853,
+    19.6099787
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/trio-cukraszda-albertirsa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:32:36.346Z"
+}

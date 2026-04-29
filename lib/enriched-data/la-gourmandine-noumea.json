@@ -1,0 +1,32 @@
+{
+  "slug": "la-gourmandine-noumea",
+  "name": "La Gourmandine",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJsTHk1nHiJ2wRgLf4yc1sC3w",
+  "googleName": "L'Atelier Gourmand",
+  "formattedAddress": "Rte de I'Anse Vata, Nouméa 98800, New Caledonia",
+  "phone": "23.73.11",
+  "website": "https://www.lateliergourmand.nc/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8938357516559497088",
+  "rating": 4.5,
+  "reviewCount": 276,
+  "coords": [
+    -22.2996633,
+    166.4450238
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:30 PM",
+    "Tuesday: 5:30 AM – 6:30 PM",
+    "Wednesday: 5:30 AM – 6:30 PM",
+    "Thursday: 5:30 AM – 6:30 PM",
+    "Friday: 5:30 AM – 6:30 PM",
+    "Saturday: 5:30 AM – 6:30 PM",
+    "Sunday: 5:30 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-gourmandine-noumea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:03.982Z"
+}

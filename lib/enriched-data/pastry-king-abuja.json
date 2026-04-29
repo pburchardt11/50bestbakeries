@@ -1,0 +1,32 @@
+{
+  "slug": "pastry-king-abuja",
+  "name": "Pastry King Abuja",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "placeId": "ChIJCzuCgfQLThARxagbYbogBLM",
+  "googleName": "Pastry King Abuja",
+  "formattedAddress": "Oron Cl, Garki, Abuja 900103, Federal Capital Territory, Nigeria",
+  "phone": "0703 311 5877",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12899471217561151685",
+  "rating": 4.7,
+  "reviewCount": 32,
+  "coords": [
+    9.033888,
+    7.4689748
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastry-king-abuja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:41:43.532Z"
+}

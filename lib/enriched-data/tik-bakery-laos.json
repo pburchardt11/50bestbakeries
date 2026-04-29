@@ -1,0 +1,32 @@
+{
+  "slug": "tik-bakery-laos",
+  "name": "Tik bakery",
+  "city": "Laos",
+  "country": "Laos",
+  "placeId": "ChIJKSAAS2JnJDERjgXM24djuB8",
+  "googleName": "Tik bakery",
+  "formattedAddress": "XJFR+6HG, ຮ່ອມ. 1, Vientiane, Laos",
+  "phone": "020 97 252 525",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2285686246049842574",
+  "rating": 3.7,
+  "reviewCount": 3,
+  "coords": [
+    17.9730664,
+    102.6414623
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tik-bakery-laos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:58:28.412Z"
+}

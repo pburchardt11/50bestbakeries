@@ -1,0 +1,32 @@
+{
+  "slug": "city-bakery-male",
+  "name": "City Bakery",
+  "city": "Malé",
+  "country": "Maldives",
+  "placeId": "ChIJN1bNOv9-PzsRRAWSrhNOFqg",
+  "googleName": "City Bakery(Sosun Magu)",
+  "formattedAddress": "Sosun Magu, Malé 20341, Maldives",
+  "phone": "302-9844",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12111954094299678020",
+  "rating": 4.2,
+  "reviewCount": 104,
+  "coords": [
+    4.173938199999999,
+    73.5144468
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:30 PM",
+    "Tuesday: 6:00 AM – 10:30 PM",
+    "Wednesday: 6:00 AM – 10:30 PM",
+    "Thursday: 6:00 AM – 10:30 PM",
+    "Friday: 6:00 – 10:00 AM, 2:00 – 10:30 PM",
+    "Saturday: 6:00 AM – 10:30 PM",
+    "Sunday: 6:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/city-bakery-male/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:13:31.259Z"
+}

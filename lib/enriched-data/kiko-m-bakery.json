@@ -1,0 +1,32 @@
+{
+  "slug": "kiko-m-bakery",
+  "name": "Kiko-M Bakery",
+  "city": "Велес",
+  "country": "North Macedonia",
+  "placeId": "ChIJewVRt8orVBMRwtQpE1X0SpA",
+  "googleName": "Kiko-M Bakery",
+  "formattedAddress": "Нада Бутникошарова бр.46, Veles 1400, North Macedonia",
+  "phone": "075 259 996",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10397391335969117378",
+  "rating": 5,
+  "reviewCount": 7,
+  "coords": [
+    41.7125791,
+    21.7869931
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 PM",
+    "Tuesday: 6:00 AM – 1:30 PM",
+    "Wednesday: 6:00 AM – 12:00 PM",
+    "Thursday: 6:00 AM – 12:00 PM",
+    "Friday: 6:00 AM – 1:30 PM",
+    "Saturday: Closed",
+    "Sunday: 6:00 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kiko-m-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:43:18.988Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-salmans-distrito-central",
+  "name": "Panaderia Salmans",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJ6-9bx968b48RbcE8JXelgd4",
+  "googleName": "Panaderia Salmans",
+  "formattedAddress": "Blvd Morazan, Centro Comercial Maya, Tegucigalpa, Francisco Morazán, Honduras",
+  "phone": "3318-3206",
+  "website": "http://www.pansalmans.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16033278079560106349",
+  "rating": 4.3,
+  "reviewCount": 354,
+  "coords": [
+    14.09961,
+    -87.194687
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-salmans-distrito-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:28:17.858Z"
+}

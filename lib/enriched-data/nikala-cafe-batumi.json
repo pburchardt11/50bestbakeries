@@ -1,0 +1,32 @@
+{
+  "slug": "nikala-cafe-batumi",
+  "name": "Nikala Cafe Batumi",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJWRg_FYWHZ0ARfjbETmo68x4",
+  "googleName": "Shoti store",
+  "formattedAddress": "132 Giorgi Brtskinvale St, Batumi 6000, Georgia",
+  "phone": "511 11 49 12",
+  "website": "https://t.me/NikalaCafe",
+  "googleMapsUrl": "https://maps.google.com/?cid=2230190468740953726",
+  "rating": 4.8,
+  "reviewCount": 84,
+  "coords": [
+    41.6372279,
+    41.6258223
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 AM",
+    "Tuesday: 8:00 AM – 3:00 AM",
+    "Wednesday: 8:00 AM – 3:00 AM",
+    "Thursday: 8:00 AM – 3:00 AM",
+    "Friday: 8:00 AM – 3:00 AM",
+    "Saturday: 8:00 AM – 3:00 AM",
+    "Sunday: 8:00 AM – 3:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nikala-cafe-batumi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:24.841Z"
+}

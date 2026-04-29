@@ -1,0 +1,32 @@
+{
+  "slug": "air-letao-chitose-shi",
+  "name": "AIR LeTAO",
+  "city": "Chitose-shi",
+  "country": "Japan",
+  "placeId": "ChIJAbARimogdV8RPJYzaBYCMLs",
+  "googleName": "LeTAO New Chitose Airport",
+  "formattedAddress": "Japan, 〒066-0012 Hokkaido, Chitose, Bibi, ９８７ シンチトセクウコウターミナルビル, 2F",
+  "phone": "0123-46-2250",
+  "website": "https://www.letao-brand.jp/shop/airport/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13488283179235382844",
+  "rating": 4.2,
+  "reviewCount": 396,
+  "coords": [
+    42.7870715,
+    141.6807172
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/air-letao-chitose-shi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:51.181Z"
+}

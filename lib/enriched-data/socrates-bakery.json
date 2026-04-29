@@ -1,0 +1,32 @@
+{
+  "slug": "socrates-bakery",
+  "name": "Socrates Bakery",
+  "city": "حولى",
+  "country": "Kuwait",
+  "placeId": "ChIJP2DtG1qgzz8R49ygyNLs_Tg",
+  "googleName": "Socrates Bakery مخبز سقراط",
+  "formattedAddress": "53V2+WHG, 4 St, Daher, Kuwait",
+  "phone": "559 92207",
+  "website": "https://www.ordersocrates.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4106698825285033187",
+  "rating": 4,
+  "reviewCount": 29,
+  "coords": [
+    29.1948125,
+    48.0514531
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 12:00 AM",
+    "Tuesday: 9:30 AM – 12:00 AM",
+    "Wednesday: 9:30 AM – 12:00 AM",
+    "Thursday: 9:30 AM – 12:00 AM",
+    "Friday: 9:30 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 1:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/socrates-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:54.631Z"
+}

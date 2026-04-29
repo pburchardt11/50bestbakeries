@@ -1,0 +1,32 @@
+{
+  "slug": "milo-french-bakery-vientiane",
+  "name": "MILO French Bakery",
+  "city": "Vientiane",
+  "country": "Laos",
+  "placeId": "ChIJa5xZpYZnJDER_xwlJoaBNxw",
+  "googleName": "MILO French Bakery",
+  "formattedAddress": "ban Thhongkan, Vientiane, Laos",
+  "phone": "020 22 266 204",
+  "website": "https://www.facebook.com/profile.php?id=100085147751396",
+  "googleMapsUrl": "https://maps.google.com/?cid=2033236169946635519",
+  "rating": 4.4,
+  "reviewCount": 47,
+  "coords": [
+    17.93602,
+    102.6257614
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/milo-french-bakery-vientiane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:00:34.583Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "red-velvet-bakery-male",
+  "name": "Red Velvet Bakery",
+  "city": "Malé",
+  "country": "Maldives",
+  "placeId": "ChIJUbgQWFF-PzsRefbcLPLfbrw",
+  "googleName": "Red Velvet Bakery",
+  "formattedAddress": "5GF3+6X5, Javahiru Magu, Malé, Maldives",
+  "phone": "332-3990",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13578036157796382329",
+  "rating": 3.8,
+  "reviewCount": 6,
+  "coords": [
+    4.1730111,
+    73.50497279999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/red-velvet-bakery-male/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:13:46.446Z"
+}

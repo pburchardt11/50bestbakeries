@@ -1,0 +1,30 @@
+{
+  "slug": "kinlin-bakery-laos",
+  "name": "Kinlin Bakery",
+  "city": "Laos",
+  "country": "Laos",
+  "placeId": "ChIJDxTgL3crLzER0dcKfFXR870",
+  "googleName": "Kinlin Bakery",
+  "formattedAddress": "V4HP+WGV, Luang Prabang, Laos",
+  "phone": "020 58 631 121",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13687513857592580049",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    19.879865,
+    102.1362863
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 6:30 PM",
+    "Tuesday: 11:00 AM – 6:30 PM",
+    "Wednesday: Closed",
+    "Thursday: 11:00 AM – 6:30 PM",
+    "Friday: 11:00 AM – 6:30 PM",
+    "Saturday: 11:00 AM – 6:30 PM",
+    "Sunday: 11:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:59:09.166Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-caramel-bourail",
+  "name": "Boulangerie Patisserie Caramel",
+  "city": "Bourail",
+  "country": "New Caledonia",
+  "placeId": "ChIJFVwiixO9nW4RlnHxy4Y0rv8",
+  "googleName": "BOULANGERIE PATISSERIE CARAMEL",
+  "formattedAddress": "CFJX+J89, Bourail, New Caledonia",
+  "phone": "44.19.62",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18423720879171137942",
+  "rating": 4.2,
+  "reviewCount": 12,
+  "coords": [
+    -21.5684661,
+    165.498346
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 12:00 PM",
+    "Tuesday: 5:30 AM – 12:00 PM",
+    "Wednesday: 5:30 AM – 12:00 PM",
+    "Thursday: 5:30 AM – 12:00 PM",
+    "Friday: 5:30 AM – 12:00 PM",
+    "Saturday: 5:30 AM – 12:00 PM",
+    "Sunday: 5:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-caramel-bourail/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:37.791Z"
+}

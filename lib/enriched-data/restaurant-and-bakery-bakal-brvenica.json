@@ -1,0 +1,32 @@
+{
+  "slug": "restaurant-and-bakery-bakal-brvenica",
+  "name": "Restaurant and Bakery \"Bakal\"",
+  "city": "Brvenica",
+  "country": "North Macedonia",
+  "placeId": "ChIJpcKTPRT6UxMRXinYlnmfYUk",
+  "googleName": "Bakal",
+  "formattedAddress": "XX9H+CQG, Marsal Tito, Brvenitsa, North Macedonia",
+  "phone": "070 283 845",
+  "website": "https://m.facebook.com/pages/category/Restaurant/Restoran-Bakal-225492844314291/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5287682782080280926",
+  "rating": 4.7,
+  "reviewCount": 1629,
+  "coords": [
+    41.968573,
+    20.979464
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 12:00 AM",
+    "Tuesday: 11:00 AM – 12:00 AM",
+    "Wednesday: 11:00 AM – 12:00 AM",
+    "Thursday: 11:00 AM – 12:00 AM",
+    "Friday: 11:00 AM – 12:00 AM",
+    "Saturday: 11:00 AM – 1:00 AM",
+    "Sunday: 11:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/restaurant-and-bakery-bakal-brvenica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:42:16.601Z"
+}

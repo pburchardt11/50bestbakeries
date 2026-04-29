@@ -1,0 +1,30 @@
+{
+  "slug": "bake-up",
+  "name": "Bake Up",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJ9Q1Qmh2HZ0AR5xcrH-3Xc7I",
+  "googleName": "Bake&Brew batumi",
+  "formattedAddress": "10 შარტავას, Batumi 6000, Georgia",
+  "phone": "595 03 68 81",
+  "website": "https://www.instagram.com/bake_brew_batumi?igsh=NGxmNDJmdmNmdDY2",
+  "googleMapsUrl": "https://maps.google.com/?cid=12858858774503036903",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    41.6436432,
+    41.6225157
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:14:38.728Z"
+}

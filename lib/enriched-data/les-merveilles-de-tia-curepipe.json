@@ -1,0 +1,32 @@
+{
+  "slug": "les-merveilles-de-tia-curepipe",
+  "name": "Les Merveilles de Tia",
+  "city": "Curepipe",
+  "country": "Mauritius",
+  "placeId": "ChIJGW21R2JdfCERxoY4owCEHyM",
+  "googleName": "Les Merveilles de Tia",
+  "formattedAddress": "Blk A4, Charles Baudelaire, Cite, Malherbes Street, Curepipe, Mauritius",
+  "phone": "5924 6297",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2530886653878765254",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -20.3099987,
+    57.53741259999999
+  ],
+  "openingHours": [
+    "Monday: 1:00 – 9:00 PM",
+    "Tuesday: 1:00 – 9:00 PM",
+    "Wednesday: 1:00 – 9:00 PM",
+    "Thursday: 1:00 – 9:00 PM",
+    "Friday: 1:00 – 9:00 PM",
+    "Saturday: 1:00 – 9:00 PM",
+    "Sunday: 1:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-merveilles-de-tia-curepipe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:04.626Z"
+}

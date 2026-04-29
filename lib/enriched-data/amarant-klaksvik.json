@@ -1,0 +1,32 @@
+{
+  "slug": "amarant-klaksvik",
+  "name": "Amarant",
+  "city": "Klaksvík",
+  "country": "Faroe Islands",
+  "placeId": "ChIJWdGb4SI_vEgRG4BJ29XJL8c",
+  "googleName": "Amarant",
+  "formattedAddress": "6 Klingrugarður, Klaksvík 700, Faroe Islands",
+  "phone": "455314",
+  "website": "https://amarant.fo/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14352912457797304347",
+  "rating": 4.3,
+  "reviewCount": 267,
+  "coords": [
+    62.2211412,
+    -6.574950299999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amarant-klaksvik/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:07:26.666Z"
+}

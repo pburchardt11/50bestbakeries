@@ -1,0 +1,30 @@
+{
+  "slug": "bonjour-bakery",
+  "name": "Bonjour_Bakery",
+  "city": "Алматы",
+  "country": "Kazakhstan",
+  "placeId": "ChIJz-gDhi5pgzgRMAy6xq78tyQ",
+  "googleName": "Bonjour Bakery",
+  "formattedAddress": "Gaynetdin, Musabaev St 36, Almaty 050000, Kazakhstan",
+  "phone": "8 (777) 165 4040",
+  "website": "https://bonjourbakery.kz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2645861133692046384",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    43.1961598,
+    76.86813730000001
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:30 PM",
+    "Tuesday: 8:30 AM – 6:30 PM",
+    "Wednesday: 8:30 AM – 6:30 PM",
+    "Thursday: 8:30 AM – 6:30 PM",
+    "Friday: 8:30 AM – 6:30 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:51:28.047Z"
+}

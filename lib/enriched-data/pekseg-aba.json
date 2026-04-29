@@ -1,0 +1,32 @@
+{
+  "slug": "pekseg-aba",
+  "name": "Pékség",
+  "city": "Aba",
+  "country": "Hungary",
+  "placeId": "ChIJ4ZwmN4fjaUcRIdM-Zl1xEDs",
+  "googleName": "Pékség",
+  "formattedAddress": "Aba, Bocskay u. 2, 8127 Hungary",
+  "phone": "06 30 643 0767",
+  "website": "https://www.facebook.com/profile.php?id=100076705833668",
+  "googleMapsUrl": "https://maps.google.com/?cid=4256026293826409249",
+  "rating": 4.9,
+  "reviewCount": 43,
+  "coords": [
+    47.0319763,
+    18.5265311
+  ],
+  "openingHours": [
+    "Monday: 4:30 AM – 7:00 PM",
+    "Tuesday: 4:30 AM – 7:00 PM",
+    "Wednesday: 4:30 AM – 7:00 PM",
+    "Thursday: 4:30 AM – 7:00 PM",
+    "Friday: 4:30 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekseg-aba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:31:54.728Z"
+}

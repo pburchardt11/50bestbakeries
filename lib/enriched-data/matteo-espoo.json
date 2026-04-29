@@ -1,0 +1,24 @@
+{
+  "slug": "matteo-espoo",
+  "name": "Matteo",
+  "city": "Espoo",
+  "country": "Finland",
+  "placeId": "ChIJQU2Q46n1jUYRPU7jSsC3g1w",
+  "googleName": "Metso",
+  "formattedAddress": "Rauhalanpuisto 9, 02230 Espoo, Finland",
+  "phone": "020 484100",
+  "website": "https://www.metso.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6666373909956480573",
+  "rating": 4.3,
+  "reviewCount": 26,
+  "coords": [
+    60.16373919999999,
+    24.7418119
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/matteo-espoo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:35.233Z"
+}

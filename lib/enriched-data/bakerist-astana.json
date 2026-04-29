@@ -1,0 +1,24 @@
+{
+  "slug": "bakerist-astana",
+  "name": "Bakerist.Astana",
+  "city": "Астана",
+  "country": "Kazakhstan",
+  "placeId": "ChIJ6zVsewCFRUIREGbuezjuoE8",
+  "googleName": "Bakerist",
+  "formattedAddress": "Prospekt Mangilik Yel. 22, 020000, Astana 020000, Kazakhstan",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5737847851634812432",
+  "rating": 4.3,
+  "reviewCount": 30,
+  "coords": [
+    51.11541889999999,
+    71.4347684
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakerist-astana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:52:22.328Z"
+}

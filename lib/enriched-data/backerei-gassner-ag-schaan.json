@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-gassner-ag-schaan",
+  "name": "Bäckerei Gassner AG",
+  "city": "Schaan",
+  "country": "Liechtenstein",
+  "placeId": "ChIJvVSMPAwxm0cRNg4-9iq34FE",
+  "googleName": "Bäckerei Gassner AG",
+  "formattedAddress": "Landstrasse 170, 9494 Schaan, Liechtenstein",
+  "phone": "232 17 10",
+  "website": "http://www.baeckerei-gassner.li/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5899916907003121206",
+  "rating": 4.6,
+  "reviewCount": 121,
+  "coords": [
+    47.1563086,
+    9.5094785
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-gassner-ag-schaan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:05:12.288Z"
+}

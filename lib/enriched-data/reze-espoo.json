@@ -1,0 +1,24 @@
+{
+  "slug": "reze-espoo",
+  "name": "Rezé",
+  "city": "Espoo",
+  "country": "Finland",
+  "placeId": "ChIJkSM3UeH0jUYRlnRvxdZSXIM",
+  "googleName": "Rezé Oy",
+  "formattedAddress": "Korvenrannantie 15, 04320 Tuusula, Finland",
+  "phone": "050 0419433",
+  "website": "http://www.reze.fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9465531599214834838",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    60.37599309999999,
+    25.0311433
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/reze-espoo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:02.252Z"
+}

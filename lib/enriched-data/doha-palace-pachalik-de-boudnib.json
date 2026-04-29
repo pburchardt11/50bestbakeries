@@ -1,0 +1,32 @@
+{
+  "slug": "doha-palace-pachalik-de-boudnib",
+  "name": "Doha Palace",
+  "city": "Pachalik de Boudnib",
+  "country": "Morocco",
+  "placeId": "ChIJq0vBckfurw0R23-BRUdfmII",
+  "googleName": "Bahia Palace",
+  "formattedAddress": "Marrakesh 40000, Morocco",
+  "phone": "05 24 38 95 11",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9410376181104082907",
+  "rating": 4.3,
+  "reviewCount": 22924,
+  "coords": [
+    31.6217067,
+    -7.981968800000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Vast, intricately designed palace with 160 rooms, courtyards & 8 acres of gardens.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/doha-palace-pachalik-de-boudnib/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:27:56.438Z"
+}

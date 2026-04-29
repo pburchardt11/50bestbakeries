@@ -1,0 +1,32 @@
+{
+  "slug": "georg-brot-kaffee-eschen",
+  "name": "Georg Brot & Kaffee",
+  "city": "Eschen",
+  "country": "Liechtenstein",
+  "placeId": "ChIJgXGYrH86m0cRXwic0f3YY9U",
+  "googleName": "Georg Brot & Kaffee",
+  "formattedAddress": "St. Martins-Ring 3, 9492 Eschen, Liechtenstein",
+  "phone": "375 02 12",
+  "website": "http://www.georg.li/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15376372137427994719",
+  "rating": 4.5,
+  "reviewCount": 106,
+  "coords": [
+    47.2124433,
+    9.523155500000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/georg-brot-kaffee-eschen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:05:04.207Z"
+}

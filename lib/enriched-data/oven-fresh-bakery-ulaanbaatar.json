@@ -1,0 +1,32 @@
+{
+  "slug": "oven-fresh-bakery-ulaanbaatar",
+  "name": "Oven Fresh Bakery",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJX0-SC0yTll0R29CuBbKnN7w",
+  "googleName": "Coffee shop OVEN FRESH BAKERY",
+  "formattedAddress": "WW9J+7H9 Peace Avenue, BZD - 6 khoroo, Ulaanbaatar 13373, Mongolia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13562493185890898139",
+  "rating": 3.8,
+  "reviewCount": 65,
+  "coords": [
+    47.9181678,
+    106.9314833
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oven-fresh-bakery-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:24:07.746Z"
+}

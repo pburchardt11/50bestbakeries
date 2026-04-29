@@ -1,0 +1,24 @@
+{
+  "slug": "batit-bakery",
+  "name": "Batit Bakery בית מאפה בטיט",
+  "city": "אילת",
+  "country": "Israel",
+  "placeId": "ChIJfUlciWhxABURX2FwB8Og9mo",
+  "googleName": "בטיט בית מאפה",
+  "formattedAddress": "HaShaham St 348, Eilat, Israel",
+  "phone": "050-528-1488",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7707524571795054943",
+  "rating": 5,
+  "reviewCount": 37,
+  "coords": [
+    29.5627418,
+    34.951465
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/batit-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:24.286Z"
+}

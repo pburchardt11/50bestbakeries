@@ -1,0 +1,32 @@
+{
+  "slug": "pink-cake",
+  "name": "Pink Cake",
+  "city": "طرابلس",
+  "country": "Libya",
+  "placeId": "ChIJRXCG7WDtqBMRjcwErdq3-Ik",
+  "googleName": "Pinkbow Cookies",
+  "formattedAddress": "شارع البريد، Tarabulus, Libya",
+  "phone": "091-0674139",
+  "website": "https://www.pinkbowcookies.ly/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9941898327253896333",
+  "rating": 4.2,
+  "reviewCount": 113,
+  "coords": [
+    32.8743338,
+    13.1255564
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 5:00 – 10:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pink-cake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:04:52.631Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "kokuhusi-kopavogsb-r",
+  "name": "Kökuhúsið",
+  "city": "Kópavogsbær",
+  "country": "Iceland",
+  "placeId": "ChIJrwLluqoM1kgRZsKZj-JJqe4",
+  "googleName": "Kökuhúsið",
+  "formattedAddress": "Auðbrekka 2, 200 Kópavogur, Iceland",
+  "phone": "568 9040",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17197357889511604838",
+  "rating": 4.9,
+  "reviewCount": 45,
+  "coords": [
+    64.11334,
+    -21.902511
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kokuhusi-kopavogsb-r/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:16.307Z"
+}

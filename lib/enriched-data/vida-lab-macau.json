@@ -1,0 +1,32 @@
+{
+  "slug": "vida-lab-macau",
+  "name": "vida lab.",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJu_mluDx7ATQRRb9H_ok0Ze8",
+  "googleName": "vida lab.",
+  "formattedAddress": "MacaoTv. do Ultramar, 6號, Edificio Ka Lok, A號地下B座",
+  "phone": "6370 8710",
+  "website": "https://belindachan23.wixsite.com/vida",
+  "googleMapsUrl": "https://maps.google.com/?cid=17250251714993831749",
+  "rating": 4,
+  "reviewCount": 2,
+  "coords": [
+    22.2006353,
+    113.54567
+  ],
+  "openingHours": [
+    "Monday: 1:00 – 7:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 1:00 – 7:00 PM",
+    "Thursday: 1:00 – 7:00 PM",
+    "Friday: 1:00 – 7:00 PM",
+    "Saturday: 1:00 – 7:00 PM",
+    "Sunday: 1:00 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vida-lab-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:10:33.971Z"
+}

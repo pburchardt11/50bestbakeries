@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-by-des-s-gravendeel",
+  "name": "Bakery.by.des",
+  "city": "'s-Gravendeel",
+  "country": "Netherlands",
+  "placeId": "ChIJqUSNvr4vxEcReUDKCBi4aug",
+  "googleName": "Bakery.by.des",
+  "formattedAddress": "In Het Veldstraat 6A, 3295 AJ 's-Gravendeel, Netherlands",
+  "phone": "06 42020191",
+  "website": "https://bakerybydesteny.wordpress.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16747400577696809081",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    51.7795913,
+    4.621258099999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-by-des-s-gravendeel/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:33:39.851Z"
+}

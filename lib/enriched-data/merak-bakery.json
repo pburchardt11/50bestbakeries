@@ -1,0 +1,32 @@
+{
+  "slug": "merak-bakery",
+  "name": "MERAK Bakery",
+  "city": "Гевгелија",
+  "country": "North Macedonia",
+  "placeId": "ChIJNw4cTQAlVhMRlDPcvBDQ-YE",
+  "googleName": "MERAK BAKERY",
+  "formattedAddress": "Marshal Tito, Gevgelija, North Macedonia",
+  "phone": "070 292 411",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9365745670400258964",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    41.1405119,
+    22.5052727
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 1:00 PM, 7:00 – 10:00 PM",
+    "Tuesday: 6:00 AM – 1:00 PM, 7:00 – 10:00 PM",
+    "Wednesday: 6:00 AM – 1:00 PM, 7:00 – 10:00 PM",
+    "Thursday: 6:00 AM – 1:00 PM, 7:00 – 10:00 PM",
+    "Friday: 6:00 AM – 1:00 PM, 7:00 PM – 12:00 AM",
+    "Saturday: 6:00 AM – 1:00 PM, 7:00 PM – 12:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/merak-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:43:50.268Z"
+}

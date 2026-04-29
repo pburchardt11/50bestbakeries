@@ -1,0 +1,32 @@
+{
+  "slug": "cookes-monivea-the-bakehouse-athenry",
+  "name": "Cookes Monivea - The Bakehouse",
+  "city": "Athenry",
+  "country": "Ireland",
+  "placeId": "ChIJjz2MGxCIW0gRUNfyLEI92BE",
+  "googleName": "The Foods of Athenry",
+  "formattedAddress": "Caherakilleen, Oldcastle, Co. Galway, H65 DY95, Ireland",
+  "phone": "(091) 848 152",
+  "website": "https://www.foodsofathenry.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1285845048045524816",
+  "rating": 4.8,
+  "reviewCount": 54,
+  "coords": [
+    53.2616579,
+    -8.6633297
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cookes-monivea-the-bakehouse-athenry/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:39:58.027Z"
+}

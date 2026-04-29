@@ -1,0 +1,32 @@
+{
+  "slug": "el-amira-baie-mahault",
+  "name": "El AMIRA",
+  "city": "Baie-Mahault",
+  "country": "Guadeloupe",
+  "placeId": "ChIJRR0ErTG7oRQRlGbOLqYNcvM",
+  "googleName": "El Amira",
+  "formattedAddress": "Leof. Ir. Politechniou 55, Pireas 185 35, Greece",
+  "phone": "21 0400 0448",
+  "website": "https://elamira.gr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17542098505962514068",
+  "rating": 4.1,
+  "reviewCount": 114,
+  "coords": [
+    37.9408269,
+    23.6455254
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 3:00 PM",
+    "Tuesday: 10:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+    "Wednesday: 10:00 AM – 3:00 PM",
+    "Thursday: 10:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+    "Friday: 10:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-amira-baie-mahault/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:21:04.352Z"
+}

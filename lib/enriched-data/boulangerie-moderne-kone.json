@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-moderne-kone",
+  "name": "Boulangerie moderne",
+  "city": "Koné",
+  "country": "New Caledonia",
+  "placeId": "ChIJvd4GyA-Enm4Rhf5AO6_VoIQ",
+  "googleName": "Boulangerie moderne",
+  "formattedAddress": "133 Av. de Bako, Koné, New Caledonia",
+  "phone": "42.36.18",
+  "website": "https://www.facebook.com/BoulangerieModerneKone",
+  "googleMapsUrl": "https://maps.google.com/?cid=9556873357870300805",
+  "rating": 4.7,
+  "reviewCount": 9,
+  "coords": [
+    -21.0600565,
+    164.8638774
+  ],
+  "openingHours": [
+    "Monday: 4:00 AM – 6:00 PM",
+    "Tuesday: 4:00 AM – 6:00 PM",
+    "Wednesday: 4:00 AM – 6:00 PM",
+    "Thursday: 4:00 AM – 6:00 PM",
+    "Friday: 4:00 AM – 6:00 PM",
+    "Saturday: 5:00 – 11:00 AM",
+    "Sunday: 5:00 – 11:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-moderne-kone/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:47.044Z"
+}

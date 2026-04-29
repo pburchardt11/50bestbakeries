@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-cake",
+  "name": "Sweet Cake",
+  "city": "السليمانية",
+  "country": "Iraq",
+  "placeId": "ChIJ_QoIjTksAEARyIZYJ2Fv92I",
+  "googleName": "King Cake",
+  "formattedAddress": "Mamostayan Street, Sulaymaniyah, Sulaymaniyah Governorate, 46001, Iraq",
+  "phone": "0773 061 0842",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7131290998027093704",
+  "rating": 4.3,
+  "reviewCount": 92,
+  "coords": [
+    35.5656673,
+    45.4384753
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:30 PM",
+    "Tuesday: 8:00 AM – 11:30 PM",
+    "Wednesday: 8:00 AM – 11:30 PM",
+    "Thursday: 8:00 AM – 11:30 PM",
+    "Friday: 8:00 AM – 11:30 PM",
+    "Saturday: 8:00 AM – 11:30 PM",
+    "Sunday: 8:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-cake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:38:21.777Z"
+}

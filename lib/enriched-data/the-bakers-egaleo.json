@@ -1,0 +1,32 @@
+{
+  "slug": "the-bakers-egaleo",
+  "name": "The Bakers",
+  "city": "Egaleo",
+  "country": "Greece",
+  "placeId": "ChIJp-Fz8Lq8oRQRjDlJzjt9jAI",
+  "googleName": "The Bakers Egaleo",
+  "formattedAddress": "Dimarchiou 4, Egaleo 122 42, Greece",
+  "phone": "21 0591 0055",
+  "website": "http://www.thebakers.gr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=183659380632795532",
+  "rating": 4.2,
+  "reviewCount": 481,
+  "coords": [
+    37.9915533,
+    23.6824001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:20 PM",
+    "Tuesday: 7:00 AM – 8:20 PM",
+    "Wednesday: 7:00 AM – 8:20 PM",
+    "Thursday: 7:00 AM – 8:20 PM",
+    "Friday: 7:00 AM – 8:20 PM",
+    "Saturday: 7:00 AM – 8:20 PM",
+    "Sunday: 7:00 AM – 8:20 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakers-egaleo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:23.887Z"
+}

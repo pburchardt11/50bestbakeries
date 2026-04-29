@@ -1,0 +1,32 @@
+{
+  "slug": "anneli-maiused-maardu",
+  "name": "Anneli Maiused",
+  "city": "Maardu",
+  "country": "Estonia",
+  "placeId": "ChIJH6Y3xnXtkkYRcrsZFAWdRDQ",
+  "googleName": "Anneli Maiused",
+  "formattedAddress": "Kivileete tn 8, Maardu, 74117 Harju maakond, Estonia",
+  "phone": "5567 0348",
+  "website": "https://www.annelimaiused.ee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3766307833526205298",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    59.4788984,
+    24.9616045
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/anneli-maiused-maardu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:27.255Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-vig",
+  "name": "Pekara Vig",
+  "city": "Велес",
+  "country": "North Macedonia",
+  "placeId": "ChIJ7RmxZ8wrVBMROtQvIUlvcao",
+  "googleName": "VIG Bakery",
+  "formattedAddress": "Blagoj Gjorev 67, Veles 1400, North Macedonia",
+  "phone": "043 211 215",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12281720018696131642",
+  "rating": 4.3,
+  "reviewCount": 145,
+  "coords": [
+    41.7171367,
+    21.7754947
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-vig/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:43:20.770Z"
+}

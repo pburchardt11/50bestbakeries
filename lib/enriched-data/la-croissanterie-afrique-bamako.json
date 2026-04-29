@@ -1,0 +1,32 @@
+{
+  "slug": "la-croissanterie-afrique-bamako",
+  "name": "La Croissanterie Afrique",
+  "city": "Bamako",
+  "country": "Mali",
+  "placeId": "ChIJM8ex-h_RUQ4RfpH4fWWxlxw",
+  "googleName": "La Croissanterie",
+  "formattedAddress": "RN6, Niamana, Bamako, Mali",
+  "phone": "76 36 55 95",
+  "website": "https://www.lacroissanterie.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2060310404008546686",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    12.639232,
+    -8.002889
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-croissanterie-afrique-bamako/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:31.401Z"
+}

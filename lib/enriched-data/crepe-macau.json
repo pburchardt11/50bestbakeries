@@ -1,0 +1,32 @@
+{
+  "slug": "crepe-macau",
+  "name": "Crêpe Macau",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJB4yZDgZ7ATQRgmjFaV04B4o",
+  "googleName": "Crêpe Macau",
+  "formattedAddress": "MacaoPatio de Chon Sau, 20號, Edificio Cheong Hei, 地下B座",
+  "phone": "6580 9390",
+  "website": "https://m.facebook.com/crepemacau/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9945980275928688770",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    22.1969119,
+    113.5400316
+  ],
+  "openingHours": [
+    "Monday: 1:00 – 8:00 PM",
+    "Tuesday: 1:00 – 8:00 PM",
+    "Wednesday: 1:00 – 8:00 PM",
+    "Thursday: 1:00 – 8:00 PM",
+    "Friday: 1:00 – 8:00 PM",
+    "Saturday: 1:00 – 8:00 PM",
+    "Sunday: 1:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crepe-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:53.683Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "origine-bourail",
+  "name": "Origine",
+  "city": "Bourail",
+  "country": "New Caledonia",
+  "placeId": "ChIJ63ummzK9nW4RVLDIQBA8MpY",
+  "googleName": "Betikure Parc Lodge",
+  "formattedAddress": "Lieu dit \"la Taraudière\", Boite 352, Bourail 98870, New Caledonia",
+  "phone": "46.23.60",
+  "website": "http://www.betikure.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10822778895028760660",
+  "rating": 4.3,
+  "reviewCount": 155,
+  "coords": [
+    -21.5621926,
+    165.5279847
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Simply furnished rooms & suites in a casual lodge offering open-air dining, a bar & an outdoor pool.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/origine-bourail/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:33.329Z"
+}

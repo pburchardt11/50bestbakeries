@@ -1,0 +1,32 @@
+{
+  "slug": "the-corner-bakery-suva",
+  "name": "The Corner Bakery",
+  "city": "Suva",
+  "country": "Fiji",
+  "placeId": "ChIJ6zi1PtDfG24R1PThNF_OaFI",
+  "googleName": "The Corner Bakery",
+  "formattedAddress": "192 Princess Road , Tamavua Kundan Village Bure 2, Suva, Fiji",
+  "phone": "338 3656",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5938223016992437460",
+  "rating": 4.4,
+  "reviewCount": 20,
+  "coords": [
+    -18.1142331,
+    178.4385791
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-corner-bakery-suva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:10:20.352Z"
+}

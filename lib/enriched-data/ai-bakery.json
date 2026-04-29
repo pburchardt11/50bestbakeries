@@ -1,0 +1,32 @@
+{
+  "slug": "ai-bakery",
+  "name": "Ai bakery",
+  "city": "Алматы",
+  "country": "Kazakhstan",
+  "placeId": "ChIJZftalNJpgzgRPItS_peqQNw",
+  "googleName": "Ai bakery",
+  "formattedAddress": "м-н Жетысу-2 57а, Almaty 050063, Kazakhstan",
+  "phone": "8 (702) 323 5234",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15870872656637233980",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    43.2211722,
+    76.8475649
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ai-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:51:46.299Z"
+}

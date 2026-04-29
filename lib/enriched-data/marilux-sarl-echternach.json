@@ -1,0 +1,32 @@
+{
+  "slug": "marilux-sarl-echternach",
+  "name": "Marilux Sàrl",
+  "city": "Echternach",
+  "country": "Luxembourg",
+  "placeId": "ChIJ2a-W3TJelUcRWY67zb8k7LM",
+  "googleName": "Marilux Sàrl",
+  "formattedAddress": "8 Rue Martin Maas, 6468 Echternach, Luxembourg",
+  "phone": "26 72 16 16",
+  "website": "http://www.marilux.lu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12964777833501789785",
+  "rating": 4.3,
+  "reviewCount": 20,
+  "coords": [
+    49.8035656,
+    6.4481183
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marilux-sarl-echternach/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:19.582Z"
+}

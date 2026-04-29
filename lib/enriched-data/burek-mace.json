@@ -1,0 +1,32 @@
+{
+  "slug": "burek-mace",
+  "name": "Burek MACE",
+  "city": "Велес",
+  "country": "North Macedonia",
+  "placeId": "ChIJtUZ53nMrVBMRzy95smnt7_E",
+  "googleName": "Burek MACE",
+  "formattedAddress": "Boris Trajkovski 18, Veles 1400, North Macedonia",
+  "phone": "070 249 510",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17433413720796114895",
+  "rating": 4.9,
+  "reviewCount": 8,
+  "coords": [
+    41.7175862,
+    21.767792
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 12:30 PM",
+    "Tuesday: 5:00 AM – 12:30 PM",
+    "Wednesday: 5:00 AM – 12:30 PM",
+    "Thursday: 5:00 AM – 12:30 PM",
+    "Friday: 5:00 AM – 12:30 PM",
+    "Saturday: 5:00 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/burek-mace/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:43:25.406Z"
+}

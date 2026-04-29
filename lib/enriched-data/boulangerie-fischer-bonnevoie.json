@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-fischer-bonnevoie",
+  "name": "Boulangerie Fischer",
+  "city": "Bonnevoie",
+  "country": "Luxembourg",
+  "placeId": "ChIJDfKuKcRIlUcRPxvvFPeRMQg",
+  "googleName": "Fischer",
+  "formattedAddress": "117 Rue de Bonnevoie, 1261 Bouneweg-Süd Lëtzebuerg, Luxembourg",
+  "phone": "49 06 78",
+  "website": "https://fischer1913.com/fr-lu/nos-salons/fischer-bonnevoie",
+  "googleMapsUrl": "https://maps.google.com/?cid=590413516556409663",
+  "rating": 4.1,
+  "reviewCount": 307,
+  "coords": [
+    49.5976187,
+    6.1379503
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 12:30 PM",
+    "Sunday: 6:30 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-fischer-bonnevoie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:21.933Z"
+}

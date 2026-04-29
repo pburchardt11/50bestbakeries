@@ -1,0 +1,32 @@
+{
+  "slug": "astu-s-pastry-wereda-16",
+  "name": "Astu's Pastry",
+  "city": "Wereda 16",
+  "country": "Ethiopia",
+  "placeId": "ChIJvaFjKJeFSxYR_ya5ABDxMFU",
+  "googleName": "Astu's Pastry",
+  "formattedAddress": "Megenagna, Addis Ababa, Ethiopia",
+  "phone": "091 111 5345",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6138671343139890943",
+  "rating": 4,
+  "reviewCount": 4,
+  "coords": [
+    9.0213909,
+    38.80250729999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/astu-s-pastry-wereda-16/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:07:01.649Z"
+}

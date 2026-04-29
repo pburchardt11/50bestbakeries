@@ -1,0 +1,32 @@
+{
+  "slug": "le-bready-conakry",
+  "name": "Le Bready",
+  "city": "Conakry",
+  "country": "Guinea",
+  "placeId": "ChIJRT8-KADXHA8RtNFTdisasE4",
+  "googleName": "le bready (boulangerie - patisserie - traiteur) guinée",
+  "formattedAddress": "H88Q+6M6, Rte de Donka, Conakry, Guinea",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5670060704830575028",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    9.5655254,
+    -13.6608568
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-bready-conakry/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:25:14.712Z"
+}

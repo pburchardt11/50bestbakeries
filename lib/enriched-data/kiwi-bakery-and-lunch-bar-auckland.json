@@ -1,0 +1,32 @@
+{
+  "slug": "kiwi-bakery-and-lunch-bar-auckland",
+  "name": "Kiwi Bakery and Lunch Bar",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJH5ZL6W9SDW0RzIsXiuK3o1c",
+  "googleName": "Kiwi Bakery and Lunch Bar",
+  "formattedAddress": "108 Weymouth Road, Manurewa, Auckland 2102, New Zealand",
+  "phone": "09 268 0779",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6315093286110858188",
+  "rating": 4.4,
+  "reviewCount": 14,
+  "coords": [
+    -37.0279043,
+    174.8873812
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:30 PM",
+    "Tuesday: 7:00 AM – 4:30 PM",
+    "Wednesday: 7:00 AM – 4:30 PM",
+    "Thursday: 7:00 AM – 4:30 PM",
+    "Friday: 7:00 AM – 4:30 PM",
+    "Saturday: 7:00 AM – 4:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kiwi-bakery-and-lunch-bar-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:51.459Z"
+}

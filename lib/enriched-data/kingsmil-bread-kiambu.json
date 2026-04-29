@@ -1,0 +1,32 @@
+{
+  "slug": "kingsmil-bread-kiambu",
+  "name": "Kingsmil Bread",
+  "city": "Kiambu",
+  "country": "Kenya",
+  "placeId": "ChIJPZx0EF8_LxgRdR-resNSXFk",
+  "googleName": "Kenafric Bakery Limited",
+  "formattedAddress": "Off Thika Road, and, Eastern Bypass, Ruiru, Kenya",
+  "phone": "0722 323175",
+  "website": "http://www.kingsmilbread.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6439112566763102069",
+  "rating": 4.5,
+  "reviewCount": 101,
+  "coords": [
+    -1.165428,
+    36.9496883
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kingsmil-bread-kiambu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:53:33.721Z"
+}

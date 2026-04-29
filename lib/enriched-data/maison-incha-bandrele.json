@@ -1,0 +1,32 @@
+{
+  "slug": "maison-incha-bandrele",
+  "name": "Maison Incha",
+  "city": "Bandrele",
+  "country": "Mayotte",
+  "placeId": "ChIJp_sFNH4bCiIR6o1lwE5ys8A",
+  "googleName": "Maison Incha",
+  "formattedAddress": "NYAMBADAO, 1114 Boulevard Marcel Henry, Bandrélé 97660, Mayotte",
+  "phone": "0639 39 80 60",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13885567758674267626",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -12.893619,
+    45.2011622
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-incha-bandrele/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:55.008Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-jeitz-consdorf",
+  "name": "Boulangerie-Pâtisserie Jeitz",
+  "city": "Consdorf",
+  "country": "Luxembourg",
+  "placeId": "ChIJzWq-2pVelUcRZ1rVCK7xSk4",
+  "googleName": "Boulangerie-Pâtisserie Jeitz Sàrl",
+  "formattedAddress": "7 Rte de Luxembourg, 6210 Consdorf, Luxembourg",
+  "phone": "79 00 40",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5641587213009771111",
+  "rating": 4.5,
+  "reviewCount": 256,
+  "coords": [
+    49.7789501,
+    6.3378814
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:00 PM, 2:00 – 6:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 6:30 AM – 12:00 PM, 2:00 – 6:00 PM",
+    "Friday: 6:30 AM – 12:00 PM, 2:00 – 6:00 PM",
+    "Saturday: 6:30 AM – 12:00 PM, 2:00 – 5:00 PM",
+    "Sunday: 7:00 – 11:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-jeitz-consdorf/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:28.383Z"
+}

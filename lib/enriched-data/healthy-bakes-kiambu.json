@@ -1,0 +1,32 @@
+{
+  "slug": "healthy-bakes-kiambu",
+  "name": "Healthy Bakes",
+  "city": "Kiambu",
+  "country": "Kenya",
+  "placeId": "ChIJBY7Enss9LxgRJliAkgvupEQ",
+  "googleName": "The Rapha Bake & Brew Garden",
+  "formattedAddress": "Kiambu, Kenya",
+  "phone": "0793 323114",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4946340024229582886",
+  "rating": 4.8,
+  "reviewCount": 47,
+  "coords": [
+    -1.1719353,
+    36.825332
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 11:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/healthy-bakes-kiambu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:54:06.899Z"
+}

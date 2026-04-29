@@ -1,0 +1,32 @@
+{
+  "slug": "green-shop-patties-clarendon",
+  "name": "Green Shop Patties",
+  "city": "Clarendon",
+  "country": "Jamaica",
+  "placeId": "ChIJrwzBsBuf244RE0I-iZZVTlY",
+  "googleName": "Green Shop Patties",
+  "formattedAddress": "24 Main St, May Pen, Jamaica",
+  "phone": "(876) 986-4032",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6219002240481247763",
+  "rating": 4,
+  "reviewCount": 4,
+  "coords": [
+    17.9671901,
+    -77.2410821
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:30 PM",
+    "Tuesday: 8:00 AM – 5:30 PM",
+    "Wednesday: 8:00 AM – 5:30 PM",
+    "Thursday: 8:00 AM – 5:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/green-shop-patties-clarendon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:27.049Z"
+}

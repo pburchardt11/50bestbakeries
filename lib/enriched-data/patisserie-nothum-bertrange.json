@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-nothum-bertrange",
+  "name": "Pâtisserie Nothum",
+  "city": "Bertrange",
+  "country": "Luxembourg",
+  "placeId": "ChIJ40lt7_JLlUcRXLVxirLo8Fo",
+  "googleName": "Nothum Patrick",
+  "formattedAddress": "3-5 Rue de Mamer, 8081 Bertrange, Luxembourg",
+  "phone": "31 98 23",
+  "website": "http://www.patisserie-strasser-nothum.lu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6552993311348602204",
+  "rating": 4.1,
+  "reviewCount": 211,
+  "coords": [
+    49.611192,
+    6.048749
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-nothum-bertrange/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:07.528Z"
+}

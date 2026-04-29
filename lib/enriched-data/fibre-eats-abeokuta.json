@@ -1,0 +1,32 @@
+{
+  "slug": "fibre-eats-abeokuta",
+  "name": "Fibre Eats",
+  "city": "Abeokuta",
+  "country": "Nigeria",
+  "placeId": "ChIJAQAAQLE3OhARvTDFbSO-eYU",
+  "googleName": "Fibreats",
+  "formattedAddress": "OLUWO KEESI, ROAD, Abeokuta 110001, Ogun State, Nigeria",
+  "phone": "0810 503 6456",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9617927538601177277",
+  "rating": 4.9,
+  "reviewCount": 17,
+  "coords": [
+    7.216079899999999,
+    3.4458982
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fibre-eats-abeokuta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:40:48.345Z"
+}

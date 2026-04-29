@@ -1,0 +1,32 @@
+{
+  "slug": "lenotre-chuo",
+  "name": "LENÔTRE()",
+  "city": "Chūō",
+  "country": "Japan",
+  "placeId": "ChIJsUaqLkqLGGARxS2JTBJbu3c",
+  "googleName": "LENÔTRE Tokyo Branch",
+  "formattedAddress": "Japan, 〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1-chōme−5−１ 新丸の内ビルディング １階",
+  "phone": "03-6551-2850",
+  "website": "https://www.lenotrejp.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8627589645309914565",
+  "rating": 4.3,
+  "reviewCount": 67,
+  "coords": [
+    35.6826562,
+    139.7639791
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:00 PM",
+    "Tuesday: 11:00 AM – 9:00 PM",
+    "Wednesday: 11:00 AM – 9:00 PM",
+    "Thursday: 11:00 AM – 9:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lenotre-chuo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:57.936Z"
+}

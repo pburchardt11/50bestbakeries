@@ -1,0 +1,32 @@
+{
+  "slug": "qamishlo-irbil",
+  "name": "Qamishlo",
+  "city": "Irbil",
+  "country": "Iraq",
+  "placeId": "ChIJPZW8IHAlB0ARbX-DNB2AP7w",
+  "googleName": "Qamishli Market",
+  "formattedAddress": "5, hasarok, Erbil, Erbil Governorate, Iraq",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13564701465586663277",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    36.1667593,
+    44.063993
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 12:00 PM",
+    "Tuesday: 8:30 AM – 12:00 PM",
+    "Wednesday: 8:30 AM – 12:00 PM",
+    "Thursday: 8:30 AM – 12:00 PM",
+    "Friday: 8:30 AM – 12:00 PM",
+    "Saturday: 8:30 AM – 12:00 PM",
+    "Sunday: 8:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/qamishlo-irbil/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:37:10.139Z"
+}

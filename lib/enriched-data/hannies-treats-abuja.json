@@ -1,0 +1,32 @@
+{
+  "slug": "hannies-treats-abuja",
+  "name": "Hannies Treats",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "placeId": "ChIJfbmgCnwLThARGQ5XC5bssxs",
+  "googleName": "Hannies Treats",
+  "formattedAddress": "Wuse 1, Wupa 904101, Federal Capital Territory, Nigeria",
+  "phone": "0809 737 2400",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1996199189034765849",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    9.0506469,
+    7.464787799999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hannies-treats-abuja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:41:38.402Z"
+}

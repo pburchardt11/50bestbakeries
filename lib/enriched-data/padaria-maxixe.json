@@ -1,0 +1,32 @@
+{
+  "slug": "padaria-maxixe",
+  "name": "Padaria",
+  "city": "Maxixe",
+  "country": "Mozambique",
+  "placeId": "ChIJze0K0TTOIR8R5M5QTzpXSds",
+  "googleName": "Padaria Online",
+  "formattedAddress": "48RW+WF8, Maxixe, Mozambique",
+  "phone": "84 447 6997",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15801256675556511460",
+  "rating": 4,
+  "reviewCount": 164,
+  "coords": [
+    -23.8577046,
+    35.3461893
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 9:00 PM",
+    "Tuesday: 5:30 AM – 9:00 PM",
+    "Wednesday: 5:30 AM – 9:00 PM",
+    "Thursday: 5:30 AM – 9:00 PM",
+    "Friday: 5:30 AM – 9:00 PM",
+    "Saturday: 5:30 AM – 9:00 PM",
+    "Sunday: 5:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-maxixe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:29:40.161Z"
+}

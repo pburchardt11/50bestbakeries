@@ -1,0 +1,30 @@
+{
+  "slug": "panaderia-iris-distrito-central",
+  "name": "Panadería Iris",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJxaEOQ9m8b48Rnp_1UgjaQcg",
+  "googleName": "Panadería Iris",
+  "formattedAddress": "3R9C+2R2, Tegucigalpa, Francisco Morazán, Honduras",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14430054410358202270",
+  "rating": 4,
+  "reviewCount": 3,
+  "coords": [
+    14.0675095,
+    -87.1779741
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:29:14.930Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "la-shishko",
+  "name": "La Shishko",
+  "city": "Гостивар",
+  "country": "North Macedonia",
+  "placeId": "ChIJ9xruIPZXURMRunDNeOaGTKE",
+  "googleName": "Shishko",
+  "formattedAddress": "QWR4+2G8, Gostivar 1230, North Macedonia",
+  "phone": "070 666 635",
+  "website": "https://modivia.net/restaurant/lashishko",
+  "googleMapsUrl": "https://maps.google.com/?cid=11622813062763737274",
+  "rating": 4.7,
+  "reviewCount": 48,
+  "coords": [
+    41.7900284,
+    20.9063303
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: 11:00 AM – 5:00 AM",
+    "Friday: 12:00 PM – 12:00 AM",
+    "Saturday: Open 24 hours",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-shishko/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:00.520Z"
+}

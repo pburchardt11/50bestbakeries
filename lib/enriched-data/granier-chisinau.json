@@ -1,0 +1,32 @@
+{
+  "slug": "granier-chisinau",
+  "name": "Granier",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJfxx37Ex5yUARiZ3AhOGlomY",
+  "googleName": "Granier",
+  "formattedAddress": "Bulevardul Dacia 23, Chișinău, Moldova",
+  "phone": "0788 00 226",
+  "website": "http://granier.md/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7395655926109216137",
+  "rating": 4.6,
+  "reviewCount": 517,
+  "coords": [
+    46.9870218,
+    28.8581503
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:30 PM",
+    "Tuesday: 7:30 AM – 8:30 PM",
+    "Wednesday: 7:30 AM – 8:30 PM",
+    "Thursday: 7:30 AM – 8:30 PM",
+    "Friday: 7:30 AM – 8:30 PM",
+    "Saturday: 7:30 AM – 8:30 PM",
+    "Sunday: 7:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/granier-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:12.990Z"
+}

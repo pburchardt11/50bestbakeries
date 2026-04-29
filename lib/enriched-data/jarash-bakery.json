@@ -1,0 +1,32 @@
+{
+  "slug": "jarash-bakery",
+  "name": "Jarash Bakery",
+  "city": "بغداد",
+  "country": "Iraq",
+  "placeId": "ChIJ1zdXbsuBVxURvtjNziJNwg8",
+  "googleName": "Jarash Bakery",
+  "formattedAddress": "7CR7+7M7, Baghdad, Baghdad Governorate, Iraq",
+  "phone": "0772 141 1108",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1135554867944609982",
+  "rating": 4.2,
+  "reviewCount": 59,
+  "coords": [
+    33.2906637,
+    44.4141809
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jarash-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:39:18.714Z"
+}

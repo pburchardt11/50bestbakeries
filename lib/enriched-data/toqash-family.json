@@ -1,0 +1,32 @@
+{
+  "slug": "toqash-family",
+  "name": "Toqash Family",
+  "city": "Астана",
+  "country": "Kazakhstan",
+  "placeId": "ChIJ2WwQEcyGRUIRIdpSwI2kK1g",
+  "googleName": "Кондитерская \"Аяшка\" — Республика",
+  "formattedAddress": "Respublika Ave 5, Astana 010000, Kazakhstan",
+  "phone": "8 (708) 276 5181",
+  "website": "http://ayashkabakery.kz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6353352628060215841",
+  "rating": 4.6,
+  "reviewCount": 102,
+  "coords": [
+    51.1590977,
+    71.428673
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/toqash-family/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:51:59.043Z"
+}

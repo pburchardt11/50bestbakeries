@@ -1,0 +1,32 @@
+{
+  "slug": "bakers-basket-male",
+  "name": "Bakers Basket",
+  "city": "Malé",
+  "country": "Maldives",
+  "placeId": "ChIJqXLTT71_PzsRYVeh-r0ZLr0",
+  "googleName": "Bakers Basket",
+  "formattedAddress": "H. Hevatha 3rd Floor, Bodufungandu Magu, Malé, Maldives",
+  "phone": "954-3661",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13631861425841461089",
+  "rating": 2.7,
+  "reviewCount": 22,
+  "coords": [
+    4.1724503,
+    73.51663839999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-basket-male/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:13:22.913Z"
+}

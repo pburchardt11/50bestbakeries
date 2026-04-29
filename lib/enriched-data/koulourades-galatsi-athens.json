@@ -1,0 +1,32 @@
+{
+  "slug": "koulourades-galatsi-athens",
+  "name": "Koulourades_Galatsi",
+  "city": "Athens",
+  "country": "Greece",
+  "placeId": "ChIJzSwblXi9oRQRY1YMGv-SR_w",
+  "googleName": "Koulourades since 1956",
+  "formattedAddress": "Kolokotroni 22, Athina 105 62, Greece",
+  "phone": "21 0321 6944",
+  "website": "https://koulourades.gr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18178660045255628387",
+  "rating": 4.9,
+  "reviewCount": 100,
+  "coords": [
+    37.9776886,
+    23.7306478
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 3:00 PM",
+    "Tuesday: 6:30 AM – 3:00 PM",
+    "Wednesday: 6:30 AM – 3:00 PM",
+    "Thursday: 6:30 AM – 3:00 PM",
+    "Friday: 6:30 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/koulourades-galatsi-athens/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:18:49.140Z"
+}

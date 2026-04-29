@@ -1,0 +1,32 @@
+{
+  "slug": "bakker-van-keulen-s-hertogenbosch",
+  "name": "Bakker van Keulen",
+  "city": "'s-Hertogenbosch",
+  "country": "Netherlands",
+  "placeId": "ChIJBfSDMSLuxkcR1oSDNjDo0L4",
+  "googleName": "Bakkerij van Keulen 🍞",
+  "formattedAddress": "Lokerenpassage 148, 5235 KS 's-Hertogenbosch, Netherlands",
+  "phone": "073 645 0708",
+  "website": "https://www.bakkerijvankeulen.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13749744956132787414",
+  "rating": 4.3,
+  "reviewCount": 44,
+  "coords": [
+    51.7261315,
+    5.307782200000001
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-van-keulen-s-hertogenbosch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:24.514Z"
+}

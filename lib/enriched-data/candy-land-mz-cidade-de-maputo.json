@@ -1,0 +1,32 @@
+{
+  "slug": "candy-land-mz-cidade-de-maputo",
+  "name": "Candy Land MZ",
+  "city": "Cidade de Maputo",
+  "country": "Mozambique",
+  "placeId": "ChIJs6uK9oyb5h4RTUFwnkignw8",
+  "googleName": "Candy Land MZ",
+  "formattedAddress": "Rua da Micaia, Maputo, Mozambique",
+  "phone": "84 026 6354",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1125794665622159693",
+  "rating": 3,
+  "reviewCount": 2,
+  "coords": [
+    -25.930495,
+    32.6269407
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:30 PM",
+    "Tuesday: 9:00 AM – 4:30 PM",
+    "Wednesday: 9:00 AM – 4:30 PM",
+    "Thursday: 9:00 AM – 4:30 PM",
+    "Friday: 9:00 AM – 4:30 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/candy-land-mz-cidade-de-maputo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:28:50.718Z"
+}

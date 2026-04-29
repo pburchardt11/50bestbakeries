@@ -1,0 +1,32 @@
+{
+  "slug": "la-palmeraie-cafe-bakery",
+  "name": "La Palmeraie Cafe & Bakery",
+  "city": "نواكشوط",
+  "country": "Mauritania",
+  "placeId": "ChIJk0RhsHBNlg4RtyWWVZ8LUgU",
+  "googleName": "La Palmeraie Cafe & Bakery",
+  "formattedAddress": "32Q8+JQH, Rue Ahmed Ould Mohamed, Nouakchott, Mauritania",
+  "phone": "45 25 73 44",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=383381697243522487",
+  "rating": 4,
+  "reviewCount": 188,
+  "coords": [
+    18.089073,
+    -15.9830013
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-palmeraie-cafe-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:18:13.394Z"
+}

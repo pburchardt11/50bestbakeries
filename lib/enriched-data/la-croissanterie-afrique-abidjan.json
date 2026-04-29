@@ -1,0 +1,32 @@
+{
+  "slug": "la-croissanterie-afrique-abidjan",
+  "name": "La Croissanterie Afrique",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJjyeYUJvrwQ8RnF67oVenGJ4",
+  "googleName": "La Croissanterie",
+  "formattedAddress": "Face RTI, Bd des Martyrs, Abidjan, Côte d'Ivoire",
+  "phone": "05 66 34 1817",
+  "website": "https://www.lacroissanterie.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11392039252251074204",
+  "rating": 3.7,
+  "reviewCount": 176,
+  "coords": [
+    5.366299,
+    -3.997642
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-croissanterie-afrique-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:44:58.042Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "joma-bakery-cafe-laos",
+  "name": "Joma Bakery Cafe",
+  "city": "Laos",
+  "country": "Laos",
+  "placeId": "ChIJ-d-HZdBnJDEROQvIGy1azUk",
+  "googleName": "Joma Bakery Cafe That Luang",
+  "formattedAddress": "Nongbone Road, 1 Nongbone 1 Rd, ວຽງຈັນ, Laos",
+  "phone": "021 453 618",
+  "website": "http://www.joma.biz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5318005884780546873",
+  "rating": 4.3,
+  "reviewCount": 633,
+  "coords": [
+    17.9748016,
+    102.6310198
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/joma-bakery-cafe-laos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:59:20.035Z"
+}

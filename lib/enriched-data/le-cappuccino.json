@@ -1,0 +1,30 @@
+{
+  "slug": "le-cappuccino",
+  "name": "Le Cappuccino",
+  "city": "اربد",
+  "country": "Jordan",
+  "placeId": "ChIJOaf3f1V3HBURTHpa7ba6SXg",
+  "googleName": "Le Cappuccino",
+  "formattedAddress": "GVJH+J3H, Irbid, Jordan",
+  "phone": "07 9717 1252",
+  "website": "https://www.facebook.com/Le-Cappuccino-159337341512270/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8667664252680174156",
+  "rating": 3.7,
+  "reviewCount": 3,
+  "coords": [
+    32.5315626,
+    35.8777399
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:49:17.291Z"
+}

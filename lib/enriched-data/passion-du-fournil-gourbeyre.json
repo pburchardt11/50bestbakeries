@@ -1,0 +1,32 @@
+{
+  "slug": "passion-du-fournil-gourbeyre",
+  "name": "Passion Du Fournil",
+  "city": "Gourbeyre",
+  "country": "Guadeloupe",
+  "placeId": "ChIJz9sfFzqfFIwR0I3f1onaB6o",
+  "googleName": "PASSION DU FOURNIL",
+  "formattedAddress": "Marina, Gourbeyre 97113, Guadeloupe",
+  "phone": "0590 61 81 66",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12252001596835073488",
+  "rating": 4.8,
+  "reviewCount": 72,
+  "coords": [
+    15.9841266,
+    -61.7160419
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:30 PM",
+    "Tuesday: 5:30 AM – 6:30 PM",
+    "Wednesday: 5:30 AM – 6:30 PM",
+    "Thursday: 5:30 AM – 6:30 PM",
+    "Friday: 5:30 AM – 6:30 PM",
+    "Saturday: 5:30 AM – 5:00 PM",
+    "Sunday: 5:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/passion-du-fournil-gourbeyre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:21:18.180Z"
+}

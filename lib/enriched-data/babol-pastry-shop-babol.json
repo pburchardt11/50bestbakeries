@@ -1,0 +1,32 @@
+{
+  "slug": "babol-pastry-shop-babol",
+  "name": "Babol Pastry Shop",
+  "city": "Babol",
+  "country": "Iran",
+  "placeId": "ChIJjTipY2yIjz8Rb8ooAcaUOnw",
+  "googleName": "Babol Confectionery",
+  "formattedAddress": "Mazandaran Province, Babol, Shariati St, HM8H+6M4, Iran",
+  "phone": "011 3233 4577",
+  "website": "https://www.shirinisarayebabol.com/order",
+  "googleMapsUrl": "https://maps.google.com/?cid=8951630787496168047",
+  "rating": 4.4,
+  "reviewCount": 581,
+  "coords": [
+    36.5655111,
+    52.6791889
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:30 PM, 2:30 – 9:00 PM",
+    "Tuesday: 8:00 AM – 12:30 PM, 2:30 – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 12:30 PM, 2:30 – 9:00 PM",
+    "Sunday: 8:00 AM – 12:30 PM, 2:30 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/babol-pastry-shop-babol/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:35:15.793Z"
+}

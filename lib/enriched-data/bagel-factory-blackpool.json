@@ -1,0 +1,32 @@
+{
+  "slug": "bagel-factory-blackpool",
+  "name": "Bagel Factory",
+  "city": "Blackpool",
+  "country": "Ireland",
+  "placeId": "ChIJjaVLnHGQREgRnCNsNifkgD8",
+  "googleName": "Bagel Factory",
+  "formattedAddress": "Unit 23, Blackpool Shopping Centre, Cork, T23 D522, Ireland",
+  "phone": "(021) 430 9927",
+  "website": "http://bagelfactory.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4575908078476338076",
+  "rating": 4.1,
+  "reviewCount": 47,
+  "coords": [
+    51.9152145,
+    -8.4713305
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 5:00 PM",
+    "Sunday: 10:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bagel-factory-blackpool/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:15.798Z"
+}

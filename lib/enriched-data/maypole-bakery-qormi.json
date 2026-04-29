@@ -1,0 +1,32 @@
+{
+  "slug": "maypole-bakery-qormi",
+  "name": "Maypole bakery",
+  "city": "Qormi",
+  "country": "Malta",
+  "placeId": "ChIJgw9yznlQDhMRhrC9LPNqOiw",
+  "googleName": "Maypole Bakery Head Office",
+  "formattedAddress": "The Bakery, Triq Tal-Handaq, Qormi QRM4000, Malta",
+  "phone": "2258 1581",
+  "website": "https://www.maypole.com.mt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3186977278978273414",
+  "rating": 4.6,
+  "reviewCount": 229,
+  "coords": [
+    35.8675472,
+    14.4690112
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maypole-bakery-qormi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:10.524Z"
+}

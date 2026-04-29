@@ -1,0 +1,32 @@
+{
+  "slug": "mogato-baie-du-tombeau",
+  "name": "Mogato",
+  "city": "Baie du Tombeau",
+  "country": "Mauritius",
+  "placeId": "ChIJBfO0nVVRfCERrp6NH5njC1M",
+  "googleName": "Mogato",
+  "formattedAddress": "MU, 60 Av. des Oeillets, Baie du Tombeau 21725, Mauritius",
+  "phone": "5929 0512",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5984126776690712238",
+  "rating": 5,
+  "reviewCount": 12,
+  "coords": [
+    -20.1140912,
+    57.5046967
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mogato-baie-du-tombeau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:18:20.328Z"
+}

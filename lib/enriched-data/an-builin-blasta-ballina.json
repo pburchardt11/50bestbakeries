@@ -1,0 +1,32 @@
+{
+  "slug": "an-builin-blasta-ballina",
+  "name": "An Builin Blasta",
+  "city": "Ballina",
+  "country": "Ireland",
+  "placeId": "ChIJUyq3TFuoWUgRlHU_biAOQrs",
+  "googleName": "An Builin Blasta",
+  "formattedAddress": "Main St, Belmullet, Co. Mayo, Ireland",
+  "phone": "(097) 81800",
+  "website": "https://www.facebook.com/odonoghuesbakery.belmullet",
+  "googleMapsUrl": "https://maps.google.com/?cid=13493362966006822292",
+  "rating": 4.7,
+  "reviewCount": 56,
+  "coords": [
+    54.2236315,
+    -9.9893596
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/an-builin-blasta-ballina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:40:41.676Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "aviv-s-sweet",
+  "name": "Aviv's Sweet",
+  "city": "אחיטוב",
+  "country": "Israel",
+  "placeId": "ChIJpVhgaJARHRURfLvaMQLPRDQ",
+  "googleName": "Aviv's sweet - קונדיטוריה ביתית",
+  "formattedAddress": "Ha-Dekel St 28, Ahituv, 3885500, Israel",
+  "phone": "050-728-6606",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3766362796721879932",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    32.3894038,
+    34.9855823
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 4:00 PM",
+    "Tuesday: 10:00 AM – 4:00 PM",
+    "Wednesday: 10:00 AM – 4:00 PM",
+    "Thursday: 10:00 AM – 4:00 PM",
+    "Friday: 10:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aviv-s-sweet/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:10.432Z"
+}

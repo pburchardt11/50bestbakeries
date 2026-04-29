@@ -1,0 +1,32 @@
+{
+  "slug": "kripa-bakery-cafe-bharatpur",
+  "name": "Kripa Bakery Cafe",
+  "city": "Bharatpur",
+  "country": "Nepal",
+  "placeId": "ChIJc4lanGX7lDkR3b-kJM4_QLU",
+  "googleName": "Kathmandu bakery",
+  "formattedAddress": "MCJJ+R49 Shanghai plaza, Bharatpur 44207, Nepal",
+  "phone": "056-593033",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13060509073985028061",
+  "rating": 4,
+  "reviewCount": 269,
+  "coords": [
+    27.6820499,
+    84.4303444
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kripa-bakery-cafe-bharatpur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:33:18.992Z"
+}

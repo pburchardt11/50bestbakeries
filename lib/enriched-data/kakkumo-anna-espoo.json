@@ -1,0 +1,32 @@
+{
+  "slug": "kakkumo-anna-espoo",
+  "name": "Kakkumo Anna",
+  "city": "Espoo",
+  "country": "Finland",
+  "placeId": "ChIJQ5xvrBL0jUYRL7rf0Z0QknI",
+  "googleName": "Kakkumo Anna",
+  "formattedAddress": "Nikkelikuja 1, 02750 Espoo, Finland",
+  "phone": "050 4957578",
+  "website": "http://www.kakkumoanna.fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8255679336940550703",
+  "rating": 5,
+  "reviewCount": 46,
+  "coords": [
+    60.19638399999999,
+    24.7110297
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kakkumo-anna-espoo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:14.600Z"
+}

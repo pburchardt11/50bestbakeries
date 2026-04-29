@@ -1,0 +1,32 @@
+{
+  "slug": "wooden-bakery-batroun",
+  "name": "Wooden bakery batroun",
+  "city": "البترون",
+  "country": "Lebanon",
+  "placeId": "ChIJU-TsmavkIRURRd4bIjLbhsQ",
+  "googleName": "Wooden Bakery - Chekka",
+  "formattedAddress": "8PCP+XXJ, Chekka, Lebanon",
+  "phone": "26 542 889",
+  "website": "https://www.woodenbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14161247086680202821",
+  "rating": 3.9,
+  "reviewCount": 485,
+  "coords": [
+    34.3224579,
+    35.7373954
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wooden-bakery-batroun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:03:39.006Z"
+}

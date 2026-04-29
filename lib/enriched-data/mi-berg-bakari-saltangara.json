@@ -1,0 +1,32 @@
+{
+  "slug": "mi-berg-bakari-saltangara",
+  "name": "Miðberg bakarí",
+  "city": "Saltangará",
+  "country": "Faroe Islands",
+  "placeId": "ChIJ84Ld24s6vEgReF5kL7lTlqQ",
+  "googleName": "Miðberg Bakery",
+  "formattedAddress": "59 Heiðavegur, Saltangará 600, Faroe Islands",
+  "phone": "447366",
+  "website": "https://www.facebook.com/midbergbakari/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11859758723555942008",
+  "rating": 4.6,
+  "reviewCount": 57,
+  "coords": [
+    62.1174245,
+    -6.7225147
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:30 – 10:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mi-berg-bakari-saltangara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:07:30.561Z"
+}

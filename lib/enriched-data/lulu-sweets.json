@@ -1,0 +1,32 @@
+{
+  "slug": "lulu-sweets",
+  "name": "LuLu sweets",
+  "city": "الأحمدى",
+  "country": "Kuwait",
+  "placeId": "ChIJCYzMVKsJzz8RgGo7ba0Alkc",
+  "googleName": "LuLu sweets",
+  "formattedAddress": "129 St, 54000, Kuwait",
+  "phone": "559 05003",
+  "website": "https://order.lulusweetkw.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5158311168061434496",
+  "rating": 4.8,
+  "reviewCount": 1139,
+  "coords": [
+    29.1387955,
+    48.11682649999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:00 AM",
+    "Tuesday: 6:30 AM – 12:00 AM",
+    "Wednesday: 6:30 AM – 12:00 AM",
+    "Thursday: 6:30 AM – 12:00 AM",
+    "Friday: 6:30 AM – 12:00 AM",
+    "Saturday: 6:30 AM – 12:00 AM",
+    "Sunday: 6:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lulu-sweets/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:56:59.672Z"
+}

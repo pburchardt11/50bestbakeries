@@ -1,0 +1,32 @@
+{
+  "slug": "lavanda-coffee-house",
+  "name": "Lavanda Coffee House",
+  "city": "Астана",
+  "country": "Kazakhstan",
+  "placeId": "ChIJ8207wqCFRUIRfq8pEnXnv6s",
+  "googleName": "Lavanda Coffee House",
+  "formattedAddress": "Kerey and Zhanibek Khans St 22, Astana 020000, Kazakhstan",
+  "phone": "8 (707) 834 7888",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12375864791039324030",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    51.1133475,
+    71.42792299999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lavanda-coffee-house/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:52:15.987Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boo-fj-cakes-treats-nadi",
+  "name": "Boo FJ Cakes & Treats",
+  "city": "Nadi",
+  "country": "Fiji",
+  "placeId": "ChIJj83UXqJbF24RfDt0MBZeVBs",
+  "googleName": "Boo Fj Cakes & Treats - Nadi",
+  "formattedAddress": "Nadi Back Rd, Nadi, Fiji",
+  "phone": "276 4809",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1969302386462964604",
+  "rating": 5,
+  "reviewCount": 16,
+  "coords": [
+    -17.7790133,
+    177.4583868
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boo-fj-cakes-treats-nadi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:07:54.608Z"
+}

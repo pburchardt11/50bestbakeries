@@ -1,0 +1,32 @@
+{
+  "slug": "patiseria-cleo-chisinau",
+  "name": "Patiseria Cleo",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJKW7OPnt5yUARCIzKwLdntIo",
+  "googleName": "Patiseria Cleo",
+  "formattedAddress": "nr. 50, Bulevardul Decebal 80/1, Chișinău, Moldova",
+  "phone": "0695 85 895",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9994727511953148936",
+  "rating": 4.2,
+  "reviewCount": 11,
+  "coords": [
+    46.9894827,
+    28.8578754
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:30 PM",
+    "Tuesday: 7:30 AM – 8:30 PM",
+    "Wednesday: 7:30 AM – 8:30 PM",
+    "Thursday: 7:30 AM – 8:30 PM",
+    "Friday: 7:30 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patiseria-cleo-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:24.185Z"
+}

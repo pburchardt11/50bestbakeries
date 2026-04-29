@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-frangipane-mont-dore",
+  "name": "Boulangerie Frangipane",
+  "city": "Mont Dore",
+  "country": "New Caledonia",
+  "placeId": "ChIJdzSGETQGKGwRYwSwWeo8hgI",
+  "googleName": "Boulangerie Frangipane",
+  "formattedAddress": "Rue André Burck, New Caledonia",
+  "phone": "43.61.81",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=181899812179805283",
+  "rating": 2.9,
+  "reviewCount": 10,
+  "coords": [
+    -22.2246863,
+    166.5072843
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:30 PM",
+    "Tuesday: 5:00 AM – 6:30 PM",
+    "Wednesday: 5:00 AM – 6:30 PM",
+    "Thursday: 5:00 AM – 6:30 PM",
+    "Friday: 5:00 AM – 6:30 PM",
+    "Saturday: 5:00 AM – 6:30 PM",
+    "Sunday: 5:30 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-frangipane-mont-dore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:58.117Z"
+}

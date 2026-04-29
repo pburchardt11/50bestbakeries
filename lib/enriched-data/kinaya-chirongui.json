@@ -1,0 +1,30 @@
+{
+  "slug": "kinaya-chirongui",
+  "name": "Kinaya",
+  "city": "Chirongui",
+  "country": "Mayotte",
+  "placeId": "ChIJoSBWhwAFCiIRvdxEkFfgbNo",
+  "googleName": "Kinaya",
+  "formattedAddress": "515 boulevard Mzé Mihami Poroani, Chirongui 97620, Mayotte",
+  "phone": "0693 32 97 82",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15739201464440249533",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -12.8925218,
+    45.1408511
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:19:58.193Z"
+}

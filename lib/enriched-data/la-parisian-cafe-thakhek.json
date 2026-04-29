@@ -1,0 +1,32 @@
+{
+  "slug": "la-parisian-cafe-thakhek",
+  "name": "La Parisian Cafe",
+  "city": "Thakhek",
+  "country": "Laos",
+  "placeId": "ChIJw_xNFAAJPDERUz1CVMoZ4As",
+  "googleName": "La Parisian Cafe",
+  "formattedAddress": "9RX7+539, Thakhek, Laos",
+  "phone": null,
+  "website": "https://www.facebook.com/profile.php?id=100071530047275&mibextid=ZbWKwL",
+  "googleMapsUrl": "https://maps.google.com/?cid=855712285988109651",
+  "rating": 4.3,
+  "reviewCount": 39,
+  "coords": [
+    17.3979156,
+    104.8127419
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-parisian-cafe-thakhek/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:00:14.409Z"
+}

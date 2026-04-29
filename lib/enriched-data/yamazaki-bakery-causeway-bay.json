@@ -1,0 +1,32 @@
+{
+  "slug": "yamazaki-bakery-causeway-bay",
+  "name": "Yamazaki Bakery",
+  "city": "Causeway Bay",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJXcCpMsIBBDQRMgmvxXihQ5w",
+  "googleName": "Yamazaki",
+  "formattedAddress": "Shop No. G16-G17, 311 Gloucester Rd, Causeway Bay, Hong Kong",
+  "phone": "2813 6812",
+  "website": "http://www.yamazaki.hk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11260021033441102130",
+  "rating": 4,
+  "reviewCount": 5,
+  "coords": [
+    22.2804458,
+    114.1868085
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yamazaki-bakery-causeway-bay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:49.049Z"
+}

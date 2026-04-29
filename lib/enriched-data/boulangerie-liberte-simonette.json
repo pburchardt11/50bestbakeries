@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-liberte-simonette",
+  "name": "Boulangerie Liberté",
+  "city": "Simonette",
+  "country": "Haiti",
+  "placeId": "ChIJuealZgxu5kcR0A-bQ7H9EVs",
+  "googleName": "Liberté",
+  "formattedAddress": "39 Rue des Vinaigriers, 75010 Paris, France",
+  "phone": "01 42 05 51 76",
+  "website": "http://www.liberte-paris.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6562305069840797648",
+  "rating": 4,
+  "reviewCount": 1279,
+  "coords": [
+    48.8730875,
+    2.3615623
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Contemporary bakery/cafe offering artisan breads, pastries & confectionery to eat in or take away.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-liberte-simonette/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:26:56.403Z"
+}

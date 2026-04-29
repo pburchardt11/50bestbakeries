@@ -1,0 +1,32 @@
+{
+  "slug": "croissant-d-or-cap-haitien",
+  "name": "Croissant d'or",
+  "city": "Cap Haïtien",
+  "country": "Haiti",
+  "placeId": "ChIJP15f1gLHto4RISvFyI3u8x4",
+  "googleName": "Jean",
+  "formattedAddress": "QQ4X+FRX, Blvd. du Cap-Haitien, Cap-Haïtien, Haiti",
+  "phone": "28 18 0010",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2230388533204691745",
+  "rating": 3.4,
+  "reviewCount": 96,
+  "coords": [
+    19.7562279,
+    -72.2003835
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/croissant-d-or-cap-haitien/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:26:11.906Z"
+}

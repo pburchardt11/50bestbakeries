@@ -1,0 +1,30 @@
+{
+  "slug": "southern-bakehouse-auckland",
+  "name": "Southern Bakehouse",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJw_6pLsxNDW0R_fymfdEjkOo",
+  "googleName": "Southern Bakehouse",
+  "formattedAddress": "187 Great South Road, Manurewa, Auckland 2102, New Zealand",
+  "phone": "09 267 8587",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16902048784184704253",
+  "rating": 4.2,
+  "reviewCount": 5,
+  "coords": [
+    -37.0222385,
+    174.8969405
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 5:00 PM",
+    "Tuesday: 5:30 AM – 5:00 PM",
+    "Wednesday: 5:30 AM – 5:00 PM",
+    "Thursday: 5:30 AM – 5:00 PM",
+    "Friday: 5:30 AM – 5:00 PM",
+    "Saturday: 6:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:36:40.013Z"
+}

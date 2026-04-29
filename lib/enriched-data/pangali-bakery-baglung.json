@@ -1,0 +1,32 @@
+{
+  "slug": "pangali-bakery-baglung",
+  "name": "Pangali Bakery",
+  "city": "Baglung",
+  "country": "Nepal",
+  "placeId": "ChIJNQbknnPilTkRwSYv2ur1hUM",
+  "googleName": "Pangali Bakery",
+  "formattedAddress": "Campus Road, Baglung 33300, Nepal",
+  "phone": "985-7628766",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4865565361475364545",
+  "rating": 3.3,
+  "reviewCount": 15,
+  "coords": [
+    28.2697305,
+    83.59821989999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pangali-bakery-baglung/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:32:21.775Z"
+}

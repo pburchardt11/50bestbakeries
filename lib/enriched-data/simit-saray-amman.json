@@ -1,0 +1,32 @@
+{
+  "slug": "simit-saray-amman",
+  "name": "Simit Sarayı",
+  "city": "Amman",
+  "country": "Jordan",
+  "placeId": "ChIJKUL86QWhHBURXrrHqodp7uQ",
+  "googleName": "Simit Sarayı",
+  "formattedAddress": "Wadi Al-Seer, Amman, Jordan",
+  "phone": null,
+  "website": "http://web.facebook.com/simitsarayijo/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16496238516511423070",
+  "rating": 3,
+  "reviewCount": 111,
+  "coords": [
+    31.9594008,
+    35.8620589
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simit-saray-amman/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:48:57.816Z"
+}

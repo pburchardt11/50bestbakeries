@@ -1,0 +1,32 @@
+{
+  "slug": "ledo-coffee-shop-and-bakery-kherlen",
+  "name": "LEDO - coffee shop and bakery",
+  "city": "Kherlen",
+  "country": "Mongolia",
+  "placeId": "ChIJH6NAZiPX610RwNmqcoq7RiI",
+  "googleName": "Ledo coffee shop",
+  "formattedAddress": "Undurkhaan streed, Chinges, Хэнтий 23110, Mongolia",
+  "phone": "9903 8227",
+  "website": "https://www.facebook.com/profile.php?id=100063652713098&mibextid=ZbWKwL",
+  "googleMapsUrl": "https://maps.google.com/?cid=2469867648962976192",
+  "rating": 4.3,
+  "reviewCount": 32,
+  "coords": [
+    47.3213522,
+    110.6600032
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ledo-coffee-shop-and-bakery-kherlen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:23:08.990Z"
+}

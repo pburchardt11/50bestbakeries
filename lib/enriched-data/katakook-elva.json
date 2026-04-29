@@ -1,0 +1,32 @@
+{
+  "slug": "katakook-elva",
+  "name": "Kataköök",
+  "city": "Elva",
+  "country": "Estonia",
+  "placeId": "ChIJScq7wDw_60YRxf--OK25uWg",
+  "googleName": "Kooki tahad",
+  "formattedAddress": "Apteegi 2, Elva, 61507 Tartu maakond, Estonia",
+  "phone": "5596 5566",
+  "website": "https://www.kookitahad.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7546266804268498885",
+  "rating": 4.9,
+  "reviewCount": 30,
+  "coords": [
+    58.2234481,
+    26.4194592
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 1:00 PM",
+    "Wednesday: 7:00 AM – 1:00 PM",
+    "Thursday: 7:00 AM – 1:00 PM",
+    "Friday: 7:00 AM – 1:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/katakook-elva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:04:36.281Z"
+}

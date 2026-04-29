@@ -1,0 +1,32 @@
+{
+  "slug": "dona-bakeshop-cafe",
+  "name": "Dona bakeshop & Cafe",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJgdqXRl6HZ0ARi74Pa-ssR9Q",
+  "googleName": "Dona bakeshop & Cafe",
+  "formattedAddress": "121 Parnavaz Mepe St, Batumi, Georgia",
+  "phone": "0422 27 33 30",
+  "website": "https://www.facebook.com/DonaBakeshopCafe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15296244049012309643",
+  "rating": 4.7,
+  "reviewCount": 4292,
+  "coords": [
+    41.6449104,
+    41.6289318
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dona-bakeshop-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:14:43.576Z"
+}

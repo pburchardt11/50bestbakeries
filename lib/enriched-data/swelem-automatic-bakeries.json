@@ -1,0 +1,32 @@
+{
+  "slug": "swelem-automatic-bakeries",
+  "name": "Swelem Automatic Bakeries",
+  "city": "عجلون",
+  "country": "Jordan",
+  "placeId": "ChIJY3aNysSHHBUR0PvcHPTHaxU",
+  "googleName": "Swelem Automatic Bakeries",
+  "formattedAddress": "شارع الحسين بن علي, شارع عمان, عجلون 26810, Jordan",
+  "phone": "07 7788 8180",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1543547148574718928",
+  "rating": 4.5,
+  "reviewCount": 33,
+  "coords": [
+    32.3309657,
+    35.751737
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/swelem-automatic-bakeries/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:34.727Z"
+}

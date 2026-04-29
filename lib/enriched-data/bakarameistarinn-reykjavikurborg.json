@@ -1,0 +1,32 @@
+{
+  "slug": "bakarameistarinn-reykjavikurborg",
+  "name": "Bakarameistarinn",
+  "city": "Reykjavíkurborg",
+  "country": "Iceland",
+  "placeId": "ChIJbXhnD7F01kgRYNWmXdMkpwQ",
+  "googleName": "Bakarameistarinn - Suðurver",
+  "formattedAddress": "Stigahlíð 45-47, 105 Reykjavík, Iceland",
+  "phone": "533 3000",
+  "website": "https://www.bakarameistarinn.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=335277187490305376",
+  "rating": 4.4,
+  "reviewCount": 241,
+  "coords": [
+    64.130757,
+    -21.9008066
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 5:00 PM",
+    "Tuesday: 6:30 AM – 5:00 PM",
+    "Wednesday: 6:30 AM – 5:00 PM",
+    "Thursday: 6:30 AM – 5:00 PM",
+    "Friday: 6:30 AM – 5:00 PM",
+    "Saturday: 6:30 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakarameistarinn-reykjavikurborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:49.375Z"
+}

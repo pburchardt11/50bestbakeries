@@ -1,0 +1,32 @@
+{
+  "slug": "renad-cake",
+  "name": "Renad Cake",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJP68LJexZGxURQVyYnk1ntNA",
+  "googleName": "renad cake",
+  "formattedAddress": "Sahab St. 28, Amman, Jordan",
+  "phone": "07 9029 0061",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15038758638767856705",
+  "rating": 4.7,
+  "reviewCount": 72,
+  "coords": [
+    31.8789701,
+    35.9958857
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:59 PM",
+    "Tuesday: 9:00 AM – 11:59 PM",
+    "Wednesday: 9:00 AM – 11:59 PM",
+    "Thursday: 9:00 AM – 11:59 PM",
+    "Friday: 9:00 AM – 11:59 PM",
+    "Saturday: 9:00 AM – 11:59 PM",
+    "Sunday: 9:00 AM – 11:59 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/renad-cake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:50:32.876Z"
+}

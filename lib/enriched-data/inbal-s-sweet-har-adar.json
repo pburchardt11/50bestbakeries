@@ -1,0 +1,32 @@
+{
+  "slug": "inbal-s-sweet-har-adar",
+  "name": "Inbal's Sweet",
+  "city": "Har Adar",
+  "country": "Israel",
+  "placeId": "ChIJMVNMt7LWAhURfLUZVfUefAQ",
+  "googleName": "Inbal's sweet",
+  "formattedAddress": "Hagay St 39, Har Adar",
+  "phone": "054-633-0630",
+  "website": "http://www.inbalcakes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=323167312307402108",
+  "rating": 4.9,
+  "reviewCount": 10,
+  "coords": [
+    31.8317032,
+    35.1274399
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/inbal-s-sweet-har-adar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:01.262Z"
+}

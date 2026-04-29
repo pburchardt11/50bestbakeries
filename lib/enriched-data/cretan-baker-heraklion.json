@@ -1,0 +1,32 @@
+{
+  "slug": "cretan-baker-heraklion",
+  "name": "Cretan Baker",
+  "city": "Heraklion",
+  "country": "Greece",
+  "placeId": "ChIJWYuC6ixamhQRo96cwDRlWjo",
+  "googleName": "Kritikos Fournos",
+  "formattedAddress": "Leof. Ikarou 32, Iraklio 713 06, Greece",
+  "phone": "281 024 3014",
+  "website": "http://www.kritikosfournosdaily.gr/?utm_source=Google&utm_medium=MyBusiness&utm_campaign=ikarou_location",
+  "googleMapsUrl": "https://maps.google.com/?cid=4204784479347990179",
+  "rating": 4.5,
+  "reviewCount": 2337,
+  "coords": [
+    35.3387812,
+    25.1399239
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 3:00 AM",
+    "Saturday: 6:00 AM – 3:00 AM",
+    "Sunday: 6:00 AM – 3:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cretan-baker-heraklion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:36.867Z"
+}

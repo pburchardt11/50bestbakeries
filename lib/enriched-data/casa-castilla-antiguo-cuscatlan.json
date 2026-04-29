@@ -1,0 +1,32 @@
+{
+  "slug": "casa-castilla-antiguo-cuscatlan",
+  "name": "Casa castilla",
+  "city": "Antiguo Cuscatlán",
+  "country": "El Salvador",
+  "placeId": "ChIJPZI6W9AxY48RdzFdobrkxiQ",
+  "googleName": "Panes y Pupusas Reinita Antiguo Cuscatlan",
+  "formattedAddress": "C. Cuscatlan Ote., El Salvador",
+  "phone": "2240 1900",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2650056920976404855",
+  "rating": 4.4,
+  "reviewCount": 668,
+  "coords": [
+    13.6717708,
+    -89.23897989999999
+  ],
+  "openingHours": [
+    "Monday: 4:15 – 9:30 PM",
+    "Tuesday: 4:15 – 9:30 PM",
+    "Wednesday: 4:15 – 9:30 PM",
+    "Thursday: 4:15 – 9:30 PM",
+    "Friday: 4:15 – 9:30 PM",
+    "Saturday: 4:15 – 9:30 PM",
+    "Sunday: 4:15 – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-castilla-antiguo-cuscatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:03:37.215Z"
+}

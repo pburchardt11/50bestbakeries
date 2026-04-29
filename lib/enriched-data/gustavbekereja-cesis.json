@@ -1,0 +1,32 @@
+{
+  "slug": "gustavbekereja-cesis",
+  "name": "Gustavbeķereja",
+  "city": "Cēsis",
+  "country": "Latvia",
+  "placeId": "ChIJce5JBGzO7kYRZQPbj2_PsN4",
+  "googleName": "GUSTAVbeķereja",
+  "formattedAddress": "Dzelzavas iela 62, Vidzemes priekšpilsēta, Rīga, LV-1082, Latvia",
+  "phone": "67 511 311",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16046553550382891877",
+  "rating": 4.4,
+  "reviewCount": 548,
+  "coords": [
+    56.95730649999999,
+    24.1851048
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gustavbekereja-cesis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:03.184Z"
+}

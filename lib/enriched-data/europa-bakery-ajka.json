@@ -1,0 +1,32 @@
+{
+  "slug": "europa-bakery-ajka",
+  "name": "Europa Bakery",
+  "city": "Ajka",
+  "country": "Hungary",
+  "placeId": "ChIJPwkKiehzaUcR1NjjNmi8_sg",
+  "googleName": "Europa Bakery",
+  "formattedAddress": "Ajka, Alkotmány u. 28, 8400 Hungary",
+  "phone": "06 30 564 3002",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14483220607453616340",
+  "rating": 4.6,
+  "reviewCount": 639,
+  "coords": [
+    47.10564919999999,
+    17.5713856
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 9:00 PM",
+    "Tuesday: 5:00 AM – 9:00 PM",
+    "Wednesday: 5:00 AM – 9:00 PM",
+    "Thursday: 5:00 AM – 9:00 PM",
+    "Friday: 5:00 AM – 9:00 PM",
+    "Saturday: 5:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/europa-bakery-ajka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:32:16.461Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-esteli-barberena",
+  "name": "Panadería Estelí",
+  "city": "Barberena",
+  "country": "Guatemala",
+  "placeId": "ChIJC2V5ir60iYUR_KaZjQJrgpc",
+  "googleName": "Pan Y Pasteles \"La Dulce Abuelita\"",
+  "formattedAddress": "Barberena, Guatemala",
+  "phone": "7887 0000",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10917406105409267452",
+  "rating": 4.4,
+  "reviewCount": 136,
+  "coords": [
+    14.3057619,
+    -90.35879
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-esteli-barberena/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:24:11.417Z"
+}

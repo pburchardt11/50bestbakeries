@@ -1,0 +1,32 @@
+{
+  "slug": "a-good-thing-bakery-accra",
+  "name": "A Good Thing Bakery",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJ5UP6M6Kb3w8R2j7hTbdf6jI",
+  "googleName": "A Good Thing Bakery",
+  "formattedAddress": "JQ6W+MJW, Blohum Rd, Accra, Ghana",
+  "phone": "024 681 5721",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3668850087336951514",
+  "rating": 4.7,
+  "reviewCount": 29,
+  "coords": [
+    5.6117419,
+    -0.2034167
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-good-thing-bakery-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:16:33.451Z"
+}

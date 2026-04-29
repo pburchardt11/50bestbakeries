@@ -1,0 +1,32 @@
+{
+  "slug": "kaak-it-tripoli",
+  "name": "Kaak it",
+  "city": "Tripoli",
+  "country": "Lebanon",
+  "placeId": "ChIJ2eih91H3IRUReZ_HSrCEWAQ",
+  "googleName": "Kaak it",
+  "formattedAddress": "Tripoli, Lebanon",
+  "phone": "76 000 170",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=313146066805956473",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    34.401479,
+    35.8389867
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:30 PM",
+    "Tuesday: 7:30 AM – 11:30 PM",
+    "Wednesday: 7:30 AM – 11:30 PM",
+    "Thursday: 7:30 AM – 11:30 PM",
+    "Friday: 7:30 AM – 11:30 PM",
+    "Saturday: 7:30 AM – 11:30 PM",
+    "Sunday: 7:30 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaak-it-tripoli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:03:13.556Z"
+}

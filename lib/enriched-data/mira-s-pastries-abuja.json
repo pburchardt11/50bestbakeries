@@ -1,0 +1,32 @@
+{
+  "slug": "mira-s-pastries-abuja",
+  "name": "Mira's Pastries",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "placeId": "ChIJTTAqgpoLThARhr4iFoIdUUI",
+  "googleName": "Mira's pastries",
+  "formattedAddress": "44 Ajose Adeogun St, Utako, Abuja 900108, Federal Capital Territory, Nigeria",
+  "phone": "0815 620 3296",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4778633124171136646",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    9.0691937,
+    7.443069100000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mira-s-pastries-abuja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:42:04.817Z"
+}

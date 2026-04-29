@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-gustipan-copan",
+  "name": "Panaderia gustipan",
+  "city": "Copán",
+  "country": "Honduras",
+  "placeId": "ChIJTX3i75ndY48RUupZjEpfks8",
+  "googleName": "La Casa Del Pan",
+  "formattedAddress": "RRXW+F4V san pedrito arriba, Copán Ruinas, Copán, Honduras",
+  "phone": "9488-1744",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14957122086237760082",
+  "rating": 4.4,
+  "reviewCount": 8,
+  "coords": [
+    14.8487318,
+    -89.1547186
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-gustipan-copan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:27:49.778Z"
+}

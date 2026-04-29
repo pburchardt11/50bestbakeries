@@ -1,0 +1,32 @@
+{
+  "slug": "american-bakery-tamuning",
+  "name": "American Bakery",
+  "city": "Tamuning",
+  "country": "Guam",
+  "placeId": "ChIJ-8lNf1iCH2cR9-ScdyyFS3U",
+  "googleName": "American Bakery (Harmon)",
+  "formattedAddress": "2301 16, Harmon Industrial Park, 96929, Guam",
+  "phone": "(671) 588-1501",
+  "website": "https://americanbakeryguam.com/bake/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8451995551722693879",
+  "rating": 4,
+  "reviewCount": 59,
+  "coords": [
+    13.5198766,
+    144.815721
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/american-bakery-tamuning/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:22:46.698Z"
+}

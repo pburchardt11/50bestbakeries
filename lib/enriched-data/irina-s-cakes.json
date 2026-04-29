@@ -1,0 +1,32 @@
+{
+  "slug": "irina-s-cakes",
+  "name": "Irina's Cakes",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJv3M4ZACHZ0ARXOW2e4Uc8Vo",
+  "googleName": "ირინას ნამცხვრები / Irina's Cakes",
+  "formattedAddress": "115 Chavchavadze St, Batumi, Georgia",
+  "phone": "555 14 30 59",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6553050292432594268",
+  "rating": 4.1,
+  "reviewCount": 12,
+  "coords": [
+    41.6418393,
+    41.6272445
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/irina-s-cakes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:14:28.095Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-jolie-moorea-maiao",
+  "name": "Pâtisserie Jolie",
+  "city": "Moorea Maiao",
+  "country": "French Polynesia",
+  "placeId": "ChIJwTFehDiKmXYRIQuRdVbBvtA",
+  "googleName": "Pâtisserie Jolie",
+  "formattedAddress": "BP1481, Moorea-Maiao 98729, French Polynesia",
+  "phone": "87 21 82 66",
+  "website": "http://www.patisserie-jolie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15041672382547823393",
+  "rating": 4.6,
+  "reviewCount": 8,
+  "coords": [
+    -17.5247835,
+    -149.7766614
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-jolie-moorea-maiao/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:22.299Z"
+}

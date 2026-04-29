@@ -1,0 +1,30 @@
+{
+  "slug": "sweet-salty-bakery-espoo",
+  "name": "Sweet & Salty Bakery",
+  "city": "Espoo",
+  "country": "Finland",
+  "placeId": "ChIJG_qgpI3zjUYRM4UrYgdHPvs",
+  "googleName": "Sweet & Salty Bakery",
+  "formattedAddress": "Saarniraiviontie 3 C, 02770 Espoo, Finland",
+  "phone": null,
+  "website": "https://www.sweetsaltybakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18103985649113335091",
+  "rating": 4.6,
+  "reviewCount": 10,
+  "coords": [
+    60.1987666,
+    24.6646622
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:11:15.350Z"
+}

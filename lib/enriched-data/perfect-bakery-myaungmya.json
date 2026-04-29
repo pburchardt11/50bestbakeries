@@ -1,0 +1,32 @@
+{
+  "slug": "perfect-bakery-myaungmya",
+  "name": "Perfect Bakery",
+  "city": "Myaungmya",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJeS4lDXjrwTARc51JORbfm4E",
+  "googleName": "Perfect Bakery Wholesale and Retail",
+  "formattedAddress": "17/19, Hledan Street, Lanmadaw Township, ရန်ကုန် 11131, Myanmar (Burma)",
+  "phone": "09 764 316682",
+  "website": "http://www.perfect.com.mm/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9339303538826255731",
+  "rating": 4.3,
+  "reviewCount": 97,
+  "coords": [
+    16.7742767,
+    96.1433191
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 6:30 PM",
+    "Tuesday: 9:30 AM – 6:30 PM",
+    "Wednesday: 9:30 AM – 6:30 PM",
+    "Thursday: 9:30 AM – 6:30 PM",
+    "Friday: 9:30 AM – 6:30 PM",
+    "Saturday: 9:30 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/perfect-bakery-myaungmya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:31:12.444Z"
+}

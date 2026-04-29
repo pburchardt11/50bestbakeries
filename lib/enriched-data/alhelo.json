@@ -1,0 +1,32 @@
+{
+  "slug": "alhelo",
+  "name": "AlHelo",
+  "city": "عجلون",
+  "country": "Jordan",
+  "placeId": "ChIJJ6QycFWHHBURMZN_mwz4LU8",
+  "googleName": "مخبز وحلويات الحلو الآلي ALHELO SWEET & BAKERY‎",
+  "formattedAddress": "Anjara, Jordan",
+  "phone": "07 7582 9595",
+  "website": "https://www.facebook.com/Alhelo.JO/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5705489035980411697",
+  "rating": 4.5,
+  "reviewCount": 239,
+  "coords": [
+    32.3132858,
+    35.7609865
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alhelo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:36.622Z"
+}

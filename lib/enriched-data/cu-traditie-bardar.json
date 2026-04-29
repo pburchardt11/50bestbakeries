@@ -1,0 +1,32 @@
+{
+  "slug": "cu-traditie-bardar",
+  "name": "Cu Traditie",
+  "city": "Bardar",
+  "country": "Moldova",
+  "placeId": "ChIJL4S1dH2ByUARCscqy-jldDc",
+  "googleName": "Cu Tradiție",
+  "formattedAddress": "Șos. Chișinău-Hîncești km.17, MD-6811, Bardar, Moldova",
+  "phone": "0785 19 519",
+  "website": "https://www.facebook.com/CuTraditii/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3996071557388224266",
+  "rating": 4.7,
+  "reviewCount": 90,
+  "coords": [
+    46.9156134,
+    28.6897704
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cu-traditie-bardar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:20:18.859Z"
+}

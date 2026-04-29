@@ -1,0 +1,32 @@
+{
+  "slug": "furna-toni",
+  "name": "Furna Toni",
+  "city": "Горно Коњаре",
+  "country": "North Macedonia",
+  "placeId": "ChIJoTJm--hRVBMR_jZU6tafcck",
+  "googleName": "Furnа Toni",
+  "formattedAddress": "5PJ7+5P Dolno Kojnare MK, 1300, North Macedonia",
+  "phone": "071 818 975",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14515558819395024638",
+  "rating": 4.8,
+  "reviewCount": 26,
+  "coords": [
+    42.1804738,
+    21.7141817
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/furna-toni/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:43:52.465Z"
+}

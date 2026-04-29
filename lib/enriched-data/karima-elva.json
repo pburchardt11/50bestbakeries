@@ -1,0 +1,30 @@
+{
+  "slug": "karima-elva",
+  "name": "Karima Elva",
+  "city": "Elva",
+  "country": "Estonia",
+  "placeId": "ChIJ2QphOIo_60YRGoOrK9f9dNE",
+  "googleName": "Karima Elva Ltd.",
+  "formattedAddress": "Pikk tn 1, Elva, 61505 Tartu maakond, Estonia",
+  "phone": "745 6150",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15092967351817831194",
+  "rating": 3.4,
+  "reviewCount": 10,
+  "coords": [
+    58.22529609999999,
+    26.4201569
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:00 PM",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:04:31.084Z"
+}

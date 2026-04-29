@@ -1,0 +1,32 @@
+{
+  "slug": "france-pastry-shop-tehran",
+  "name": "France Pastry Shop",
+  "city": "Tehran",
+  "country": "Iran",
+  "placeId": "ChIJ_X86mg8Bjj8R_xuIcFGpUpQ",
+  "googleName": "France Pastry",
+  "formattedAddress": "PC22+95M District 11, Tehran, Tehran Province, Iran",
+  "phone": "021 6640 3526",
+  "website": "https://www.francecafebakery.ir/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10687791032949021695",
+  "rating": 4.2,
+  "reviewCount": 620,
+  "coords": [
+    35.7009716,
+    51.4004098
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 12:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/france-pastry-shop-tehran/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:36:32.661Z"
+}

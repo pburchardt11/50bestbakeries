@@ -1,0 +1,32 @@
+{
+  "slug": "tofahteain-bakery-and-restaurants",
+  "name": "Tofahteain Bakery and Restaurants",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJ25GEwTqeHBURZpFJfqQx9po",
+  "googleName": "Tofahteain Bakerys & Restaurants",
+  "formattedAddress": "Al-Arab St. 28, Amman, Jordan",
+  "phone": "07 9292 3250",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11166166908674871654",
+  "rating": 4.2,
+  "reviewCount": 1360,
+  "coords": [
+    32.0423715,
+    35.9030451
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tofahteain-bakery-and-restaurants/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:43.211Z"
+}

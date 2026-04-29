@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-plav",
+  "name": "Pekara",
+  "city": "Plav",
+  "country": "Montenegro",
+  "placeId": "ChIJx9CntGRgUhMR4zGtJ3sMorU",
+  "googleName": "Pekara",
+  "formattedAddress": "HWXQ+CFC, Racina, Plav 84325, Montenegro",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13088037190178255331",
+  "rating": 4.5,
+  "reviewCount": 15,
+  "coords": [
+    42.598574,
+    19.9386332
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-plav/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:27:08.398Z"
+}

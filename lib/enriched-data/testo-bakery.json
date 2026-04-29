@@ -1,0 +1,32 @@
+{
+  "slug": "testo-bakery",
+  "name": "TESTO bakery",
+  "city": "Алматы",
+  "country": "Kazakhstan",
+  "placeId": "ChIJ7TIcewBpgzgR1gPmYNXnEC8",
+  "googleName": "Тап-Татти",
+  "formattedAddress": "Timiryazev St 38/1, Almaty 050000, Kazakhstan",
+  "phone": "8 (700) 555 6050",
+  "website": "http://taptatti.kz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3391465423049720790",
+  "rating": 4.3,
+  "reviewCount": 12,
+  "coords": [
+    43.2257887,
+    76.9093572
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/testo-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:51:35.124Z"
+}

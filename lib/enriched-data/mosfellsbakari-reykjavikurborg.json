@@ -1,0 +1,32 @@
+{
+  "slug": "mosfellsbakari-reykjavikurborg",
+  "name": "Mosfellsbakarí",
+  "city": "Reykjavíkurborg",
+  "country": "Iceland",
+  "placeId": "ChIJoaATOrt01kgRky1-4KODJC4",
+  "googleName": "Mosfellsbakarí",
+  "formattedAddress": "Háaleitisbraut 58-60, 108 Reykjavík, Iceland",
+  "phone": "566 6145",
+  "website": "http://mosfellsbakari.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3324927164775542163",
+  "rating": 4.7,
+  "reviewCount": 168,
+  "coords": [
+    64.1326882,
+    -21.8833434
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mosfellsbakari-reykjavikurborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:54.766Z"
+}

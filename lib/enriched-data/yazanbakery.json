@@ -1,0 +1,32 @@
+{
+  "slug": "yazanbakery",
+  "name": "YazanBakery",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJt56o5ROnHBUROqZpWnQkJ3k",
+  "googleName": "YazanBakery",
+  "formattedAddress": "Aishah At Taymoureyah 73, Amman, Jordan",
+  "phone": "07 9596 5110",
+  "website": "https://www.facebook.com/YazanBakery?mibextid=LQQJ4d",
+  "googleMapsUrl": "https://maps.google.com/?cid=8729986484832675386",
+  "rating": 4.4,
+  "reviewCount": 800,
+  "coords": [
+    31.9038052,
+    35.9125447
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 AM",
+    "Tuesday: 7:00 AM – 1:00 AM",
+    "Wednesday: 7:00 AM – 1:00 AM",
+    "Thursday: 7:00 AM – 1:00 AM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 7:00 AM – 1:00 AM",
+    "Sunday: 7:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yazanbakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:50:26.143Z"
+}

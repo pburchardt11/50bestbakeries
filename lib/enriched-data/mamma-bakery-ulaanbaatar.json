@@ -1,0 +1,32 @@
+{
+  "slug": "mamma-bakery-ulaanbaatar",
+  "name": "MAMMA bakery",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJy-8cLpqTll0RfeH1UmfhTHs",
+  "googleName": "Mamma Bakery",
+  "formattedAddress": "Энх Тайваны Өргөн Чөлөө 40, SBD - 4 khoroo, Ulaanbaatar, Mongolia",
+  "phone": "9999 6961",
+  "website": "https://www.facebook.com/mammahulemj/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8884723998784872829",
+  "rating": 4,
+  "reviewCount": 29,
+  "coords": [
+    47.9161642,
+    106.9084039
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mamma-bakery-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:23:32.028Z"
+}

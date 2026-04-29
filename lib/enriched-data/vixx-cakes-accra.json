@@ -1,0 +1,32 @@
+{
+  "slug": "vixx-cakes-accra",
+  "name": "Vixx Cakes",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJ2Typd16a3w8RPu6awAfnjnY",
+  "googleName": "Vixx Cakes",
+  "formattedAddress": "Accra, Ghana",
+  "phone": "024 473 6998",
+  "website": "http://www.facebook.com/vixxcakes",
+  "googleMapsUrl": "https://maps.google.com/?cid=8543019563650575934",
+  "rating": 4.8,
+  "reviewCount": 64,
+  "coords": [
+    5.5846428,
+    -0.191636
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vixx-cakes-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:16:53.137Z"
+}

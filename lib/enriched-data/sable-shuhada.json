@@ -1,0 +1,32 @@
+{
+  "slug": "sable-shuhada",
+  "name": "Sable Shuhada",
+  "city": "حولى",
+  "country": "Kuwait",
+  "placeId": "ChIJP1mPJOmezz8RDLcaJwWmmFU",
+  "googleName": "Sable (Shuhada)",
+  "formattedAddress": "Street 405 Al-Shuhada St, Al Kuwayt, Kuwait",
+  "phone": "515 88023",
+  "website": "http://www.sablesweets.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6167862230745003788",
+  "rating": 4.2,
+  "reviewCount": 155,
+  "coords": [
+    29.2681144,
+    48.0250486
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sable-shuhada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:37.198Z"
+}

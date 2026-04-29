@@ -1,0 +1,32 @@
+{
+  "slug": "oriental-patisserie-borj-ech-chemali",
+  "name": "Oriental Patisserie",
+  "city": "Borj ech Chémâli",
+  "country": "Lebanon",
+  "placeId": "ChIJ23wIWlyHHhURFjdcRB-FFmE",
+  "googleName": "Patisserie Oriental",
+  "formattedAddress": "Tyre, Lebanon",
+  "phone": "07 742 057",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6995925440504018710",
+  "rating": 4.2,
+  "reviewCount": 63,
+  "coords": [
+    33.2548505,
+    35.2227004
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oriental-patisserie-borj-ech-chemali/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:02:34.795Z"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "reposteria-carol-diriamba",
+  "name": "Repostería Carol",
+  "city": "Diriamba",
+  "country": "Nicaragua",
+  "placeId": "ChIJh1peikkddI8RHs4ATNrsLOw",
+  "googleName": "Repostería Carol",
+  "formattedAddress": "VQ56+9XR, Diriamba, Nicaragua",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17018237514248408606",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    11.8584854,
+    -86.23761569999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:38:12.058Z"
+}

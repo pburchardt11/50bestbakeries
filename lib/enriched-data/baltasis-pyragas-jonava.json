@@ -1,0 +1,32 @@
+{
+  "slug": "baltasis-pyragas-jonava",
+  "name": "Baltasis pyragas",
+  "city": "Jonava",
+  "country": "Lithuania",
+  "placeId": "ChIJFZT-o_0O50YRL55SHPf8p-A",
+  "googleName": "Baltasis pyragas",
+  "formattedAddress": "Sodų g. 11, 55190 Jonava, Lithuania",
+  "phone": "(0-349) 51079",
+  "website": "http://www.baltasispyragas.lt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16188185523868835375",
+  "rating": 3.1,
+  "reviewCount": 40,
+  "coords": [
+    55.068988,
+    24.2722357
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 3:45 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baltasis-pyragas-jonava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:06:53.491Z"
+}

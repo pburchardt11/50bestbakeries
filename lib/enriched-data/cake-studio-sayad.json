@@ -1,0 +1,32 @@
+{
+  "slug": "cake-studio-sayad",
+  "name": "Cake Studio",
+  "city": "Sayad",
+  "country": "Iran",
+  "placeId": "ChIJSfhZWsMGjj8RqWDkkm6h2Ow",
+  "googleName": "Sara Cake Studio",
+  "formattedAddress": "P9VX+QPM District 6, Tehran, Tehran Province, Iran",
+  "phone": "021 8860 0951",
+  "website": "https://saracakestudio.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17066568284203409577",
+  "rating": 4.1,
+  "reviewCount": 98,
+  "coords": [
+    35.7444727,
+    51.399285
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:30 PM",
+    "Tuesday: 9:00 AM – 10:30 PM",
+    "Wednesday: 9:00 AM – 10:30 PM",
+    "Thursday: 9:00 AM – 10:30 PM",
+    "Friday: 9:00 AM – 10:30 PM",
+    "Saturday: 9:00 AM – 10:30 PM",
+    "Sunday: 9:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-studio-sayad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:35:56.548Z"
+}

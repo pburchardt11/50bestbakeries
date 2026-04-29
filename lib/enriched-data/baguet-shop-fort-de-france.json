@@ -1,0 +1,32 @@
+{
+  "slug": "baguet-shop-fort-de-france",
+  "name": "Baguet Shop",
+  "city": "Fort-de-France",
+  "country": "Martinique",
+  "placeId": "ChIJpS09bx-naowRZJvuSSLiwWw",
+  "googleName": "BAGUET SHOP",
+  "formattedAddress": "1 Rue de la Republique, Fort-de-France 97200, Martinique",
+  "phone": "0596 60 10 15",
+  "website": "http://www.baguet-shop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7836793463498513252",
+  "rating": 3.5,
+  "reviewCount": 77,
+  "coords": [
+    14.6037221,
+    -61.071251
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 4:00 PM",
+    "Tuesday: 6:30 AM – 4:00 PM",
+    "Wednesday: 6:30 AM – 4:00 PM",
+    "Thursday: 6:30 AM – 4:00 PM",
+    "Friday: 6:30 AM – 4:00 PM",
+    "Saturday: 6:30 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baguet-shop-fort-de-france/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:17:09.648Z"
+}

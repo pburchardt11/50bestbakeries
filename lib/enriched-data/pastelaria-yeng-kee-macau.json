@@ -1,0 +1,32 @@
+{
+  "slug": "pastelaria-yeng-kee-macau",
+  "name": "Pastelaria Yeng Kee",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJzTvOsuV6ATQRl72wjq2E2U0",
+  "googleName": "Pastelaria Yeng Kee",
+  "formattedAddress": "2 Largo da Companhia de Jesus, Macao",
+  "phone": "2835 7992",
+  "website": "http://www.yengkee.com.mo/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5609660691824819607",
+  "rating": 4.3,
+  "reviewCount": 42,
+  "coords": [
+    22.1958949,
+    113.5400624
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 9:30 PM",
+    "Tuesday: 9:30 AM – 9:30 PM",
+    "Wednesday: 9:30 AM – 9:30 PM",
+    "Thursday: 9:30 AM – 9:30 PM",
+    "Friday: 9:30 AM – 9:30 PM",
+    "Saturday: 9:30 AM – 9:30 PM",
+    "Sunday: 9:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelaria-yeng-kee-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:40.345Z"
+}

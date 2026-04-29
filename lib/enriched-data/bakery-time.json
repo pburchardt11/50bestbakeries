@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-time",
+  "name": "Bakery Time",
+  "city": "أربيل",
+  "country": "Iraq",
+  "placeId": "ChIJT-8Crl0jB0ARc1I-CzeGGo0",
+  "googleName": "Bakery Time",
+  "formattedAddress": "Clinic Bus Stop، اربيل، أربيل محافظة، Iraq",
+  "phone": "0751 600 1407",
+  "website": "https://bio.link/bakerytime1?fbclid=PAZXh0bgNhZW0CMTEAAaZvkU64CR7QZghm5iDCFQuNDWKKJ-2HLReN7UkC9R6w-97SpnAF3A3Am-Q_aem_2u2r8IDD6GBFR9T6lv-vxQ",
+  "googleMapsUrl": "https://maps.google.com/?cid=10167586679712273011",
+  "rating": 4,
+  "reviewCount": 67,
+  "coords": [
+    36.17456019999999,
+    44.0063043
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-time/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:37:32.872Z"
+}

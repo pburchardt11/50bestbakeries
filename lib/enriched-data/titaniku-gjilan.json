@@ -1,0 +1,32 @@
+{
+  "slug": "titaniku-gjilan",
+  "name": "Titaniku",
+  "city": "Gjilan",
+  "country": "Kosovo",
+  "placeId": "ChIJfZibUQDzVBMRlAQVL-NRf2o",
+  "googleName": "Pizzeria Titaniku",
+  "formattedAddress": "321, Gjilan 60000",
+  "phone": "044 290 493",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7673942326251947156",
+  "rating": 4.8,
+  "reviewCount": 11,
+  "coords": [
+    42.4740048,
+    21.484744
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 AM",
+    "Tuesday: 7:00 AM – 2:00 AM",
+    "Wednesday: 7:00 AM – 2:00 AM",
+    "Thursday: 7:00 AM – 2:00 AM",
+    "Friday: 7:00 AM – 2:00 AM",
+    "Saturday: 7:00 AM – 2:00 AM",
+    "Sunday: 7:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/titaniku-gjilan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:55:09.964Z"
+}

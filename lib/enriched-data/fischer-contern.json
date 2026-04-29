@@ -1,0 +1,32 @@
+{
+  "slug": "fischer-contern",
+  "name": "Fischer",
+  "city": "Contern",
+  "country": "Luxembourg",
+  "placeId": "ChIJgyDSYC5HlUcRTMlXDEwoJF0",
+  "googleName": "Fischer",
+  "formattedAddress": "15-17 Rue de Moutfort, 5310 Contern, Luxembourg",
+  "phone": "26 37 89 93",
+  "website": "https://fischer1913.com/fr-lu/nos-salons/fischer-contern",
+  "googleMapsUrl": "https://maps.google.com/?cid=6711533651778586956",
+  "rating": 4.4,
+  "reviewCount": 49,
+  "coords": [
+    49.5852949,
+    6.227401299999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fischer-contern/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:33.402Z"
+}

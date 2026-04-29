@@ -1,0 +1,32 @@
+{
+  "slug": "elegant-cakes-bhaktapur",
+  "name": "Elegant Cakes",
+  "city": "Bhaktapur",
+  "country": "Nepal",
+  "placeId": "ChIJTVMCiEMb6zkR3cM1mKl0oHA",
+  "googleName": "ELEGANT CAKES",
+  "formattedAddress": "Napukhu, Itachhen, Bhaktapur 44800, Nepal",
+  "phone": "984-1184851",
+  "website": "http://www.facebook.com/Elegantcakesnepal",
+  "googleMapsUrl": "https://maps.google.com/?cid=8115614800273589213",
+  "rating": 3.8,
+  "reviewCount": 43,
+  "coords": [
+    27.6722189,
+    85.42409529999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elegant-cakes-bhaktapur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:32:49.136Z"
+}

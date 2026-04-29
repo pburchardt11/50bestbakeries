@@ -1,0 +1,32 @@
+{
+  "slug": "davidan-chisinau",
+  "name": "DaviDan",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJPXSxRQB9yUARhm-VYgLunhw",
+  "googleName": "DaviDan",
+  "formattedAddress": "Bulevardul Mircea cel Bătrîn 41a, Chișinău, Moldova",
+  "phone": "0609 90 444",
+  "website": "https://davidan.md/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2062347373393571718",
+  "rating": 4.3,
+  "reviewCount": 212,
+  "coords": [
+    47.0579603,
+    28.8908437
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/davidan-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:38.976Z"
+}

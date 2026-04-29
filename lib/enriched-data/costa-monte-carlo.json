@@ -1,0 +1,24 @@
+{
+  "slug": "costa-monte-carlo",
+  "name": "Costa",
+  "city": "Monte-Carlo",
+  "country": "Monaco",
+  "placeId": "ChIJQQEEpYnCzRIRRhRr0VYTAFY",
+  "googleName": "Avenue de la Costa",
+  "formattedAddress": "Av. de la Costa, 98000 Monaco",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6196974350863373382",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    43.7386755,
+    7.4245083
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/costa-monte-carlo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:22:58.555Z"
+}

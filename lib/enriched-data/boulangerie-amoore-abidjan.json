@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-amoore-abidjan",
+  "name": "Boulangerie Amoore",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJsQ97ljvwwQ8RMvtNgm_R8xw",
+  "googleName": "Boulangerie Amoore",
+  "formattedAddress": "354 Rue I2t, Abidjan, Côte d'Ivoire",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2086241329260395314",
+  "rating": 3.7,
+  "reviewCount": 181,
+  "coords": [
+    5.241891,
+    -3.8926115
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-amoore-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:43.253Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "ti-bart-la-trinite",
+  "name": "Ti'Bart",
+  "city": "La Trinité",
+  "country": "Martinique",
+  "placeId": "ChIJsxRw6PeWaowRYEP-99mZ7vI",
+  "googleName": "Ti Carbet",
+  "formattedAddress": "69 Rue de la Plage, La Trinité 97220, Martinique",
+  "phone": "0696 27 17 01",
+  "website": "https://www.facebook.com/pages/Ti-Carbet/143585085850614",
+  "googleMapsUrl": "https://maps.google.com/?cid=17505097963083285344",
+  "rating": 4.4,
+  "reviewCount": 514,
+  "coords": [
+    14.7651459,
+    -60.9107395
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 4:00 PM",
+    "Tuesday: 12:00 – 4:00 PM",
+    "Wednesday: 12:00 – 4:00 PM",
+    "Thursday: 12:00 – 4:00 PM",
+    "Friday: 12:00 – 4:00 PM",
+    "Saturday: 12:00 – 4:00 PM",
+    "Sunday: 12:00 – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ti-bart-la-trinite/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:17:36.642Z"
+}

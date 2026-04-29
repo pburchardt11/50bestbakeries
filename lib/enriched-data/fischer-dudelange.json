@@ -1,0 +1,32 @@
+{
+  "slug": "fischer-dudelange",
+  "name": "Fischer",
+  "city": "Dudelange",
+  "country": "Luxembourg",
+  "placeId": "ChIJNXtS5-Q2lUcRAvNtA-5IsiM",
+  "googleName": "Fischer Dudelange",
+  "formattedAddress": "33 Pl. de l'Hôtel de Ville, 3590 Dudelange, Luxembourg",
+  "phone": "26 51 21 46",
+  "website": "https://fischer1913.com/fr-lu/nos-salons/fischer-dudelange",
+  "googleMapsUrl": "https://maps.google.com/?cid=2572198524278928130",
+  "rating": 4.2,
+  "reviewCount": 89,
+  "coords": [
+    49.47897,
+    6.085560000000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fischer-dudelange/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:16.809Z"
+}

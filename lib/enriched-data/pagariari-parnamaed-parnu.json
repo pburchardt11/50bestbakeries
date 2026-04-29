@@ -1,0 +1,32 @@
+{
+  "slug": "pagariari-parnamaed-parnu",
+  "name": "Pagariäri Pärnamäed",
+  "city": "Pärnu",
+  "country": "Estonia",
+  "placeId": "ChIJ5btxV9P77EYRZ6DJtUZXZXo",
+  "googleName": "Pärnamäed bakery and cafe",
+  "formattedAddress": "7JW5+88, Reiu, 86508 Pärnu County, Estonia",
+  "phone": "5919 1115",
+  "website": "http://www.parnamaed.ee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8819551406484201575",
+  "rating": 4.6,
+  "reviewCount": 2234,
+  "coords": [
+    58.2959439,
+    24.6081875
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:30 PM",
+    "Tuesday: 9:00 AM – 6:30 PM",
+    "Wednesday: 9:00 AM – 6:30 PM",
+    "Thursday: 9:00 AM – 6:30 PM",
+    "Friday: 9:00 AM – 6:30 PM",
+    "Saturday: 9:00 AM – 6:30 PM",
+    "Sunday: 9:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pagariari-parnamaed-parnu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:54.789Z"
+}

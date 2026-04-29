@@ -1,0 +1,32 @@
+{
+  "slug": "noa-bakehouse-douglas",
+  "name": "Noa Bakehouse",
+  "city": "Douglas",
+  "country": "Isle of Man",
+  "placeId": "ChIJ96T8rBCFY0gRXWwPSHQqdyA",
+  "googleName": "Noa Bakehouse",
+  "formattedAddress": "Peveril Buildings, Peveril Square(Kerrin Peveril), Douglas, Isle of Man IM1 2BS, Isle of Man",
+  "phone": null,
+  "website": "https://www.noabakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2339385210355805277",
+  "rating": 4.5,
+  "reviewCount": 388,
+  "coords": [
+    54.1483968,
+    -4.4751391
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:30 PM",
+    "Tuesday: 8:00 AM – 2:30 PM",
+    "Wednesday: 8:00 AM – 2:30 PM",
+    "Thursday: 8:00 AM – 2:30 PM",
+    "Friday: 8:00 AM – 2:30 PM",
+    "Saturday: 9:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/noa-bakehouse-douglas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:34.741Z"
+}

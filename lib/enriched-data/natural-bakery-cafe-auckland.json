@@ -1,0 +1,30 @@
+{
+  "slug": "natural-bakery-cafe-auckland",
+  "name": "Natural Bakery & Cafe",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJ-6_arn1SDW0RlR0KEK4a89A",
+  "googleName": "Natural Bakery & Cafe",
+  "formattedAddress": "1/11 Weymouth Road, Manurewa, Auckland 2102, New Zealand",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15056407314125430165",
+  "rating": 3.9,
+  "reviewCount": 20,
+  "coords": [
+    -37.0239886,
+    174.8961973
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 4:30 PM",
+    "Tuesday: 5:00 AM – 4:30 PM",
+    "Wednesday: 5:00 AM – 4:30 PM",
+    "Thursday: 5:00 AM – 4:30 PM",
+    "Friday: 5:00 AM – 4:30 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:36:48.081Z"
+}

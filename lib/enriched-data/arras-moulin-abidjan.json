@@ -1,0 +1,32 @@
+{
+  "slug": "arras-moulin-abidjan",
+  "name": "ARRAS Moulin",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJzQ_esZzrwQ8RB74wlx7ZNzk",
+  "googleName": "ARRAS Moulin",
+  "formattedAddress": "7XXX+V3V, Abidjan, Côte d'Ivoire",
+  "phone": "05 06 88 3324",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4123002709289778695",
+  "rating": 3.5,
+  "reviewCount": 15,
+  "coords": [
+    5.2997496,
+    -4.0023293
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/arras-moulin-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:44:21.064Z"
+}

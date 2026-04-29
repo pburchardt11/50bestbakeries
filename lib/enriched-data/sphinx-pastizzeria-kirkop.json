@@ -1,0 +1,32 @@
+{
+  "slug": "sphinx-pastizzeria-kirkop",
+  "name": "Sphinx Pastizzeria",
+  "city": "Kirkop",
+  "country": "Malta",
+  "placeId": "ChIJGQtSkIdbDhMRFv7SQT65g0M",
+  "googleName": "Sphinx Pastizzeria Kirkop",
+  "formattedAddress": "208 Triq San Pietru, Ħal Kirkop, Malta",
+  "phone": "9972 6769",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4864935699533725206",
+  "rating": 4.6,
+  "reviewCount": 13,
+  "coords": [
+    35.8440581,
+    14.4847022
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 12:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 6:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sphinx-pastizzeria-kirkop/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:21.873Z"
+}

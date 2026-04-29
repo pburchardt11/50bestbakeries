@@ -1,0 +1,32 @@
+{
+  "slug": "wendy-bakery-ulaanbaatar",
+  "name": "Wendy Bakery",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJbXRlDxiSll0RBvergIBgGHk",
+  "googleName": "Wendy Bakery Сансар салбар",
+  "formattedAddress": "WWCV+Q5G, BZD - 7 khoroo, Ulaanbaatar 13345, Mongolia",
+  "phone": "7000 0626",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8725830383061169926",
+  "rating": 4.2,
+  "reviewCount": 60,
+  "coords": [
+    47.92193229999999,
+    106.9429596
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wendy-bakery-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:24:09.861Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pastelaria-cidade-de-maputo",
+  "name": "Pastelaria",
+  "city": "Cidade de Maputo",
+  "country": "Mozambique",
+  "placeId": "ChIJY_6kArOb5h4RroStR2Yv9rE",
+  "googleName": "Brazilian Pastel (Pastry)",
+  "formattedAddress": "Lab 6 - Centro empresarial, 114 R. António Simbine, Maputo 1000, Mozambique",
+  "phone": "85 648 5756",
+  "website": "https://www.facebook.com/pastelbrasileiro.mz",
+  "googleMapsUrl": "https://maps.google.com/?cid=12823489105319789742",
+  "rating": 4.5,
+  "reviewCount": 32,
+  "coords": [
+    -25.962433,
+    32.6006314
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:00 PM",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelaria-cidade-de-maputo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:28:53.304Z"
+}

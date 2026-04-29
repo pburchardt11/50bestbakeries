@@ -1,0 +1,32 @@
+{
+  "slug": "herman-s-modern-bakery-saipan",
+  "name": "Herman's Modern Bakery",
+  "city": "Saipan",
+  "country": "Northern Mariana Islands",
+  "placeId": "ChIJH4FXmNyz2GYR8JJKIAkGSM4",
+  "googleName": "Herman's Modern Bakery",
+  "formattedAddress": "500002 Tun Herman Pan Rd., 4PVJ+453, Dan Dan, Saipan 96950, CNMI",
+  "phone": "(670) 234-1726",
+  "website": "http://www.hermansbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14864137206402552560",
+  "rating": 4.4,
+  "reviewCount": 338,
+  "coords": [
+    15.142887,
+    145.730529
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/herman-s-modern-bakery-saipan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:13.613Z"
+}

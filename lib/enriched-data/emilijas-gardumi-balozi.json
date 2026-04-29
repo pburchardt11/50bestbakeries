@@ -1,0 +1,32 @@
+{
+  "slug": "emilijas-gardumi-balozi",
+  "name": "Emīlijas gardumi",
+  "city": "Baloži",
+  "country": "Latvia",
+  "placeId": "ChIJR3EpSL5pO64R62J2uhNo2wI",
+  "googleName": "Emīlijas gardumi",
+  "formattedAddress": "Bērzavoti K3, Lapenieki, Ķekavas pagasts, Ķekavas novads, LV-2111, Latvia",
+  "phone": "26 198 265",
+  "website": "https://emilijasgardumi.lv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=205872641917477611",
+  "rating": 4.8,
+  "reviewCount": 6,
+  "coords": [
+    56.873955,
+    24.152759
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/emilijas-gardumi-balozi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:00:57.614Z"
+}

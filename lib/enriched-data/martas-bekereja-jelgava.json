@@ -1,0 +1,32 @@
+{
+  "slug": "martas-bekereja-jelgava",
+  "name": "Martas Beķereja",
+  "city": "Jelgava",
+  "country": "Latvia",
+  "placeId": "ChIJT5BE6e0l70YRLsWrKWbwyvA",
+  "googleName": "Martas centrs",
+  "formattedAddress": "Dobeles šoseja 7, Jelgava, LV-3007, Latvia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17350944835974710574",
+  "rating": 4.3,
+  "reviewCount": 202,
+  "coords": [
+    56.65115249999999,
+    23.7063488
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martas-bekereja-jelgava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:49.908Z"
+}

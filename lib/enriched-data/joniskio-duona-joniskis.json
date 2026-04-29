@@ -1,0 +1,32 @@
+{
+  "slug": "joniskio-duona-joniskis",
+  "name": "Joniskio duona",
+  "city": "Joniškis",
+  "country": "Lithuania",
+  "placeId": "ChIJB0VgFvtS70YR84LzqXSkFYs",
+  "googleName": "Joniskio duona",
+  "formattedAddress": "V. Kudirkos g. 4, 84132 Joniškis, Lithuania",
+  "phone": "(0-426) 52355",
+  "website": "http://www.joniskioduona.lt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10022097366757376755",
+  "rating": 4.3,
+  "reviewCount": 107,
+  "coords": [
+    56.2421789,
+    23.6298277
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/joniskio-duona-joniskis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:06:57.188Z"
+}

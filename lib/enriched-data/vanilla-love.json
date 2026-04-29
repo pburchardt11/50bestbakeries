@@ -1,0 +1,32 @@
+{
+  "slug": "vanilla-love",
+  "name": "Vanilla Love",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJxy_C7G6HZ0ARoWvG9zlrkd0",
+  "googleName": "Vanilla Love",
+  "formattedAddress": "22 Selim Khimshiashvili St, Batumi, Georgia",
+  "phone": "597 01 43 33",
+  "website": "https://www.facebook.com/vanillalovebatumi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15965660050719402913",
+  "rating": 4.6,
+  "reviewCount": 111,
+  "coords": [
+    41.642525,
+    41.6294275
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 9:30 PM",
+    "Tuesday: 9:30 AM – 9:30 PM",
+    "Wednesday: 9:30 AM – 9:30 PM",
+    "Thursday: 9:30 AM – 9:30 PM",
+    "Friday: 9:30 AM – 9:30 PM",
+    "Saturday: 9:30 AM – 9:30 PM",
+    "Sunday: 9:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vanilla-love/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:14:41.640Z"
+}

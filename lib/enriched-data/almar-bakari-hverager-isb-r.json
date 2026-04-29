@@ -1,0 +1,32 @@
+{
+  "slug": "almar-bakari-hverager-isb-r",
+  "name": "Almar Bakari",
+  "city": "Hveragerðisbær",
+  "country": "Iceland",
+  "placeId": "ChIJUyzxzchm1kgRxJtg1gBZoeA",
+  "googleName": "Almar Bakari",
+  "formattedAddress": "Sunnumörk 2, 810 Hveragerði, Iceland",
+  "phone": "483 1919",
+  "website": "https://m.facebook.com/Almar-Bakari-122747403402/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16186316395877800900",
+  "rating": 4.6,
+  "reviewCount": 521,
+  "coords": [
+    63.9952364,
+    -21.1898207
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/almar-bakari-hverager-isb-r/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:13.726Z"
+}

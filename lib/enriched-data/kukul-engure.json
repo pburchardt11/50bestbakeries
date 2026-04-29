@@ -1,0 +1,32 @@
+{
+  "slug": "kukul-engure",
+  "name": "Kukul",
+  "city": "Engure",
+  "country": "Latvia",
+  "placeId": "ChIJ-y685ItZ7kYR_Mz3g90jl3o",
+  "googleName": "Kukul ceptuve",
+  "formattedAddress": "Jūras iela 73, Engure, Engures pagasts, Tukuma novads, LV-3113, Latvia",
+  "phone": "27 506 100",
+  "website": "http://facebook.com/kukulcepiens",
+  "googleMapsUrl": "https://maps.google.com/?cid=8833568628419316988",
+  "rating": 4.8,
+  "reviewCount": 895,
+  "coords": [
+    57.1587219,
+    23.2290023
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kukul-engure/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:19.335Z"
+}

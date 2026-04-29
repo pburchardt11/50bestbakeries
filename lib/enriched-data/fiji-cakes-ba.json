@@ -1,0 +1,32 @@
+{
+  "slug": "fiji-cakes-ba",
+  "name": "FijI Cakes",
+  "city": "Ba",
+  "country": "Fiji",
+  "placeId": "ChIJl9pr22rfG24RbviunZy-yaQ",
+  "googleName": "Cakes4U Fiji",
+  "formattedAddress": "opposite Leba Road, Laucala Beach Estate, Sekoula Rd, Suva, Fiji",
+  "phone": "276 8723",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11874231472408688750",
+  "rating": 4.9,
+  "reviewCount": 10,
+  "coords": [
+    -18.117107,
+    178.4712089
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fiji-cakes-ba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:07:36.942Z"
+}

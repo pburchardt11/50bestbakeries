@@ -1,0 +1,32 @@
+{
+  "slug": "hot-bakery-modern",
+  "name": "Hot Bakery Modern",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJmdUTbqmgHBUR9yUt5uETeN8",
+  "googleName": "Alsakhin Bakery",
+  "formattedAddress": "Al Muqabalayn, Amman, Jordan",
+  "phone": "07 9717 4328",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16102642328613496311",
+  "rating": 4.3,
+  "reviewCount": 902,
+  "coords": [
+    31.915392,
+    35.9117029
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:30 AM",
+    "Tuesday: 6:00 AM – 12:30 AM",
+    "Wednesday: 6:00 AM – 12:30 AM",
+    "Thursday: 6:00 AM – 12:30 AM",
+    "Friday: 6:00 AM – 12:30 AM",
+    "Saturday: 6:00 AM – 12:30 AM",
+    "Sunday: 6:00 AM – 12:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hot-bakery-modern/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:50:41.887Z"
+}

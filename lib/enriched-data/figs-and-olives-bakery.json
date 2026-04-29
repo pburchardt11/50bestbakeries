@@ -1,0 +1,32 @@
+{
+  "slug": "figs-and-olives-bakery",
+  "name": "Figs and Olives Bakery",
+  "city": "الفروانية",
+  "country": "Kuwait",
+  "placeId": "ChIJY1zsKqSbzz8R71vZR20mNmo",
+  "googleName": "Figs & Olives Bakery",
+  "formattedAddress": "16 2 St, Al Kuwayt, Kuwait",
+  "phone": "2208 5889",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7653346867561454575",
+  "rating": 4,
+  "reviewCount": 236,
+  "coords": [
+    29.3075307,
+    47.97414
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: Closed",
+    "Saturday: 7:30 AM – 10:00 PM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/figs-and-olives-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:21.081Z"
+}

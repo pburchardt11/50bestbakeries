@@ -1,0 +1,32 @@
+{
+  "slug": "pink-velvet-efthymi",
+  "name": "Pink Velvet",
+  "city": "Efthymi",
+  "country": "Greece",
+  "placeId": "ChIJdxTU0RF9nBQR3soB492RHy0",
+  "googleName": "Pink Velvet | Bakery • Coffee & More",
+  "formattedAddress": "Κάτω, Δαράτσος 731 00, Greece",
+  "phone": "2821 607070",
+  "website": "http://www.pink-velvet.gr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3251477838167132894",
+  "rating": 4.9,
+  "reviewCount": 156,
+  "coords": [
+    35.5103542,
+    23.9753096
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pink-velvet-efthymi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:22.123Z"
+}

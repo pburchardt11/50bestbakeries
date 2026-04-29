@@ -1,0 +1,32 @@
+{
+  "slug": "kee-wah-bakery-chai-wan",
+  "name": "Kee Wah Bakery ()",
+  "city": "Chai Wan",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJ896Ng1kABDQRH-crd3yW-jc",
+  "googleName": "Kee Wah Bakery (Sun Hung Kai Centre)",
+  "formattedAddress": "Hong Kong, Wan Chai, 1/F, Sun Hung Kai Centre, 30 Harbour Road, Wan Chai, Hong Kong",
+  "phone": "2324 5708",
+  "website": "https://www.keewah.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4033701877583177503",
+  "rating": 3.7,
+  "reviewCount": 30,
+  "coords": [
+    22.280659,
+    114.176849
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 7:00 PM",
+    "Tuesday: 9:30 AM – 7:00 PM",
+    "Wednesday: 9:30 AM – 7:00 PM",
+    "Thursday: 9:30 AM – 7:00 PM",
+    "Friday: 9:30 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Outpost of a Hong Kong-based bakery offering Chinese pastries & other snacks, plus custom cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kee-wah-bakery-chai-wan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:30:21.943Z"
+}

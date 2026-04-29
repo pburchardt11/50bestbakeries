@@ -1,0 +1,32 @@
+{
+  "slug": "passion-macarons-noumea",
+  "name": "Passion Macarons",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJRdAKI5bjJ2wROVizxMixMYs",
+  "googleName": "Passion Macarons",
+  "formattedAddress": "2 Rue de la Havannah, Nouméa 98800, New Caledonia",
+  "phone": "31.30.07",
+  "website": "http://shop.nc/passion-macarons-nc",
+  "googleMapsUrl": "https://maps.google.com/?cid=10029993320982468665",
+  "rating": 4.9,
+  "reviewCount": 23,
+  "coords": [
+    -22.2652486,
+    166.4713172
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/passion-macarons-noumea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:40.889Z"
+}

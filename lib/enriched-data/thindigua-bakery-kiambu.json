@@ -1,0 +1,32 @@
+{
+  "slug": "thindigua-bakery-kiambu",
+  "name": "Thindigua Bakery",
+  "city": "Kiambu",
+  "country": "Kenya",
+  "placeId": "ChIJceeH7Xs9LxgRGHr3ekx7iTM",
+  "googleName": "Thindigua Bakery",
+  "formattedAddress": "Thindigua, Nairobi, Kenya",
+  "phone": "0798 890830",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3713634936154454552",
+  "rating": 4.4,
+  "reviewCount": 8,
+  "coords": [
+    -1.2054645,
+    36.8363201
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thindigua-bakery-kiambu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:54:02.165Z"
+}

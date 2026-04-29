@@ -1,0 +1,32 @@
+{
+  "slug": "bummies-bakery-abuja",
+  "name": "Bummies Bakery",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "placeId": "ChIJ9xo17hMLThARpyExvLS1Jtw",
+  "googleName": "BUMMIES BAKERY",
+  "formattedAddress": "zone 1, DBM Plaza, Nouakchott St, Wuse, Abuja 904101, Federal Capital Territory, Nigeria",
+  "phone": "0705 766 1750",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15863566525315228071",
+  "rating": 4.2,
+  "reviewCount": 79,
+  "coords": [
+    9.0527246,
+    7.4664356
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bummies-bakery-abuja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:41:36.598Z"
+}

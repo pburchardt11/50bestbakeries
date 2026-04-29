@@ -1,0 +1,32 @@
+{
+  "slug": "excelsior-kingston",
+  "name": "Excelsior",
+  "city": "Kingston",
+  "country": "Jamaica",
+  "placeId": "ChIJmR1Cwo9q244R2C7GeG4GBI8",
+  "googleName": "Grand Hotel Excelsior Port Royal",
+  "formattedAddress": "Port Royal Main Rd, Port Royal, Jamaica",
+  "phone": "(876) 967-8387",
+  "website": "http://www.grandhotelexcelsiorportroyal.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10305368918872960728",
+  "rating": 3.6,
+  "reviewCount": 690,
+  "coords": [
+    17.9400408,
+    -76.8393361
+  ],
+  "openingHours": [
+    "Monday: 1:00 AM – 12:00 AM",
+    "Tuesday: 1:00 AM – 12:00 AM",
+    "Wednesday: 1:00 AM – 12:00 AM",
+    "Thursday: 1:00 AM – 12:00 AM",
+    "Friday: 1:00 AM – 12:00 AM",
+    "Saturday: 1:00 AM – 12:00 AM",
+    "Sunday: 1:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": "Relaxed hotel offering a marina & sea views, plus dining, bars & an outdoor pool.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/excelsior-kingston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:59.650Z"
+}

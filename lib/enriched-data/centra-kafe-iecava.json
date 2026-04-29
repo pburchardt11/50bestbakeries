@@ -1,0 +1,32 @@
+{
+  "slug": "centra-kafe-iecava",
+  "name": "Centra Kafe",
+  "city": "Iecava",
+  "country": "Latvia",
+  "placeId": "ChIJS0FbLnnR6EYRsZAq3sj0GxY",
+  "googleName": "Lunch restaurant “Dārta”",
+  "formattedAddress": "Grāfa laukums 4, Iecava, Iecava pilsēta, Bauskas novads, LV-3913, Latvia",
+  "phone": "63 941 832",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1593136036763570353",
+  "rating": 4.2,
+  "reviewCount": 122,
+  "coords": [
+    56.5927207,
+    24.2057231
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 5:00 PM",
+    "Tuesday: 11:00 AM – 5:00 PM",
+    "Wednesday: 11:00 AM – 5:00 PM",
+    "Thursday: 11:00 AM – 5:00 PM",
+    "Friday: 11:00 AM – 5:00 PM",
+    "Saturday: 11:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/centra-kafe-iecava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:38.049Z"
+}

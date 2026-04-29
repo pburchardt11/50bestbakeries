@@ -1,0 +1,32 @@
+{
+  "slug": "sesam-brau-hus-fjar-abygg",
+  "name": "Sesam brauðhús",
+  "city": "Fjarðabyggð",
+  "country": "Iceland",
+  "placeId": "ChIJSZu_5FmuzkgRLRr8L2W3fe4",
+  "googleName": "Sesam brauðhús",
+  "formattedAddress": "Island, 730 Reyðarfjörður, Iceland",
+  "phone": "475 8000",
+  "website": "http://www.sesam.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17185093398340311597",
+  "rating": 4.8,
+  "reviewCount": 130,
+  "coords": [
+    65.0323392,
+    -14.2183755
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:30 PM",
+    "Tuesday: 7:30 AM – 4:30 PM",
+    "Wednesday: 7:30 AM – 4:30 PM",
+    "Thursday: 7:30 AM – 4:30 PM",
+    "Friday: 7:30 AM – 4:30 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sesam-brau-hus-fjar-abygg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:33:42.193Z"
+}

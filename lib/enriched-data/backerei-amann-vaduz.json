@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-amann-vaduz",
+  "name": "Bäckerei Amann",
+  "city": "Vaduz",
+  "country": "Liechtenstein",
+  "placeId": "ChIJKRSZjWcxm0cRcsHRC96fmH4",
+  "googleName": "Bäckerei Amann",
+  "formattedAddress": "Aeulestrasse 56, 9490 Vaduz, Liechtenstein",
+  "phone": "232 10 53",
+  "website": "http://www.amann-ag.li/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9122216821268791666",
+  "rating": 4.2,
+  "reviewCount": 93,
+  "coords": [
+    47.138824,
+    9.521307799999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:30 PM",
+    "Tuesday: 7:00 AM – 5:30 PM",
+    "Wednesday: 7:00 AM – 5:30 PM",
+    "Thursday: 7:00 AM – 5:30 PM",
+    "Friday: 7:00 AM – 5:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-amann-vaduz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:05:25.606Z"
+}

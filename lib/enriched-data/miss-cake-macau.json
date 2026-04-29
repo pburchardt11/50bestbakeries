@@ -1,0 +1,32 @@
+{
+  "slug": "miss-cake-macau",
+  "name": "Miss Cake",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJsUwt2Y-d4jAR9xzEbdDDAlw",
+  "googleName": "MISS CAKE (เค้กมะพร้าวน้ำหอม)",
+  "formattedAddress": "ถนนนาคนิวาส - ซอย นาคนิวาส 37 Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+  "phone": "081 313 7846",
+  "website": "https://www.facebook.com/share/p/17nDAdEQTr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6630076901404974327",
+  "rating": 3.9,
+  "reviewCount": 158,
+  "coords": [
+    13.8095631,
+    100.6083271
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/miss-cake-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:10:44.890Z"
+}

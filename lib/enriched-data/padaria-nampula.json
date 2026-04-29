@@ -1,0 +1,32 @@
+{
+  "slug": "padaria-nampula",
+  "name": "Padaria Nampula",
+  "city": "Nampula",
+  "country": "Mozambique",
+  "placeId": "ChIJaev4_m01xhgRi8MNGnmfZPE",
+  "googleName": "Padaria e Pastelaria 786",
+  "formattedAddress": "Nampula, Mozambique",
+  "phone": "84 604 6941",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17394203003288667019",
+  "rating": 4.1,
+  "reviewCount": 54,
+  "coords": [
+    -15.1210982,
+    39.2638033
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-nampula/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:29:47.676Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "itsy-bite-male",
+  "name": "Itsy Bite",
+  "city": "Malé",
+  "country": "Maldives",
+  "placeId": "ChIJJ3f5EuR_PzsRjCvVF87SMYU",
+  "googleName": "Sip & Bite",
+  "formattedAddress": "H. Light Rose, Malé 20071, Maldives",
+  "phone": null,
+  "website": "http://www.lightbrose.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9597684063508179852",
+  "rating": 4.4,
+  "reviewCount": 8,
+  "coords": [
+    4.1747265,
+    73.51387919999999
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 12:00 AM",
+    "Tuesday: 8:30 AM – 12:00 AM",
+    "Wednesday: 8:30 AM – 12:00 AM",
+    "Thursday: 8:30 AM – 12:00 AM",
+    "Friday: 8:30 – 10:00 AM, 2:00 PM – 12:00 AM",
+    "Saturday: 8:30 AM – 12:00 AM",
+    "Sunday: 8:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/itsy-bite-male/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:13:25.852Z"
+}

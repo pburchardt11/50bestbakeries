@@ -1,0 +1,32 @@
+{
+  "slug": "al-sanabel-bakery-and-sweets",
+  "name": "Al Sanabel Bakery and Sweets",
+  "city": "البتراء",
+  "country": "Jordan",
+  "placeId": "ChIJHflAUC1pARURYnbiVqcRUPg",
+  "googleName": "SANABEL Sweets and Bakeries",
+  "formattedAddress": "Wadi Musa, Jordan",
+  "phone": "(03) 215 7925",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17892820729957873250",
+  "rating": 4.1,
+  "reviewCount": 418,
+  "coords": [
+    30.3219101,
+    35.47868
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-sanabel-bakery-and-sweets/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:21.730Z"
+}

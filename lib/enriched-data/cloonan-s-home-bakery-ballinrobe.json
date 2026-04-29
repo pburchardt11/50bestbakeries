@@ -1,0 +1,32 @@
+{
+  "slug": "cloonan-s-home-bakery-ballinrobe",
+  "name": "Cloonan's Home Bakery",
+  "city": "Ballinrobe",
+  "country": "Ireland",
+  "placeId": "ChIJtWLd_GnnW0gRggaPl5RYdwA",
+  "googleName": "Cloonans Home Bakery",
+  "formattedAddress": "Bowgate St, Cornaroya, Ballinrobe, Co. Mayo, Ireland",
+  "phone": "087 282 1443",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=33592917449705090",
+  "rating": 4.9,
+  "reviewCount": 21,
+  "coords": [
+    53.6207021,
+    -9.2223641
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cloonan-s-home-bakery-ballinrobe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:03.501Z"
+}

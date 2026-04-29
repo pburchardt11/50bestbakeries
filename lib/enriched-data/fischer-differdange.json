@@ -1,0 +1,32 @@
+{
+  "slug": "fischer-differdange",
+  "name": "Fischer",
+  "city": "Differdange",
+  "country": "Luxembourg",
+  "placeId": "ChIJ91qmf3HL6kcRpKRA5Y731sM",
+  "googleName": "Fischer",
+  "formattedAddress": "4 Rue John Ernest Dolibois, 4575 Oberkorn Differdange, Luxembourg",
+  "phone": "27 74 58 30",
+  "website": "https://fischer1913.com/fr-lu/nos-salons/fischer-gravity-differdange",
+  "googleMapsUrl": "https://maps.google.com/?cid=14111738675515663524",
+  "rating": 3.7,
+  "reviewCount": 13,
+  "coords": [
+    49.522291,
+    5.8941763
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fischer-differdange/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:04.658Z"
+}

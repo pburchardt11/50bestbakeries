@@ -1,0 +1,32 @@
+{
+  "slug": "anna-s-cakeshop-nadi",
+  "name": "Anna's Cakeshop",
+  "city": "Nadi",
+  "country": "Fiji",
+  "placeId": "ChIJGYVSHbtbF24RPj9n6FKMN5U",
+  "googleName": "Annas Cake & Cafe",
+  "formattedAddress": "Jetpoint, Nadi, Fiji",
+  "phone": "807 6330",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10752216923084635966",
+  "rating": 4.6,
+  "reviewCount": 71,
+  "coords": [
+    -17.7794013,
+    177.431799
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/anna-s-cakeshop-nadi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:07:46.835Z"
+}

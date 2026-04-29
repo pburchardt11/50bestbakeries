@@ -1,0 +1,32 @@
+{
+  "slug": "maison-sukal-bamako",
+  "name": "Maison Sukal",
+  "city": "Bamako",
+  "country": "Mali",
+  "placeId": "ChIJhZA-CifNUQ4RFSJYIuwQ5ZQ",
+  "googleName": "Maison Sukal",
+  "formattedAddress": "ACI2000, Bamako, Mali",
+  "phone": "79 07 97 97",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10729000293654602261",
+  "rating": 4.3,
+  "reviewCount": 138,
+  "coords": [
+    12.6253425,
+    -8.0240367
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-sukal-bamako/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:26.797Z"
+}

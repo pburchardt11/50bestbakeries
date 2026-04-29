@@ -1,0 +1,32 @@
+{
+  "slug": "choc-au-lait-patisserie-mosta",
+  "name": "Choc Au Lait Patisserie",
+  "city": "Mosta",
+  "country": "Malta",
+  "placeId": "ChIJj8TpEeJPDhMRZckQE8-ZqY0",
+  "googleName": "Choc Au Lait Patisserie",
+  "formattedAddress": "117 Constitution St, Mosta, Malta",
+  "phone": "2743 4329",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10207859145069087077",
+  "rating": 4.5,
+  "reviewCount": 61,
+  "coords": [
+    35.9110944,
+    14.4236753
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/choc-au-lait-patisserie-mosta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:39.469Z"
+}

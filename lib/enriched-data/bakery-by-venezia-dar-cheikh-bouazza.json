@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-by-venezia-dar-cheikh-bouazza",
+  "name": "Bakery by Venezia",
+  "city": "Dar Cheikh Bouazza",
+  "country": "Morocco",
+  "placeId": "ChIJXaPYdwaBqA0Raw-iwoc9hVs",
+  "googleName": "Bakery By Venezia",
+  "formattedAddress": "Comm.d, Tamaris, G57J+HG4, Casablanca 27223, Morocco",
+  "phone": "05 22 39 04 18",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6594744882649239403",
+  "rating": 3.3,
+  "reviewCount": 12,
+  "coords": [
+    33.5138806,
+    -7.8186814
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-by-venezia-dar-cheikh-bouazza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:27:25.653Z"
+}

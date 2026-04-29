@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-el-houria-el-gara",
+  "name": "Boulangerie Pâtisserie El Houria",
+  "city": "El Gara",
+  "country": "Morocco",
+  "placeId": "ChIJX0-emWPNpw0RNDrK6O0q0xc",
+  "googleName": "Boulangerie Pâtisserie Al Barakata",
+  "formattedAddress": "20 Rue Faidi Khalifa، Dar-el-Beida 20000, Morocco",
+  "phone": "06 77 72 34 49",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1716763084259473972",
+  "rating": 4.3,
+  "reviewCount": 1032,
+  "coords": [
+    33.5922468,
+    -7.6059018
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Bakery & patisserie specializing in breads, pastries & special occasions, open since 1985.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-el-houria-el-gara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:27:28.280Z"
+}

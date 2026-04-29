@@ -1,0 +1,32 @@
+{
+  "slug": "nemedi-pekseg-alsonemedi",
+  "name": "Némedi Pékség",
+  "city": "Alsónémedi",
+  "country": "Hungary",
+  "placeId": "ChIJi-W_fUHsQUcRoG8AWbZ2pxE",
+  "googleName": "Némedi Pékség",
+  "formattedAddress": "Alsónémedi, Fő út 54, 2351 Hungary",
+  "phone": "06 30 121 8075",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1272115945304780704",
+  "rating": 4.2,
+  "reviewCount": 410,
+  "coords": [
+    47.31379,
+    19.1667174
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 8:00 PM",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nemedi-pekseg-alsonemedi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:32:48.389Z"
+}

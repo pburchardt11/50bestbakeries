@@ -1,0 +1,32 @@
+{
+  "slug": "danny-s-kiwi-bakery-auckland",
+  "name": "Danny's Kiwi Bakery",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJdcHOQS9TDW0RsBklLvbMWLI",
+  "googleName": "Danny's Kiwi Bakery",
+  "formattedAddress": "9 Leonard Street, Waiuku 2123, New Zealand",
+  "phone": "09 235 2022",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12851246894409914800",
+  "rating": 4.6,
+  "reviewCount": 215,
+  "coords": [
+    -37.2505717,
+    174.7276638
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 5:00 PM",
+    "Tuesday: 5:00 AM – 5:00 PM",
+    "Wednesday: 5:00 AM – 5:00 PM",
+    "Thursday: 5:00 AM – 5:00 PM",
+    "Friday: 5:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/danny-s-kiwi-bakery-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:27.853Z"
+}

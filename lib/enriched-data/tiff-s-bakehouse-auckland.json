@@ -1,0 +1,32 @@
+{
+  "slug": "tiff-s-bakehouse-auckland",
+  "name": "Tiff's Bakehouse",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJB4vx_C9TDW0RKz6xAzhangg",
+  "googleName": "Tiff's Bakehouse Limited",
+  "formattedAddress": "55 Churchill Avenue, Manurewa, Auckland 2102, New Zealand",
+  "phone": "09 264 0313",
+  "website": "https://www.facebook.com/Tiffs-Bakehouse-Manurewa-104726805604033",
+  "googleMapsUrl": "https://maps.google.com/?cid=621032995250322987",
+  "rating": 4.4,
+  "reviewCount": 126,
+  "coords": [
+    -37.0299328,
+    174.8966994
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiff-s-bakehouse-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:49.727Z"
+}

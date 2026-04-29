@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-velklas",
+  "name": "Pekara Velklas",
+  "city": "Велес",
+  "country": "North Macedonia",
+  "placeId": "ChIJsfPbzSoqVBMRfoz6PjEqUYk",
+  "googleName": "Pekara VELKLAS ...Пекара ВЕЛКЛАС",
+  "formattedAddress": "D-r Hristo Tatarchev 11, Veles 1400, North Macedonia",
+  "phone": "043 222 422",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9894736247308061822",
+  "rating": 4.1,
+  "reviewCount": 42,
+  "coords": [
+    41.7172239,
+    21.7636401
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-velklas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:43:23.701Z"
+}

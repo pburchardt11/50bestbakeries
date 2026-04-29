@@ -1,0 +1,32 @@
+{
+  "slug": "la-croissanterie-afrique-conakry",
+  "name": "La Croissanterie Afrique",
+  "city": "Conakry",
+  "country": "Guinea",
+  "placeId": "ChIJhacEC2fRHA8R2ch4Xy90SyU",
+  "googleName": "La Croissanterie",
+  "formattedAddress": "N1, Conakry 306, Guinea",
+  "phone": "628 68 70 11",
+  "website": "https://www.lacroissanterie.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2687369349470669017",
+  "rating": 3.5,
+  "reviewCount": 4,
+  "coords": [
+    9.5144465,
+    -13.7011624
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-croissanterie-afrique-conakry/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:25:09.510Z"
+}

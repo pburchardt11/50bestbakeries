@@ -1,0 +1,32 @@
+{
+  "slug": "jesters-pies-auckland",
+  "name": "Jesters Pies",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJPy7XpAxJDW0RsX5kp0tcqHo",
+  "googleName": "Jesters Pies, Mt Wellington",
+  "formattedAddress": "65 Lunn Avenue, Mount Wellington, Auckland 1072, New Zealand",
+  "phone": "09 570 7260",
+  "website": "http://www.jesters-pies.co.nz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8838415748715282097",
+  "rating": 3.7,
+  "reviewCount": 167,
+  "coords": [
+    -36.8912529,
+    174.835556
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:30 PM",
+    "Tuesday: 7:30 AM – 4:30 PM",
+    "Wednesday: 7:30 AM – 4:30 PM",
+    "Thursday: 7:30 AM – 4:30 PM",
+    "Friday: 7:30 AM – 4:30 PM",
+    "Saturday: 9:00 AM – 4:30 PM",
+    "Sunday: 9:00 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jesters-pies-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:20.292Z"
+}

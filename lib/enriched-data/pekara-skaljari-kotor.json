@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-skaljari-kotor",
+  "name": "Pekara Škaljari KOTOR",
+  "city": "Kotor",
+  "country": "Montenegro",
+  "placeId": "ChIJTb5h_-4zTBMRzIkS6ufkCf4",
+  "googleName": "Škaljari Bakery",
+  "formattedAddress": "85330 Put prvoboraca, Kotor, Montenegro",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18305413845139753420",
+  "rating": 4.3,
+  "reviewCount": 80,
+  "coords": [
+    42.4176666,
+    18.7674644
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-skaljari-kotor/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:46.183Z"
+}

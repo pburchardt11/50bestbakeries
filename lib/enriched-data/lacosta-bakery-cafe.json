@@ -1,0 +1,32 @@
+{
+  "slug": "lacosta-bakery-cafe",
+  "name": "Lacosta Bakery & Cafe",
+  "city": "العقبة",
+  "country": "Jordan",
+  "placeId": "ChIJC-Gvkz1xABURZaV021icPDg",
+  "googleName": "Lacosta Bakery & Cafe",
+  "formattedAddress": "An Nahdah 18, Aqaba, Jordan",
+  "phone": "07 7044 0330",
+  "website": "https://linktr.ee/Lacosta.BakeryCafe",
+  "googleMapsUrl": "https://maps.google.com/?cid=4052285670179513701",
+  "rating": 4.9,
+  "reviewCount": 705,
+  "coords": [
+    29.5309164,
+    35.0026803
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lacosta-bakery-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:32.256Z"
+}

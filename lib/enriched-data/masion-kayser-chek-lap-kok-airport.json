@@ -1,0 +1,32 @@
+{
+  "slug": "masion-kayser-chek-lap-kok-airport",
+  "name": "Masion Kayser",
+  "city": "Chek Lap Kok Airport",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJD_q05AMBBDQRhYqp1U9vRqE",
+  "googleName": "Maison Kayser (Tsim Sha Tsui)",
+  "formattedAddress": "8 Minden Ave, Tsim Sha Tsui, Hong Kong",
+  "phone": "2869 6122",
+  "website": "https://www.maison-kayser.com.hk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11621098277153901189",
+  "rating": 4.2,
+  "reviewCount": 298,
+  "coords": [
+    22.2967262,
+    114.173745
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/masion-kayser-chek-lap-kok-airport/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:31:51.953Z"
+}

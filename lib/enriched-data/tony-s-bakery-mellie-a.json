@@ -1,0 +1,32 @@
+{
+  "slug": "tony-s-bakery-mellie-a",
+  "name": "Tony's Bakery",
+  "city": "Mellieħa",
+  "country": "Malta",
+  "placeId": "ChIJs9EbUQ9NDhMR4iSgLBE6W_k",
+  "googleName": "Tony’s Bakery",
+  "formattedAddress": "32a Triq it-Tramuntana, Il-Mellieħa, Malta",
+  "phone": "2152 3432",
+  "website": "https://m.facebook.com/tonysmlh/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17968018983762273506",
+  "rating": 4.4,
+  "reviewCount": 17,
+  "coords": [
+    35.9599871,
+    14.3605407
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 12:00 PM",
+    "Tuesday: 5:00 AM – 12:00 PM",
+    "Wednesday: 5:00 AM – 12:00 PM",
+    "Thursday: 5:00 AM – 12:00 PM",
+    "Friday: 5:00 AM – 12:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tony-s-bakery-mellie-a/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:32.785Z"
+}

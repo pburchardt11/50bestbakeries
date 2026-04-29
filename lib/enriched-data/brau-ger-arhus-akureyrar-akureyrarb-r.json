@@ -1,0 +1,32 @@
+{
+  "slug": "brau-ger-arhus-akureyrar-akureyrarb-r",
+  "name": "Brauðgerðarhús Akureyrar",
+  "city": "Akureyrarbær",
+  "country": "Iceland",
+  "placeId": "ChIJo02WoFCP0kgRHatQZABbLOk",
+  "googleName": "Brauðgerðarhús",
+  "formattedAddress": "Sunnuhlíð 12, 603 Akureyri, Iceland",
+  "phone": "534 0034",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16801904367053613853",
+  "rating": 4.8,
+  "reviewCount": 96,
+  "coords": [
+    65.6906987,
+    -18.1248142
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: 7:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brau-ger-arhus-akureyrar-akureyrarb-r/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:33:32.354Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-selecta-barberena",
+  "name": "Panaderia La Selecta",
+  "city": "Barberena",
+  "country": "Guatemala",
+  "placeId": "ChIJRXc7cb20iYURY8cFBBRtQ2A",
+  "googleName": "Panaderia La Selecta",
+  "formattedAddress": "Barberena, Guatemala",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6936507783814956899",
+  "rating": 4,
+  "reviewCount": 6,
+  "coords": [
+    14.3076957,
+    -90.3627839
+  ],
+  "openingHours": [
+    "Monday: 3:00 – 8:00 PM",
+    "Tuesday: 3:00 – 8:00 PM",
+    "Wednesday: 3:00 – 8:00 PM",
+    "Thursday: 3:00 – 8:00 PM",
+    "Friday: 3:00 – 8:00 PM",
+    "Saturday: 3:00 – 8:00 PM",
+    "Sunday: 3:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-selecta-barberena/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:24:13.292Z"
+}

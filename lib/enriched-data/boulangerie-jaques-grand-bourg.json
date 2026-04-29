@@ -1,0 +1,24 @@
+{
+  "slug": "boulangerie-jaques-grand-bourg",
+  "name": "Boulangerie Jaques",
+  "city": "Grand-Bourg",
+  "country": "Guadeloupe",
+  "placeId": "ChIJdb1VdNtVa4wRdTU7lCeRNbw",
+  "googleName": "Boulangerie Jaques",
+  "formattedAddress": "VMMM+6JH, N 9, Grand-Bourg 97112, Guadeloupe",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13561905452072777077",
+  "rating": 4.4,
+  "reviewCount": 15,
+  "coords": [
+    15.8830691,
+    -61.3158773
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-jaques-grand-bourg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:21:20.474Z"
+}

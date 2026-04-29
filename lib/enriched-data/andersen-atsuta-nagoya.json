@@ -1,0 +1,32 @@
+{
+  "slug": "andersen-atsuta-nagoya",
+  "name": "ANDERSEN",
+  "city": "Atsuta, Nagoya",
+  "country": "Japan",
+  "placeId": "ChIJJRIRWR96A2AR1pCxwc4H298",
+  "googleName": "Houraiken",
+  "formattedAddress": "503 Gōdochō, Atsuta Ward, Nagoya, Aichi 456-0043, Japan",
+  "phone": "052-671-8686",
+  "website": "http://www.houraiken.com/honten/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16130495074951860438",
+  "rating": 4.5,
+  "reviewCount": 7464,
+  "coords": [
+    35.1201689,
+    136.9068979
+  ],
+  "openingHours": [
+    "Monday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Tuesday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Wednesday: Closed",
+    "Thursday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Friday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Saturday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Sunday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/andersen-atsuta-nagoya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:28.246Z"
+}

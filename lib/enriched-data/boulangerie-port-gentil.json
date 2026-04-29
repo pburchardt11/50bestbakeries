@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-port-gentil",
+  "name": "Boulangerie",
+  "city": "Port-Gentil",
+  "country": "Gabon",
+  "placeId": "ChIJoZGWpA63gxoRdRrgzzLhJQM",
+  "googleName": "Boulangerie",
+  "formattedAddress": "7QHM+M8J, Port-Gentil, Gabon",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=226834964604263029",
+  "rating": 3.5,
+  "reviewCount": 32,
+  "coords": [
+    -0.7207955,
+    8.783274600000002
+  ],
+  "openingHours": [
+    "Monday: 6:15 AM – 7:30 PM",
+    "Tuesday: 6:15 AM – 7:30 PM",
+    "Wednesday: 6:15 AM – 7:30 PM",
+    "Thursday: 6:15 AM – 7:30 PM",
+    "Friday: 6:15 AM – 7:30 PM",
+    "Saturday: 6:15 AM – 7:30 PM",
+    "Sunday: 6:15 AM – 12:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-port-gentil/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:34.330Z"
+}

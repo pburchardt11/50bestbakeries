@@ -1,0 +1,32 @@
+{
+  "slug": "mahia-bakehouse-auckland",
+  "name": "Mahia Bakehouse",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJXTWBYopSDW0Rrdersr62sQM",
+  "googleName": "Mahia Bakehouse",
+  "formattedAddress": "64 Mahia Road, Manurewa, Auckland 2102, New Zealand",
+  "phone": "09 266 7838",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=266194783149217709",
+  "rating": 4,
+  "reviewCount": 70,
+  "coords": [
+    -37.0351731,
+    174.8992411
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mahia-bakehouse-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:57.060Z"
+}

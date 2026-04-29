@@ -1,0 +1,30 @@
+{
+  "slug": "sidonia",
+  "name": "Sidonia",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJi1jvq9ePZ0AR_03xUCj9Y9g",
+  "googleName": "Sidonia",
+  "formattedAddress": "HMP2+2G9, Batumi, Georgia",
+  "phone": "0422 22 20 40",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15592584684485299711",
+  "rating": 4.8,
+  "reviewCount": 25,
+  "coords": [
+    41.5850375,
+    41.6513594
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:15:30.099Z"
+}

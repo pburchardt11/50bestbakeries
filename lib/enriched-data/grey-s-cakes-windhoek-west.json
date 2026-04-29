@@ -1,0 +1,32 @@
+{
+  "slug": "grey-s-cakes-windhoek-west",
+  "name": "Grey's Cakes",
+  "city": "Windhoek West",
+  "country": "Namibia",
+  "placeId": "ChIJi9vO1EobCxwRJttXM63Ln8A",
+  "googleName": "Grey's Cakes",
+  "formattedAddress": "1770 Stonechat Street, Windhoek, Namibia",
+  "phone": "085 379 1908",
+  "website": "https://greyscakes.namibia.to/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13880036521330334502",
+  "rating": 4.6,
+  "reviewCount": 15,
+  "coords": [
+    -22.5722492,
+    17.0558421
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grey-s-cakes-windhoek-west/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:32:01.603Z"
+}

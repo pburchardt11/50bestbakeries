@@ -1,0 +1,32 @@
+{
+  "slug": "the-artisan-bakery-cake-studio-mosta",
+  "name": "The Artisan Bakery & Cake Studio",
+  "city": "Mosta",
+  "country": "Malta",
+  "placeId": "ChIJrwGgt0xPDhMRjMFYg0D691o",
+  "googleName": "The Artisan Bakery & Cake Studio",
+  "formattedAddress": "3 Triq Midbah, Mosta, Malta",
+  "phone": "9902 5785",
+  "website": "https://www.facebook.com/@CakeArtsInstitutebyFrancesMontilla/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6554982937649529228",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    35.9153847,
+    14.4300775
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-artisan-bakery-cake-studio-mosta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:44.873Z"
+}

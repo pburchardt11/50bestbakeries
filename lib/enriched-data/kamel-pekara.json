@@ -1,0 +1,32 @@
+{
+  "slug": "kamel-pekara",
+  "name": "Kamel Pekara",
+  "city": "Виница",
+  "country": "North Macedonia",
+  "placeId": "ChIJA-B53WuMVRMRWKdK09wvJaQ",
+  "googleName": "Kamel Bakery",
+  "formattedAddress": "VGP4+63P, Vinica, North Macedonia",
+  "phone": "033 364 598",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11827912621842671448",
+  "rating": 4.2,
+  "reviewCount": 95,
+  "coords": [
+    41.88559,
+    22.5051909
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kamel-pekara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:43:34.599Z"
+}

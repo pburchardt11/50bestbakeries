@@ -1,0 +1,32 @@
+{
+  "slug": "natural-food",
+  "name": "Natural Food",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJ0X3F4eqHZ0ARZmkpleW9Yok",
+  "googleName": "Organic Secret's Shop Batumi",
+  "formattedAddress": "M, Lermontova, 12 St, Batumi 6004, Georgia",
+  "phone": "574 44 46 79",
+  "website": "https://instagram.com/organic_secrets.ge?utm_medium=copy_link",
+  "googleMapsUrl": "https://maps.google.com/?cid=9899683724661451110",
+  "rating": 4.6,
+  "reviewCount": 47,
+  "coords": [
+    41.643952,
+    41.6249311
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/natural-food/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:14:15.234Z"
+}

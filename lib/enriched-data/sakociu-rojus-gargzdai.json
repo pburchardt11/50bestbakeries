@@ -1,0 +1,32 @@
+{
+  "slug": "sakociu-rojus-gargzdai",
+  "name": "Šakočių rojus",
+  "city": "Gargždai",
+  "country": "Lithuania",
+  "placeId": "ChIJ6TiTcSzh5EYRpsVZs3yduEo",
+  "googleName": "Šakočių rojus",
+  "formattedAddress": "Turgaus gatvė 4A, 96135 Gargždai, Lithuania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5384226513431938470",
+  "rating": 4.3,
+  "reviewCount": 8,
+  "coords": [
+    55.7095561,
+    21.3986338
+  ],
+  "openingHours": [
+    "Monday: 7:45 AM – 3:00 PM",
+    "Tuesday: 7:45 AM – 3:00 PM",
+    "Wednesday: 7:45 AM – 3:00 PM",
+    "Thursday: 7:45 AM – 3:00 PM",
+    "Friday: 7:45 AM – 3:00 PM",
+    "Saturday: 7:45 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sakociu-rojus-gargzdai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:06:29.555Z"
+}

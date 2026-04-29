@@ -1,0 +1,32 @@
+{
+  "slug": "muhu-pagarid-ou-muhu",
+  "name": "Muhu Pagarid OÜ",
+  "city": "Muhu",
+  "country": "Estonia",
+  "placeId": "ChIJPcb4RHyC8kYRnvdnEJNAqY4",
+  "googleName": "Muhu Pagarid OÜ",
+  "formattedAddress": "Meierei, Liiva, 94701 Saare maakond, Estonia",
+  "phone": "5620 3700",
+  "website": "https://muhupagarid.ee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10279818624829487006",
+  "rating": 4.8,
+  "reviewCount": 772,
+  "coords": [
+    58.6058949,
+    23.2341322
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/muhu-pagarid-ou-muhu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:30.027Z"
+}

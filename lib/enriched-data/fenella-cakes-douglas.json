@@ -1,0 +1,32 @@
+{
+  "slug": "fenella-cakes-douglas",
+  "name": "Fenella Cakes",
+  "city": "Douglas",
+  "country": "Isle of Man",
+  "placeId": "ChIJlWGscACOY0gRQ7lHcg5xSLM",
+  "googleName": "Fenella Cakes - Isle of Man",
+  "formattedAddress": "Tennis Rd, Douglas, Isle of Man IM2 3QN, Isle of Man",
+  "phone": "07624 262716",
+  "website": "https://www.facebook.com/fenella.cakes/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12918699837973051715",
+  "rating": 4.9,
+  "reviewCount": 34,
+  "coords": [
+    54.1563955,
+    -4.4920066
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fenella-cakes-douglas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:40.281Z"
+}

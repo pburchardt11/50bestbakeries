@@ -1,0 +1,32 @@
+{
+  "slug": "majo-bakari-reykjavikurborg",
+  "name": "Majó Bakari",
+  "city": "Reykjavíkurborg",
+  "country": "Iceland",
+  "placeId": "ChIJv1c1KWhz1kgRSLxEC1RlcRk",
+  "googleName": "Bakarameistarinn - Mjódd",
+  "formattedAddress": "Álfabakki 12, 109 Reykjavík, Iceland",
+  "phone": "557 3700",
+  "website": "http://www.bakarameistarinn.is/is/shop/mjodd",
+  "googleMapsUrl": "https://maps.google.com/?cid=1833357934957214792",
+  "rating": 4.1,
+  "reviewCount": 46,
+  "coords": [
+    64.1085989,
+    -21.8434499
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/majo-bakari-reykjavikurborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:35:03.573Z"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "corner-bakery",
+  "name": "Corner Bakery",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJVVVVVUWPZ0ARRVo3RT1HG54",
+  "googleName": "Corner Bakery",
+  "formattedAddress": "JJM7+38V, Batumi, Georgia",
+  "phone": "597 00 25 25",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11392778010843634245",
+  "rating": 4.4,
+  "reviewCount": 26,
+  "coords": [
+    41.6327469,
+    41.6132983
+  ],
+  "openingHours": null,
+  "editorialSummary": "Casual, counter-serve cafe chain offering a standard menu of sandwiches, pasta & pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/corner-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:14:16.849Z"
+}

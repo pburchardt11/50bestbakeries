@@ -1,0 +1,32 @@
+{
+  "slug": "mahia-classic-bakery-auckland",
+  "name": "Mahia Classic Bakery",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJPbRVIoxSDW0ROTKa_YFZhz8",
+  "googleName": "Classic Bakery",
+  "formattedAddress": "2A Mahia Road, Manurewa, Auckland 2102, New Zealand",
+  "phone": "09 267 0636",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4577725961085792825",
+  "rating": 4.2,
+  "reviewCount": 65,
+  "coords": [
+    -37.0333203,
+    174.9051363
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:00 PM",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: 7:30 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mahia-classic-bakery-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:01.906Z"
+}

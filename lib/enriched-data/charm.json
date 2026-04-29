@@ -1,0 +1,32 @@
+{
+  "slug": "charm",
+  "name": "Charm",
+  "city": "أربيل",
+  "country": "Iraq",
+  "placeId": "ChIJf7JSRFQiB0ARrIie9e0A4bk",
+  "googleName": "Hawler Citadel",
+  "formattedAddress": "Qalat, Erbil, Erbil Governorate, 44001, Iraq",
+  "phone": null,
+  "website": "https://www.hawlergov.org/app/en/node/539",
+  "googleMapsUrl": "https://maps.google.com/?cid=13393987788804622508",
+  "rating": 4.4,
+  "reviewCount": 17424,
+  "coords": [
+    36.19118630000001,
+    44.0093901
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Venerable, elevated citadel with a mosque, 18th-c. hammam & museums of gemstones & Kurdish carpets.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charm/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:37:46.821Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pat-douglas",
+  "name": "Pat",
+  "city": "Douglas",
+  "country": "Isle of Man",
+  "placeId": "ChIJEVXayhCFY0gRrM9bLG6Mld4",
+  "googleName": "Pat-A-Cake",
+  "formattedAddress": "Duke St, Douglas, Isle of Man IM1 2SE, Isle of Man",
+  "phone": "01624 626162",
+  "website": "https://www.facebook.com/Pat-A-Cake-Bakery-311042892416485/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16038880052768395180",
+  "rating": 3.8,
+  "reviewCount": 19,
+  "coords": [
+    54.1499947,
+    -4.4785233
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:30 PM",
+    "Tuesday: 9:00 AM – 4:30 PM",
+    "Wednesday: 9:00 AM – 4:30 PM",
+    "Thursday: 9:00 AM – 4:30 PM",
+    "Friday: 9:00 AM – 4:30 PM",
+    "Saturday: 9:00 AM – 4:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pat-douglas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:37.014Z"
+}

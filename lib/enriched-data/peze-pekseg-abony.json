@@ -1,0 +1,32 @@
+{
+  "slug": "peze-pekseg-abony",
+  "name": "Peze Pékség",
+  "city": "Abony",
+  "country": "Hungary",
+  "placeId": "ChIJNb3DeP1rQUcRO8vJT9ZXFMs",
+  "googleName": "Peze Pékség",
+  "formattedAddress": "Abony, Ceglédi út 1/a, 2740 Hungary",
+  "phone": "(06 53) 361 993",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14633417667206826811",
+  "rating": 4.5,
+  "reviewCount": 553,
+  "coords": [
+    47.1886672,
+    20.0031965
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 9:00 PM",
+    "Tuesday: 5:00 AM – 9:00 PM",
+    "Wednesday: 5:00 AM – 9:00 PM",
+    "Thursday: 5:00 AM – 9:00 PM",
+    "Friday: 5:00 AM – 9:00 PM",
+    "Saturday: 5:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/peze-pekseg-abony/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:32:07.446Z"
+}

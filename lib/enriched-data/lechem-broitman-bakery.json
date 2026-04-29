@@ -1,0 +1,32 @@
+{
+  "slug": "lechem-broitman-bakery",
+  "name": "Lechem Broitman Bakery",
+  "city": "אילת",
+  "country": "Israel",
+  "placeId": "ChIJ8zljIf9xABURUSiPEDJhKFM",
+  "googleName": "Lechem Broitman Bakery",
+  "formattedAddress": "Barne'a St 48, Eilat, 8810000, Israel",
+  "phone": "053-300-0260",
+  "website": "http://www.brbr.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5992146171870521425",
+  "rating": 4.7,
+  "reviewCount": 1603,
+  "coords": [
+    29.5618302,
+    34.9480594
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lechem-broitman-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:17.334Z"
+}

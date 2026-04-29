@@ -1,0 +1,32 @@
+{
+  "slug": "ginger-cakes-bar-niksic",
+  "name": "Ginger cakes bar",
+  "city": "Niksic",
+  "country": "Montenegro",
+  "placeId": "ChIJEylH7y-pTRMRLj_dEBqRFKc",
+  "googleName": "Ginger cakes bar",
+  "formattedAddress": "2 Trg Slobode, 4 Jovana Cvijića, Nikšić, Montenegro",
+  "phone": "040 287 999",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12039407245006290734",
+  "rating": 4.3,
+  "reviewCount": 248,
+  "coords": [
+    42.7732716,
+    18.9488367
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ginger-cakes-bar-niksic/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:51.081Z"
+}

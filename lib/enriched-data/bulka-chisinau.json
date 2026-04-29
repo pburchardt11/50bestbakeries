@@ -1,0 +1,32 @@
+{
+  "slug": "bulka-chisinau",
+  "name": "Bulka",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJu1uQ9yR9yUARv4GdaT5oJPo",
+  "googleName": "Bulka",
+  "formattedAddress": "Strada Pușkin 32, Chișinău, Moldova",
+  "phone": "0604 51 005",
+  "website": "http://bulka.md/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18024646225912758719",
+  "rating": 3.4,
+  "reviewCount": 65,
+  "coords": [
+    47.02549279999999,
+    28.836898
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:30 PM",
+    "Tuesday: 8:30 AM – 8:30 PM",
+    "Wednesday: 8:30 AM – 8:30 PM",
+    "Thursday: 8:30 AM – 8:30 PM",
+    "Friday: 8:30 AM – 8:30 PM",
+    "Saturday: 8:30 AM – 8:30 PM",
+    "Sunday: 8:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bulka-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:22:13.629Z"
+}

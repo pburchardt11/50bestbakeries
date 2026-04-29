@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-tomasa-mena-el-rosario",
+  "name": "Panadería Tomasa Mena",
+  "city": "El Rosario",
+  "country": "Nicaragua",
+  "placeId": "ChIJrUbsdQAHdI8RewpHjFQXedA",
+  "googleName": "Panadería El Maná",
+  "formattedAddress": "XWJ3+885, Av. Zelaya, Masaya, Nicaragua",
+  "phone": "8100 6986",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15022063683969157755",
+  "rating": 4.3,
+  "reviewCount": 191,
+  "coords": [
+    11.9809205,
+    -86.0966486
+  ],
+  "openingHours": [
+    "Monday: 6:50 AM – 8:00 PM",
+    "Tuesday: 6:50 AM – 8:00 PM",
+    "Wednesday: 6:50 AM – 8:00 PM",
+    "Thursday: 6:50 AM – 8:00 PM",
+    "Friday: 6:50 AM – 8:00 PM",
+    "Saturday: 6:50 AM – 8:00 PM",
+    "Sunday: 6:50 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-tomasa-mena-el-rosario/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:38:15.736Z"
+}

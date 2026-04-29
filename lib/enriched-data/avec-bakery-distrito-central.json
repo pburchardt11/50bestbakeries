@@ -1,0 +1,32 @@
+{
+  "slug": "avec-bakery-distrito-central",
+  "name": "Avec Bakery",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJBY6pYECjb48R2MlVBw9-xJo",
+  "googleName": "Avec Bakery",
+  "formattedAddress": "2816 Av. República de Mexico, 11101 Tegucigalpa, Francisco Morazán, Honduras",
+  "phone": "3269-7694",
+  "website": "https://www.instagram.com/avecbakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=11152177180288862680",
+  "rating": 4.6,
+  "reviewCount": 275,
+  "coords": [
+    14.1021453,
+    -87.1885217
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/avec-bakery-distrito-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:28:16.619Z"
+}

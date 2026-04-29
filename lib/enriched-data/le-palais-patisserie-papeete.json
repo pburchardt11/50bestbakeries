@@ -1,0 +1,32 @@
+{
+  "slug": "le-palais-patisserie-papeete",
+  "name": "Le Palais Patisserie",
+  "city": "Papeete",
+  "country": "French Polynesia",
+  "placeId": "ChIJaa_Tp3AxmnYRRistR7EPl8w",
+  "googleName": "Le Pālais Pātisserie",
+  "formattedAddress": "Av. du Chef Vairaatoa, Papeete 98701, French Polynesia",
+  "phone": "89 42 95 95",
+  "website": "http://lepalaistahiti.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14742269159298378566",
+  "rating": 4.7,
+  "reviewCount": 97,
+  "coords": [
+    -17.531771,
+    -149.5609889
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 3:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-palais-patisserie-papeete/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:42.330Z"
+}

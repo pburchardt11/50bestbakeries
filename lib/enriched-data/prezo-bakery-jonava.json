@@ -1,0 +1,32 @@
+{
+  "slug": "prezo-bakery-jonava",
+  "name": "Prezo bakery",
+  "city": "Jonava",
+  "country": "Lithuania",
+  "placeId": "ChIJsYm-H-MO50YReixj25RTuCE",
+  "googleName": "Prezo bakery",
+  "formattedAddress": "Žeimių g. 3, 55171 Jonava, Lithuania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2429783897767357562",
+  "rating": 4.5,
+  "reviewCount": 380,
+  "coords": [
+    55.0727767,
+    24.2782073
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:30 PM",
+    "Tuesday: 10:00 AM – 7:30 PM",
+    "Wednesday: 10:00 AM – 7:30 PM",
+    "Thursday: 10:00 AM – 7:30 PM",
+    "Friday: 10:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/prezo-bakery-jonava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:06:49.778Z"
+}

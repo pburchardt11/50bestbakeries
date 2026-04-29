@@ -1,0 +1,32 @@
+{
+  "slug": "la-casa-de-los-pasteles-chinandega",
+  "name": "La Casa de los Pasteles",
+  "city": "Chinandega",
+  "country": "Nicaragua",
+  "placeId": "ChIJvTVnEPPxcI8R882VD-KbcFA",
+  "googleName": "La Casa del Pastel",
+  "formattedAddress": "JVJ9+JMJ, Chinandega, Nicaragua",
+  "phone": "8570 5765",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5796304115652218355",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    12.6316019,
+    -87.13095650000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 PM – 12:00 AM",
+    "Thursday: 12:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: 8:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-casa-de-los-pasteles-chinandega/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:51.191Z"
+}

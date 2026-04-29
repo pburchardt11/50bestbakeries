@@ -1,0 +1,32 @@
+{
+  "slug": "saint-germain-aoba",
+  "name": "(Saint-Germain)",
+  "city": "Aoba",
+  "country": "Japan",
+  "placeId": "ChIJs4qFklKLGGARySqbxHYIhkE",
+  "googleName": "Aoba-Japan International School (Meguro Campus)",
+  "formattedAddress": "2-chōme-11-5 Aobadai, Meguro City, Tokyo 153-0042, Japan",
+  "phone": "03-4520-2313",
+  "website": "https://www.japaninternationalschool.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4721470565542210249",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    35.65028230000001,
+    139.6949383
+  ],
+  "openingHours": [
+    "Monday: 8:40 AM – 5:45 PM",
+    "Tuesday: 8:40 AM – 5:45 PM",
+    "Wednesday: 8:40 AM – 5:45 PM",
+    "Thursday: 8:40 AM – 5:45 PM",
+    "Friday: 8:40 AM – 5:45 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/saint-germain-aoba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:22.838Z"
+}

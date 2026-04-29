@@ -1,0 +1,32 @@
+{
+  "slug": "bread-butter-kitchen-lautoka",
+  "name": "Bread & Butter Kitchen",
+  "city": "Lautoka",
+  "country": "Fiji",
+  "placeId": "ChIJrdyoyYdnF24RgNN9zIcGbQo",
+  "googleName": "The Hot Bread Kitchen",
+  "formattedAddress": "9FR2+GF9, Tavewa Ave, Lautoka, Fiji",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=751263893161890688",
+  "rating": 4.3,
+  "reviewCount": 160,
+  "coords": [
+    -17.6087013,
+    177.4512461
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-butter-kitchen-lautoka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:07:40.763Z"
+}

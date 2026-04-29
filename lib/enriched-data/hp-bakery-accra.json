@@ -1,0 +1,32 @@
+{
+  "slug": "hp-bakery-accra",
+  "name": "HP Bakery",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJq0BL2Eua3w8RAhnpHpV6weg",
+  "googleName": "HP Bakery",
+  "formattedAddress": "Accra, Ghana",
+  "phone": "030 222 9028",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16771821268191746306",
+  "rating": 4.7,
+  "reviewCount": 79,
+  "coords": [
+    5.5985572,
+    -0.202612
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: 12:00 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hp-bakery-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:16:43.542Z"
+}

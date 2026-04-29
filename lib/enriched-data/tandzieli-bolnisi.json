@@ -1,0 +1,32 @@
+{
+  "slug": "tandzieli-bolnisi",
+  "name": "Tandzieli •",
+  "city": "Bolnisi",
+  "country": "Georgia",
+  "placeId": "ChIJI1BIXfLnQ0ARgcftKrZDfg4",
+  "googleName": "Bolnisi Sioni Cathedral",
+  "formattedAddress": "9GQ7+H5G, Bolnisi, Georgia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1044346613279868801",
+  "rating": 4.9,
+  "reviewCount": 328,
+  "coords": [
+    41.3889343,
+    44.51296079999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Rustic cathedral, built in the 5th century, known for its ancient inscriptions & artwork.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tandzieli-bolnisi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:42.341Z"
+}

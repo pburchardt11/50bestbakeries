@@ -1,0 +1,30 @@
+{
+  "slug": "alida-s-bakery-tobias-hainyeko",
+  "name": "Alida's Bakery",
+  "city": "Tobias Hainyeko",
+  "country": "Namibia",
+  "placeId": "ChIJf0Eho6EbCxwRzgeCnqv6K1o",
+  "googleName": "Alida's Bakery",
+  "formattedAddress": "F3R9+C5Q, Cobalt Street, Windhoek, Namibia",
+  "phone": "081 745 4293",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6497562502417745870",
+  "rating": 3.5,
+  "reviewCount": 2,
+  "coords": [
+    -22.508905,
+    17.067996
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:30 PM",
+    "Tuesday: 7:30 AM – 4:30 PM",
+    "Wednesday: 7:30 AM – 4:30 PM",
+    "Thursday: 7:30 AM – 4:30 PM",
+    "Friday: 7:30 AM – 4:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:31:42.567Z"
+}

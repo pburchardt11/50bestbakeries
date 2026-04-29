@@ -1,0 +1,32 @@
+{
+  "slug": "devour-bakery-ballinrobe",
+  "name": "Devour Bakery",
+  "city": "Ballinrobe",
+  "country": "Ireland",
+  "placeId": "ChIJWSIGl8DCW0gRdRFfUqZUUwk",
+  "googleName": "Devour Bakery",
+  "formattedAddress": "3 Church Ln, Cornaroya, Ballinrobe, Co. Mayo, F31 CK64, Ireland",
+  "phone": "(094) 952 1626",
+  "website": "http://devourbakery.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=671973842731602293",
+  "rating": 4.7,
+  "reviewCount": 132,
+  "coords": [
+    53.62270119999999,
+    -9.2202454
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 4:00 PM",
+    "Tuesday: 9:30 AM – 4:00 PM",
+    "Wednesday: 9:30 AM – 4:00 PM",
+    "Thursday: 9:30 AM – 4:00 PM",
+    "Friday: 9:30 AM – 4:00 PM",
+    "Saturday: 9:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/devour-bakery-ballinrobe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:01.360Z"
+}

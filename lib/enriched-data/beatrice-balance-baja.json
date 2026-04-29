@@ -1,0 +1,32 @@
+{
+  "slug": "beatrice-balance-baja",
+  "name": "Beatrice Balance",
+  "city": "Baja",
+  "country": "Hungary",
+  "placeId": "ChIJ3dVJTGwfQ0cRpOS_t_q899A",
+  "googleName": "Gluténmentes Pékség - Gluten Free Food Kft.",
+  "formattedAddress": "Baja, Szent László u. 20, 6500 Hungary",
+  "phone": "06 30 278 3123",
+  "website": "https://beatricebalance.hu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15057711664147195044",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    46.1869511,
+    18.9505238
+  ],
+  "openingHours": [
+    "Monday: 7:00 – 11:00 AM",
+    "Tuesday: 7:00 – 11:00 AM",
+    "Wednesday: 7:00 – 11:00 AM",
+    "Thursday: 7:00 – 11:00 AM",
+    "Friday: 7:00 – 11:00 AM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beatrice-balance-baja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:33:18.923Z"
+}

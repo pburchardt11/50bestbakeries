@@ -1,0 +1,32 @@
+{
+  "slug": "pralinette-patisserie-temara",
+  "name": "Pralinette pâtisserie",
+  "city": "Temara",
+  "country": "Morocco",
+  "placeId": "ChIJpbl0-kgTpw0ROabL1aoo2hQ",
+  "googleName": "Pralinette",
+  "formattedAddress": "W4H5+F3X Arrêt Fouarate, Av. Tarik Ibn Ziad, Témara, Morocco",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1502558139877926457",
+  "rating": 4.3,
+  "reviewCount": 4,
+  "coords": [
+    33.9287279,
+    -6.8922807
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pralinette-patisserie-temara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:28:35.639Z"
+}

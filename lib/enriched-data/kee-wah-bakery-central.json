@@ -1,0 +1,32 @@
+{
+  "slug": "kee-wah-bakery-central",
+  "name": "Kee Wah Bakery",
+  "city": "Central",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJq6raJQwBBDQR87s6sa0Zm_o",
+  "googleName": "奇華餅家 (中環站店)",
+  "formattedAddress": "G/F & No. 101, 1/F, Nexxus Building, MTR central station77 Des Voeux Rd Central, Central, Hong Kong",
+  "phone": "2602 2501",
+  "website": "https://www.keewah.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18058055364665588723",
+  "rating": 4.3,
+  "reviewCount": 33,
+  "coords": [
+    22.2821338,
+    114.1581282
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Outpost of a Hong Kong-based bakery offering Chinese pastries & other snacks, plus custom cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kee-wah-bakery-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:30:00.532Z"
+}

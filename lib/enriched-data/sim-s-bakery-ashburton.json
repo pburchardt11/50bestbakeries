@@ -1,0 +1,32 @@
+{
+  "slug": "sim-s-bakery-ashburton",
+  "name": "Sim's Bakery",
+  "city": "Ashburton",
+  "country": "New Zealand",
+  "placeId": "ChIJQ8U9aKq7LW0RIFy-pCEBsg0",
+  "googleName": "Sim's Bakery",
+  "formattedAddress": "123 Archibald Street, Tinwald, Ashburton 7700, New Zealand",
+  "phone": "03 308 5774",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=986852512357047328",
+  "rating": 4.6,
+  "reviewCount": 459,
+  "coords": [
+    -43.92115800000001,
+    171.7184249
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 4:00 PM",
+    "Tuesday: 5:00 AM – 4:00 PM",
+    "Wednesday: 5:00 AM – 4:00 PM",
+    "Thursday: 5:00 AM – 4:00 PM",
+    "Friday: 5:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sim-s-bakery-ashburton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:21.186Z"
+}

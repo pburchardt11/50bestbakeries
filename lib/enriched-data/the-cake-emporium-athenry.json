@@ -1,0 +1,24 @@
+{
+  "slug": "the-cake-emporium-athenry",
+  "name": "The Cake Emporium",
+  "city": "Athenry",
+  "country": "Ireland",
+  "placeId": "ChIJh9iR6xKJW0gRUAxrLp9KgP0",
+  "googleName": "The Cake Emporium",
+  "formattedAddress": "the shop, 5 North Gate Street, Athenry, Co. Galway, Ireland",
+  "phone": "086 855 3618",
+  "website": "http://www.thecakeemporium.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18266682136153754704",
+  "rating": 4.9,
+  "reviewCount": 76,
+  "coords": [
+    53.30017549999999,
+    -8.746305099999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-emporium-athenry/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:40:00.828Z"
+}

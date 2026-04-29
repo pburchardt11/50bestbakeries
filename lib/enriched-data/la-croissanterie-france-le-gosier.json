@@ -1,0 +1,32 @@
+{
+  "slug": "la-croissanterie-france-le-gosier",
+  "name": "La Croissanterie France",
+  "city": "Le Gosier",
+  "country": "Guadeloupe",
+  "placeId": "ChIJ-0m7yvNFE4wRhbLXXpcfNvI",
+  "googleName": "La Croissanterie",
+  "formattedAddress": "Sis Marina de, Rue de Blanchard, Le Gosier 97190, Guadeloupe",
+  "phone": "0590 90 80 04",
+  "website": "https://www.lacroissanterie.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17453172140912652933",
+  "rating": 4.2,
+  "reviewCount": 6,
+  "coords": [
+    16.2215157,
+    -61.5230519
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-croissanterie-france-le-gosier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:21:33.249Z"
+}

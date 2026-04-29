@@ -1,0 +1,32 @@
+{
+  "slug": "los-pasteles-de-hanna-altagracia",
+  "name": "Los Pasteles de Hanna",
+  "city": "Altagracia",
+  "country": "Nicaragua",
+  "placeId": "ChIJA_jQrZf3dI8RQh2Ku7x-C48",
+  "googleName": "Los Pasteles de Hanna",
+  "formattedAddress": "De la alcaldía municipal, 25 varas al sur 2 cuadras al oeste, Altagracia, Nicaragua",
+  "phone": "5776 0993",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10307471521232854338",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    11.5652765,
+    -85.5808708
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/los-pasteles-de-hanna-altagracia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:30.076Z"
+}

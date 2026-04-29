@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-morella-chinandega",
+  "name": "Panadería Morella",
+  "city": "Chinandega",
+  "country": "Nicaragua",
+  "placeId": "ChIJY_IV0pLxcI8RFmo0SZ1n--s",
+  "googleName": "Panadería Morella",
+  "formattedAddress": "JVH9+RVJ, Chinandega, Nicaragua",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17004298743303137814",
+  "rating": 4.1,
+  "reviewCount": 47,
+  "coords": [
+    12.62959,
+    -87.1303718
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-morella-chinandega/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:48.296Z"
+}

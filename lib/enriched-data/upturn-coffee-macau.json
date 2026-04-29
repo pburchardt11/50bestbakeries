@@ -1,0 +1,32 @@
+{
+  "slug": "upturn-coffee-macau",
+  "name": "Upturn Coffee",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJZ0u-xIV7ATQR9l7H9lb6Ftk",
+  "googleName": "Upturn Coffee",
+  "formattedAddress": "55-A R. de Joao de Araujo, Macao",
+  "phone": "6338 8007",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15642965607132389110",
+  "rating": 4.8,
+  "reviewCount": 8,
+  "coords": [
+    22.2016682,
+    113.5412667
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 7:00 PM",
+    "Tuesday: 12:00 – 7:00 PM",
+    "Wednesday: 12:00 – 7:00 PM",
+    "Thursday: 12:00 – 7:00 PM",
+    "Friday: 12:00 – 7:00 PM",
+    "Saturday: 12:00 – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/upturn-coffee-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:10:07.777Z"
+}

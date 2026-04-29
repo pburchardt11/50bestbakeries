@@ -1,0 +1,32 @@
+{
+  "slug": "bakeryhousekw",
+  "name": "Bakeryhousekw",
+  "city": "الفروانية",
+  "country": "Kuwait",
+  "placeId": "ChIJ67DT966Rzz8RiHQmmHOv6Qg",
+  "googleName": "بيكري هاوس",
+  "formattedAddress": "شارع حمد بن خلدون، Hawally, Kuwait",
+  "phone": "1888 815",
+  "website": "http://www.bakeryhousekw.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=642237332885763208",
+  "rating": 4.2,
+  "reviewCount": 96,
+  "coords": [
+    29.3388911,
+    48.0055201
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakeryhousekw/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:34.564Z"
+}

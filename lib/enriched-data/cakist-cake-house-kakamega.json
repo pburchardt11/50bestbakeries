@@ -1,0 +1,30 @@
+{
+  "slug": "cakist-cake-house-kakamega",
+  "name": "Cakist Cake House-Kakamega",
+  "city": "Kakamega",
+  "country": "Kenya",
+  "placeId": "ChIJu6P1Nzg9gBcRWdZQME1vqL0",
+  "googleName": "Cakist Cake House-Kakamega",
+  "formattedAddress": "Sudi Road, Kakamega, Kenya",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13666295446569539161",
+  "rating": 4,
+  "reviewCount": 1,
+  "coords": [
+    0.2838769,
+    34.7527877
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:53:20.343Z"
+}

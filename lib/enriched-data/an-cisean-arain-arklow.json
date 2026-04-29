@@ -1,0 +1,32 @@
+{
+  "slug": "an-cisean-arain-arklow",
+  "name": "An Cisean Arain",
+  "city": "Arklow",
+  "country": "Ireland",
+  "placeId": "ChIJh6K3FvzDZ0gRC7xixGsdH50",
+  "googleName": "An Ciseán Aráin",
+  "formattedAddress": "68 Lower Main St, Arklow, Co. Wicklow, Y14 RX27, Ireland",
+  "phone": "086 193 0291",
+  "website": "https://anciseanarain.weebly.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11321800336926227467",
+  "rating": 4.8,
+  "reviewCount": 24,
+  "coords": [
+    52.7963381,
+    -6.1520814
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/an-cisean-arain-arklow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:39:46.303Z"
+}

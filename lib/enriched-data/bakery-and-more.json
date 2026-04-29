@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-and-more",
+  "name": "Bakery And More",
+  "city": "أربيل",
+  "country": "Iraq",
+  "placeId": "ChIJ-zV8WvI9B0ARCb_wioYHh7o",
+  "googleName": "Bakery And More",
+  "formattedAddress": "Erbil, Erbil Governorate, Iraq",
+  "phone": "0750 747 1000",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13440719887348580105",
+  "rating": 4.1,
+  "reviewCount": 38,
+  "coords": [
+    36.1878909,
+    43.9632038
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-and-more/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:37:45.076Z"
+}

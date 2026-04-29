@@ -1,0 +1,32 @@
+{
+  "slug": "bread-lab-luis-landa-distrito-central",
+  "name": "Bread Lab Luis Landa",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJAdhuaMK9b48RNy0F0lnha1U",
+  "googleName": "Bread Lab Luis Landa",
+  "formattedAddress": "Frente Cooperativa Comajupel, 1ª Cl., 11101 Tegucigalpa, Francisco Morazán, Honduras",
+  "phone": "9992-0850",
+  "website": "http://www.breadlab.hn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6155261091623808311",
+  "rating": 4.4,
+  "reviewCount": 86,
+  "coords": [
+    14.0807215,
+    -87.1833185
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-lab-luis-landa-distrito-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:20.059Z"
+}

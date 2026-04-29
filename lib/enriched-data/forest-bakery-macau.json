@@ -1,0 +1,32 @@
+{
+  "slug": "forest-bakery-macau",
+  "name": "Forest Bakery",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJ_5h3RCN7ATQRwItxCrdF9uw",
+  "googleName": "森月烘焙蛋糕食品製作廠 Forest Bakery",
+  "formattedAddress": "Av. de Venceslau de Morais, Macao",
+  "phone": "6328 3205",
+  "website": "https://www.facebook.com/profile.php?id=100064332534272&mibextid=LQQJ4d",
+  "googleMapsUrl": "https://maps.google.com/?cid=17074911689678359488",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    22.2059748,
+    113.5538312
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:30 PM",
+    "Tuesday: 9:00 AM – 7:30 PM",
+    "Wednesday: 9:00 AM – 7:30 PM",
+    "Thursday: 9:00 AM – 7:30 PM",
+    "Friday: 9:00 AM – 7:30 PM",
+    "Saturday: 9:00 AM – 7:30 PM",
+    "Sunday: 9:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forest-bakery-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:06.722Z"
+}

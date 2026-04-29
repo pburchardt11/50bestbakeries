@@ -1,0 +1,32 @@
+{
+  "slug": "bon-choix-deirkouche",
+  "name": "Bon Choix",
+  "city": "Deïrkoûché",
+  "country": "Lebanon",
+  "placeId": "ChIJM1ylTmkhHxURwX1Gm49sLBI",
+  "googleName": "L’arome by Bon Choix Factory",
+  "formattedAddress": "Deir Koucheh, Lebanon",
+  "phone": "03 899 054",
+  "website": "http://www.bonchoixlb.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1309540955699183041",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    33.7219285,
+    35.5689748
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bon-choix-deirkouche/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:02:46.366Z"
+}

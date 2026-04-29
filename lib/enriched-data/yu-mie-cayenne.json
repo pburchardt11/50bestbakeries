@@ -1,0 +1,32 @@
+{
+  "slug": "yu-mie-cayenne",
+  "name": "Yu & Mie",
+  "city": "Cayenne",
+  "country": "French Guiana",
+  "placeId": "ChIJ96OJ2Uk9Eo0RbN9ERWWYPoU",
+  "googleName": "Yu & Mie",
+  "formattedAddress": "29 Rue Arago, Cayenne 97300, French Guiana",
+  "phone": "0694 49 81 88",
+  "website": "http://www.yuandmie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9601279016321736556",
+  "rating": 4.3,
+  "reviewCount": 104,
+  "coords": [
+    4.9393079,
+    -52.3317875
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:30 PM",
+    "Tuesday: 6:30 AM – 6:30 PM",
+    "Wednesday: 6:30 AM – 2:00 PM",
+    "Thursday: 6:30 AM – 6:30 PM",
+    "Friday: 6:30 AM – 6:30 PM",
+    "Saturday: 6:30 AM – 12:30 PM",
+    "Sunday: 7:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yu-mie-cayenne/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:54.969Z"
+}

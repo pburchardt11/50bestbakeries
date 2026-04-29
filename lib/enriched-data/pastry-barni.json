@@ -1,0 +1,32 @@
+{
+  "slug": "pastry-barni",
+  "name": "• Pastry Barni",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJ7xY4RhOGZ0ARPCh2Fu9PVdQ",
+  "googleName": "Dona Bakery and Sweets",
+  "formattedAddress": "ვახტანგ გორგასალის #41, 41 ვახტანგ გორგასალის ქუჩა, ბათუმი 6010, Georgia",
+  "phone": "0422 27 58 14",
+  "website": "https://instagram.com/dona_bakeshop?utm_medium=copy_link",
+  "googleMapsUrl": "https://maps.google.com/?cid=15300223197353748540",
+  "rating": 4.5,
+  "reviewCount": 2542,
+  "coords": [
+    41.6481225,
+    41.6391387
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastry-barni/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:27.175Z"
+}

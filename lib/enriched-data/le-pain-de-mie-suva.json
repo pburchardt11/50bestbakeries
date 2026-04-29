@@ -1,0 +1,32 @@
+{
+  "slug": "le-pain-de-mie-suva",
+  "name": "Le Pain De Mie",
+  "city": "Suva",
+  "country": "Fiji",
+  "placeId": "ChIJ3zj8h4feG24RtRNww151odw",
+  "googleName": "Le Pain De Meil French Bakery",
+  "formattedAddress": "VCFR+54H, Waimanu Rd, Suva, Fiji",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15898117209460839349",
+  "rating": 3.8,
+  "reviewCount": 14,
+  "coords": [
+    -18.1270693,
+    178.4403694
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-pain-de-mie-suva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:10:13.657Z"
+}

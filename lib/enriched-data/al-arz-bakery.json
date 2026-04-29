@@ -1,0 +1,32 @@
+{
+  "slug": "al-arz-bakery",
+  "name": "Al Arz Bakery",
+  "city": "الدكوانة",
+  "country": "Lebanon",
+  "placeId": "ChIJVeIBPjMWHxUR2vW_96453kk",
+  "googleName": "Furn El Arz",
+  "formattedAddress": "Mar roukoz street dekwene roundabout، Dekouaneh, Lebanon",
+  "phone": "01 695 514",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5322755233242150362",
+  "rating": 4,
+  "reviewCount": 45,
+  "coords": [
+    33.8762238,
+    35.5510679
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:00 PM",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-arz-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:03:55.493Z"
+}

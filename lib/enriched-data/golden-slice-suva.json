@@ -1,0 +1,32 @@
+{
+  "slug": "golden-slice-suva",
+  "name": "Golden Slice",
+  "city": "Suva",
+  "country": "Fiji",
+  "placeId": "ChIJtVfH5O7dG24Rr8i3bSwMEdA",
+  "googleName": "golden slice",
+  "formattedAddress": "32 Yarawa Rd, Suva, Fiji",
+  "phone": "968 0644",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14992778019451947183",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -18.1242638,
+    178.456202
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/golden-slice-suva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:09:51.509Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-rim",
+  "name": "Patisserie RIM",
+  "city": "البترون",
+  "country": "Lebanon",
+  "placeId": "ChIJbdxwlbFYHxURa-ssNSlVZRU",
+  "googleName": "Patisserie RIM",
+  "formattedAddress": "7M46+934, Main Street, Batroun, Lebanon",
+  "phone": "06 740 121",
+  "website": "http://www.patisserierim.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1541732082918419307",
+  "rating": 3.4,
+  "reviewCount": 54,
+  "coords": [
+    34.2558949,
+    35.6601995
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-rim/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:03:32.730Z"
+}

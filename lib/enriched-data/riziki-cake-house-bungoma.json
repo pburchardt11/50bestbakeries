@@ -1,0 +1,32 @@
+{
+  "slug": "riziki-cake-house-bungoma",
+  "name": "Riziki cake house",
+  "city": "Bungoma",
+  "country": "Kenya",
+  "placeId": "ChIJISMgIenogRcRJMhHYUKeadk",
+  "googleName": "Riziki Supermarket",
+  "formattedAddress": "677, Kimilili, Kenya",
+  "phone": "0712 412773",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15666226786722105380",
+  "rating": 3.8,
+  "reviewCount": 82,
+  "coords": [
+    0.7826812999999999,
+    34.7202041
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/riziki-cake-house-bungoma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:52:52.858Z"
+}

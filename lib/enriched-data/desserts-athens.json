@@ -1,0 +1,32 @@
+{
+  "slug": "desserts-athens",
+  "name": "Desserts",
+  "city": "Athens",
+  "country": "Greece",
+  "placeId": "ChIJy0WQavO9oRQRcJGw3pTs_Mk",
+  "googleName": "Koukouvaya Desserts",
+  "formattedAddress": "Skouze 1, Athina 105 60, Greece",
+  "phone": "21 0331 8700",
+  "website": "https://www.koukouvaya.gr/greek/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14554768219890028912",
+  "rating": 4.8,
+  "reviewCount": 5041,
+  "coords": [
+    37.9773608,
+    23.7284128
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 12:00 AM",
+    "Tuesday: 10:00 AM – 12:00 AM",
+    "Wednesday: 10:00 AM – 12:00 AM",
+    "Thursday: 10:00 AM – 12:00 AM",
+    "Friday: 10:00 AM – 12:00 AM",
+    "Saturday: 10:00 AM – 1:00 AM",
+    "Sunday: 10:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/desserts-athens/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:18:21.009Z"
+}

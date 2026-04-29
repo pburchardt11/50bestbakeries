@@ -1,0 +1,32 @@
+{
+  "slug": "sweetoffer-tehran",
+  "name": "SweetOffer",
+  "city": "Tehran",
+  "country": "Iran",
+  "placeId": "ChIJGTeSJqAFjj8RlMGjyeWbVZg",
+  "googleName": "sweetoffer (کافه قنادی سوییت آفر)",
+  "formattedAddress": "Tehran Province, Tehran, Rastovan St, QFJ7+2JQ, Iran",
+  "phone": "021 2661 2974",
+  "website": "https://shiwanosrati.ir/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10976851078018220436",
+  "rating": 3.2,
+  "reviewCount": 64,
+  "coords": [
+    35.7800989,
+    51.4641145
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweetoffer-tehran/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:36:59.774Z"
+}

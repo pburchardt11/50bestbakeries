@@ -1,0 +1,32 @@
+{
+  "slug": "gallet-deshaies",
+  "name": "Gallet",
+  "city": "Deshaies",
+  "country": "Guadeloupe",
+  "placeId": "ChIJ2SmSWohtE4wRVgvgK33vbEY",
+  "googleName": "boulangerie pâtisserie GALLET",
+  "formattedAddress": "la coque, 14 Rue du Plaisir, Deshaies 97126, Guadeloupe",
+  "phone": "0690 85 29 11",
+  "website": "https://voyage-france-guadeloupe.com/artisan-boulanger-patissier-gallet",
+  "googleMapsUrl": "https://maps.google.com/?cid=5074694201025760086",
+  "rating": 4.4,
+  "reviewCount": 29,
+  "coords": [
+    16.2865471,
+    -61.7944902
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 1:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 6:00 AM – 1:00 PM",
+    "Thursday: 6:00 AM – 1:00 PM",
+    "Friday: 6:00 AM – 1:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gallet-deshaies/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:21:15.771Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pastel-skopje",
+  "name": "Pastel",
+  "city": "Skopje",
+  "country": "North Macedonia",
+  "placeId": "ChIJYW5fWEoUVBMRgF8M5AlHu9s",
+  "googleName": "Pastel French Bakery",
+  "formattedAddress": "Blvd. Saint Clement of Ohrid 66, Skopje 1000, North Macedonia",
+  "phone": "072 302 399",
+  "website": "http://www.pastel.mk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15833327022757404544",
+  "rating": 4.3,
+  "reviewCount": 211,
+  "coords": [
+    41.9946466,
+    21.4244979
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastel-skopje/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:42:27.582Z"
+}

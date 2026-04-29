@@ -1,0 +1,32 @@
+{
+  "slug": "la-jacquerie-boulangerie-le-gosier",
+  "name": "La Jacquerie Boulangerie",
+  "city": "Le Gosier",
+  "country": "Guadeloupe",
+  "placeId": "ChIJwa4paW9PE4wR2w_4caG-lw8",
+  "googleName": "Les Saveurs de Kianyz (Bakery / Pastry)",
+  "formattedAddress": "Rte des Hotels, Le Gosier 97190, Guadeloupe",
+  "phone": "0590 97 84 19",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1123576232663322587",
+  "rating": 4.7,
+  "reviewCount": 83,
+  "coords": [
+    16.2072745,
+    -61.5009786
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 2:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-jacquerie-boulangerie-le-gosier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:21:24.571Z"
+}

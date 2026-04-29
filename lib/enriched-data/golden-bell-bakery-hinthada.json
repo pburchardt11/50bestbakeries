@@ -1,0 +1,32 @@
+{
+  "slug": "golden-bell-bakery-hinthada",
+  "name": "Golden Bell Bakery",
+  "city": "Hinthada",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJpSS96g_BwDARC2VbyACu2w0",
+  "googleName": "Golden Bell Bakery-Hinthada",
+  "formattedAddress": "Near by KBZ BANK-1, NatMaw Road, Hinthada 10061, Myanmar (Burma)",
+  "phone": "09 250 319 250",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=998583060777362699",
+  "rating": 3,
+  "reviewCount": 1,
+  "coords": [
+    17.6480077,
+    95.4625434
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/golden-bell-bakery-hinthada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:30:07.810Z"
+}

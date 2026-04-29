@@ -1,0 +1,32 @@
+{
+  "slug": "le-peche-gourmand-dzaoudzi",
+  "name": "Le Péché Gourmand",
+  "city": "Dzaoudzi",
+  "country": "Mayotte",
+  "placeId": "ChIJC5iw7NAVCiIRFIlH3VZvLPQ",
+  "googleName": "Le Péché Gourmand",
+  "formattedAddress": "64 Rue du Commerce, Dzaoudzi 97615, Mayotte",
+  "phone": "0269 60 94 25",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17594560263100008724",
+  "rating": 4.3,
+  "reviewCount": 137,
+  "coords": [
+    -12.7891242,
+    45.2738576
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 5:30 AM – 1:00 PM, 4:00 – 7:00 PM",
+    "Wednesday: 5:30 AM – 1:00 PM, 4:00 – 7:00 PM",
+    "Thursday: 5:30 AM – 1:00 PM, 4:00 – 7:00 PM",
+    "Friday: 5:30 AM – 1:00 PM, 4:00 – 7:00 PM",
+    "Saturday: 5:30 AM – 1:00 PM, 4:00 – 7:00 PM",
+    "Sunday: 5:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-peche-gourmand-dzaoudzi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:20:02.274Z"
+}

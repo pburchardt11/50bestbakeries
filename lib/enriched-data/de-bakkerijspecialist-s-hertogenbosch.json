@@ -1,0 +1,32 @@
+{
+  "slug": "de-bakkerijspecialist-s-hertogenbosch",
+  "name": "De Bakkerijspecialist",
+  "city": "'s-Hertogenbosch",
+  "country": "Netherlands",
+  "placeId": "ChIJBRjXuffuxkcRkz2IzEvFzpA",
+  "googleName": "De Broodspecialist Van Schijndel",
+  "formattedAddress": "Hinthamerstraat 89, 5211 MG 's-Hertogenbosch, Netherlands",
+  "phone": "073 613 4481",
+  "website": "http://www.debroodspecialist.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10434494316008717715",
+  "rating": 4.6,
+  "reviewCount": 80,
+  "coords": [
+    51.6887619,
+    5.307945999999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 5:30 PM",
+    "Wednesday: 8:00 AM – 5:30 PM",
+    "Thursday: 8:00 AM – 5:30 PM",
+    "Friday: 8:00 AM – 5:30 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-bakkerijspecialist-s-hertogenbosch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:11.029Z"
+}

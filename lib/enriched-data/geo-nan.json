@@ -1,0 +1,32 @@
+{
+  "slug": "geo-nan",
+  "name": "Geo Nan",
+  "city": "Алматы",
+  "country": "Kazakhstan",
+  "placeId": "ChIJfa9oKABpgzgRpF5kNwANkOg",
+  "googleName": "Geo Nan",
+  "formattedAddress": "Baikadamov St 19, Almaty 050060, Kazakhstan",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16757908508026101412",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    43.2137047,
+    76.89056029999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/geo-nan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:51:30.733Z"
+}

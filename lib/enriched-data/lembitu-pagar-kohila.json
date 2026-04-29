@@ -1,0 +1,32 @@
+{
+  "slug": "lembitu-pagar-kohila",
+  "name": "Lembitu Pagar",
+  "city": "Kohila",
+  "country": "Estonia",
+  "placeId": "ChIJzWWin7_FkkYRT5EtpjbBHIk",
+  "googleName": "Eifel Kitchen",
+  "formattedAddress": "Vabaduse tn 12, Kohila, 79804 Rapla maakond, Estonia",
+  "phone": "600 7897",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9879984123004424527",
+  "rating": 4.5,
+  "reviewCount": 154,
+  "coords": [
+    59.16715259999999,
+    24.7522278
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lembitu-pagar-kohila/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:18.090Z"
+}

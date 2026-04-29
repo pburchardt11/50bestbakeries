@@ -1,0 +1,30 @@
+{
+  "slug": "artist-bakery-mon",
+  "name": "Artist Bakery",
+  "city": "Mon",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJDYPYcQAf5jARTzTIGn-Z4PA",
+  "googleName": "Artist Bakery",
+  "formattedAddress": "7V64+79W, Ye, Myanmar (Burma)",
+  "phone": "09 253 297 626",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17357041735075116111",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    15.2609175,
+    97.85573319999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:31:02.120Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "koekie-monster-gobabis",
+  "name": "Koekie Monster",
+  "city": "Gobabis",
+  "country": "Namibia",
+  "placeId": "ChIJJVGd9RPlCBwRfY9pHdaMOvg",
+  "googleName": "Omaheke Megasave Gobabis",
+  "formattedAddress": "Gobabis, Namibia",
+  "phone": "062 562 724",
+  "website": "https://megasaveomaheke.archestore.online/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17886763721299693437",
+  "rating": 4.3,
+  "reviewCount": 167,
+  "coords": [
+    -22.4508342,
+    18.9692897
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/koekie-monster-gobabis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:31:30.423Z"
+}

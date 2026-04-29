@@ -1,0 +1,32 @@
+{
+  "slug": "queen-homemade-bakery-lashio",
+  "name": "Queen Homemade Bakery",
+  "city": "Lashio",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJNc5DmP27yDAR-6oTxU44_Tk",
+  "googleName": "Queen Bakery (bakery shop)",
+  "formattedAddress": "P6Q7+M8M, Pyinmana, Myanmar (Burma)",
+  "phone": "09 762 377312",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4178557940234693371",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    19.7391875,
+    96.2133125
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:00 PM",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: 8:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/queen-homemade-bakery-lashio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:30:39.169Z"
+}

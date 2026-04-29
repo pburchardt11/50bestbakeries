@@ -1,0 +1,32 @@
+{
+  "slug": "sakarelos-dimitris-bakery-atalanti",
+  "name": "Sakarelos Dimitris-Bakery",
+  "city": "Atalánti",
+  "country": "Greece",
+  "placeId": "ChIJcbMi3CdroRQRNb3vV3Ro3HM",
+  "googleName": "Dimitra's Bakery",
+  "formattedAddress": "Apostoli 8, Eretria 340 08, Greece",
+  "phone": "2229 064928",
+  "website": "https://www.facebook.com/profile.php?id=61583612174147&locale=el_GR",
+  "googleMapsUrl": "https://maps.google.com/?cid=8348662658138881333",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    38.3923116,
+    23.793178
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sakarelos-dimitris-bakery-atalanti/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:18:07.504Z"
+}

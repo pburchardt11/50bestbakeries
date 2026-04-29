@@ -1,0 +1,32 @@
+{
+  "slug": "yummy",
+  "name": "Yummy!",
+  "city": "Алматы",
+  "country": "Kazakhstan",
+  "placeId": "ChIJR4sWdS1pgzgRvWaAR-MYvK0",
+  "googleName": "Yummy cafe almaty",
+  "formattedAddress": "Baizakov St 280, Almaty 050000, Kazakhstan",
+  "phone": "8 (702) 777 2701",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12518908428619376317",
+  "rating": 4.3,
+  "reviewCount": 12,
+  "coords": [
+    43.237528,
+    76.9154461
+  ],
+  "openingHours": [
+    "Monday: 12:00 PM – 2:00 AM",
+    "Tuesday: 12:00 PM – 2:00 AM",
+    "Wednesday: 12:00 PM – 2:00 AM",
+    "Thursday: 12:00 PM – 2:00 AM",
+    "Friday: 12:00 PM – 2:00 AM",
+    "Saturday: 12:00 PM – 2:00 AM",
+    "Sunday: 12:00 PM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yummy/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:51:27.333Z"
+}

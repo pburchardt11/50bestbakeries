@@ -1,0 +1,32 @@
+{
+  "slug": "furra-lumi-ferizaj",
+  "name": "Furra LUMI",
+  "city": "Ferizaj",
+  "country": "Kosovo",
+  "placeId": "ChIJr4ezzRl_VBMRY8-Dn9cAnhI",
+  "googleName": "Furra LUMI",
+  "formattedAddress": "Rr Gjon Sereci, Ferizaj 70000",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1341510665097170787",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    42.369119,
+    21.1568874
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 11:00 PM",
+    "Tuesday: 6:30 AM – 11:00 PM",
+    "Wednesday: 6:30 AM – 11:00 PM",
+    "Thursday: 6:30 AM – 11:00 PM",
+    "Friday: 6:30 AM – 11:00 PM",
+    "Saturday: 6:30 AM – 11:00 PM",
+    "Sunday: 6:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/furra-lumi-ferizaj/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:54:16.262Z"
+}

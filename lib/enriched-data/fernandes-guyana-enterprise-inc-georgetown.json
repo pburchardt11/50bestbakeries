@@ -1,0 +1,32 @@
+{
+  "slug": "fernandes-guyana-enterprise-inc-georgetown",
+  "name": "Fernandes Guyana Enterprise Inc.",
+  "city": "Georgetown",
+  "country": "Guyana",
+  "placeId": "ChIJ6UQga3Xvr40R8oL0BAw0J1E",
+  "googleName": "John Fernandes Ltd",
+  "formattedAddress": "24 Water St, Georgetown, Guyana",
+  "phone": "227 3363",
+  "website": "http://www.jf-ltd.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5847699867391263474",
+  "rating": 4.2,
+  "reviewCount": 37,
+  "coords": [
+    6.8127489,
+    -58.1676229
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fernandes-guyana-enterprise-inc-georgetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:25:35.410Z"
+}

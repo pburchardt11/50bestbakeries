@@ -1,0 +1,32 @@
+{
+  "slug": "wondercake-ulaanbaatar",
+  "name": "Wondercake",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJcWLvpbCTll0RBbQPpOqlo70",
+  "googleName": "Wonderland kids cafe",
+  "formattedAddress": "WVFX+F3W 1 dawhart Ur undrakh, BGD - 16 khoroo, Ulaanbaatar 16040, Mongolia",
+  "phone": "8862 4057",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13664948121565639685",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    47.9236989,
+    106.897682
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wondercake-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:23:13.596Z"
+}

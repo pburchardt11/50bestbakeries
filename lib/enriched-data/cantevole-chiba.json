@@ -1,0 +1,32 @@
+{
+  "slug": "cantevole-chiba",
+  "name": "(Cantevole)",
+  "city": "Chiba",
+  "country": "Japan",
+  "placeId": "ChIJPecbbS6BImARsZspUmzOAo4",
+  "googleName": "Cantevole",
+  "formattedAddress": "Japan, 〒261-0024 Chiba, Mihama Ward, Toyosuna, １−１ イオンモール幕張新都心グランモール1階",
+  "phone": "043-296-0018",
+  "website": "https://www.aeon-bakery.co.jp/store/makuharishintoshin/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10232968267969436593",
+  "rating": 2.3,
+  "reviewCount": 12,
+  "coords": [
+    35.6520954,
+    140.0323713
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cantevole-chiba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:39.795Z"
+}

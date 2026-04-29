@@ -1,0 +1,32 @@
+{
+  "slug": "delices-d-alice-curepipe-town",
+  "name": "Delices d'Alice",
+  "city": "Curepipe Town",
+  "country": "Mauritius",
+  "placeId": "ChIJrffNAC9dfCERmq1gFNg72uI",
+  "googleName": "Délices d'Alice",
+  "formattedAddress": "Chadwick St, Curepipe, Mauritius",
+  "phone": "5251 6515",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16346443596735491482",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    -20.3245794,
+    57.5253907
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:30 PM",
+    "Tuesday: 8:00 AM – 5:30 PM",
+    "Wednesday: 8:00 AM – 5:30 PM",
+    "Thursday: 8:00 AM – 5:30 PM",
+    "Friday: 8:00 AM – 5:30 PM",
+    "Saturday: 8:00 AM – 2:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delices-d-alice-curepipe-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:11.738Z"
+}

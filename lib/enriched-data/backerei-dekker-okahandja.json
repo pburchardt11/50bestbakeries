@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-dekker-okahandja",
+  "name": "Backerei Dekker",
+  "city": "Okahandja",
+  "country": "Namibia",
+  "placeId": "ChIJG_oBZyGWChwRjiSfNGH4pfQ",
+  "googleName": "Backerei Dekker",
+  "formattedAddress": "91 Martin Neib Street, Okahandja, Namibia",
+  "phone": "062 501 962",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17628769412790035598",
+  "rating": 4.1,
+  "reviewCount": 117,
+  "coords": [
+    -21.9838678,
+    16.9175639
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 3:30 PM",
+    "Tuesday: 6:30 AM – 3:30 PM",
+    "Wednesday: 6:30 AM – 3:30 PM",
+    "Thursday: 6:30 AM – 3:30 PM",
+    "Friday: 6:30 AM – 3:30 PM",
+    "Saturday: 6:30 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-dekker-okahandja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:31:33.416Z"
+}

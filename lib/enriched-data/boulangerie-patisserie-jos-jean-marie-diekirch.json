@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-jos-jean-marie-diekirch",
+  "name": "Boulangerie Patisserie Jos & Jean-Marie",
+  "city": "Diekirch",
+  "country": "Luxembourg",
+  "placeId": "ChIJ9Qi0K5L9v0cRxe6Pn_gT7ao",
+  "googleName": "Boulangerie-Pâtisserie Jos&Jean-Marie",
+  "formattedAddress": "34 A Grand-Rue, 9240 Diekirch, Luxembourg",
+  "phone": "26 80 32 12",
+  "website": "http://www.jjm.lu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12316522514478001861",
+  "rating": 4.4,
+  "reviewCount": 171,
+  "coords": [
+    49.8677624,
+    6.159780899999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 5:00 PM",
+    "Sunday: 7:00 – 11:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-jos-jean-marie-diekirch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:38.059Z"
+}

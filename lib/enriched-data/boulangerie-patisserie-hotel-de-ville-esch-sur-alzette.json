@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-hotel-de-ville-esch-sur-alzette",
+  "name": "Boulangerie Patisserie Hotel de Ville",
+  "city": "Esch-sur-Alzette",
+  "country": "Luxembourg",
+  "placeId": "ChIJS-xPVdY1lUcRoJIqZIcYvPg",
+  "googleName": "hôtel de ville",
+  "formattedAddress": "3 Rue de Luxembourg, 4220 Esch-sur-Alzette, Luxembourg",
+  "phone": "621 251 914",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17923227586807894688",
+  "rating": 4.3,
+  "reviewCount": 6,
+  "coords": [
+    49.4967243,
+    5.9852247
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-hotel-de-ville-esch-sur-alzette/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:46.259Z"
+}

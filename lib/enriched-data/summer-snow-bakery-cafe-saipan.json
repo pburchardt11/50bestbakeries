@@ -1,0 +1,32 @@
+{
+  "slug": "summer-snow-bakery-cafe-saipan",
+  "name": "Summer Snow Bakery & Cafe",
+  "city": "Saipan",
+  "country": "Northern Mariana Islands",
+  "placeId": "ChIJpUwJeI-x2GYRji9hPE0QZmA",
+  "googleName": "Summer Snow Bakery & Cafe",
+  "formattedAddress": "5P32+WMQ, Beach Rd, Susupe, Saipan 96950, CNMI",
+  "phone": "(670) 234-7669",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6946257399177097102",
+  "rating": 4.3,
+  "reviewCount": 149,
+  "coords": [
+    15.1548413,
+    145.7017423
+  ],
+  "openingHours": [
+    "Monday: 1:00 – 8:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 1:00 – 8:00 PM",
+    "Thursday: 1:00 – 8:00 PM",
+    "Friday: 1:00 – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/summer-snow-bakery-cafe-saipan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:05.149Z"
+}

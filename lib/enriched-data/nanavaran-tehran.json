@@ -1,0 +1,32 @@
+{
+  "slug": "nanavaran-tehran",
+  "name": "Nanavaran",
+  "city": "Tehran",
+  "country": "Iran",
+  "placeId": "ChIJA06Pzy79jT8RMlsGBLrQl3Q",
+  "googleName": "Nanavaran",
+  "formattedAddress": "Tehran Province, Tehran, Central Jannat Abad, بلوار شهید کامران کبیری طامه، Q886+296, Iran",
+  "phone": "021 4462 1120",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8401413127232969522",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    35.7650341,
+    51.3108949
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: Closed",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nanavaran-tehran/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:36:23.065Z"
+}

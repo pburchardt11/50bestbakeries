@@ -1,0 +1,24 @@
+{
+  "slug": "tyler-bakery-cafe-auckland",
+  "name": "Tyler Bakery&cafe",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJlSmKHwBTDW0RPfRKm44gthM",
+  "googleName": "Tyler's bakery and cafe",
+  "formattedAddress": "5/1 Halver Road, Manurewa, Auckland 2102, New Zealand",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1420358529344795709",
+  "rating": 4.6,
+  "reviewCount": 8,
+  "coords": [
+    -37.0221932,
+    174.8981144
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tyler-bakery-cafe-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:47.176Z"
+}

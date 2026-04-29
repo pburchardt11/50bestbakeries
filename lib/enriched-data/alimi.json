@@ -1,0 +1,32 @@
+{
+  "slug": "alimi",
+  "name": "Alimi",
+  "city": "אילת",
+  "country": "Israel",
+  "placeId": "ChIJLfxB285vABURgmluCKHjkw0",
+  "googleName": "Alimi",
+  "formattedAddress": "HaOrgim St 5, Eilat, Israel",
+  "phone": "053-937-7512",
+  "website": "http://www.alimi-eilat.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=978375824840223106",
+  "rating": 4.6,
+  "reviewCount": 506,
+  "coords": [
+    29.5700176,
+    34.9575597
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alimi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:19.473Z"
+}

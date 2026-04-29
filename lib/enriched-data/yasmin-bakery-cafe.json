@@ -1,0 +1,32 @@
+{
+  "slug": "yasmin-bakery-cafe",
+  "name": "Yasmin bakery & cafe",
+  "city": "بغداد",
+  "country": "Iraq",
+  "placeId": "ChIJn1wwZ9F_VxURb6b8dyyVfhE",
+  "googleName": "Yasmin bakery & Cafe مخبز و كافيه ياسمين",
+  "formattedAddress": "4 Streets، Baghdad, Baghdad Governorate, 10015, Iraq",
+  "phone": "0771 722 4222",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1260608963934463599",
+  "rating": 4.9,
+  "reviewCount": 31,
+  "coords": [
+    33.3033593,
+    44.3343712
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yasmin-bakery-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:38:46.182Z"
+}

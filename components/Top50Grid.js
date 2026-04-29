@@ -52,14 +52,14 @@ function BarCard({ bakery }) {
   const [error, setError] = useState(false);
   const imgRef = useRef(null);
   const slug = bakery.slug || barSlug(bakery.name, bakery.city);
-  const blobBase = process.env.NEXT_PUBLIC_BLOB_BASE_URL || '';
-  const localUrl = blobBase ? `${blobBase}/bakery-photos/${slug}.jpg` : `/photos/${slug}.jpg`;
+  // Prefer the photo URL from the data layer (enriched proxy or blob)
+  const primaryUrl = bakery.photo || `/photos/${slug}.jpg`;
   const fallbackUrl = getFallbackUrl(bakery.name, bakery.city);
 
   useEffect(() => {
     if (imgRef.current?.complete && imgRef.current.naturalWidth > 0) setLoaded(true);
   }, []);
-  const src = error ? fallbackUrl : localUrl;
+  const src = error ? fallbackUrl : primaryUrl;
   const col = TYPE_COLORS[bakery.type] || '#d4944c';
   return (
     <a href={`/bakery/${slug}`} style={{

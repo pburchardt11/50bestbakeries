@@ -1,0 +1,32 @@
+{
+  "slug": "mama-s-bakery-qiblah",
+  "name": "Mama's Bakery",
+  "city": "Qiblah",
+  "country": "Kuwait",
+  "placeId": "ChIJMZtjV92Ezz8R7fW4FAhpgfs",
+  "googleName": "Mama's bakery ماماز بيكري",
+  "formattedAddress": "Kuwait City, Kuwait",
+  "phone": "1818 187",
+  "website": "https://mamasbakerykw.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18122881858943907309",
+  "rating": 4.1,
+  "reviewCount": 168,
+  "coords": [
+    29.36807529999999,
+    47.9706996
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mama-s-bakery-qiblah/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:56:37.831Z"
+}

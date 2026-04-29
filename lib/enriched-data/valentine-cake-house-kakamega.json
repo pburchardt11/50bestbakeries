@@ -1,0 +1,32 @@
+{
+  "slug": "valentine-cake-house-kakamega",
+  "name": "Valentine Cake House",
+  "city": "Kakamega",
+  "country": "Kenya",
+  "placeId": "ChIJu6DknWU9gBcR-kOdIPqb0xU",
+  "googleName": "Valentine Cake House",
+  "formattedAddress": "7QM3+2QR, Kakamega, Kenya",
+  "phone": "0740 541045",
+  "website": "http://www.valentinecakehouse.co.ke/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1572772193473741818",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    0.2826053,
+    34.7543838
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 9:30 AM – 6:00 PM",
+    "Sunday: 9:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/valentine-cake-house-kakamega/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:53:19.763Z"
+}

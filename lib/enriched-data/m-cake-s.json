@@ -1,0 +1,32 @@
+{
+  "slug": "m-cake-s",
+  "name": "M Cake's",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJY5BvZG2GZ0ARgAdAqkSwZyA",
+  "googleName": "M cake's",
+  "formattedAddress": "44 Akaki Tsereteli St, Batumi, Georgia",
+  "phone": "597 69 66 96",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2335028740775479168",
+  "rating": 4.3,
+  "reviewCount": 44,
+  "coords": [
+    41.6445145,
+    41.64817250000001
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:55 PM",
+    "Tuesday: 10:00 AM – 11:55 PM",
+    "Wednesday: 10:00 AM – 11:55 PM",
+    "Thursday: 10:00 AM – 11:55 PM",
+    "Friday: 10:00 AM – 11:55 PM",
+    "Saturday: 10:00 AM – 11:55 PM",
+    "Sunday: 10:00 AM – 11:55 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/m-cake-s/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:14.638Z"
+}

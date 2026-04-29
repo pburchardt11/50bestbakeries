@@ -1,0 +1,32 @@
+{
+  "slug": "cake-city-accra",
+  "name": "Cake City",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJ-fI8dGmX3w8RExNvwHJwpWU",
+  "googleName": "Cake City Ghana",
+  "formattedAddress": "Atomic Haatso Road, Accra, Ghana",
+  "phone": "030 393 3185",
+  "website": "http://www.cakecityghana.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7324384007145067283",
+  "rating": 4.4,
+  "reviewCount": 56,
+  "coords": [
+    5.6667129,
+    -0.1798358
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-city-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:02.528Z"
+}

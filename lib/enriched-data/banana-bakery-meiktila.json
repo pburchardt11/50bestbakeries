@@ -1,0 +1,30 @@
+{
+  "slug": "banana-bakery-meiktila",
+  "name": "Banana Bakery",
+  "city": "Meiktila",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJ_dqEmHV7yTARIG15oXntFT8",
+  "googleName": "Banana Bakery",
+  "formattedAddress": "VVH5+44C, Meiktila, Myanmar (Burma)",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4545800505556299040",
+  "rating": 3.9,
+  "reviewCount": 13,
+  "coords": [
+    20.8778225,
+    95.8577536
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:30:58.474Z"
+}

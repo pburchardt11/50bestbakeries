@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-bijeli-golub-bar",
+  "name": "Pekara Bijeli Golub",
+  "city": "Bar",
+  "country": "Montenegro",
+  "placeId": "ChIJWXARUAB3ThMRISaeD3WZaRs",
+  "googleName": "Pekara Bijeli Golub",
+  "formattedAddress": "16 Ilino, Bar 85000, Montenegro",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1975278639630919201",
+  "rating": 4.7,
+  "reviewCount": 18,
+  "coords": [
+    42.1076622,
+    19.0926011
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-bijeli-golub-bar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:25:34.879Z"
+}

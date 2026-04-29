@@ -1,0 +1,32 @@
+{
+  "slug": "mommiesbakinggalaxy-s-hertogenbosch",
+  "name": "Mommiesbakinggalaxy",
+  "city": "'s-Hertogenbosch",
+  "country": "Netherlands",
+  "placeId": "ChIJ7fK7QYHtxkcRuN6mo_wywzA",
+  "googleName": "Mommies Baking Galaxy",
+  "formattedAddress": "Abraham Hopmanstraat 13, 5224 TP 's-Hertogenbosch, Netherlands",
+  "phone": null,
+  "website": "http://www.bakinggalaxy.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3513708194937888440",
+  "rating": 5,
+  "reviewCount": 29,
+  "coords": [
+    51.6970221,
+    5.264323699999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 11:00 AM – 5:00 PM",
+    "Sunday: 11:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mommiesbakinggalaxy-s-hertogenbosch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:14.979Z"
+}

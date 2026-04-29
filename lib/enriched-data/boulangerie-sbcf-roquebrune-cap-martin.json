@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-sbcf-roquebrune-cap-martin",
+  "name": "Boulangerie Sbcf",
+  "city": "Roquebrune Cap Martin",
+  "country": "Monaco",
+  "placeId": "ChIJxSHZGB_pzRIRQr92SdmF4CE",
+  "googleName": "Alexandre Boulanger Boutique",
+  "formattedAddress": "120 Av. de la Plage, 06190 Roquebrune-Cap-Martin, France",
+  "phone": "09 86 43 40 31",
+  "website": "http://www.boulangeralexandre.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2441098166321725250",
+  "rating": 4.6,
+  "reviewCount": 148,
+  "coords": [
+    43.7578974,
+    7.480712100000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-sbcf-roquebrune-cap-martin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:23:01.346Z"
+}

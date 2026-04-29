@@ -1,0 +1,32 @@
+{
+  "slug": "stimo-llc-ulaanbaatar",
+  "name": "Stimo LLC",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJm-tZFUqQll0RQL6GdQd3HWQ",
+  "googleName": "Stimo LLC",
+  "formattedAddress": "Enkhtaivan Avenue 5005, BZD - 10 khoroo, Ulaanbaatar 13260, Mongolia",
+  "phone": "9999 5540",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7214053052037643840",
+  "rating": 4.4,
+  "reviewCount": 14,
+  "coords": [
+    47.909698,
+    107.012131
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 5:00 PM",
+    "Sunday: 8:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stimo-llc-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:24:24.151Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "backzeit-ulaanbaatar",
+  "name": "Backzeit",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJyz2U6JKTll0RW0dxjwGUWks",
+  "googleName": "Backzeit (bakery & konditori)",
+  "formattedAddress": "Industrial St, HUD - 3 khoroo, Ulaanbaatar 17062, Mongolia",
+  "phone": "8903 4516",
+  "website": "https://www.facebook.com/backzeitbakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=5429815035170998107",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    47.9027403,
+    106.8861476
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backzeit-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:23:58.119Z"
+}

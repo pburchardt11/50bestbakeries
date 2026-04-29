@@ -1,0 +1,32 @@
+{
+  "slug": "my-bakery-air-hitam",
+  "name": "My Bakery",
+  "city": "Air Hitam",
+  "country": "Malaysia",
+  "placeId": "ChIJDylbRfJn0DERSgXsOeYtFzU",
+  "googleName": "Sis & Me Bakery",
+  "formattedAddress": "61, Jln Bandar Baru, Pusat Bandar Baru Ayer Hitam, 86100 Ayer Hitam, Johor Darul Ta'zim, Malaysia",
+  "phone": "016-208 1604",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3825576875312022858",
+  "rating": 4.4,
+  "reviewCount": 26,
+  "coords": [
+    1.9196967,
+    103.1832674
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/my-bakery-air-hitam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:12:35.586Z"
+}

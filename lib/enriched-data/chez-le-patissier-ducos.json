@@ -1,0 +1,32 @@
+{
+  "slug": "chez-le-patissier-ducos",
+  "name": "Chez Le Pâtissier",
+  "city": "Ducos",
+  "country": "Martinique",
+  "placeId": "ChIJgVyS474fQIwRuqfLE3FpYPY",
+  "googleName": "Chez Le Pâtissier",
+  "formattedAddress": "Centre Commercial La Source, Rue Victor Schoelcher, Ducos 97224, Martinique",
+  "phone": "05 96 77 04 48",
+  "website": "http://chezlepatissier.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17753305665478830010",
+  "rating": 4.2,
+  "reviewCount": 48,
+  "coords": [
+    14.576684,
+    -60.97275430000001
+  ],
+  "openingHours": [
+    "Monday: 6:45 AM – 4:30 PM",
+    "Tuesday: 6:45 AM – 4:30 PM",
+    "Wednesday: 6:45 AM – 4:30 PM",
+    "Thursday: 6:45 AM – 4:30 PM",
+    "Friday: 6:45 AM – 4:30 PM",
+    "Saturday: 6:45 AM – 2:15 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chez-le-patissier-ducos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:40.186Z"
+}

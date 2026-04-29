@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-le-rocher-le-diamant",
+  "name": "Boulangerie Le Rocher",
+  "city": "Le Diamant",
+  "country": "Martinique",
+  "placeId": "ChIJFXJgp7MeQIwRCgfLVo613Fo",
+  "googleName": "Boulangerie Le Rocher",
+  "formattedAddress": "IMMEUBLE PLEIN SUD QUARTIER DIZAC, Le Diamant 97223, Martinique",
+  "phone": "0596 76 56 71",
+  "website": "https://www.facebook.com/PatisserieduRocher/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6547307581235988234",
+  "rating": 3.7,
+  "reviewCount": 520,
+  "coords": [
+    14.478651,
+    -61.03120779999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:30 PM",
+    "Tuesday: 6:00 AM – 7:30 PM",
+    "Wednesday: 6:00 AM – 7:30 PM",
+    "Thursday: 6:00 AM – 7:30 PM",
+    "Friday: 6:00 AM – 7:30 PM",
+    "Saturday: 6:00 AM – 7:30 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-le-rocher-le-diamant/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:17:44.290Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pan-de-vida-granada",
+  "name": "Pan De Vida Granada",
+  "city": "Granada",
+  "country": "Nicaragua",
+  "placeId": "ChIJX4Xmv78MdI8RLvYkA44bugM",
+  "googleName": "Pan De Vida Granada",
+  "formattedAddress": "406 C. La Calzada, Granada 43000, Nicaragua",
+  "phone": "8159 7653",
+  "website": "http://www.facebook.com/pandevidagranada",
+  "googleMapsUrl": "https://maps.google.com/?cid=268557424534025774",
+  "rating": 4.5,
+  "reviewCount": 875,
+  "coords": [
+    11.9301421,
+    -85.9496964
+  ],
+  "openingHours": [
+    "Monday: 4:00 – 9:00 PM",
+    "Tuesday: 4:00 – 9:00 PM",
+    "Wednesday: 4:00 – 9:00 PM",
+    "Thursday: 4:00 – 9:00 PM",
+    "Friday: 11:00 AM – 11:00 PM",
+    "Saturday: 11:00 AM – 11:00 PM",
+    "Sunday: 11:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-de-vida-granada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:40:23.856Z"
+}

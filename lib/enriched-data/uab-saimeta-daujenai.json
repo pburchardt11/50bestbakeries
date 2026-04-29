@@ -1,0 +1,32 @@
+{
+  "slug": "uab-saimeta-daujenai",
+  "name": "UAB Saimeta",
+  "city": "Daujėnai",
+  "country": "Lithuania",
+  "placeId": "ChIJ-bz0gK-b6EYRvSZla1KSQGA",
+  "googleName": "Saimeta, parduotuve",
+  "formattedAddress": "Vilniaus g. 16, 39148 Pasvalys, Lithuania",
+  "phone": "(0-698) 31668",
+  "website": "http://www.saimeta.lt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6935704308837328573",
+  "rating": 3.7,
+  "reviewCount": 21,
+  "coords": [
+    56.0606065,
+    24.4015082
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:30 PM",
+    "Tuesday: 8:00 AM – 5:30 PM",
+    "Wednesday: 8:00 AM – 5:30 PM",
+    "Thursday: 8:00 AM – 5:30 PM",
+    "Friday: 8:00 AM – 5:30 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/uab-saimeta-daujenai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:06:09.636Z"
+}

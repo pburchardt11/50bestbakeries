@@ -1,0 +1,32 @@
+{
+  "slug": "emanuel-s-bakery-qormi",
+  "name": "Emanuel's Bakery",
+  "city": "Qormi",
+  "country": "Malta",
+  "placeId": "ChIJvfARmqBaDhMRKCC4lLtH0ac",
+  "googleName": "Emanuel's Bakery",
+  "formattedAddress": "47, 49 Triq il-Mithna, Ħal Qormi, Malta",
+  "phone": "2148 2239",
+  "website": "https://emanuelsbakerymalta.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12092525345446043688",
+  "rating": 4.7,
+  "reviewCount": 327,
+  "coords": [
+    35.8829609,
+    14.4732429
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 9:30 PM",
+    "Tuesday: 10:30 AM – 9:30 PM",
+    "Wednesday: 10:30 AM – 9:30 PM",
+    "Thursday: 10:30 AM – 9:30 PM",
+    "Friday: 10:30 AM – 9:30 PM",
+    "Saturday: 10:30 AM – 9:30 PM",
+    "Sunday: 10:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/emanuel-s-bakery-qormi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:20.116Z"
+}

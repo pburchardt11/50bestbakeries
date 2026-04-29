@@ -1,0 +1,32 @@
+{
+  "slug": "aux-saveurs-du-bon-pain-pamandzi",
+  "name": "Aux Saveurs du Bon Pain",
+  "city": "Pamandzi",
+  "country": "Mayotte",
+  "placeId": "ChIJwwyrj7wVCiIRi_l0dHhH0wg",
+  "googleName": "Aux Saveurs du Bon Pain",
+  "formattedAddress": "N4, Pamandzi 97615, Mayotte",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=635930555064842635",
+  "rating": 4,
+  "reviewCount": 96,
+  "coords": [
+    -12.798629,
+    45.2767741
+  ],
+  "openingHours": [
+    "Monday: 5:15 AM – 1:00 PM, 3:00 – 6:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 5:15 AM – 1:00 PM, 3:00 – 6:00 PM",
+    "Thursday: 5:15 AM – 1:00 PM",
+    "Friday: 5:15 AM – 1:00 PM, 3:00 – 6:00 PM",
+    "Saturday: 5:30 AM – 1:00 PM",
+    "Sunday: 5:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aux-saveurs-du-bon-pain-pamandzi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:20:14.364Z"
+}

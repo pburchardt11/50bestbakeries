@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-novljanka-herceg-novi",
+  "name": "Pekara Novljanka",
+  "city": "Herceg Novi",
+  "country": "Montenegro",
+  "placeId": "ChIJ8Wg7FXk7TBMR37clHwgbuqc",
+  "googleName": "Pekara Novljanka",
+  "formattedAddress": "FG5G+33W, Herceg Novi, Montenegro",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12086002271698401247",
+  "rating": 4.7,
+  "reviewCount": 88,
+  "coords": [
+    42.4577468,
+    18.5251915
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:30 PM",
+    "Tuesday: 6:30 AM – 7:30 PM",
+    "Wednesday: 6:30 AM – 7:30 PM",
+    "Thursday: 6:30 AM – 7:30 PM",
+    "Friday: 6:30 AM – 7:30 PM",
+    "Saturday: 6:30 AM – 7:30 PM",
+    "Sunday: 6:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-novljanka-herceg-novi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:36.745Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cake-away-kingston",
+  "name": "Cake Away",
+  "city": "Kingston",
+  "country": "Jamaica",
+  "placeId": "ChIJ1drPFkAT244Rc2k8c1hic9w",
+  "googleName": "Cakes You Like JA",
+  "formattedAddress": "26 Diamond Ave, Kingston, Jamaica",
+  "phone": "(876) 840-2034",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15885148442695854451",
+  "rating": 4.9,
+  "reviewCount": 39,
+  "coords": [
+    18.0233395,
+    -76.9626502
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-away-kingston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:43.970Z"
+}

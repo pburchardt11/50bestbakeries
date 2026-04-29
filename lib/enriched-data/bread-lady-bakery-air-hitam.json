@@ -1,0 +1,32 @@
+{
+  "slug": "bread-lady-bakery-air-hitam",
+  "name": "Bread Lady Bakery",
+  "city": "Air Hitam",
+  "country": "Malaysia",
+  "placeId": "ChIJDymil4rBSjARLKEU8YX0khI",
+  "googleName": "Bread Lady Bakery",
+  "formattedAddress": "1-G-11, Medan Angsana 3, Bandar Baru Air Itam, 11500 Ayer Itam, Pulau Pinang, Malaysia",
+  "phone": "04-824 3882",
+  "website": "https://www.facebook.com/Breadladybakery.my",
+  "googleMapsUrl": "https://maps.google.com/?cid=1338400895394947372",
+  "rating": 4,
+  "reviewCount": 39,
+  "coords": [
+    5.3896641,
+    100.2839721
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-lady-bakery-air-hitam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:12:15.028Z"
+}

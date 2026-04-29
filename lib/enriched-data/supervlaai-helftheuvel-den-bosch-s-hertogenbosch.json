@@ -1,0 +1,32 @@
+{
+  "slug": "supervlaai-helftheuvel-den-bosch-s-hertogenbosch",
+  "name": "Supervlaai Helftheuvel Den Bosch",
+  "city": "'s-Hertogenbosch",
+  "country": "Netherlands",
+  "placeId": "ChIJpQCXY9TtxkcRWuiN5RuSvtA",
+  "googleName": "Supervlaai Helftheuvel Den Bosch",
+  "formattedAddress": "Helftheuvelpassage 260, 5224 AP 's-Hertogenbosch, Netherlands",
+  "phone": "073 624 1001",
+  "website": "http://www.supervlaaidenbosch.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15041620453977090138",
+  "rating": 4.7,
+  "reviewCount": 21,
+  "coords": [
+    51.6946383,
+    5.2674138
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:00 PM",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/supervlaai-helftheuvel-den-bosch-s-hertogenbosch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:22.939Z"
+}

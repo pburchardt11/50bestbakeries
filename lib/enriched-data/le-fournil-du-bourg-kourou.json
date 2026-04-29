@@ -1,0 +1,32 @@
+{
+  "slug": "le-fournil-du-bourg-kourou",
+  "name": "Le Fournil du Bourg",
+  "city": "Kourou",
+  "country": "French Guiana",
+  "placeId": "ChIJl8JeZpT-EY0RG5B2QZaSu6Y",
+  "googleName": "Le Fournil du Bourg",
+  "formattedAddress": "5934+VRQ, Kourou 97310, French Guiana",
+  "phone": "0594 32 29 12",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12014357604981968923",
+  "rating": 4.3,
+  "reviewCount": 236,
+  "coords": [
+    5.1547151,
+    -52.6428889
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: 5:30 AM – 7:00 PM",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: 5:30 AM – 7:00 PM",
+    "Saturday: 5:30 AM – 7:00 PM",
+    "Sunday: 5:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-fournil-du-bourg-kourou/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:56.816Z"
+}

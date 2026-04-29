@@ -1,0 +1,32 @@
+{
+  "slug": "a-m-delightful-bakery-abuja",
+  "name": "A. M. Delightful Bakery",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "placeId": "ChIJMSiVIKhzThARDQCC34JNgLs",
+  "googleName": "A.M. Delightful Foods",
+  "formattedAddress": "Wuye Ultra Modern Market, Patience Jonathan Block, 2nd Floor , Shop CS 243, Municipal, Abuja 900108, Federal Capital Territory, Nigeria",
+  "phone": "0818 451 7130",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13510884106602414093",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    9.0509931,
+    7.4436746
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-m-delightful-bakery-abuja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:41:01.848Z"
+}

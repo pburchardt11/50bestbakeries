@@ -1,0 +1,30 @@
+{
+  "slug": "big-t-bakery-st-andrew",
+  "name": "Big T Bakery",
+  "city": "St Andrew",
+  "country": "Jamaica",
+  "placeId": "ChIJj9Q1iwI_244RBDCTijQPDb4",
+  "googleName": "Big T Bakery",
+  "formattedAddress": "114 Sunrise Cres, Kingston, Jamaica",
+  "phone": "(876) 452-0091",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13694618760241164292",
+  "rating": 4,
+  "reviewCount": 2,
+  "coords": [
+    18.0380364,
+    -76.8130813
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 2:00 PM",
+    "Tuesday: 10:00 AM – 2:00 PM",
+    "Wednesday: 10:00 AM – 2:00 PM",
+    "Thursday: 10:00 AM – 2:00 PM",
+    "Friday: 10:00 AM – 2:00 PM",
+    "Saturday: 10:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:46:23.715Z"
+}

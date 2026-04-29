@@ -1,0 +1,32 @@
+{
+  "slug": "winchell-s-mangilao",
+  "name": "Winchell's",
+  "city": "Mangilao",
+  "country": "Guam",
+  "placeId": "ChIJ53dmi3adH2cRgO-7wlJp6Iw",
+  "googleName": "Winchell's Mangilao",
+  "formattedAddress": "1, University of Guam, 96913, Guam",
+  "phone": "(671) 734-1737",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10153481164082114432",
+  "rating": 3.7,
+  "reviewCount": 192,
+  "coords": [
+    13.4409527,
+    144.8002801
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 10:00 PM",
+    "Tuesday: 5:00 AM – 10:00 PM",
+    "Wednesday: 5:00 AM – 10:00 PM",
+    "Thursday: 5:00 AM – 10:00 PM",
+    "Friday: 5:00 AM – 10:00 PM",
+    "Saturday: 5:00 AM – 10:00 PM",
+    "Sunday: 5:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/winchell-s-mangilao/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:22:44.444Z"
+}

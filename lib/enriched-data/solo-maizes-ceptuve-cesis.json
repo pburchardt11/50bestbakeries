@@ -1,0 +1,32 @@
+{
+  "slug": "solo-maizes-ceptuve-cesis",
+  "name": "Solo Maizes Ceptuve",
+  "city": "Cēsis",
+  "country": "Latvia",
+  "placeId": "ChIJR_LuVZnh60YRBXC7OzNRvzg",
+  "googleName": "Solo , maizes ceptuve",
+  "formattedAddress": "Jāņa Poruka iela 23, Cēsis, Cēsis pilsēta, Cēsu novads, LV-4101, Latvia",
+  "phone": "64 107 926",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4089076267163021317",
+  "rating": 4.5,
+  "reviewCount": 51,
+  "coords": [
+    57.3144471,
+    25.2946407
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:00 PM",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/solo-maizes-ceptuve-cesis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:07.307Z"
+}

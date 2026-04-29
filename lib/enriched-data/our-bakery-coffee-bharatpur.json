@@ -1,0 +1,32 @@
+{
+  "slug": "our-bakery-coffee-bharatpur",
+  "name": "Our Bakery & coffee",
+  "city": "Bharatpur",
+  "country": "Nepal",
+  "placeId": "ChIJk_6ATH37lDkRk8A8AGZhi6M",
+  "googleName": "Our Bakery & Coffee",
+  "formattedAddress": "MCH8+GRH, Lanku Road, Bharatpur 44207, Nepal",
+  "phone": "985-5011595",
+  "website": "http://www.ourbakery.rf.gd/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11784619940663574675",
+  "rating": 4.7,
+  "reviewCount": 24,
+  "coords": [
+    27.6788073,
+    84.4171214
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/our-bakery-coffee-bharatpur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:33:25.365Z"
+}

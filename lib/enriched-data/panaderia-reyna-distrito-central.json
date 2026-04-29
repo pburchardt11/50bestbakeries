@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-reyna-distrito-central",
+  "name": "Panadería Reyna",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJSaiujdWjb48RWtb9ZZ7HONs",
+  "googleName": "Panadería Reyna",
+  "formattedAddress": "3RV3+RH8 Edif. Rivera Girón, Av. Tiburcio Carías Andino, Tegucigalpa, Francisco Morazán, Honduras",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15796595176131909210",
+  "rating": 4.6,
+  "reviewCount": 38,
+  "coords": [
+    14.0945321,
+    -87.19604420000002
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-reyna-distrito-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:28:39.567Z"
+}

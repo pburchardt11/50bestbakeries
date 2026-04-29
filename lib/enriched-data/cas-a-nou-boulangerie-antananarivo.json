@@ -1,0 +1,32 @@
+{
+  "slug": "cas-a-nou-boulangerie-antananarivo",
+  "name": "CAS'A NOU boulangerie",
+  "city": "Antananarivo",
+  "country": "Madagascar",
+  "placeId": "ChIJrXqvsl6H8CER58T-OVMEV6E",
+  "googleName": "Cas'a nou",
+  "formattedAddress": "4GJJ+4HH, Antananarivo, Madagascar",
+  "phone": "034 36 343 18",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11625765718582019303",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    -18.869693,
+    47.5314928
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 7:00 PM",
+    "Sunday: 6:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cas-a-nou-boulangerie-antananarivo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:11:10.616Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "lyn-s-cafe-bondo",
+  "name": "Lyn's Cafe",
+  "city": "Bondo",
+  "country": "Kenya",
+  "placeId": "ChIJz15uNQCjGBUR43dp-IViU0o",
+  "googleName": "Lyn cafe",
+  "formattedAddress": "2627+4V7, Baalbek, Lebanon",
+  "phone": "81 888 936",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5355732709411485667",
+  "rating": 4.8,
+  "reviewCount": 19,
+  "coords": [
+    34.0004883,
+    36.2145533
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lyn-s-cafe-bondo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:52:50.298Z"
+}

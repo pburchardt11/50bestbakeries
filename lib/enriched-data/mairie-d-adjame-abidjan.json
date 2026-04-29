@@ -1,0 +1,32 @@
+{
+  "slug": "mairie-d-adjame-abidjan",
+  "name": "Mairie d'Adjamé",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJG0H6oQHrwQ8Rq_y64Gu4w9s",
+  "googleName": "MAIRIE D'ADJAMÉ",
+  "formattedAddress": "8XVF+4CP, Abidjan, Côte d'Ivoire",
+  "phone": "27 20 2 56300",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15835703488236158123",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    5.342833199999999,
+    -4.0264182
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 12:30 PM",
+    "Sunday: 8:30 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mairie-d-adjame-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:07.599Z"
+}

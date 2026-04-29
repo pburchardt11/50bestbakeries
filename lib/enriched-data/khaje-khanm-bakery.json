@@ -1,0 +1,32 @@
+{
+  "slug": "khaje-khanm-bakery",
+  "name": "Khaje Khanm Bakery",
+  "city": "السليمانية",
+  "country": "Iraq",
+  "placeId": "ChIJcWXHpxktAEAROnC-_4_-pjc",
+  "googleName": "Khaje Khanm Bakery",
+  "formattedAddress": "HCGW+RF2, Sulaymaniyah, Sulaymaniyah Governorate, Iraq",
+  "phone": "0770 150 8726",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4010172412644454458",
+  "rating": 4.2,
+  "reviewCount": 28,
+  "coords": [
+    35.5770086,
+    45.4461502
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 PM",
+    "Tuesday: 6:00 AM – 12:00 PM",
+    "Wednesday: 6:00 AM – 12:00 PM",
+    "Thursday: 6:00 AM – 12:00 PM",
+    "Friday: 6:00 AM – 12:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/khaje-khanm-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:38:18.313Z"
+}

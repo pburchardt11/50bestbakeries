@@ -1,0 +1,32 @@
+{
+  "slug": "la-boul-accra",
+  "name": "La Boul'Accra",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJscMdKzCb3w8RIHPKV0Z47BI",
+  "googleName": "La Boul’Accra",
+  "formattedAddress": "2 Palm St, Accra, Ghana",
+  "phone": "050 577 5698",
+  "website": "https://www.instagram.com/laboulaccra/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1363597030702347040",
+  "rating": 4.7,
+  "reviewCount": 87,
+  "coords": [
+    5.6335715,
+    -0.1585521
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boul-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:43.476Z"
+}

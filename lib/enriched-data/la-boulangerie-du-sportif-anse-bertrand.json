@@ -1,0 +1,32 @@
+{
+  "slug": "la-boulangerie-du-sportif-anse-bertrand",
+  "name": "La Boulangerie du Sportif",
+  "city": "Anse-Bertrand",
+  "country": "Guadeloupe",
+  "placeId": "ChIJvUp1ZAswE4wR1lyC2Fhjeeg",
+  "googleName": "La Boulangerie du Sportif",
+  "formattedAddress": "117 Rue Victor Schoelcher, Anse-Bertrand 97121, Guadeloupe",
+  "phone": "0590 22 15 74",
+  "website": "http://www.boulangerie-du-sportif.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16751529522221964502",
+  "rating": 4.3,
+  "reviewCount": 180,
+  "coords": [
+    16.4730715,
+    -61.508232
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:00 PM",
+    "Tuesday: 5:00 AM – 7:00 PM",
+    "Wednesday: 5:00 AM – 7:00 PM",
+    "Thursday: 5:00 AM – 7:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 5:30 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boulangerie-du-sportif-anse-bertrand/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:20:19.263Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mamito-temara",
+  "name": "Mamito",
+  "city": "Temara",
+  "country": "Morocco",
+  "placeId": "ChIJY_gcPDQNpw0R5H1yZ_9_V_M",
+  "googleName": "Mamito",
+  "formattedAddress": "LOT SMARA, MAGASIN 1, NO 75 HAY IBN ROCHD, Témara 12000, Morocco",
+  "phone": "06 41 94 27 19",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17534624409119260132",
+  "rating": 4.3,
+  "reviewCount": 108,
+  "coords": [
+    33.9260494,
+    -6.932382
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 10:00 PM",
+    "Tuesday: 9:30 AM – 10:00 PM",
+    "Wednesday: 9:30 AM – 10:00 PM",
+    "Thursday: 9:30 AM – 10:00 PM",
+    "Friday: 9:30 AM – 10:00 PM",
+    "Saturday: 9:30 AM – 10:00 PM",
+    "Sunday: 9:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mamito-temara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:28:38.026Z"
+}

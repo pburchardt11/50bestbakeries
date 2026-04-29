@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-marimootoo-curepipe-town",
+  "name": "Patisserie Marimootoo",
+  "city": "Curepipe Town",
+  "country": "Mauritius",
+  "placeId": "ChIJQ3o1hlxcfCER3BWt6wjSA1g",
+  "googleName": "Pâtisserie Marimootoo",
+  "formattedAddress": "Rue Botanical Garden, Après le Jardin botanique, Curepipe, Mauritius",
+  "phone": "674 3925",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6342143636023350748",
+  "rating": 4.2,
+  "reviewCount": 152,
+  "coords": [
+    -20.3236235,
+    57.51785429999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 6:00 PM",
+    "Sunday: 9:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-marimootoo-curepipe-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:31.542Z"
+}

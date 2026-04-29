@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-parisco-tamuning",
+  "name": "Patisserie PariSco",
+  "city": "Tamuning",
+  "country": "Guam",
+  "placeId": "ChIJ-2VHKnJ4H2cREHOA70sI35Q",
+  "googleName": "Patisserie PariSco",
+  "formattedAddress": "285 Fahrenholt Avenue, Oka, 96913, Guam",
+  "phone": "(671) 646-0099",
+  "website": "http://www.patisserieparisco.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10727301959653552912",
+  "rating": 4.4,
+  "reviewCount": 349,
+  "coords": [
+    13.4987029,
+    144.7766154
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:30 PM",
+    "Tuesday: 6:30 AM – 6:30 PM",
+    "Wednesday: 6:30 AM – 6:30 PM",
+    "Thursday: 6:30 AM – 6:30 PM",
+    "Friday: 6:30 AM – 6:30 PM",
+    "Saturday: 6:30 AM – 6:30 PM",
+    "Sunday: 7:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-parisco-tamuning/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:23:01.481Z"
+}

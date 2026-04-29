@@ -1,0 +1,32 @@
+{
+  "slug": "45-degree-45-bakery-macau",
+  "name": "45（degree 45 bakery)",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJx_K197F7ATQRmStd5YqwBuQ",
+  "googleName": "45度（degree 45 bakery)",
+  "formattedAddress": "Edificio Hou Wa, 27A R. das Estalagens, Macao",
+  "phone": "2882 3454",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16431014401107897241",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    22.1966651,
+    113.5386365
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 12:00 – 8:00 PM",
+    "Wednesday: 12:00 – 8:00 PM",
+    "Thursday: 12:00 – 8:00 PM",
+    "Friday: 12:00 – 8:00 PM",
+    "Saturday: 12:00 – 8:00 PM",
+    "Sunday: 12:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/45-degree-45-bakery-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:57.018Z"
+}

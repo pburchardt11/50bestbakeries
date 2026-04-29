@@ -1,0 +1,32 @@
+{
+  "slug": "food-hall-cholargos",
+  "name": "Βενέτη Food Hall",
+  "city": "Cholargos",
+  "country": "Greece",
+  "placeId": "ChIJO7HcOkSYoRQRJV78n8sID0E",
+  "googleName": "ΦΟΥΡΝΟΣ ΒΕΝΕΤΗ FOOD HALL | Χολαργός",
+  "formattedAddress": "Leof. Mesogeion 226, Cholargos 155 61, Greece",
+  "phone": "21 0651 5900",
+  "website": "http://www.fournosveneti.gr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4687975407771475493",
+  "rating": 3.9,
+  "reviewCount": 655,
+  "coords": [
+    38.0030828,
+    23.7927941
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/food-hall-cholargos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:18.807Z"
+}

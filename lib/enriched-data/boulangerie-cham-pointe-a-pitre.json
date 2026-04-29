@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-cham-pointe-a-pitre",
+  "name": "Boulangerie CHAM",
+  "city": "Pointe-à-Pitre",
+  "country": "Guadeloupe",
+  "placeId": "ChIJD2UR7yxFE4wRxBKt7gsVJIk",
+  "googleName": "Tout Chaud - Mortenol",
+  "formattedAddress": "6FQ9+R69, Rue Léonie Mélas, Pointe-à-Pitre 97110, Guadeloupe",
+  "phone": "0976 02 54 80",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9882046623350854340",
+  "rating": 4.3,
+  "reviewCount": 25,
+  "coords": [
+    16.2395494,
+    -61.5318833
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-cham-pointe-a-pitre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:22:05.328Z"
+}

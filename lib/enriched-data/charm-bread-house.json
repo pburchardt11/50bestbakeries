@@ -1,0 +1,32 @@
+{
+  "slug": "charm-bread-house",
+  "name": "Charm Bread House",
+  "city": "أربيل",
+  "country": "Iraq",
+  "placeId": "ChIJ6UwxiF0jB0AR2RHjd4iz-Ic",
+  "googleName": "Bella House (bake&cafe) - بێڵا هاوس کافێ",
+  "formattedAddress": "MRF4 TOWER، hemn street، Erbil, Erbil Governorate, 44001, Iraq",
+  "phone": "0750 690 7777",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9797778388052808153",
+  "rating": 5,
+  "reviewCount": 10,
+  "coords": [
+    36.1965612,
+    43.9653838
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 12:00 – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charm-bread-house/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:37:51.306Z"
+}

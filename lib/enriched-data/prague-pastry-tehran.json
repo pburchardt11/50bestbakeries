@@ -1,0 +1,32 @@
+{
+  "slug": "prague-pastry-tehran",
+  "name": "Prague Pastry",
+  "city": "Tehran",
+  "country": "Iran",
+  "placeId": "ChIJmT5dVb8Bjj8Rzg3rraPwk90",
+  "googleName": "Prague Pastry",
+  "formattedAddress": "Tehran Province, Tehran, Kalantari St, PC79+5CQ, Iran",
+  "phone": "0937 736 9332",
+  "website": "http://praguepastry.ir/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15966369689746738638",
+  "rating": 4.2,
+  "reviewCount": 36,
+  "coords": [
+    35.7129656,
+    51.4185515
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/prague-pastry-tehran/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:36:43.763Z"
+}

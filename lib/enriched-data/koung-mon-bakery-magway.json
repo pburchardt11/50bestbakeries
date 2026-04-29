@@ -1,0 +1,32 @@
+{
+  "slug": "koung-mon-bakery-magway",
+  "name": "Koung Mon Bakery",
+  "city": "Magway",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJrwtump7RtzARKSy344TcihI",
+  "googleName": "Koung Mon Bakery",
+  "formattedAddress": "4XR5+3C9, Magway, Myanmar (Burma)",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1336122702782999593",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    20.1392591,
+    94.95799339999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/koung-mon-bakery-magway/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:30:42.421Z"
+}

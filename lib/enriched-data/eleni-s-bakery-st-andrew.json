@@ -1,0 +1,32 @@
+{
+  "slug": "eleni-s-bakery-st-andrew",
+  "name": "Eleni's Bakery",
+  "city": "St Andrew",
+  "country": "Jamaica",
+  "placeId": "ChIJ-VmPf-M-244R0ty5B6wYBnY",
+  "googleName": "Eleni's Bakery Jamaica",
+  "formattedAddress": "Sovereign North Plaza, 29 Barbican Rd, Kingston, Jamaica",
+  "phone": "(876) 544-2731",
+  "website": "https://www.facebook.com/elenisjamaica/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8504512073478823122",
+  "rating": 4.5,
+  "reviewCount": 629,
+  "coords": [
+    18.0221753,
+    -76.7654179
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eleni-s-bakery-st-andrew/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:46:41.349Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "morita-panaderia-y-reposteria-distrito-central",
+  "name": "Morita Panadería y Repostería",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJaeAsuu3i0YURuLc7CCtplGY",
+  "googleName": "Pasteleria Morita",
+  "formattedAddress": "Av. Floresta 241, Reforma, 57840 Cdad. Nezahualcóyotl, Méx., Mexico",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7391648521964468152",
+  "rating": 4,
+  "reviewCount": 70,
+  "coords": [
+    19.3742855,
+    -98.98165089999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:30 PM",
+    "Sunday: 9:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/morita-panaderia-y-reposteria-distrito-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:14.074Z"
+}

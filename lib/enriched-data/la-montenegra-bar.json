@@ -1,0 +1,32 @@
+{
+  "slug": "la-montenegra-bar",
+  "name": "La Montenegra",
+  "city": "Bar",
+  "country": "Montenegro",
+  "placeId": "ChIJl2B9LiIzTBMRv520M7j5S5U",
+  "googleName": "Monte1350bar",
+  "formattedAddress": "9QWW+868, Kotor, Montenegro",
+  "phone": "069 501 509",
+  "website": "https://instagram.com/montejuicebar?igshid=MzRlODBiNWFlZA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=10757966704441335231",
+  "rating": 4.7,
+  "reviewCount": 933,
+  "coords": [
+    42.3957447,
+    18.795628
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 10:30 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-montenegra-bar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:25:24.102Z"
+}

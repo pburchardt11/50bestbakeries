@@ -1,0 +1,32 @@
+{
+  "slug": "khobez-bakery",
+  "name": "Khobez Bakery",
+  "city": "אבו גוש",
+  "country": "Israel",
+  "placeId": "ChIJVVd3EdjQAhURbnI0yfbFfAw",
+  "googleName": "Khobez Bakery",
+  "formattedAddress": "Kvish ha-Shalom 82, Abu Ghosh, Israel",
+  "phone": "02-533-3355",
+  "website": "https://www.facebook.com/khopz",
+  "googleMapsUrl": "https://maps.google.com/?cid=899811689295540846",
+  "rating": 4.3,
+  "reviewCount": 1073,
+  "coords": [
+    31.8033057,
+    35.1179025
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 12:00 AM",
+    "Tuesday: 5:00 AM – 12:00 AM",
+    "Wednesday: 5:00 AM – 12:00 AM",
+    "Thursday: 5:00 AM – 12:00 AM",
+    "Friday: 5:00 AM – 12:00 AM",
+    "Saturday: 5:00 AM – 12:00 AM",
+    "Sunday: 5:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/khobez-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:52.424Z"
+}

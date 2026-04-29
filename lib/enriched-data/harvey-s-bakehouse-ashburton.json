@@ -1,0 +1,32 @@
+{
+  "slug": "harvey-s-bakehouse-ashburton",
+  "name": "Harvey's Bakehouse",
+  "city": "Ashburton",
+  "country": "New Zealand",
+  "placeId": "ChIJH2UeK8C7LW0RrpLLBOaHxKk",
+  "googleName": "Harvey's Bakehouse",
+  "formattedAddress": "56 Creek Road, Allenton, Ashburton 7700, New Zealand",
+  "phone": "03 308 3398",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12233051909837787822",
+  "rating": 4.7,
+  "reviewCount": 242,
+  "coords": [
+    -43.89136930000001,
+    171.7566341
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/harvey-s-bakehouse-ashburton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:18.880Z"
+}

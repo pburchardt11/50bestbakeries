@@ -1,0 +1,32 @@
+{
+  "slug": "maison-vieille-curepipe-town",
+  "name": "Maison Vieille",
+  "city": "Curepipe Town",
+  "country": "Mauritius",
+  "placeId": "ChIJDXuIPw1dfCER4muAvwFxxWU",
+  "googleName": "Maison Vieille",
+  "formattedAddress": "Corner Impasse Henry, MU, Lees St, Curepipe 74404, Mauritius",
+  "phone": "5841 1975",
+  "website": "http://maison-vieille.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7333391820564491234",
+  "rating": 4.8,
+  "reviewCount": 134,
+  "coords": [
+    -20.3159546,
+    57.53490780000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:45 AM – 6:00 PM",
+    "Wednesday: 7:45 AM – 6:00 PM",
+    "Thursday: 7:45 AM – 6:00 PM",
+    "Friday: 7:45 AM – 6:00 PM",
+    "Saturday: 7:45 AM – 6:00 PM",
+    "Sunday: 7:45 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-vieille-curepipe-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:13.588Z"
+}

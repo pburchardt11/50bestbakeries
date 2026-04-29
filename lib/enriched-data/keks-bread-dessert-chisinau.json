@@ -1,0 +1,32 @@
+{
+  "slug": "keks-bread-dessert-chisinau",
+  "name": "KEKS Bread & Dessert",
+  "city": "Chisinau",
+  "country": "Moldova",
+  "placeId": "ChIJk4Za6Dx8yUARSs2FFUuWJuY",
+  "googleName": "Keks",
+  "formattedAddress": "Strada Ismail 84, Chișinău, Moldova",
+  "phone": "0760 00 048",
+  "website": "http://facebook.com/keksbreadanddessert",
+  "googleMapsUrl": "https://maps.google.com/?cid=16584107927066234186",
+  "rating": 4.5,
+  "reviewCount": 684,
+  "coords": [
+    47.01638,
+    28.8475039
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/keks-bread-dessert-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:02.773Z"
+}

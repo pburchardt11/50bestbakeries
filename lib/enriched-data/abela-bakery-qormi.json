@@ -1,0 +1,32 @@
+{
+  "slug": "abela-bakery-qormi",
+  "name": "Abela Bakery",
+  "city": "Qormi",
+  "country": "Malta",
+  "placeId": "ChIJrye0QepbDhMRMOpbTvy-WQw",
+  "googleName": "Abela Bakery & Confectionery",
+  "formattedAddress": "59 Triq Tal-Bajjada, Ħal Qormi, Malta",
+  "phone": "9947 5237",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=889952392238066224",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    35.8839673,
+    14.4792853
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 12:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/abela-bakery-qormi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:05.194Z"
+}

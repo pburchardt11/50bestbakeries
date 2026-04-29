@@ -1,0 +1,32 @@
+{
+  "slug": "baguet-shop-ducos",
+  "name": "Baguet Shop",
+  "city": "Ducos",
+  "country": "Martinique",
+  "placeId": "ChIJVUgVVkKgaowRl16hekIwqAs",
+  "googleName": "BAGUET SHOP",
+  "formattedAddress": "Zi Petite Cocote, Ducos 97224, Martinique",
+  "phone": "0596 50 99 32",
+  "website": "http://www.baguet-shop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=839974392587968151",
+  "rating": 3.6,
+  "reviewCount": 35,
+  "coords": [
+    14.576912,
+    -60.98592499999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baguet-shop-ducos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:32.541Z"
+}

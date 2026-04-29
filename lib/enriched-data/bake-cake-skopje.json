@@ -1,0 +1,32 @@
+{
+  "slug": "bake-cake-skopje",
+  "name": "Bake&Cake ()",
+  "city": "Skopje",
+  "country": "North Macedonia",
+  "placeId": "ChIJWTOm0EgUVBMRP3p51nrJ7Ss",
+  "googleName": "Cake Boutique",
+  "formattedAddress": "1000, Debarca St 36, Skopje 1000, North Macedonia",
+  "phone": "071 250 822",
+  "website": "https://www.facebook.com/CakeBoutiqueSkopje",
+  "googleMapsUrl": "https://maps.google.com/?cid=3165407642532805183",
+  "rating": 4.8,
+  "reviewCount": 10,
+  "coords": [
+    41.9993048,
+    21.4217322
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-cake-skopje/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:42:24.180Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pastel-gibraltar",
+  "name": "Pastel",
+  "city": "Gibraltar",
+  "country": "Gibraltar",
+  "placeId": "ChIJZ2gYZF-_DA0RcUfgcnE4iR4",
+  "googleName": "Pastel",
+  "formattedAddress": "21 Irish Town, Gibraltar GX11 1AA, Gibraltar",
+  "phone": "54091117",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2200351952856958833",
+  "rating": 5,
+  "reviewCount": 29,
+  "coords": [
+    36.1432273,
+    -5.353871
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastel-gibraltar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:30.589Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "good-food-catering-ulaanbaatar",
+  "name": "Good Food Catering",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJtXW9UwWTll0R95i8Fzb6SxY",
+  "googleName": "Good Food Catering LLC",
+  "formattedAddress": "Industrial St 92, HUD - 3 khoroo, Ulaanbaatar 17061, Mongolia",
+  "phone": "9001 9005",
+  "website": "http://www.gfc.mn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1606652802321127671",
+  "rating": 3,
+  "reviewCount": 1,
+  "coords": [
+    47.9020188,
+    106.8723175
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 4:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/good-food-catering-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:23:18.812Z"
+}

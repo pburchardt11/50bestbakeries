@@ -1,0 +1,32 @@
+{
+  "slug": "santiago-plus-esch-sur-alzette",
+  "name": "Santiago Plus",
+  "city": "Esch-sur-Alzette",
+  "country": "Luxembourg",
+  "placeId": "ChIJ0SzBOr01lUcRY__TGMUmDu4",
+  "googleName": "Santiago Plus",
+  "formattedAddress": "50 Rue Dominique-joseph Hoferlin, 4316 Esch-sur-Alzette, Luxembourg",
+  "phone": "27 76 72 91",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17153690658667757411",
+  "rating": 4.8,
+  "reviewCount": 18,
+  "coords": [
+    49.49744889999999,
+    5.9773173
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santiago-plus-esch-sur-alzette/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:48.549Z"
+}

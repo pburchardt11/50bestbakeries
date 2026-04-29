@@ -1,0 +1,32 @@
+{
+  "slug": "pizza-restaurant-green-zelenikovo",
+  "name": "Pizza Restaurant Green",
+  "city": "Zelenikovo",
+  "country": "North Macedonia",
+  "placeId": "ChIJ1fEY3MHwUxMRAl6wQ3OfFj0",
+  "googleName": "Pizzeria Green",
+  "formattedAddress": "2X5F+3HG, Tetovo 1220, North Macedonia",
+  "phone": "044 529 338",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4401881003206925826",
+  "rating": 4.7,
+  "reviewCount": 42,
+  "coords": [
+    42.0076827,
+    20.9739492
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pizza-restaurant-green-zelenikovo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:42:34.838Z"
+}

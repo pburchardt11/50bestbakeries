@@ -1,0 +1,32 @@
+{
+  "slug": "remo-wust-backerei-konditorei-balzers",
+  "name": "Remo Wüst Bäckerei + Konditorei",
+  "city": "Balzers",
+  "country": "Liechtenstein",
+  "placeId": "ChIJ0eehI14zm0cRqzJrfSPNsJo",
+  "googleName": "Wüst",
+  "formattedAddress": "Landstrasse 20, 9496 Balzers, Liechtenstein",
+  "phone": "399 88 22",
+  "website": "http://baeckereiwuest.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11146634630053704363",
+  "rating": 3.8,
+  "reviewCount": 79,
+  "coords": [
+    47.0752765,
+    9.5120955
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/remo-wust-backerei-konditorei-balzers/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:05:01.452Z"
+}

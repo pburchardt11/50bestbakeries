@@ -1,0 +1,32 @@
+{
+  "slug": "addahar-boulangerie-patisserie-bamako",
+  "name": "Addahar Boulangerie Patisserie",
+  "city": "Bamako",
+  "country": "Mali",
+  "placeId": "ChIJX6iJvtDNUQ4RnNglnq25dWE",
+  "googleName": "Baguette d’Or",
+  "formattedAddress": "ACI 2000, Bamako, Mali",
+  "phone": "77 21 66 66",
+  "website": "https://baguettedor.ml/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7022723349287917724",
+  "rating": 4.2,
+  "reviewCount": 31,
+  "coords": [
+    12.6277976,
+    -8.0267404
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/addahar-boulangerie-patisserie-bamako/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:12.096Z"
+}

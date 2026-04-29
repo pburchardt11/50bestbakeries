@@ -1,0 +1,32 @@
+{
+  "slug": "morrano-sweets",
+  "name": "Morrano Sweets",
+  "city": "الفروانية",
+  "country": "Kuwait",
+  "placeId": "ChIJBVjdO6uXzz8RrjpLgBoIdRM",
+  "googleName": "حلويات مورانو - Morrano Sweets",
+  "formattedAddress": "6VQV+MH2, Abdullah Al Mubarak Al Sabah, Kuwait",
+  "phone": "9800 2849",
+  "website": "http://www.morranosweets.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1402035768910363310",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    29.2436281,
+    47.89461379999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/morrano-sweets/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:31.491Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "la-boulange-laos",
+  "name": "La Boulange",
+  "city": "Laos",
+  "country": "Laos",
+  "placeId": "ChIJTf6UqbT4FDEREXYHfYazOOo",
+  "googleName": "La Boulange, French Traditional Bakery",
+  "formattedAddress": "ban, Pakxé, Laos",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16877436993775564305",
+  "rating": 4.7,
+  "reviewCount": 369,
+  "coords": [
+    15.1227592,
+    105.7984763
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:06 – 11:03 AM",
+    "Wednesday: 8:03 – 10:02 AM",
+    "Thursday: 8:09 – 11:17 AM",
+    "Friday: 8:04 – 8:12 AM",
+    "Saturday: 8:09 – 10:24 AM",
+    "Sunday: 8:01 – 9:17 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boulange-laos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:59:50.116Z"
+}

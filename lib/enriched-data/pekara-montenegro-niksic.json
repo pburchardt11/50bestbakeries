@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-montenegro-niksic",
+  "name": "Pekara Montenegro",
+  "city": "Niksic",
+  "country": "Montenegro",
+  "placeId": "ChIJ8_2cgbqpTRMRZRMsho0SjH4",
+  "googleName": "Pekara Montenegro",
+  "formattedAddress": "81400 Danila Bojovića, Nikšić 81400, Montenegro",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9118683744569135973",
+  "rating": 4.8,
+  "reviewCount": 5,
+  "coords": [
+    42.7749454,
+    18.9536081
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 AM",
+    "Tuesday: 6:00 AM – 2:00 AM",
+    "Wednesday: 6:00 AM – 2:00 AM",
+    "Thursday: 6:00 AM – 2:00 AM",
+    "Friday: 6:00 AM – 2:00 AM",
+    "Saturday: 6:00 AM – 2:00 AM",
+    "Sunday: 6:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-montenegro-niksic/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:57.279Z"
+}

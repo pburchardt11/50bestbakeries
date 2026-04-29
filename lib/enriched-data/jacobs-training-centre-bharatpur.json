@@ -1,0 +1,32 @@
+{
+  "slug": "jacobs-training-centre-bharatpur",
+  "name": "Jacobs training centre",
+  "city": "Bharatpur",
+  "country": "Nepal",
+  "placeId": "ChIJjWIhFqL7lDkRV6o8G83QTgQ",
+  "googleName": "Jacobs Training Centre",
+  "formattedAddress": "Bharatpur 44200, Nepal",
+  "phone": "985-5055441",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=310415003678976599",
+  "rating": 1,
+  "reviewCount": 1,
+  "coords": [
+    27.6871431,
+    84.4350489
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jacobs-training-centre-bharatpur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:33:36.195Z"
+}

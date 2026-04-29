@@ -1,0 +1,32 @@
+{
+  "slug": "yummy-stop-birzebbuga",
+  "name": "Yummy stop",
+  "city": "Birżebbuġa",
+  "country": "Malta",
+  "placeId": "ChIJb4YqLQBbDhMRDJ8BesTtMF4",
+  "googleName": "2 Ace’s Bakery",
+  "formattedAddress": "192 Triq Birzebbuga, Birżebbuġa, Malta",
+  "phone": "9952 1265",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6787186066563637004",
+  "rating": 5,
+  "reviewCount": 14,
+  "coords": [
+    35.8257611,
+    14.5283219
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yummy-stop-birzebbuga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:54.536Z"
+}

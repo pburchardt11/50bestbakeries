@@ -1,0 +1,32 @@
+{
+  "slug": "buka-bakery-fushe-kosove",
+  "name": "BUKA Bakery",
+  "city": "Fushë Kosovë",
+  "country": "Kosovo",
+  "placeId": "ChIJI6f_l8aeVBMRRMmrNgTv_6Q",
+  "googleName": "Buka Bakery",
+  "formattedAddress": "J5XF+G39, Rruga B, Prishtinë 10000",
+  "phone": "038 434 043",
+  "website": "http://www.bukabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11889484342657534276",
+  "rating": 4.5,
+  "reviewCount": 33,
+  "coords": [
+    42.6487843,
+    21.1727317
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/buka-bakery-fushe-kosove/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:54:44.782Z"
+}

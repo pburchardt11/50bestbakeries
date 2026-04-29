@@ -1,0 +1,32 @@
+{
+  "slug": "burekcilnica-vis",
+  "name": "burekcilnica VIS",
+  "city": "Виница",
+  "country": "North Macedonia",
+  "placeId": "ChIJMxP6CwmNVRMRrW4D6-HLxWY",
+  "googleName": "FRI-PEK Bakery & Café",
+  "formattedAddress": "Bel Kamen 13/A-5, Vinica 2310, North Macedonia",
+  "phone": "075 313 888",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7405549333451599533",
+  "rating": 4.9,
+  "reviewCount": 15,
+  "coords": [
+    41.8850021,
+    22.5047022
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 PM",
+    "Tuesday: 6:00 AM – 2:00 PM",
+    "Wednesday: 6:00 AM – 2:00 PM",
+    "Thursday: 6:00 AM – 2:00 PM",
+    "Friday: 6:00 AM – 2:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/burekcilnica-vis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:43:31.097Z"
+}

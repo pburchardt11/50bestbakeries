@@ -1,0 +1,32 @@
+{
+  "slug": "new-mario-macau",
+  "name": "New Mario",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJX1ogvfF6ATQRtBXIUTX4o8U",
+  "googleName": "Padaria New Mário",
+  "formattedAddress": "17E, 17 R. da Praia do Manduco, Macao",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14241499354564662708",
+  "rating": 3.8,
+  "reviewCount": 11,
+  "coords": [
+    22.1903769,
+    113.5350514
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/new-mario-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:30.840Z"
+}

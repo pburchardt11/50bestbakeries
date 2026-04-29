@@ -1,0 +1,32 @@
+{
+  "slug": "pelisson-libreville",
+  "name": "Pelisson",
+  "city": "Libreville",
+  "country": "Gabon",
+  "placeId": "ChIJFVBeyDQ9fxART3WQ0iOPIQ8",
+  "googleName": "Boulangerie Pelisson",
+  "formattedAddress": "CF88+FWF, Libreville, Gabon",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1090309968819680591",
+  "rating": 3.9,
+  "reviewCount": 19,
+  "coords": [
+    0.4161854,
+    9.467299400000002
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pelisson-libreville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:32.458Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "a-1-bakery-central",
+  "name": "A-1 bakery",
+  "city": "Central",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJ09DfkGQABDQRAxbDzd3QNF4",
+  "googleName": "A-1 Bakery",
+  "formattedAddress": "Hong Kong, Central, Shop CEN K6, MTR Central Station /// Island Line - Central Station, Exit K",
+  "phone": "2657 5699",
+  "website": "http://www.a-1bakery.com.hk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6788280189412644355",
+  "rating": 3.8,
+  "reviewCount": 40,
+  "coords": [
+    22.2816188,
+    114.1592012
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-1-bakery-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:57.371Z"
+}

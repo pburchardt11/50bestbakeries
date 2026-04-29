@@ -1,0 +1,32 @@
+{
+  "slug": "nova-break-ou-nova-kula",
+  "name": "Nõva Break OÜ",
+  "city": "Nõva küla",
+  "country": "Estonia",
+  "placeId": "ChIJkTUcertVjUYRhUHKvd-54Fc",
+  "googleName": "Nõva Break & Bread",
+  "formattedAddress": "küla, Nõva, 91101 Lääne maakond, Estonia",
+  "phone": "528 9264",
+  "website": "https://www.facebook.com/Novabreak",
+  "googleMapsUrl": "https://maps.google.com/?cid=6332265446695911813",
+  "rating": 4.9,
+  "reviewCount": 64,
+  "coords": [
+    59.22063410000001,
+    23.6968189
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 12:00 – 6:00 PM",
+    "Saturday: 11:00 AM – 4:00 PM",
+    "Sunday: 11:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nova-break-ou-nova-kula/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:41.682Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pastelaria-sao-paulo-macau",
+  "name": "Pastelaria São Paulo",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJH9pppeV6ATQR65prs8V2nTc",
+  "googleName": "Pastelaria São Paulo",
+  "formattedAddress": "17 R. de São Paulo, Macao",
+  "phone": "2835 8414",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4007489834920418027",
+  "rating": 3.9,
+  "reviewCount": 36,
+  "coords": [
+    22.1960537,
+    113.5407625
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 10:00 PM",
+    "Tuesday: 10:30 AM – 10:00 PM",
+    "Wednesday: 10:30 AM – 10:00 PM",
+    "Thursday: 10:30 AM – 10:00 PM",
+    "Friday: 10:30 AM – 10:00 PM",
+    "Saturday: 10:30 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelaria-sao-paulo-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:44.677Z"
+}

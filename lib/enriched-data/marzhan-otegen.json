@@ -1,0 +1,32 @@
+{
+  "slug": "marzhan-otegen",
+  "name": "Marzhan Otegen",
+  "city": "Алматы",
+  "country": "Kazakhstan",
+  "placeId": "ChIJcd7CIABpgzgRA8TBKpaiYMQ",
+  "googleName": "Marzhan Otegen",
+  "formattedAddress": "6V2P+6F2, Almaty, Kazakhstan",
+  "phone": "8 (747) 111 2767",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14150488795044234243",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    43.200509,
+    76.8861816
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marzhan-otegen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:51:32.476Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "clendon-bakery-auckland",
+  "name": "Clendon Bakery",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJlca9chdSDW0RVVuLZqz0CGE",
+  "googleName": "Clendon Bakery",
+  "formattedAddress": "Parking lot 469 Roscommon Road, Clendon Park, Auckland 2103, New Zealand",
+  "phone": "09 266 7137",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6992107442784656213",
+  "rating": 4.6,
+  "reviewCount": 492,
+  "coords": [
+    -37.0330109,
+    174.8679186
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 3:30 PM",
+    "Tuesday: 6:00 AM – 3:30 PM",
+    "Wednesday: 6:00 AM – 3:30 PM",
+    "Thursday: 6:00 AM – 3:30 PM",
+    "Friday: 6:00 AM – 3:30 PM",
+    "Saturday: 6:00 AM – 3:30 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/clendon-bakery-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:54.631Z"
+}

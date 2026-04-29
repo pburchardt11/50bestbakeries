@@ -1,0 +1,32 @@
+{
+  "slug": "tecto-bakery-daugavpils",
+  "name": "TECTO Bakery",
+  "city": "Daugavpils",
+  "country": "Latvia",
+  "placeId": "ChIJG8oPyx2VwkYRKXN5aOHjybw",
+  "googleName": "TECTO Bakery",
+  "formattedAddress": "Rīgas iela 65, Daugavpils, LV-5401, Latvia",
+  "phone": "23 991 616",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13603654706709230377",
+  "rating": 4.4,
+  "reviewCount": 357,
+  "coords": [
+    55.8737483,
+    26.524125
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tecto-bakery-daugavpils/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:16.706Z"
+}

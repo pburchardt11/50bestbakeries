@@ -1,0 +1,32 @@
+{
+  "slug": "nishan-bakery",
+  "name": "Nishan Bakery",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJXxd7N_6hHBUR9fsbVFWrPd0",
+  "googleName": "Nishan Bakery",
+  "formattedAddress": "Khalil As Salem 35, Amman, Jordan",
+  "phone": "07 9598 3872",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15942086638933113845",
+  "rating": 4.4,
+  "reviewCount": 421,
+  "coords": [
+    31.99861439999999,
+    35.8649359
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nishan-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:50:07.467Z"
+}

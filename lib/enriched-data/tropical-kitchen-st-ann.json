@@ -1,0 +1,32 @@
+{
+  "slug": "tropical-kitchen-st-ann",
+  "name": "Tropical Kitchen",
+  "city": "St Ann",
+  "country": "Jamaica",
+  "placeId": "ChIJ3-xHOaP_2o4RgQoqAPxkGqE",
+  "googleName": "Tropical Kitchen",
+  "formattedAddress": "shop #2, Ocean Village Plaza, Main St, Ocho Rios, Jamaica",
+  "phone": "(876) 974-5045",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11608702022998166145",
+  "rating": 4,
+  "reviewCount": 15,
+  "coords": [
+    18.406997,
+    -77.10612569999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tropical-kitchen-st-ann/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:08.146Z"
+}

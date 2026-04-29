@@ -1,0 +1,32 @@
+{
+  "slug": "jen-s-bakery-cayes",
+  "name": "Jen's Bakery",
+  "city": "Cayes",
+  "country": "Haiti",
+  "placeId": "ChIJPQf4qSifx44RKyUnFPCviQ8",
+  "googleName": "Jen's Bakery",
+  "formattedAddress": "26 Rue Duvivier Hall, Les Cayes, Haiti",
+  "phone": "36 83 5841",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1119619428043400491",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    18.1945248,
+    -73.7498164
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:30 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jen-s-bakery-cayes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:26:14.095Z"
+}

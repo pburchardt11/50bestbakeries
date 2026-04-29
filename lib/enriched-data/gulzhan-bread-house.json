@@ -1,0 +1,32 @@
+{
+  "slug": "gulzhan-bread-house",
+  "name": "Gulzhan_bread_house",
+  "city": "Астана",
+  "country": "Kazakhstan",
+  "placeId": "ChIJD87ZZLGDRUIRNPoFuAKpV1U",
+  "googleName": "Qazan Lagman",
+  "formattedAddress": "Jumeken Najimedenov St 16б, Astana 010000, Kazakhstan",
+  "phone": "8 (705) 424 4944",
+  "website": "https://www.instagram.com/qazan.lagman?igsh=MXF6djd6YXY1aWJhaA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=6149569645340129844",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    51.1178758,
+    71.4784541
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 11:30 PM",
+    "Tuesday: 11:00 AM – 11:30 PM",
+    "Wednesday: 11:00 AM – 11:30 PM",
+    "Thursday: 11:00 AM – 11:30 PM",
+    "Friday: 11:00 AM – 11:30 PM",
+    "Saturday: 11:00 AM – 11:30 PM",
+    "Sunday: 11:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gulzhan-bread-house/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:52:12.979Z"
+}

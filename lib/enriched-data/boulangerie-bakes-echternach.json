@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-bakes-echternach",
+  "name": "Boulangerie Bakes Echternach",
+  "city": "Echternach",
+  "country": "Luxembourg",
+  "placeId": "ChIJ0RPdJnZglUcRgxtv87ycWb0",
+  "googleName": "Fischer Echternach",
+  "formattedAddress": "38 Rue de La Gare, 6440 Echternach, Luxembourg",
+  "phone": "26 72 14 01",
+  "website": "https://fischer1913.com/fr-lu/nos-salons/fischer-echternach",
+  "googleMapsUrl": "https://maps.google.com/?cid=13644108881447558019",
+  "rating": 4.1,
+  "reviewCount": 339,
+  "coords": [
+    49.8145878,
+    6.4180846
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-bakes-echternach/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:23.147Z"
+}

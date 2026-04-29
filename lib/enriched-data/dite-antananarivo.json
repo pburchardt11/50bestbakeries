@@ -1,0 +1,24 @@
+{
+  "slug": "dite-antananarivo",
+  "name": "Dité",
+  "city": "Antananarivo",
+  "country": "Madagascar",
+  "placeId": "ChIJ6SKzvJ6B8CER_CBXwTAXPXU",
+  "googleName": "Dité",
+  "formattedAddress": "Antananarivo, Madagascar",
+  "phone": "032 11 111 21",
+  "website": "http://www.dite-patisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8447933974186500348",
+  "rating": 4.3,
+  "reviewCount": 24,
+  "coords": [
+    -18.8751833,
+    47.5190399
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dite-antananarivo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:11:08.852Z"
+}

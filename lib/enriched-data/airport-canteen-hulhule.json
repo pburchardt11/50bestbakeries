@@ -1,0 +1,32 @@
+{
+  "slug": "airport-canteen-hulhule",
+  "name": "Airport Canteen",
+  "city": "Hulhulé",
+  "country": "Maldives",
+  "placeId": "ChIJfepZTxJ_PzsR5E456i4xTxk",
+  "googleName": "Hulhule Island Hotel",
+  "formattedAddress": "Airport Main Road Male City, Malé 22000, Maldives",
+  "phone": "333-0888",
+  "website": "https://hih.com.mv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1823730451676221156",
+  "rating": 3.8,
+  "reviewCount": 1022,
+  "coords": [
+    4.1950995,
+    73.5261021
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "Casual oceanfront hotel with an outdoor pool & a rooftop restaurant, plus a free airport shuttle.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/airport-canteen-hulhule/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:12:53.198Z"
+}

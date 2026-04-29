@@ -1,0 +1,32 @@
+{
+  "slug": "bra-bakst-alta",
+  "name": "Bra Bakst",
+  "city": "Alta",
+  "country": "Norway",
+  "placeId": "ChIJh3xPIgAVz0URCFMMUo5eeqE",
+  "googleName": "BraBakst AS",
+  "formattedAddress": "Skoleveien 1, 9510 Alta, Norway",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11635716552620004104",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    69.97687920000001,
+    23.2937378
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bra-bakst-alta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:30.652Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "capriani-pizza",
+  "name": "Capriani pizza",
+  "city": "Велес",
+  "country": "North Macedonia",
+  "placeId": "ChIJZTm-VQArVBMRDL7QlLzu-l4",
+  "googleName": "Capriani pizza",
+  "formattedAddress": "Petar Pop Arsov 4, Veles 1400, North Macedonia",
+  "phone": "078 212 293",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6844045077460860428",
+  "rating": 4.8,
+  "reviewCount": 23,
+  "coords": [
+    41.7185308,
+    21.7646046
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 10:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM, 8:00 – 11:00 PM",
+    "Wednesday: 12:00 – 10:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM, 8:00 – 11:00 PM",
+    "Friday: 12:00 – 10:00 PM",
+    "Saturday: 1:00 – 11:00 PM",
+    "Sunday: 1:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/capriani-pizza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:43:29.533Z"
+}

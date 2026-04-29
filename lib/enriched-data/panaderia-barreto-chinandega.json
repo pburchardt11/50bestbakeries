@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-barreto-chinandega",
+  "name": "Panaderia Barreto",
+  "city": "Chinandega",
+  "country": "Nicaragua",
+  "placeId": "ChIJfx8fKZbxcI8RmFCa3lFDjnc",
+  "googleName": "Panaderia Barreto",
+  "formattedAddress": "Frente al Colegio Educativo Mantica Berio, Chinandega 25000, Nicaragua",
+  "phone": "8865 9267",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8614897156112404632",
+  "rating": 4.3,
+  "reviewCount": 29,
+  "coords": [
+    12.6369241,
+    -87.1216907
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-barreto-chinandega/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:45.996Z"
+}

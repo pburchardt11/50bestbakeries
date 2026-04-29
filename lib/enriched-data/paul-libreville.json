@@ -1,0 +1,32 @@
+{
+  "slug": "paul-libreville",
+  "name": "paul",
+  "city": "Libreville",
+  "country": "Gabon",
+  "placeId": "ChIJFzkUgBY7fxARgITPQoroGxs",
+  "googleName": "Paul",
+  "formattedAddress": "Boulevard Quaben, Libreville, Gabon",
+  "phone": "011 44 29 02",
+  "website": "http://www.paul.fr/fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1953410543919268992",
+  "rating": 4,
+  "reviewCount": 1298,
+  "coords": [
+    0.4231599,
+    9.4283105
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-libreville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:24.011Z"
+}

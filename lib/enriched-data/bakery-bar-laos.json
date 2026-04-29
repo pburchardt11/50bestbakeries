@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-bar-laos",
+  "name": "BAKERY BAR",
+  "city": "Laos",
+  "country": "Laos",
+  "placeId": "ChIJOdBCCkJpJDER8bpE5_yjNuo",
+  "googleName": "TAL8S Brew.Bake.Bar",
+  "formattedAddress": "XJ74+X8V, Vientiane, Laos",
+  "phone": "020 56 664 218",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16876856960224639729",
+  "rating": 4.3,
+  "reviewCount": 64,
+  "coords": [
+    17.9649388,
+    102.6057852
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-bar-laos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:58:59.888Z"
+}

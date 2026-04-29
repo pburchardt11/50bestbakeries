@@ -1,0 +1,32 @@
+{
+  "slug": "chinffon-bakery-macau",
+  "name": "Chinffon Bakery",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJ0yYlb4l7ATQRQ75jq5c47So",
+  "googleName": "Chiffon cake",
+  "formattedAddress": "Macao林茂海邊街79號金灣豪庭地下N",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3093190743140056643",
+  "rating": 5,
+  "reviewCount": 13,
+  "coords": [
+    22.2037706,
+    113.5380844
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 5:30 PM",
+    "Wednesday: 8:30 AM – 5:30 PM",
+    "Thursday: 8:30 AM – 5:30 PM",
+    "Friday: 8:30 AM – 5:30 PM",
+    "Saturday: 8:30 AM – 5:30 PM",
+    "Sunday: 8:30 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chinffon-bakery-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:10.627Z"
+}

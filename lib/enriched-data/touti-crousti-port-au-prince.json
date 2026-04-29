@@ -1,0 +1,32 @@
+{
+  "slug": "touti-crousti-port-au-prince",
+  "name": "Touti Crousti",
+  "city": "Port-au-Prince",
+  "country": "Haiti",
+  "placeId": "ChIJkRSPtQPnuY4RWFqRhJePaiU",
+  "googleName": "Touti Crousti",
+  "formattedAddress": "101, ave Martin Lutherking Port au prince HT, Pòtoprens 6110, Haiti",
+  "phone": "48 68 0909",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2696125207861615192",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    18.5383273,
+    -72.3228657
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/touti-crousti-port-au-prince/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:26:46.109Z"
+}

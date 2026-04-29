@@ -1,0 +1,32 @@
+{
+  "slug": "fischer-diekirch",
+  "name": "Fischer",
+  "city": "Diekirch",
+  "country": "Luxembourg",
+  "placeId": "ChIJeYIl15P9v0cR0ej0sAvjeHM",
+  "googleName": "Fischer",
+  "formattedAddress": "1 Grand-Rue, 8287 Diekirch, Luxembourg",
+  "phone": "26 80 05 61",
+  "website": "https://fischer1913.com/fr-lu/nos-salons/fischer-diekirch",
+  "googleMapsUrl": "https://maps.google.com/?cid=8320649950919977169",
+  "rating": 4.1,
+  "reviewCount": 262,
+  "coords": [
+    49.86877,
+    6.1599923
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fischer-diekirch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:40.364Z"
+}

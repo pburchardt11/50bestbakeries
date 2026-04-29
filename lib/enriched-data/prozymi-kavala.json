@@ -1,0 +1,32 @@
+{
+  "slug": "prozymi-kavala",
+  "name": "Prozymi",
+  "city": "Kavála",
+  "country": "Greece",
+  "placeId": "ChIJsUqbqma7rhQRxT7vJPsVStM",
+  "googleName": "Μπες στο ζουμί",
+  "formattedAddress": "Romanou 8, Kavala 654 03, Greece",
+  "phone": "251 083 4245",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15225005658680016581",
+  "rating": 5,
+  "reviewCount": 15,
+  "coords": [
+    40.9389279,
+    24.4061098
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 3:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/prozymi-kavala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:59.196Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pkk-hongsa",
+  "name": "Pkk Hongsa",
+  "city": "Hongsa",
+  "country": "Laos",
+  "placeId": "ChIJpWV_omZfKDERKL17JfT0eB0",
+  "googleName": "Hongsa Power Company",
+  "formattedAddress": "M79F+GMM Unnamed Road Ban Phonchan, Laos",
+  "phone": "074 266 129",
+  "website": "http://www.hongsapower.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2123716553743252776",
+  "rating": 4.6,
+  "reviewCount": 18,
+  "coords": [
+    19.6688406,
+    101.274183
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pkk-hongsa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:58:21.467Z"
+}

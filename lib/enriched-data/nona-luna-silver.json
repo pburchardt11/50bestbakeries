@@ -1,0 +1,32 @@
+{
+  "slug": "nona-luna-silver",
+  "name": "Nona Luna Silver",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJBT4RTvKFZ0ARTd9nDUeZwyI",
+  "googleName": "Moon Night Club Batumi",
+  "formattedAddress": "1 Lech and Maria Kaczynski St, Batumi 6010, Georgia",
+  "phone": "557 99 66 99",
+  "website": "https://www.instagram.com/moon.night.club/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2505014348194766669",
+  "rating": 4,
+  "reviewCount": 338,
+  "coords": [
+    41.6271601,
+    41.6012764
+  ],
+  "openingHours": [
+    "Monday: 10:00 PM – 6:00 AM",
+    "Tuesday: 10:00 PM – 6:00 AM",
+    "Wednesday: 10:00 PM – 6:00 AM",
+    "Thursday: 10:00 PM – 6:00 AM",
+    "Friday: 10:00 PM – 6:00 AM",
+    "Saturday: 10:00 PM – 6:00 AM",
+    "Sunday: 10:00 PM – 6:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nona-luna-silver/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:00.633Z"
+}

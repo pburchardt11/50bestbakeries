@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-la-guerande-les-trois-ilets",
+  "name": "Boulangerie Patisserie La Guerande",
+  "city": "Les Trois-Îlets",
+  "country": "Martinique",
+  "placeId": "ChIJTYR6RWweQIwRLIytCkA-W2g",
+  "googleName": "Boulangerie La Guérande 3ilets",
+  "formattedAddress": "trois ilets, Les Trois-Îlets 97229, Martinique",
+  "phone": "0596 78 25 77",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7519672447603149868",
+  "rating": 4.3,
+  "reviewCount": 1148,
+  "coords": [
+    14.5359706,
+    -61.03265829999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 5:30 AM – 8:00 PM",
+    "Sunday: 5:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-la-guerande-les-trois-ilets/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:18:08.831Z"
+}

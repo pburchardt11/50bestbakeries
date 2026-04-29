@@ -1,0 +1,32 @@
+{
+  "slug": "res-herceg-novi",
+  "name": "Reš",
+  "city": "Herceg Novi",
+  "country": "Montenegro",
+  "placeId": "ChIJFYLcorw7TBMRLybAsRoL04k",
+  "googleName": "Reš",
+  "formattedAddress": "FG2M+VX7, Herceg Novi, Montenegro",
+  "phone": "069 133 694",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9931293812561290799",
+  "rating": 4.9,
+  "reviewCount": 98,
+  "coords": [
+    42.4521562,
+    18.5349262
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:30 AM – 1:00 PM",
+    "Thursday: 8:30 AM – 1:00 PM",
+    "Friday: 8:30 AM – 1:00 PM",
+    "Saturday: 8:30 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/res-herceg-novi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:34.712Z"
+}

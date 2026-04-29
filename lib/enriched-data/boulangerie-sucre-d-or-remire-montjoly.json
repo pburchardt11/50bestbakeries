@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-sucre-d-or-remire-montjoly",
+  "name": "Boulangerie Sucre d'Or",
+  "city": "Remire-Montjoly",
+  "country": "French Guiana",
+  "placeId": "ChIJ9eleeZg8Eo0Rm3SnxHPbDmM",
+  "googleName": "Boulangerie Sucre D'or",
+  "formattedAddress": "1950 A route de montjoly Remire-Montjoly, Montjoly 97354, French Guiana",
+  "phone": "0594 35 01 36",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7137883749695845531",
+  "rating": 4.1,
+  "reviewCount": 199,
+  "coords": [
+    4.9245994,
+    -52.2846118
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 7:30 PM",
+    "Wednesday: 6:00 AM – 7:30 PM",
+    "Thursday: 6:00 AM – 7:30 PM",
+    "Friday: 6:00 AM – 7:30 PM",
+    "Saturday: 6:00 AM – 7:30 PM",
+    "Sunday: 6:00 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-sucre-d-or-remire-montjoly/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:13.593Z"
+}

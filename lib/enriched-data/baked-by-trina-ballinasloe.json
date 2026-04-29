@@ -1,0 +1,32 @@
+{
+  "slug": "baked-by-trina-ballinasloe",
+  "name": "Baked By Trina",
+  "city": "Ballinasloe",
+  "country": "Ireland",
+  "placeId": "ChIJ2fAwp1hpXEgR_20AE5lEea0",
+  "googleName": "Baked By Trina",
+  "formattedAddress": "Sarsfield Rd, Cleaghmore, Ballinasloe, Co. Galway, H53 N7X3, Ireland",
+  "phone": "083 375 2369",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12500097664983002623",
+  "rating": 3.4,
+  "reviewCount": 25,
+  "coords": [
+    53.3317245,
+    -8.2278489
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-by-trina-ballinasloe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:40:55.829Z"
+}

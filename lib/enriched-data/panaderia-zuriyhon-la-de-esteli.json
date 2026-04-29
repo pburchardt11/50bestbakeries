@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-zuriyhon-la-de-esteli",
+  "name": "Panaderia Zuriyhon. La de Esteli",
+  "city": "Estelí",
+  "country": "Nicaragua",
+  "placeId": "ChIJUWIPY3GMcY8Rcmos8XYlltA",
+  "googleName": "Panadería Zuriyhon",
+  "formattedAddress": "3MP4+25Q, Esteli, Nicaragua",
+  "phone": "2714 0898",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15030241999178197618",
+  "rating": 4.3,
+  "reviewCount": 58,
+  "coords": [
+    13.0850792,
+    -86.3445149
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-zuriyhon-la-de-esteli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:38:41.662Z"
+}

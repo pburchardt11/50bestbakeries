@@ -1,0 +1,32 @@
+{
+  "slug": "the-muscle-bakery-gibraltar",
+  "name": "The Muscle Bakery",
+  "city": "Gibraltar",
+  "country": "Gibraltar",
+  "placeId": "ChIJdVnmL4C_DA0RBPTuglP44x8",
+  "googleName": "The Muscle Bakery",
+  "formattedAddress": "unit g6d cornwalls centre, Gibraltar GX11 1AA, Gibraltar",
+  "phone": "200 72115",
+  "website": "https://themusclebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2297953272451757060",
+  "rating": 4.7,
+  "reviewCount": 40,
+  "coords": [
+    36.1416408,
+    -5.3527099
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 4:00 PM",
+    "Tuesday: 8:30 AM – 4:00 PM",
+    "Wednesday: 8:30 AM – 4:00 PM",
+    "Thursday: 8:30 AM – 4:00 PM",
+    "Friday: 8:30 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-muscle-bakery-gibraltar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:42.069Z"
+}

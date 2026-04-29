@@ -1,0 +1,32 @@
+{
+  "slug": "new-fresh-bread-bakeshop-dededo",
+  "name": "New Fresh Bread Bakeshop",
+  "city": "Dededo",
+  "country": "Guam",
+  "placeId": "ChIJ27FDRg6DH2cRXDHio47VKv8",
+  "googleName": "New Fresh Bread Bakery",
+  "formattedAddress": "102 Fortune Bldg. Ysengsong Road cor, Sta. Barbara Avenue, Dededo, Guam",
+  "phone": "(671) 637-2115",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18386743237305053532",
+  "rating": 4,
+  "reviewCount": 141,
+  "coords": [
+    13.5158635,
+    144.8436595
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:00 PM",
+    "Tuesday: 5:00 AM – 7:00 PM",
+    "Wednesday: 5:00 AM – 7:00 PM",
+    "Thursday: 5:00 AM – 7:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 5:00 AM – 7:00 PM",
+    "Sunday: 5:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/new-fresh-bread-bakeshop-dededo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:22:20.882Z"
+}

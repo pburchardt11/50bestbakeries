@@ -1,0 +1,32 @@
+{
+  "slug": "captain-s-bakery-and-grill-st-ann",
+  "name": "Captain's Bakery and Grill",
+  "city": "St Ann",
+  "country": "Jamaica",
+  "placeId": "ChIJ51Vs6Da-244Rp0kY6kkUl5s",
+  "googleName": "The Captain's Bakery and Grill",
+  "formattedAddress": "2FQR+QMG, 18 Park Cres, Mandeville, Jamaica",
+  "phone": "(876) 962-9538",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11211452105054767527",
+  "rating": 3.5,
+  "reviewCount": 84,
+  "coords": [
+    18.0389026,
+    -77.50825150000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/captain-s-bakery-and-grill-st-ann/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:06.722Z"
+}

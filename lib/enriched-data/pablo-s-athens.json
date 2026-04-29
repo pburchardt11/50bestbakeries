@@ -1,0 +1,32 @@
+{
+  "slug": "pablo-s-athens",
+  "name": "Pablo’s",
+  "city": "Athens",
+  "country": "Greece",
+  "placeId": "ChIJ3Z1Z0kCZoRQRQjsdGBUE58w",
+  "googleName": "Cafe Pablo",
+  "formattedAddress": "Thiseos 28, Marousi 151 24, Greece",
+  "phone": "21 1008 8734",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14764774392002853698",
+  "rating": 5,
+  "reviewCount": 12,
+  "coords": [
+    38.0544768,
+    23.8057633
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pablo-s-athens/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:18:15.569Z"
+}

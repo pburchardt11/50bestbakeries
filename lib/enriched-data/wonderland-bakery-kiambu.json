@@ -1,0 +1,32 @@
+{
+  "slug": "wonderland-bakery-kiambu",
+  "name": "Wonderland Bakery",
+  "city": "Kiambu",
+  "country": "Kenya",
+  "placeId": "ChIJe75429w_LxgRpVZDc_LJjfw",
+  "googleName": "WONDERLAND BAKERY",
+  "formattedAddress": "Jemimah Road, Behind Magunas Supermarket, Kahawa Wendani, Kenya",
+  "phone": "0720 393411",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18198423712427103909",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -1.1971169,
+    36.9252077
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 2:00 – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wonderland-bakery-kiambu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:53:39.832Z"
+}

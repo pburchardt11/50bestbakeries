@@ -1,0 +1,32 @@
+{
+  "slug": "entree-tbilisi",
+  "name": "Entrée",
+  "city": "Tbilisi",
+  "country": "Georgia",
+  "placeId": "ChIJ_V2G5aAMREAR3QDCeoMJYp0",
+  "googleName": "Entrée",
+  "formattedAddress": "12 Amaghleba St, T'bilisi, Georgia",
+  "phone": "599 08 34 53",
+  "website": "http://www.entree.ge/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11340637271977230557",
+  "rating": 4.4,
+  "reviewCount": 1314,
+  "coords": [
+    41.6897174,
+    44.7955391
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/entree-tbilisi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:51.957Z"
+}

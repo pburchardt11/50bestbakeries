@@ -1,0 +1,32 @@
+{
+  "slug": "delices-des-muffins-curepipe-town",
+  "name": "Delices des Muffins",
+  "city": "Curepipe Town",
+  "country": "Mauritius",
+  "placeId": "ChIJpbOTldFEfCERtc5RrPz0J-Y",
+  "googleName": "Délices des Muffins",
+  "formattedAddress": "Malherbes Street Curepipe MU, Curepipe 74319, Mauritius",
+  "phone": "5762 1360",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16584493518875119285",
+  "rating": 4.6,
+  "reviewCount": 5,
+  "coords": [
+    -20.3133882,
+    57.5321365
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 5:30 PM",
+    "Wednesday: 8:30 AM – 5:30 PM",
+    "Thursday: 8:30 AM – 5:30 PM",
+    "Friday: 8:30 AM – 5:30 PM",
+    "Saturday: 8:30 AM – 5:30 PM",
+    "Sunday: 8:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delices-des-muffins-curepipe-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:16.989Z"
+}

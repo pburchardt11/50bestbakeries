@@ -1,0 +1,32 @@
+{
+  "slug": "fischer-bettembourg",
+  "name": "Fischer",
+  "city": "Bettembourg",
+  "country": "Luxembourg",
+  "placeId": "ChIJ1ZiCa-o3lUcR3KOZOnT-g84",
+  "googleName": "Fischer S.A.",
+  "formattedAddress": "261 Rte de Luxembourg, 3254 Bettembourg, Luxembourg",
+  "phone": "24 51 30 37",
+  "website": "https://fischer1913.com/fr-lu/nos-salons/fischer-shopping-park-bettembo",
+  "googleMapsUrl": "https://maps.google.com/?cid=14881017368915059676",
+  "rating": 3.6,
+  "reviewCount": 70,
+  "coords": [
+    49.528541,
+    6.101265
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fischer-bettembourg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:13.241Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "zad-bakery",
+  "name": "Zad Bakery",
+  "city": "طرابلس",
+  "country": "Libya",
+  "placeId": "ChIJzwpytj7sqBMR-Fsgd4xibbQ",
+  "googleName": "Zad Bakery",
+  "formattedAddress": "Unnamed Road، Tarabulus, Libya",
+  "phone": "091-4784949",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13001156054722042872",
+  "rating": 3.9,
+  "reviewCount": 9,
+  "coords": [
+    32.8695722,
+    13.1091939
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:00 AM",
+    "Tuesday: 6:30 AM – 12:00 AM",
+    "Wednesday: 6:30 AM – 12:00 AM",
+    "Thursday: 6:30 AM – 12:00 AM",
+    "Friday: 6:30 AM – 12:00 AM",
+    "Saturday: 6:30 AM – 12:00 AM",
+    "Sunday: 6:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zad-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:04:59.290Z"
+}

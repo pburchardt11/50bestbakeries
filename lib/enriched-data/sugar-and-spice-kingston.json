@@ -1,0 +1,32 @@
+{
+  "slug": "sugar-and-spice-kingston",
+  "name": "Sugar and Spice",
+  "city": "Kingston",
+  "country": "Jamaica",
+  "placeId": "ChIJpyaVmjw-244Rj927aCVbcOo",
+  "googleName": "Sugar and Spice Ltd. (Red Hills)",
+  "formattedAddress": "1-3 Red Hills Rd, Kingston, Jamaica",
+  "phone": "(876) 920-3751",
+  "website": "https://m.facebook.com/sugarandspicejam",
+  "googleMapsUrl": "https://maps.google.com/?cid=16893102418495790479",
+  "rating": 3.8,
+  "reviewCount": 1713,
+  "coords": [
+    18.0203022,
+    -76.7973901
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:45 PM",
+    "Tuesday: 9:00 AM – 5:45 PM",
+    "Wednesday: 9:00 AM – 5:45 PM",
+    "Thursday: 9:00 AM – 5:45 PM",
+    "Friday: 9:00 AM – 6:45 PM",
+    "Saturday: 9:00 AM – 6:45 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-and-spice-kingston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:46.454Z"
+}

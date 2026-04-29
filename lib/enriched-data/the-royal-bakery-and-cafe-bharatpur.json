@@ -1,0 +1,32 @@
+{
+  "slug": "the-royal-bakery-and-cafe-bharatpur",
+  "name": "The Royal Bakery And cafe",
+  "city": "Bharatpur",
+  "country": "Nepal",
+  "placeId": "ChIJUaZH5i7llDkRMgSpUmEPmYo",
+  "googleName": "The Royal Bakery And Cafe",
+  "formattedAddress": "MCGW+328, Bharatpur 44200, Nepal",
+  "phone": "984-2396092",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9987030559343838258",
+  "rating": 4.5,
+  "reviewCount": 17,
+  "coords": [
+    27.6751659,
+    84.44507209999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-royal-bakery-and-cafe-bharatpur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:33:13.752Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "les-falieres-le-gosier",
+  "name": "Les Falieres",
+  "city": "Le Gosier",
+  "country": "Guadeloupe",
+  "placeId": "ChIJAZB2ozxPE4wRyzq3m172qeo",
+  "googleName": "LES FALIERES",
+  "formattedAddress": "Carrefour Grande Ravine route le la Riviera, Le Gosier 97190, Guadeloupe",
+  "phone": "0590 88 92 59",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16909317162139073227",
+  "rating": 4.3,
+  "reviewCount": 52,
+  "coords": [
+    16.215929,
+    -61.479732
+  ],
+  "openingHours": [
+    "Monday: 5:45 AM – 8:00 PM",
+    "Tuesday: 5:45 AM – 8:00 PM",
+    "Wednesday: 5:45 AM – 1:30 PM",
+    "Thursday: 5:45 AM – 8:00 PM",
+    "Friday: 5:45 AM – 8:00 PM",
+    "Saturday: 5:45 AM – 8:00 PM",
+    "Sunday: 5:45 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-falieres-le-gosier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:21:30.817Z"
+}

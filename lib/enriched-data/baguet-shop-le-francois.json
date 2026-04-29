@@ -1,0 +1,32 @@
+{
+  "slug": "baguet-shop-le-francois",
+  "name": "Baguet Shop",
+  "city": "Le François",
+  "country": "Martinique",
+  "placeId": "ChIJ47_ALKGfaowRpn5g9bRsmrY",
+  "googleName": "BAGUET SHOP Le François",
+  "formattedAddress": "Entrée ZA, Chem. de Trianon, Le François 97240, Martinique",
+  "phone": "0596 56 89 81",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13157948785782980262",
+  "rating": 3.9,
+  "reviewCount": 71,
+  "coords": [
+    14.6191951,
+    -60.9112722
+  ],
+  "openingHours": [
+    "Monday: 5:45 AM – 6:30 PM",
+    "Tuesday: 5:45 AM – 6:30 PM",
+    "Wednesday: 5:45 AM – 6:30 PM",
+    "Thursday: 5:45 AM – 6:30 PM",
+    "Friday: 5:45 AM – 6:30 PM",
+    "Saturday: 5:45 AM – 6:30 PM",
+    "Sunday: 5:45 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baguet-shop-le-francois/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:17:46.775Z"
+}

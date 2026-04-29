@@ -1,0 +1,32 @@
+{
+  "slug": "aarogya-bakery-bhaktapur",
+  "name": "Aarogya Bakery",
+  "city": "Bhaktapur",
+  "country": "Nepal",
+  "placeId": "ChIJO66YTG8b6zkR2Oe3TdvERmQ",
+  "googleName": "Aarogya Bakery",
+  "formattedAddress": "Naya thimi,shankhadhar chowk, भक्तपुर 44800, Nepal",
+  "phone": "984-3700907",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7225679098343319512",
+  "rating": 4,
+  "reviewCount": 7,
+  "coords": [
+    27.6730941,
+    85.3863255
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:30 PM",
+    "Tuesday: 6:30 AM – 8:30 PM",
+    "Wednesday: 6:30 AM – 8:30 PM",
+    "Thursday: 6:30 AM – 8:30 PM",
+    "Friday: 6:30 AM – 8:30 PM",
+    "Saturday: 6:30 AM – 8:30 PM",
+    "Sunday: 6:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aarogya-bakery-bhaktapur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:33:01.426Z"
+}

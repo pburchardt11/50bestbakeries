@@ -1,0 +1,32 @@
+{
+  "slug": "formosa-bakery-qormi",
+  "name": "Formosa Bakery",
+  "city": "Qormi",
+  "country": "Malta",
+  "placeId": "ChIJwdWglApRDhMRPq43JF8m5lw",
+  "googleName": "46 Formosa Bakery",
+  "formattedAddress": "46 Triq Hammieri, Ħal Qormi QRM 1507, Malta",
+  "phone": "2144 3055",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6694080086204198462",
+  "rating": 4.8,
+  "reviewCount": 5,
+  "coords": [
+    35.8813045,
+    14.4655773
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 3:00 PM",
+    "Tuesday: 6:00 AM – 3:00 PM",
+    "Wednesday: 6:00 AM – 3:00 PM",
+    "Thursday: 6:00 AM – 3:00 PM",
+    "Friday: 6:00 AM – 3:30 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/formosa-bakery-qormi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:17.787Z"
+}

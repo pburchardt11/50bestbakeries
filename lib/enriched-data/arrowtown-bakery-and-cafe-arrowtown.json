@@ -1,0 +1,32 @@
+{
+  "slug": "arrowtown-bakery-and-cafe-arrowtown",
+  "name": "Arrowtown Bakery and Cafe",
+  "city": "Arrowtown",
+  "country": "New Zealand",
+  "placeId": "ChIJ9wijc34Y1akRyQNjkbXiufQ",
+  "googleName": "Arrowtown Bakery",
+  "formattedAddress": "14 Buckingham Street, Arrowtown 9302, New Zealand",
+  "phone": "03 442 1587",
+  "website": "https://www.arrowtown.com/things-to-do/eat-and-drink/eat-drink-business-listings/view/arrowtown-bakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=17634375085402031049",
+  "rating": 4.4,
+  "reviewCount": 1148,
+  "coords": [
+    -44.93842619999999,
+    168.8308189
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/arrowtown-bakery-and-cafe-arrowtown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:17.138Z"
+}

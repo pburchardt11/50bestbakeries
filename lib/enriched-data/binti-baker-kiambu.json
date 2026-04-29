@@ -1,0 +1,32 @@
+{
+  "slug": "binti-baker-kiambu",
+  "name": "Binti Baker",
+  "city": "Kiambu",
+  "country": "Kenya",
+  "placeId": "ChIJ-QBUNiEZLxgRZeV3gcMB0Cc",
+  "googleName": "Binti Baker",
+  "formattedAddress": "kinoo 87 Ndumboini Road, Kabete, Kenya",
+  "phone": "0738 560777",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2868794901837374821",
+  "rating": 4.5,
+  "reviewCount": 15,
+  "coords": [
+    -1.2531795,
+    36.7122558
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/binti-baker-kiambu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:53:47.671Z"
+}

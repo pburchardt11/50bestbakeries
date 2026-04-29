@@ -1,0 +1,32 @@
+{
+  "slug": "sarah-bakes-cakes-accra",
+  "name": "Sarah Bakes Cakes",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJiVPCZ0mY3w8RBcjz9_Sb5Tc",
+  "googleName": "Sarah Bakes Cakes",
+  "formattedAddress": "6 Rabat St, Accra, Ghana",
+  "phone": "026 858 8038",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4027796918187051013",
+  "rating": 4.2,
+  "reviewCount": 31,
+  "coords": [
+    5.630892999999999,
+    -0.1656577
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sarah-bakes-cakes-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:48.544Z"
+}

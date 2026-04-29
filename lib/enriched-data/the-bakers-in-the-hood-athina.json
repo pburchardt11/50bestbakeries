@@ -1,0 +1,32 @@
+{
+  "slug": "the-bakers-in-the-hood-athina",
+  "name": "The Bakers In The Hood",
+  "city": "Athina",
+  "country": "Greece",
+  "placeId": "ChIJi1OHQzK9oRQRmPIYPMhG0gE",
+  "googleName": "The Bakers in the Hood",
+  "formattedAddress": "Βερανζέρου, 3is Septemvriou &, Athina 104 32, Greece",
+  "phone": "21 0523 2347",
+  "website": "http://thebakersinthehood.gr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=131245164962837144",
+  "rating": 4.3,
+  "reviewCount": 40,
+  "coords": [
+    37.9854604,
+    23.7284236
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakers-in-the-hood-athina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:03.453Z"
+}

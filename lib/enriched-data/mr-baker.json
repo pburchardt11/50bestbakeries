@@ -1,0 +1,32 @@
+{
+  "slug": "mr-baker",
+  "name": "Mr Baker",
+  "city": "الجهراء",
+  "country": "Kuwait",
+  "placeId": "ChIJ7_7CH2n2zz8RsB4u0uVOUNg",
+  "googleName": "الخباز فرع الجهراء",
+  "formattedAddress": "Al Matawtha Street, Block 2، Al Jahra, Kuwait",
+  "phone": "2207 0569",
+  "website": "http://mrbaker.com.kw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15587045059310001840",
+  "rating": 4.3,
+  "reviewCount": 72,
+  "coords": [
+    29.3584129,
+    47.6686944
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mr-baker/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:07.754Z"
+}

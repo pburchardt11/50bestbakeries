@@ -1,0 +1,32 @@
+{
+  "slug": "nicoletas-home-cakes-st-helier",
+  "name": "Nicoletas Home Cakes",
+  "city": "St Helier",
+  "country": "Jersey",
+  "placeId": "ChIJK4iOIQBTDEgRp_LoB1vdMLM",
+  "googleName": "Nicoletas Home Cakes",
+  "formattedAddress": "Jersey, St Helier, Burrard St, 4WS泽西岛邮政编码: JE2",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12912063514715681447",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    49.1861475,
+    -2.1058026
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nicoletas-home-cakes-st-helier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:48:24.763Z"
+}

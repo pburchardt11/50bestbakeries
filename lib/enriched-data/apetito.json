@@ -1,0 +1,32 @@
+{
+  "slug": "apetito",
+  "name": "Apetito",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJgaXodgCHZ0ARu9FvapiGdzo",
+  "googleName": "აპეტიტო / Apetito",
+  "formattedAddress": "Batumi, Georgia",
+  "phone": "599 65 65 81",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4212983965607252411",
+  "rating": 5,
+  "reviewCount": 9,
+  "coords": [
+    41.6439647,
+    41.6279013
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/apetito/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:14:57.707Z"
+}

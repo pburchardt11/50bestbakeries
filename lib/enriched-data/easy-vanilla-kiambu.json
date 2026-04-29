@@ -1,0 +1,32 @@
+{
+  "slug": "easy-vanilla-kiambu",
+  "name": "Easy Vanilla",
+  "city": "Kiambu",
+  "country": "Kenya",
+  "placeId": "ChIJayld4jsWLxgRwzrFfViYreo",
+  "googleName": "Easy Vanilla",
+  "formattedAddress": "QRCR+F4J, Kiambu Rd, Nairobi, Kenya",
+  "phone": "0721 124667",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16910339681680702147",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    -1.2287811,
+    36.8402654
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/easy-vanilla-kiambu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:53:59.035Z"
+}

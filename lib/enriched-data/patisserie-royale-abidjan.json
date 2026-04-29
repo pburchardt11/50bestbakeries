@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-royale-abidjan",
+  "name": "Pâtisserie Royale",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJIYnxYtyn3BkRixt-omVxPNs",
+  "googleName": "Pâtisserie Royale",
+  "formattedAddress": "KN 14 Ave, Kigali, Rwanda",
+  "phone": "0788 743 497",
+  "website": "https://www.instagram.com/patisserie_royale/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15797626274240666507",
+  "rating": 4.3,
+  "reviewCount": 327,
+  "coords": [
+    -1.9490848,
+    30.0795654
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-royale-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:44:29.981Z"
+}

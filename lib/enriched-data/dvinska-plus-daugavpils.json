@@ -1,0 +1,32 @@
+{
+  "slug": "dvinska-plus-daugavpils",
+  "name": "Dvinska Plus",
+  "city": "Daugavpils",
+  "country": "Latvia",
+  "placeId": "ChIJU1joozeUwkYRQFhKPYwaafE",
+  "googleName": "Dvinska Plus, SIA",
+  "formattedAddress": "Višķu iela 26, Daugavpils, LV-5410, Latvia",
+  "phone": "65 444 965",
+  "website": "http://www.dvinskaplus.lv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17395464225321277504",
+  "rating": 4.6,
+  "reviewCount": 22,
+  "coords": [
+    55.89438810000001,
+    26.5477632
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dvinska-plus-daugavpils/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:13.086Z"
+}

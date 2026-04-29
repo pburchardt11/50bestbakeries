@@ -1,0 +1,24 @@
+{
+  "slug": "babka-cafe-nc-noumea",
+  "name": "Babka Café NC",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJ8U44fQDjJ2wRGllzJYdoLdc",
+  "googleName": "Babka Café NC",
+  "formattedAddress": "47 Rue Jean Jaurès, Nouméa 98800, New Caledonia",
+  "phone": "83.99.06",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15505164021764675866",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    -22.2703895,
+    166.4436442
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/babka-cafe-nc-noumea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:24.065Z"
+}

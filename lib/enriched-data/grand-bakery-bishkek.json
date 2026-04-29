@@ -1,0 +1,24 @@
+{
+  "slug": "grand-bakery-bishkek",
+  "name": "Grand bakery",
+  "city": "Bishkek",
+  "country": "Kyrgyzstan",
+  "placeId": "ChIJfz_tRsjJnjgRmuo9V2Ub_O0",
+  "googleName": "Grand Bakery",
+  "formattedAddress": "226 Toktogul Street, Bishkek, Kyrgyzstan",
+  "phone": "0999 225 522",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17148611603189328538",
+  "rating": 3,
+  "reviewCount": 2,
+  "coords": [
+    42.8729965,
+    74.5797155
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grand-bakery-bishkek/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:58:06.868Z"
+}

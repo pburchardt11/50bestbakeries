@@ -1,0 +1,32 @@
+{
+  "slug": "riinakook-parnu",
+  "name": "RiinaKöök",
+  "city": "Pärnu",
+  "country": "Estonia",
+  "placeId": "ChIJcepLLmr97EYR52EJeWvoyDg",
+  "googleName": "RiinaKöök",
+  "formattedAddress": "Riia mnt 74, Pärnu, 80020 Pärnu maakond, Estonia",
+  "phone": "5816 1552",
+  "website": "http://www.riinakook.eu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4091775809755898343",
+  "rating": 5,
+  "reviewCount": 9,
+  "coords": [
+    58.380139,
+    24.5280311
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/riinakook-parnu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:06:07.069Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "melo-little-bakery-chalandri",
+  "name": "Melo Little Bakery",
+  "city": "Chalandri",
+  "country": "Greece",
+  "placeId": "ChIJvUN1pPOYoRQRP6mndw7yb-0",
+  "googleName": "MELO little bakery",
+  "formattedAddress": "Kordeliou 4, Chalandri 152 33, Greece",
+  "phone": "21 0685 7041",
+  "website": "https://www.facebook.com/MeloLittleBakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17109159653354744127",
+  "rating": 4.4,
+  "reviewCount": 24,
+  "coords": [
+    38.0268874,
+    23.7905589
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/melo-little-bakery-chalandri/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:08.380Z"
+}

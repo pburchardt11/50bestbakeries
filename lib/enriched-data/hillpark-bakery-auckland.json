@@ -1,0 +1,32 @@
+{
+  "slug": "hillpark-bakery-auckland",
+  "name": "Hillpark Bakery",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJdVlXD39NDW0RaUOOKSvqzE4",
+  "googleName": "Hillpark Bakery.",
+  "formattedAddress": "75 Grande Vue Road, Hillpark, Auckland 2102, New Zealand",
+  "phone": "09 268 1666",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5678170701309035369",
+  "rating": 4.6,
+  "reviewCount": 425,
+  "coords": [
+    -37.0134525,
+    174.900335
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:30 AM – 4:30 PM",
+    "Wednesday: 6:30 AM – 4:30 PM",
+    "Thursday: 6:30 AM – 4:30 PM",
+    "Friday: 6:30 AM – 4:30 PM",
+    "Saturday: 6:30 AM – 4:30 PM",
+    "Sunday: 6:30 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hillpark-bakery-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:35.736Z"
+}

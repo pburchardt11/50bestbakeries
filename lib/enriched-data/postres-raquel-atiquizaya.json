@@ -1,0 +1,32 @@
+{
+  "slug": "postres-raquel-atiquizaya",
+  "name": "Postres Raquel",
+  "city": "Atiquizaya",
+  "country": "El Salvador",
+  "placeId": "ChIJq5wZQHOVYo8RwjfZY35wRhU",
+  "googleName": "Postres Raquel",
+  "formattedAddress": "atiquizaya centro, Atiquizaya, El Salvador",
+  "phone": "7412 4020",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1533036411309602754",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    13.9752719,
+    -89.75441649999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: Closed",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/postres-raquel-atiquizaya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:04:15.415Z"
+}

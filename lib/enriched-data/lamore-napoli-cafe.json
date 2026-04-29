@@ -1,0 +1,32 @@
+{
+  "slug": "lamore-napoli-cafe",
+  "name": "Lamore Napoli Cafe",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJDQG00DGHZ0AR_3aSte7WGa8",
+  "googleName": "Aromi Italiani",
+  "formattedAddress": "6 Nikoloz Baratashvili Street, Batumi 6000, Georgia",
+  "phone": "577 36 36 36",
+  "website": "https://www.instagram.com/aromiitalianibatumi?igsh=dWMzMXVqYWJjOWh4",
+  "googleMapsUrl": "https://maps.google.com/?cid=12617352151791990527",
+  "rating": 3.9,
+  "reviewCount": 3257,
+  "coords": [
+    41.651218,
+    41.63570929999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lamore-napoli-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:08.310Z"
+}

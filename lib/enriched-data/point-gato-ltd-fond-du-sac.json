@@ -1,0 +1,32 @@
+{
+  "slug": "point-gato-ltd-fond-du-sac",
+  "name": "Point Gato Ltd",
+  "city": "Fond du Sac",
+  "country": "Mauritius",
+  "placeId": "ChIJVZuNb8-rfSER4IRbDnkajCA",
+  "googleName": "Point Gato Ltd",
+  "formattedAddress": "B11, Fond du Sac, Mauritius",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2345278613187429600",
+  "rating": 4.8,
+  "reviewCount": 12,
+  "coords": [
+    -20.0481787,
+    57.58570690000001
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:00 PM",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/point-gato-ltd-fond-du-sac/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:45.904Z"
+}

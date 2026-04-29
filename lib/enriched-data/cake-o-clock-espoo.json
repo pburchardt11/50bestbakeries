@@ -1,0 +1,24 @@
+{
+  "slug": "cake-o-clock-espoo",
+  "name": "Cake o'Clock",
+  "city": "Espoo",
+  "country": "Finland",
+  "placeId": "ChIJOdOKSHT1jUYRxbeJqBtuocQ",
+  "googleName": "Cake o'Clock",
+  "formattedAddress": "Niittymaantie 3 B 8, 02200 Espoo, Finland",
+  "phone": "045 2022680",
+  "website": "https://www.cakeoclock.fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14168726967755061189",
+  "rating": 5,
+  "reviewCount": 16,
+  "coords": [
+    60.1697038,
+    24.7769073
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-o-clock-espoo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:06.777Z"
+}

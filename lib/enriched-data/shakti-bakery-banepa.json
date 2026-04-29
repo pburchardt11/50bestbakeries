@@ -1,0 +1,32 @@
+{
+  "slug": "shakti-bakery-banepa",
+  "name": "Shakti Bakery Banepa",
+  "city": "Banepa",
+  "country": "Nepal",
+  "placeId": "ChIJPU7ClREJ6zkRLpzoFdVnjWY",
+  "googleName": "Shakti Bakery Banepa",
+  "formattedAddress": "Banepa Bus Park, Bus Park Road, Banepa 45210, Nepal",
+  "phone": "980-1177513",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7389676728478112814",
+  "rating": 4.8,
+  "reviewCount": 77,
+  "coords": [
+    27.630278,
+    85.52231789999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shakti-bakery-banepa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:32:26.361Z"
+}

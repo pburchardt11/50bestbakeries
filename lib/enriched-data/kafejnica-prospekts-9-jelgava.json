@@ -1,0 +1,32 @@
+{
+  "slug": "kafejnica-prospekts-9-jelgava",
+  "name": "Kafejnīca Prospekts 9",
+  "city": "Jelgava",
+  "country": "Latvia",
+  "placeId": "ChIJTfVi0Gcl70YRJ6C5MCtlBKc",
+  "googleName": "Prospekts 9",
+  "formattedAddress": "Zemgales prospekts 9, Jelgava, LV-3001, Latvia",
+  "phone": "27 814 539",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12034855340416278567",
+  "rating": 4.3,
+  "reviewCount": 35,
+  "coords": [
+    56.6441141,
+    23.7315583
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 6:00 PM",
+    "Tuesday: 10:30 AM – 6:00 PM",
+    "Wednesday: 10:30 AM – 6:00 PM",
+    "Thursday: 10:30 AM – 6:00 PM",
+    "Friday: 10:30 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kafejnica-prospekts-9-jelgava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:54.531Z"
+}

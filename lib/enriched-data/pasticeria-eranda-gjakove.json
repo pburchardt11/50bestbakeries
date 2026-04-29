@@ -1,0 +1,32 @@
+{
+  "slug": "pasticeria-eranda-gjakove",
+  "name": "Pasticeria ERANDA",
+  "city": "Gjakovë",
+  "country": "Kosovo",
+  "placeId": "ChIJizX97OWxUxMR-7EsL119jec",
+  "googleName": "Pasticeria ERANDA",
+  "formattedAddress": "50000 Rruga Migjeni, Gjakova 50000",
+  "phone": "044 935 535",
+  "website": "https://instagram.com/pasticeria_eranda?utm_medium=copy_link",
+  "googleMapsUrl": "https://maps.google.com/?cid=16685130033654444539",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    42.3735531,
+    20.4368159
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticeria-eranda-gjakove/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:54:59.701Z"
+}

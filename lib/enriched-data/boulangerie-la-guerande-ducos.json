@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-la-guerande-ducos",
+  "name": "Boulangerie La Guérande Ducos",
+  "city": "Ducos",
+  "country": "Martinique",
+  "placeId": "ChIJu8rAKM-haowR8bf7aw2b6O8",
+  "googleName": "Boulangerie La Guérande Ducos",
+  "formattedAddress": "cocotte plazza, N5, Ducos 97224, Martinique",
+  "phone": "0596 55 00 82",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17287237651610187761",
+  "rating": 3.7,
+  "reviewCount": 386,
+  "coords": [
+    14.5698218,
+    -60.98090639999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 5:30 AM – 8:00 PM",
+    "Sunday: 5:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-la-guerande-ducos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:38.296Z"
+}

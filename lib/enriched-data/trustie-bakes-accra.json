@@ -1,0 +1,32 @@
+{
+  "slug": "trustie-bakes-accra",
+  "name": "Trustie Bakes",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJuTlFb8OZ3w8RJ91BEKcLpD4",
+  "googleName": "TRUSTIE BAKES",
+  "formattedAddress": "HPPV+WQ7, Owusu Kofi St, Accra, Ghana",
+  "phone": "024 343 6335",
+  "website": "https://www.facebook.com/trustiebakes/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4513745538692275495",
+  "rating": 4.5,
+  "reviewCount": 25,
+  "coords": [
+    5.5872996,
+    -0.2555648
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/trustie-bakes-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:16:17.705Z"
+}

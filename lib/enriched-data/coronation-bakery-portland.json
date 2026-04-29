@@ -1,0 +1,32 @@
+{
+  "slug": "coronation-bakery-portland",
+  "name": "Coronation Bakery",
+  "city": "Portland",
+  "country": "Jamaica",
+  "placeId": "ChIJayOOrNcs244RIO21Q7XSJzI",
+  "googleName": "Coronation Bakery",
+  "formattedAddress": "5GMQ+67M, Boundbrook, Port Antonio, Jamaica",
+  "phone": "(876) 993-3824",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3614088901955022112",
+  "rating": 4.4,
+  "reviewCount": 183,
+  "coords": [
+    18.1830965,
+    -76.4618189
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:30 PM",
+    "Saturday: 9:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coronation-bakery-portland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:46:16.946Z"
+}

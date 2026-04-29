@@ -1,0 +1,32 @@
+{
+  "slug": "poslasticarnica-centar-berane",
+  "name": "Poslasticarnica Centar Berane",
+  "city": "Berane",
+  "country": "Montenegro",
+  "placeId": "ChIJFYQ_SBCTUhMRlG9aE9gcFU4",
+  "googleName": "Poslastičarnica \"Centar\" Berane",
+  "formattedAddress": "Njegošev trg, Berane, Montenegro",
+  "phone": "069 496 744",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5626435023832510356",
+  "rating": 5,
+  "reviewCount": 7,
+  "coords": [
+    42.8447501,
+    19.8736416
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/poslasticarnica-centar-berane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:25:43.792Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "maxim-s-cakes-central-district",
+  "name": "Maxim's Cakes",
+  "city": "Central District",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJLYD2jmQABDQRQummRvO5YKM",
+  "googleName": "Maxim's Cakes (MTR Central Station)",
+  "formattedAddress": "Hong Kong, Central, HK 香港島 中環 HK 香港島 中環 港鐵中環站CEN E18號舖",
+  "phone": "2845 5059",
+  "website": "http://www.maxims.com.hk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11772613880460011842",
+  "rating": 3.7,
+  "reviewCount": 11,
+  "coords": [
+    22.2817064,
+    114.158435
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maxim-s-cakes-central-district/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:30:15.779Z"
+}

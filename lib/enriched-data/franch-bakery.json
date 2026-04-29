@@ -1,0 +1,32 @@
+{
+  "slug": "franch-bakery",
+  "name": "Franch Bakery",
+  "city": "بنغازي",
+  "country": "Libya",
+  "placeId": "ChIJ0ewNaKMdgxMRgHiokOdjT_c",
+  "googleName": "French croissant البريوش الفرنسي",
+  "formattedAddress": "شارع الحدائق، Banghazi, Libya",
+  "phone": "092-7007133",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17820572096743897216",
+  "rating": 4.3,
+  "reviewCount": 27,
+  "coords": [
+    32.0944048,
+    20.1048515
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 4:00 – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/franch-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:04:39.733Z"
+}

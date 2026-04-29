@@ -1,0 +1,32 @@
+{
+  "slug": "au-palais-gourmand-kone",
+  "name": "Au Palais Gourmand",
+  "city": "Koné",
+  "country": "New Caledonia",
+  "placeId": "ChIJf4cnoAGEnm4RV4tY9OkKeDc",
+  "googleName": "Au Palais Gourmand",
+  "formattedAddress": "Lot N° 254 Lotissement Green Acre, Koné, Koné, New Caledonia",
+  "phone": "29.17.18",
+  "website": "https://www.facebook.com/Au-Palais-Gourmand-282683038847222/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3996956669234416471",
+  "rating": 3.8,
+  "reviewCount": 21,
+  "coords": [
+    -21.0716271,
+    164.8697592
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:30 PM",
+    "Saturday: 6:00 AM – 6:30 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-palais-gourmand-kone/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:49.823Z"
+}

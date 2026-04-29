@@ -1,0 +1,32 @@
+{
+  "slug": "qsine-goodlands",
+  "name": "Qsine",
+  "city": "Goodlands",
+  "country": "Mauritius",
+  "placeId": "ChIJiXe7zHIAfSERkMyOrV392gg",
+  "googleName": "Orchid Restaurant",
+  "formattedAddress": "XM43+27C, Goodlands, Mauritius",
+  "phone": "5756 7394",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=638100876011949200",
+  "rating": 4.1,
+  "reviewCount": 39,
+  "coords": [
+    -20.0449466,
+    57.6531432
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/qsine-goodlands/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:48.154Z"
+}

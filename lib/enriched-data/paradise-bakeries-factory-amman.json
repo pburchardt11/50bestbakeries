@@ -1,0 +1,32 @@
+{
+  "slug": "paradise-bakeries-factory-amman",
+  "name": "Paradise Bakeries Factory",
+  "city": "Amman",
+  "country": "Jordan",
+  "placeId": "ChIJ0w5gNkmnHBURbsG56CkNRqk",
+  "googleName": "Paradise Bakeries Factory",
+  "formattedAddress": "31 Omar Al-Busayr Al-Khusaylat St.، Amman, Jordan",
+  "phone": "(06) 438 6464",
+  "website": "http://www.paradisebakeries.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12197451114428875118",
+  "rating": 4.4,
+  "reviewCount": 166,
+  "coords": [
+    31.9076669,
+    35.8981917
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paradise-bakeries-factory-amman/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:48:52.436Z"
+}

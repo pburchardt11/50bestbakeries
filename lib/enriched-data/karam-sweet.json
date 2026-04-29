@@ -1,0 +1,32 @@
+{
+  "slug": "karam-sweet",
+  "name": "Karam Sweet",
+  "city": "الأحمدى",
+  "country": "Kuwait",
+  "placeId": "ChIJk6zs6AhXzj8RzeMec3muB6o",
+  "googleName": "Karam Sweet",
+  "formattedAddress": "صباح الاحمد C3 قطعة ٥ شارع ٢٠ جمعية صباح الاحمد 3 مدينة صباح الاحمد، Sabah Al Ahmad 67540, Kuwait",
+  "phone": "9222 4634",
+  "website": "http://www.karamsweets.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12251953147930403789",
+  "rating": 4.8,
+  "reviewCount": 6,
+  "coords": [
+    28.78094159999999,
+    48.03996
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:30 PM",
+    "Tuesday: 7:00 AM – 11:30 PM",
+    "Wednesday: 7:00 AM – 11:30 PM",
+    "Thursday: 7:00 AM – 11:30 PM",
+    "Friday: 7:00 AM – 11:30 PM",
+    "Saturday: 7:00 AM – 11:30 PM",
+    "Sunday: 7:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karam-sweet/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:05.892Z"
+}

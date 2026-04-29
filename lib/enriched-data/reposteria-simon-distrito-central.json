@@ -1,0 +1,30 @@
+{
+  "slug": "reposteria-simon-distrito-central",
+  "name": "Repostería Simón",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJrYdjGc69b48R9uY4SAO910E",
+  "googleName": "Repostería Simón",
+  "formattedAddress": "11101 Tegucigalpa, Francisco Morazán, Honduras",
+  "phone": "9512-7216",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4744468554252347126",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    14.065501,
+    -87.18129370000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 AM",
+    "Tuesday: 8:00 AM – 6:00 AM",
+    "Wednesday: 8:00 AM – 6:00 AM",
+    "Thursday: 8:00 AM – 6:00 AM",
+    "Friday: 8:00 AM – 6:00 AM",
+    "Saturday: 8:00 AM – 6:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:29:11.543Z"
+}

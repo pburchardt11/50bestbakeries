@@ -1,0 +1,32 @@
+{
+  "slug": "il-habbiez-bakery-birkirkara",
+  "name": "Il-Habbiez Bakery",
+  "city": "Birkirkara",
+  "country": "Malta",
+  "placeId": "ChIJH6ROKAFQDhMR4qiU1y_CUv4",
+  "googleName": "Sacred Heart Bakery",
+  "formattedAddress": "13, Triq Il-Gummar, Birkirkara, Malta",
+  "phone": "7929 4018",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18325923344460064994",
+  "rating": 4.6,
+  "reviewCount": 216,
+  "coords": [
+    35.8957447,
+    14.4692609
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 11:00 PM",
+    "Tuesday: 5:00 AM – 11:00 PM",
+    "Wednesday: 5:00 AM – 11:00 PM",
+    "Thursday: 5:00 AM – 11:00 PM",
+    "Friday: 5:00 AM – 11:00 PM",
+    "Saturday: 5:00 AM – 2:00 PM",
+    "Sunday: 5:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/il-habbiez-bakery-birkirkara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:40.855Z"
+}

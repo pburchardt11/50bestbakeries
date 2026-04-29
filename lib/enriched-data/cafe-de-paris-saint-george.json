@@ -1,0 +1,32 @@
+{
+  "slug": "cafe-de-paris-saint-george",
+  "name": "Café de Paris",
+  "city": "Saint George",
+  "country": "Grenada",
+  "placeId": "ChIJDdPWPwAhOIwRBCGWhC5Id9Q",
+  "googleName": "Zeppole Dolci",
+  "formattedAddress": "Lance aux Epines, rd, Grenada",
+  "phone": null,
+  "website": "http://zeppoledolci.square.site/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15309784822899417348",
+  "rating": 4.5,
+  "reviewCount": 145,
+  "coords": [
+    12.0111077,
+    -61.75705019999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-de-paris-saint-george/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:20:10.351Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "aaramva-bakery-bhaktapur",
+  "name": "Aaramva Bakery",
+  "city": "Bhaktapur",
+  "country": "Nepal",
+  "placeId": "ChIJeat63t0b6zkRDR7yMYObhQA",
+  "googleName": "Aaramva Bakery",
+  "formattedAddress": "Radhe Radhe Rd, Bhaktapur 44800, Nepal",
+  "phone": "980-5065026",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=37607159683489293",
+  "rating": 3.7,
+  "reviewCount": 35,
+  "coords": [
+    27.677718,
+    85.40678609999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aaramva-bakery-bhaktapur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:32:46.477Z"
+}

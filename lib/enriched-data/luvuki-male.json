@@ -1,0 +1,32 @@
+{
+  "slug": "luvuki-male",
+  "name": "Luvuki",
+  "city": "Malé",
+  "country": "Maldives",
+  "placeId": "ChIJmU_xWIp_PzsRZ-gLdDuuhwo",
+  "googleName": "Lykus.mv",
+  "formattedAddress": "K, Chaandhanee Magu, Malé 20192, Maldives",
+  "phone": "779-5451",
+  "website": "https://lykus.mv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=758766632608458855",
+  "rating": 5,
+  "reviewCount": 24,
+  "coords": [
+    4.1773463,
+    73.5097624
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 11:00 PM",
+    "Tuesday: 9:30 AM – 11:00 PM",
+    "Wednesday: 9:30 AM – 11:00 PM",
+    "Thursday: 9:30 AM – 11:00 PM",
+    "Friday: 9:30 AM – 11:00 PM",
+    "Saturday: 9:30 AM – 11:00 PM",
+    "Sunday: 9:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/luvuki-male/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:13:28.712Z"
+}

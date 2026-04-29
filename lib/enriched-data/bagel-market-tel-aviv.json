@@ -1,0 +1,32 @@
+{
+  "slug": "bagel-market-tel-aviv",
+  "name": "Bagel Market | בייגל מרקט",
+  "city": "Tel Aviv",
+  "country": "Israel",
+  "placeId": "ChIJ5RwigHhLHRURYXycfTb5iC8",
+  "googleName": "Tal Bagels",
+  "formattedAddress": "Carlebach St 41, Tel Aviv-Yafo, 6527731, Israel",
+  "phone": "03-561-0564",
+  "website": "http://www.tal-bagels.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3425261529046219873",
+  "rating": 4.1,
+  "reviewCount": 1329,
+  "coords": [
+    32.0707407,
+    34.7822083
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bagel-market-tel-aviv/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:41.813Z"
+}

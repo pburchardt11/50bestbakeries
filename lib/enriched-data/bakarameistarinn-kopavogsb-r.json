@@ -1,0 +1,32 @@
+{
+  "slug": "bakarameistarinn-kopavogsb-r",
+  "name": "Bakarameistarinn",
+  "city": "Kópavogsbær",
+  "country": "Iceland",
+  "placeId": "ChIJJyEEdU5z1kgRjpQ5lChbGHc",
+  "googleName": "Bakarameistarinn - Smáratorg",
+  "formattedAddress": "201 Kopavogur, Iceland",
+  "phone": "555 6100",
+  "website": "http://www.bakarameistarinn.is/is/shop/smaratorg",
+  "googleMapsUrl": "https://maps.google.com/?cid=8581709319798101134",
+  "rating": 3.6,
+  "reviewCount": 28,
+  "coords": [
+    64.104078,
+    -21.8778529
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakarameistarinn-kopavogsb-r/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:28.910Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "piknik-niksic",
+  "name": "PikNik",
+  "city": "Niksic",
+  "country": "Montenegro",
+  "placeId": "ChIJPQL-K4CpTRMRPdcDLAVv-Eg",
+  "googleName": "PikNik",
+  "formattedAddress": "Vuka Karadžića, Nikšić 81400, Montenegro",
+  "phone": "069 581 217",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5258074632959022909",
+  "rating": 3.4,
+  "reviewCount": 5,
+  "coords": [
+    42.77448769999999,
+    18.9606492
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/piknik-niksic/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:55.184Z"
+}

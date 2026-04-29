@@ -1,0 +1,32 @@
+{
+  "slug": "danmarki-pastry-shop-tehran",
+  "name": "Danmarki Pastry Shop",
+  "city": "Tehran",
+  "country": "Iran",
+  "placeId": "ChIJRYem93EBjj8RdYa1wJTlo-k",
+  "googleName": "Danish Pastry",
+  "formattedAddress": "Tehran Province, Tehran, District 6, Nejatollahi St, PC58+45F, Iran",
+  "phone": "021 8890 9383",
+  "website": "https://www.instagram.com/pastry_danish/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16835552259092088437",
+  "rating": 4.2,
+  "reviewCount": 475,
+  "coords": [
+    35.7078201,
+    51.4154353
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 8:30 PM",
+    "Tuesday: 9:30 AM – 8:30 PM",
+    "Wednesday: 9:30 AM – 8:30 PM",
+    "Thursday: 9:30 AM – 8:30 PM",
+    "Friday: 9:30 AM – 8:00 PM",
+    "Saturday: 9:30 AM – 8:30 PM",
+    "Sunday: 9:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/danmarki-pastry-shop-tehran/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:36:30.309Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-chalandri",
+  "name": "Cinnabon",
+  "city": "Chalandri",
+  "country": "Greece",
+  "placeId": "ChIJb22sn12ZoRQRPyUMA1ZRdfM",
+  "googleName": "Cinnabon Halandri",
+  "formattedAddress": "Marathonos 4, Chalandri 152 33, Greece",
+  "phone": "21 0685 7047",
+  "website": "https://www.cinnabongreece.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17543017353351800127",
+  "rating": 4.5,
+  "reviewCount": 198,
+  "coords": [
+    38.0300631,
+    23.7931425
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:30 PM",
+    "Tuesday: 8:00 AM – 10:30 PM",
+    "Wednesday: 8:00 AM – 10:30 PM",
+    "Thursday: 8:00 AM – 10:30 PM",
+    "Friday: 8:00 AM – 10:30 PM",
+    "Saturday: 8:00 AM – 10:30 PM",
+    "Sunday: 10:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnabon-chalandri/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:06.788Z"
+}

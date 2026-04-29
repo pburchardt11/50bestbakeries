@@ -1,0 +1,32 @@
+{
+  "slug": "dees-simple-sweets-saint-george",
+  "name": "Dees Simple Sweets.",
+  "city": "Saint George",
+  "country": "Grenada",
+  "placeId": "ChIJx2Z8128jOIwR5FeLuL08W7E",
+  "googleName": "Dees Simple Sweets",
+  "formattedAddress": "3786+MV9 Annandale, St George's, Grenada",
+  "phone": "(473) 423-4722",
+  "website": "http://www.deessimplesweets.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12779875153136539620",
+  "rating": 4.9,
+  "reviewCount": 38,
+  "coords": [
+    12.086967,
+    -61.7170617
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 2:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 7:30 AM – 2:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dees-simple-sweets-saint-george/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:20:07.951Z"
+}

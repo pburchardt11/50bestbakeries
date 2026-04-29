@@ -1,0 +1,32 @@
+{
+  "slug": "bloomers-bakery-ltd-st-helier",
+  "name": "Bloomers Bakery LTD",
+  "city": "St Helier",
+  "country": "Jersey",
+  "placeId": "ChIJf1hfuqBSDEgRzgqsy2Hh4NM",
+  "googleName": "Bloomers Bakery LTD",
+  "formattedAddress": "42-44, Central Market, Halkett Pl, St Helier, Jersey JE2 4WL, Jersey",
+  "phone": "01534 629125",
+  "website": "http://www.bloomersbakery.je/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15267450546931108558",
+  "rating": 4.6,
+  "reviewCount": 32,
+  "coords": [
+    49.1847202,
+    -2.104487
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 2:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bloomers-bakery-ltd-st-helier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:48:19.405Z"
+}

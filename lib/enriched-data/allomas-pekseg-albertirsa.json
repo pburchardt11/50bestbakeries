@@ -1,0 +1,32 @@
+{
+  "slug": "allomas-pekseg-albertirsa",
+  "name": "Állomás Pékség",
+  "city": "Albertirsa",
+  "country": "Hungary",
+  "placeId": "ChIJWxcruTWcQUcRea4riCjpJwU",
+  "googleName": "Állomás Pékség",
+  "formattedAddress": "Albertirsa, Vasút u., 2730 Hungary",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=371521854573883001",
+  "rating": 4.4,
+  "reviewCount": 130,
+  "coords": [
+    47.2411252,
+    19.6071692
+  ],
+  "openingHours": [
+    "Monday: 4:00 AM – 8:00 PM",
+    "Tuesday: 4:00 AM – 8:00 PM",
+    "Wednesday: 4:00 AM – 8:00 PM",
+    "Thursday: 4:00 AM – 8:00 PM",
+    "Friday: 4:00 AM – 8:00 PM",
+    "Saturday: 5:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/allomas-pekseg-albertirsa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:32:43.439Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bakelicious-the-art-of-bread",
+  "name": "Bakelicious • The Art of Bread",
+  "city": "حولى",
+  "country": "Kuwait",
+  "placeId": "ChIJQ9IV7sWfzz8R9DH1z5synJY",
+  "googleName": "Bakelicious - Mishref",
+  "formattedAddress": "Co-op, 40004, Kuwait",
+  "phone": "2537 7207",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10852604846846325236",
+  "rating": 4.5,
+  "reviewCount": 17,
+  "coords": [
+    29.2809307,
+    48.0695461
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakelicious-the-art-of-bread/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:39.920Z"
+}

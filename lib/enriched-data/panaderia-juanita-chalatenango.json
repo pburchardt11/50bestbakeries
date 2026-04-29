@@ -1,0 +1,30 @@
+{
+  "slug": "panaderia-juanita-chalatenango",
+  "name": "Panaderia Juanita",
+  "city": "Chalatenango",
+  "country": "El Salvador",
+  "placeId": "ChIJtQRk1YdlY48RNaU4lQZ29Lc",
+  "googleName": "Panaderia Juanita",
+  "formattedAddress": "23Q6+V9V, Chalatenango, El Salvador",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13255349373903611189",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    14.0397352,
+    -88.939083
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:04:22.903Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cooksister-otjiwarongo",
+  "name": "CookSister",
+  "city": "Otjiwarongo",
+  "country": "Namibia",
+  "placeId": "ChIJycupkdix9BsR0hA4xEznfB4",
+  "googleName": "CookSister",
+  "formattedAddress": "Heliograaff 53, Otjiwarongo, Namibia",
+  "phone": "081 672 1188",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2196885035145498834",
+  "rating": 4.3,
+  "reviewCount": 8,
+  "coords": [
+    -20.4782738,
+    16.6538175
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cooksister-otjiwarongo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:31:36.848Z"
+}

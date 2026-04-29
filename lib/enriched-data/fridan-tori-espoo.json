@@ -1,0 +1,32 @@
+{
+  "slug": "fridan-tori-espoo",
+  "name": "Fridan Tori",
+  "city": "Espoo",
+  "country": "Finland",
+  "placeId": "ChIJNTfqKpHzjUYRr42jH6n3A5s",
+  "googleName": "Fridan Tori",
+  "formattedAddress": "02770 Espoo, Finland",
+  "phone": "050 3048821",
+  "website": "https://www.omnia.fi/palvelut/fridan-tori",
+  "googleMapsUrl": "https://maps.google.com/?cid=11170043806561308079",
+  "rating": 4.8,
+  "reviewCount": 16,
+  "coords": [
+    60.2086317,
+    24.6589694
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 4:00 PM",
+    "Tuesday: 11:00 AM – 4:00 PM",
+    "Wednesday: 11:00 AM – 4:00 PM",
+    "Thursday: 11:00 AM – 4:00 PM",
+    "Friday: 11:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fridan-tori-espoo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:17.324Z"
+}

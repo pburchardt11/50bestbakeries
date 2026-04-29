@@ -1,0 +1,32 @@
+{
+  "slug": "boutik-honore-conf-pointe-a-pitre",
+  "name": "Boutik Honoré Conf",
+  "city": "Pointe-à-Pitre",
+  "country": "Guadeloupe",
+  "placeId": "ChIJj3gTeuBFE4wRjTKJz6rcmmw",
+  "googleName": "Jobix Pâtisserie Schoelcher",
+  "formattedAddress": "23 Rue Schoelcher, Pointe-à-Pitre 97110, Guadeloupe",
+  "phone": "0590 55 07 95",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7825809928694084237",
+  "rating": 4.3,
+  "reviewCount": 32,
+  "coords": [
+    16.2369693,
+    -61.53696759999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boutik-honore-conf-pointe-a-pitre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:22:15.118Z"
+}

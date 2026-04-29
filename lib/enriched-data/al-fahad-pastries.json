@@ -1,0 +1,32 @@
+{
+  "slug": "al-fahad-pastries",
+  "name": "Al-Fahad Pastries",
+  "city": "بغداد",
+  "country": "Iraq",
+  "placeId": "ChIJkbZkct-DVxURjOmrKAcefZg",
+  "googleName": "Alfahad Pastries",
+  "formattedAddress": "شارع الصناعة، Baghdad, Baghdad Governorate, Iraq",
+  "phone": "0772 844 4401",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10987971681949837708",
+  "rating": 4.3,
+  "reviewCount": 86,
+  "coords": [
+    33.308638,
+    44.45292999999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-fahad-pastries/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:39:31.860Z"
+}

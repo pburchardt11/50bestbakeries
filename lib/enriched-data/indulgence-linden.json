@@ -1,0 +1,32 @@
+{
+  "slug": "indulgence-linden",
+  "name": "Indulgence",
+  "city": "Linden",
+  "country": "Guyana",
+  "placeId": "ChIJE4M0WWTVpI0RwBOZme6vdFM",
+  "googleName": "Indulgence",
+  "formattedAddress": "Accabre Drive Kara Kara, Linden, Guyana",
+  "phone": "691 9434",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6013624841760478144",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    6.0092,
+    -58.2937
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/indulgence-linden/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:25:53.167Z"
+}

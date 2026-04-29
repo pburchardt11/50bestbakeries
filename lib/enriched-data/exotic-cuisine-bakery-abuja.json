@@ -1,0 +1,32 @@
+{
+  "slug": "exotic-cuisine-bakery-abuja",
+  "name": "Exotic Cuisine & Bakery",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "placeId": "ChIJHZC5MWZ1ThARXPLN2HGvMZM",
+  "googleName": "Exotic Cuisine & Bakery",
+  "formattedAddress": "Plot 1, Road 5213, Off Gwarimpa,, Tai Solarin Ave, Gwarinpa, 900108, Federal Capital Territory, Nigeria",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10606451500937769564",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    9.104566799999999,
+    7.4132096
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/exotic-cuisine-bakery-abuja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:40:59.390Z"
+}

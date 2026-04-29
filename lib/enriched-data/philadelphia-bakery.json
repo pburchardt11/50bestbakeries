@@ -1,0 +1,32 @@
+{
+  "slug": "philadelphia-bakery",
+  "name": "Philadelphia Bakery",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJS5DXLvmfHBURXK_l0cSaa7w",
+  "googleName": "Philadelphia Bakery",
+  "formattedAddress": "Yajouz Rd. 34, Amman, Jordan",
+  "phone": "(06) 533 7110",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13577115671764250460",
+  "rating": 4.1,
+  "reviewCount": 199,
+  "coords": [
+    32.028254,
+    35.8609863
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:00 AM",
+    "Tuesday: 6:30 AM – 12:00 AM",
+    "Wednesday: 6:30 AM – 12:00 AM",
+    "Thursday: 6:30 AM – 12:00 AM",
+    "Friday: 6:30 AM – 12:00 AM",
+    "Saturday: 6:30 AM – 12:00 AM",
+    "Sunday: 6:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/philadelphia-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:47.412Z"
+}

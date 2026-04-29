@@ -1,0 +1,32 @@
+{
+  "slug": "bendito-pan-amatitlan",
+  "name": "Bendito Pan",
+  "city": "Amatitlán",
+  "country": "Guatemala",
+  "placeId": "ChIJd69RzIQJiYURiyzlek4cef0",
+  "googleName": "Panadería Bendito Pan",
+  "formattedAddress": "4a. Avenida 2-03, Amatitlán 01063, Guatemala",
+  "phone": "3999 8583",
+  "website": "https://www.facebook.com/trigoresiliente",
+  "googleMapsUrl": "https://maps.google.com/?cid=18264660887172623499",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    14.4736848,
+    -90.62121760000001
+  ],
+  "openingHours": [
+    "Monday: 4:30 – 10:00 PM",
+    "Tuesday: 4:30 – 10:00 PM",
+    "Wednesday: 4:30 – 10:00 PM",
+    "Thursday: 4:30 – 10:00 PM",
+    "Friday: 4:30 – 10:00 PM",
+    "Saturday: 4:30 – 10:00 PM",
+    "Sunday: 4:30 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bendito-pan-amatitlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:23:21.057Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sachi-fujisawa",
+  "name": "SACHI",
+  "city": "Fujisawa",
+  "country": "Japan",
+  "placeId": "ChIJoWWBUTNOGGARjcXxnbAz08s",
+  "googleName": "Saikaya Fujisawa",
+  "formattedAddress": "555 Fujisawa, Kanagawa 251-8558, Japan",
+  "phone": "0466-27-1111",
+  "website": "https://www.saikaya.co.jp/fujisawa",
+  "googleMapsUrl": "https://maps.google.com/?cid=14687139643442447757",
+  "rating": 3.5,
+  "reviewCount": 2643,
+  "coords": [
+    35.3398592,
+    139.4870474
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:30 PM",
+    "Tuesday: 10:00 AM – 7:30 PM",
+    "Wednesday: 10:00 AM – 7:30 PM",
+    "Thursday: 10:00 AM – 7:30 PM",
+    "Friday: 10:00 AM – 7:30 PM",
+    "Saturday: 10:00 AM – 7:30 PM",
+    "Sunday: 10:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sachi-fujisawa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:48:01.522Z"
+}

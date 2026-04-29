@@ -1,0 +1,32 @@
+{
+  "slug": "la-pause-dessert-athenry",
+  "name": "La Pause Dessert",
+  "city": "Athenry",
+  "country": "Ireland",
+  "placeId": "ChIJPRjdDByJW0gRGkm9nThKvq8",
+  "googleName": "La Pause Dessert",
+  "formattedAddress": "4 Burkes Ln, Athenry, Co. Galway, Ireland",
+  "phone": "085 762 4521",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12663640809237465370",
+  "rating": 4.8,
+  "reviewCount": 98,
+  "coords": [
+    53.2993171,
+    -8.746863399999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:45 AM – 4:00 PM",
+    "Wednesday: 8:45 AM – 4:00 PM",
+    "Thursday: 8:45 AM – 4:00 PM",
+    "Friday: 8:45 AM – 4:00 PM",
+    "Saturday: 8:45 AM – 4:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-pause-dessert-athenry/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:40:02.942Z"
+}

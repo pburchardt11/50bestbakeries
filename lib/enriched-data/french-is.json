@@ -1,0 +1,30 @@
+{
+  "slug": "french-is",
+  "name": "French'is",
+  "city": "אשדוד",
+  "country": "Israel",
+  "placeId": "ChIJ45cstJOjAhURsrz0--zyvQ0",
+  "googleName": "French'is",
+  "formattedAddress": "Ha-Avoda St 50, Ashdod, Israel",
+  "phone": "054-643-6631",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=990214592744701106",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    31.8100158,
+    34.6656119
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:43:38.178Z"
+}

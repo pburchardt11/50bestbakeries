@@ -1,0 +1,32 @@
+{
+  "slug": "la-sebekoise-bamako",
+  "name": "La Sébékoise",
+  "city": "Bamako",
+  "country": "Mali",
+  "placeId": "ChIJMSsNGajJUQ4RhcefsixxKtg",
+  "googleName": "La Sébékoise",
+  "formattedAddress": "Route nationale 5, Bamako, Mali",
+  "phone": "75 89 25 99",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15576386698003597189",
+  "rating": 4.9,
+  "reviewCount": 9,
+  "coords": [
+    12.5946323,
+    -8.0591414
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-sebekoise-bamako/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:21.293Z"
+}

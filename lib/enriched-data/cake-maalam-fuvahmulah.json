@@ -1,0 +1,32 @@
+{
+  "slug": "cake-maalam-fuvahmulah",
+  "name": "Cake Maalam",
+  "city": "Fuvahmulah",
+  "country": "Maldives",
+  "placeId": "ChIJmZjkV2ZgtSQRzYi7oIBSKn0",
+  "googleName": "Cake Maalam",
+  "formattedAddress": "Fuvahmulah, Maldives",
+  "phone": "759-0533",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9019111916168775885",
+  "rating": 3.7,
+  "reviewCount": 27,
+  "coords": [
+    -0.3023482,
+    73.4269255
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 12:00 AM",
+    "Tuesday: 5:30 AM – 12:00 AM",
+    "Wednesday: 5:30 AM – 12:00 AM",
+    "Thursday: 5:30 AM – 12:00 AM",
+    "Friday: 4:00 PM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 5:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-maalam-fuvahmulah/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:12:47.631Z"
+}

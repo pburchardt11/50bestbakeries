@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-chez-salma-abidjan",
+  "name": "Patisserie chez Salma",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJYW3Th2XrwQ8RTEo7G3f7-CI",
+  "googleName": "Patisserie chez Salma",
+  "formattedAddress": "Bd Loraine, Abidjan, Côte d'Ivoire",
+  "phone": "07 48 43 5636",
+  "website": "https://patisseriechezsalm.wixsite.com/chez-salma",
+  "googleMapsUrl": "https://maps.google.com/?cid=2520040480490342988",
+  "rating": 4.5,
+  "reviewCount": 48,
+  "coords": [
+    5.3102209,
+    -3.9915759
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:30 PM",
+    "Tuesday: 8:30 AM – 7:30 PM",
+    "Wednesday: 8:30 AM – 7:30 PM",
+    "Thursday: 8:30 AM – 7:30 PM",
+    "Friday: 8:30 AM – 7:30 PM",
+    "Saturday: 8:30 AM – 7:30 PM",
+    "Sunday: 8:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-chez-salma-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:44:35.999Z"
+}

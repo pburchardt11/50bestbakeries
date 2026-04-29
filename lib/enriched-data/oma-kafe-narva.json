@@ -1,0 +1,32 @@
+{
+  "slug": "oma-kafe-narva",
+  "name": "Oma kafe",
+  "city": "Narva",
+  "country": "Estonia",
+  "placeId": "ChIJX1vFvRlJlEYRJjUNqKjzapI",
+  "googleName": "Kohvik Oma",
+  "formattedAddress": "Hariduse tn 5b, 20303 Narva, Estonia",
+  "phone": "5307 7220",
+  "website": "https://omatoit.ee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10550512982768301350",
+  "rating": 4.1,
+  "reviewCount": 43,
+  "coords": [
+    59.38046539999999,
+    28.1869362
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oma-kafe-narva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:35.392Z"
+}

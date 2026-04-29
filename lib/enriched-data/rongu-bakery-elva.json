@@ -1,0 +1,32 @@
+{
+  "slug": "rongu-bakery-elva",
+  "name": "Rõngu bakery",
+  "city": "Elva",
+  "country": "Estonia",
+  "placeId": "ChIJU8mGCnxr60YRtplyweEyHG4",
+  "googleName": "Rõngu bakery",
+  "formattedAddress": "Valga mnt 4, Rõngu, 61001 Tartu maakond, Estonia",
+  "phone": "745 9369",
+  "website": "http://www.rongupagar.ee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7934272588714514870",
+  "rating": 4.6,
+  "reviewCount": 3375,
+  "coords": [
+    58.1419753,
+    26.2475606
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rongu-bakery-elva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:04:28.292Z"
+}

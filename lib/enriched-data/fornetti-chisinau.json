@@ -1,0 +1,32 @@
+{
+  "slug": "fornetti-chisinau",
+  "name": "Fornetti",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJO3N6HjR8yUARgcDe8ieuR7U",
+  "googleName": "Fornetti",
+  "formattedAddress": "Strada Pușkin 28/1, Chișinău, Moldova",
+  "phone": "0796 04 070",
+  "website": "http://www.fornetti.md/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13062600730813055105",
+  "rating": 4,
+  "reviewCount": 61,
+  "coords": [
+    47.0244854,
+    28.8353291
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fornetti-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:28.764Z"
+}

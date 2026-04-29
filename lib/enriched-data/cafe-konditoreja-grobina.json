@@ -1,0 +1,32 @@
+{
+  "slug": "cafe-konditoreja-grobina",
+  "name": "Cafe-Konditoreja",
+  "city": "Grobiņa",
+  "country": "Latvia",
+  "placeId": "ChIJL_coe9Op-kYRA8QiU65MCb0",
+  "googleName": "Cafe uz riteņiem",
+  "formattedAddress": "Lielā iela 6A, Grobiņa, Grobiņa pilsēta, Dienvidkurzemes novads, LV-3430, Latvia",
+  "phone": "26 159 794",
+  "website": "http://www.cafeuzriteniem.lv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13621502859561583619",
+  "rating": 4.7,
+  "reviewCount": 733,
+  "coords": [
+    56.53593470000001,
+    21.142275
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 8:00 PM",
+    "Tuesday: 11:00 AM – 8:00 PM",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-konditoreja-grobina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:30.699Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cake-bake-salmiya",
+  "name": "Cake & Bake",
+  "city": "Salmiya",
+  "country": "Kuwait",
+  "placeId": "ChIJCdDAXhidzz8RCl0IcJon6iM",
+  "googleName": "Baking Studio Kuwait",
+  "formattedAddress": "Salmiya, Kuwait",
+  "phone": "9674 8842",
+  "website": "http://www.bakingstudiokuwait.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2587924480135814410",
+  "rating": 4.3,
+  "reviewCount": 80,
+  "coords": [
+    29.333893,
+    48.0496732
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-bake-salmiya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:56:45.819Z"
+}

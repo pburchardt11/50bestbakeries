@@ -1,0 +1,32 @@
+{
+  "slug": "fantasia-panaderia-y-reposteria-distrito-central",
+  "name": "Fantasía - Panadería y Repostería",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJa9sYDr6ib48RqCkBfPcHzrE",
+  "googleName": "Repostería Fantasia",
+  "formattedAddress": "Calle Peatonal, 11101 Tegucigalpa, Francisco Morazán, Honduras",
+  "phone": "2222-6189",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12812186749434407336",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    14.1062833,
+    -87.2065667
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fantasia-panaderia-y-reposteria-distrito-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:28:13.072Z"
+}

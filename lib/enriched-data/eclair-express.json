@@ -1,0 +1,32 @@
+{
+  "slug": "eclair-express",
+  "name": "Éclair Express",
+  "city": "Алматы",
+  "country": "Kazakhstan",
+  "placeId": "ChIJkfuTYgNpgzgRxVGEYzrm11Y",
+  "googleName": "Курьерская служба Алматы - Expert Logistic Kazakhstan",
+  "formattedAddress": "1 Etazh, Ofis 1, Rayimbek Ave 211, Almaty 050016, Kazakhstan",
+  "phone": null,
+  "website": "https://exl.kz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6257723345706701253",
+  "rating": 4.1,
+  "reviewCount": 87,
+  "coords": [
+    43.2695476,
+    76.9233835
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eclair-express/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:51:23.802Z"
+}

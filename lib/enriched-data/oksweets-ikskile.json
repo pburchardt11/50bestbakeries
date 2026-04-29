@@ -1,0 +1,32 @@
+{
+  "slug": "oksweets-ikskile",
+  "name": "OkSweets",
+  "city": "Ikšķile",
+  "country": "Latvia",
+  "placeId": "ChIJxVFQeCAv6UYRiQb0-s7cyaU",
+  "googleName": "DĀRZĀ",
+  "formattedAddress": "Kraujas iela 6, Ikšķile, Ikšķile pilsēta, Ogres novads, LV-5052, Latvia",
+  "phone": "28 008 835",
+  "website": "http://daarzaa.lv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11946322268108621449",
+  "rating": 4.6,
+  "reviewCount": 646,
+  "coords": [
+    56.8290519,
+    24.4888858
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oksweets-ikskile/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:43.639Z"
+}

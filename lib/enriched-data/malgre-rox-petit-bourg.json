@@ -1,0 +1,32 @@
+{
+  "slug": "malgre-rox-petit-bourg",
+  "name": "Malgré rox",
+  "city": "Petit-Bourg",
+  "country": "Guadeloupe",
+  "placeId": "ChIJbfn_QylFE4wRI6M7JSQtgFc",
+  "googleName": "Malgré rox",
+  "formattedAddress": "313 Chem. de Bas Carrere, Petit-Bourg 97170, Guadeloupe",
+  "phone": "0690 11 99 72",
+  "website": "https://www.facebook.com/profile.php?id=100095268399783",
+  "googleMapsUrl": "https://maps.google.com/?cid=6305089111585432355",
+  "rating": 3.8,
+  "reviewCount": 4,
+  "coords": [
+    16.1731888,
+    -61.5907636
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 2:00 PM",
+    "Tuesday: 5:00 AM – 2:00 PM",
+    "Wednesday: 5:00 AM – 1:00 PM",
+    "Thursday: 5:00 AM – 2:00 PM",
+    "Friday: 5:00 AM – 2:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/malgre-rox-petit-bourg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:21:58.220Z"
+}

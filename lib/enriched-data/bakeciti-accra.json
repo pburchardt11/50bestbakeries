@@ -1,0 +1,32 @@
+{
+  "slug": "bakeciti-accra",
+  "name": "BakeCiti",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJfzqxLOeZ3w8R0tfQqOoTqDs",
+  "googleName": "BakeCiti",
+  "formattedAddress": "Next to Hansonic Hotel, HPFW+8FF, Dansoman Rd, Accra, Ghana",
+  "phone": "024 417 2627",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4298707742900672466",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    5.5733042,
+    -0.2538383
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 10:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakeciti-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:19.960Z"
+}

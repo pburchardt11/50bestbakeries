@@ -1,0 +1,32 @@
+{
+  "slug": "sp-bakery-kyaukse",
+  "name": "SP Bakery",
+  "city": "Kyaukse",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJMbSUNhptyzARnOjUJOfR5XI",
+  "googleName": "SP Bakery and Cafe",
+  "formattedAddress": "73 st, Bet; 32×33 sts, Chan Aye Thar San Tsp, Mandalay, Myanmar (Burma)",
+  "phone": "09 977 182242",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8279254280676108444",
+  "rating": 4,
+  "reviewCount": 303,
+  "coords": [
+    21.9729808,
+    96.0954986
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sp-bakery-kyaukse/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:30:34.986Z"
+}

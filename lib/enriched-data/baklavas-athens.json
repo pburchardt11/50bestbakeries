@@ -1,0 +1,32 @@
+{
+  "slug": "baklavas-athens",
+  "name": "Baklavas",
+  "city": "Athens",
+  "country": "Greece",
+  "placeId": "ChIJH7qsLjy9oRQRcr3aGyFiH8E",
+  "googleName": "Baklavas",
+  "formattedAddress": "Nikis 10, Athina 105 63, Greece",
+  "phone": "21 0321 3959",
+  "website": "http://mpaklavas.gr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13915949267938884978",
+  "rating": 4.3,
+  "reviewCount": 1129,
+  "coords": [
+    37.9754247,
+    23.733157
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:30 PM",
+    "Tuesday: 8:00 AM – 10:30 PM",
+    "Wednesday: 8:00 AM – 10:30 PM",
+    "Thursday: 8:00 AM – 10:30 PM",
+    "Friday: 9:00 AM – 10:30 PM",
+    "Saturday: 8:00 AM – 10:30 PM",
+    "Sunday: 9:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baklavas-athens/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:18:12.911Z"
+}

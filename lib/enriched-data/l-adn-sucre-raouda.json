@@ -1,0 +1,32 @@
+{
+  "slug": "l-adn-sucre-raouda",
+  "name": "L'adn Sucrè",
+  "city": "Raouda",
+  "country": "Lebanon",
+  "placeId": "ChIJ43CAykcXHxUR9gGUqU8s9hU",
+  "googleName": "L'ADN Sucré",
+  "formattedAddress": "Der Al Qiyama Street, Raouda, Lebanon",
+  "phone": "76 985 892",
+  "website": "https://instagram.com/ladnsucre?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=1582501039726395894",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    33.8778085,
+    35.5557874
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-adn-sucre-raouda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:03:05.888Z"
+}

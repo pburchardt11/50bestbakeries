@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-surena-fort-de-france",
+  "name": "Patisserie Surena",
+  "city": "Fort-de-France",
+  "country": "Martinique",
+  "placeId": "ChIJQw2idh-naowR0tWo35LQaF8",
+  "googleName": "Pâtisserie SURENA Fort-de-France",
+  "formattedAddress": "83 Rue Victor Hugo, Fort-de-France 97200, Martinique",
+  "phone": "0596 70 28 42",
+  "website": "http://www.patisserie-surena.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6874974160417248722",
+  "rating": 4.4,
+  "reviewCount": 130,
+  "coords": [
+    14.6043858,
+    -61.07149
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 1:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-surena-fort-de-france/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:17:28.945Z"
+}

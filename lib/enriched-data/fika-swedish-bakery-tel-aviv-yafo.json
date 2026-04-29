@@ -1,0 +1,32 @@
+{
+  "slug": "fika-swedish-bakery-tel-aviv-yafo",
+  "name": "Fika - Swedish bakery",
+  "city": "Tel Aviv-Yafo",
+  "country": "Israel",
+  "placeId": "ChIJH626qtNLHRURczIAHWbgRjI",
+  "googleName": "Fika Tushiya",
+  "formattedAddress": "Tushiya St 6, Tel Aviv-Yafo, Israel",
+  "phone": "03-522-9505",
+  "website": "https://www.fika.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3622829679443980915",
+  "rating": 4.6,
+  "reviewCount": 636,
+  "coords": [
+    32.066586,
+    34.7881757
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fika-swedish-bakery-tel-aviv-yafo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:49.186Z"
+}

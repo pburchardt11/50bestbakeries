@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-andravida",
+  "name": "Bakery Κοντουδάκης",
+  "city": "Andravída",
+  "country": "Greece",
+  "placeId": "ChIJ3_q-csOvYBMRRHvEIu-37Ws",
+  "googleName": "Συνετός Bakery",
+  "formattedAddress": "Κωνσταντίνου, Andravidioti, Andravida 270 51, Greece",
+  "phone": "2623 055372",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7777074369247083332",
+  "rating": 5,
+  "reviewCount": 41,
+  "coords": [
+    37.9062007,
+    21.2687558
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 3:00 PM, 6:30 – 9:00 PM",
+    "Tuesday: 6:00 AM – 3:00 PM, 6:30 – 9:00 PM",
+    "Wednesday: 6:00 AM – 3:00 PM, 6:30 – 9:00 PM",
+    "Thursday: 6:00 AM – 3:00 PM, 6:30 – 9:00 PM",
+    "Friday: 6:00 AM – 3:00 PM, 6:30 – 9:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM, 6:30 – 9:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-andravida/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:59.868Z"
+}

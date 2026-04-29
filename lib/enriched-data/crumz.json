@@ -1,0 +1,32 @@
+{
+  "slug": "crumz",
+  "name": "Crumz",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJ23zHROigHBURCnPgaw3aipg",
+  "googleName": "Crumz Bakery",
+  "formattedAddress": "Salwad 27, Amman, Jordan",
+  "phone": "07 9650 0010",
+  "website": "http://www.crumz.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10991837591730418442",
+  "rating": 4.1,
+  "reviewCount": 1052,
+  "coords": [
+    31.94028,
+    35.8852644
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crumz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:50:19.788Z"
+}

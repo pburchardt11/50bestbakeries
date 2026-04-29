@@ -1,0 +1,32 @@
+{
+  "slug": "hafa-adai-deli-bakery-saipan",
+  "name": "Hafa Adai Deli Bakery",
+  "city": "Saipan",
+  "country": "Northern Mariana Islands",
+  "placeId": "ChIJ6zPMMouw2GYRXv7Lvbf8ycY",
+  "googleName": "Hafa Adai Deli",
+  "formattedAddress": "6P58+XR4, Garapan, Saipan 96950, CNMI",
+  "phone": "(670) 234-6406",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14324257955922050654",
+  "rating": 4.2,
+  "reviewCount": 32,
+  "coords": [
+    15.2098778,
+    145.7170705
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hafa-adai-deli-bakery-saipan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:11.533Z"
+}

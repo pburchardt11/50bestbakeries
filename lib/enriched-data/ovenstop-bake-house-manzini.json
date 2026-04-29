@@ -1,0 +1,30 @@
+{
+  "slug": "ovenstop-bake-house-manzini",
+  "name": "OvenStop Bake-House",
+  "city": "Manzini",
+  "country": "Eswatini",
+  "placeId": "ChIJG8ykvgFP7x4RJTDFl-A2I3o",
+  "googleName": "The Bake House Eswatini",
+  "formattedAddress": "Manzini, Eswatini",
+  "phone": "7861 8912",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8800938435058937893",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -26.4983545,
+    31.3723897
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:30 AM",
+    "Tuesday: 8:30 AM – 5:00 AM",
+    "Wednesday: 8:30 AM – 5:30 PM",
+    "Thursday: 8:30 AM – 5:30 PM",
+    "Friday: 8:30 AM – 5:30 PM",
+    "Saturday: 8:30 AM – 3:00 PM",
+    "Sunday: 11:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:06:23.825Z"
+}

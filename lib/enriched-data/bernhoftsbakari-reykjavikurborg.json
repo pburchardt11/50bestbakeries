@@ -1,0 +1,32 @@
+{
+  "slug": "bernhoftsbakari-reykjavikurborg",
+  "name": "Bernhoftsbakari",
+  "city": "Reykjavíkurborg",
+  "country": "Iceland",
+  "placeId": "ChIJcxFiDc101kgRGmvIpFbu0_Q",
+  "googleName": "Bernhoftsbakari",
+  "formattedAddress": "Klapparstígur 3, 101 Reykjavík, Iceland",
+  "phone": "551 3083",
+  "website": "http://bernhoftsbakari.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17641706221239560986",
+  "rating": 4.7,
+  "reviewCount": 193,
+  "coords": [
+    64.1479259,
+    -21.9267521
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bernhoftsbakari-reykjavikurborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:35:11.518Z"
+}

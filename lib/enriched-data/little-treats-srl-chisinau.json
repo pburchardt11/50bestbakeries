@@ -1,0 +1,32 @@
+{
+  "slug": "little-treats-srl-chisinau",
+  "name": "Little Treats SRL",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJFQRH40l_yUAR9ye8Fgf6kdw",
+  "googleName": "Little Treats SRL",
+  "formattedAddress": "Strada Nicolae Zelinski 31, Chișinău, Moldova",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15893759468320335863",
+  "rating": 4.7,
+  "reviewCount": 30,
+  "coords": [
+    46.9927846,
+    28.8532922
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/little-treats-srl-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:21.766Z"
+}

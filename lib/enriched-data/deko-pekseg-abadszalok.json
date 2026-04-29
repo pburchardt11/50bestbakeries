@@ -1,0 +1,32 @@
+{
+  "slug": "deko-pekseg-abadszalok",
+  "name": "Deko Pékség",
+  "city": "Abádszalók",
+  "country": "Hungary",
+  "placeId": "ChIJB0PcGBooQUcRxs2_N6lnlqM",
+  "googleName": "Deko Pékség",
+  "formattedAddress": "Abádszalók, Deák Ferenc út 8, 5241 Hungary",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11787723051171302854",
+  "rating": 4.2,
+  "reviewCount": 73,
+  "coords": [
+    47.4788134,
+    20.59178
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 4:00 PM",
+    "Tuesday: 5:30 AM – 4:00 PM",
+    "Wednesday: 5:30 AM – 4:00 PM",
+    "Thursday: 5:30 AM – 4:00 PM",
+    "Friday: 5:30 AM – 4:00 PM",
+    "Saturday: 5:30 AM – 2:00 PM",
+    "Sunday: 5:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/deko-pekseg-abadszalok/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:32:12.278Z"
+}

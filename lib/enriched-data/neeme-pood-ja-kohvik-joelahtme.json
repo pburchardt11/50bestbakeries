@@ -1,0 +1,32 @@
+{
+  "slug": "neeme-pood-ja-kohvik-joelahtme",
+  "name": "Neeme Pood ja Kohvik",
+  "city": "Jõelähtme",
+  "country": "Estonia",
+  "placeId": "ChIJ8ZgwWyPxkkYRdIsIBo4W8QE",
+  "googleName": "Neeme Pood & Kohvik",
+  "formattedAddress": "Neeme tee 1, Neeme, 74226 Harju maakond, Estonia",
+  "phone": "521 0669",
+  "website": "https://www.facebook.com/neemepood/",
+  "googleMapsUrl": "https://maps.google.com/?cid=139917862667586420",
+  "rating": 4.7,
+  "reviewCount": 367,
+  "coords": [
+    59.5294649,
+    25.1589916
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/neeme-pood-ja-kohvik-joelahtme/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:02.551Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-gahagnon-baie-mahault",
+  "name": "Boulangerie Gahagnon",
+  "city": "Baie-Mahault",
+  "country": "Guadeloupe",
+  "placeId": "ChIJ98uWri5EE4wRoUZPa02rgH8",
+  "googleName": "Boulangerie Gahagnon",
+  "formattedAddress": "Imm. La Comédia, Rue Ferdinand Forest, ZI de Jarry, 97122, Baie-Mahault 97122, Guadeloupe",
+  "phone": "0590 38 22 81",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9187531588837000865",
+  "rating": 3.7,
+  "reviewCount": 136,
+  "coords": [
+    16.2394839,
+    -61.566673
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-gahagnon-baie-mahault/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:20:50.407Z"
+}

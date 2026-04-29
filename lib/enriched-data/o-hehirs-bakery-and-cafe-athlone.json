@@ -1,0 +1,32 @@
+{
+  "slug": "o-hehirs-bakery-and-cafe-athlone",
+  "name": "O'Hehirs Bakery and Cafe",
+  "city": "Athlone",
+  "country": "Ireland",
+  "placeId": "ChIJuzDN2QRJXEgRswM4NuRgk6Q",
+  "googleName": "O'Hehirs Bakery & Cafe",
+  "formattedAddress": "Golden Island (Kilmaine), Athlone, Co. Westmeath, Ireland",
+  "phone": "(090) 644 1888",
+  "website": "http://www.ohehirs.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11858928777075098547",
+  "rating": 2.6,
+  "reviewCount": 79,
+  "coords": [
+    53.4200429,
+    -7.9325745
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 12:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/o-hehirs-bakery-and-cafe-athlone/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:40:17.008Z"
+}

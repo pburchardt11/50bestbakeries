@@ -1,0 +1,32 @@
+{
+  "slug": "zitko",
+  "name": "Zitko",
+  "city": "Гевгелија",
+  "country": "North Macedonia",
+  "placeId": "ChIJM5Jong0kVhMRiCeeGt_8Xpw",
+  "googleName": "Zitko",
+  "formattedAddress": "Marshal Tito 124, Gevgelija, North Macedonia",
+  "phone": "034 550 160",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11267721352882038664",
+  "rating": 4.4,
+  "reviewCount": 149,
+  "coords": [
+    41.1398975,
+    22.5038136
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zitko/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:43:47.017Z"
+}

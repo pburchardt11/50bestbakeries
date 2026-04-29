@@ -1,0 +1,32 @@
+{
+  "slug": "croquembouche-port-au-prince",
+  "name": "Croquembouche",
+  "city": "Port-au-Prince",
+  "country": "Haiti",
+  "placeId": "ChIJ_1AQfXvouY4RLaklWk6y-uE",
+  "googleName": "Croquembouche",
+  "formattedAddress": "33 Rue Clerveaux, Pétion-Ville, Haiti",
+  "phone": "22 57 1193",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16283523452301060397",
+  "rating": 3.9,
+  "reviewCount": 11,
+  "coords": [
+    18.5148875,
+    -72.2897323
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/croquembouche-port-au-prince/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:26:34.228Z"
+}

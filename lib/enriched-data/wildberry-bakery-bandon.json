@@ -1,0 +1,32 @@
+{
+  "slug": "wildberry-bakery-bandon",
+  "name": "Wildberry Bakery",
+  "city": "Bandon",
+  "country": "Ireland",
+  "placeId": "ChIJ65OGdTD5REgRRSOGA5-kL_I",
+  "googleName": "Wildberry Bakery",
+  "formattedAddress": "Bridge St, Derrigra, Ballineen and Enniskean, Co. Cork, P47 TW60, Ireland",
+  "phone": "086 835 5837",
+  "website": "https://www.wildberrybakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17451348083949839173",
+  "rating": 4.7,
+  "reviewCount": 15,
+  "coords": [
+    51.73537,
+    -8.9508683
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 1:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wildberry-bakery-bandon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:07.412Z"
+}

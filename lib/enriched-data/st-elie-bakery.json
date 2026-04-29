@@ -1,0 +1,32 @@
+{
+  "slug": "st-elie-bakery",
+  "name": "St. Elie Bakery",
+  "city": "البوشرية",
+  "country": "Lebanon",
+  "placeId": "ChIJ3_8mEzIWHxURyEzrKqRmFZ4",
+  "googleName": "Saint Elie Bakery",
+  "formattedAddress": "New rawda، Baouchriyeh, Lebanon",
+  "phone": "01 684 522",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11391123687784271048",
+  "rating": 4.3,
+  "reviewCount": 104,
+  "coords": [
+    33.8778844,
+    35.5540216
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-elie-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:03:47.139Z"
+}

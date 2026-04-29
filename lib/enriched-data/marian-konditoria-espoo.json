@@ -1,0 +1,32 @@
+{
+  "slug": "marian-konditoria-espoo",
+  "name": "Marian Konditoria",
+  "city": "Espoo",
+  "country": "Finland",
+  "placeId": "ChIJeztMS3n2jUYRRZ5WYZRlY_Y",
+  "googleName": "Marian Konditoria",
+  "formattedAddress": "Leppävaarankatu 3-9, 02600 Espoo, Finland",
+  "phone": "045 1485775",
+  "website": "http://www.mariankonditoria.fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17754145843987258949",
+  "rating": 4.5,
+  "reviewCount": 42,
+  "coords": [
+    60.21760080000001,
+    24.8097964
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marian-konditoria-espoo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:09.662Z"
+}

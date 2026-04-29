@@ -1,0 +1,32 @@
+{
+  "slug": "elly-cakes-kenya-kajiado",
+  "name": "Elly cakes Kenya",
+  "city": "Kajiado",
+  "country": "Kenya",
+  "placeId": "ChIJFa_ngYYHLxgRdi8tOTJ6WpI",
+  "googleName": "Elly cakes Kenya",
+  "formattedAddress": "Osiligi plaza, Ongata Rongai, Kenya",
+  "phone": "0777 999695",
+  "website": "https://m.facebook.com/EllycakesKe",
+  "googleMapsUrl": "https://maps.google.com/?cid=10545875833567653750",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -1.3968225,
+    36.7620004
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 9:00 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elly-cakes-kenya-kajiado/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:53:08.396Z"
+}

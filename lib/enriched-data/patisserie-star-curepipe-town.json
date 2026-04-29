@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-star-curepipe-town",
+  "name": "Patisserie Star",
+  "city": "Curepipe Town",
+  "country": "Mauritius",
+  "placeId": "ChIJY-0Cf7tdfCERrc4EwuOhzss",
+  "googleName": "Patisserie Star",
+  "formattedAddress": "MFWM+C3X, La Caverne Rd No 2, Vacoas-Phoenix, Mauritius",
+  "phone": "686 0502",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14685853434486509229",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    -20.30388,
+    57.48273119999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-star-curepipe-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:38.100Z"
+}

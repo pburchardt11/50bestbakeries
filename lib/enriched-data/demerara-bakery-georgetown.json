@@ -1,0 +1,32 @@
+{
+  "slug": "demerara-bakery-georgetown",
+  "name": "Demerara Bakery",
+  "city": "Georgetown",
+  "country": "Guyana",
+  "placeId": "ChIJy10_-Pjvr40RF4Au5_3GE9A",
+  "googleName": "Ambi's Delectables &Events",
+  "formattedAddress": "East Coast Demerara, Georgetown, Guyana",
+  "phone": "677 3591",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14993546378254123031",
+  "rating": 5,
+  "reviewCount": 7,
+  "coords": [
+    6.8129537,
+    -58.1123484
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:00 PM",
+    "Tuesday: 5:30 AM – 6:00 PM",
+    "Wednesday: 5:30 AM – 6:00 PM",
+    "Thursday: 5:30 AM – 6:00 PM",
+    "Friday: 5:30 AM – 4:00 PM",
+    "Saturday: 5:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/demerara-bakery-georgetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:25:44.501Z"
+}

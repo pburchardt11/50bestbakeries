@@ -1,0 +1,32 @@
+{
+  "slug": "franzeluta-chisinau",
+  "name": "Franzeluta",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJF-LUhER5yUAREG6dRkyyunE",
+  "googleName": "Franzeluța S.A.",
+  "formattedAddress": "Strada Sarmizegetusa 30, Chișinău, Moldova",
+  "phone": "022 551 445",
+  "website": "http://www.franzeluta.info/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8195058512626019856",
+  "rating": 4.4,
+  "reviewCount": 1170,
+  "coords": [
+    46.9834717,
+    28.87691079999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/franzeluta-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:35.878Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "banh-mi-tik-macau",
+  "name": "Bánh Mì Tik",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJ6R2cavB6ATQRmkCopMG0vlg",
+  "googleName": "Bánh Mì Tik",
+  "formattedAddress": "MacaoPraça de Ponte e Horta, 15號地下A",
+  "phone": "2853 0039",
+  "website": "https://www.facebook.com/495838093938955/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6394747264696860826",
+  "rating": 4.6,
+  "reviewCount": 21,
+  "coords": [
+    22.1934315,
+    113.5357381
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-mi-tik-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:24.411Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "just-jenny-s-castletown",
+  "name": "Just Jenny's",
+  "city": "Castletown",
+  "country": "Isle of Man",
+  "placeId": "ChIJs57b0UYFdkgRCYkSFtaxdZM",
+  "googleName": "Just Jenny's Café & Restaurant, Balham",
+  "formattedAddress": "287 Cavendish Rd, London SW12 0PH, UK",
+  "phone": "020 8675 4183",
+  "website": "https://justjennyscafe.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10625594428901984521",
+  "rating": 4.3,
+  "reviewCount": 167,
+  "coords": [
+    51.4432932,
+    -0.1441562
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 3:30 PM",
+    "Tuesday: 6:30 AM – 3:30 PM",
+    "Wednesday: 6:30 AM – 3:30 PM",
+    "Thursday: 6:30 AM – 3:30 PM",
+    "Friday: 6:30 AM – 3:30 PM",
+    "Saturday: 7:30 AM – 3:30 PM",
+    "Sunday: 8:00 AM – 3:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/just-jenny-s-castletown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:32.988Z"
+}

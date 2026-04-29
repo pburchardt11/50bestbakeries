@@ -1,0 +1,32 @@
+{
+  "slug": "braud-co-gar-ab-r",
+  "name": "Braud & Co",
+  "city": "Garðabær",
+  "country": "Iceland",
+  "placeId": "ChIJZaNSAiQN1kgRaJ7pE6ii84k",
+  "googleName": "Brauð & Co",
+  "formattedAddress": "Akrabraut, 210 Garðabær, Iceland",
+  "phone": "456 7777",
+  "website": "http://www.braudogco.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9940467645309099624",
+  "rating": 4.8,
+  "reviewCount": 63,
+  "coords": [
+    64.09816239999999,
+    -21.9088469
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/braud-co-gar-ab-r/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:33:45.011Z"
+}

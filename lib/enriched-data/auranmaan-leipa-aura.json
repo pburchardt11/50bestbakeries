@@ -1,0 +1,24 @@
+{
+  "slug": "auranmaan-leipa-aura",
+  "name": "Auranmaan Leipä",
+  "city": "Aura",
+  "country": "Finland",
+  "placeId": "ChIJMV_FEpYOjEYRRuWAeVkxj7Q",
+  "googleName": "Auranmaan Leipä Oy",
+  "formattedAddress": "Sillankorvantie 2, 21380 Aura, Finland",
+  "phone": "02 4860496",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13010672108856993094",
+  "rating": 4,
+  "reviewCount": 55,
+  "coords": [
+    60.64888889999999,
+    22.5863889
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/auranmaan-leipa-aura/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:10:46.271Z"
+}

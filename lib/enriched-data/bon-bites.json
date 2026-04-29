@@ -1,0 +1,32 @@
+{
+  "slug": "bon-bites",
+  "name": "bon.bites_",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJ58XCaAChHBURaCUb9C2qeHQ",
+  "googleName": "Bon Appètit",
+  "formattedAddress": "Omar bin Ekremah Street 44, Amman, Jordan",
+  "phone": "07 9089 2224",
+  "website": "https://www.instagram.com/bonappetitjordan?igsh=MWNtcnR1am10anI5dA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=8392645019950589288",
+  "rating": 4.3,
+  "reviewCount": 127,
+  "coords": [
+    31.9533873,
+    35.8844385
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bon-bites/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:50:05.535Z"
+}

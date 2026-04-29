@@ -1,0 +1,32 @@
+{
+  "slug": "bold-glaze-bakery-abuja",
+  "name": "Bold Glaze Bakery",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "placeId": "ChIJkw_s_twNThARthrKd4JbgBc",
+  "googleName": "Bold Glaze Bakery",
+  "formattedAddress": "2F2F+3G4, Gudu, Abuja 900110, Federal Capital Territory, Nigeria",
+  "phone": "0818 812 1110",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1693454075804916406",
+  "rating": 4,
+  "reviewCount": 4,
+  "coords": [
+    9.0001496,
+    7.473815799999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bold-glaze-bakery-abuja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:41:10.802Z"
+}

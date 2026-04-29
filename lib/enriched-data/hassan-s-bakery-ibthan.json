@@ -1,0 +1,32 @@
+{
+  "slug": "hassan-s-bakery-ibthan",
+  "name": "Hassan's Bakery",
+  "city": "Ibthan",
+  "country": "Israel",
+  "placeId": "ChIJ45ZnjLtMHRUR4SnO3Rtdzg4",
+  "googleName": "Hasan Atia Bakery",
+  "formattedAddress": "Ben Horkanos St 3, Tel Aviv-Yafo, Israel",
+  "phone": "050-575-0669",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1066892536000162273",
+  "rating": 2.6,
+  "reviewCount": 25,
+  "coords": [
+    32.0527056,
+    34.75909559999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hassan-s-bakery-ibthan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:06.836Z"
+}

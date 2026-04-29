@@ -1,0 +1,32 @@
+{
+  "slug": "gracelane-s-bakes-and-breakfast-accra",
+  "name": "GraceLane’s Bakes and Breakfast",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJQX8mWtV53w8RJ0GXUffs6EI",
+  "googleName": "Bakes and Breakfast",
+  "formattedAddress": "QVJ8+R45, Amrahia, Ghana",
+  "phone": "054 871 7656",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4821363948070060327",
+  "rating": 4.1,
+  "reviewCount": 17,
+  "coords": [
+    5.7820773,
+    -0.1346797
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 1:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gracelane-s-bakes-and-breakfast-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:36.967Z"
+}

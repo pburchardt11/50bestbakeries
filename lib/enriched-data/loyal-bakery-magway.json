@@ -1,0 +1,32 @@
+{
+  "slug": "loyal-bakery-magway",
+  "name": "LOYAL Bakery - Magway",
+  "city": "Magway",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJrUA8WazRtzARH0Y1A9kDG0Y",
+  "googleName": "LOYAL TEN SPORT",
+  "formattedAddress": "State 1 Rd, Magwe 04011, Myanmar (Burma)",
+  "phone": "09 777 782810",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5051635637622752799",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    20.1445271,
+    94.93508
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 9:00 PM",
+    "Tuesday: 8:30 AM – 9:00 PM",
+    "Wednesday: 8:30 AM – 9:00 PM",
+    "Thursday: 8:30 AM – 9:00 PM",
+    "Friday: 8:30 AM – 9:00 PM",
+    "Saturday: 8:30 AM – 9:00 PM",
+    "Sunday: 8:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loyal-bakery-magway/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:30:44.571Z"
+}

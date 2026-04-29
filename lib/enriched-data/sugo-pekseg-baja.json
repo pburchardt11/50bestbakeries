@@ -1,0 +1,32 @@
+{
+  "slug": "sugo-pekseg-baja",
+  "name": "Sugó-Pékség",
+  "city": "Baja",
+  "country": "Hungary",
+  "placeId": "ChIJg5sMrMQfQ0cRdiS83Yj36PY",
+  "googleName": "Sugó-Pékség Kft.",
+  "formattedAddress": "Baja, Dózsa György út 93-97-D, 6500 Hungary",
+  "phone": "(06 79) 427 511",
+  "website": "http://www.vadkertpekseg.hu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17791742495134852214",
+  "rating": 4.8,
+  "reviewCount": 16,
+  "coords": [
+    46.1951566,
+    18.9542254
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:00 PM",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugo-pekseg-baja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:33:17.138Z"
+}

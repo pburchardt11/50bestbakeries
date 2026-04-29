@@ -1,0 +1,32 @@
+{
+  "slug": "the-natural-choice-jerusalem",
+  "name": "The Natural Choice / הבחירה הטבעית",
+  "city": "Jerusalem",
+  "country": "Israel",
+  "placeId": "ChIJAbVG_yjWAhURUu9kPW-57BE",
+  "googleName": "Natural Choice Cafe",
+  "formattedAddress": "Agripas St 111, Jerusalem, Israel",
+  "phone": "02-622-3229",
+  "website": "https://natural-choice.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1291611080571023186",
+  "rating": 4.6,
+  "reviewCount": 221,
+  "coords": [
+    31.7839713,
+    35.2120302
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 12:00 AM – 3:30 PM",
+    "Saturday: Closed",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-natural-choice-jerusalem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:16.520Z"
+}

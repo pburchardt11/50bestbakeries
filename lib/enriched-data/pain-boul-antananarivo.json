@@ -1,0 +1,32 @@
+{
+  "slug": "pain-boul-antananarivo",
+  "name": "PAIN BOUL",
+  "city": "Antananarivo",
+  "country": "Madagascar",
+  "placeId": "ChIJPW4wV7598CERrm2878pjedg",
+  "googleName": "Pain-Boul'",
+  "formattedAddress": "LOT II W 48 ZS TER I, Tananarive 101, Madagascar",
+  "phone": "034 05 078 68",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15598608507631070638",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -18.9166609,
+    47.5410796
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pain-boul-antananarivo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:11:05.164Z"
+}

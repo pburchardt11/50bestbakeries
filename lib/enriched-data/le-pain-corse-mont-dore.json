@@ -1,0 +1,32 @@
+{
+  "slug": "le-pain-corse-mont-dore",
+  "name": "Le Pain Corse",
+  "city": "Mont Dore",
+  "country": "New Caledonia",
+  "placeId": "ChIJkwue0C0HKGwRfpARQpS5Bl8",
+  "googleName": "The \"Pain Corse\"",
+  "formattedAddress": "Rue Jean Gabin, New Caledonia",
+  "phone": "45.35.35",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6847364329878163582",
+  "rating": 3.3,
+  "reviewCount": 18,
+  "coords": [
+    -22.2288969,
+    166.5235234
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:30 PM",
+    "Tuesday: 5:00 AM – 6:30 PM",
+    "Wednesday: 5:00 AM – 6:30 PM",
+    "Thursday: 5:00 AM – 6:30 PM",
+    "Friday: 5:00 AM – 6:30 PM",
+    "Saturday: 5:00 AM – 6:30 PM",
+    "Sunday: 5:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-pain-corse-mont-dore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:01.905Z"
+}

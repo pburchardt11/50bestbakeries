@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-dona-gladys-candelaria-de-la-frontera",
+  "name": "Panadería Doña Gladys",
+  "city": "Candelaria de la Frontera",
+  "country": "El Salvador",
+  "placeId": "ChIJPZByqc3zYo8RPvSx0qJkD7w",
+  "googleName": "Panadería Doña Gladys",
+  "formattedAddress": "488X+949, Candelaria de la Frontera, El Salvador",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13551160454263469118",
+  "rating": 4.6,
+  "reviewCount": 16,
+  "coords": [
+    14.1159229,
+    -89.6521329
+  ],
+  "openingHours": [
+    "Monday: 2:00 – 5:30 PM",
+    "Tuesday: 8:30 AM – 5:30 PM",
+    "Wednesday: 8:30 AM – 5:30 PM",
+    "Thursday: 8:30 AM – 5:30 PM",
+    "Friday: 8:30 AM – 5:30 PM",
+    "Saturday: 8:30 AM – 5:30 PM",
+    "Sunday: 6:00 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-dona-gladys-candelaria-de-la-frontera/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:04:17.168Z"
+}

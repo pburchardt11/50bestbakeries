@@ -1,0 +1,32 @@
+{
+  "slug": "pastelaria-koi-kei-macau",
+  "name": "Pastelaria Koi Kei",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJgaQsrOV6ATQRVJrDjvfb88Q",
+  "googleName": "Koi Kei Bakery",
+  "formattedAddress": "Edificio Nam Hong, 34 R. de São Paulo, Macao",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14191928707073153620",
+  "rating": 4.3,
+  "reviewCount": 82,
+  "coords": [
+    22.1965,
+    113.5406667
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelaria-koi-kei-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:35.257Z"
+}

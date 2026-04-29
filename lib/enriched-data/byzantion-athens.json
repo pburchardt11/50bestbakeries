@@ -1,0 +1,32 @@
+{
+  "slug": "byzantion-athens",
+  "name": "Byzantion",
+  "city": "Athens",
+  "country": "Greece",
+  "placeId": "ChIJMQBlWSK9oRQRPCXmtQeFDms",
+  "googleName": "Byzantium Monastiraki",
+  "formattedAddress": "Ifestou 19, Athina 105 55, Greece",
+  "phone": "21 0321 0044",
+  "website": "https://www.tripadvisor.com/Attraction_Review-g189400-d7224926-Reviews-Byzantium_gr-Athens_Attica.html",
+  "googleMapsUrl": "https://maps.google.com/?cid=7714249479895262524",
+  "rating": 4.5,
+  "reviewCount": 132,
+  "coords": [
+    37.976097,
+    23.724304
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/byzantion-athens/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:18:46.990Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mundo-doce-cidade-de-maputo",
+  "name": "Mundo Doce",
+  "city": "Cidade de Maputo",
+  "country": "Mozambique",
+  "placeId": "ChIJs7iSGb2b5h4RtlgKYynUCpk",
+  "googleName": "Mundo doçe- rua vilanamwali, Maputo",
+  "formattedAddress": "Rua Vilanamwali, Maputo, Mozambique",
+  "phone": "84 452 1538",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11027859911790450870",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -25.9569084,
+    32.5816007
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mundo-doce-cidade-de-maputo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:29:08.983Z"
+}

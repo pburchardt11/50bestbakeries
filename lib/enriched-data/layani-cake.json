@@ -1,0 +1,32 @@
+{
+  "slug": "layani-cake",
+  "name": "Layani Cake",
+  "city": "Алматы",
+  "country": "Kazakhstan",
+  "placeId": "ChIJcckXTHdvgzgR8B3HTVp0UnY",
+  "googleName": "Layani Cake",
+  "formattedAddress": "Satpaev St 30, Almaty 050000, Kazakhstan",
+  "phone": "8 (701) 592 2060",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8526004975766543856",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    43.2361396,
+    76.922574
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/layani-cake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:51:07.488Z"
+}

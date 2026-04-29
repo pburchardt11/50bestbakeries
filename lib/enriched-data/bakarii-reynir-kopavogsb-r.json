@@ -1,0 +1,32 @@
+{
+  "slug": "bakarii-reynir-kopavogsb-r",
+  "name": "Bakaríið Reynir",
+  "city": "Kópavogsbær",
+  "country": "Iceland",
+  "placeId": "ChIJn94BQE5z1kgRsY7xynfimKE",
+  "googleName": "Bakaríið Reynir bakari",
+  "formattedAddress": "Dalvegur 4, 201 Kópavogur, Iceland",
+  "phone": "564 4700",
+  "website": "http://reynirbakari.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11644305840700231345",
+  "rating": 4.5,
+  "reviewCount": 62,
+  "coords": [
+    64.1045986,
+    -21.8756072
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakarii-reynir-kopavogsb-r/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:26.029Z"
+}

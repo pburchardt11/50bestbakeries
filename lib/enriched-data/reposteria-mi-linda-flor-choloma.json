@@ -1,0 +1,32 @@
+{
+  "slug": "reposteria-mi-linda-flor-choloma",
+  "name": "Reposteria Mi Linda Flor",
+  "city": "Choloma",
+  "country": "Honduras",
+  "placeId": "ChIJuQOI7KBPZo8RziBHi_gJojA",
+  "googleName": "Cursilerias Mia",
+  "formattedAddress": "21112, Choloma, Cortés, Honduras",
+  "phone": "8927-6562",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3504374423140901070",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    15.6055266,
+    -87.95700289999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 5:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/reposteria-mi-linda-flor-choloma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:27:21.389Z"
+}

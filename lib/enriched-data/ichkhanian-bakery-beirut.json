@@ -1,0 +1,32 @@
+{
+  "slug": "ichkhanian-bakery-beirut",
+  "name": "Ichkhanian Bakery",
+  "city": "Beirut",
+  "country": "Lebanon",
+  "placeId": "ChIJr_XVEt8WHxURjvct5NbmQHk",
+  "googleName": "Ichkhanian Bakery",
+  "formattedAddress": "VFVW+PP6, Beirut, Lebanon",
+  "phone": "01 375 178",
+  "website": "http://www.ichkhanianbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8737237087724369806",
+  "rating": 4.7,
+  "reviewCount": 249,
+  "coords": [
+    33.8942911,
+    35.4967793
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ichkhanian-bakery-beirut/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:02:26.774Z"
+}

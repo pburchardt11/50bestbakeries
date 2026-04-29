@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-make-le-lorrain",
+  "name": "Boulangerie Maké",
+  "city": "Le Lorrain",
+  "country": "Martinique",
+  "placeId": "ChIJE7-swCC5aowRVqhHic7L7m8",
+  "googleName": "Boulangerie Maké",
+  "formattedAddress": "7 Rue Victor Schoelcher, Le Lorrain 97214, Martinique",
+  "phone": "0596 53 42 56",
+  "website": "https://www.facebook.com/profile.php?id=100089192778429",
+  "googleMapsUrl": "https://maps.google.com/?cid=8065608070594013270",
+  "rating": 4.5,
+  "reviewCount": 35,
+  "coords": [
+    14.832392,
+    -61.05490299999999
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:00 PM",
+    "Tuesday: 5:30 AM – 6:00 PM",
+    "Wednesday: 5:30 AM – 2:00 PM",
+    "Thursday: 5:30 AM – 6:00 PM",
+    "Friday: 5:30 AM – 6:00 PM",
+    "Saturday: 5:30 AM – 6:00 PM",
+    "Sunday: 5:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-make-le-lorrain/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:18:00.504Z"
+}

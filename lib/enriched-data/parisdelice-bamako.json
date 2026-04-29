@@ -1,0 +1,32 @@
+{
+  "slug": "parisdelice-bamako",
+  "name": "ParisDelice",
+  "city": "Bamako",
+  "country": "Mali",
+  "placeId": "ChIJv_aaSWfNUQ4RJn4hRBsN3DE",
+  "googleName": "Mamy Délices, Badalabougou",
+  "formattedAddress": "J274+PWG, Rue Gamal Abdel Naser, Bamako, Mali",
+  "phone": "72 65 70 86",
+  "website": "http://mamy-delices.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3592761013493136934",
+  "rating": 4,
+  "reviewCount": 435,
+  "coords": [
+    12.6143203,
+    -7.992678499999998
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 1:00 AM",
+    "Tuesday: 7:30 AM – 1:00 AM",
+    "Wednesday: 7:30 AM – 1:00 AM",
+    "Thursday: 7:30 AM – 1:00 AM",
+    "Friday: 7:30 AM – 1:00 AM",
+    "Saturday: 7:30 AM – 1:00 AM",
+    "Sunday: 7:30 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/parisdelice-bamako/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:18.412Z"
+}

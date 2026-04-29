@@ -1,0 +1,32 @@
+{
+  "slug": "riga-bakery-decan",
+  "name": "Riga Bakery",
+  "city": "Deçan",
+  "country": "Kosovo",
+  "placeId": "ChIJrRUZlbtVUhMRHHiWO-Px2_g",
+  "googleName": "Riga Bakery",
+  "formattedAddress": "Luan Haradinaj, Deçan 51000",
+  "phone": "043 839 999",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17932192299565348892",
+  "rating": 5,
+  "reviewCount": 10,
+  "coords": [
+    42.5405923,
+    20.2886295
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 3:00 AM",
+    "Tuesday: 6:00 AM – 3:00 AM",
+    "Wednesday: 6:00 AM – 3:00 AM",
+    "Thursday: 6:00 AM – 3:00 AM",
+    "Friday: 6:00 AM – 3:00 AM",
+    "Saturday: 6:00 AM – 3:00 AM",
+    "Sunday: 6:00 AM – 3:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/riga-bakery-decan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:54:12.848Z"
+}

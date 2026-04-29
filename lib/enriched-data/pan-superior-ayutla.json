@@ -1,0 +1,32 @@
+{
+  "slug": "pan-superior-ayutla",
+  "name": "Pan superior",
+  "city": "Ayutla",
+  "country": "Guatemala",
+  "placeId": "ChIJp4zaYHZrjoURrFhB8YVNXj8",
+  "googleName": "Pan superior",
+  "formattedAddress": "5a calle 3-20 zona 2 Tecun Umán Ayutla San marcos, Cdad. Tecún Umán 12017, Guatemala",
+  "phone": "7776 7717",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4566172309873842348",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    14.6765807,
+    -92.14030799999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-superior-ayutla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:24:04.876Z"
+}

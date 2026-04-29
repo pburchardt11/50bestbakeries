@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-santa-ana-esteli",
+  "name": "Panaderia Santa Ana",
+  "city": "Estelí",
+  "country": "Nicaragua",
+  "placeId": "ChIJhRMtNMaNcY8RBGxzVwnn6b4",
+  "googleName": "Pastelería Ana's",
+  "formattedAddress": "Del portón principal del Colegio San Francisco 1 cuadra y media al norte, Estelí 31000, Nicaragua",
+  "phone": "8937 9871",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13756780564087794692",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    13.098206,
+    -86.3553568
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-santa-ana-esteli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:38:31.745Z"
+}

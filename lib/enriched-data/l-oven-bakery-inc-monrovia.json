@@ -1,0 +1,32 @@
+{
+  "slug": "l-oven-bakery-inc-monrovia",
+  "name": "L'oven Bakery Inc.",
+  "city": "Monrovia",
+  "country": "Liberia",
+  "placeId": "ChIJB7S-4_f3CQ8RILY5kL4kJsk",
+  "googleName": "L'Oven Bakery",
+  "formattedAddress": "854X+HWR, United Nations Dr, Monrovia, Liberia",
+  "phone": "077 752 6526",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14494312851620607520",
+  "rating": 4.6,
+  "reviewCount": 19,
+  "coords": [
+    6.3064993,
+    -10.8002488
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:00 PM",
+    "Tuesday: 7:30 AM – 11:00 PM",
+    "Wednesday: 7:30 AM – 11:00 PM",
+    "Thursday: 7:30 AM – 11:00 PM",
+    "Friday: 7:30 AM – 11:00 PM",
+    "Saturday: 7:30 AM – 11:00 PM",
+    "Sunday: 7:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-oven-bakery-inc-monrovia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:04:21.808Z"
+}

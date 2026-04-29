@@ -1,0 +1,32 @@
+{
+  "slug": "le-bon",
+  "name": "Le Bon",
+  "city": "Алматы",
+  "country": "Kazakhstan",
+  "placeId": "ChIJrQ9RZepugzgRO5FrsDQmAno",
+  "googleName": "Bon Bon",
+  "formattedAddress": "Abylai Khan Ave 123, Almaty 050000, Kazakhstan",
+  "phone": "8 (775) 656 7766",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8791631430320623931",
+  "rating": 4.6,
+  "reviewCount": 424,
+  "coords": [
+    43.248463,
+    76.94198879999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-bon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:51:14.618Z"
+}

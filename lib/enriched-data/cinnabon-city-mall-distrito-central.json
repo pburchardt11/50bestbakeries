@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-city-mall-distrito-central",
+  "name": "Cinnabon City Mall",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJifyeX2FbZo8RhJ5Q59Qc8VI",
+  "googleName": "Cinnabon • City Mall",
+  "formattedAddress": "FXW7+C9R City Mall, Avenida Circunvalación, 21104 San Pedro Sula, Cortés, Honduras",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5976589881236823684",
+  "rating": 4.3,
+  "reviewCount": 64,
+  "coords": [
+    15.4961248,
+    -88.03660149999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnabon-city-mall-distrito-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:06.661Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sonny-bakery-ormiston-auckland",
+  "name": "Sonny Bakery Ormiston",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJJ_vos-1NDW0RUsJnQLDw8Vs",
+  "googleName": "Sonny Bakery Ormiston",
+  "formattedAddress": "7 Bellingham Road, Flat Bush, Auckland 2019, New Zealand",
+  "phone": "09 265 1317",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6625341166624162386",
+  "rating": 4.4,
+  "reviewCount": 95,
+  "coords": [
+    -36.9646225,
+    174.914175
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:00 PM",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sonny-bakery-ormiston-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:23.628Z"
+}

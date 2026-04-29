@@ -1,0 +1,32 @@
+{
+  "slug": "dessis-skargardskok-dalsbruk",
+  "name": "Dessis skärgårdskök",
+  "city": "Dalsbruk",
+  "country": "Finland",
+  "placeId": "ChIJb_AnKjDzjEYR7oPaVGuzxmY",
+  "googleName": "Laituri Grilli",
+  "formattedAddress": "Dalsbruksvägen, 25900 Dalsbruk, Finland",
+  "phone": "040 5772111",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7405803910823838702",
+  "rating": 4.2,
+  "reviewCount": 77,
+  "coords": [
+    60.0191047,
+    22.5039097
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dessis-skargardskok-dalsbruk/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:10:48.356Z"
+}

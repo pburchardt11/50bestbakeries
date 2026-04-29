@@ -1,0 +1,32 @@
+{
+  "slug": "pastelaria-sama-beira",
+  "name": "Pastelaria Sama",
+  "city": "Beira",
+  "country": "Mozambique",
+  "placeId": "ChIJc-SBo_RqKh8RBv6P-MPqnSo",
+  "googleName": "Pastelaria Sama",
+  "formattedAddress": "Avenida Pero de Anaia Beira Sofala, Beira 5210, Mozambique",
+  "phone": "84 371 2450",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3070868648346254854",
+  "rating": 3.9,
+  "reviewCount": 67,
+  "coords": [
+    -19.8316418,
+    34.8393026
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelaria-sama-beira/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:28:43.623Z"
+}

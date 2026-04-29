@@ -1,0 +1,32 @@
+{
+  "slug": "bombax-bakery-cidade-de-maputo",
+  "name": "Bombax Bakery",
+  "city": "Cidade de Maputo",
+  "country": "Mozambique",
+  "placeId": "ChIJ21vprzub5h4RnVViU7S1NTI",
+  "googleName": "Bombax Bakery",
+  "formattedAddress": "Mozambique, Maputo, Bethel",
+  "phone": null,
+  "website": "http://fb.me/BombaxBakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=3617997661759755677",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "coords": [
+    -25.9439265,
+    32.6210502
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bombax-bakery-cidade-de-maputo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:28:48.601Z"
+}

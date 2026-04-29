@@ -1,0 +1,32 @@
+{
+  "slug": "paris-croissant-bakery-saipan",
+  "name": "Paris Croissant Bakery",
+  "city": "Saipan",
+  "country": "Northern Mariana Islands",
+  "placeId": "ChIJ-YjpfYyw2GYRFhNULhGpdTI",
+  "googleName": "Paris Croissant & Cafe",
+  "formattedAddress": "6P79+8PP, Paseo De Marianas, Garapan, Saipan 96950, CNMI",
+  "phone": "(670) 233-9292",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3635998165428343574",
+  "rating": 4.2,
+  "reviewCount": 98,
+  "coords": [
+    15.213335,
+    145.7193142
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-croissant-bakery-saipan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:09.530Z"
+}

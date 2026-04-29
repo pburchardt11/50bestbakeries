@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-by-laureate",
+  "name": "Bakery by Laureate",
+  "city": "Алматы",
+  "country": "Kazakhstan",
+  "placeId": "ChIJbx-kGo1vgzgRWXUXpHF39ds",
+  "googleName": "Laureate Grand Cafe",
+  "formattedAddress": "Bogenbai Batyr Street 85, Almaty 050000, Kazakhstan",
+  "phone": "8 (707) 111 0604",
+  "website": "https://www.instagram.com/laureate_grand_cafe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15849705793568339289",
+  "rating": 4.4,
+  "reviewCount": 102,
+  "coords": [
+    43.2541513,
+    76.9566995
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 AM",
+    "Tuesday: 8:00 AM – 5:00 AM",
+    "Wednesday: 8:00 AM – 5:00 AM",
+    "Thursday: 8:00 AM – 5:00 AM",
+    "Friday: 8:00 AM – 5:00 AM",
+    "Saturday: 8:00 AM – 5:00 AM",
+    "Sunday: 8:00 AM – 5:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-by-laureate/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:51:03.361Z"
+}

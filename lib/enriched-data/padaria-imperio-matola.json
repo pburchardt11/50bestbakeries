@@ -1,0 +1,32 @@
+{
+  "slug": "padaria-imperio-matola",
+  "name": "Padaria Imperio",
+  "city": "Matola",
+  "country": "Mozambique",
+  "placeId": "ChIJCZ1Nl99pKh8Rbx-QAAJLwDs",
+  "googleName": "Padaria Império",
+  "formattedAddress": "6VR6+JHM, Beira, Mozambique",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4305523715737657199",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    -19.7584053,
+    34.8614372
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-imperio-matola/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:29:24.072Z"
+}

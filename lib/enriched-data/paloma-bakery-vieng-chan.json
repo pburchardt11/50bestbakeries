@@ -1,0 +1,32 @@
+{
+  "slug": "paloma-bakery-vieng-chan",
+  "name": "Paloma Bakery",
+  "city": "Vieng-Chan",
+  "country": "Laos",
+  "placeId": "ChIJB-xLSs-SJTER7Vrkyizjrhk",
+  "googleName": "Luang Prabang Bakery & Restaurant",
+  "formattedAddress": "WCGX+C7X, Vang Vieng, Laos",
+  "phone": "054 477 363",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1850666278417881837",
+  "rating": 3.6,
+  "reviewCount": 1133,
+  "coords": [
+    18.926111,
+    102.4482398
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paloma-bakery-vieng-chan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:00:19.221Z"
+}

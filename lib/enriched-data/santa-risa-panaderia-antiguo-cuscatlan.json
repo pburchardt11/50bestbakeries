@@ -1,0 +1,32 @@
+{
+  "slug": "santa-risa-panaderia-antiguo-cuscatlan",
+  "name": "Santa Risa Panaderia",
+  "city": "Antiguo Cuscatlán",
+  "country": "El Salvador",
+  "placeId": "ChIJj9QGjpExY48RRS5CjRDNxpg",
+  "googleName": "Santa Risa Panaderia",
+  "formattedAddress": "Villa Colinas casa 5, El Salvador",
+  "phone": "7797 6522",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11008711810126851653",
+  "rating": 3.7,
+  "reviewCount": 3,
+  "coords": [
+    13.6780851,
+    -89.232916
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santa-risa-panaderia-antiguo-cuscatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:03:20.309Z"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "la-lune",
+  "name": "La lune",
+  "city": "بغداد",
+  "country": "Iraq",
+  "placeId": "ChIJf2mqA0R_VxURLHUoEIBlmCA",
+  "googleName": "La lune",
+  "formattedAddress": "78XJ+95X, Baghdad, Baghdad Governorate, Iraq",
+  "phone": "0784 444 9282",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2348738806375019820",
+  "rating": 4.4,
+  "reviewCount": 120,
+  "coords": [
+    33.2985906,
+    44.3304815
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-lune/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:38:48.572Z"
+}

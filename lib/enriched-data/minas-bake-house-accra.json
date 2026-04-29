@@ -1,0 +1,30 @@
+{
+  "slug": "minas-bake-house-accra",
+  "name": "Minas_bake house",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJu1W0TuOb3w8RrpLhpxRiymg",
+  "googleName": "Mina's Place",
+  "formattedAddress": "2 Emmause Ln, Accra, Ghana",
+  "phone": "024 493 6552",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7550955566095504046",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    5.5699229,
+    -0.1697756
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 1:00 – 8:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:16:24.321Z"
+}

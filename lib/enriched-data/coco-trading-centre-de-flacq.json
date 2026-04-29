@@ -1,0 +1,32 @@
+{
+  "slug": "coco-trading-centre-de-flacq",
+  "name": "Coco Trading",
+  "city": "Centre de Flacq",
+  "country": "Mauritius",
+  "placeId": "ChIJybm7cSb5fCERdndqprPRNa8",
+  "googleName": "Coco Trading",
+  "formattedAddress": "Ramchandar Road, Central Flacq, Mauritius",
+  "phone": "5772 8206",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12625227699924399990",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -20.1938794,
+    57.72385169999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:30 PM",
+    "Tuesday: 9:00 AM – 4:30 PM",
+    "Wednesday: 9:00 AM – 4:30 PM",
+    "Thursday: 9:00 AM – 2:30 PM",
+    "Friday: 9:00 AM – 4:30 PM",
+    "Saturday: 9:00 AM – 4:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coco-trading-centre-de-flacq/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:18:56.032Z"
+}

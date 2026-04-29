@@ -1,0 +1,30 @@
+{
+  "slug": "gerb-or-antananarivo",
+  "name": "Gerb'Or",
+  "city": "Antananarivo",
+  "country": "Madagascar",
+  "placeId": "ChIJEVTUwAp-8CERHgd9HXWtoQ0",
+  "googleName": "Gerb'Or",
+  "formattedAddress": "3GHG+9FX, Rue Andriba, Antananarivo, Madagascar",
+  "phone": "032 02 161 23",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=982256912260990750",
+  "rating": 4.2,
+  "reviewCount": 9,
+  "coords": [
+    -18.9215086,
+    47.526225
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:30 PM",
+    "Saturday: 6:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:11:06.089Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "doctor-sweets",
+  "name": "Doctor Sweets",
+  "city": "طرابلس",
+  "country": "Libya",
+  "placeId": "ChIJx_KIyvGTqBMR8CWXE-12U6c",
+  "googleName": "Doctor Sweets",
+  "formattedAddress": "الظهرة : عبد الحميد بن باديس، Tarabulus, Libya",
+  "phone": "092-5200627",
+  "website": "https://www.facebook.com/profile.php?id=100061515505476",
+  "googleMapsUrl": "https://maps.google.com/?cid=12057111388008949232",
+  "rating": 4.3,
+  "reviewCount": 63,
+  "coords": [
+    32.8885415,
+    13.1930393
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:30 PM",
+    "Tuesday: 8:00 AM – 10:30 PM",
+    "Wednesday: 8:00 AM – 10:30 PM",
+    "Thursday: 8:00 AM – 10:30 PM",
+    "Friday: 4:00 – 10:30 PM",
+    "Saturday: 8:00 AM – 10:30 PM",
+    "Sunday: 8:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/doctor-sweets/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:04:50.734Z"
+}

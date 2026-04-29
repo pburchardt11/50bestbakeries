@@ -1,0 +1,32 @@
+{
+  "slug": "l-moutet-papeete",
+  "name": "L. Moutet",
+  "city": "Papeete",
+  "country": "French Polynesia",
+  "placeId": "ChIJxSLMKPc5mnYRM7_aAy-Nt-A",
+  "googleName": "L. Moutet",
+  "formattedAddress": "FC8R+H9V, Papeete 98714, French Polynesia",
+  "phone": "40 42 08 46",
+  "website": "https://www.facebook.com/L.MOUTET/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16192566218301554483",
+  "rating": 4,
+  "reviewCount": 24,
+  "coords": [
+    -17.5335026,
+    -149.5590773
+  ],
+  "openingHours": [
+    "Monday: 5:15 AM – 5:30 PM",
+    "Tuesday: 5:15 AM – 5:30 PM",
+    "Wednesday: 5:15 AM – 5:30 PM",
+    "Thursday: 5:15 AM – 5:30 PM",
+    "Friday: 5:15 AM – 5:30 PM",
+    "Saturday: 5:15 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-moutet-papeete/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:44.649Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mythos-bakery-cafe-faliraki",
+  "name": "MYTHOS bakery | café",
+  "city": "Faliraki",
+  "country": "Greece",
+  "placeId": "ChIJu9Xi6NBllRQRdf2wWeK0DRw",
+  "googleName": "Mythos Bakery Cafe",
+  "formattedAddress": "GREECE, EO Rodou Lindou 311, Faliraki 851 00, Greece",
+  "phone": "2241 085791",
+  "website": "https://sites.google.com/view/mythosbakerycafe",
+  "googleMapsUrl": "https://maps.google.com/?cid=2021470692019600757",
+  "rating": 4.4,
+  "reviewCount": 804,
+  "coords": [
+    36.3372594,
+    28.1980181
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 8:00 PM",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 5:30 AM – 8:00 PM",
+    "Sunday: 5:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mythos-bakery-cafe-faliraki/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:32.205Z"
+}

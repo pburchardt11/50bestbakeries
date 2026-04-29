@@ -1,0 +1,32 @@
+{
+  "slug": "hot-bread-kitchen-nadi",
+  "name": "Hot Bread Kitchen",
+  "city": "Nadi",
+  "country": "Fiji",
+  "placeId": "ChIJE8Ji1aRbF24RiG_zk0ErP3Y",
+  "googleName": "The Hot Bread Kitchen",
+  "formattedAddress": "6CCJ+7P5, Nadi, Fiji",
+  "phone": "672 1565",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8520576580663340936",
+  "rating": 4.2,
+  "reviewCount": 115,
+  "coords": [
+    -17.7793749,
+    177.4318479
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:30 PM",
+    "Tuesday: 5:30 AM – 7:30 PM",
+    "Wednesday: 5:30 AM – 7:30 PM",
+    "Thursday: 5:30 AM – 7:30 PM",
+    "Friday: 5:30 AM – 7:30 PM",
+    "Saturday: 5:30 AM – 7:30 PM",
+    "Sunday: 5:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hot-bread-kitchen-nadi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:07:42.385Z"
+}

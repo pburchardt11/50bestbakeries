@@ -1,0 +1,24 @@
+{
+  "slug": "hela-bakery",
+  "name": "Hela Bakery",
+  "city": "بغداد",
+  "country": "Iraq",
+  "placeId": "ChIJpVGuJwB_VxURRyOTm3enUks",
+  "googleName": "هيلة كافيه Hela cafe",
+  "formattedAddress": "78VW+WG8, Baghdad, Baghdad Governorate, Iraq",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5427584633087927111",
+  "rating": 4.8,
+  "reviewCount": 19,
+  "coords": [
+    33.2948273,
+    44.3463219
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hela-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:38:51.292Z"
+}

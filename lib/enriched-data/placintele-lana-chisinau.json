@@ -1,0 +1,32 @@
+{
+  "slug": "placintele-lana-chisinau",
+  "name": "Placintele Lana",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJZ6qWKZR5yUARRoZYhaNExLY",
+  "googleName": "Plăcintele Lana",
+  "formattedAddress": "Strada Independenței, Chișinău, Moldova",
+  "phone": null,
+  "website": "https://www.facebook.com/placintele.lana/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13169726679445702214",
+  "rating": 4.3,
+  "reviewCount": 12,
+  "coords": [
+    46.9782902,
+    28.8550597
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/placintele-lana-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:19.090Z"
+}

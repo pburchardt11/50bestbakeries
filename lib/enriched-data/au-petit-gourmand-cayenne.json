@@ -1,0 +1,32 @@
+{
+  "slug": "au-petit-gourmand-cayenne",
+  "name": "Au Petit Gourmand",
+  "city": "Cayenne",
+  "country": "French Guiana",
+  "placeId": "ChIJJ3pR6mw9Eo0RzYDFcQMo6O8",
+  "googleName": "Au Petit Gourmand",
+  "formattedAddress": "2 St Denis, 2 cité Brutus, Cayenne 97300, French Guiana",
+  "phone": "0594 30 57 35",
+  "website": "https://www.facebook.com/104054102713125",
+  "googleMapsUrl": "https://maps.google.com/?cid=17287111164920430797",
+  "rating": 4.3,
+  "reviewCount": 31,
+  "coords": [
+    4.9358296,
+    -52.3194916
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 1:30 PM, 4:00 – 7:30 PM",
+    "Tuesday: 5:30 AM – 1:30 PM, 4:00 – 7:30 PM",
+    "Wednesday: 5:30 AM – 1:30 PM",
+    "Thursday: 5:30 AM – 1:30 PM, 4:00 – 7:30 PM",
+    "Friday: 5:30 AM – 1:30 PM, 4:00 – 7:30 PM",
+    "Saturday: 5:30 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-petit-gourmand-cayenne/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:50.973Z"
+}

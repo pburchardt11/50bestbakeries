@@ -1,0 +1,32 @@
+{
+  "slug": "oryosss",
+  "name": "Oryosss",
+  "city": "ארז",
+  "country": "Israel",
+  "placeId": "ChIJvSeYBYKDAhUR3J9V1obfLnA",
+  "googleName": "ORYOSSS",
+  "formattedAddress": "ארז 1, Erez, 7915000, Israel",
+  "phone": "055-561-7540",
+  "website": "https://ontopo.co.il/oryosss?source=facebook",
+  "googleMapsUrl": "https://maps.google.com/?cid=8083644151391166428",
+  "rating": 4,
+  "reviewCount": 407,
+  "coords": [
+    31.5606703,
+    34.5657323
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 9:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oryosss/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:26.152Z"
+}

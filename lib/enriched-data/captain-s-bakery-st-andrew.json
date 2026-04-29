@@ -1,0 +1,32 @@
+{
+  "slug": "captain-s-bakery-st-andrew",
+  "name": "Captain's Bakery",
+  "city": "St Andrew",
+  "country": "Jamaica",
+  "placeId": "ChIJyzr08qI_244RrcBiXDMIil8",
+  "googleName": "Captain's Bakery",
+  "formattedAddress": "16c Half Way Tree Road, Kingston, Jamaica",
+  "phone": "(876) 906-5875",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6884323997075554477",
+  "rating": 3.5,
+  "reviewCount": 127,
+  "coords": [
+    17.996486,
+    -76.7889673
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/captain-s-bakery-st-andrew/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:01.003Z"
+}

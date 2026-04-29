@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-co-azumino",
+  "name": "SWEET Co. Azumino",
+  "city": "Azumino",
+  "country": "Japan",
+  "placeId": "ChIJQ0Siz6BtHWARVhxTf_DUJkk",
+  "googleName": "ベーカリー スイート あづみ野店",
+  "formattedAddress": "843-1 Hotaka, Azumino, Nagano 399-8303, Japan",
+  "phone": "0263-87-6977",
+  "website": "https://www.sweet-bakery.co.jp/azumino",
+  "googleMapsUrl": "https://maps.google.com/?cid=5271134543277136982",
+  "rating": 4.3,
+  "reviewCount": 1220,
+  "coords": [
+    36.3247383,
+    137.8976842
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-co-azumino/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:33.879Z"
+}

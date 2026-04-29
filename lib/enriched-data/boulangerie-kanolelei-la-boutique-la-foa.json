@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-kanolelei-la-boutique-la-foa",
+  "name": "Boulangerie Kanolelei - La Boutique - La Foa",
+  "city": "La Foa",
+  "country": "New Caledonia",
+  "placeId": "ChIJyaSYEQBznW4Rgd18ThNViWk",
+  "googleName": "Boulangerie Kanolelei La Foa",
+  "formattedAddress": "7RRG+6JJ, La Foa, New Caledonia",
+  "phone": "31.77.77",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7604702987201338753",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -21.7094212,
+    165.8265266
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 5:30 PM",
+    "Tuesday: 5:30 AM – 5:30 PM",
+    "Wednesday: 5:30 AM – 5:30 PM",
+    "Thursday: 5:30 AM – 5:30 PM",
+    "Friday: 5:30 AM – 5:30 PM",
+    "Saturday: 5:30 AM – 12:00 PM",
+    "Sunday: 5:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-kanolelei-la-boutique-la-foa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:52.400Z"
+}

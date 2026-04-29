@@ -1,0 +1,24 @@
+{
+  "slug": "ab-kings-bakery-accra",
+  "name": "AB Kings Bakery",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJm1Rr7imb3w8R3qGhgB6qAyM",
+  "googleName": "AB Kings Bakery",
+  "formattedAddress": "40 Royalt Castle Rd, Accra, Ghana",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2523047264241426910",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    5.578683100000001,
+    -0.2119192
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ab-kings-bakery-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:13.801Z"
+}

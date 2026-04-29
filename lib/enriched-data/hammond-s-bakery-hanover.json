@@ -1,0 +1,30 @@
+{
+  "slug": "hammond-s-bakery-hanover",
+  "name": "Hammond's Bakery",
+  "city": "Hanover",
+  "country": "Jamaica",
+  "placeId": "ChIJL0NJIY6d2Y4RjBmOhR58wFc",
+  "googleName": "Hammond's Bakery",
+  "formattedAddress": "CRWH+Q6H, Church St, Lucea, Jamaica",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6323190347359721868",
+  "rating": 4.2,
+  "reviewCount": 12,
+  "coords": [
+    18.4469496,
+    -78.1718838
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:45:30.459Z"
+}

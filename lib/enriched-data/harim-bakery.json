@@ -1,0 +1,32 @@
+{
+  "slug": "harim-bakery",
+  "name": "Harim Bakery",
+  "city": "אבו גוש",
+  "country": "Israel",
+  "placeId": "ChIJkSEcms3RAhUR1KxU9q3eed4",
+  "googleName": "Harim Bakery",
+  "formattedAddress": "Kiryat Anavim, Israel",
+  "phone": "02-633-0646",
+  "website": "https://www.harimbakery.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16031089187345444052",
+  "rating": 4.3,
+  "reviewCount": 1522,
+  "coords": [
+    31.8109153,
+    35.1230979
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/harim-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:57.458Z"
+}

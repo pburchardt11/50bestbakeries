@@ -1,0 +1,32 @@
+{
+  "slug": "marie-beliard-petion-ville",
+  "name": "Marie Beliard",
+  "city": "Petion-Ville",
+  "country": "Haiti",
+  "placeId": "ChIJm2DPZXzouY4RGkEFz1IylfY",
+  "googleName": "Pâtisserie Marie Beliard",
+  "formattedAddress": "109 Faubert, Pétion-Ville, Haiti",
+  "phone": "28 13 1515",
+  "website": "http://patisseriemariebeliard.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17768163236102095130",
+  "rating": 4.3,
+  "reviewCount": 1912,
+  "coords": [
+    18.5159554,
+    -72.2884874
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 6:30 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marie-beliard-petion-ville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:26:28.389Z"
+}

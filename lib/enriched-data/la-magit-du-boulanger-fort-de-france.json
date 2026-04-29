@@ -1,0 +1,32 @@
+{
+  "slug": "la-magit-du-boulanger-fort-de-france",
+  "name": "La Magit du boulanger",
+  "city": "Fort-de-France",
+  "country": "Martinique",
+  "placeId": "ChIJ9-_C5kWnaowRe5g4OQDY6r0",
+  "googleName": "La Magit Du Boulanger",
+  "formattedAddress": "147 Rte de Ravine Vilaine, Fort-de-France 97200, Martinique",
+  "phone": "0596 57 87 38",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13684987913190283387",
+  "rating": 4,
+  "reviewCount": 47,
+  "coords": [
+    14.6429362,
+    -61.05924059999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:30 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: 6:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-magit-du-boulanger-fort-de-france/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:53.817Z"
+}

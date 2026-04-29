@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-amoud-marrakesh",
+  "name": "Pâtisserie Amoud",
+  "city": "Marrakesh",
+  "country": "Morocco",
+  "placeId": "ChIJ0bRULyHsrw0RAVWQINBk4LI",
+  "googleName": "Amoud : Boulangerie & Pâtisserie",
+  "formattedAddress": "شارع عبد الكريم الخطابي، Marrakech 40000, Morocco",
+  "phone": "05 24 45 72 08",
+  "website": "http://www.amoud.ma/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12889412978596664577",
+  "rating": 4.1,
+  "reviewCount": 1848,
+  "coords": [
+    31.652888,
+    -8.019912
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-amoud-marrakesh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:27:36.133Z"
+}

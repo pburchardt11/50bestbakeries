@@ -1,0 +1,32 @@
+{
+  "slug": "natalie-cakes",
+  "name": "Natalie Cakes - עוגות נטלי",
+  "city": "אור עקיבא",
+  "country": "Israel",
+  "placeId": "ChIJuzRkkxkMHRURFzH0XAjTKZo",
+  "googleName": "נטלי פלוס בע\"מ",
+  "formattedAddress": "3060000, HaHadas 5, Or Akiva, Israel",
+  "phone": "052-510-4999",
+  "website": "http://www.natalicake.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11108641988758745367",
+  "rating": 4.3,
+  "reviewCount": 185,
+  "coords": [
+    32.5159968,
+    34.921869
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/natalie-cakes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:07.209Z"
+}

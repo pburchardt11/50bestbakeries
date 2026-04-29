@@ -1,0 +1,24 @@
+{
+  "slug": "zaina-cake",
+  "name": "Zaina cake",
+  "city": "Астана",
+  "country": "Kazakhstan",
+  "placeId": "ChIJH6wHCQCHRUIRGhRE6M2w3TM",
+  "googleName": "Кондитерская Zaina",
+  "formattedAddress": "Sarayshyq St 4/1, Astana 020000, Kazakhstan",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3737337664198939674",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    51.1345433,
+    71.4185287
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zaina-cake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:52:06.299Z"
+}

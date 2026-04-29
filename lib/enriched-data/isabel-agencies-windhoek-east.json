@@ -1,0 +1,32 @@
+{
+  "slug": "isabel-agencies-windhoek-east",
+  "name": "Isabel Agencies",
+  "city": "Windhoek East",
+  "country": "Namibia",
+  "placeId": "ChIJayjzRlgbCxwRPZbALBBZzYA",
+  "googleName": "Isabel Agencies",
+  "formattedAddress": "C39G+W83, Marconi Street, Windhoek, Namibia",
+  "phone": "081 296 5530",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9281172333085627965",
+  "rating": 4.6,
+  "reviewCount": 16,
+  "coords": [
+    -22.5803303,
+    17.0757809
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:30 PM",
+    "Tuesday: 8:00 AM – 4:30 PM",
+    "Wednesday: 8:00 AM – 4:30 PM",
+    "Thursday: 8:00 AM – 4:30 PM",
+    "Friday: 8:00 AM – 4:30 PM",
+    "Saturday: 8:00 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/isabel-agencies-windhoek-east/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:31:59.427Z"
+}

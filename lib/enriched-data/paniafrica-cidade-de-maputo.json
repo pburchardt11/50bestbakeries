@@ -1,0 +1,32 @@
+{
+  "slug": "paniafrica-cidade-de-maputo",
+  "name": "Paniáfrica",
+  "city": "Cidade de Maputo",
+  "country": "Mozambique",
+  "placeId": "ChIJ_7erF7ub5h4R0Uo0Hs5QLfY",
+  "googleName": "Paniáfrica (Padaria União)",
+  "formattedAddress": "R. Gen. Texeira Botelho, Maputo, Mozambique",
+  "phone": "85 615 2009",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17738923353482480337",
+  "rating": 4.2,
+  "reviewCount": 86,
+  "coords": [
+    -25.960068,
+    32.5890662
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paniafrica-cidade-de-maputo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:28:55.683Z"
+}

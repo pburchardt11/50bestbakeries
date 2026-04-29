@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-rico-pan-asuncion-mita",
+  "name": "Panaderia Rico Pan",
+  "city": "Asunción Mita",
+  "country": "Guatemala",
+  "placeId": "ChIJ3xBKUhPAYJQRBdwDk6_-zR8",
+  "googleName": "Rico Pan",
+  "formattedAddress": "RC78+XF3, Choré 020301, Paraguay",
+  "phone": "0982 754215",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2291767815440686085",
+  "rating": 4.6,
+  "reviewCount": 70,
+  "coords": [
+    -24.185111,
+    -56.5838173
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-rico-pan-asuncion-mita/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:24:02.360Z"
+}

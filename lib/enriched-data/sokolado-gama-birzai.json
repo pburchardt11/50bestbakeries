@@ -1,0 +1,32 @@
+{
+  "slug": "sokolado-gama-birzai",
+  "name": "Šokolado Gama",
+  "city": "Biržai",
+  "country": "Lithuania",
+  "placeId": "ChIJxQ9BASWN6EYR24qa2dPxPcE",
+  "googleName": "Biržų šokoladas",
+  "formattedAddress": "GAMYBA - Kęstučio g. 30, PREKYBA, kavinė /parduotuvė, Vytauto g. 5A, 41177 Biržai, Lithuania",
+  "phone": "(0-672) 17491",
+  "website": "http://www.birzusokoladas.lt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13924551515090619099",
+  "rating": 4.3,
+  "reviewCount": 8,
+  "coords": [
+    56.2020503,
+    24.7450449
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sokolado-gama-birzai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:06:04.211Z"
+}

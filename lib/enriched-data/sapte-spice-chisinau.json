@@ -1,0 +1,32 @@
+{
+  "slug": "sapte-spice-chisinau",
+  "name": "Șapte Spice",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJlWF35Ft5yUARjLHgjctwr_8",
+  "googleName": "Șapte Spice SRL",
+  "formattedAddress": "Șoseaua Muncești 121/E, Chișinău, Moldova",
+  "phone": null,
+  "website": "http://7spice.md/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18424068620156973452",
+  "rating": 3.2,
+  "reviewCount": 86,
+  "coords": [
+    46.99163979999999,
+    28.8920096
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sapte-spice-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:53.465Z"
+}

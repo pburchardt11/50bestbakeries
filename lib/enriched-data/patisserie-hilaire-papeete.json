@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-hilaire-papeete",
+  "name": "Pâtisserie Hilaire",
+  "city": "Papeete",
+  "country": "French Polynesia",
+  "placeId": "ChIJS332pfA5mnYR6Q_U6Ut2ens",
+  "googleName": "Pâtisserie Hilaire",
+  "formattedAddress": "Papeete 98713, French Polynesia",
+  "phone": "40 43 65 85",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8897554082241449961",
+  "rating": 4.2,
+  "reviewCount": 71,
+  "coords": [
+    -17.5351875,
+    -149.5576875
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 5:30 PM",
+    "Tuesday: 5:00 AM – 5:30 PM",
+    "Wednesday: 5:00 AM – 5:30 PM",
+    "Thursday: 5:00 AM – 5:30 PM",
+    "Friday: 5:00 AM – 5:30 PM",
+    "Saturday: 5:00 AM – 12:00 PM",
+    "Sunday: 5:00 – 10:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-hilaire-papeete/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:26.297Z"
+}

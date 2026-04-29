@@ -1,0 +1,32 @@
+{
+  "slug": "julifort-bakehouse-accra",
+  "name": "Julifort Bakehouse",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJ55V0CZ-X3w8RVBz9dJ2NYPo",
+  "googleName": "JULIFORT BAKEHOUSE",
+  "formattedAddress": "567, 2602 Naa Awula Quaye Rd, Accra, Ghana",
+  "phone": "026 202 8058",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18041575814658333780",
+  "rating": 4.5,
+  "reviewCount": 54,
+  "coords": [
+    5.539181999999999,
+    -0.2683302
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/julifort-bakehouse-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:16:13.279Z"
+}

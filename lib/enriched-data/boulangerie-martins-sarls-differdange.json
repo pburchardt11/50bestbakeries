@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-martins-sarls-differdange",
+  "name": "Boulangerie Martins SARLS",
+  "city": "Differdange",
+  "country": "Luxembourg",
+  "placeId": "ChIJadPQumnK6kcRgT64HjFK4-A",
+  "googleName": "Boulangerie Martins SARLS",
+  "formattedAddress": "19 Rue Emile Mark, 4620 Differdange, Luxembourg",
+  "phone": "26 58 12 06",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16204877459038420609",
+  "rating": 4.2,
+  "reviewCount": 35,
+  "coords": [
+    49.5228999,
+    5.890176599999999
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:00 PM",
+    "Tuesday: 5:30 AM – 6:00 PM",
+    "Wednesday: 5:30 AM – 6:00 PM",
+    "Thursday: 5:30 AM – 6:00 PM",
+    "Friday: 5:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 1:00 PM",
+    "Sunday: 7:30 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-martins-sarls-differdange/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:01.051Z"
+}

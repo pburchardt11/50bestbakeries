@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-reposteria-aura-diriamba",
+  "name": "Panaderia y Reposteria Aura",
+  "city": "Diriamba",
+  "country": "Nicaragua",
+  "placeId": "ChIJH2fn_1IddI8RclP4oEVXWxI",
+  "googleName": "Panadería y repostería aura",
+  "formattedAddress": "3ra. Av NE, Diriamba, Nicaragua",
+  "phone": "8329 5496",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1322746872128361330",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    11.8584017,
+    -86.2384117
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-reposteria-aura-diriamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:38:08.501Z"
+}

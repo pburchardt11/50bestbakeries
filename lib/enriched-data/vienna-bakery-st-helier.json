@@ -1,0 +1,32 @@
+{
+  "slug": "vienna-bakery-st-helier",
+  "name": "Vienna Bakery",
+  "city": "St Helier",
+  "country": "Jersey",
+  "placeId": "ChIJ59N5o6BSDEgRjgZCs5SlLgA",
+  "googleName": "Vienna Bakery - Central Market",
+  "formattedAddress": "25-29, Central Market, Hilgrove St, St Helier, Jersey JE2 4WL, Jersey",
+  "phone": "01534 722629",
+  "website": "http://vienna.je/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13129907009881742",
+  "rating": 4.3,
+  "reviewCount": 53,
+  "coords": [
+    49.1844489,
+    -2.1041795
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vienna-bakery-st-helier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:48:22.762Z"
+}

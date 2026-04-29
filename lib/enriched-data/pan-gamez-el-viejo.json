@@ -1,0 +1,32 @@
+{
+  "slug": "pan-gamez-el-viejo",
+  "name": "Pan Gámez",
+  "city": "El Viejo",
+  "country": "Nicaragua",
+  "placeId": "ChIJp8U-A23zcI8RqtshE7JcjQY",
+  "googleName": "Pan Gámez",
+  "formattedAddress": "Puente Central 5 1/2 c. al oeste El Viejo, El Viejo 26200, Nicaragua",
+  "phone": "7559 6008",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=472135455838690218",
+  "rating": 4.4,
+  "reviewCount": 36,
+  "coords": [
+    12.6636864,
+    -87.17207409999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 7:30 PM",
+    "Sunday: 7:30 – 9:30 AM, 1:00 – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-gamez-el-viejo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:38:24.458Z"
+}

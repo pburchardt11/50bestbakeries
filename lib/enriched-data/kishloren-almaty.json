@@ -1,0 +1,32 @@
+{
+  "slug": "kishloren-almaty",
+  "name": "Kishloren.almaty",
+  "city": "Алматы",
+  "country": "Kazakhstan",
+  "placeId": "ChIJb9Cs1e5vgzgRoxUBiJ3JHGQ",
+  "googleName": "Pekarnya Kish Loren",
+  "formattedAddress": "Mukagali Makataev Street 73, Almaty 050000, Kazakhstan",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7213862381569512867",
+  "rating": 4,
+  "reviewCount": 2,
+  "coords": [
+    43.2641399,
+    76.94419529999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kishloren-almaty/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:50:56.020Z"
+}

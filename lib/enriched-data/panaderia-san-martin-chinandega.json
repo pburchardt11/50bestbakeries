@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-san-martin-chinandega",
+  "name": "Panaderia San Martin",
+  "city": "Chinandega",
+  "country": "Nicaragua",
+  "placeId": "ChIJt7SV7o3xcI8RbArNE0Iv96M",
+  "googleName": "PANADERÍA SAN MARTIN \"CAYUCO\"",
+  "formattedAddress": "JVM8+JP4, Av. Central, Chinandega, Nicaragua",
+  "phone": "2341 2676",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11814964108276337260",
+  "rating": 4.2,
+  "reviewCount": 47,
+  "coords": [
+    12.634004,
+    -87.1331617
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-san-martin-chinandega/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:54.860Z"
+}

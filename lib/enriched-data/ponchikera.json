@@ -1,0 +1,32 @@
+{
+  "slug": "ponchikera",
+  "name": "• Ponchikera",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJWxUSQzyGZ0ARdbhZ2EyCqvY",
+  "googleName": "Argo Cable Car",
+  "formattedAddress": "1 Bako Street, Batumi 6010, Georgia",
+  "phone": "591 87 00 08",
+  "website": "https://argo-batumi.ge/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17774162145929967733",
+  "rating": 4.5,
+  "reviewCount": 15681,
+  "coords": [
+    41.6474696,
+    41.6454826
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 8:00 PM",
+    "Tuesday: 11:00 AM – 8:00 PM",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 8:00 PM",
+    "Saturday: 11:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Gondolas traveling to the top of leafy Anuria mountain, offering views of the Black Sea & the city.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ponchikera/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:14:55.716Z"
+}

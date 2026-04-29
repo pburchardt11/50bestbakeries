@@ -1,0 +1,32 @@
+{
+  "slug": "fujako-bakers-fiji-suva",
+  "name": "Fujako Bakers - Fiji",
+  "city": "Suva",
+  "country": "Fiji",
+  "placeId": "ChIJ-0yyaDLeG24RzVAuxjsG9o4",
+  "googleName": "Fijian Kekes",
+  "formattedAddress": "55 Bureta Street, Samabula, Suva, Fiji",
+  "phone": "995 1891",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10301428051454349517",
+  "rating": 4.3,
+  "reviewCount": 38,
+  "coords": [
+    -18.1160374,
+    178.4432315
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fujako-bakers-fiji-suva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:10:07.736Z"
+}

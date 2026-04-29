@@ -1,0 +1,32 @@
+{
+  "slug": "lebopekara-mm",
+  "name": "Lebopekara MM",
+  "city": "Гевгелија",
+  "country": "North Macedonia",
+  "placeId": "ChIJj3gI-DshVhMRDyD9P27VvKg",
+  "googleName": "Lebopekara MM",
+  "formattedAddress": "6H3G+637, Bogdanci, North Macedonia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12158827763490168847",
+  "rating": 3,
+  "reviewCount": 2,
+  "coords": [
+    41.2030341,
+    22.5751796
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lebopekara-mm/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:43:45.228Z"
+}

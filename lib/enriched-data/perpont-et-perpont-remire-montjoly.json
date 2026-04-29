@@ -1,0 +1,32 @@
+{
+  "slug": "perpont-et-perpont-remire-montjoly",
+  "name": "Perpont et Perpont",
+  "city": "Remire-Montjoly",
+  "country": "French Guiana",
+  "placeId": "ChIJN9DM8w48Eo0RLiHLecX6-Dk",
+  "googleName": "Grand Port Maritime de la Guyane",
+  "formattedAddress": "N3 Remire Montjoly GF 97354, Remire-Montjoly 97354, French Guiana",
+  "phone": "0594 29 96 60",
+  "website": "http://www.portdeguyane.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4177364380444991790",
+  "rating": 3.9,
+  "reviewCount": 23,
+  "coords": [
+    4.854625599999999,
+    -52.2737548
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/perpont-et-perpont-remire-montjoly/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:11.702Z"
+}

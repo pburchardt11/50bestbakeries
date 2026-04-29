@@ -1,0 +1,32 @@
+{
+  "slug": "vanille-chisinau",
+  "name": "Vanille",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJ__SPdEx5yUARftN5mxAbpuE",
+  "googleName": "Vanille",
+  "formattedAddress": "Bulevardul Dacia 31, Chișinău, Moldova",
+  "phone": "022 571 932",
+  "website": "http://www.vanille.md/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16259713262809633662",
+  "rating": 4.7,
+  "reviewCount": 809,
+  "coords": [
+    46.9853215,
+    28.8596379
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vanille-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:16.599Z"
+}

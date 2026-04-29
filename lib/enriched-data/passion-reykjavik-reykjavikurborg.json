@@ -1,0 +1,32 @@
+{
+  "slug": "passion-reykjavik-reykjavikurborg",
+  "name": "Passion Reykjavík",
+  "city": "Reykjavíkurborg",
+  "country": "Iceland",
+  "placeId": "ChIJzc4sMJF01kgRbShJY5d3tiE",
+  "googleName": "Passion Reykjavík",
+  "formattedAddress": "Álfheimar 6, 104 Reykjavík, Iceland",
+  "phone": "553 6280",
+  "website": "https://www.passionreykjavik.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2429260541102467181",
+  "rating": 4.8,
+  "reviewCount": 161,
+  "coords": [
+    64.13753489999999,
+    -21.8597299
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/passion-reykjavik-reykjavikurborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:58.760Z"
+}

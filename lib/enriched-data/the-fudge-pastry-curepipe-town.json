@@ -1,0 +1,32 @@
+{
+  "slug": "the-fudge-pastry-curepipe-town",
+  "name": "The Fudge Pastry",
+  "city": "Curepipe Town",
+  "country": "Mauritius",
+  "placeId": "ChIJN_inCI5dfCERtNGftbap1hM",
+  "googleName": "The Fudge Pastry",
+  "formattedAddress": "A 10, Curepipe, Mauritius",
+  "phone": "5508 2414",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1429516533933003188",
+  "rating": 4.8,
+  "reviewCount": 64,
+  "coords": [
+    -20.3187127,
+    57.5243136
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-fudge-pastry-curepipe-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:25.684Z"
+}

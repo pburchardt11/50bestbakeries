@@ -1,0 +1,32 @@
+{
+  "slug": "zito-vardar",
+  "name": "zito vardar",
+  "city": "Велес",
+  "country": "North Macedonia",
+  "placeId": "ChIJZ4AHRtIrVBMRS9o3hI1PcrI",
+  "googleName": "Žito Vardar",
+  "formattedAddress": "Mosha Pijade 2, Veles 1400, North Macedonia",
+  "phone": "043 231 938",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12858427355323423307",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    41.71929069999999,
+    21.7710246
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:00 PM",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zito-vardar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:43:27.511Z"
+}

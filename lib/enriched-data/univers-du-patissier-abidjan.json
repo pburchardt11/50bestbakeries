@@ -1,0 +1,32 @@
+{
+  "slug": "univers-du-patissier-abidjan",
+  "name": "Univers du pâtissier",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJvbsYUeiVwQ8RvQRo25PyXX8",
+  "googleName": "Univers du pâtissier",
+  "formattedAddress": "27 BP 923, Abidjan, Côte d'Ivoire",
+  "phone": "07 68 03 6456",
+  "website": "https://universdupatissier.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9177758332506080445",
+  "rating": 4.3,
+  "reviewCount": 6,
+  "coords": [
+    5.3965134,
+    -3.9918982
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/univers-du-patissier-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:24.630Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-bta-bamako",
+  "name": "Boulangerie BTA",
+  "city": "Bamako",
+  "country": "Mali",
+  "placeId": "ChIJY4V6BADRUQ4RQXls1JlYQrc",
+  "googleName": "Boulangerie BTA",
+  "formattedAddress": "H3CR+75P, Bamako, Mali",
+  "phone": "66 43 42 42",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13205214475120834881",
+  "rating": 3,
+  "reviewCount": 2,
+  "coords": [
+    12.5706205,
+    -7.910077999999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 1:00 AM",
+    "Saturday: 8:00 AM – 1:00 AM",
+    "Sunday: 8:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-bta-bamako/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:16.022Z"
+}

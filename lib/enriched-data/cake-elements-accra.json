@@ -1,0 +1,32 @@
+{
+  "slug": "cake-elements-accra",
+  "name": "Cake Elements",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJ11pZiC-Z3w8RBP-__tKwb-c",
+  "googleName": "Cake Elements",
+  "formattedAddress": "Feo Oyeo Awudome Estates, Accra, Ghana",
+  "phone": "024 446 0557",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16676742365439852292",
+  "rating": 4.6,
+  "reviewCount": 32,
+  "coords": [
+    5.570808599999999,
+    -0.2255343
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-elements-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:17.788Z"
+}

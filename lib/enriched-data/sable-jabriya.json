@@ -1,0 +1,32 @@
+{
+  "slug": "sable-jabriya",
+  "name": "Sable Jabriya",
+  "city": "حولى",
+  "country": "Kuwait",
+  "placeId": "ChIJmeb97kmczz8RHF7zVroo5lQ",
+  "googleName": "Sable Jabriya 1 سابليه الجابرية",
+  "formattedAddress": "Jabriya, Kuwait",
+  "phone": "503 90195",
+  "website": "http://www.sablesweets.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6117621924617215516",
+  "rating": 4,
+  "reviewCount": 121,
+  "coords": [
+    29.3175198,
+    48.0348609
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sable-jabriya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:42.550Z"
+}

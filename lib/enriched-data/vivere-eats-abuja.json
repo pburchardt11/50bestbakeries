@@ -1,0 +1,32 @@
+{
+  "slug": "vivere-eats-abuja",
+  "name": "Vivere Eats",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "placeId": "ChIJ7wafxGJ1ThAR30zGYMB55cA",
+  "googleName": "Vivere Eats",
+  "formattedAddress": "Area 2, 4 Bonny close, Garki, Abuja 900231, Federal Capital Territory, Nigeria",
+  "phone": "0818 371 3649",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13899649692113194207",
+  "rating": 4.9,
+  "reviewCount": 21,
+  "coords": [
+    9.0368931,
+    7.477589999999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vivere-eats-abuja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:41:33.815Z"
+}

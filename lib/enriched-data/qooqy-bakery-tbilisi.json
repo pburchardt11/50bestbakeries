@@ -1,0 +1,32 @@
+{
+  "slug": "qooqy-bakery-tbilisi",
+  "name": "Qooqy Bakery",
+  "city": "Tbilisi",
+  "country": "Georgia",
+  "placeId": "ChIJ00gKiTpzREARAtFMjVOHRBQ",
+  "googleName": "QooQy Bakery ქუქი ბეიქერი",
+  "formattedAddress": "7 Vazha Pshavela Ave, T'bilisi 0186, Georgia",
+  "phone": "032 288 74 87",
+  "website": "https://qooqybakery.ge/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1460440972097540354",
+  "rating": 4.5,
+  "reviewCount": 347,
+  "coords": [
+    41.7278673,
+    44.7655663
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/qooqy-bakery-tbilisi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:14:00.667Z"
+}

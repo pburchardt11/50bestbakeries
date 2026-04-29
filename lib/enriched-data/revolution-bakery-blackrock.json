@@ -1,0 +1,32 @@
+{
+  "slug": "revolution-bakery-blackrock",
+  "name": "Revolution Bakery",
+  "city": "Blackrock",
+  "country": "Ireland",
+  "placeId": "ChIJNUEKzEYHZ0gRKDbLXgZttqU",
+  "googleName": "French Revolution Dun Laoghaire",
+  "formattedAddress": "Unit 1, Marine Rd, Dún Laoghaire, Dublin, A96 AXT4, Ireland",
+  "phone": null,
+  "website": "https://frenchrevolution.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11940851336147056168",
+  "rating": 4.3,
+  "reviewCount": 167,
+  "coords": [
+    53.2934731,
+    -6.1346609
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/revolution-bakery-blackrock/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:25.272Z"
+}

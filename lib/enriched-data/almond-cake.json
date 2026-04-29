@@ -1,0 +1,32 @@
+{
+  "slug": "almond-cake",
+  "name": "Almond cake",
+  "city": "أربيل",
+  "country": "Iraq",
+  "placeId": "ChIJnwIY5GYiB0ARaYAdfETLrgA",
+  "googleName": "Almond cake",
+  "formattedAddress": "سايدين بختيارى, Erbil, Erbil Governorate, Iraq",
+  "phone": "0750 777 7408",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=49200140948177001",
+  "rating": 4.4,
+  "reviewCount": 581,
+  "coords": [
+    36.2013434,
+    43.993464
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/almond-cake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:37:28.674Z"
+}

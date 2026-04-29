@@ -1,0 +1,32 @@
+{
+  "slug": "cakeyard-ke-kajiado",
+  "name": "Cakeyard.KE",
+  "city": "Kajiado",
+  "country": "Kenya",
+  "placeId": "ChIJKV_kREoFLxgR4VOMCRd_gsU",
+  "googleName": "Cakeyard.KE",
+  "formattedAddress": "Ongata Rongai, Nairobi, Kenya",
+  "phone": "0799 184183",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14232077509365355489",
+  "rating": 5,
+  "reviewCount": 21,
+  "coords": [
+    -1.3906887,
+    36.7669635
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakeyard-ke-kajiado/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:53:10.881Z"
+}

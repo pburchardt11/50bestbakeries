@@ -1,0 +1,32 @@
+{
+  "slug": "abo-raffil",
+  "name": "Abo Raffil",
+  "city": "بغداد",
+  "country": "Iraq",
+  "placeId": "ChIJUyod9MmBVxURZuYomY40s-g",
+  "googleName": "Abu Rafil Sweets",
+  "formattedAddress": "داخل الفرع, Karada Kharidge, Baghdad, Baghdad Governorate, Iraq",
+  "phone": "0790 184 0070",
+  "website": "https://www.facebook.com/aburafil.iq/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16767803624690083430",
+  "rating": 4,
+  "reviewCount": 244,
+  "coords": [
+    33.2926472,
+    44.4168348
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 12:00 AM",
+    "Tuesday: 8:30 AM – 12:00 AM",
+    "Wednesday: 8:30 AM – 12:00 AM",
+    "Thursday: 8:30 AM – 12:00 AM",
+    "Friday: 8:30 AM – 12:00 AM",
+    "Saturday: 8:30 AM – 12:00 AM",
+    "Sunday: 8:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/abo-raffil/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:39:17.108Z"
+}

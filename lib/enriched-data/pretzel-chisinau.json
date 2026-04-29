@@ -1,0 +1,32 @@
+{
+  "slug": "pretzel-chisinau",
+  "name": "Pretzel",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJ16Yxk0B9yUARIE1VVR7alvA",
+  "googleName": "Panni Bakery",
+  "formattedAddress": "Bulevardul Ștefan cel Mare și Sfînt 133 Nicolae Costin 29, Strada Alba Iulia 75/15, ALFA, Moldova",
+  "phone": "0788 68 406",
+  "website": "https://instagram.com/pannibakery_md/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17336283639424830752",
+  "rating": 4.9,
+  "reviewCount": 35,
+  "coords": [
+    47.0354587,
+    28.7723612
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pretzel-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:22:23.236Z"
+}

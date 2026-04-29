@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-albert-le-bon-pain-cayenne",
+  "name": "Boulangerie Albert Le Bon Pain",
+  "city": "Cayenne",
+  "country": "French Guiana",
+  "placeId": "ChIJ-_J3_iQ9Eo0RilQVHoKMat4",
+  "googleName": "Boulangerie Albert Le Bon Pain Cayenne",
+  "formattedAddress": "27, 97300 Rte de la Madeleine, Cayenne 97300, French Guiana",
+  "phone": "0594 28 11 54",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16026776714429682826",
+  "rating": 4,
+  "reviewCount": 157,
+  "coords": [
+    4.9348833,
+    -52.3271355
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:00 PM",
+    "Tuesday: 5:00 AM – 7:00 PM",
+    "Wednesday: 5:00 AM – 7:00 PM",
+    "Thursday: 5:00 AM – 7:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 5:00 AM – 7:00 PM",
+    "Sunday: 5:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-albert-le-bon-pain-cayenne/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:52.771Z"
+}

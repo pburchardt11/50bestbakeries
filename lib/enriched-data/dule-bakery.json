@@ -1,0 +1,32 @@
+{
+  "slug": "dule-bakery",
+  "name": "Dule Bakery / „“",
+  "city": "Јурумлери",
+  "country": "North Macedonia",
+  "placeId": "ChIJg9AqYwA_VBMRLUlo13uK9Fk",
+  "googleName": "Пекара Дуле",
+  "formattedAddress": "XH83+4FQ, Jurumleri, North Macedonia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6481958028192532781",
+  "rating": 4.5,
+  "reviewCount": 45,
+  "coords": [
+    41.964822,
+    21.553582
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:00 PM",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dule-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:42:39.174Z"
+}

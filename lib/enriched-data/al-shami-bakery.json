@@ -1,0 +1,32 @@
+{
+  "slug": "al-shami-bakery",
+  "name": "Al Shami Bakery",
+  "city": "أربيل",
+  "country": "Iraq",
+  "placeId": "ChIJr72ANHMiB0ARPkxw4ZDWeI0",
+  "googleName": "Shami Bakery – نانەوای شامی",
+  "formattedAddress": "6X6W+PG4, Erbil, Erbil Governorate, Iraq",
+  "phone": "0750 324 4544",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10194133674298985534",
+  "rating": 4.1,
+  "reviewCount": 271,
+  "coords": [
+    36.2117694,
+    43.9963413
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:30 AM",
+    "Tuesday: 7:00 AM – 12:30 AM",
+    "Wednesday: 7:00 AM – 12:30 AM",
+    "Thursday: 7:00 AM – 12:30 AM",
+    "Friday: 7:00 AM – 12:30 AM",
+    "Saturday: 7:00 AM – 12:30 AM",
+    "Sunday: 7:00 AM – 12:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-shami-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:37:19.705Z"
+}

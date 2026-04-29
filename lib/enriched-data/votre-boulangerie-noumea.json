@@ -1,0 +1,24 @@
+{
+  "slug": "votre-boulangerie-noumea",
+  "name": "Votre Boulangerie",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJ851IyCYIKGwRTlCrP4tAG0M",
+  "googleName": "Votre Boulangerie",
+  "formattedAddress": "213 Rue Auguste Benebig, Nouméa 98800, New Caledonia",
+  "phone": "29.71.00",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4835529591725183054",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "coords": [
+    -22.2676001,
+    166.4622747
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/votre-boulangerie-noumea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:12.521Z"
+}

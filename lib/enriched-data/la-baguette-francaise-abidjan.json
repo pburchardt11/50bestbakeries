@@ -1,0 +1,32 @@
+{
+  "slug": "la-baguette-francaise-abidjan",
+  "name": "La baguette française",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJb1dQ70brwQ8R0Q5J--u7LLU",
+  "googleName": "LA BAGUETTE FRANCAISE",
+  "formattedAddress": "9292+CH6, K 64, Abidjan, Côte d'Ivoire",
+  "phone": "07 08 98 8154",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13055016042047803089",
+  "rating": 3.9,
+  "reviewCount": 275,
+  "coords": [
+    5.3685357,
+    -3.9986149
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:30 PM",
+    "Tuesday: 6:00 AM – 10:30 PM",
+    "Wednesday: 6:00 AM – 10:30 PM",
+    "Thursday: 6:00 AM – 10:30 PM",
+    "Friday: 6:00 AM – 10:30 PM",
+    "Saturday: 6:00 AM – 10:30 PM",
+    "Sunday: 6:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-baguette-francaise-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:44:49.327Z"
+}

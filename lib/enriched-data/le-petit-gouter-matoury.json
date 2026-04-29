@@ -1,0 +1,32 @@
+{
+  "slug": "le-petit-gouter-matoury",
+  "name": "Le Petit Goûter",
+  "city": "Matoury",
+  "country": "French Guiana",
+  "placeId": "ChIJ-Xx8hnY-Eo0RwhqjAEHrHxY",
+  "googleName": "Le Petit Goûter",
+  "formattedAddress": "Rue de la Distillerie, Matoury, 97351, Matoury 97351, French Guiana",
+  "phone": "0594 30 67 31",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1594251457528535746",
+  "rating": 3.2,
+  "reviewCount": 12,
+  "coords": [
+    4.8750509,
+    -52.3342136
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 1:30 PM, 3:30 – 7:00 PM",
+    "Wednesday: 6:00 AM – 1:30 PM, 3:30 – 7:00 PM",
+    "Thursday: 6:00 AM – 1:30 PM, 3:30 – 7:00 PM",
+    "Friday: 6:00 AM – 1:30 PM, 3:30 – 7:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-petit-gouter-matoury/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:03.436Z"
+}

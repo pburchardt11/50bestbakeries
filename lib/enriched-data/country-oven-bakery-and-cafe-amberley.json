@@ -1,0 +1,32 @@
+{
+  "slug": "country-oven-bakery-and-cafe-amberley",
+  "name": "Country Oven Bakery and Cafe",
+  "city": "Amberley",
+  "country": "New Zealand",
+  "placeId": "ChIJURQjIbqkMW0RlM5nVyMWoK4",
+  "googleName": "Country Oven Bakery and Cafe",
+  "formattedAddress": "121 Carters Road, Amberley 7481, New Zealand",
+  "phone": "03 314 9424",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12583081699919253140",
+  "rating": 4,
+  "reviewCount": 239,
+  "coords": [
+    -43.1569036,
+    172.7315448
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/country-oven-bakery-and-cafe-amberley/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:11.537Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "premium-bakery-gracanice",
+  "name": "Premium Bakery",
+  "city": "Graçanicë",
+  "country": "Kosovo",
+  "placeId": "ChIJvyO-ue-eVBMRU-i7ctjUJdQ",
+  "googleName": "Premium Bakery & Café",
+  "formattedAddress": "47 Robert Doll, Prishtinë 10000",
+  "phone": null,
+  "website": "http://www.premiumbakery.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15286858536281958483",
+  "rating": 4.5,
+  "reviewCount": 11,
+  "coords": [
+    42.6557874,
+    21.1551136
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/premium-bakery-gracanice/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:55:22.191Z"
+}

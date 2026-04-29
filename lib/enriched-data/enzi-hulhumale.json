@@ -1,0 +1,32 @@
+{
+  "slug": "enzi-hulhumale",
+  "name": "Enzi",
+  "city": "Hulhumale",
+  "country": "Maldives",
+  "placeId": "ChIJmzXNPVR_PzsR8LmnqHzdxRY",
+  "googleName": "Enzi 2 Fish & Bakery Shop",
+  "formattedAddress": "Irudheymaa Hingun, Malé, Maldives",
+  "phone": "725-8899",
+  "website": "http://www.enzi.mv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1640961166721661424",
+  "rating": 4.3,
+  "reviewCount": 61,
+  "coords": [
+    4.2144406,
+    73.5416231
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:30 PM",
+    "Tuesday: 6:30 AM – 10:30 PM",
+    "Wednesday: 6:30 AM – 10:30 PM",
+    "Thursday: 6:30 AM – 10:30 PM",
+    "Friday: Closed",
+    "Saturday: 6:30 AM – 10:30 PM",
+    "Sunday: 6:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/enzi-hulhumale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:13:07.519Z"
+}

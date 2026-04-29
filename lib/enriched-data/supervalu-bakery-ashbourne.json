@@ -1,0 +1,32 @@
+{
+  "slug": "supervalu-bakery-ashbourne",
+  "name": "Supervalu Bakery Ashbourne",
+  "city": "Ashbourne",
+  "country": "Ireland",
+  "placeId": "ChIJP7nrQz4VZ0gRPiMIlzBRjw8",
+  "googleName": "SuperValu Ashbourne",
+  "formattedAddress": "15, Killegland, Ashbourne, Co. Meath, A84 NX61, Ireland",
+  "phone": "(01) 835 2186",
+  "website": "https://supervalu.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1121204101372715838",
+  "rating": 4.4,
+  "reviewCount": 663,
+  "coords": [
+    53.5129664,
+    -6.398810300000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Discount supermarket chain specialising in own-brand groceries & Irish produce.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/supervalu-bakery-ashbourne/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:39:55.604Z"
+}

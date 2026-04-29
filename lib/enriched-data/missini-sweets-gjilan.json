@@ -1,0 +1,32 @@
+{
+  "slug": "missini-sweets-gjilan",
+  "name": "Missini Sweets",
+  "city": "Gjilan",
+  "country": "Kosovo",
+  "placeId": "ChIJpxB2oECNVBMRO2r3mY6gIuw",
+  "googleName": "MISSINI Sweets",
+  "formattedAddress": "FF89+CCW, Adem Jashari, Gjilan 60000",
+  "phone": "045 205 406",
+  "website": "https://www.facebook.com/missinisweetsofficial",
+  "googleMapsUrl": "https://maps.google.com/?cid=17015338876488084027",
+  "rating": 3.5,
+  "reviewCount": 28,
+  "coords": [
+    42.4660625,
+    21.4685625
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/missini-sweets-gjilan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:55:15.539Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bakkerij-huijsgemaakt-s-gravenzande",
+  "name": "Bakkerij Huijsgemaakt",
+  "city": "'s-Gravenzande",
+  "country": "Netherlands",
+  "placeId": "ChIJicw4paOtxUcRBq2Ez1urqLw",
+  "googleName": "Bakkerij Huijsgemaakt",
+  "formattedAddress": "Graaf Willem ll Straat 2, 2691 MW 's-Gravenzande, Netherlands",
+  "phone": "0174 507 604",
+  "website": "https://huijsgemaakt.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13594303886029794566",
+  "rating": 4.6,
+  "reviewCount": 83,
+  "coords": [
+    52.0027822,
+    4.162075499999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 5:30 PM",
+    "Wednesday: 7:30 AM – 5:30 PM",
+    "Thursday: 7:30 AM – 5:30 PM",
+    "Friday: 7:30 AM – 5:30 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: 8:30 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-huijsgemaakt-s-gravenzande/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:33:48.764Z"
+}

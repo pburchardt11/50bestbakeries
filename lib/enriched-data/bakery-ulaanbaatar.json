@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-ulaanbaatar",
+  "name": "bakery",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJS8EwCuiTll0RYGMAvbjidCc",
+  "googleName": "Artisan Sourdough Bakery",
+  "formattedAddress": "WW96+V8J, CHD - 1 khoroo, Ulaanbaatar 15170, Mongolia",
+  "phone": "7745 7600",
+  "website": "https://www.facebook.com/artisansourdoughbakery?mibextid=LQQJ4d",
+  "googleMapsUrl": "https://maps.google.com/?cid=2843146547850404704",
+  "rating": 4.7,
+  "reviewCount": 132,
+  "coords": [
+    47.9197768,
+    106.9108162
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:24:19.643Z"
+}

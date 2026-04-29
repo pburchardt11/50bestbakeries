@@ -1,0 +1,32 @@
+{
+  "slug": "tendita-bakery-kotor",
+  "name": "Tendita Bakery",
+  "city": "Kotor",
+  "country": "Montenegro",
+  "placeId": "ChIJHwE1T7ozTBMRA10Y7kcQe9I",
+  "googleName": "Tendita Bakery",
+  "formattedAddress": "Dobrota 55, Dobrota 85330, Montenegro",
+  "phone": "067 553 461",
+  "website": "https://www.instagram.com/tendita_bakery_/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15166734071223573763",
+  "rating": 4.9,
+  "reviewCount": 58,
+  "coords": [
+    42.4352216,
+    18.7681723
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:00 PM",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tendita-bakery-kotor/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:43.427Z"
+}

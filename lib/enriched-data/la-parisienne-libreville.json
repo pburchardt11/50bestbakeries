@@ -1,0 +1,32 @@
+{
+  "slug": "la-parisienne-libreville",
+  "name": "La Parisienne",
+  "city": "Libreville",
+  "country": "Gabon",
+  "placeId": "ChIJI0h5Q1Q7fxARbp8rwguWHu4",
+  "googleName": "La Parisienne",
+  "formattedAddress": "9CRX+67X, Libreville, Gabon",
+  "phone": "065 10 71 58",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17158316607574613870",
+  "rating": 4,
+  "reviewCount": 21,
+  "coords": [
+    0.3906094,
+    9.4482254
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 6:00 PM",
+    "Sunday: 6:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-parisienne-libreville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:18.909Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-la-fine-bouchee-fort-de-france",
+  "name": "Patisserie la Fine Bouchée",
+  "city": "Fort-de-France",
+  "country": "Martinique",
+  "placeId": "ChIJh2oDFNqmaowRYFH5qtaPaX8",
+  "googleName": "Patisserie la Fine Bouchée",
+  "formattedAddress": "88-94 Rte des Religieuses, Fort-de-France 97200, Martinique",
+  "phone": "0596 63 71 41",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9181027467525706080",
+  "rating": 4,
+  "reviewCount": 55,
+  "coords": [
+    14.6119225,
+    -61.05996270000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: Open 24 hours",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-la-fine-bouchee-fort-de-france/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:17:03.260Z"
+}

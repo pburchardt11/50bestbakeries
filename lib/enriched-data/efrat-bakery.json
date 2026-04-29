@@ -1,0 +1,32 @@
+{
+  "slug": "efrat-bakery",
+  "name": "Efrat Bakery",
+  "city": "אבו גוש",
+  "country": "Israel",
+  "placeId": "ChIJHxxhEx7cAhURbkVLZ0Pfj0g",
+  "googleName": "פת במלח Pat Ba'Melach Bakery",
+  "formattedAddress": "Efrat",
+  "phone": "02-502-0262",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5228643172989224302",
+  "rating": 4.6,
+  "reviewCount": 337,
+  "coords": [
+    31.6515109,
+    35.1537633
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/efrat-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:55.984Z"
+}

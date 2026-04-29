@@ -1,0 +1,32 @@
+{
+  "slug": "crafty-cakes-fiji-suva",
+  "name": "Crafty Cakes Fiji",
+  "city": "Suva",
+  "country": "Fiji",
+  "placeId": "ChIJM0HdK3PhG24RVNFIIj7eUS0",
+  "googleName": "Crafty Cakes",
+  "formattedAddress": "75 Ratu Dovi Rd, nadera, Fiji",
+  "phone": "900 4272",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3265635563264856404",
+  "rating": 3.2,
+  "reviewCount": 9,
+  "coords": [
+    -18.1013877,
+    178.4910525
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:30 PM",
+    "Tuesday: 8:30 AM – 6:30 PM",
+    "Wednesday: 8:30 AM – 6:30 PM",
+    "Thursday: 8:30 AM – 6:30 PM",
+    "Friday: 8:30 AM – 6:30 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crafty-cakes-fiji-suva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:09:39.580Z"
+}

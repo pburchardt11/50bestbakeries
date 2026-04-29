@@ -1,0 +1,32 @@
+{
+  "slug": "pop-s-bakeshop-agat",
+  "name": "Pop's Bakeshop",
+  "city": "Agat",
+  "country": "Guam",
+  "placeId": "ChIJMeunuHhxH2cRU0HVtYT-Fro",
+  "googleName": "Pop's Bakeshop",
+  "formattedAddress": "237 Pereno Street, Hågat, 96929, Guam",
+  "phone": "(671) 565-5113",
+  "website": "http://popsbakeshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13409184786482020691",
+  "rating": 4.4,
+  "reviewCount": 189,
+  "coords": [
+    13.3952344,
+    144.6632646
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 5:00 AM – 1:00 PM",
+    "Wednesday: 5:00 AM – 1:00 PM",
+    "Thursday: 5:00 AM – 1:00 PM",
+    "Friday: 5:00 AM – 1:00 PM",
+    "Saturday: 5:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pop-s-bakeshop-agat/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:22:17.231Z"
+}

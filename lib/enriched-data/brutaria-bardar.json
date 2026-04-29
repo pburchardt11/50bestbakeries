@@ -1,0 +1,32 @@
+{
+  "slug": "brutaria-bardar",
+  "name": "Brutăria Bardar",
+  "city": "Bardar",
+  "country": "Moldova",
+  "placeId": "ChIJ7bw6IeiAyUARS1CcxuXhMgI",
+  "googleName": "Brutăria Bardar",
+  "formattedAddress": "str. Aurel David 79, Bardar, Moldova",
+  "phone": "0690 82 567",
+  "website": "http://brutariabardar.md/",
+  "googleMapsUrl": "https://maps.google.com/?cid=158437313907281995",
+  "rating": 4.1,
+  "reviewCount": 93,
+  "coords": [
+    46.9041047,
+    28.6742452
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brutaria-bardar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:20:16.799Z"
+}

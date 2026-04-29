@@ -1,0 +1,32 @@
+{
+  "slug": "buregdzinica-kod-sulja-cetinje",
+  "name": "Buregdžinica Kod Sulja",
+  "city": "Cetinje",
+  "country": "Montenegro",
+  "placeId": "ChIJ396kM17OTRMR09-PHTbsg0M",
+  "googleName": "Buregdzinica \"Kod Sulja\"",
+  "formattedAddress": "36 Ivanbegova, Cetinje 81250, Montenegro",
+  "phone": "068 433 342",
+  "website": "http://www.facebook.com/kodsulja",
+  "googleMapsUrl": "https://maps.google.com/?cid=4864991739658624979",
+  "rating": 4.7,
+  "reviewCount": 161,
+  "coords": [
+    42.3901343,
+    18.9273516
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: 7:00 – 11:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/buregdzinica-kod-sulja-cetinje/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:16.401Z"
+}

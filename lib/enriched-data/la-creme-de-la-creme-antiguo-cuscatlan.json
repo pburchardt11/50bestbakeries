@@ -1,0 +1,32 @@
+{
+  "slug": "la-creme-de-la-creme-antiguo-cuscatlan",
+  "name": "La Crème de la Crème",
+  "city": "Antiguo Cuscatlán",
+  "country": "El Salvador",
+  "placeId": "ChIJyRmdEPExY48RLjCgaaJ3GEY",
+  "googleName": "La Crème de la Crème",
+  "formattedAddress": "Plaza Tunal, Avenida Albert Einstein 6, El Salvador",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5050918521536524334",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    13.6782294,
+    -89.23518229999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-creme-de-la-creme-antiguo-cuscatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:03:16.980Z"
+}

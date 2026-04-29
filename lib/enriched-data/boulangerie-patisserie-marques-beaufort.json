@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-marques-beaufort",
+  "name": "Boulangerie-Patisserie Marques",
+  "city": "Beaufort",
+  "country": "Luxembourg",
+  "placeId": "ChIJBfdQtZBYlUcR9MYWhcIVkmU",
+  "googleName": "Boulangerie-Pâtisserie Marques",
+  "formattedAddress": "52 Grand-Rue, 6310 Beaufort, Luxembourg",
+  "phone": "83 68 51",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7318936269631178484",
+  "rating": 4.4,
+  "reviewCount": 404,
+  "coords": [
+    49.8367353,
+    6.291454099999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-marques-beaufort/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:01.340Z"
+}

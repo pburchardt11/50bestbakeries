@@ -1,0 +1,24 @@
+{
+  "slug": "bake-my-day-kline",
+  "name": "Bake My Day",
+  "city": "Klinë",
+  "country": "Kosovo",
+  "placeId": "ChIJdb5pnkcPUxMRNOt8luUYxXg",
+  "googleName": "Bake My Day",
+  "formattedAddress": "JH8G+G97, Abedin Rexha, Klinë 32000",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8702389229314698036",
+  "rating": 3.4,
+  "reviewCount": 26,
+  "coords": [
+    42.6162974,
+    20.5759207
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-my-day-kline/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:55:26.808Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "laurenat-car-hzk-antsirabe",
+  "name": "Laurenat car - HZK",
+  "city": "Antsirabe",
+  "country": "Madagascar",
+  "placeId": "ChIJtz-hDFwP5SERv74qV01OxuM",
+  "googleName": "The Black Cat",
+  "formattedAddress": "Ampihavina, Antsirabé 110, Madagascar",
+  "phone": "034 80 466 60",
+  "website": "https://blackcat-antsirabe.netlify.app/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16412891986080218815",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -19.8560688,
+    47.0328132
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laurenat-car-hzk-antsirabe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:11:22.389Z"
+}

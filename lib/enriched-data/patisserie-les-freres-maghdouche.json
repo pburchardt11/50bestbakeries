@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-les-freres-maghdouche",
+  "name": "Patisserie Les Freres",
+  "city": "Maghdouche",
+  "country": "Lebanon",
+  "placeId": "ChIJDRED7d7xHhURHaOnRSSYvss",
+  "googleName": "Patisserie Les Frères",
+  "formattedAddress": "G9CP+QJC, Maghdoucheh, Lebanon",
+  "phone": "70 108 640",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14681339116829254429",
+  "rating": 3.9,
+  "reviewCount": 11,
+  "coords": [
+    33.5219376,
+    35.3865277
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-les-freres-maghdouche/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:03:00.400Z"
+}

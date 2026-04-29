@@ -1,0 +1,32 @@
+{
+  "slug": "mosfellsbakari-mosfellsb-r",
+  "name": "Mosfellsbakarí",
+  "city": "Mosfellsbær",
+  "country": "Iceland",
+  "placeId": "ChIJx_EYU7921kgRsJQz8_30MuA",
+  "googleName": "Mosfellsbakarí",
+  "formattedAddress": "Bjarkarholt 3-5, 270 Mosfellsbær, Iceland",
+  "phone": "566 6145",
+  "website": "http://mosfellsbakari.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16155244184875537584",
+  "rating": 4.5,
+  "reviewCount": 341,
+  "coords": [
+    64.1654545,
+    -21.697188
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mosfellsbakari-mosfellsb-r/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:32.013Z"
+}

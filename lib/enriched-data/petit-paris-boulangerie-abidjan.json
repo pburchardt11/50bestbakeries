@@ -1,0 +1,32 @@
+{
+  "slug": "petit-paris-boulangerie-abidjan",
+  "name": "Petit Paris Boulangerie",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJUxf0-O3BwQ8RLS2iSENdFUY",
+  "googleName": "Petit Paris - Rue de Maroc",
+  "formattedAddress": "0000, Abidjan, Côte d'Ivoire",
+  "phone": "07 67 67 6704",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5050045100728659245",
+  "rating": 4.2,
+  "reviewCount": 58,
+  "coords": [
+    5.345289,
+    -4.1001461
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 AM",
+    "Tuesday: 8:00 AM – 2:00 AM",
+    "Wednesday: 8:00 AM – 2:00 AM",
+    "Thursday: 8:00 AM – 2:00 AM",
+    "Friday: 8:00 AM – 2:00 AM",
+    "Saturday: 8:00 AM – 2:00 AM",
+    "Sunday: 8:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/petit-paris-boulangerie-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:44:12.950Z"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "the-cake-shop",
+  "name": "The Cake Shop",
+  "city": "بغداد",
+  "country": "Iraq",
+  "placeId": "ChIJewRhyQl_VxURnO47cl4fa30",
+  "googleName": "The Cake Shop",
+  "formattedAddress": "جسر الجادرية، Baghdad, Baghdad Governorate, Iraq",
+  "phone": "0780 018 1818",
+  "website": "https://m.facebook.com/Thecakeshopbaghdad/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9037351567752949404",
+  "rating": 4.1,
+  "reviewCount": 80,
+  "coords": [
+    33.2818612,
+    44.3823513
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-shop/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:38:58.069Z"
+}

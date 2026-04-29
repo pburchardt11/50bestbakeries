@@ -1,0 +1,32 @@
+{
+  "slug": "firmin-antilles-les-abymes",
+  "name": "Firmin Antilles",
+  "city": "Les Abymes",
+  "country": "Guadeloupe",
+  "placeId": "ChIJL4THm5dJE4wRxi6IMjQYLB0",
+  "googleName": "Boulangerie Firmin Morne Vergain",
+  "formattedAddress": "Imm. Marché Conseil, Morne Vergain 97139, Les Abymes 97142, Guadeloupe",
+  "phone": "0590 22 63 85",
+  "website": "http://www.boulangerie-firmin.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2102081738540330694",
+  "rating": 3.7,
+  "reviewCount": 79,
+  "coords": [
+    16.2544314,
+    -61.5234868
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:30 PM",
+    "Tuesday: 5:30 AM – 7:30 PM",
+    "Wednesday: 5:30 AM – 7:30 PM",
+    "Thursday: 5:30 AM – 7:30 PM",
+    "Friday: 5:30 AM – 7:30 PM",
+    "Saturday: 5:30 AM – 7:30 PM",
+    "Sunday: 5:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/firmin-antilles-les-abymes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:21:47.734Z"
+}

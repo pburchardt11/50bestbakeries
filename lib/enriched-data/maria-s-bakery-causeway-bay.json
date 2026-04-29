@@ -1,0 +1,32 @@
+{
+  "slug": "maria-s-bakery-causeway-bay",
+  "name": "Maria’s Bakery",
+  "city": "Causeway Bay",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJHxT4FVYBBDQRdWN1LHwFDu8",
+  "googleName": "Maria's Bakery",
+  "formattedAddress": "Shop D, G/F, Pun Tak Building, 21-27 Percival St, Causeway Bay, Hong Kong",
+  "phone": "2880 0127",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17225711655618700149",
+  "rating": 4.1,
+  "reviewCount": 34,
+  "coords": [
+    22.2803331,
+    114.1823903
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maria-s-bakery-causeway-bay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:37.943Z"
+}

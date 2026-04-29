@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-belcourt-passion-baie-mahault",
+  "name": "Boulangerie Belcourt Passion",
+  "city": "Baie-Mahault",
+  "country": "Guadeloupe",
+  "placeId": "ChIJdcLBU2lDE4wRfCTkndz_IZE",
+  "googleName": "DUMBO Bakery",
+  "formattedAddress": "24 Rue Gaston Monnerville, Baie-Mahault 97122, Guadeloupe",
+  "phone": "0690 67 38 82",
+  "website": "https://dumbo-bakery.sumupstore.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10457921132737864828",
+  "rating": 4.9,
+  "reviewCount": 60,
+  "coords": [
+    16.2611346,
+    -61.59129669999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: 9:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-belcourt-passion-baie-mahault/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:20:32.041Z"
+}

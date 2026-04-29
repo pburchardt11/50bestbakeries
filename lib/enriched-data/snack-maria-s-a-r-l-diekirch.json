@@ -1,0 +1,32 @@
+{
+  "slug": "snack-maria-s-a-r-l-diekirch",
+  "name": "Snack Maria S.a R.l.",
+  "city": "Diekirch",
+  "country": "Luxembourg",
+  "placeId": "ChIJIe9l8JP9v0cRme7EkWSuQnc",
+  "googleName": "Snack Maria S.a R.l.",
+  "formattedAddress": "17 Esplanade, 9227 Diekirch, Luxembourg",
+  "phone": "26 80 38 47",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8593622785941892761",
+  "rating": 4.8,
+  "reviewCount": 16,
+  "coords": [
+    49.8702778,
+    6.16
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 2:30 PM",
+    "Tuesday: 6:30 AM – 5:00 PM",
+    "Wednesday: 6:30 AM – 5:00 PM",
+    "Thursday: 6:30 AM – 5:00 PM",
+    "Friday: 6:30 AM – 5:00 PM",
+    "Saturday: 6:30 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/snack-maria-s-a-r-l-diekirch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:42.123Z"
+}

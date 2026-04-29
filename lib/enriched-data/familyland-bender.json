@@ -1,0 +1,32 @@
+{
+  "slug": "familyland-bender",
+  "name": "FamilyLand",
+  "city": "Bender",
+  "country": "Moldova",
+  "placeId": "ChIJ508kYlgHyUARoOgIukUba6U",
+  "googleName": "FamilyLand",
+  "formattedAddress": "Strada Lenin 21, MD-3200, Tighina, Moldova",
+  "phone": "0779 90 962",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11919650825053989024",
+  "rating": 4.6,
+  "reviewCount": 295,
+  "coords": [
+    46.8223908,
+    29.484458
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 7:30 AM – 10:00 PM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/familyland-bender/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:20:20.845Z"
+}

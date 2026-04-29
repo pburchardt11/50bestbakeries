@@ -1,0 +1,32 @@
+{
+  "slug": "duncan-s-bakery-duncans",
+  "name": "Duncan's bakery",
+  "city": "Duncans",
+  "country": "Jamaica",
+  "placeId": "ChIJO7_QLklL2o4RNXVgGHBlcPs",
+  "googleName": "Duncans Bakery",
+  "formattedAddress": "FF97+75Q, Main Road, Duncans, Jamaica",
+  "phone": "(876) 954-2371",
+  "website": "https://www.facebook.com/duncansbakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=18118092833031222581",
+  "rating": 4.4,
+  "reviewCount": 73,
+  "coords": [
+    18.4682009,
+    -77.53700289999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 11:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/duncan-s-bakery-duncans/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:29.759Z"
+}

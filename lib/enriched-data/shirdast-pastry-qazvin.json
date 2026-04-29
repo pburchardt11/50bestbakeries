@@ -1,0 +1,32 @@
+{
+  "slug": "shirdast-pastry-qazvin",
+  "name": "Shirdast Pastry",
+  "city": "Qazvin",
+  "country": "Iran",
+  "placeId": "ChIJFWHAAkZV8z8RBCAOBb-V02Q",
+  "googleName": "Shirdast Pastry",
+  "formattedAddress": "Qazvin Province, Qazvin, Ayatollah Modarres Blvd, 72G6+J6H, Iran",
+  "phone": "028 3336 4311",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7265315271534845956",
+  "rating": 3.3,
+  "reviewCount": 22,
+  "coords": [
+    36.2765519,
+    50.0106192
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shirdast-pastry-qazvin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:35:48.393Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cherry-bakery-ulaanbaatar",
+  "name": "Cherry bakery",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJuTDezFGSll0RfLGalbcrhqo",
+  "googleName": "Cherry Bakery",
+  "formattedAddress": "WW74+VVG Prime Minister Tserendorj St, SBD - 4 khoroo, Ulaanbaatar 14250, Mongolia",
+  "phone": "7012 1202",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12287556700815929724",
+  "rating": 4.2,
+  "reviewCount": 87,
+  "coords": [
+    47.9146942,
+    106.9071892
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cherry-bakery-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:23:24.957Z"
+}

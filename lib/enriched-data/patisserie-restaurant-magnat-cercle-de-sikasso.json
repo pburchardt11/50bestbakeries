@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-restaurant-magnat-cercle-de-sikasso",
+  "name": "Patisserie Restaurant Magnat",
+  "city": "Cercle de Sikasso",
+  "country": "Mali",
+  "placeId": "ChIJTVaHfvpVSg4Rmj8W-Upz9bU",
+  "googleName": "Magnat Pâtisserie Restaurant",
+  "formattedAddress": "Hamdallay, Sikasso, Mali",
+  "phone": "71 92 35 12",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13111512656002826138",
+  "rating": 4.5,
+  "reviewCount": 6,
+  "coords": [
+    11.312531,
+    -5.6928673
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:30 PM",
+    "Tuesday: 8:00 AM – 11:30 PM",
+    "Wednesday: 8:00 AM – 11:30 PM",
+    "Thursday: 8:00 AM – 11:30 PM",
+    "Friday: 8:00 AM – 11:30 PM",
+    "Saturday: 8:00 AM – 11:30 PM",
+    "Sunday: 8:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-restaurant-magnat-cercle-de-sikasso/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:34.119Z"
+}

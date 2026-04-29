@@ -1,0 +1,32 @@
+{
+  "slug": "bagel-cafe-jerusalem",
+  "name": "Bagel Cafe",
+  "city": "Jerusalem",
+  "country": "Israel",
+  "placeId": "ChIJ_2hLtMIpAxURPzabC0YTgvM",
+  "googleName": "Bagel Cafe",
+  "formattedAddress": "Emek Refa'im St 54, Jerusalem, Israel",
+  "phone": "1-700-500-751",
+  "website": "http://www.bagelcafe.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17546608289752233535",
+  "rating": 4,
+  "reviewCount": 903,
+  "coords": [
+    31.76188639999999,
+    35.2173655
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 2:30 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bagel-cafe-jerusalem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:13.502Z"
+}

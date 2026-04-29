@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-dreams-bakery-accra",
+  "name": "Sweet Dreams Bakery",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJ2Ydhg3ub3w8RZl4vqoKeVTA",
+  "googleName": "Sweet Dreams Bakery",
+  "formattedAddress": "Next to Zion House, 10 Boundary Rd, Accra, Ghana",
+  "phone": "055 740 3566",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3482864170879114854",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    5.6283126,
+    -0.172507
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-dreams-bakery-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:45.527Z"
+}

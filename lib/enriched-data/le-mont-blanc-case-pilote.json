@@ -1,0 +1,32 @@
+{
+  "slug": "le-mont-blanc-case-pilote",
+  "name": "Le Mont Blanc",
+  "city": "Case-Pilote",
+  "country": "Martinique",
+  "placeId": "ChIJC2fm9XqnaowR9sabCmegfoA",
+  "googleName": "Le Mont Blanc",
+  "formattedAddress": "28 Rue Victor Severe, Case-Pilote 97222, Martinique",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9259014248340375286",
+  "rating": 4.4,
+  "reviewCount": 56,
+  "coords": [
+    14.6426222,
+    -61.1388311
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:30 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-mont-blanc-case-pilote/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:30.511Z"
+}

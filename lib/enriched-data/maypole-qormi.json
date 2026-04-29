@@ -1,0 +1,32 @@
+{
+  "slug": "maypole-qormi",
+  "name": "Maypole",
+  "city": "Qormi",
+  "country": "Malta",
+  "placeId": "ChIJ0b4uXHVQDhMR-4sEZgFNpCQ",
+  "googleName": "Maypole Qormi San Bastjan",
+  "formattedAddress": "501, Maypole Victory Street, 480 Triq Il-Vitorja, Qormi QRM 2509, Malta",
+  "phone": "2258 1531",
+  "website": "http://www.maypole.com.mt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2640319949947833339",
+  "rating": 4,
+  "reviewCount": 20,
+  "coords": [
+    35.8773494,
+    14.4763861
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maypole-qormi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:01.912Z"
+}

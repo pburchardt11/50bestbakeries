@@ -1,0 +1,32 @@
+{
+  "slug": "kkcake-laos",
+  "name": "KKCake",
+  "city": "Laos",
+  "country": "Laos",
+  "placeId": "ChIJzTrEKORnJDERBF9bkpeNv1c",
+  "googleName": "Kyo Roll En Laos - Phonsinuan",
+  "formattedAddress": "Phonsinuan, Sisattanak, Laos",
+  "phone": "020 57 709 728",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6322928083986505476",
+  "rating": 4.9,
+  "reviewCount": 54,
+  "coords": [
+    17.9646537,
+    102.6260494
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kkcake-laos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:59:14.405Z"
+}

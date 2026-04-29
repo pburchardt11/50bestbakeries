@@ -1,0 +1,32 @@
+{
+  "slug": "rahbany-bakery",
+  "name": "Rahbany bakery",
+  "city": "البترون",
+  "country": "Lebanon",
+  "placeId": "ChIJKTfRcvdZHxURRCi6jl5I8Z0",
+  "googleName": "Rahbany Bakery",
+  "formattedAddress": "7M45+FFJ, Batroun, Lebanon",
+  "phone": "70 877 829",
+  "website": "https://www.instagram.com/rahbanybakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11380957304300644420",
+  "rating": 4.7,
+  "reviewCount": 56,
+  "coords": [
+    34.2562,
+    35.6586338
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rahbany-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:03:30.731Z"
+}

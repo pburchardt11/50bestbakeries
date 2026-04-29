@@ -1,0 +1,32 @@
+{
+  "slug": "bublik-chisinau",
+  "name": "Bublik",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJ56SrtfF9yUARoBd9jw1YrA4",
+  "googleName": "Развивашка Bublik (Бублик)",
+  "formattedAddress": "Strada Petru Zadnipru 18/3, Chișinău, Moldova",
+  "phone": "0681 44 933",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1057316827790383008",
+  "rating": 4,
+  "reviewCount": 8,
+  "coords": [
+    47.0427525,
+    28.8968618
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bublik-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:30.966Z"
+}

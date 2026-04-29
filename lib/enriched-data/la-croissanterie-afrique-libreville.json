@@ -1,0 +1,32 @@
+{
+  "slug": "la-croissanterie-afrique-libreville",
+  "name": "La Croissanterie Afrique",
+  "city": "Libreville",
+  "country": "Gabon",
+  "placeId": "ChIJN34Tl8slfxARo3V-aGOIVZI",
+  "googleName": "La Croissanterie",
+  "formattedAddress": "Quartier de la Sablière Station TotalEnergies OKALA, L101, Libreville, Gabon",
+  "phone": "065 40 59 60",
+  "website": "https://www.lacroissanterie.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10544484063094142371",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    0.4680186,
+    9.404124
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-croissanterie-afrique-libreville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:02.860Z"
+}

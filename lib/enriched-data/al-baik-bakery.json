@@ -1,0 +1,32 @@
+{
+  "slug": "al-baik-bakery",
+  "name": "Al Baik Bakery",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJXaJeSo9ZGxURKPUYW-N1Jy8",
+  "googleName": "ALBAIK Bakery",
+  "formattedAddress": "Madaba Street, Amman, Jordan",
+  "phone": "07 9744 8900",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3397814063220716840",
+  "rating": 4.2,
+  "reviewCount": 105,
+  "coords": [
+    31.869337,
+    35.9286996
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 1:30 AM",
+    "Tuesday: 6:00 AM – 1:30 AM",
+    "Wednesday: 6:00 AM – 1:30 AM",
+    "Thursday: 6:00 AM – 1:30 AM",
+    "Friday: 6:00 AM – 1:30 AM",
+    "Saturday: 6:00 AM – 1:30 AM",
+    "Sunday: 6:00 AM – 1:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-baik-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:50:30.535Z"
+}

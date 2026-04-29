@@ -1,0 +1,32 @@
+{
+  "slug": "hua-mei-air-hitam",
+  "name": "Hua Mei",
+  "city": "Air Hitam",
+  "country": "Malaysia",
+  "placeId": "ChIJPxwCO8MS2jER9Sn-uK5-oTM",
+  "googleName": "Restoran Hua Mui JB",
+  "formattedAddress": "131, Jalan Trus, Bandar Johor Bahru, 80000 Johor Bahru, Johor Darul Ta'zim, Malaysia",
+  "phone": "07-224 7364",
+  "website": "https://www.huamui.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3720394056077814261",
+  "rating": 4.3,
+  "reviewCount": 5469,
+  "coords": [
+    1.4573123,
+    103.7642822
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hua-mei-air-hitam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:12:17.195Z"
+}

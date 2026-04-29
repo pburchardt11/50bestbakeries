@@ -1,0 +1,32 @@
+{
+  "slug": "la-ptite-boulangerie-noumea",
+  "name": "La Ptite Boulangerie",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJtURUVYIHKGwRIDYL1iqgvqY",
+  "googleName": "La p'tite boulangerie",
+  "formattedAddress": "QF8H+PP7, Rue Jacques Iékawé, Nouméa 98800, New Caledonia",
+  "phone": "27.76.34",
+  "website": "https://m.facebook.com/Laptiteboulangerie.nc/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12015216961711191584",
+  "rating": 4.7,
+  "reviewCount": 9,
+  "coords": [
+    -22.2332082,
+    166.4793108
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Tuesday: 6:00 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Wednesday: 6:00 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Thursday: 6:00 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Friday: 6:00 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Saturday: Closed",
+    "Sunday: 6:00 AM – 12:30 PM, 3:00 – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-ptite-boulangerie-noumea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:47.679Z"
+}

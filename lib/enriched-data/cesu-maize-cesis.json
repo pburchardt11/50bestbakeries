@@ -1,0 +1,32 @@
+{
+  "slug": "cesu-maize-cesis",
+  "name": "Cēsu Maize",
+  "city": "Cēsis",
+  "country": "Latvia",
+  "placeId": "ChIJ8etSQI_h60YRZo9BNJWY-ds",
+  "googleName": "Cēsu Maize",
+  "formattedAddress": "Rīgas iela 18, Cēsis, Cēsis pilsēta, Cēsu novads, LV-4101, Latvia",
+  "phone": "29 238 438",
+  "website": "https://veikals.cesumaize.lv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15850868130101432166",
+  "rating": 4.8,
+  "reviewCount": 116,
+  "coords": [
+    57.3119075,
+    25.2722311
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cesu-maize-cesis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:05.773Z"
+}

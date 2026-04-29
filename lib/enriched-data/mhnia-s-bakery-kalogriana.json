@@ -1,0 +1,32 @@
+{
+  "slug": "mhnia-s-bakery-kalogriana",
+  "name": "Mhnia's Bakery",
+  "city": "Kalogrianá",
+  "country": "Greece",
+  "placeId": "ChIJzQ0rFkO9oRQR-6nNuR6r43k",
+  "googleName": "Mountrichas Bakery",
+  "formattedAddress": "ΒΑΣΙΛΕΩΣ ΓΕΩΡΓΙΟΥ Β'51, Athina 116 34, Greece",
+  "phone": "21 0722 3496",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8783051846757231099",
+  "rating": 4.4,
+  "reviewCount": 183,
+  "coords": [
+    37.9723089,
+    23.749915
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mhnia-s-bakery-kalogriana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:49.534Z"
+}

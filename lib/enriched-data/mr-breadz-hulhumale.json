@@ -1,0 +1,32 @@
+{
+  "slug": "mr-breadz-hulhumale",
+  "name": "Mr. Breadz",
+  "city": "Hulhumale",
+  "country": "Maldives",
+  "placeId": "ChIJBQfECCZ_PzsRbgM5td2aDVg",
+  "googleName": "Bread Matters Centro",
+  "formattedAddress": "#21, Centro Mall (Ground Floor), Huvandhumaa Hingun, Hulhumalé, Maldives",
+  "phone": "792-1442",
+  "website": "https://www.facebook.com/breadmatterscentro/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6344897727053759342",
+  "rating": 4.1,
+  "reviewCount": 68,
+  "coords": [
+    4.2161099,
+    73.54242409999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:00 AM",
+    "Tuesday: 7:30 AM – 12:00 AM",
+    "Wednesday: 7:30 AM – 12:00 AM",
+    "Thursday: 7:30 AM – 12:00 AM",
+    "Friday: 7:30 – 10:30 AM, 4:00 PM – 12:00 AM",
+    "Saturday: 7:30 AM – 12:00 AM",
+    "Sunday: 7:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mr-breadz-hulhumale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:13:02.736Z"
+}

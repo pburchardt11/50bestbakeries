@@ -1,0 +1,32 @@
+{
+  "slug": "gusto-italiano-schaan",
+  "name": "Gusto Italiano",
+  "city": "Schaan",
+  "country": "Liechtenstein",
+  "placeId": "ChIJtSmUwW06m0cRN98qkn6Xx94",
+  "googleName": "Gusto Italiano",
+  "formattedAddress": "Landstrasse 3, 9494 Schaan, Liechtenstein",
+  "phone": "370 28 70",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16052965966659378999",
+  "rating": 4.7,
+  "reviewCount": 37,
+  "coords": [
+    47.1669442,
+    9.510178699999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 2:00 – 8:00 PM",
+    "Wednesday: 2:00 – 8:00 PM",
+    "Thursday: 2:00 – 8:00 PM",
+    "Friday: 10:00 AM – 12:00 PM, 2:00 – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gusto-italiano-schaan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:05:15.034Z"
+}

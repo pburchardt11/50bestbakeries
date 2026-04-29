@@ -1,0 +1,32 @@
+{
+  "slug": "mcsims-pastizzeria-marsaskala",
+  "name": "McSims pastizzeria",
+  "city": "Marsaskala",
+  "country": "Malta",
+  "placeId": "ChIJOwedI-hbDhMRmQ2qnSQiJ14",
+  "googleName": "McSims pastizzeria",
+  "formattedAddress": "11 Triq Sant Antnin, Wied il-Għajn, Malta",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6784428904316276121",
+  "rating": 4.4,
+  "reviewCount": 34,
+  "coords": [
+    35.862842,
+    14.5601763
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mcsims-pastizzeria-marsaskala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:25.979Z"
+}

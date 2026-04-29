@@ -1,0 +1,32 @@
+{
+  "slug": "primrose-bakehouse-dhour-ech-choueir",
+  "name": "Primrose Bakehouse",
+  "city": "Dhoûr ech Choueïr",
+  "country": "Lebanon",
+  "placeId": "ChIJnzCu90U4HxURtS3_jaRKAuU",
+  "googleName": "Noble",
+  "formattedAddress": "WP57+P2M, Choueir, Lebanon",
+  "phone": "03 666 427",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16501834055256321461",
+  "rating": 4,
+  "reviewCount": 25,
+  "coords": [
+    33.9093375,
+    35.7125609
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/primrose-bakehouse-dhour-ech-choueir/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:02:48.513Z"
+}

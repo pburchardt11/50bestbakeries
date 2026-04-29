@@ -1,0 +1,32 @@
+{
+  "slug": "guam-bakery-dededo",
+  "name": "Guam Bakery",
+  "city": "Dededo",
+  "country": "Guam",
+  "placeId": "ChIJWx3qvgSDH2cRV5Wf00muxqo",
+  "googleName": "Guam Bakery",
+  "formattedAddress": "140 Kayen Chando, Macheche, 96929, Guam",
+  "phone": "(671) 632-1161",
+  "website": "http://www.guambakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12305714663942755671",
+  "rating": 4.1,
+  "reviewCount": 62,
+  "coords": [
+    13.5139822,
+    144.8354811
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:30 PM",
+    "Tuesday: 5:00 AM – 7:30 PM",
+    "Wednesday: 5:00 AM – 7:30 PM",
+    "Thursday: 5:00 AM – 7:30 PM",
+    "Friday: 5:00 AM – 7:30 PM",
+    "Saturday: 5:00 AM – 7:30 PM",
+    "Sunday: 5:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/guam-bakery-dededo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:22:24.990Z"
+}

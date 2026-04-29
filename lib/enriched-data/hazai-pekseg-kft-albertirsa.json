@@ -1,0 +1,32 @@
+{
+  "slug": "hazai-pekseg-kft-albertirsa",
+  "name": "Hazai Pékség Kft",
+  "city": "Albertirsa",
+  "country": "Hungary",
+  "placeId": "ChIJbe1C-PKdQUcRrPC1VsWrTD0",
+  "googleName": "Hazai Pékség Kft",
+  "formattedAddress": "Albertirsa, Irsay Károly u. 30, 2730 Hungary",
+  "phone": "06 70 603 3167",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4417094198595285164",
+  "rating": 4.8,
+  "reviewCount": 69,
+  "coords": [
+    47.2382193,
+    19.6181444
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hazai-pekseg-kft-albertirsa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:32:40.852Z"
+}

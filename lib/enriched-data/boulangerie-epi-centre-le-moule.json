@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-epi-centre-le-moule",
+  "name": "Boulangerie Épi Centre",
+  "city": "Le Moule",
+  "country": "Guadeloupe",
+  "placeId": "ChIJ5ZNG6-A1E4wRlaN0iRB-brs",
+  "googleName": "Boulangerie Épi Centre",
+  "formattedAddress": "8JMM+GPM, Le Moule 97160, Guadeloupe",
+  "phone": "0590 23 77 40",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13505870942021395349",
+  "rating": 2.8,
+  "reviewCount": 21,
+  "coords": [
+    16.3337684,
+    -61.3657662
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-epi-centre-le-moule/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:21:37.985Z"
+}

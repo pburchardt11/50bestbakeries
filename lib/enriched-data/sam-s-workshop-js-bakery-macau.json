@@ -1,0 +1,32 @@
+{
+  "slug": "sam-s-workshop-js-bakery-macau",
+  "name": "Sam's workshop - Js Bakery",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJ7azSo_B7ATQRacOqAN8HT74",
+  "googleName": "Sam’s Workshop",
+  "formattedAddress": "12D Estr. de Adolfo Loureiro, Macao",
+  "phone": "2886 8885",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13713188044736742249",
+  "rating": 3.7,
+  "reviewCount": 22,
+  "coords": [
+    22.2004145,
+    113.5471502
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 8:00 PM",
+    "Tuesday: 12:00 – 8:00 PM",
+    "Wednesday: 12:00 – 8:00 PM",
+    "Thursday: 12:00 – 8:00 PM",
+    "Friday: 12:00 – 8:00 PM",
+    "Saturday: 12:00 – 8:00 PM",
+    "Sunday: 12:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sam-s-workshop-js-bakery-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:10:28.341Z"
+}

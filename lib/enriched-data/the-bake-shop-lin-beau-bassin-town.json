@@ -1,0 +1,32 @@
+{
+  "slug": "the-bake-shop-lin-beau-bassin-town",
+  "name": "The Bake Shop Lin",
+  "city": "Beau Bassin Town",
+  "country": "Mauritius",
+  "placeId": "ChIJW-wsUalFfCERKOHCzcN_TGA",
+  "googleName": "The Bake Shop Lin",
+  "formattedAddress": "6 Independence Ave, Beau Bassin-Rose Hill, Mauritius",
+  "phone": "454 6310",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6939061604818542888",
+  "rating": 4.6,
+  "reviewCount": 8,
+  "coords": [
+    -20.2358442,
+    57.4594834
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:45 AM – 5:00 PM",
+    "Wednesday: 8:45 AM – 5:00 PM",
+    "Thursday: 8:45 AM – 5:00 PM",
+    "Friday: 8:45 AM – 5:00 PM",
+    "Saturday: 8:15 AM – 4:00 PM",
+    "Sunday: 8:15 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bake-shop-lin-beau-bassin-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:18:35.589Z"
+}

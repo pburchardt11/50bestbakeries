@@ -1,0 +1,32 @@
+{
+  "slug": "gateau-espoo",
+  "name": "Gateau",
+  "city": "Espoo",
+  "country": "Finland",
+  "placeId": "ChIJ_X8rfuL0jUYRbWhxGV9vrMM",
+  "googleName": "Gateau Iso Omena markettitaso",
+  "formattedAddress": "Kauppakeskus Iso Omena, Markettaso, Piispansilta 11, 02230 Espoo, Finland",
+  "phone": "050 4370061",
+  "website": "https://www.gateau.fi/myymalat/gateau-iso-omena/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14099766987629619309",
+  "rating": 4.1,
+  "reviewCount": 26,
+  "coords": [
+    60.16199179999999,
+    24.7379739
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 12:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gateau-espoo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:10:51.100Z"
+}

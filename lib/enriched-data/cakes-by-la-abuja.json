@@ -1,0 +1,32 @@
+{
+  "slug": "cakes-by-la-abuja",
+  "name": "Cakes by LA",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "placeId": "ChIJwTOdKrcNThAR76o2kbTgZtk",
+  "googleName": "Cakes by LA",
+  "formattedAddress": "Villa Nova Estate, Apo, Abuja 900110, Federal Capital Territory, Nigeria",
+  "phone": "0906 673 3306",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15665455419989863151",
+  "rating": 4.8,
+  "reviewCount": 28,
+  "coords": [
+    8.9797133,
+    7.489984300000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-by-la-abuja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:41:47.970Z"
+}

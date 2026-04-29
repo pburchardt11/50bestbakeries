@@ -1,0 +1,32 @@
+{
+  "slug": "shwe-ou-bakery-dawei",
+  "name": "Shwe Ou Bakery",
+  "city": "Dawei",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJAaCpbGAL5TAReZkap6vM0eE",
+  "googleName": "Shwe Ou Cafe´",
+  "formattedAddress": "10 Street, Tavoy, Myanmar (Burma)",
+  "phone": "09 965 011182",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16272011966281324921",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    14.0950683,
+    98.1893228
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 12:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shwe-ou-bakery-dawei/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:30:00.172Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "helene-s-bakery-koura",
+  "name": "Helene's Bakery",
+  "city": "Koura",
+  "country": "Lebanon",
+  "placeId": "ChIJq5XD9kL3IRURNIl0jPkCTdM",
+  "googleName": "Helene's Bakery",
+  "formattedAddress": "Tripoli - Kousba Highway next to Fransabank، Btouratij, Lebanon",
+  "phone": "03 343 053",
+  "website": "https://instagram.com/helenesbakery?igshid=6osj5k0arxjh",
+  "googleMapsUrl": "https://maps.google.com/?cid=15225829186036074804",
+  "rating": 4.4,
+  "reviewCount": 59,
+  "coords": [
+    34.372615,
+    35.84684379999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/helene-s-bakery-koura/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:02:56.703Z"
+}

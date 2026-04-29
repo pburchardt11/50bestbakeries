@@ -1,0 +1,32 @@
+{
+  "slug": "paul-amman",
+  "name": "Paul",
+  "city": "Amman",
+  "country": "Jordan",
+  "placeId": "ChIJuQFmPHGgHBURCiWReNM8QoA",
+  "googleName": "PAUL Bakery & Restaurant",
+  "formattedAddress": "Abdali Mall, Amman 11118, Jordan",
+  "phone": "(06) 401 1207",
+  "website": "http://paularabia.com/?y_source=1_ODI2MTQ5MDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://maps.google.com/?cid=9242016264276223242",
+  "rating": 4.1,
+  "reviewCount": 675,
+  "coords": [
+    31.9635788,
+    35.9081161
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-amman/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:00.510Z"
+}

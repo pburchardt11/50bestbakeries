@@ -1,0 +1,32 @@
+{
+  "slug": "noble-bakery-supply-magway",
+  "name": "NOBLE Bakery Supply",
+  "city": "Magway",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJHd3wE4ByyzARI2sWmWQ5aZM",
+  "googleName": "Noble Cake",
+  "formattedAddress": "Manaw Hayi St, Between 64×62nd St, Chan Mya Thar Si Tsp, Mandalay, Myanmar (Burma)",
+  "phone": "09 256 532 070",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10622084300357921571",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    21.933161,
+    96.10932609999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/noble-bakery-supply-magway/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:30:48.408Z"
+}

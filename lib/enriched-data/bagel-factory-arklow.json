@@ -1,0 +1,32 @@
+{
+  "slug": "bagel-factory-arklow",
+  "name": "Bagel Factory",
+  "city": "Arklow",
+  "country": "Ireland",
+  "placeId": "ChIJK6QB1nXDZ0gRjMHs6iHBR14",
+  "googleName": "Taste of Italy",
+  "formattedAddress": "4 River Walk, Arklow, Co. Wicklow, Y14 AY96, Ireland",
+  "phone": "087 166 0424",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6793610914331148684",
+  "rating": 4.9,
+  "reviewCount": 202,
+  "coords": [
+    52.7989111,
+    -6.153762299999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bagel-factory-arklow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:39:48.348Z"
+}

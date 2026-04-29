@@ -1,0 +1,32 @@
+{
+  "slug": "yarmouk-bakery",
+  "name": "Yarmouk Bakery",
+  "city": "الفروانية",
+  "country": "Kuwait",
+  "placeId": "ChIJIShGCKibzz8RT9XjvOhQU9k",
+  "googleName": "​ شركة مطاحن الدقيق والمخابز الكويتية – منفذ بيع اليرموك / Kuwait Flour Mills & Bakeries Co. - Al Yarmouk Bakery",
+  "formattedAddress": "Mohammed Abdulaziz Al Wazan St, Al Kuwayt, Kuwait",
+  "phone": "2484 1866",
+  "website": "https://www.kuwaitflourmills.com/home",
+  "googleMapsUrl": "https://maps.google.com/?cid=15659949289829029199",
+  "rating": 4.7,
+  "reviewCount": 841,
+  "coords": [
+    29.310278,
+    47.9712427
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yarmouk-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:18.997Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "makaruni-riga-babite",
+  "name": "Makaruni Riga",
+  "city": "Babīte",
+  "country": "Latvia",
+  "placeId": "ChIJcUyisK7b7kYRhBHkd9MutgQ",
+  "googleName": "Maxima X",
+  "formattedAddress": "Jūrmalas iela 14, Piņķi, Babītes pagasts, Mārupes novads, LV-2107, Latvia",
+  "phone": "80 002 020",
+  "website": "http://www.maxima.lv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=339510307697463684",
+  "rating": 3.8,
+  "reviewCount": 192,
+  "coords": [
+    56.9436398,
+    23.9122205
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/makaruni-riga-babite/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:00:52.925Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "kanda-bakery-accra",
+  "name": "Kanda Bakery",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJsd8NHACb3w8RttqE-KcFoi4",
+  "googleName": "Kanda Bakery",
+  "formattedAddress": "HRM5+HHM, Accra, Ghana",
+  "phone": "059 323 4150",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3360254490958944950",
+  "rating": 4.3,
+  "reviewCount": 3,
+  "coords": [
+    5.583982,
+    -0.1910653
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kanda-bakery-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:16:50.791Z"
+}

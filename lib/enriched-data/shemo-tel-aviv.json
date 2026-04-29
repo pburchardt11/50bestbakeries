@@ -1,0 +1,32 @@
+{
+  "slug": "shemo-tel-aviv",
+  "name": "Shemo (שמו)",
+  "city": "Tel Aviv",
+  "country": "Israel",
+  "placeId": "ChIJ-WO0COlLHRURXd_YZTnreHI",
+  "googleName": "Shemo",
+  "formattedAddress": "Yehuda HaMakkabbi St 60, Tel Aviv-Yafo, Israel",
+  "phone": "03-620-2255",
+  "website": "http://www.shemo.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8248601349283438429",
+  "rating": 4.4,
+  "reviewCount": 402,
+  "coords": [
+    32.0941098,
+    34.7930638
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shemo-tel-aviv/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:32.156Z"
+}

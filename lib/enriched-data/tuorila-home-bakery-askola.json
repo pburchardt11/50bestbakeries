@@ -1,0 +1,32 @@
+{
+  "slug": "tuorila-home-bakery-askola",
+  "name": "Tuorila Home Bakery",
+  "city": "Askola",
+  "country": "Finland",
+  "placeId": "ChIJ_VklPjT3kUYRjBu93lrNnPI",
+  "googleName": "Tuorila Home Bakery",
+  "formattedAddress": "Meijeritie 4, 07230 Monninkylä, Finland",
+  "phone": "040 0843566",
+  "website": "https://www.tuorilankotileipomo.fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17482073643713108876",
+  "rating": 4.5,
+  "reviewCount": 328,
+  "coords": [
+    60.4950788,
+    25.5517936
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:00 PM",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tuorila-home-bakery-askola/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:10:42.279Z"
+}

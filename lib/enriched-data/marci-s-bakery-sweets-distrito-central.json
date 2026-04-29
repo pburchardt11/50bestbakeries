@@ -1,0 +1,32 @@
+{
+  "slug": "marci-s-bakery-sweets-distrito-central",
+  "name": "Marci's Bakery & Sweets",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJTVyrE4uFZY8RP4SlT_grk_Q",
+  "googleName": "Mey's Bakery",
+  "formattedAddress": "Avenida 2 NE, 12101 Comayagua, Honduras",
+  "phone": "9535-5154",
+  "website": "https://meysbakery.wixsite.com/meysbakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=17623478112319013951",
+  "rating": 4.7,
+  "reviewCount": 92,
+  "coords": [
+    14.4605556,
+    -87.6397777
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 2:00 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marci-s-bakery-sweets-distrito-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:28:57.896Z"
+}

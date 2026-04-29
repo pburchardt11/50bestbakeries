@@ -1,0 +1,32 @@
+{
+  "slug": "channel-islands-co-operative-vale",
+  "name": "Channel Islands Co-operative",
+  "city": "Vale",
+  "country": "Guernsey",
+  "placeId": "ChIJx6QTdOByDUgRg0Xf0jbSfR0",
+  "googleName": "Coop Royal Terrace",
+  "formattedAddress": "Glategny Esplanade, Guernsey GY1 1WN, Guernsey",
+  "phone": "01481 231155",
+  "website": "https://www.channelislands.coop/gg/food/our-stores/locale-royal-terrace/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2125085732096656771",
+  "rating": 4.1,
+  "reviewCount": 212,
+  "coords": [
+    49.4595556,
+    -2.5345517
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/channel-islands-co-operative-vale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:25:07.178Z"
+}

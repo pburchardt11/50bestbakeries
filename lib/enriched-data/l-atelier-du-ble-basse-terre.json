@@ -1,0 +1,32 @@
+{
+  "slug": "l-atelier-du-ble-basse-terre",
+  "name": "L'Atelier du Ble",
+  "city": "Basse-Terre",
+  "country": "Guadeloupe",
+  "placeId": "ChIJNT8Bc52fFIwR7BT3RsuwosY",
+  "googleName": "L'atelier du blé",
+  "formattedAddress": "Petit-Paris, 285 Av. Paul Lacave, Basse-Terre 97100, Guadeloupe",
+  "phone": "0590 81 03 71",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14313196952852305132",
+  "rating": 4.8,
+  "reviewCount": 45,
+  "coords": [
+    15.9927338,
+    -61.7202913
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-du-ble-basse-terre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:21:05.936Z"
+}

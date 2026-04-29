@@ -1,0 +1,32 @@
+{
+  "slug": "gardumu-avenija-iecava",
+  "name": "Gardumu Avēnija",
+  "city": "Iecava",
+  "country": "Latvia",
+  "placeId": "ChIJu_06RdbT6EYR2AeySjSHKqA",
+  "googleName": "Gardumu Avēnija, SIA",
+  "formattedAddress": "Skolas iela 4, Iecava, Iecavas pagasts, Bauskas novads, LV-3913, Latvia",
+  "phone": "26 317 378",
+  "website": "https://www.facebook.com/gardumuavenija/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11541185653751547864",
+  "rating": 4.9,
+  "reviewCount": 60,
+  "coords": [
+    56.5990359,
+    24.1964654
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gardumu-avenija-iecava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:40.086Z"
+}

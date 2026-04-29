@@ -1,0 +1,32 @@
+{
+  "slug": "l-epi-d-or-monaco",
+  "name": "L'Épi d'Or",
+  "city": "Monaco",
+  "country": "Monaco",
+  "placeId": "ChIJ246PDI3CzRIRG32_b1xnFow",
+  "googleName": "L’Épi d’Or",
+  "formattedAddress": "6 Rue Grimaldi, 98000 Monaco",
+  "phone": "93 30 23 45",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10094369261507018011",
+  "rating": 4.1,
+  "reviewCount": 518,
+  "coords": [
+    43.732993,
+    7.4189631
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-epi-d-or-monaco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:22:45.357Z"
+}

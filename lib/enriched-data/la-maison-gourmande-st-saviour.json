@@ -1,0 +1,32 @@
+{
+  "slug": "la-maison-gourmande-st-saviour",
+  "name": "La Maison Gourmande",
+  "city": "St Saviour",
+  "country": "Jersey",
+  "placeId": "ChIJjY2NvIVSDEgRa2BfvUzPwlM",
+  "googleName": "La Maison Gourmande",
+  "formattedAddress": "Bagatelle Parade Shops, Bagatelle Parade, Jersey JE2 7TP, Jersey",
+  "phone": "01534 768868",
+  "website": "https://laraisongourmande.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6035614379131494507",
+  "rating": 4.5,
+  "reviewCount": 36,
+  "coords": [
+    49.19667399999999,
+    -2.082596
+  ],
+  "openingHours": [
+    "Monday: 6:45 AM – 3:00 PM",
+    "Tuesday: 6:45 AM – 3:00 PM",
+    "Wednesday: 6:45 AM – 3:00 PM",
+    "Thursday: 6:45 AM – 3:00 PM",
+    "Friday: 6:45 AM – 3:00 PM",
+    "Saturday: 6:45 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-maison-gourmande-st-saviour/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:48:44.537Z"
+}

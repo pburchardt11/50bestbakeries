@@ -1,0 +1,32 @@
+{
+  "slug": "food-hall-athens",
+  "name": "Βενέτη Food Hall",
+  "city": "Athens",
+  "country": "Greece",
+  "placeId": "ChIJ0Sg5UkGXoRQRxp7JvmEJS0A",
+  "googleName": "ΦΟΥΡΝΟΣ ΒΕΝΕΤΗ FOOD HALL | Γουδί Λαϊκό",
+  "formattedAddress": "Mikras Asias 68, Athina 115 27, Greece",
+  "phone": "21 0777 2929",
+  "website": "https://fournosveneti.gr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4632806957098049222",
+  "rating": 4.1,
+  "reviewCount": 108,
+  "coords": [
+    37.983048,
+    23.765597
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/food-hall-athens/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:18:44.822Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pily-s-pasteles-esteli",
+  "name": "Pily's Pasteles",
+  "city": "Estelí",
+  "country": "Nicaragua",
+  "placeId": "ChIJo_QnTbaNcY8R8ssoRGNsXE0",
+  "googleName": "Pily’s Pasteles",
+  "formattedAddress": "Esteli, Nicaragua",
+  "phone": "5799 5962",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5574449612378917874",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    13.0930384,
+    -86.35421640000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pily-s-pasteles-esteli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:38:45.643Z"
+}

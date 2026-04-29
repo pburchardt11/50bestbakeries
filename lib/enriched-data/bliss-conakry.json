@@ -1,0 +1,32 @@
+{
+  "slug": "bliss-conakry",
+  "name": "Bliss",
+  "city": "Conakry",
+  "country": "Guinea",
+  "placeId": "ChIJA6XmhvjXHA8R7pRR7OfG6TM",
+  "googleName": "Miniere , Guinee",
+  "formattedAddress": "Miniere, Conakry, Guinea",
+  "phone": "620 17 28 88",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3740739664912422126",
+  "rating": 3.8,
+  "reviewCount": 25,
+  "coords": [
+    9.5679353,
+    -13.6625855
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:30 PM",
+    "Tuesday: 8:30 AM – 5:30 PM",
+    "Wednesday: 8:30 AM – 5:30 PM",
+    "Thursday: 8:30 AM – 5:30 PM",
+    "Friday: 8:30 AM – 5:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bliss-conakry/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:25:17.534Z"
+}

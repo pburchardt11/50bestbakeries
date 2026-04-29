@@ -1,0 +1,32 @@
+{
+  "slug": "caesars-confectionery",
+  "name": "Caesars Confectionery",
+  "city": "الأحمدى",
+  "country": "Kuwait",
+  "placeId": "ChIJW0ID4EcGzz8R-Teb4iqmMzM",
+  "googleName": "حلويات قيصر - Caesars Confectionery",
+  "formattedAddress": "Noora Complex, St. 43, Kuwait",
+  "phone": "2391 0445",
+  "website": "http://ordercaesars.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3689475222867228665",
+  "rating": 4.2,
+  "reviewCount": 492,
+  "coords": [
+    29.0850105,
+    48.1300365
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:30 PM",
+    "Tuesday: 7:30 AM – 10:30 PM",
+    "Wednesday: 7:30 AM – 10:30 PM",
+    "Thursday: 7:30 AM – 10:30 PM",
+    "Friday: 7:30 AM – 10:30 PM",
+    "Saturday: 7:30 AM – 10:30 PM",
+    "Sunday: 7:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/caesars-confectionery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:56:47.448Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "la-liste-boulangerie-patisserie-cafe-restaurant-agadir",
+  "name": "La Liste Boulangerie Pâtisserie Café Restaurant",
+  "city": "Agadir",
+  "country": "Morocco",
+  "placeId": "ChIJZ2KbDg-3sw0RDl2rvWjbskY",
+  "googleName": "La Liste Pastry Bakery Coffee Restaurant",
+  "formattedAddress": "Hay Mohammedi, Agadir 80000, Morocco",
+  "phone": "08 08 54 94 09",
+  "website": "http://laliste.ma/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5094375371414658318",
+  "rating": 3.8,
+  "reviewCount": 330,
+  "coords": [
+    30.4385734,
+    -9.5649596
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:30 PM",
+    "Tuesday: 7:00 AM – 11:30 PM",
+    "Wednesday: 7:00 AM – 11:30 PM",
+    "Thursday: 7:00 AM – 11:30 PM",
+    "Friday: 7:00 AM – 11:30 PM",
+    "Saturday: 7:00 AM – 11:30 PM",
+    "Sunday: 7:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-liste-boulangerie-patisserie-cafe-restaurant-agadir/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:27:12.705Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boutique-by-faroo-male",
+  "name": "Boutique By Faroo",
+  "city": "Malé",
+  "country": "Maldives",
+  "placeId": "ChIJSS5DIwh_PzsRjxUKFyvn7Bk",
+  "googleName": "Boutique By Faroo",
+  "formattedAddress": "5GG5+RJG, Malé, Maldives",
+  "phone": "963-4513",
+  "website": "https://www.facebook.com/FaroosZsBoutique/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1868122117708060047",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    4.1770639,
+    73.5090876
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boutique-by-faroo-male/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:00.123Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "turgaus-bakery-jonava",
+  "name": "Turgaus bakery",
+  "city": "Jonava",
+  "country": "Lithuania",
+  "placeId": "ChIJp2MS4OsP50YRnJLZzTmHo40",
+  "googleName": "Turgaus bakery",
+  "formattedAddress": "Turgaus g. 3A, 55149 Jonava, Lithuania",
+  "phone": "(0-650) 98092",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10206149862888149660",
+  "rating": 4.4,
+  "reviewCount": 119,
+  "coords": [
+    55.0762321,
+    24.2817416
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/turgaus-bakery-jonava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:06:47.891Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "maxims-pastizzeria-paola",
+  "name": "Maxims Pastizzeria",
+  "city": "Paola",
+  "country": "Malta",
+  "placeId": "ChIJt6n0We9aDhMRXUYOD7C8O78",
+  "googleName": "Maxims Pastizzeria",
+  "formattedAddress": "VG94+9QC, Tarxien, Malta",
+  "phone": "2169 3211",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13779814949223024221",
+  "rating": 4.6,
+  "reviewCount": 112,
+  "coords": [
+    35.8684352,
+    14.5068857
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maxims-pastizzeria-paola/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:58.332Z"
+}

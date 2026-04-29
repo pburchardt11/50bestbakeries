@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-panino-herceg-novi",
+  "name": "Pekara Panino",
+  "city": "Herceg Novi",
+  "country": "Montenegro",
+  "placeId": "ChIJZ4fKXbY9TBMRd55eFQ-s_AQ",
+  "googleName": "Pekara Baker King Igalo",
+  "formattedAddress": "Jovana Vavića Buturova, Igalo, Montenegro",
+  "phone": "067 855 407",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=359351251065806455",
+  "rating": 4.8,
+  "reviewCount": 20,
+  "coords": [
+    42.4597393,
+    18.5169243
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:30 PM",
+    "Tuesday: 6:00 AM – 11:30 PM",
+    "Wednesday: 6:00 AM – 11:30 PM",
+    "Thursday: 6:00 AM – 11:30 PM",
+    "Friday: 6:00 AM – 11:30 PM",
+    "Saturday: 6:00 AM – 11:30 PM",
+    "Sunday: 6:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-panino-herceg-novi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:31.537Z"
+}

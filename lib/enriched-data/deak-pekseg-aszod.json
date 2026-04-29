@@ -1,0 +1,32 @@
+{
+  "slug": "deak-pekseg-aszod",
+  "name": "Deák pékség",
+  "city": "Aszód",
+  "country": "Hungary",
+  "placeId": "ChIJr-ivyofKQUcR8JNFgsCiYkA",
+  "googleName": "Deák pékség",
+  "formattedAddress": "Aszód, Deák Ferenc u. 2, 2170 Hungary",
+  "phone": "06 30 887 1855",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4639449513848050672",
+  "rating": 4.2,
+  "reviewCount": 259,
+  "coords": [
+    47.652292,
+    19.474442
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 9:00 PM",
+    "Tuesday: 5:00 AM – 9:00 PM",
+    "Wednesday: 5:00 AM – 9:00 PM",
+    "Thursday: 5:00 AM – 9:00 PM",
+    "Friday: 5:00 AM – 9:00 PM",
+    "Saturday: 5:00 AM – 8:00 PM",
+    "Sunday: 5:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/deak-pekseg-aszod/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:32:58.442Z"
+}

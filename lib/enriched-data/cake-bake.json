@@ -1,0 +1,32 @@
+{
+  "slug": "cake-bake",
+  "name": "Cake & Bake",
+  "city": "الجهراء",
+  "country": "Kuwait",
+  "placeId": "ChIJlwiQlo72zz8RiYO9BqrMQwY",
+  "googleName": "Tabkh Alfreej And Bake N Take",
+  "formattedAddress": "2 St, Al Jahra, Kuwait",
+  "phone": "9600 4422",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=451429418296771465",
+  "rating": 4.2,
+  "reviewCount": 21,
+  "coords": [
+    29.3408125,
+    47.6712575
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-bake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:09.576Z"
+}

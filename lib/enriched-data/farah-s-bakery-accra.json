@@ -1,0 +1,32 @@
+{
+  "slug": "farah-s-bakery-accra",
+  "name": "Farah's Bakery",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJ5YHEqiqF3w8RFs9DSD6R9ck",
+  "googleName": "Farah's Bakery",
+  "formattedAddress": "20 Nii Martey Tsuru St, Accra, Ghana",
+  "phone": "024 207 0400",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14552697467604029206",
+  "rating": 4.5,
+  "reviewCount": 48,
+  "coords": [
+    5.6276454,
+    -0.145936
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farah-s-bakery-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:41.020Z"
+}

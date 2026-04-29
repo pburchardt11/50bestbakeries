@@ -1,0 +1,32 @@
+{
+  "slug": "samba-tortai-domeikava",
+  "name": "SamBa Tortai",
+  "city": "Domeikava",
+  "country": "Lithuania",
+  "placeId": "ChIJQ1D_RXwf50YRhFjgEPp87Ho",
+  "googleName": "SamBa Tortai",
+  "formattedAddress": "Žalvarnių g. 5, Domeikava, 54358 Kauno r. sav., Lithuania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8857591980597729412",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    54.9575061,
+    23.898234
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/samba-tortai-domeikava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:06:13.951Z"
+}

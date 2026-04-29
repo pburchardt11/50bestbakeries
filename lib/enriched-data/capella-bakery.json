@@ -1,0 +1,32 @@
+{
+  "slug": "capella-bakery",
+  "name": "Capella Bakery",
+  "city": "أربيل",
+  "country": "Iraq",
+  "placeId": "ChIJiUZmDjkjB0ARKhxlTeGF6Ec",
+  "googleName": "Capella Bakery - نانەواخانەی کاپێڵا",
+  "formattedAddress": "6X5J+GV4, Erbil, Erbil Governorate, Iraq",
+  "phone": "0750 828 1859",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5181538574002363434",
+  "rating": 4.4,
+  "reviewCount": 8,
+  "coords": [
+    36.2163549,
+    44.0038095
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/capella-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:37:58.355Z"
+}

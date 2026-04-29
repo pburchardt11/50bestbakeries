@@ -1,0 +1,32 @@
+{
+  "slug": "homai-bakery-auckland",
+  "name": "Homai Bakery",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJo9wXd_VNDW0RF0_b2kJqNbs",
+  "googleName": "Homai Bakery",
+  "formattedAddress": "1 Gloucester Road, Manurewa, Auckland 2102, New Zealand",
+  "phone": "09 267 0504",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13489805094230380311",
+  "rating": 4.1,
+  "reviewCount": 132,
+  "coords": [
+    -37.0147,
+    174.8752256
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 5:00 PM",
+    "Tuesday: 5:00 AM – 5:00 PM",
+    "Wednesday: 5:00 AM – 5:00 PM",
+    "Thursday: 5:00 AM – 5:00 PM",
+    "Friday: 5:00 AM – 5:00 PM",
+    "Saturday: 5:00 AM – 5:00 PM",
+    "Sunday: 5:40 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/homai-bakery-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:30.700Z"
+}

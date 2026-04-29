@@ -1,0 +1,32 @@
+{
+  "slug": "latvijas-maiznieks-as-daugavpils",
+  "name": "Latvijas Maiznieks AS",
+  "city": "Daugavpils",
+  "country": "Latvia",
+  "placeId": "ChIJ6W3aXLiVwkYRnWhR4Gs74-o",
+  "googleName": "Latvijas Maiznieks AS",
+  "formattedAddress": "Mazā Viļņas iela 9, Daugavpils, LV-5404, Latvia",
+  "phone": "65 476 281",
+  "website": "https://maiznieks.lv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16925437159099426973",
+  "rating": 4.9,
+  "reviewCount": 8,
+  "coords": [
+    55.8948719,
+    26.5331137
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/latvijas-maiznieks-as-daugavpils/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:01:14.677Z"
+}

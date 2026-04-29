@@ -1,0 +1,32 @@
+{
+  "slug": "yamazaki-bakery-chai-wan",
+  "name": "Yamazaki Bakery",
+  "city": "Chai Wan",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJXWY46lH7AzQRTRmZFAtMBQQ",
+  "googleName": "Yamazaki 山崎麵飽",
+  "formattedAddress": "Hong Kong, Chai Wan, 新翠花園商場三 樓 304 號 舖",
+  "phone": "2898 8225",
+  "website": "http://www.yamazaki.hk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=289721361509194061",
+  "rating": 3.9,
+  "reviewCount": 7,
+  "coords": [
+    22.2635976,
+    114.2363989
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yamazaki-bakery-chai-wan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:30:34.872Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sigurjonsbakari-reykjanesb-r",
+  "name": "Sigurjónsbakarí",
+  "city": "Reykjanesbær",
+  "country": "Iceland",
+  "placeId": "ChIJA_6ldh4C1kgRJy0CRjjSU7w",
+  "googleName": "Sigurjónsbakarí",
+  "formattedAddress": "2, 230, Hólmgarður, 230 Keflavík, Iceland",
+  "phone": "421 5255",
+  "website": "http://www.sigurjonsbakari.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13570421241331985703",
+  "rating": 4.7,
+  "reviewCount": 418,
+  "coords": [
+    64.0044645,
+    -22.5736632
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:30 PM",
+    "Tuesday: 7:00 AM – 5:30 PM",
+    "Wednesday: 7:00 AM – 5:30 PM",
+    "Thursday: 7:00 AM – 5:30 PM",
+    "Friday: 7:00 AM – 5:30 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: 7:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sigurjonsbakari-reykjanesb-r/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:37.268Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-zrno-budva",
+  "name": "Bakery Zrno",
+  "city": "Budva",
+  "country": "Montenegro",
+  "placeId": "ChIJu85fenfVTRMRQHJwF1PG8RM",
+  "googleName": "Bakery Zrno",
+  "formattedAddress": "Jadranski put, Bečići 85316, Montenegro",
+  "phone": "068 301 331",
+  "website": "https://instagram.com/pekaraazrnoo?igshid=mhgtd07jc2fc",
+  "googleMapsUrl": "https://maps.google.com/?cid=1437147816285729344",
+  "rating": 4.3,
+  "reviewCount": 308,
+  "coords": [
+    42.2816777,
+    18.8802335
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-zrno-budva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:09.840Z"
+}

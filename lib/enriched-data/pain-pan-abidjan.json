@@ -1,0 +1,32 @@
+{
+  "slug": "pain-pan-abidjan",
+  "name": "Pain Pan",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJgdV39dXpwQ8RpE6BoQKgAr4",
+  "googleName": "Pain Pan",
+  "formattedAddress": "Bd du Gabon, Abidjan, Côte d'Ivoire",
+  "phone": "07 09 04 0414",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13691681750319713956",
+  "rating": 3.9,
+  "reviewCount": 60,
+  "coords": [
+    5.2936722,
+    -3.9745219
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pain-pan-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:44:38.178Z"
+}

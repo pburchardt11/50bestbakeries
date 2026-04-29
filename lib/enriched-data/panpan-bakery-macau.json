@@ -1,0 +1,32 @@
+{
+  "slug": "panpan-bakery-macau",
+  "name": "PanPan Bakery",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJKUiBAAB7ATQRRPGxvQZJ8QA",
+  "googleName": "PANPAN",
+  "formattedAddress": "77-A R. das Estalagens, Macao",
+  "phone": "6208 8223",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=67915762688454980",
+  "rating": 4.8,
+  "reviewCount": 73,
+  "coords": [
+    22.1960138,
+    113.5397526
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panpan-bakery-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:37.921Z"
+}

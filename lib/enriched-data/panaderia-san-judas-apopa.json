@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-san-judas-apopa",
+  "name": "Panadería San Judas",
+  "city": "Apopa",
+  "country": "El Salvador",
+  "placeId": "ChIJMZI3ceY7Y48RoQJkvJvBFYU",
+  "googleName": "Panadería San Judas",
+  "formattedAddress": "4a Calle Poniente 2 01123, Apopa, El Salvador",
+  "phone": "7868 5918",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9589783856180101793",
+  "rating": 4.3,
+  "reviewCount": 272,
+  "coords": [
+    13.8024619,
+    -89.17856540000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-san-judas-apopa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:04:09.949Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "la-coffee-and-bakery-laos",
+  "name": "La Coffee and Bakery",
+  "city": "Laos",
+  "country": "Laos",
+  "placeId": "ChIJrTIFI29nJDERzcwQ5hqUMV4",
+  "googleName": "L.A Coffee and Bakery",
+  "formattedAddress": "Ban Phonphanao, Saysetha, Laos",
+  "phone": "020 59 999 912",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6787368956673969357",
+  "rating": 3.8,
+  "reviewCount": 25,
+  "coords": [
+    17.9907818,
+    102.6381635
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-coffee-and-bakery-laos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:58:52.591Z"
+}

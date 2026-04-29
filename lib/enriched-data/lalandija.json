@@ -1,0 +1,32 @@
+{
+  "slug": "lalandija",
+  "name": "Lalandija",
+  "city": "Битола",
+  "country": "North Macedonia",
+  "placeId": "ChIJ6Tiqv2slVxMRLe1Alua_5Xs",
+  "googleName": "Lalandija",
+  "formattedAddress": "Peco Bozhinovski 30, Bitola 7000, North Macedonia",
+  "phone": "075 786 838",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8927752833416097069",
+  "rating": 4.3,
+  "reviewCount": 55,
+  "coords": [
+    41.0274943,
+    21.3254245
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 1:00 PM, 7:00 PM – 2:00 AM",
+    "Tuesday: 6:00 AM – 1:00 PM, 7:00 PM – 2:00 AM",
+    "Wednesday: 6:00 AM – 1:00 PM, 7:00 PM – 2:00 AM",
+    "Thursday: 6:00 AM – 1:00 PM, 7:00 PM – 2:00 AM",
+    "Friday: 6:00 AM – 1:00 PM, 7:00 PM – 2:00 AM",
+    "Saturday: 6:00 AM – 1:00 PM, 7:00 PM – 2:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lalandija/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:42:57.509Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "afrato-athens",
+  "name": "afrato",
+  "city": "Athens",
+  "country": "Greece",
+  "placeId": "ChIJtaRs5QC9oRQRwAxwSXDWwBY",
+  "googleName": "Afrato",
+  "formattedAddress": "Evridamantos 13, Athina 117 45, Greece",
+  "phone": "21 0922 6560",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1639546042119621824",
+  "rating": 4.6,
+  "reviewCount": 400,
+  "coords": [
+    37.9574367,
+    23.7195274
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/afrato-athens/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:18:52.400Z"
+}

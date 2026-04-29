@@ -1,0 +1,32 @@
+{
+  "slug": "bakers-fantasy-male",
+  "name": "Bakers Fantasy",
+  "city": "Malé",
+  "country": "Maldives",
+  "placeId": "ChIJUbZfz1R-PzsRZNPTNyY6XPc",
+  "googleName": "Bakers Fantasy",
+  "formattedAddress": "5GG5+W7X, Fareedhee Magu, Malé, Maldives",
+  "phone": "334-0905",
+  "website": "http://www.fantasy.com.mv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17824185361045377892",
+  "rating": 4,
+  "reviewCount": 76,
+  "coords": [
+    4.177362,
+    73.5082405
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-fantasy-male/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:13:58.311Z"
+}

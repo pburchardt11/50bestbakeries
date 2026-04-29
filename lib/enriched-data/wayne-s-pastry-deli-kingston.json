@@ -1,0 +1,30 @@
+{
+  "slug": "wayne-s-pastry-deli-kingston",
+  "name": "Wayne's Pastry & Deli",
+  "city": "Kingston",
+  "country": "Jamaica",
+  "placeId": "ChIJWZSCX-9B244RimCvuEgqGbo",
+  "googleName": "Wayne's Pastries",
+  "formattedAddress": "62 1, 2 Windward Rd, Kingston, Jamaica",
+  "phone": "(876) 491-5221",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13409795857296875658",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    17.9697644,
+    -76.7718526
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:46:04.344Z"
+}

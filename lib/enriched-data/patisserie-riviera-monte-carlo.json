@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-riviera-monte-carlo",
+  "name": "Pâtisserie Riviera",
+  "city": "Monte-Carlo",
+  "country": "Monaco",
+  "placeId": "ChIJkcFQwnzCzRIRDlnWIujBheM",
+  "googleName": "Pâtisserie Riviera",
+  "formattedAddress": "27 Bd des Moulins, 98000 Monaco",
+  "phone": "93 50 63 23",
+  "website": "https://www.riviera1955.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16394723221273205006",
+  "rating": 4.4,
+  "reviewCount": 256,
+  "coords": [
+    43.74369249999999,
+    7.428504299999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 1:30 PM, 3:00 – 6:30 PM",
+    "Tuesday: 8:00 AM – 1:30 PM, 3:00 – 6:30 PM",
+    "Wednesday: 8:00 AM – 1:30 PM, 3:00 – 6:30 PM",
+    "Thursday: 8:00 AM – 1:30 PM, 3:00 – 6:30 PM",
+    "Friday: 8:00 AM – 1:30 PM, 3:00 – 6:30 PM",
+    "Saturday: 8:30 AM – 1:00 PM, 3:00 – 6:30 PM",
+    "Sunday: 8:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": "Established patisserie serving gourmet pastries, desserts & espresso in an intimate, relaxed space.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-riviera-monte-carlo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:22:55.999Z"
+}

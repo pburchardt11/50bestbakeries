@@ -1,0 +1,32 @@
+{
+  "slug": "daniel-tsabari-boutique-baking",
+  "name": "Daniel Tsabari - Boutique Baking",
+  "city": "אבן יהודה",
+  "country": "Israel",
+  "placeId": "ChIJ99d4Wf8_HRURpq23TD1XC_c",
+  "googleName": "Daniel Tsabari - Boutique Baking",
+  "formattedAddress": "Ha-Ilanot St 12, Even Yehuda, 4050075, Israel",
+  "phone": "052-223-8812",
+  "website": "https://danieltsabari.wixsite.com/daniel-tsabari",
+  "googleMapsUrl": "https://maps.google.com/?cid=17801417872903744934",
+  "rating": 5,
+  "reviewCount": 37,
+  "coords": [
+    32.278147,
+    34.8842569
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/daniel-tsabari-boutique-baking/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:59.631Z"
+}

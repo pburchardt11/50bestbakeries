@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-sceb-noumea",
+  "name": "Boulangerie Sceb",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJezBQYAEIKGwRSkLPGurIuCQ",
+  "googleName": "Boulangerie Sceb",
+  "formattedAddress": "QF46+366, Bretelle Chalier, Nouméa 98800, New Caledonia",
+  "phone": "43.67.20",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2646085688877859402",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    -22.2448439,
+    166.4605026
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-sceb-noumea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:08.573Z"
+}

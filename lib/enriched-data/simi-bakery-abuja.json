@@ -1,0 +1,30 @@
+{
+  "slug": "simi-bakery-abuja",
+  "name": "Simi Bakery",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "placeId": "ChIJrZ6Awox1ThARLSMpB0I-Gjg",
+  "googleName": "Simi Bakery",
+  "formattedAddress": "Halilu Dantoro Street, Utako, Abuja 900108, Federal Capital Territory, Nigeria",
+  "phone": "0813 211 8623",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4042612068827341613",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    9.0638651,
+    7.431197600000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:42:05.587Z"
+}

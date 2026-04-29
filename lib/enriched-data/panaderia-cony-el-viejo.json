@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-cony-el-viejo",
+  "name": "Panaderia Cony",
+  "city": "El Viejo",
+  "country": "Nicaragua",
+  "placeId": "ChIJ-V8r7dHzcI8Rj3bKW2LeGtA",
+  "googleName": "Panaderia Cony",
+  "formattedAddress": "Bo. Esquipulas, De la Iglesia Esquipulas 1c al sur, El Viejo 26200, Nicaragua",
+  "phone": "8864 5176",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14995542423311644303",
+  "rating": 4.6,
+  "reviewCount": 25,
+  "coords": [
+    12.6638046,
+    -87.16842559999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:30 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-cony-el-viejo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:38:26.709Z"
+}

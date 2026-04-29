@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-el-diamante-esteli-municipio",
+  "name": "Panadería El Diamante",
+  "city": "Estelí (Municipio)",
+  "country": "Nicaragua",
+  "placeId": "ChIJN0oOO6WNcY8RAotaG6g964c",
+  "googleName": "Panadería El Diamante",
+  "formattedAddress": "De la Cancha Villa Esperanza, 6c. al este, 1/2c. al norte, Estelí 31000, Nicaragua",
+  "phone": "2714 0249",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9793989606869994242",
+  "rating": 4.8,
+  "reviewCount": 12,
+  "coords": [
+    13.088952,
+    -86.34039589999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:30 PM",
+    "Tuesday: 8:00 AM – 5:30 PM",
+    "Wednesday: 8:00 AM – 5:30 PM",
+    "Thursday: 8:00 AM – 5:30 PM",
+    "Friday: 8:00 AM – 5:30 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-el-diamante-esteli-municipio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:38:47.201Z"
+}

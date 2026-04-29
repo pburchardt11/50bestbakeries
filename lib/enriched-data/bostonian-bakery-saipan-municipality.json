@@ -1,0 +1,32 @@
+{
+  "slug": "bostonian-bakery-saipan-municipality",
+  "name": "Bostonian Bakery",
+  "city": "Saipan Municipality",
+  "country": "Northern Mariana Islands",
+  "placeId": "ChIJ4wlbqwix2GYRUCcQfkuBqT4",
+  "googleName": "Bostonian Bakery",
+  "formattedAddress": "Chalan Laulau Middle Road Saipan, island, Saipan 96950, CNMI",
+  "phone": "(670) 235-4310",
+  "website": "https://bostonianbakerysaipan.cloveronline.com/menu/all",
+  "googleMapsUrl": "https://maps.google.com/?cid=4515282262653151056",
+  "rating": 4.2,
+  "reviewCount": 42,
+  "coords": [
+    15.1799859,
+    145.7190399
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 5:00 PM",
+    "Tuesday: 10:30 AM – 5:00 PM",
+    "Wednesday: 10:30 AM – 5:00 PM",
+    "Thursday: 10:30 AM – 5:00 PM",
+    "Friday: 10:30 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bostonian-bakery-saipan-municipality/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:18.971Z"
+}

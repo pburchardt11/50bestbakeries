@@ -1,0 +1,32 @@
+{
+  "slug": "the-bagel-bar",
+  "name": "The Bagel Bar",
+  "city": "الفروانية",
+  "country": "Kuwait",
+  "placeId": "ChIJgxo5OD-Fzz8RNUSDWdG2g8s",
+  "googleName": "BAKED (Bneid Al-Gar)",
+  "formattedAddress": "Almaha tower، 77 St, Al Kuwayt, Kuwait",
+  "phone": "9944 2672",
+  "website": "https://whileimbaked.ordable.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14664765821914661941",
+  "rating": 4.5,
+  "reviewCount": 265,
+  "coords": [
+    29.3751012,
+    48.00066959999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bagel-bar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:29.949Z"
+}

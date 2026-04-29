@@ -1,0 +1,30 @@
+{
+  "slug": "susan-s-bakery-accra",
+  "name": "Susan's Bakery",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJjbKiji-b3w8Rbo_zqDoTdvc",
+  "googleName": "Susan's Bakery",
+  "formattedAddress": "Charles Mensah, 10 Kusia St, Accra, Ghana",
+  "phone": "024 440 0169",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17831460917283622766",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    5.576143099999999,
+    -0.2080142
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 PM",
+    "Tuesday: 6:00 AM – 2:00 PM",
+    "Wednesday: 6:00 AM – 2:00 PM",
+    "Thursday: 6:00 AM – 2:00 PM",
+    "Friday: 6:00 AM – 2:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: 6:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:17:06.697Z"
+}

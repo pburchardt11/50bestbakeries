@@ -1,0 +1,32 @@
+{
+  "slug": "le-maeva-cayenne",
+  "name": "Le Maëva",
+  "city": "Cayenne",
+  "country": "French Guiana",
+  "placeId": "ChIJP3_omp09Eo0R4AgrZDch7NQ",
+  "googleName": "Le Maëva",
+  "formattedAddress": "33 Av. d'Estrées, Cayenne 97300, French Guiana",
+  "phone": "0594 31 20 03",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15342674552331897056",
+  "rating": 3.4,
+  "reviewCount": 263,
+  "coords": [
+    4.9410015,
+    -52.32308579999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-maeva-cayenne/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:46.791Z"
+}

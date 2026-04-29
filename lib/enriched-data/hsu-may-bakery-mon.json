@@ -1,0 +1,32 @@
+{
+  "slug": "hsu-may-bakery-mon",
+  "name": "Hsu May Bakery",
+  "city": "Mon",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJjyLpVoYf5jARkqR1ZYjerSM",
+  "googleName": "Hsu May Bakery",
+  "formattedAddress": "Ahsin village, No. 4/20 Shwe War Win street, Ye Township 12103, Myanmar (Burma)",
+  "phone": "09 42871 8132",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2570955639697548434",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    15.217867,
+    97.78930969999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hsu-may-bakery-mon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:31:01.515Z"
+}

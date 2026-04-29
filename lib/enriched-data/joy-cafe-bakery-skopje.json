@@ -1,0 +1,32 @@
+{
+  "slug": "joy-cafe-bakery-skopje",
+  "name": "Joy Cafe & Bakery",
+  "city": "Skopje",
+  "country": "North Macedonia",
+  "placeId": "ChIJzUMwhkQUVBMRcCiZTpZh5jk",
+  "googleName": "Café Bakery Joy",
+  "formattedAddress": "Nikola Tesla 9a, Skopje 1000, North Macedonia",
+  "phone": "02 307 6955",
+  "website": "http://facebook.com/joycafeandbakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=4172129402996992112",
+  "rating": 4.5,
+  "reviewCount": 776,
+  "coords": [
+    42.0054288,
+    21.4108849
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/joy-cafe-bakery-skopje/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:42:21.529Z"
+}

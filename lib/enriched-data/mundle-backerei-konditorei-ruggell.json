@@ -1,0 +1,32 @@
+{
+  "slug": "mundle-backerei-konditorei-ruggell",
+  "name": "Mündle Bäckerei Konditorei",
+  "city": "Ruggell",
+  "country": "Liechtenstein",
+  "placeId": "ChIJl4i1s_A6m0cRasE2xrLMSfk",
+  "googleName": "Mündle Bäckerei Konditorei AG",
+  "formattedAddress": "Landstrasse 33, 9491 Ruggell, Liechtenstein",
+  "phone": "399 40 27",
+  "website": "https://www.muendle.li/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17963113656945656170",
+  "rating": 4.4,
+  "reviewCount": 131,
+  "coords": [
+    47.2392642,
+    9.5234668
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:30 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mundle-backerei-konditorei-ruggell/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:05:10.293Z"
+}

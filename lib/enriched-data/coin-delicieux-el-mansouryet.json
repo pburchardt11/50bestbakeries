@@ -1,0 +1,32 @@
+{
+  "slug": "coin-delicieux-el-mansouryet",
+  "name": "Coin Délicieux",
+  "city": "El Mansouryet",
+  "country": "Lebanon",
+  "placeId": "ChIJvZK0VDY9HxURKMzZIxH0nPI",
+  "googleName": "Coin Delicieux",
+  "formattedAddress": "Badran Street Maroun Mezher Building Mansourieh Al, VH2C+XXG، ديشونية، Lebanon",
+  "phone": "03 896 478",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17482116207998520360",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    33.8524426,
+    35.5724529
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coin-delicieux-el-mansouryet/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:02:50.017Z"
+}

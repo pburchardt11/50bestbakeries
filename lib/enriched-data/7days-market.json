@@ -1,0 +1,32 @@
+{
+  "slug": "7days-market",
+  "name": "7Days Market",
+  "city": "אילת",
+  "country": "Israel",
+  "placeId": "ChIJnVaT0gNyABUROrj3-7JpCAg",
+  "googleName": "7Days Market",
+  "formattedAddress": "Sderot Yerushalayim HaShlema 1, Eilat, Israel",
+  "phone": "08-633-3317",
+  "website": "http://www.7daysmarket.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=578828769569519674",
+  "rating": 4.6,
+  "reviewCount": 583,
+  "coords": [
+    29.5591296,
+    34.9477976
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: 12:00 AM – 5:30 PM",
+    "Saturday: 8:00 PM – 12:00 AM",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/7days-market/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:15.145Z"
+}

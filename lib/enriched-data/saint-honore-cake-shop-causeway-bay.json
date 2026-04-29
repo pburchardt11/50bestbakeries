@@ -1,0 +1,32 @@
+{
+  "slug": "saint-honore-cake-shop-causeway-bay",
+  "name": "Saint Honore Cake Shop",
+  "city": "Causeway Bay",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJL9iZt1AABDQRFjh9V95nPwU",
+  "googleName": "Saint Honore Cake Shop",
+  "formattedAddress": "Shop E, G/F, Top View Mansion, 10 Canal Rd W, Causeway Bay, Hong Kong",
+  "phone": "2575 5161",
+  "website": "http://www.sthonore.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=378135098370635798",
+  "rating": 3.9,
+  "reviewCount": 8,
+  "coords": [
+    22.2786835,
+    114.1809564
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/saint-honore-cake-shop-causeway-bay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:45.147Z"
+}

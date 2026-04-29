@@ -1,0 +1,32 @@
+{
+  "slug": "newtons-confectioners-kiambu",
+  "name": "Newtons Confectioners",
+  "city": "Kiambu",
+  "country": "Kenya",
+  "placeId": "ChIJ_aavNBsfLxgRokNMsPX023M",
+  "googleName": "Newtons Cakes",
+  "formattedAddress": "Behind Shell Petrol Station, Off Dagoretti Road, Rungiri, Kenya",
+  "phone": "0723 002083",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8348535670323299234",
+  "rating": 4.8,
+  "reviewCount": 6,
+  "coords": [
+    -1.2460845,
+    36.6633949
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/newtons-confectioners-kiambu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:53:52.243Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mummy-bakes-kajiado",
+  "name": "Mummy Bakes",
+  "city": "Kajiado",
+  "country": "Kenya",
+  "placeId": "ChIJY9EYi80DLxgR45CiPSAWjas",
+  "googleName": "Mummy Bakes",
+  "formattedAddress": "1st Floor, Room 127, Legacy Building, Ngong, Kenya",
+  "phone": "0757 098758",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12361560879930708195",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -1.3607947,
+    36.6576032
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:00 PM",
+    "Tuesday: 8:30 AM – 6:30 PM",
+    "Wednesday: 8:30 AM – 6:30 PM",
+    "Thursday: 8:30 AM – 6:30 PM",
+    "Friday: 8:30 AM – 6:30 PM",
+    "Saturday: 8:30 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mummy-bakes-kajiado/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:53:15.597Z"
+}

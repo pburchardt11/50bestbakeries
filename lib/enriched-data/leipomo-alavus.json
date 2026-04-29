@@ -1,0 +1,32 @@
+{
+  "slug": "leipomo-alavus",
+  "name": "Leipomo",
+  "city": "Alavus",
+  "country": "Finland",
+  "placeId": "ChIJIfikTE4WhkYRNhCe03GHzp8",
+  "googleName": "Leipomo-Kahvila Nallenpesä Oy",
+  "formattedAddress": "Kuulantie 3, 63300 Alavus, Finland",
+  "phone": "050 5343939",
+  "website": "https://www.facebook.com/pages/category/Cafe/Leipomo-kahvila-Nallenpes%C3%A4-181463105601185/?locale2=fi_FI",
+  "googleMapsUrl": "https://maps.google.com/?cid=11515290220184342582",
+  "rating": 4.6,
+  "reviewCount": 251,
+  "coords": [
+    62.5867967,
+    23.6172249
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 5:00 PM",
+    "Tuesday: 5:00 AM – 5:00 PM",
+    "Wednesday: 5:00 AM – 5:00 PM",
+    "Thursday: 5:00 AM – 5:00 PM",
+    "Friday: 5:00 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leipomo-alavus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:10:36.789Z"
+}

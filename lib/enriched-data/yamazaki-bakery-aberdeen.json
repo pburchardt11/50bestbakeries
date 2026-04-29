@@ -1,0 +1,32 @@
+{
+  "slug": "yamazaki-bakery-aberdeen",
+  "name": "Yamazaki Bakery",
+  "city": "Aberdeen",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJ_z8GMAMABDQRYN7yNXBQaF0",
+  "googleName": "Yamazaki",
+  "formattedAddress": "7 Wu Nam St, Aberdeen, Hong Kong",
+  "phone": "2552 3939",
+  "website": "http://www.yamazaki.hk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6730718085976874592",
+  "rating": 2.6,
+  "reviewCount": 5,
+  "coords": [
+    22.2477738,
+    114.155096
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yamazaki-bakery-aberdeen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:25.750Z"
+}

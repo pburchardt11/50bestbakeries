@@ -1,0 +1,32 @@
+{
+  "slug": "village-bakery-cafe-bharatpur",
+  "name": "Village Bakery Cafe",
+  "city": "Bharatpur",
+  "country": "Nepal",
+  "placeId": "ChIJ_754GACjczkRjpEYl2HHUIs",
+  "googleName": "The Villager’s Hub",
+  "formattedAddress": "near by Hiradas Circle, Indra Colony, Bharatpur, Rajasthan 321001, India",
+  "phone": null,
+  "website": "http://www.thevillagershub.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10038742791369560462",
+  "rating": 5,
+  "reviewCount": 215,
+  "coords": [
+    27.2103836,
+    77.4807747
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/village-bakery-cafe-bharatpur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:33:09.729Z"
+}

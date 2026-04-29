@@ -1,0 +1,32 @@
+{
+  "slug": "chuck-s-bakery-st-ann",
+  "name": "Chuck's Bakery",
+  "city": "St Ann",
+  "country": "Jamaica",
+  "placeId": "ChIJs2iqyGJV2o4RVATlkt3xBto",
+  "googleName": "Chuck's Bakery",
+  "formattedAddress": "18 Main St, St Ann's Bay, Jamaica",
+  "phone": "(876) 972-2466",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15710510284083102804",
+  "rating": 3.9,
+  "reviewCount": 81,
+  "coords": [
+    18.435968,
+    -77.20079009999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chuck-s-bakery-st-ann/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:11.348Z"
+}

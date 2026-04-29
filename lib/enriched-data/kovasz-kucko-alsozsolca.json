@@ -1,0 +1,32 @@
+{
+  "slug": "kovasz-kucko-alsozsolca",
+  "name": "Kovász Kuckó",
+  "city": "Alsózsolca",
+  "country": "Hungary",
+  "placeId": "ChIJvbD--5mhQEcRA5nRhY_Raik",
+  "googleName": "Kovász Kuckó",
+  "formattedAddress": "Alsózsolca, Kossuth Lajos út 144-146, 3571 Hungary",
+  "phone": "06 20 613 4073",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2984428117442009347",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    48.0710232,
+    20.8788442
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 5:30 PM",
+    "Tuesday: 5:30 AM – 5:30 PM",
+    "Wednesday: 5:30 AM – 5:30 PM",
+    "Thursday: 5:30 AM – 5:30 PM",
+    "Friday: 5:30 AM – 5:30 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kovasz-kucko-alsozsolca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:32:51.068Z"
+}

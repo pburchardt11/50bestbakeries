@@ -1,0 +1,32 @@
+{
+  "slug": "gelato-cake-house-ferizaj",
+  "name": "Gelato Cake House",
+  "city": "Ferizaj",
+  "country": "Kosovo",
+  "placeId": "ChIJN7vfesZ_VBMR38XmPjCRdcg",
+  "googleName": "Gelato Cake House",
+  "formattedAddress": "Ferizaj 70000",
+  "phone": "048 633 331",
+  "website": "http://instagram.com/gelato.cakehouse",
+  "googleMapsUrl": "https://maps.google.com/?cid=14444611016260503007",
+  "rating": 4.9,
+  "reviewCount": 76,
+  "coords": [
+    42.371387,
+    21.1503439
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gelato-cake-house-ferizaj/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:54:22.460Z"
+}

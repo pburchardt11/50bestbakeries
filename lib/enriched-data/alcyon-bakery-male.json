@@ -1,0 +1,32 @@
+{
+  "slug": "alcyon-bakery-male",
+  "name": "Alcyon Bakery",
+  "city": "Male",
+  "country": "Maldives",
+  "placeId": "ChIJ7_GIOFN-PzsRCSkHZcIaZVw",
+  "googleName": "Alcyon Bakery",
+  "formattedAddress": "5GG4+W35, 2 Fulooniyaa Magu, Malé, Maldives",
+  "phone": "332-2627",
+  "website": "https://www.facebook.com/AlcyonBakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6657757046358092041",
+  "rating": 4.2,
+  "reviewCount": 90,
+  "coords": [
+    4.1770178,
+    73.5048253
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 12:01 PM, 1:00 PM – 12:00 AM",
+    "Tuesday: 12:00 AM – 6:00 PM, 8:00 – 9:00 PM",
+    "Wednesday: 6:00 AM – 12:00 PM, 1:00 – 6:00 PM, 8:00 – 9:00 PM",
+    "Thursday: 6:00 AM – 12:00 PM, 1:00 – 6:00 PM, 8:00 – 9:00 PM",
+    "Friday: 7:00 – 10:30 AM, 2:00 – 6:00 PM, 8:00 – 9:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM, 1:00 – 6:00 PM, 8:00 – 9:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM, 1:00 – 6:00 PM, 8:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alcyon-bakery-male/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:13:14.178Z"
+}

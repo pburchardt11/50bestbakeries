@@ -1,0 +1,32 @@
+{
+  "slug": "outjo-bakkery-outjo",
+  "name": "Outjo Bakkery",
+  "city": "Outjo",
+  "country": "Namibia",
+  "placeId": "ChIJZzp-ONGXjBsRGpmfnCh_lYg",
+  "googleName": "Outjo Bakkery",
+  "formattedAddress": "Outjo, Namibia",
+  "phone": "081 244 0793",
+  "website": "https://outjobakkery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9841912373091211546",
+  "rating": 4.3,
+  "reviewCount": 1182,
+  "coords": [
+    -20.106452,
+    16.151302
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:30 AM – 11:00 PM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/outjo-bakkery-outjo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:31:38.782Z"
+}

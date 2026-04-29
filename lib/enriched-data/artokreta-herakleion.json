@@ -1,0 +1,32 @@
+{
+  "slug": "artokreta-herakleion",
+  "name": "Artokreta",
+  "city": "Herákleion",
+  "country": "Greece",
+  "placeId": "ChIJw1SLaixamhQRwoUu278STN8",
+  "googleName": "Heraklion Archaeological Museum",
+  "formattedAddress": "Ξανθουδίδη και, Chatzidaki 1, Iraklio 712 02, Greece",
+  "phone": "281 027 9000",
+  "website": "https://www.heraklionmuseum.gr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16090256183913252290",
+  "rating": 4.7,
+  "reviewCount": 34756,
+  "coords": [
+    35.3389825,
+    25.1371419
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 3:30 PM",
+    "Tuesday: 8:30 AM – 3:30 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 3:30 PM",
+    "Friday: 8:30 AM – 3:30 PM",
+    "Saturday: 8:30 AM – 3:30 PM",
+    "Sunday: 8:30 AM – 3:30 PM"
+  ],
+  "editorialSummary": "Museum displaying artifacts from the Minoan age, plus Cretan art, sculptures & archaeological finds.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artokreta-herakleion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:38.586Z"
+}

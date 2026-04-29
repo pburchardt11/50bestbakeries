@@ -1,0 +1,32 @@
+{
+  "slug": "patisseries-boulangeres-fort-de-france",
+  "name": "Patisseries boulangères",
+  "city": "Fort-de-France",
+  "country": "Martinique",
+  "placeId": "ChIJlxOcTJ2naowRs5rTYam-E7o",
+  "googleName": "Pâtisserie du Boulevard",
+  "formattedAddress": "23 boulevard du général de gaule, 23, Bd Général de Gaulle, Fort-de-France 97200, Martinique",
+  "phone": "0596 73 73 33",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13408270150312106675",
+  "rating": 4.1,
+  "reviewCount": 159,
+  "coords": [
+    14.6074638,
+    -61.0685533
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisseries-boulangeres-fort-de-france/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:17:21.082Z"
+}

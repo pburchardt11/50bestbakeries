@@ -1,0 +1,24 @@
+{
+  "slug": "billy-s-bakery-ballina",
+  "name": "Billy's Bakery Ballina",
+  "city": "Ballina",
+  "country": "Ireland",
+  "placeId": "ChIJH1Ihxwk3WUgRhTrVZDpx8FY",
+  "googleName": "Billy's Bakery",
+  "formattedAddress": "Harbour Units 4-5, The Quay, Quay Road, Quignamanger, Ballina, Co. Mayo, Ireland",
+  "phone": "(096) 75478",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6264631577286097541",
+  "rating": 3.3,
+  "reviewCount": 3,
+  "coords": [
+    54.1325061,
+    -9.1375427
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/billy-s-bakery-ballina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:40:36.085Z"
+}

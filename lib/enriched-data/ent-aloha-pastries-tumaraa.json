@@ -1,0 +1,32 @@
+{
+  "slug": "ent-aloha-pastries-tumaraa",
+  "name": "Ent. Aloha Pastries",
+  "city": "Tumaraa",
+  "country": "French Polynesia",
+  "placeId": "ChIJ1yVtAwM6mnYRZusYbr53rM4",
+  "googleName": "Aloha",
+  "formattedAddress": "18 Rue du 22 Septembre 1914, Papeete 98714, French Polynesia",
+  "phone": "40 42 87 52",
+  "website": "http://www.aloha.pf/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14892409727582006118",
+  "rating": 4.2,
+  "reviewCount": 14,
+  "coords": [
+    -17.5394321,
+    -149.5675002
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:30 PM",
+    "Tuesday: 8:30 AM – 5:30 PM",
+    "Wednesday: 8:30 AM – 5:30 PM",
+    "Thursday: 8:30 AM – 5:30 PM",
+    "Friday: 8:30 AM – 5:30 PM",
+    "Saturday: 8:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ent-aloha-pastries-tumaraa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:58.575Z"
+}

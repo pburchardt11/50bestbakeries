@@ -1,0 +1,32 @@
+{
+  "slug": "gout-sucre-patisserie-cap-haitien",
+  "name": "Goût Sucré Patisserie",
+  "city": "Cap Haïtien",
+  "country": "Haiti",
+  "placeId": "ChIJLdvHSzjHto4RqFg-czl6q1A",
+  "googleName": "Goût Sucré Patisserie",
+  "formattedAddress": "QR63+M89, Rue 23, Cap-Haitien, Haiti",
+  "phone": "44 76 2141",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5812874131216947368",
+  "rating": 4.5,
+  "reviewCount": 11,
+  "coords": [
+    19.7616576,
+    -72.19664709999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gout-sucre-patisserie-cap-haitien/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:26:07.975Z"
+}

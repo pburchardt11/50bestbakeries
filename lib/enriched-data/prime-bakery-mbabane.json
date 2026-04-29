@@ -1,0 +1,30 @@
+{
+  "slug": "prime-bakery-mbabane",
+  "name": "Prime Bakery",
+  "city": "Mbabane",
+  "country": "Eswatini",
+  "placeId": "ChIJl0T8tMHO6B4R5kX53w8yUQo",
+  "googleName": "Prime Bakery",
+  "formattedAddress": "M49X+FVQ, Sheffield Road, Mbabane, Eswatini",
+  "phone": "7815 5122",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=743430457256396262",
+  "rating": 4.5,
+  "reviewCount": 17,
+  "coords": [
+    -26.3312909,
+    31.1497332
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:06:24.404Z"
+}

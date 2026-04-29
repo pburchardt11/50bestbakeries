@@ -1,0 +1,32 @@
+{
+  "slug": "the-newtown-bakery-ltd-st-andrew",
+  "name": "The Newtown Bakery Ltd.",
+  "city": "St Andrew",
+  "country": "Jamaica",
+  "placeId": "ChIJFQBqd7c_244RoicW5GperLg",
+  "googleName": "The Newtown Bakery Limited",
+  "formattedAddress": "Mission Road 55, 13 Maxfield Ave, Kingston, Jamaica",
+  "phone": "(876) 864-8205",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13307114812159174562",
+  "rating": 4.1,
+  "reviewCount": 18,
+  "coords": [
+    17.9937959,
+    -76.8050622
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 1:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-newtown-bakery-ltd-st-andrew/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:46:58.962Z"
+}

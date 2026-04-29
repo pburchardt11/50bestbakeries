@@ -1,0 +1,32 @@
+{
+  "slug": "pasteleria-martell-chiquimula",
+  "name": "Pastelería Martell Chiquimula",
+  "city": "Chiquimula",
+  "country": "Guatemala",
+  "placeId": "ChIJR2_rGZoxYo8Rpo8DQVO55fo",
+  "googleName": "Pastelería MARTELL Chiquimula",
+  "formattedAddress": "RF34+48V, Chiquimula, Guatemala",
+  "phone": "4532 4827",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18079060046372900774",
+  "rating": 4.6,
+  "reviewCount": 12,
+  "coords": [
+    14.8028745,
+    -89.5442045
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-martell-chiquimula/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:24:37.494Z"
+}

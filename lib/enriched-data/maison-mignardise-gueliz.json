@@ -1,0 +1,32 @@
+{
+  "slug": "maison-mignardise-gueliz",
+  "name": "Maison Mignardise",
+  "city": "Gueliz",
+  "country": "Morocco",
+  "placeId": "ChIJM5WtW7Pvrw0RUMRShpb4nUM",
+  "googleName": "La Mignardise",
+  "formattedAddress": "70 Bd Abdelkrim Al Khattabi, Marrakech 40000, Morocco",
+  "phone": "05 25 30 30 25",
+  "website": "http://maisonmignardise.ma/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4872323697267098704",
+  "rating": 4.2,
+  "reviewCount": 1210,
+  "coords": [
+    31.6407456,
+    -8.0183548
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-mignardise-gueliz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:27:30.632Z"
+}

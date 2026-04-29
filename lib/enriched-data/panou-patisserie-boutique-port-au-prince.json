@@ -1,0 +1,32 @@
+{
+  "slug": "panou-patisserie-boutique-port-au-prince",
+  "name": "PANOU Patisserie-Boutique",
+  "city": "Port-au-Prince",
+  "country": "Haiti",
+  "placeId": "ChIJ9Ue8pr3nuY4R6GeKkbbByVo",
+  "googleName": "Panou patisserie",
+  "formattedAddress": "GMPH+3H2, Rue Faustin, Port-au-Prince, Haiti",
+  "phone": "29 47 2668",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6541972923602331624",
+  "rating": 3.5,
+  "reviewCount": 17,
+  "coords": [
+    18.5351492,
+    -72.3211031
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panou-patisserie-boutique-port-au-prince/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:26:39.815Z"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "kafenite-kuldiga",
+  "name": "Kafenīte",
+  "city": "Kuldīga",
+  "country": "Latvia",
+  "placeId": "ChIJh6Ur2MLb70YRFPu8fM4oOmY",
+  "googleName": "Kafenīte",
+  "formattedAddress": "Liepājas iela 27, Kuldīga, Kuldīga pilsēta, Kuldīgas novads, LV-3301, Latvia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7366245007839001364",
+  "rating": 4.3,
+  "reviewCount": 32,
+  "coords": [
+    56.9684745,
+    21.9655933
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kafenite-kuldiga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:02:19.566Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "amar-s-bakery-gibraltar",
+  "name": "Amar's Bakery",
+  "city": "Gibraltar",
+  "country": "Gibraltar",
+  "placeId": "ChIJ2WU2EYK_DA0RKMULP0zJMQc",
+  "googleName": "Amar's Kosher Bakery/Restaurant",
+  "formattedAddress": "1 Convent Pl, Gibraltar GX11 1AA, Gibraltar",
+  "phone": "200 61221",
+  "website": "http://www.facebook.com/amarsbakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=518416761436751144",
+  "rating": 4.3,
+  "reviewCount": 376,
+  "coords": [
+    36.1373887,
+    -5.3530443
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:30 PM",
+    "Tuesday: 7:30 AM – 8:30 PM",
+    "Wednesday: 7:30 AM – 8:30 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 3:30 PM",
+    "Saturday: Closed",
+    "Sunday: 9:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amar-s-bakery-gibraltar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:47.900Z"
+}

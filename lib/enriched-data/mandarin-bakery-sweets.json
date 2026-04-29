@@ -1,0 +1,32 @@
+{
+  "slug": "mandarin-bakery-sweets",
+  "name": "Mandarin Bakery & Sweets",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJ16q5AhifHBURiRRztWfpDpg",
+  "googleName": "Mandarin Central Bakeries",
+  "formattedAddress": "Pr. Talal St., Amman, Jordan",
+  "phone": "07 7620 0803",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10956951575074116745",
+  "rating": 4.3,
+  "reviewCount": 3244,
+  "coords": [
+    32.0549146,
+    35.8904023
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mandarin-bakery-sweets/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:40.037Z"
+}

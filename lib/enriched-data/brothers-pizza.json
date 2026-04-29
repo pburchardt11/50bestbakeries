@@ -1,0 +1,32 @@
+{
+  "slug": "brothers-pizza",
+  "name": "Brothers pizza",
+  "city": "السلط",
+  "country": "Jordan",
+  "placeId": "ChIJ6Y0QlmWXHBURqdDaLkiXFIY",
+  "googleName": "Brothers pizza HR",
+  "formattedAddress": "3P63+9M6, As-Salt 19110, Jordan",
+  "phone": "07 9757 2822",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9661513436896088233",
+  "rating": 4.1,
+  "reviewCount": 15,
+  "coords": [
+    32.0391112,
+    35.7285096
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: Closed",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brothers-pizza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:24.307Z"
+}

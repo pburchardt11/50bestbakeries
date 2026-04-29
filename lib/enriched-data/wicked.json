@@ -1,0 +1,32 @@
+{
+  "slug": "wicked",
+  "name": "Wicked",
+  "city": "حولى",
+  "country": "Kuwait",
+  "placeId": "ChIJTfBnBKudzz8R7czbeUn10VY",
+  "googleName": "Wicked",
+  "formattedAddress": "82JH+783, Tunisia St, Hawally, Kuwait",
+  "phone": "6644 3838",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6256051053320195309",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "coords": [
+    29.3306277,
+    48.028312
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:30 PM",
+    "Tuesday: 11:00 AM – 9:30 PM",
+    "Wednesday: 11:00 AM – 9:30 PM",
+    "Thursday: 11:00 AM – 9:30 PM",
+    "Friday: 11:00 AM – 11:45 PM",
+    "Saturday: 11:00 AM – 11:45 PM",
+    "Sunday: 11:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wicked/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:48.617Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-miotisoa-fianarantsoa",
+  "name": "Boulangerie Miotisoa",
+  "city": "Fianarantsoa",
+  "country": "Madagascar",
+  "placeId": "ChIJUX5EQgC55yERXQDQ4mX1O08",
+  "googleName": "Crousti'time by la petite bouffe",
+  "formattedAddress": "H35V+RH4, Fianarantsoa, Madagascar",
+  "phone": "038 57 011 67",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5709426770568020061",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -21.4405149,
+    47.0937865
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:30 PM",
+    "Tuesday: 7:30 AM – 10:30 PM",
+    "Wednesday: 7:30 AM – 10:30 PM",
+    "Thursday: 7:30 AM – 10:30 PM",
+    "Friday: 7:30 AM – 10:30 PM",
+    "Saturday: 7:30 AM – 10:30 PM",
+    "Sunday: 7:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-miotisoa-fianarantsoa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:11:27.386Z"
+}

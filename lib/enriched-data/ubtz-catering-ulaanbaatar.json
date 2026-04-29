@@ -1,0 +1,32 @@
+{
+  "slug": "ubtz-catering-ulaanbaatar",
+  "name": "Ubtz Catering",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJLdFnKpGTll0RU2H3BuoF_Kw",
+  "googleName": "Ebi catering",
+  "formattedAddress": "HUD - 20 khoroo, Ulaanbaatar 17042, Mongolia",
+  "phone": "9900 4721",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12464844371352052051",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    47.8987694,
+    106.895061
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:30 PM",
+    "Tuesday: 9:00 AM – 5:30 PM",
+    "Wednesday: 9:00 AM – 5:30 PM",
+    "Thursday: 9:00 AM – 5:30 PM",
+    "Friday: 9:00 AM – 5:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ubtz-catering-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:23:21.618Z"
+}

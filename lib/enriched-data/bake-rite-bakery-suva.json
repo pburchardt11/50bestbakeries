@@ -1,0 +1,32 @@
+{
+  "slug": "bake-rite-bakery-suva",
+  "name": "Bake Rite Bakery",
+  "city": "Suva",
+  "country": "Fiji",
+  "placeId": "ChIJAcBUE6LhG24RA8WEkC5Oj-w",
+  "googleName": "BAKE RITE BAKERY NAKASI",
+  "formattedAddress": "Nasinu, Fiji",
+  "phone": "256 7739",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17045929076520699139",
+  "rating": 3.8,
+  "reviewCount": 37,
+  "coords": [
+    -18.062751,
+    178.5138837
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-rite-bakery-suva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:09:42.725Z"
+}

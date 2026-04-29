@@ -1,0 +1,32 @@
+{
+  "slug": "les-saveurs-d-olivier-port-au-prince",
+  "name": "Les Saveurs D'Olivier",
+  "city": "Port-au-Prince",
+  "country": "Haiti",
+  "placeId": "ChIJo1TKvvnnuY4RDiAO3vXBE9k",
+  "googleName": "Les Saveurs D'Olivier",
+  "formattedAddress": "#10 Rigaud, Port-au-Prince, Haiti",
+  "phone": "31 99 2267",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15642059192524480526",
+  "rating": 3.7,
+  "reviewCount": 26,
+  "coords": [
+    18.5373457,
+    -72.3270419
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-saveurs-d-olivier-port-au-prince/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:26:48.442Z"
+}

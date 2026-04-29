@@ -1,0 +1,32 @@
+{
+  "slug": "delice-de-france-abidjan",
+  "name": "Délice De France",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJYdV14jPtwQ8Rm2AhhkYnKHM",
+  "googleName": "Délice De France",
+  "formattedAddress": "Riviéra 3, Route du Lycée français, Abidjan, Côte d'Ivoire",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8297925497281667227",
+  "rating": 4,
+  "reviewCount": 42,
+  "coords": [
+    5.3562686,
+    -3.9629831
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 PM",
+    "Tuesday: 6:00 AM – 12:00 PM",
+    "Wednesday: 6:00 AM – 12:00 PM",
+    "Thursday: 6:00 AM – 12:00 PM",
+    "Friday: 6:00 AM – 12:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delice-de-france-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:44:54.240Z"
+}

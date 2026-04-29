@@ -1,0 +1,32 @@
+{
+  "slug": "vanilla-bakery-kawthaung",
+  "name": "Vanilla Bakery",
+  "city": "Kawthaung",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJq9XuxeNNVjARADSwgdYZm_8",
+  "googleName": "Vanilla Bakery Kaw thaung (ဗနီလာ)",
+  "formattedAddress": "Kawthoung, Myanmar (Burma)",
+  "phone": "09 261 412 930",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18418343510151279616",
+  "rating": 4.1,
+  "reviewCount": 10,
+  "coords": [
+    9.9943144,
+    98.55589599999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:30 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vanilla-bakery-kawthaung/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:30:20.917Z"
+}

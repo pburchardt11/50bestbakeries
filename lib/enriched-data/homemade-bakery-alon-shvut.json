@@ -1,0 +1,32 @@
+{
+  "slug": "homemade-bakery-alon-shvut",
+  "name": "מאפה הבית - Homemade Bakery",
+  "city": "Alon Shvut",
+  "country": "Israel",
+  "placeId": "ChIJ_wqyBlbdAhURsgbKlnToKBw",
+  "googleName": "מאפה הבית כפר עציון",
+  "formattedAddress": "חצר הכפר כפר עציון, Kfar Ezion",
+  "phone": "02-993-5338",
+  "website": "http://homemadebakery.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2029127219574081202",
+  "rating": 4.8,
+  "reviewCount": 174,
+  "coords": [
+    31.6539967,
+    35.1167899
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/homemade-bakery-alon-shvut/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:51.051Z"
+}

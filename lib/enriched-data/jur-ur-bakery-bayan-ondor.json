@@ -1,0 +1,32 @@
+{
+  "slug": "jur-ur-bakery-bayan-ondor",
+  "name": "Jur Ur Bakery",
+  "city": "Bayan-Ondor",
+  "country": "Mongolia",
+  "placeId": "ChIJF_Clh7uTll0RTHlAO7aBfZE",
+  "googleName": "Jur Ur bakery",
+  "formattedAddress": "WW92+QHF, CHD - 2 khoroo, Ulaanbaatar 15171, Mongolia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10483678127266494796",
+  "rating": 4.2,
+  "reviewCount": 62,
+  "coords": [
+    47.9194331,
+    106.9014351
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 9:00 PM",
+    "Tuesday: 8:30 AM – 9:00 PM",
+    "Wednesday: 8:30 AM – 9:00 PM",
+    "Thursday: 8:30 AM – 9:00 PM",
+    "Friday: 8:30 AM – 9:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jur-ur-bakery-bayan-ondor/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:23:04.790Z"
+}

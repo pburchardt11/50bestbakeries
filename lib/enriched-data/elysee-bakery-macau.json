@@ -1,0 +1,32 @@
+{
+  "slug": "elysee-bakery-macau",
+  "name": "Élysée Bakery",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJa4uMEeB6ATQR-Bp1yfwaa9w",
+  "googleName": "Élysée Bakery",
+  "formattedAddress": "Edificio Golden Garden, R. de Pedro Coutinho, Macao",
+  "phone": "2852 7763",
+  "website": "http://www.facebook.com/ElyseeBakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=15882818183866161912",
+  "rating": 3.9,
+  "reviewCount": 38,
+  "coords": [
+    22.2032567,
+    113.5483888
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elysee-bakery-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:10:35.981Z"
+}

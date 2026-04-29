@@ -1,0 +1,32 @@
+{
+  "slug": "monkek-bakery-ulaanbaatar",
+  "name": "Monkek Bakery",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJhwvOxfOSll0R0mz00tO2VTc",
+  "googleName": "Monkek Bakery Монкек бэйкэри",
+  "formattedAddress": "WVGR+375, BGD - 11 khoroo, Ulaanbaatar 16060, Mongolia",
+  "phone": "7013 1660",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3987294066000030930",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    47.92513599999999,
+    106.8907441
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/monkek-bakery-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:23:55.917Z"
+}

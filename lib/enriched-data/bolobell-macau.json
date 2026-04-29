@@ -1,0 +1,32 @@
+{
+  "slug": "bolobell-macau",
+  "name": "Bolobell",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJsUSs70l7ATQRiB3VHoCkxkU",
+  "googleName": "菠蘿彪Bolobell",
+  "formattedAddress": "Macao罅些喇提督大馬路賈梅士商業中心G層W舖",
+  "phone": "6801 1892",
+  "website": "https://bolobellmacau.e-sales.app/storefront",
+  "googleMapsUrl": "https://maps.google.com/?cid=5027886904185789832",
+  "rating": 3.3,
+  "reviewCount": 9,
+  "coords": [
+    22.2061745,
+    113.5452929
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 8:00 PM",
+    "Tuesday: 12:00 – 8:00 PM",
+    "Wednesday: 12:00 – 8:00 PM",
+    "Thursday: 12:00 – 8:00 PM",
+    "Friday: 12:00 – 8:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bolobell-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:18.415Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "batbaigali-bakery-ulaanbaatar",
+  "name": "Batbaigali Bakery",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJPy8y2xOSll0R3dygCcE5lNs",
+  "googleName": "Batbaigali Bakery",
+  "formattedAddress": "WWHQ+H7R, BZD - 2 khoroo, Ulaanbaatar 13361, Mongolia",
+  "phone": "7000 0004",
+  "website": "https://www.facebook.com/batbaigal",
+  "googleMapsUrl": "https://maps.google.com/?cid=15822334892112403677",
+  "rating": 4.2,
+  "reviewCount": 28,
+  "coords": [
+    47.9289813,
+    106.9381288
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/batbaigali-bakery-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:24:03.202Z"
+}

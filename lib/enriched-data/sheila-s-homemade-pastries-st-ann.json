@@ -1,0 +1,32 @@
+{
+  "slug": "sheila-s-homemade-pastries-st-ann",
+  "name": "Sheila's Homemade Pastries",
+  "city": "St Ann",
+  "country": "Jamaica",
+  "placeId": "ChIJS5XgQmP_2o4R_DQ5pgq1W9U",
+  "googleName": "Sheila's Homemade Pastries",
+  "formattedAddress": "5 James Ave, Ocho Rios, Jamaica",
+  "phone": "(876) 795-0687",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15374080810302387452",
+  "rating": 3.6,
+  "reviewCount": 19,
+  "coords": [
+    18.4123546,
+    -77.1030766
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sheila-s-homemade-pastries-st-ann/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:05.099Z"
+}

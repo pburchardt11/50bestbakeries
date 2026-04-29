@@ -1,0 +1,32 @@
+{
+  "slug": "dough-rye-me-st-john",
+  "name": "Dough Rye Me",
+  "city": "St John",
+  "country": "Jersey",
+  "placeId": "ChIJeau-ueOtDUgR50n85LhSfhg",
+  "googleName": "Dough Rye Me",
+  "formattedAddress": "5, Temple Court, St John, Jersey JE3 4BJ, Jersey",
+  "phone": "07700 353354",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1764939058045012455",
+  "rating": 5,
+  "reviewCount": 21,
+  "coords": [
+    49.2465223,
+    -2.1384763
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 1:00 PM",
+    "Wednesday: 8:00 AM – 1:00 PM",
+    "Thursday: 8:00 AM – 1:00 PM",
+    "Friday: 8:00 AM – 1:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dough-rye-me-st-john/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:48:42.246Z"
+}

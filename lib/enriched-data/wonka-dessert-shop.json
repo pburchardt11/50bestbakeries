@@ -1,0 +1,32 @@
+{
+  "slug": "wonka-dessert-shop",
+  "name": "Wonka Dessert Shop",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJeaLHCQCFZ0ARKHB1yTfeQj0",
+  "googleName": "Wonka Dessert Shop",
+  "formattedAddress": "29 Sherif Khimshiashvili St, Batumi, Georgia",
+  "phone": "505 05 04 04",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4414334915960991784",
+  "rating": 2.2,
+  "reviewCount": 12,
+  "coords": [
+    41.6354969,
+    41.6076785
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 11:00 PM",
+    "Tuesday: 11:00 AM – 11:00 PM",
+    "Wednesday: 11:00 AM – 12:00 AM",
+    "Thursday: 11:00 AM – 11:00 PM",
+    "Friday: 11:00 AM – 12:00 AM",
+    "Saturday: 11:00 AM – 11:00 PM",
+    "Sunday: 11:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wonka-dessert-shop/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:14:18.896Z"
+}

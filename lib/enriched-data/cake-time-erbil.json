@@ -1,0 +1,32 @@
+{
+  "slug": "cake-time-erbil",
+  "name": "Cake Time Erbil",
+  "city": "أربيل",
+  "country": "Iraq",
+  "placeId": "ChIJMVFI4nUjB0AR31TVFy2FEdM",
+  "googleName": "white towers",
+  "formattedAddress": "Erbil- kasnazan rode، opposite Hiwa city، Erbil, Erbil Governorate, 44001, Iraq",
+  "phone": "0750 597 7677",
+  "website": "http://www.caketimeiq.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15209083845326755039",
+  "rating": 4,
+  "reviewCount": 38,
+  "coords": [
+    36.2006813,
+    44.0950532
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 AM",
+    "Tuesday: 7:00 AM – 2:00 AM",
+    "Wednesday: 7:00 AM – 2:00 AM",
+    "Thursday: 7:00 AM – 2:00 AM",
+    "Friday: 7:00 AM – 2:00 AM",
+    "Saturday: 7:00 AM – 2:00 AM",
+    "Sunday: 7:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-time-erbil/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:37:22.955Z"
+}

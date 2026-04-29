@@ -1,0 +1,30 @@
+{
+  "slug": "sawari-bakery-bharatpur",
+  "name": "Sawari Bakery",
+  "city": "Bharatpur",
+  "country": "Nepal",
+  "placeId": "ChIJ3c86aG_llDkRjt9XaZNVaPQ",
+  "googleName": "Sawari bakery",
+  "formattedAddress": "Bishal Chowk Bus Stop, MCRR+RG5, भरतपुर 44207, Nepal",
+  "phone": "986-5022322",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17611420434448244622",
+  "rating": 3.3,
+  "reviewCount": 4,
+  "coords": [
+    27.6920227,
+    84.4413462
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:33:36.843Z"
+}

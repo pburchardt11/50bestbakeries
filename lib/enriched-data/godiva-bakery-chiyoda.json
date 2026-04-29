@@ -1,0 +1,32 @@
+{
+  "slug": "godiva-bakery-chiyoda",
+  "name": "GODIVA Bakery",
+  "city": "Chiyoda",
+  "country": "Japan",
+  "placeId": "ChIJ2eny1rCLGGAReRxt4os-1iU",
+  "googleName": "GODIVA Bakery \"GODIPAN\" Yurakucho Main Store",
+  "formattedAddress": "Japan, 〒100-0006 Tokyo, Chiyoda City, Yūrakuchō, 2-chōme−10−１ 東京交通会館ビル １階",
+  "phone": "03-6665-7916",
+  "website": "https://shop.godiva.co.jp/store/56686",
+  "googleMapsUrl": "https://maps.google.com/?cid=2726435394939591801",
+  "rating": 3.3,
+  "reviewCount": 506,
+  "coords": [
+    35.6748902,
+    139.7643308
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 8:00 PM",
+    "Tuesday: 11:00 AM – 8:00 PM",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 8:00 PM",
+    "Saturday: 11:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/godiva-bakery-chiyoda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:52.612Z"
+}

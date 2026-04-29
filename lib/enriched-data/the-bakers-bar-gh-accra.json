@@ -1,0 +1,32 @@
+{
+  "slug": "the-bakers-bar-gh-accra",
+  "name": "The Bakers Bar -Gh",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJ9b1_qUKb3w8Rtunfef64Xfo",
+  "googleName": "The Bakers Bar Gh",
+  "formattedAddress": "13 Flower Street( Gw-1056-2452 Achimota, mile 7, Ghana",
+  "phone": "024 742 2400",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18040779085421996470",
+  "rating": 4.6,
+  "reviewCount": 37,
+  "coords": [
+    5.6316178,
+    -0.2415861
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 12:00 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakers-bar-gh-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:16:45.490Z"
+}

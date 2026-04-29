@@ -1,0 +1,32 @@
+{
+  "slug": "town-bakery-monrovia",
+  "name": "Town Bakery",
+  "city": "Monrovia",
+  "country": "Liberia",
+  "placeId": "ChIJU7_kNBEBCg8Rl5gyi7Fprjg",
+  "googleName": "Town Bakery & Sandwich",
+  "formattedAddress": "Robertsfield Hwy, Liberia",
+  "phone": "077 830 0300",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4084318123337095319",
+  "rating": 4.2,
+  "reviewCount": 38,
+  "coords": [
+    6.233246900000001,
+    -10.6718073
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/town-bakery-monrovia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:04:24.284Z"
+}

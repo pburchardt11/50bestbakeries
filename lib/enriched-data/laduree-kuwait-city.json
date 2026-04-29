@@ -1,0 +1,32 @@
+{
+  "slug": "laduree-kuwait-city",
+  "name": "Ladurée",
+  "city": "Kuwait City",
+  "country": "Kuwait",
+  "placeId": "ChIJz-93E0-Zzz8R-UZsom3zMKQ",
+  "googleName": "Laduree (360 Mall)",
+  "formattedAddress": "360 Mall Ground Floor Gate1 Jassem Mohamed Al Kharafi Rd Block7 Al Zahraa, Kuwait City, Kuwait",
+  "phone": "2221 2373",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11831223873304282873",
+  "rating": 4.7,
+  "reviewCount": 854,
+  "coords": [
+    29.3137752,
+    48.0084599
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Refined bakery with Parisian origins, specializing in French macarons in a number of flavors.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laduree-kuwait-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:56:29.230Z"
+}

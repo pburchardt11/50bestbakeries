@@ -1,0 +1,32 @@
+{
+  "slug": "fischer-betzdorf",
+  "name": "Fischer",
+  "city": "Betzdorf",
+  "country": "Luxembourg",
+  "placeId": "ChIJNWesyWVDlUcR7QgrNRdGPic",
+  "googleName": "Fischer",
+  "formattedAddress": "14 Rue Strachen, 6933 Mensdorf Betzdorf, Luxembourg",
+  "phone": "26 78 73 08",
+  "website": "https://fischer1913.com/fr-lu/nos-salons/fischer-mensdorf",
+  "googleMapsUrl": "https://maps.google.com/?cid=2827774681525455085",
+  "rating": 4.3,
+  "reviewCount": 212,
+  "coords": [
+    49.657748,
+    6.293038999999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fischer-betzdorf/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:15.336Z"
+}

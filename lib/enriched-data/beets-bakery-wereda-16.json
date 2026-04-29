@@ -1,0 +1,32 @@
+{
+  "slug": "beets-bakery-wereda-16",
+  "name": "Beets Bakery",
+  "city": "Wereda 16",
+  "country": "Ethiopia",
+  "placeId": "ChIJndYlxYeFSxYRqPBHwiM4020",
+  "googleName": "Beets Bakery",
+  "formattedAddress": "St. Gebreal Building, Mickey Leland St, Addis Ababa, Ethiopia",
+  "phone": "096 641 5800",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7913730696454598824",
+  "rating": 4.8,
+  "reviewCount": 10,
+  "coords": [
+    9.006634499999999,
+    38.7842703
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beets-bakery-wereda-16/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:07:10.834Z"
+}

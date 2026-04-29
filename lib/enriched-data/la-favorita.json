@@ -1,0 +1,32 @@
+{
+  "slug": "la-favorita",
+  "name": "La Favorita",
+  "city": "اربد",
+  "country": "Jordan",
+  "placeId": "ChIJ0yHF7Oh3HBURRnqIFZC1B10",
+  "googleName": "AJDA Coffee & Bakery",
+  "formattedAddress": "Al-Hezam Al-Akhdar St., Irbid, Jordan",
+  "phone": "07 9267 0595",
+  "website": "https://ajdacoffee.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6703526200805456454",
+  "rating": 4.8,
+  "reviewCount": 4638,
+  "coords": [
+    32.5375129,
+    35.8815675
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-favorita/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:16.622Z"
+}

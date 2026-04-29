@@ -1,0 +1,32 @@
+{
+  "slug": "efendi-turkish-bakery-ulaanbaatar",
+  "name": "Efendi Turkish Bakery",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJ3Ztv3A6Tll0RBLkI9AeiPRY",
+  "googleName": "Coffee shop",
+  "formattedAddress": "Unnamed Road, BZD - 4 khoroo, Ulaanbaatar 13344, Mongolia",
+  "phone": "8809 1191",
+  "website": "https://www.facebook.com/Efenditurkishbakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1602615197456447748",
+  "rating": 4.3,
+  "reviewCount": 9,
+  "coords": [
+    47.9193723,
+    106.9483204
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:30 PM",
+    "Saturday: 9:00 AM – 9:30 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/efendi-turkish-bakery-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:24:04.700Z"
+}

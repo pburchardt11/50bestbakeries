@@ -1,0 +1,32 @@
+{
+  "slug": "33-cubread-causeway-bay",
+  "name": "33 Cubread",
+  "city": "Causeway Bay",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJM-ewTgABBDQRv6f0GWL-Pao",
+  "googleName": "33 CUBREAD Causeway Bay Branch",
+  "formattedAddress": "香港銅鑼灣波斯富街116號, 地鋪 G/f, 116 Percival St, Causeway Bay, Hong Kong",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12267240657322813375",
+  "rating": 4.1,
+  "reviewCount": 119,
+  "coords": [
+    22.2782285,
+    114.1835455
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/33-cubread-causeway-bay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:42.611Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "berto-centre-differdange",
+  "name": "Berto (Centre)",
+  "city": "Differdange",
+  "country": "Luxembourg",
+  "placeId": "ChIJhUXjCx3L6kcRdGprx16ONyw",
+  "googleName": "Berto (Centre)",
+  "formattedAddress": "16 Av. Charlotte, 4530 Differdange, Luxembourg",
+  "phone": "28 79 79 99",
+  "website": "https://berto.lu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3186171799111690868",
+  "rating": 4.2,
+  "reviewCount": 63,
+  "coords": [
+    49.5218941,
+    5.8880552
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/berto-centre-differdange/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:43.901Z"
+}

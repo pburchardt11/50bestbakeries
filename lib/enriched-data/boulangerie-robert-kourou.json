@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-robert-kourou",
+  "name": "Boulangerie Robert",
+  "city": "Kourou",
+  "country": "French Guiana",
+  "placeId": "ChIJpWY6b3b_EY0Rc0_AMLui_0U",
+  "googleName": "Boulangerie Robert",
+  "formattedAddress": "1 Avenue de, Bourg de KOUROU, 97310 Av. General de Gaulle, Kourou 97310, French Guiana",
+  "phone": "0594 58 03 65",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5043929032538738547",
+  "rating": 4.2,
+  "reviewCount": 76,
+  "coords": [
+    5.149623099999999,
+    -52.6443356
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:30 PM",
+    "Tuesday: 5:30 AM – 7:45 PM",
+    "Wednesday: 5:00 AM – 7:30 PM",
+    "Thursday: 5:30 AM – 7:45 PM",
+    "Friday: 5:30 AM – 7:45 PM",
+    "Saturday: 5:00 AM – 7:30 PM",
+    "Sunday: 5:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-robert-kourou/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:58.411Z"
+}

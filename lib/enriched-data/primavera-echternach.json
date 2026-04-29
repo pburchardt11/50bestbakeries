@@ -1,0 +1,32 @@
+{
+  "slug": "primavera-echternach",
+  "name": "Primavera",
+  "city": "Echternach",
+  "country": "Luxembourg",
+  "placeId": "ChIJObTpq-FIlUcRx1stIW43mM0",
+  "googleName": "Centre Commercial Primavera",
+  "formattedAddress": "12 Rue Christophe Plantin, 2339 Gasperich Luxembourg",
+  "phone": "24 87 30 45",
+  "website": "https://primavera.lu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14814651920377797575",
+  "rating": 4.1,
+  "reviewCount": 1857,
+  "coords": [
+    49.5880166,
+    6.1202473
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/primavera-echternach/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:26.261Z"
+}

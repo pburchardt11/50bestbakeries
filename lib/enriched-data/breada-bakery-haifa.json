@@ -1,0 +1,32 @@
+{
+  "slug": "breada-bakery-haifa",
+  "name": "Breada Bakery",
+  "city": "Haifa",
+  "country": "Israel",
+  "placeId": "ChIJy3HnUTa6HRURR-PzCqIsySQ",
+  "googleName": "Breada",
+  "formattedAddress": "Ha-Namal St 6, Haifa, Israel",
+  "phone": "052-258-9716",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2650698930164327239",
+  "rating": 4.6,
+  "reviewCount": 2465,
+  "coords": [
+    32.81761669999999,
+    35.0025826
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 8:30 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breada-bakery-haifa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:56.770Z"
+}

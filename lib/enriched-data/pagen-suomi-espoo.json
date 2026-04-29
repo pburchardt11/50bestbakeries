@@ -1,0 +1,30 @@
+{
+  "slug": "pagen-suomi-espoo",
+  "name": "Pågen Suomi",
+  "city": "Espoo",
+  "country": "Finland",
+  "placeId": "ChIJy1Hldnj2jUYR_J6217yXUZU",
+  "googleName": "Oy Pågen Ab",
+  "formattedAddress": "Linnoitustie 4a, 02600 Espoo, Finland",
+  "phone": null,
+  "website": "https://pagen.fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10759547822093541116",
+  "rating": 4,
+  "reviewCount": 5,
+  "coords": [
+    60.2126202,
+    24.8129501
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 9:30 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:11:33.348Z"
+}

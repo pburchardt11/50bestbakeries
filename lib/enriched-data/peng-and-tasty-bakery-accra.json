@@ -1,0 +1,32 @@
+{
+  "slug": "peng-and-tasty-bakery-accra",
+  "name": "Peng and Tasty Bakery",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJXQKoOsSZ3w8RoRAwLfrgH3s",
+  "googleName": "Peng & Tasty Bakery",
+  "formattedAddress": "Hse no, 12 Kingsby St, Accra, Ghana",
+  "phone": "050 613 6895",
+  "website": "http://www.pengandtastybakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8872057156047736993",
+  "rating": 4.5,
+  "reviewCount": 40,
+  "coords": [
+    5.622147,
+    -0.2443576
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 5:30 AM – 9:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 5:30 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/peng-and-tasty-bakery-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:16:47.638Z"
+}

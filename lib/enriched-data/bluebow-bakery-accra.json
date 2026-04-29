@@ -1,0 +1,32 @@
+{
+  "slug": "bluebow-bakery-accra",
+  "name": "Bluebow bakery",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJP5m7iDSZ3w8Rwlk4T15PNIk",
+  "googleName": "Bluebow bakery",
+  "formattedAddress": "Afadjato St, Accra, Ghana",
+  "phone": "027 141 8224",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9886614348459694530",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    5.5651353,
+    -0.2392235
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bluebow-bakery-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:22.198Z"
+}

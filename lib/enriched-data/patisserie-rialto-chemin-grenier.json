@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-rialto-chemin-grenier",
+  "name": "Patisserie Rialto",
+  "city": "Chemin Grenier",
+  "country": "Mauritius",
+  "placeId": "ChIJ7equeHhlfCERmwx2TJZJJ6g",
+  "googleName": "Patisserie Rialto",
+  "formattedAddress": "GF5C+4JG, Chemin Grenier, Mauritius",
+  "phone": "622 8823",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12116734232340335771",
+  "rating": 4.2,
+  "reviewCount": 38,
+  "coords": [
+    -20.4921945,
+    57.47158
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: 7:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-rialto-chemin-grenier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:01.538Z"
+}

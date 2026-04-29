@@ -1,0 +1,32 @@
+{
+  "slug": "sprinkles-bakery-mehboula",
+  "name": "Sprinkles bakery mehboula",
+  "city": "الأحمدى",
+  "country": "Kuwait",
+  "placeId": "ChIJ3783IUwJzz8RhobeW2qkGbQ",
+  "googleName": "Sablè",
+  "formattedAddress": "Nova Tower, Salem Sabah Al Salem Al Sabah St, Kuwait",
+  "phone": "503 91860",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12977584577959593606",
+  "rating": 4.1,
+  "reviewCount": 39,
+  "coords": [
+    29.1526055,
+    48.124863
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sprinkles-bakery-mehboula/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:02.204Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "jersey-bean-bakery-limited-st-helier",
+  "name": "Jersey Bean Bakery Limited",
+  "city": "St Helier",
+  "country": "Jersey",
+  "placeId": "ChIJuXbMAgBTDEgRexCRz7FZd1E",
+  "googleName": "Jersey Bean Bakery Limited",
+  "formattedAddress": "7 Aquila Rd, St Helier, Jersey JE2 3XD, Jersey",
+  "phone": "01534 733472",
+  "website": "http://www.jerseybeanbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5870259259527204987",
+  "rating": 5,
+  "reviewCount": 9,
+  "coords": [
+    49.1880643,
+    -2.1087946
+  ],
+  "openingHours": [
+    "Monday: 4:30 AM – 1:30 PM",
+    "Tuesday: 4:30 AM – 1:30 PM",
+    "Wednesday: 4:30 AM – 1:30 PM",
+    "Thursday: 4:30 AM – 1:30 PM",
+    "Friday: 4:30 AM – 1:30 PM",
+    "Saturday: 4:30 AM – 1:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jersey-bean-bakery-limited-st-helier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:48:27.641Z"
+}

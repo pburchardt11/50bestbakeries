@@ -1,0 +1,32 @@
+{
+  "slug": "cakeberry-bakery-cafe-bhaktapur",
+  "name": "Cakeberry Bakery Cafe",
+  "city": "Bhaktapur",
+  "country": "Nepal",
+  "placeId": "ChIJ1WN0bwAb6zkRKQh8k6tNtno",
+  "googleName": "Cakeberry Bakery Cafe",
+  "formattedAddress": "MCC5+3XM, Bhaktapur 44800, Nepal",
+  "phone": "984-1520744",
+  "website": "https://www.facebook.com/share/19jXD2rgrD/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8842340317697673257",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    27.6702079,
+    85.4099347
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakeberry-bakery-cafe-bhaktapur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:32:55.096Z"
+}

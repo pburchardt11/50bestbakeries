@@ -1,0 +1,32 @@
+{
+  "slug": "bouchee-chisinau",
+  "name": "Bouchee",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJLwRgWTt8yUARk8qti0N2-fg",
+  "googleName": "Bouchee",
+  "formattedAddress": "MD-2001, Bulevardul Ștefan cel Mare și Sfînt 67, Chișinău, Moldova",
+  "phone": "022 274 335",
+  "website": "https://m.facebook.com/Boucheemd/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17940500623085390483",
+  "rating": 4.3,
+  "reviewCount": 410,
+  "coords": [
+    47.0165803,
+    28.8439414
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bouchee-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:34.254Z"
+}

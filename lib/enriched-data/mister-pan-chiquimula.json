@@ -1,0 +1,32 @@
+{
+  "slug": "mister-pan-chiquimula",
+  "name": "Mister Pan",
+  "city": "Chiquimula",
+  "country": "Guatemala",
+  "placeId": "ChIJO7WLQG8jY48RfLHh6uol_hU",
+  "googleName": "Mister Pan",
+  "formattedAddress": "Av. Delgado 11, Quezaltepeque, El Salvador",
+  "phone": "7109 2799",
+  "website": "http://misterpan.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1584745809774227836",
+  "rating": 4.2,
+  "reviewCount": 181,
+  "coords": [
+    13.8337472,
+    -89.27138599999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mister-pan-chiquimula/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:24:44.869Z"
+}

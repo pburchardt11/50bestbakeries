@@ -1,0 +1,32 @@
+{
+  "slug": "mekren-s-bakery-nadur",
+  "name": "Mekren's Bakery",
+  "city": "Nadur",
+  "country": "Malta",
+  "placeId": "ChIJ0e2YfC1LDhMRXCLNpSKtJ5Y",
+  "googleName": "Mekren's Bakery",
+  "formattedAddress": "27RQ+288, Triq Hanaq, In-Nadur, Malta",
+  "phone": "2155 2342",
+  "website": "https://www.facebook.com/mekrensbakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10819806994103083612",
+  "rating": 4.6,
+  "reviewCount": 1344,
+  "coords": [
+    36.0400363,
+    14.2883219
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 8:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mekren-s-bakery-nadur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:48.860Z"
+}

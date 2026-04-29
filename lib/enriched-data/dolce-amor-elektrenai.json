@@ -1,0 +1,32 @@
+{
+  "slug": "dolce-amor-elektrenai",
+  "name": "Dolce Amor",
+  "city": "Elektrėnai",
+  "country": "Lithuania",
+  "placeId": "ChIJayyU9p9h50YR1DgW2cNgcMI",
+  "googleName": "Dolce Amor",
+  "formattedAddress": "Rungos g. 8, 26109 Elektrėnai, Lithuania",
+  "phone": "(0-670) 97142",
+  "website": "https://dolceamor.lt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14010804835026614484",
+  "rating": 4.6,
+  "reviewCount": 150,
+  "coords": [
+    54.78425050000001,
+    24.657716
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dolce-amor-elektrenai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:06:26.412Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "erlandia-ou-parnu",
+  "name": "Erlandia OÜ",
+  "city": "Pärnu",
+  "country": "Estonia",
+  "placeId": "ChIJb7WGDj_97EYRNXJztLw7YBA",
+  "googleName": "Erlandia OÜ",
+  "formattedAddress": "J. V. Jannseni tn 26, Pärnu, 80032 Pärnu maakond, Estonia",
+  "phone": "442 5555 ext. 56466866",
+  "website": "https://www.pirukas.ee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1180008784038425141",
+  "rating": 4,
+  "reviewCount": 18,
+  "coords": [
+    58.3905073,
+    24.4887105
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:30 PM",
+    "Tuesday: 8:00 AM – 4:30 PM",
+    "Wednesday: 8:00 AM – 4:30 PM",
+    "Thursday: 8:00 AM – 4:30 PM",
+    "Friday: 8:00 AM – 4:30 PM",
+    "Saturday: Closed",
+    "Sunday: 8:00 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/erlandia-ou-parnu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:57.643Z"
+}

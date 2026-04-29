@@ -1,0 +1,32 @@
+{
+  "slug": "gulli-arnar-hafnarfjar-arkaupsta-ur",
+  "name": "Gulli Arnar",
+  "city": "Hafnarfjarðarkaupstaður",
+  "country": "Iceland",
+  "placeId": "ChIJZau8kSgN1kgRm7UFtEvy_to",
+  "googleName": "Gulli Arnar",
+  "formattedAddress": "Flatahraun 31, 220 Hafnarfjörður, Iceland",
+  "phone": "869 1306",
+  "website": "https://www.gulliarnar.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15780316551309538715",
+  "rating": 4.8,
+  "reviewCount": 56,
+  "coords": [
+    64.07763059999999,
+    -21.9318567
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gulli-arnar-hafnarfjar-arkaupsta-ur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:03.055Z"
+}

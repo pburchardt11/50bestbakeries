@@ -1,0 +1,32 @@
+{
+  "slug": "meduoliu-namai-avizieniai",
+  "name": "Meduolių namai",
+  "city": "Avižieniai",
+  "country": "Lithuania",
+  "placeId": "ChIJQyrq7FOR3UYRVWg_ZPrxfSM",
+  "googleName": "Meduolių namai",
+  "formattedAddress": "Vaikystės g. 2, 14184 Avižieniai, Lithuania",
+  "phone": "(0-609) 65456",
+  "website": "http://meduoliunamai.lt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2557466221142304853",
+  "rating": 4.6,
+  "reviewCount": 36,
+  "coords": [
+    54.7582386,
+    25.1881938
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/meduoliu-namai-avizieniai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:05:55.300Z"
+}

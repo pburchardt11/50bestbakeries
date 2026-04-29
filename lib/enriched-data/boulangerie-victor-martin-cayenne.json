@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-victor-martin-cayenne",
+  "name": "Boulangerie Victor Martin Cayenne",
+  "city": "Cayenne",
+  "country": "French Guiana",
+  "placeId": "ChIJL0vj38A8Eo0R_tV5m06rGHY",
+  "googleName": "Boulangerie Victor Martin Cayenne",
+  "formattedAddress": "Rte de Baduel, Cayenne 97300, French Guiana",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8509739850020804094",
+  "rating": 4.2,
+  "reviewCount": 331,
+  "coords": [
+    4.9287177,
+    -52.3001582
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-victor-martin-cayenne/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:37.580Z"
+}

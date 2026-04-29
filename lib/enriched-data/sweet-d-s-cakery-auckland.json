@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-d-s-cakery-auckland",
+  "name": "Sweet D's Cakery",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJ02kVHHxSDW0RG1-Ybi0vLmc",
+  "googleName": "Sweet Secret Cake House",
+  "formattedAddress": "33 Station Road, Manurewa, Auckland 2102, New Zealand",
+  "phone": "09 269 2253",
+  "website": "http://www.sweetsecret.co.nz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7434931907010780955",
+  "rating": 4.8,
+  "reviewCount": 81,
+  "coords": [
+    -37.0216983,
+    174.8950359
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-d-s-cakery-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:59.490Z"
+}

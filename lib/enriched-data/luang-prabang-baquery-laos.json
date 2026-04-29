@@ -1,0 +1,32 @@
+{
+  "slug": "luang-prabang-baquery-laos",
+  "name": "Luang Prabang Baquery",
+  "city": "Laos",
+  "country": "Laos",
+  "placeId": "ChIJOb_zAUUqLzER2ymJh7YjHqg",
+  "googleName": "AB Bakery",
+  "formattedAddress": "V4JJ+6GW, Manomai Rd, Luang Prabang, Laos",
+  "phone": "020 28 666 699",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12114159314538146267",
+  "rating": 4.7,
+  "reviewCount": 76,
+  "coords": [
+    19.8806062,
+    102.1313378
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:30 PM",
+    "Tuesday: 10:00 AM – 9:30 PM",
+    "Wednesday: 10:00 AM – 9:30 PM",
+    "Thursday: 10:00 AM – 9:30 PM",
+    "Friday: 10:00 AM – 9:30 PM",
+    "Saturday: 10:00 AM – 9:30 PM",
+    "Sunday: 10:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/luang-prabang-baquery-laos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:59:24.643Z"
+}

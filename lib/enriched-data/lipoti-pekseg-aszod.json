@@ -1,0 +1,32 @@
+{
+  "slug": "lipoti-pekseg-aszod",
+  "name": "Lipóti pékség",
+  "city": "Aszód",
+  "country": "Hungary",
+  "placeId": "ChIJ14GoMjnLQUcRtSTx2erh_4Q",
+  "googleName": "Lipóti pékség",
+  "formattedAddress": "Aszód, Kossuth Lajos u. 3, 2170 Hungary",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9583626930862761141",
+  "rating": 4.6,
+  "reviewCount": 37,
+  "coords": [
+    47.6515572,
+    19.4760514
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 5:30 PM",
+    "Tuesday: 5:00 AM – 5:30 PM",
+    "Wednesday: 5:00 AM – 5:30 PM",
+    "Thursday: 5:00 AM – 5:30 PM",
+    "Friday: 5:00 AM – 5:30 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lipoti-pekseg-aszod/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:33:09.500Z"
+}

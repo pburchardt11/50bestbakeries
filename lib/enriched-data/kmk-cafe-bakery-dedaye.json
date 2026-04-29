@@ -1,0 +1,32 @@
+{
+  "slug": "kmk-cafe-bakery-dedaye",
+  "name": "KMK cafe & bakery",
+  "city": "Dedaye",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJEXLFEnqZ6jAR4eD1T5OUiSE",
+  "googleName": "KMK ဘိုကေလး Bakery & Cafe",
+  "formattedAddress": "79RW+446, Third Rd, Bogale, Myanmar (Burma)",
+  "phone": "09 787 002283",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2416626035483599073",
+  "rating": 4.3,
+  "reviewCount": 7,
+  "coords": [
+    16.2902753,
+    95.3952657
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:31 PM",
+    "Tuesday: 7:00 AM – 9:31 PM",
+    "Wednesday: 7:00 AM – 9:31 PM",
+    "Thursday: 7:00 AM – 9:31 PM",
+    "Friday: 7:00 AM – 9:31 PM",
+    "Saturday: 7:00 AM – 9:31 PM",
+    "Sunday: 7:00 AM – 9:31 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kmk-cafe-bakery-dedaye/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:30:02.418Z"
+}

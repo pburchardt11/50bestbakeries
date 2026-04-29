@@ -1,0 +1,32 @@
+{
+  "slug": "le-poirier-le-lamentin",
+  "name": "Le Poirier",
+  "city": "Le Lamentin",
+  "country": "Martinique",
+  "placeId": "ChIJ0xrcJoKhaowRzy7p7i3hV_g",
+  "googleName": "Le poirier-Pâtisserie",
+  "formattedAddress": "Long Pré, 38 Rue Pierre Craspag, Le Lamentin 97232, Martinique",
+  "phone": "0596 56 21 64",
+  "website": "http://boulangerie-patisserie-lamentin.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+  "googleMapsUrl": "https://maps.google.com/?cid=17895019231777992399",
+  "rating": 4.2,
+  "reviewCount": 13,
+  "coords": [
+    14.6337022,
+    -61.008787
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:30 PM",
+    "Tuesday: 6:00 AM – 5:30 PM",
+    "Wednesday: 6:00 AM – 12:30 PM",
+    "Thursday: 6:00 AM – 5:30 PM",
+    "Friday: 6:00 AM – 5:30 PM",
+    "Saturday: 6:00 AM – 12:30 PM",
+    "Sunday: 6:30 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-poirier-le-lamentin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:17:52.014Z"
+}

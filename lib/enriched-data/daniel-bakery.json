@@ -1,0 +1,32 @@
+{
+  "slug": "daniel-bakery",
+  "name": "Daniel Bakery",
+  "city": "الشونة الوسطى",
+  "country": "Jordan",
+  "placeId": "ChIJfUC260q3HBURmFS8RU-QSjw",
+  "googleName": "Daniel Bakery",
+  "formattedAddress": "الشونة الجنوبية-جوفة الكفرين- الحي الغربي الشونة الجنوبية، Juwafat al-Kafrayn 11180, Jordan",
+  "phone": "07 9669 8058",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4344443460699051160",
+  "rating": 3,
+  "reviewCount": 1,
+  "coords": [
+    31.8653366,
+    35.6352963
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/daniel-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:28.130Z"
+}

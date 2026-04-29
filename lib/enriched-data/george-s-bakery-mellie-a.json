@@ -1,0 +1,32 @@
+{
+  "slug": "george-s-bakery-mellie-a",
+  "name": "George's Bakery",
+  "city": "Mellieħa",
+  "country": "Malta",
+  "placeId": "ChIJk-C_NjNMDhMRqMQfhN0vfbA",
+  "googleName": "George's Bakery",
+  "formattedAddress": "41 Triq Il-Kbira, Il-Mellieħa, Malta",
+  "phone": "2152 0685",
+  "website": "https://www.yellow.com.mt/georges-bakery_bakeries+mellieha/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12717373551215101096",
+  "rating": 4.5,
+  "reviewCount": 81,
+  "coords": [
+    35.9564575,
+    14.3634824
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/george-s-bakery-mellie-a/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:34.712Z"
+}

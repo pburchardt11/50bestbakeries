@@ -1,0 +1,32 @@
+{
+  "slug": "cake-rise-boyle",
+  "name": "Cake Rise",
+  "city": "Boyle",
+  "country": "Ireland",
+  "placeId": "ChIJ3ZOnOlCUXkgRWnVTjLNm4O8",
+  "googleName": "Cake Rise",
+  "formattedAddress": "Sheerevagh, Co. Sligo, Ireland",
+  "phone": "087 113 5180",
+  "website": "http://www.cakerise.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17284928291187422554",
+  "rating": 4.9,
+  "reviewCount": 35,
+  "coords": [
+    54.0889641,
+    -8.3700312
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 11:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-rise-boyle/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:41:30.043Z"
+}

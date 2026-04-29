@@ -1,0 +1,32 @@
+{
+  "slug": "four-bakery-st-helier",
+  "name": "Four Bakery",
+  "city": "St Helier",
+  "country": "Jersey",
+  "placeId": "ChIJOarONKhTDEgR_6shFaZQKhA",
+  "googleName": "Four Bakery",
+  "formattedAddress": "53-55 Bath St, St Helier, Jersey JE2 4SU, Jersey",
+  "phone": "01534 611979",
+  "website": "http://www.fourbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1164832127878015999",
+  "rating": 4.9,
+  "reviewCount": 22,
+  "coords": [
+    49.1855754,
+    -2.1022488
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 2:00 PM",
+    "Wednesday: 8:00 AM – 2:00 PM",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: 8:30 AM – 3:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/four-bakery-st-helier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:48:14.571Z"
+}

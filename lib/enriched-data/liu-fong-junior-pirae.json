@@ -1,0 +1,32 @@
+{
+  "slug": "liu-fong-junior-pirae",
+  "name": "Liu Fong Junior",
+  "city": "Pirae",
+  "country": "French Polynesia",
+  "placeId": "ChIJvZtN5O05mnYRBxOP5Z0eUu0",
+  "googleName": "Liu Fong Junior",
+  "formattedAddress": "215 Rue de l'abbé ROUGIER, Pirae 98714, French Polynesia",
+  "phone": "40 43 62 50",
+  "website": "https://www.facebook.com/LiouFongJunior/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17100764398589252359",
+  "rating": 4.2,
+  "reviewCount": 16,
+  "coords": [
+    -17.5288061,
+    -149.552145
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 2:30 PM",
+    "Tuesday: 5:00 AM – 2:30 PM",
+    "Wednesday: 5:00 AM – 2:30 PM",
+    "Thursday: 5:00 AM – 2:30 PM",
+    "Friday: 5:00 AM – 2:30 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/liu-fong-junior-pirae/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:50.128Z"
+}

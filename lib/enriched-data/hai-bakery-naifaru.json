@@ -1,0 +1,32 @@
+{
+  "slug": "hai-bakery-naifaru",
+  "name": "HAI Bakery",
+  "city": "Naifaru",
+  "country": "Maldives",
+  "placeId": "ChIJh6CFlYDXajsRYfLe0FdGRsY",
+  "googleName": "HAI Bakery",
+  "formattedAddress": "Naifaru, Maldives",
+  "phone": "971-7600",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14287184210859848289",
+  "rating": 3,
+  "reviewCount": 1,
+  "coords": [
+    5.4456878,
+    73.3672383
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 PM, 1:00 – 3:00 PM, 4:00 – 6:00 PM, 8:00 – 10:00 PM",
+    "Tuesday: 8:00 AM – 12:00 PM, 1:00 – 3:00 PM, 4:00 – 6:00 PM, 9:00 – 10:00 PM",
+    "Wednesday: 8:00 AM – 12:00 PM, 1:00 – 3:00 PM, 4:00 – 6:00 PM, 8:00 – 10:00 PM",
+    "Thursday: 8:00 AM – 12:00 PM, 1:00 – 3:00 PM, 4:00 – 6:00 PM, 8:00 – 10:00 PM",
+    "Friday: 8:00 – 11:00 AM, 2:00 – 3:00 PM, 4:00 – 6:00 PM, 8:00 – 10:00 PM",
+    "Saturday: 8:00 AM – 12:00 PM, 1:00 – 3:00 PM, 4:00 – 6:00 PM, 8:00 – 10:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM, 1:00 – 3:00 PM, 4:00 – 6:00 PM, 8:00 – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hai-bakery-naifaru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:07.541Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bakarameistarinn-hafnarfjar-arkaupsta-ur",
+  "name": "Bakarameistarinn",
+  "city": "Hafnarfjarðarkaupstaður",
+  "country": "Iceland",
+  "placeId": "ChIJ7VIPbu4M1kgRzH4zaqklf5o",
+  "googleName": "Bakarameistarinn - Hafnarfjörður",
+  "formattedAddress": "Flatahraun, 220 Hafnarfjörður, Iceland",
+  "phone": "577 3200",
+  "website": "http://www.bakarameistarinn.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11132658213444615884",
+  "rating": 4.3,
+  "reviewCount": 36,
+  "coords": [
+    64.07642059999999,
+    -21.9414456
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakarameistarinn-hafnarfjar-arkaupsta-ur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:01.310Z"
+}

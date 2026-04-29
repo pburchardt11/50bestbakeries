@@ -1,0 +1,30 @@
+{
+  "slug": "panaderia-juan-castillo-condega",
+  "name": "Panaderia Juan Castillo",
+  "city": "Condega",
+  "country": "Nicaragua",
+  "placeId": "ChIJg7lb4xvlcI8RuQashEsmImI",
+  "googleName": "Panderia Castillo 1",
+  "formattedAddress": "2C, Gasolinera UNO, al Oeste 25 Vrs al Norte, Chichigalpa, Nicaragua",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7071256470715369145",
+  "rating": 4.9,
+  "reviewCount": 11,
+  "coords": [
+    12.5761939,
+    -87.0281205
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 5:00 PM",
+    "Tuesday: 5:00 AM – 5:00 PM",
+    "Wednesday: 5:00 AM – 5:00 PM",
+    "Thursday: 5:00 AM – 5:00 PM",
+    "Friday: 5:00 AM – 5:00 PM",
+    "Saturday: 5:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:38:05.853Z"
+}

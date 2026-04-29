@@ -1,0 +1,32 @@
+{
+  "slug": "sajad-usta-cafe-bakery-tabriz",
+  "name": "Sajad Usta Cafe Bakery",
+  "city": "Tabriz",
+  "country": "Iran",
+  "placeId": "ChIJJRrROhIFGkAR4qGagWtX3eM",
+  "googleName": "SajadUsta Cafe and Bakery",
+  "formattedAddress": "East Azerbaijan Province, Tabriz, Parvaz St, 29R8+9WV, Iran",
+  "phone": "0914 864 4735",
+  "website": "http://www.sajadusta.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16419375935710208482",
+  "rating": 4.6,
+  "reviewCount": 32,
+  "coords": [
+    38.0409966,
+    46.3672996
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:30 PM",
+    "Tuesday: 8:00 AM – 11:30 PM",
+    "Wednesday: 8:00 AM – 11:30 PM",
+    "Thursday: 8:00 AM – 11:30 PM",
+    "Friday: 8:00 AM – 11:30 PM",
+    "Saturday: 8:00 AM – 11:30 PM",
+    "Sunday: 8:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sajad-usta-cafe-bakery-tabriz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:36:07.089Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bakels-fiji-limited-nadi",
+  "name": "Bakels Fiji limited",
+  "city": "Nadi",
+  "country": "Fiji",
+  "placeId": "ChIJoT2UNJVbF24RKwqci6vi19g",
+  "googleName": "Bulaccino Café Nadi Plaza",
+  "formattedAddress": "Nadi Plaza shopping centre, Queens Rd, Nadi, Fiji",
+  "phone": "776 8638",
+  "website": "https://www.bulaccino.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15625206658594769451",
+  "rating": 4.3,
+  "reviewCount": 786,
+  "coords": [
+    -17.7846691,
+    177.4278867
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakels-fiji-limited-nadi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:09:00.769Z"
+}

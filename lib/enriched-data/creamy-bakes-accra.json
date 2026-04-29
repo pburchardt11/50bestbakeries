@@ -1,0 +1,32 @@
+{
+  "slug": "creamy-bakes-accra",
+  "name": "Creamy Bakes",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJGc6YRPCb3w8RU4FHV6Y30E8",
+  "googleName": "Creamy Bakes",
+  "formattedAddress": "Aggrey St, Accra, Ghana",
+  "phone": "055 555 7022",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5751157911720526163",
+  "rating": 4.4,
+  "reviewCount": 104,
+  "coords": [
+    5.6371387,
+    -0.2135865
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/creamy-bakes-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:16:06.785Z"
+}

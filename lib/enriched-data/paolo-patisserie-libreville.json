@@ -1,0 +1,32 @@
+{
+  "slug": "paolo-patisserie-libreville",
+  "name": "Paolo Patisserie",
+  "city": "Libreville",
+  "country": "Gabon",
+  "placeId": "ChIJpVoZYVM7fxAR-0J1lKYqENs",
+  "googleName": "Paul Gabon",
+  "formattedAddress": "glass, Libreville, Gabon",
+  "phone": "011 44 99 99",
+  "website": "http://www.paul-gabon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15785163588877239035",
+  "rating": 4.1,
+  "reviewCount": 82,
+  "coords": [
+    0.3763756,
+    9.454739499999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paolo-patisserie-libreville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:16.752Z"
+}

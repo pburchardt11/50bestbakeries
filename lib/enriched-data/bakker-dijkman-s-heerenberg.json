@@ -1,0 +1,32 @@
+{
+  "slug": "bakker-dijkman-s-heerenberg",
+  "name": "Bakker Dijkman",
+  "city": "'s-Heerenberg",
+  "country": "Netherlands",
+  "placeId": "ChIJMeLTc0edx0cR5jAxBq-VGJc",
+  "googleName": "bakkerij dijkman taart en gebak",
+  "formattedAddress": "Molenpoortstraat 2, 7041 BG 's-Heerenberg, Netherlands",
+  "phone": "0314 661 320",
+  "website": "http://dijkman.echtebakker.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10887616678123876582",
+  "rating": 4.6,
+  "reviewCount": 161,
+  "coords": [
+    51.8761543,
+    6.245999599999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-dijkman-s-heerenberg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:05.962Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "nurseit-cakes",
+  "name": "Nurseit Cakes",
+  "city": "Алматы",
+  "country": "Kazakhstan",
+  "placeId": "ChIJY9hbHjIVgzgRcwUj7Ens5vw",
+  "googleName": "Nurseit_cakes",
+  "formattedAddress": "9V86+WQ2, Ul. Abylay Khana, Boralday, Kazakhstan",
+  "phone": "8 (707) 853 0352",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18223512744439776627",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    43.367251,
+    76.86189999999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nurseit-cakes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:51:05.133Z"
+}

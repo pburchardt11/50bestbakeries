@@ -1,0 +1,32 @@
+{
+  "slug": "reposteria-om-distrito-central",
+  "name": "Reposteria OM",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJV2VkZ9y8b48R9JmXGB_RyGg",
+  "googleName": "Reposteria \"OM\"",
+  "formattedAddress": "5ta entrada Col. Kennedy, a un costado del estadio Emilio Larach., Tegucigalpa, Francisco Morazán, Honduras",
+  "phone": "2228-0453",
+  "website": "http://app.reposteriaom.club/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7550514706773416436",
+  "rating": 4.4,
+  "reviewCount": 592,
+  "coords": [
+    14.0647249,
+    -87.1752296
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/reposteria-om-distrito-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:17.354Z"
+}

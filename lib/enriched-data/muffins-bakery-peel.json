@@ -1,0 +1,30 @@
+{
+  "slug": "muffins-bakery-peel",
+  "name": "Muffins Bakery",
+  "city": "Peel",
+  "country": "Isle of Man",
+  "placeId": "ChIJJQ1zQ1uTY0gRrYee-hhrTEs",
+  "googleName": "GG Bakery",
+  "formattedAddress": "37 Michael St, Peel, Isle of Man IM5 1HD, Isle of Man",
+  "phone": null,
+  "website": "https://www.facebook.com/profile.php?id=100095377753553",
+  "googleMapsUrl": "https://maps.google.com/?cid=5425829406102685613",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    54.2228884,
+    -4.693067699999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:30 AM – 2:30 PM",
+    "Wednesday: 9:30 AM – 2:30 PM",
+    "Thursday: 9:30 AM – 2:30 PM",
+    "Friday: 9:30 AM – 2:30 PM",
+    "Saturday: 9:30 AM – 2:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:41:45.775Z"
+}

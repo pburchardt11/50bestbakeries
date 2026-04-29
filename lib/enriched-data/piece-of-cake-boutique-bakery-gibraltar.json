@@ -1,0 +1,32 @@
+{
+  "slug": "piece-of-cake-boutique-bakery-gibraltar",
+  "name": "Piece of Cake Boutique Bakery",
+  "city": "Gibraltar",
+  "country": "Gibraltar",
+  "placeId": "ChIJLZNACIC_DA0RpaQgJ-S2a74",
+  "googleName": "Piece of Cake Boutique Bakery",
+  "formattedAddress": "The Residence, 29-35 Engineer Ln, Gibraltar GX11 1AA, Gibraltar",
+  "phone": "200 43856",
+  "website": "http://www.pieceofcake.gi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13721261780739597477",
+  "rating": 4.6,
+  "reviewCount": 98,
+  "coords": [
+    36.1425832,
+    -5.3527032
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:30 PM",
+    "Tuesday: 10:00 AM – 6:30 PM",
+    "Wednesday: 10:00 AM – 6:30 PM",
+    "Thursday: 10:00 AM – 6:30 PM",
+    "Friday: 10:00 AM – 6:30 PM",
+    "Saturday: 11:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/piece-of-cake-boutique-bakery-gibraltar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:36.958Z"
+}

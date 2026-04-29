@@ -1,0 +1,32 @@
+{
+  "slug": "village-bakery-cidade-de-maputo",
+  "name": "Village Bakery",
+  "city": "Cidade de Maputo",
+  "country": "Mozambique",
+  "placeId": "ChIJpzGaJ_WZ5h4RKRGV_2WXwxk",
+  "googleName": "Joss Village",
+  "formattedAddress": "3JFJ+75W, Rua do Embondeiro, Maputo, Mozambique",
+  "phone": "84 814 6345",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1856493935742226729",
+  "rating": 3.8,
+  "reviewCount": 236,
+  "coords": [
+    -25.9267712,
+    32.6304471
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/village-bakery-cidade-de-maputo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:29:18.583Z"
+}

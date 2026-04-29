@@ -1,0 +1,32 @@
+{
+  "slug": "hannaz-bakery-bhaktapur",
+  "name": "Hannaz Bakery",
+  "city": "Bhaktapur",
+  "country": "Nepal",
+  "placeId": "ChIJB9SSjg8a6zkR-4oLTOq5-Bw",
+  "googleName": "Harman Live Bakery",
+  "formattedAddress": "M9C7+4X4, Bhaktapur 44600, Nepal",
+  "phone": "985-1060246",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2087622843235535611",
+  "rating": 3.8,
+  "reviewCount": 185,
+  "coords": [
+    27.6702645,
+    85.3649554
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hannaz-bakery-bhaktapur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:32:53.191Z"
+}

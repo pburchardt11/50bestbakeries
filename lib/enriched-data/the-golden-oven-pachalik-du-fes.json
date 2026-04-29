@@ -1,0 +1,32 @@
+{
+  "slug": "the-golden-oven-pachalik-du-fes",
+  "name": "The Golden Oven",
+  "city": "Pachalik du Fes باشوية فاس",
+  "country": "Morocco",
+  "placeId": "ChIJ56TUPwCNnw0RNPHtwosZXnw",
+  "googleName": "The Golden Oven",
+  "formattedAddress": "4 Rte de Sefrou, Fès, Morocco",
+  "phone": "07 77 24 95 94",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8961628396575387956",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "coords": [
+    34.0039051,
+    -4.9731263
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-golden-oven-pachalik-du-fes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:28:22.570Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "everybody-s-bakery-and-deli-kingston",
+  "name": "Everybody's Bakery and Deli",
+  "city": "Kingston",
+  "country": "Jamaica",
+  "placeId": "ChIJ85CaGIo_244RaHHcjtM_U1Q",
+  "googleName": "Everybody's Deli & Bakery",
+  "formattedAddress": "104 Slipe Rd, Kingston, Jamaica",
+  "phone": "(876) 929-4943",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6076270500120392040",
+  "rating": 3.3,
+  "reviewCount": 7,
+  "coords": [
+    17.9871274,
+    -76.7900714
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/everybody-s-bakery-and-deli-kingston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:46:03.605Z"
+}

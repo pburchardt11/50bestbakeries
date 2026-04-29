@@ -1,0 +1,32 @@
+{
+  "slug": "eat-humble-pie-alexandra",
+  "name": "Eat Humble Pie",
+  "city": "Alexandra",
+  "country": "New Zealand",
+  "placeId": "ChIJ2cCIkFIjK6gRp4tBd8s6xOc",
+  "googleName": "Eat Humble Pie",
+  "formattedAddress": "Centrepoint Mall Tarbert Street, Alexandra 9320, New Zealand",
+  "phone": "027 345 4324",
+  "website": "https://m.facebook.com/eathumblepie/?ref=page_internal&mt_nav=1",
+  "googleMapsUrl": "https://maps.google.com/?cid=16700537963750198183",
+  "rating": 4.5,
+  "reviewCount": 42,
+  "coords": [
+    -45.2567624,
+    169.3923015
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eat-humble-pie-alexandra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:08.387Z"
+}

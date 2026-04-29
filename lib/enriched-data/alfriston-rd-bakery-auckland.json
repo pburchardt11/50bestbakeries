@@ -1,0 +1,32 @@
+{
+  "slug": "alfriston-rd-bakery-auckland",
+  "name": "Alfriston Rd Bakery",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJD3DK4oNSDW0RcmWg1yh1i1M",
+  "googleName": "Alfriston Rd Bakery",
+  "formattedAddress": "49 Claude Road, Manurewa East, Auckland 2102, New Zealand",
+  "phone": "022 560 8227",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6020034145187554674",
+  "rating": 4.3,
+  "reviewCount": 140,
+  "coords": [
+    -37.0213779,
+    174.9037696
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 4:00 PM",
+    "Tuesday: 5:00 AM – 4:00 PM",
+    "Wednesday: 5:00 AM – 4:00 PM",
+    "Thursday: 5:00 AM – 4:00 PM",
+    "Friday: 5:00 AM – 4:00 PM",
+    "Saturday: 5:30 AM – 2:30 PM",
+    "Sunday: 6:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alfriston-rd-bakery-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:12.269Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "baguet-shop-lamentin",
+  "name": "Baguet Shop",
+  "city": "Lamentin",
+  "country": "Martinique",
+  "placeId": "ChIJNRWOvqOhaowRjaTzboeEh5A",
+  "googleName": "BAGUET SHOP",
+  "formattedAddress": "Centre cial Place d'Armes, Le Lamentin 97232, Martinique",
+  "phone": "0596 57 30 72",
+  "website": "http://www.baguet-shop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10414438380534473869",
+  "rating": 1.6,
+  "reviewCount": 12,
+  "coords": [
+    14.613941,
+    -60.99298799999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baguet-shop-lamentin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:17:38.273Z"
+}

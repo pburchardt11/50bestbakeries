@@ -1,0 +1,32 @@
+{
+  "slug": "saveurs-madikera-le-francois",
+  "name": "Saveurs Madikéra",
+  "city": "Le François",
+  "country": "Martinique",
+  "placeId": "ChIJd91V5tmeaowRfhoVvqdnTeo",
+  "googleName": "Saveurs Madikéra",
+  "formattedAddress": "49 Rue Florent Holo, Le François 97240, Martinique",
+  "phone": "0596 54 49 03",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16883264548228110974",
+  "rating": 4,
+  "reviewCount": 34,
+  "coords": [
+    14.6154721,
+    -60.9028994
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:30 PM",
+    "Tuesday: 6:00 AM – 5:30 PM",
+    "Wednesday: 6:00 AM – 5:30 PM",
+    "Thursday: 6:00 AM – 5:30 PM",
+    "Friday: 6:00 AM – 5:30 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/saveurs-madikera-le-francois/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:17:48.213Z"
+}

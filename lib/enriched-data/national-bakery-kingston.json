@@ -1,0 +1,32 @@
+{
+  "slug": "national-bakery-kingston",
+  "name": "National Bakery",
+  "city": "Kingston",
+  "country": "Jamaica",
+  "placeId": "ChIJY48TV7s_244RQDdUHMDjL4I",
+  "googleName": "National Bakery - Half Way Tree Wholesale",
+  "formattedAddress": "43 Half Way Tree Road, Kingston, Jamaica",
+  "phone": "(876) 960-1156",
+  "website": "https://www.nationalbakingcompany.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9380966963084539712",
+  "rating": 4.2,
+  "reviewCount": 1044,
+  "coords": [
+    18.0014874,
+    -76.792084
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/national-bakery-kingston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:56.579Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "fischer-esch-sur-alzette",
+  "name": "Fischer",
+  "city": "Esch-sur-Alzette",
+  "country": "Luxembourg",
+  "placeId": "ChIJ59WAeeE0lUcRyFQxYkkEG_U",
+  "googleName": "Fischer Esch",
+  "formattedAddress": "57 Rue de l'Alzette, 4011 Esch-sur-Alzette, Luxembourg",
+  "phone": "53 11 28",
+  "website": "https://fischer1913.com/fr-lu/nos-salons/fischer-esch",
+  "googleMapsUrl": "https://maps.google.com/?cid=17661715076890055880",
+  "rating": 4,
+  "reviewCount": 215,
+  "coords": [
+    49.4942242,
+    5.982142199999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fischer-esch-sur-alzette/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:55.314Z"
+}

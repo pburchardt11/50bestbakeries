@@ -1,0 +1,32 @@
+{
+  "slug": "baker-s-world-tamuning",
+  "name": "Baker's World",
+  "city": "Tamuning",
+  "country": "Guam",
+  "placeId": "ChIJuYM7lcuDH2cRnbdL3zlvzCo",
+  "googleName": "Frances Bakehouse",
+  "formattedAddress": "127 Gun Beach Road Unit 103, Tumon, 96913, Guam",
+  "phone": "(671) 864-6888",
+  "website": "https://francesbakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3083962139192047517",
+  "rating": 4.8,
+  "reviewCount": 217,
+  "coords": [
+    13.5184378,
+    144.8074191
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-s-world-tamuning/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:22:53.484Z"
+}

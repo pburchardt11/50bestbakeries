@@ -1,0 +1,32 @@
+{
+  "slug": "sugar-craft-birkirkara",
+  "name": "Sugar Craft",
+  "city": "Birkirkara",
+  "country": "Malta",
+  "placeId": "ChIJC709bKtaDhMR9kWl2wD9HSM",
+  "googleName": "Sugar Craft",
+  "formattedAddress": "Triq is-sisla, Birkirkara BKR, VFXG+6FG, Msida 4157, Malta",
+  "phone": "9980 4431",
+  "website": "http://www.sugarcraft.com.mt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2530456745778955766",
+  "rating": 4.9,
+  "reviewCount": 114,
+  "coords": [
+    35.8976816,
+    14.4770193
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 1:00 PM, 1:30 – 6:00 PM",
+    "Tuesday: 8:30 AM – 1:00 PM, 1:30 – 6:00 PM",
+    "Wednesday: 8:30 AM – 1:00 PM, 1:30 – 6:00 PM",
+    "Thursday: 8:30 AM – 1:00 PM, 1:30 – 6:00 PM",
+    "Friday: 8:30 AM – 1:00 PM, 1:30 – 6:00 PM",
+    "Saturday: 8:30 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-craft-birkirkara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:36.880Z"
+}

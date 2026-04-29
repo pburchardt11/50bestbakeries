@@ -1,0 +1,32 @@
+{
+  "slug": "les-petits-choux-noumea",
+  "name": "Les Petits Choux",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJoTcl_o3iJ2wR-_LEyl7YvQA",
+  "googleName": "Les Petits Choux",
+  "formattedAddress": "32 Rue du Général Gallieni, Nouméa 98800, New Caledonia",
+  "phone": "43.90.01",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=53436672238744315",
+  "rating": 4.1,
+  "reviewCount": 128,
+  "coords": [
+    -22.2726396,
+    166.4389378
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:00 PM",
+    "Tuesday: 5:00 AM – 6:00 PM",
+    "Wednesday: 5:00 AM – 6:00 PM",
+    "Thursday: 5:00 AM – 6:00 PM",
+    "Friday: 5:00 AM – 6:00 PM",
+    "Saturday: 5:00 AM – 3:00 PM",
+    "Sunday: 6:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-petits-choux-noumea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:15.621Z"
+}

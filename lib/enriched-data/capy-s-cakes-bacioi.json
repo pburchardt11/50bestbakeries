@@ -1,0 +1,30 @@
+{
+  "slug": "capy-s-cakes-bacioi",
+  "name": "Capy's Cakes",
+  "city": "Băcioi",
+  "country": "Moldova",
+  "placeId": "ChIJOUAunX95yUARUKLVlJ9m5G4",
+  "googleName": "Capy's Cakes",
+  "formattedAddress": "Strada Viilor, Băcioi, Moldova",
+  "phone": "0789 50 005",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7990624474444964432",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    46.9171044,
+    28.8764225
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:20:21.642Z"
+}

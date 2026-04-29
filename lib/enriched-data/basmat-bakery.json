@@ -1,0 +1,32 @@
+{
+  "slug": "basmat-bakery",
+  "name": "Basmat Bakery",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJC4QJDJefHBURGwF_ccv9Adk",
+  "googleName": "Basmat Bakery",
+  "formattedAddress": "_ مقابل مدارس المنهل، Amman 11934, Jordan",
+  "phone": "(06) 515 7978",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15637058431431409947",
+  "rating": 4.2,
+  "reviewCount": 1360,
+  "coords": [
+    32.01462240000001,
+    35.8841677
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/basmat-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:50:03.564Z"
+}

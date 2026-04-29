@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-natasha",
+  "name": "Pekara Natasha",
+  "city": "Битола",
+  "country": "North Macedonia",
+  "placeId": "ChIJ-Wo-OhElVxMRHxbzU6FC86g",
+  "googleName": "Слаткарска Работилница Наташа",
+  "formattedAddress": "Industriska 27, 7000, Bitola 7000, North Macedonia",
+  "phone": "077 963 564",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12174147478378190367",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    41.0248082,
+    21.345683
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-natasha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:42:59.918Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-leaa-pirae",
+  "name": "Boulangerie-Patisserie Leaa",
+  "city": "Pirae",
+  "country": "French Polynesia",
+  "placeId": "ChIJe_mLP8I5mnYR0QWFl-aJr9A",
+  "googleName": "Boulangerie-Pâtisserie Leaa",
+  "formattedAddress": "PK 3.210, Arue c/mer, 2 Av. Ariipaea Pomare, Arue 98701, French Polynesia",
+  "phone": "40 42 72 09",
+  "website": "https://www.facebook.com/magasinleaa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15037389304290936273",
+  "rating": 4.2,
+  "reviewCount": 26,
+  "coords": [
+    -17.5295858,
+    -149.5404291
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 12:30 PM, 2:30 – 6:30 PM",
+    "Tuesday: 5:00 AM – 12:30 PM, 2:30 – 6:30 PM",
+    "Wednesday: 5:00 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Thursday: 5:00 AM – 12:30 PM, 2:30 – 6:30 PM",
+    "Friday: 5:00 AM – 12:30 PM, 2:30 – 6:30 PM",
+    "Saturday: 5:00 AM – 12:30 PM, 2:30 – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-leaa-pirae/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:51.848Z"
+}

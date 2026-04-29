@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-schumacher-echternach",
+  "name": "Patisserie Schumacher",
+  "city": "Echternach",
+  "country": "Luxembourg",
+  "placeId": "ChIJKeAfAXdglUcRjY3c2satlgM",
+  "googleName": "Pâtisserie Hoffmann Echternach",
+  "formattedAddress": "8 Rue de la Montagne 6, 6470 Echternach, Luxembourg",
+  "phone": "72 01 16",
+  "website": "http://www.patisserie-hoffmann.lu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=258585098207399309",
+  "rating": 4.4,
+  "reviewCount": 254,
+  "coords": [
+    49.8126079,
+    6.421402199999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-schumacher-echternach/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:29.361Z"
+}

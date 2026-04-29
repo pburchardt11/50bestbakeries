@@ -1,0 +1,32 @@
+{
+  "slug": "alsufaraa-bakery",
+  "name": "Alsufaraa Bakery",
+  "city": "بعقوبة",
+  "country": "Iraq",
+  "placeId": "ChIJsY9f23GzVxUROynLWpiGdi0",
+  "googleName": "alsufaraa bakery مخابز السفراء",
+  "formattedAddress": "ساحة الفلاحه، مقابل نقابة المعلمين، شارع الاطفاء، Ba'qubah, Diyala Governorate, 32001, Iraq",
+  "phone": "0774 991 3000",
+  "website": "https://alsufaraabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3275953767875029307",
+  "rating": 4.2,
+  "reviewCount": 92,
+  "coords": [
+    33.7464214,
+    44.6367108
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alsufaraa-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:38:41.582Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "namelok-bakery-ke-kiambu",
+  "name": "Namelok Bakery KE",
+  "city": "Kiambu",
+  "country": "Kenya",
+  "placeId": "ChIJm0mWVHw9LxgREe5fM3ltvQk",
+  "googleName": "Namelok Bakery",
+  "formattedAddress": "ndumberi road, Kiambu, Kenya",
+  "phone": "0721 600306",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=701837484260060689",
+  "rating": 4.9,
+  "reviewCount": 73,
+  "coords": [
+    -1.1649696,
+    36.8236056
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/namelok-bakery-ke-kiambu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:54:04.333Z"
+}

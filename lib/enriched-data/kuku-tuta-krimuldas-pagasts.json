@@ -1,0 +1,32 @@
+{
+  "slug": "kuku-tuta-krimuldas-pagasts",
+  "name": "Kūku Tūta",
+  "city": "Krimuldas pagasts",
+  "country": "Latvia",
+  "placeId": "ChIJw9a63nDP7kYR4HX8qsGRJuA",
+  "googleName": "Kūku Tūta",
+  "formattedAddress": "Mēness iela 3, Ragana, Krimuldas pagasts, Siguldas novads, LV-2144, Latvia",
+  "phone": "26 587 487",
+  "website": "https://kukututa.lv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16151757374594250208",
+  "rating": 4.8,
+  "reviewCount": 12,
+  "coords": [
+    57.1837473,
+    24.6887148
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kuku-tuta-krimuldas-pagasts/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:02:08.027Z"
+}

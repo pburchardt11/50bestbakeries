@@ -1,0 +1,32 @@
+{
+  "slug": "bread-house-fuvahmulah",
+  "name": "Bread House",
+  "city": "Fuvahmulah",
+  "country": "Maldives",
+  "placeId": "ChIJlYNmQgBhtSQRmUMHWeFlwN4",
+  "googleName": "Layers By Panino",
+  "formattedAddress": "Fuvahmulah, Maldives",
+  "phone": "735-5252",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16050941090484143001",
+  "rating": 4.6,
+  "reviewCount": 24,
+  "coords": [
+    -0.2915459,
+    73.4160904
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 12:00 AM",
+    "Tuesday: 5:30 AM – 12:00 AM",
+    "Wednesday: 5:30 AM – 12:00 AM",
+    "Thursday: 5:30 AM – 12:00 AM",
+    "Friday: 2:00 PM – 12:00 AM",
+    "Saturday: 5:30 AM – 12:00 AM",
+    "Sunday: 5:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-house-fuvahmulah/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:12:45.546Z"
+}

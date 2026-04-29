@@ -1,0 +1,32 @@
+{
+  "slug": "da-vinci-bakery-birzebbuga",
+  "name": "Da Vinci Bakery",
+  "city": "Birżebbuġa",
+  "country": "Malta",
+  "placeId": "ChIJa2YEVoxVwokR_4ItTJFxM-I",
+  "googleName": "Da Vinci Bakery",
+  "formattedAddress": "100 Centre St, Nutley, NJ 07110, USA",
+  "phone": "(973) 667-7400",
+  "website": "http://davincibakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16299496345246204671",
+  "rating": 4.6,
+  "reviewCount": 413,
+  "coords": [
+    40.811179,
+    -74.1504479
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/da-vinci-bakery-birzebbuga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:50.911Z"
+}

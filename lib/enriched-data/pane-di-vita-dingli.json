@@ -1,0 +1,32 @@
+{
+  "slug": "pane-di-vita-dingli",
+  "name": "Pane di Vita",
+  "city": "Dingli",
+  "country": "Malta",
+  "placeId": "ChIJbdW66ytRDhMRI6TKr6IG4fk",
+  "googleName": "Pane di Vita",
+  "formattedAddress": "Triq San Ġwann Bosco, Ħad-Dingli, Malta",
+  "phone": "2145 4451",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18005680081007715363",
+  "rating": 4.5,
+  "reviewCount": 55,
+  "coords": [
+    35.8607425,
+    14.3843015
+  ],
+  "openingHours": [
+    "Monday: 4:30 AM – 7:30 PM",
+    "Tuesday: 4:30 AM – 7:30 PM",
+    "Wednesday: 4:30 AM – 7:30 PM",
+    "Thursday: 4:30 AM – 7:30 PM",
+    "Friday: 4:30 AM – 7:30 PM",
+    "Saturday: 4:30 AM – 1:30 PM",
+    "Sunday: 5:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pane-di-vita-dingli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:59.142Z"
+}

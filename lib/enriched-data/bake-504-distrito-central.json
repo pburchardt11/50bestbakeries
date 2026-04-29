@@ -1,0 +1,32 @@
+{
+  "slug": "bake-504-distrito-central",
+  "name": "Bake 504",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJaf6kyfq8b48RRAgjondTIeE",
+  "googleName": "504 CakeShop • Unitec",
+  "formattedAddress": "2RXG+8HV, Tegucigalpa, Francisco Morazán, Honduras",
+  "phone": "9708-3333",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16222339106051655748",
+  "rating": 4,
+  "reviewCount": 83,
+  "coords": [
+    14.0483697,
+    -87.1735753
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-504-distrito-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:29:02.505Z"
+}

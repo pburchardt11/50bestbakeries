@@ -1,0 +1,32 @@
+{
+  "slug": "anujah-s-cake-lab-curepipe-town",
+  "name": "Anujah's Cake Lab",
+  "city": "Curepipe Town",
+  "country": "Mauritius",
+  "placeId": "ChIJ8wXhacFdfCER8Y_CM6s4Ax0",
+  "googleName": "Anujah's Cake Lab",
+  "formattedAddress": "Gustave Bestel St, Curepipe, Mauritius",
+  "phone": "5704 0758",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2090576959988994033",
+  "rating": 4.7,
+  "reviewCount": 21,
+  "coords": [
+    -20.3249868,
+    57.527626
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/anujah-s-cake-lab-curepipe-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:23.834Z"
+}

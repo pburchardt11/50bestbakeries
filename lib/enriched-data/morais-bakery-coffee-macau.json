@@ -1,0 +1,32 @@
+{
+  "slug": "morais-bakery-coffee-macau",
+  "name": "Morais Bakery & Coffee",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJnywu3BZ7ATQRBmofB2USBPY",
+  "googleName": "Morais Bakery & Coffee",
+  "formattedAddress": "193號 Av. de Venceslau de Morais, Macao",
+  "phone": "2872 1718",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17727314258357611014",
+  "rating": 4.3,
+  "reviewCount": 6,
+  "coords": [
+    22.2062319,
+    113.5532877
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:30 PM",
+    "Tuesday: 8:30 AM – 7:30 PM",
+    "Wednesday: 8:30 AM – 7:30 PM",
+    "Thursday: 8:30 AM – 7:30 PM",
+    "Friday: 8:30 AM – 7:30 PM",
+    "Saturday: 8:30 AM – 7:30 PM",
+    "Sunday: 9:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/morais-bakery-coffee-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:04.742Z"
+}

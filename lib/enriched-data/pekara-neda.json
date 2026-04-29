@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-neda",
+  "name": "\"Pekara \"NEDA\"\"",
+  "city": "Јегуновце",
+  "country": "North Macedonia",
+  "placeId": "ChIJFaYqG6ELVBMRR5bKhWzG9ZE",
+  "googleName": "Bakery Neda",
+  "formattedAddress": "34FC+HMJ, Jegunovtse, North Macedonia",
+  "phone": "044 397 742",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10517530674197075527",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    42.0739727,
+    21.1216469
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 1:00 PM",
+    "Tuesday: 5:00 AM – 1:00 PM",
+    "Wednesday: 5:00 AM – 1:00 PM",
+    "Thursday: 5:00 AM – 1:00 PM",
+    "Friday: 5:00 AM – 1:00 PM",
+    "Saturday: 5:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-neda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:42:36.974Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "leipomo-niemipelto-akaa",
+  "name": "Leipomo Niemipelto",
+  "city": "Akaa",
+  "country": "Finland",
+  "placeId": "ChIJHZi3nj3sjkYRFAVPtM3dkMY",
+  "googleName": "Leipomo Niemipelto Avoin yhtiö",
+  "formattedAddress": "Hämeentie 44, 37800 Akaa, Finland",
+  "phone": "050 4122528",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14308179891719177492",
+  "rating": 4.5,
+  "reviewCount": 40,
+  "coords": [
+    61.16920649999999,
+    23.8709894
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leipomo-niemipelto-akaa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:10:22.648Z"
+}

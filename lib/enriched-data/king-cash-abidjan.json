@@ -1,0 +1,32 @@
+{
+  "slug": "king-cash-abidjan",
+  "name": "KING CASH",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJLV98IR7swQ8RXI461saKv9k",
+  "googleName": "King Cash",
+  "formattedAddress": "72XH+4HG, Abidjan, Côte d'Ivoire",
+  "phone": "27 21 2 40151",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15690412213384416860",
+  "rating": 3.7,
+  "reviewCount": 204,
+  "coords": [
+    5.297821799999999,
+    -3.9710319
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/king-cash-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:09.270Z"
+}

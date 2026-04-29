@@ -1,0 +1,32 @@
+{
+  "slug": "tri-bagremi",
+  "name": "tri bagremi",
+  "city": "Битола",
+  "country": "North Macedonia",
+  "placeId": "ChIJ9fEYl9wkVxMR9SyMA1dKDPc",
+  "googleName": "Heraclea Lyncestis",
+  "formattedAddress": "286R+CWW, Bitola 7000, North Macedonia",
+  "phone": "047 235 329",
+  "website": "http://heraclea.archaeology.mk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17801685164670856437",
+  "rating": 4.5,
+  "reviewCount": 1590,
+  "coords": [
+    41.0111117,
+    21.3423422
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tri-bagremi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:43:06.164Z"
+}

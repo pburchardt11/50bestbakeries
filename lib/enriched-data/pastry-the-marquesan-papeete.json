@@ -1,0 +1,32 @@
+{
+  "slug": "pastry-the-marquesan-papeete",
+  "name": "Pastry The Marquesan",
+  "city": "Papeete",
+  "country": "French Polynesia",
+  "placeId": "ChIJVdyq3gI6mnYRKCWaRbbeWIk",
+  "googleName": "Pastry The Marquesan",
+  "formattedAddress": "Papeete 98714, French Polynesia",
+  "phone": "40 42 83 52",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9896905055579809064",
+  "rating": 4.6,
+  "reviewCount": 82,
+  "coords": [
+    -17.5381329,
+    -149.5667805
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 5:00 PM",
+    "Tuesday: 5:00 AM – 5:00 PM",
+    "Wednesday: 5:00 AM – 5:00 PM",
+    "Thursday: 5:00 AM – 5:00 PM",
+    "Friday: 5:00 AM – 5:00 PM",
+    "Saturday: 5:00 AM – 12:00 PM",
+    "Sunday: 4:00 – 9:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastry-the-marquesan-papeete/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:32.591Z"
+}

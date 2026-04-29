@@ -1,0 +1,32 @@
+{
+  "slug": "kee-wah-bakery-chek-lap-kok",
+  "name": "Kee Wah Bakery ()",
+  "city": "Chek Lap Kok",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJuUh99ufiAzQR_6Yk9WnZeTE",
+  "googleName": "Kee Wah Bakery (HKIA L7, Restricted Area)",
+  "formattedAddress": "Shop 7E101, Hong Kong International Airport, Terminal 1, 1 Sky Plaza Rd, Chek Lap Kok, Hong Kong",
+  "phone": "2886 3532",
+  "website": "https://www.keewah.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3565119629148071679",
+  "rating": 4,
+  "reviewCount": 87,
+  "coords": [
+    22.3162616,
+    113.9337526
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:30 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Outpost of a Hong Kong-based bakery offering Chinese pastries & other snacks, plus custom cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kee-wah-bakery-chek-lap-kok/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:31:49.379Z"
+}

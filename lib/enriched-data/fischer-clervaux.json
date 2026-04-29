@@ -1,0 +1,32 @@
+{
+  "slug": "fischer-clervaux",
+  "name": "Fischer",
+  "city": "Clervaux",
+  "country": "Luxembourg",
+  "placeId": "ChIJM2HRLdL3v0cRZ0Cx8U9c5x4",
+  "googleName": "Fischer",
+  "formattedAddress": "9 Marbuergerstrooss, 9764 Marbourg Maarnech Klierf, Luxembourg",
+  "phone": "26 47 88 25",
+  "website": "https://fischer1913.com/fr-lu/nos-salons/fischer-marnach",
+  "googleMapsUrl": "https://maps.google.com/?cid=2226850039185096807",
+  "rating": 4.8,
+  "reviewCount": 5,
+  "coords": [
+    50.0522319,
+    6.0712547
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 6:30 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fischer-clervaux/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:26.769Z"
+}

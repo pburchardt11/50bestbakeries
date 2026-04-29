@@ -1,0 +1,32 @@
+{
+  "slug": "blissful-box-gift-shop-georgetown",
+  "name": "Blissful Box Gift Shop",
+  "city": "Georgetown",
+  "country": "Guyana",
+  "placeId": "ChIJy3XTxADvr40RNyjXUJ2Lbws",
+  "googleName": "The Gift Box by Gigi",
+  "formattedAddress": "50 Section I, Sheriff Street, Georgetown, Guyana",
+  "phone": "694 7269",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=824030764614494263",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    6.8097973,
+    -58.1373448
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blissful-box-gift-shop-georgetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:25:49.295Z"
+}

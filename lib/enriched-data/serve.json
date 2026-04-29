@@ -1,0 +1,32 @@
+{
+  "slug": "serve",
+  "name": "Serve",
+  "city": "حولى",
+  "country": "Kuwait",
+  "placeId": "ChIJsef6UN6dzz8RMUJQKxxsZaE",
+  "googleName": "Serve Bakery",
+  "formattedAddress": "2 St, Hawally 30000, Kuwait",
+  "phone": "9220 0174",
+  "website": "https://serve.com.kw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11629820480995738161",
+  "rating": 4.6,
+  "reviewCount": 133,
+  "coords": [
+    29.3319504,
+    48.0075766
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/serve/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:57:52.414Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "medras-bakeries",
+  "name": "Medras Bakeries",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJ7dz9v26hHBURRhyO3gPl5Ug",
+  "googleName": "Paradise Bakery - Corridor Abdoun",
+  "formattedAddress": "كوريدور عبدون،، عمّان،، Jordan",
+  "phone": "(06) 420 0011",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5252856345179069510",
+  "rating": 4.5,
+  "reviewCount": 2877,
+  "coords": [
+    31.927732,
+    35.8759329
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/medras-bakeries/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:58.675Z"
+}

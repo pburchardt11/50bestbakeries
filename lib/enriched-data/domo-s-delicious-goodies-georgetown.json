@@ -1,0 +1,30 @@
+{
+  "slug": "domo-s-delicious-goodies-georgetown",
+  "name": "Domo's Delicious Goodies",
+  "city": "Georgetown",
+  "country": "Guyana",
+  "placeId": "ChIJ4Y5olVnvr40R0mJA1VyvQV0",
+  "googleName": "Domo's Delicious Goodies",
+  "formattedAddress": "105 ceaser street Agricola, Georgetown, Guyana",
+  "phone": "654 9234",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6719844932263109330",
+  "rating": 5,
+  "reviewCount": 7,
+  "coords": [
+    6.777425099999999,
+    -58.1680564
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 6:30 PM",
+    "Sunday: 12:00 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:25:25.922Z"
+}

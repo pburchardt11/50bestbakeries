@@ -1,0 +1,32 @@
+{
+  "slug": "magic-bites-mellie-a",
+  "name": "Magic Bites",
+  "city": "Mellieħa",
+  "country": "Malta",
+  "placeId": "ChIJ7-PKTNVPDhMRLA9vT1iYXa4",
+  "googleName": "Magic Bites",
+  "formattedAddress": "Zernieq, 114 Triq is-Sagħtar, Mellieħa MLH 2266, Malta",
+  "phone": "7978 5578",
+  "website": "https://magicbites.mt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12564366040490774316",
+  "rating": 4.3,
+  "reviewCount": 6,
+  "coords": [
+    35.9605795,
+    14.3640637
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 8:00 PM",
+    "Tuesday: 11:00 AM – 8:00 PM",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magic-bites-mellie-a/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:30.068Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "saveurs-k-nell-matoury",
+  "name": "Saveurs K'nell",
+  "city": "Matoury",
+  "country": "French Guiana",
+  "placeId": "ChIJv3jXYlE-Eo0RIgawmqyYC_U",
+  "googleName": "Saveurs K'nell",
+  "formattedAddress": "5 Rue Victor Ceide, Matoury 97351, French Guiana",
+  "phone": "0594 39 01 56",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17657374631133185570",
+  "rating": 4,
+  "reviewCount": 46,
+  "coords": [
+    4.8502296,
+    -52.3309305
+  ],
+  "openingHours": [
+    "Monday: 5:45 AM – 1:00 PM, 4:00 – 7:00 PM",
+    "Tuesday: 5:45 AM – 1:00 PM, 4:00 – 7:00 PM",
+    "Wednesday: 5:45 AM – 1:00 PM, 4:00 – 7:00 PM",
+    "Thursday: Closed",
+    "Friday: 5:45 AM – 1:00 PM, 4:00 – 7:00 PM",
+    "Saturday: 6:30 AM – 1:00 PM",
+    "Sunday: 6:30 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/saveurs-k-nell-matoury/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:05.328Z"
+}

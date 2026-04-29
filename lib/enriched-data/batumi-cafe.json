@@ -1,0 +1,24 @@
+{
+  "slug": "batumi-cafe",
+  "name": "Batumi.cafe",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJYVfEwzOHZ0ARAyS1xT8YIk4",
+  "googleName": "Cafe Batumi",
+  "formattedAddress": "JJWH+832, Batumi, Georgia",
+  "phone": "599 54 95 25",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5630089146345530371",
+  "rating": 4.1,
+  "reviewCount": 184,
+  "coords": [
+    41.6456211,
+    41.6274766
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/batumi-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:03.254Z"
+}

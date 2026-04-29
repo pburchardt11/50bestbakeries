@@ -1,0 +1,32 @@
+{
+  "slug": "mundle-backerei-konditorei-cafe-mauren",
+  "name": "Mündle Bäckerei-Konditorei-Cafe",
+  "city": "Mauren",
+  "country": "Liechtenstein",
+  "placeId": "ChIJTygMdXI6m0cR33i6oqHV05A",
+  "googleName": "Mündle Bakeries",
+  "formattedAddress": "Lachenstrasse 4, 9493 Mauren, Liechtenstein",
+  "phone": "399 40 20",
+  "website": "http://www.muendle.li/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10435919651744151775",
+  "rating": 4.6,
+  "reviewCount": 133,
+  "coords": [
+    47.218008,
+    9.542709
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:30 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mundle-backerei-konditorei-cafe-mauren/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:05:06.150Z"
+}

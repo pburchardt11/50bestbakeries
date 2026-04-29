@@ -1,0 +1,32 @@
+{
+  "slug": "st-catherine-bakery-and-confectionery-fgura",
+  "name": "St.Catherine Bakery and Confectionery",
+  "city": "Fgura",
+  "country": "Malta",
+  "placeId": "ChIJe3C-QwBbDhMRyJQzvX0_qO8",
+  "googleName": "Da Lella Bakery and Confectionery",
+  "formattedAddress": "185 Triq Haz- Zabbar, Il-Fgura, Malta",
+  "phone": "7987 1213",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17269122580429903048",
+  "rating": 3.8,
+  "reviewCount": 6,
+  "coords": [
+    35.8736994,
+    14.5135934
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-catherine-bakery-and-confectionery-fgura/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:01.207Z"
+}

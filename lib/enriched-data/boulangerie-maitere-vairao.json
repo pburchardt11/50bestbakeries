@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-maitere-vairao",
+  "name": "Boulangerie Maitere",
+  "city": "Vairao",
+  "country": "French Polynesia",
+  "placeId": "ChIJQRLbKCW9vXYRUuvAOYeo8H8",
+  "googleName": "Boulangerie Pâtisserie Matira",
+  "formattedAddress": "povai, Bora-Bora 98730, French Polynesia",
+  "phone": "40 67 67 06",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9219053735970401106",
+  "rating": 4.6,
+  "reviewCount": 30,
+  "coords": [
+    -16.5132992,
+    -151.736229
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:30 AM – 3:00 PM",
+    "Wednesday: 6:30 AM – 3:00 PM",
+    "Thursday: 6:30 AM – 3:00 PM",
+    "Friday: 6:30 AM – 3:00 PM",
+    "Saturday: 6:30 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-maitere-vairao/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:00.375Z"
+}

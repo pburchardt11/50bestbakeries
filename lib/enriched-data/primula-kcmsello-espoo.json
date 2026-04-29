@@ -1,0 +1,32 @@
+{
+  "slug": "primula-kcmsello-espoo",
+  "name": "Primula - KCMSello",
+  "city": "Espoo",
+  "country": "Finland",
+  "placeId": "ChIJrxW5U-AAjkYR0vPX7God4dk",
+  "googleName": "Leipomo Primula Oy",
+  "formattedAddress": "Emalikatu 9, 04440 Järvenpää, Finland",
+  "phone": "044 7716626",
+  "website": "http://www.primula.fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15699862121067574226",
+  "rating": 4,
+  "reviewCount": 17,
+  "coords": [
+    60.5068116,
+    25.0716183
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/primula-kcmsello-espoo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:11:32.662Z"
+}

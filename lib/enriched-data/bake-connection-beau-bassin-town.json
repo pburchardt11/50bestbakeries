@@ -1,0 +1,32 @@
+{
+  "slug": "bake-connection-beau-bassin-town",
+  "name": "Bake connection",
+  "city": "Beau Bassin Town",
+  "country": "Mauritius",
+  "placeId": "ChIJ6cwvHUxbfCERBHp2npNeeSg",
+  "googleName": "Bake connection",
+  "formattedAddress": "QF6C+8QP, Beau Bassin-Rose Hill, Mauritius",
+  "phone": "5842 7711",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2916466221810874884",
+  "rating": 4.7,
+  "reviewCount": 13,
+  "coords": [
+    -20.2391397,
+    57.47199610000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 4:30 – 11:00 PM",
+    "Wednesday: 4:30 – 11:00 PM",
+    "Thursday: 4:30 – 11:00 PM",
+    "Friday: 4:30 – 11:00 PM",
+    "Saturday: 4:30 – 11:30 PM",
+    "Sunday: 4:30 – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-connection-beau-bassin-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:18:32.309Z"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "bakery-shop-original-ci-abidjan",
+  "name": "Bakery shop Original Ci",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJ6ZDYy-XrwQ8RABPfO7lTVGY",
+  "googleName": "Bakeryshop Original Marcory",
+  "formattedAddress": "8226+WRX, Bd Valéry Giscard d'Estaing, Abidjan, Côte d'Ivoire",
+  "phone": "07 09 66 9999",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7373610544950874880",
+  "rating": 4,
+  "reviewCount": 8,
+  "coords": [
+    5.3023656,
+    -3.9879012
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:44:30.648Z"
+}

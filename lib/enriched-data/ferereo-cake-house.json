@@ -1,0 +1,32 @@
+{
+  "slug": "ferereo-cake-house",
+  "name": "Ferereo Cake House",
+  "city": "اربد",
+  "country": "Jordan",
+  "placeId": "ChIJSdrNKmV2HBURBYfZcCBTEkg",
+  "googleName": "Ferereo Cake",
+  "formattedAddress": "north Culture Square، Irbid, Jordan",
+  "phone": "07 8741 5250",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5193304719108966149",
+  "rating": 4.4,
+  "reviewCount": 211,
+  "coords": [
+    32.5409364,
+    35.879689
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 12:00 AM",
+    "Tuesday: 9:30 AM – 12:00 AM",
+    "Wednesday: 9:30 AM – 12:00 AM",
+    "Thursday: 9:30 AM – 12:00 AM",
+    "Friday: 9:30 AM – 12:00 AM",
+    "Saturday: 9:30 AM – 12:00 AM",
+    "Sunday: 9:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ferereo-cake-house/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:49:19.718Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "magusaroom-ou-parnu",
+  "name": "Magusarõõm OÜ",
+  "city": "Pärnu",
+  "country": "Estonia",
+  "placeId": "ChIJ9fEAUMr77EYRWd4p2FDasTw",
+  "googleName": "Magusarõõm OÜ",
+  "formattedAddress": "Kuigu tee 33, Silla, 86604 Pärnu maakond, Estonia",
+  "phone": "5567 2355",
+  "website": "https://magusarõõm.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4373516753912323673",
+  "rating": 4.9,
+  "reviewCount": 11,
+  "coords": [
+    58.309778,
+    24.6169405
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magusaroom-ou-parnu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:06:15.135Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pan-esmeralda-apopa",
+  "name": "Pan Esmeralda",
+  "city": "Apopa",
+  "country": "El Salvador",
+  "placeId": "ChIJG2nTYwA7Y48RBiosHGW7Ca4",
+  "googleName": "Pan Esmeralda",
+  "formattedAddress": "calle Ramiro Casa número 9, Apopa, El Salvador",
+  "phone": "2214 9687",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12540760680328604166",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    13.8057069,
+    -89.17953229999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-esmeralda-apopa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:04:07.540Z"
+}

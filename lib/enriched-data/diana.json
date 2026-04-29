@@ -1,0 +1,32 @@
+{
+  "slug": "diana",
+  "name": "בית מאפה דיאנה Diana",
+  "city": "אור עקיבא",
+  "country": "Israel",
+  "placeId": "ChIJF3iW5_ENHRUR9Cs7PIJ7D1s",
+  "googleName": "דאלי עוגה ולחם",
+  "formattedAddress": "Ha-Shikmim St 8, Or Akiva, 3061872, Israel",
+  "phone": "058-676-7330",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6561598981388577780",
+  "rating": 4.6,
+  "reviewCount": 171,
+  "coords": [
+    32.5046761,
+    34.9178322
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 2:30 PM",
+    "Saturday: Closed",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/diana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:04.923Z"
+}

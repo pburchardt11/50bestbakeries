@@ -1,0 +1,32 @@
+{
+  "slug": "quigley-s-cafe-bakery-athlone",
+  "name": "Quigley's Cafe Bakery",
+  "city": "Athlone",
+  "country": "Ireland",
+  "placeId": "ChIJ4xbn_AZJXEgRcSBsb02jE-c",
+  "googleName": "Quigleys Cafe, Bakery & Deli",
+  "formattedAddress": "Unit 64, Athlone Town Centre, Athlone, Co. Westmeath, N37 PD25, Ireland",
+  "phone": "(090) 647 7017",
+  "website": "http://www.quigleys.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16650831800296022129",
+  "rating": 4.3,
+  "reviewCount": 111,
+  "coords": [
+    53.42406949999999,
+    -7.9358301
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:45 PM",
+    "Sunday: 12:00 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/quigley-s-cafe-bakery-athlone/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:40:08.009Z"
+}

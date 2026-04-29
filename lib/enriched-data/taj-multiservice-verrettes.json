@@ -1,0 +1,32 @@
+{
+  "slug": "taj-multiservice-verrettes",
+  "name": "TAJ Multiservice",
+  "city": "Verrettes",
+  "country": "Haiti",
+  "placeId": "ChIJ8ZdrU1x1t44RZwjpzLAUL9s",
+  "googleName": "Tav-multiservices/Bureau de réception et de transfert d'argent.",
+  "formattedAddress": "#1 Rue Nissage Saget, Saint-Marc, Haiti",
+  "phone": "49 16 4810",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15793865167796242535",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    19.1078897,
+    -72.7019266
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/taj-multiservice-verrettes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:26:59.924Z"
+}

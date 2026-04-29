@@ -1,0 +1,32 @@
+{
+  "slug": "philippe-tayac-patisserie-monaco-monte-carlo",
+  "name": "Philippe Tayac Pâtisserie Monaco",
+  "city": "Monte-Carlo",
+  "country": "Monaco",
+  "placeId": "ChIJW1bfpPXDzRIRJGZx-qgiNgA",
+  "googleName": "Philippe Tayac Pâtisserie Monaco",
+  "formattedAddress": "26 Bd des Moulins, 98000 Monaco",
+  "phone": "97 98 26 16",
+  "website": "https://philippetayac.com/monaco",
+  "googleMapsUrl": "https://maps.google.com/?cid=15237757893961252",
+  "rating": 4.5,
+  "reviewCount": 82,
+  "coords": [
+    43.74338909999999,
+    7.428516900000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/philippe-tayac-patisserie-monaco-monte-carlo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:22:52.512Z"
+}

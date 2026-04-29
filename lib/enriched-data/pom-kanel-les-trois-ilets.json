@@ -1,0 +1,32 @@
+{
+  "slug": "pom-kanel-les-trois-ilets",
+  "name": "Pom'Kanel",
+  "city": "Les Trois-Îlets",
+  "country": "Martinique",
+  "placeId": "ChIJwzVT38MdQIwRwpBBDpkF_zo",
+  "googleName": "Boulangerie Pâtisserie Pom'Kanel",
+  "formattedAddress": "3 Rue des Balaous, Les Trois-Îlets 97229, Martinique",
+  "phone": "0596 48 02 05",
+  "website": "https://www.facebook.com/PomKanel972/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4251122728188350658",
+  "rating": 4.2,
+  "reviewCount": 574,
+  "coords": [
+    14.5395391,
+    -61.0645761
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 8:00 PM",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 5:30 AM – 8:00 PM",
+    "Sunday: 5:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pom-kanel-les-trois-ilets/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:18:11.046Z"
+}

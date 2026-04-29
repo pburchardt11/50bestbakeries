@@ -1,0 +1,32 @@
+{
+  "slug": "pink-panda-bakery-accra",
+  "name": "Pink Panda Bakery",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJoQC_h66d3w8RO8k449N02aw",
+  "googleName": "Pink Panda Bakery",
+  "formattedAddress": "42 Nii Torgbor Ave, Accra, Ghana",
+  "phone": "020 612 1414",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12455114697868888379",
+  "rating": 4.9,
+  "reviewCount": 43,
+  "coords": [
+    5.658964399999999,
+    -0.1529171
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pink-panda-bakery-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:57.871Z"
+}

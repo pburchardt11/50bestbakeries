@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-mercedes-cane",
+  "name": "Panadería Mercedes",
+  "city": "Cane",
+  "country": "Honduras",
+  "placeId": "ChIJ8-1GsIaCZY8RkSyeSQIs5Kc",
+  "googleName": "Panadería Mercedes",
+  "formattedAddress": "78JQ+C4J, Cane, La Paz, Honduras",
+  "phone": "2774-4191",
+  "website": "https://www.facebook.com/Pandecasahn",
+  "googleMapsUrl": "https://maps.google.com/?cid=12097842887360654481",
+  "rating": 4.3,
+  "reviewCount": 29,
+  "coords": [
+    14.281097,
+    -87.6622464
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-mercedes-cane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:27:10.480Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "l-escale-royale-libreville",
+  "name": "L'Escale Royale",
+  "city": "Libreville",
+  "country": "Gabon",
+  "placeId": "ChIJwafeXWg7fxARENtQBTElDb0",
+  "googleName": "L’escale Royale",
+  "formattedAddress": "L101, Libreville, Gabon",
+  "phone": "062 03 29 29",
+  "website": "https://hifood.online/restaurant/lescal-royal",
+  "googleMapsUrl": "https://maps.google.com/?cid=13622585340338428688",
+  "rating": 3.7,
+  "reviewCount": 421,
+  "coords": [
+    0.4397666,
+    9.417923199999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:30 PM",
+    "Sunday: 6:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-escale-royale-libreville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:12.976Z"
+}

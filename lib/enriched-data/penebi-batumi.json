@@ -1,0 +1,24 @@
+{
+  "slug": "penebi-batumi",
+  "name": "Penebi",
+  "city": "Batumi",
+  "country": "Georgia",
+  "placeId": "ChIJLRqPNwCHZ0ARle5m8ZG4wK0",
+  "googleName": "Penebi: Bakery & Coffee",
+  "formattedAddress": "15 Inasaridze St, Batumi 6010, Georgia",
+  "phone": "596 10 55 25",
+  "website": "http://penebi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12520209901049802389",
+  "rating": 4.7,
+  "reviewCount": 60,
+  "coords": [
+    41.632791,
+    41.6082016
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/penebi-batumi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:40.402Z"
+}

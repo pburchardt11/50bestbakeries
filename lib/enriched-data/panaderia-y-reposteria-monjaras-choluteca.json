@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-reposteria-monjaras-choluteca",
+  "name": "Panaderia y Reposteria Monjaras",
+  "city": "Choluteca",
+  "country": "Honduras",
+  "placeId": "ChIJ09lO5ms9cI8ReqZPrZtn8L0",
+  "googleName": "Panadería y Repostería Monjarás",
+  "formattedAddress": "Calle Vicente Williams, frente a El Compadre, 8R33+5RQ, Choluteca, Honduras",
+  "phone": "9605-8347",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13686553185904207482",
+  "rating": 4.3,
+  "reviewCount": 27,
+  "coords": [
+    13.3029669,
+    -87.1953958
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-reposteria-monjaras-choluteca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:27:36.031Z"
+}

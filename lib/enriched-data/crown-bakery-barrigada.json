@@ -1,0 +1,32 @@
+{
+  "slug": "crown-bakery-barrigada",
+  "name": "Crown Bakery",
+  "city": "Barrigada",
+  "country": "Guam",
+  "placeId": "ChIJe8v3Nk-dH2cRBL88QzceMfc",
+  "googleName": "Crown Bakery",
+  "formattedAddress": "121 GU-10, Barrigada, 96913, Guam",
+  "phone": "(671) 734-4826",
+  "website": "https://www.crownbakeryguam.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17812051223927111428",
+  "rating": 4.4,
+  "reviewCount": 625,
+  "coords": [
+    13.4693624,
+    144.8010274
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crown-bakery-barrigada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:22:18.767Z"
+}

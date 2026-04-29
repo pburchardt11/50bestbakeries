@@ -1,0 +1,32 @@
+{
+  "slug": "ma-mie-yummies-bamako",
+  "name": "Ma Mie Yummies",
+  "city": "Bamako",
+  "country": "Mali",
+  "placeId": "ChIJS7oNpmPTUQ4Ru9BvvzUMDBY",
+  "googleName": "Mamy Délices Sotuba",
+  "formattedAddress": "M36C+2FX, Bamako, Mali",
+  "phone": "73 14 00 96",
+  "website": "http://mamy-delices.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1588658193539518651",
+  "rating": 4.2,
+  "reviewCount": 84,
+  "coords": [
+    12.6601046,
+    -7.928763699999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:30 PM",
+    "Tuesday: 7:00 AM – 11:30 PM",
+    "Wednesday: 7:00 AM – 11:30 PM",
+    "Thursday: 7:00 AM – 11:30 PM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 7:00 AM – 1:00 AM",
+    "Sunday: 7:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ma-mie-yummies-bamako/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:23.487Z"
+}

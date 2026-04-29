@@ -1,0 +1,32 @@
+{
+  "slug": "top-loaf-bakery-manchester",
+  "name": "Top Loaf Bakery",
+  "city": "Manchester",
+  "country": "Jamaica",
+  "placeId": "ChIJtQxIwja-244RkksnnZ75Nfs",
+  "googleName": "Top Loaf Bakery",
+  "formattedAddress": "23 Manchester Road, Mandeville, Jamaica",
+  "phone": "(876) 962-1611",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18101648736922323858",
+  "rating": 4.3,
+  "reviewCount": 90,
+  "coords": [
+    18.0388808,
+    -77.50879479999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/top-loaf-bakery-manchester/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:46:08.380Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "fischer-bertrange",
+  "name": "Fischer",
+  "city": "Bertrange",
+  "country": "Luxembourg",
+  "placeId": "ChIJHwWph-RLlUcRZZqV_Ve5OBM",
+  "googleName": "Fischer",
+  "formattedAddress": "80 Rte de Longwy, 8080 Helfent Bertrange, Luxembourg",
+  "phone": "45 04 83",
+  "website": "https://fischer1913.com/fr-lu/nos-salons/fischer-city-concorde",
+  "googleMapsUrl": "https://maps.google.com/?cid=1385060672984160869",
+  "rating": 4,
+  "reviewCount": 1389,
+  "coords": [
+    49.6010713,
+    6.065697999999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fischer-bertrange/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:09.597Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mini-pani-montenegro-danilovgrad",
+  "name": "Mini Pani Montenegro",
+  "city": "Danilovgrad",
+  "country": "Montenegro",
+  "placeId": "ChIJsS1EPgDVTRMRWAE-xUu4fAw",
+  "googleName": "Mini pani",
+  "formattedAddress": "51 Dositejeva, Budva, Montenegro",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=899796661138489688",
+  "rating": 4.2,
+  "reviewCount": 5,
+  "coords": [
+    42.2870202,
+    18.8362835
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mini-pani-montenegro-danilovgrad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:19.023Z"
+}

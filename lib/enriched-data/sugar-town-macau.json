@@ -1,0 +1,32 @@
+{
+  "slug": "sugar-town-macau",
+  "name": "Sugar Town",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJ13yaaeJ7ATQRU16xCIXthoY",
+  "googleName": "Sugar Town",
+  "formattedAddress": "Macao興華街5A號號 B 舖",
+  "phone": "2896 6890",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9693696403593846355",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    22.1991186,
+    113.5410693
+  ],
+  "openingHours": [
+    "Monday: 11:30 AM – 8:00 PM",
+    "Tuesday: 11:30 AM – 8:00 PM",
+    "Wednesday: 11:30 AM – 8:00 PM",
+    "Thursday: 11:30 AM – 8:00 PM",
+    "Friday: 11:30 AM – 8:00 PM",
+    "Saturday: 11:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-town-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:10:25.741Z"
+}

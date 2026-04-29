@@ -1,0 +1,24 @@
+{
+  "slug": "cerera",
+  "name": "Cerera",
+  "city": "Битола",
+  "country": "North Macedonia",
+  "placeId": "ChIJ74e8ivwkVxMRzuecKeruqV0",
+  "googleName": "Cerera",
+  "formattedAddress": "Dimitar Ilievski - Murato 1, Bitola 7000, North Macedonia",
+  "phone": "075 458 640",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6749188206079305678",
+  "rating": 3.5,
+  "reviewCount": 13,
+  "coords": [
+    41.0281752,
+    21.3367414
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cerera/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:42:42.646Z"
+}

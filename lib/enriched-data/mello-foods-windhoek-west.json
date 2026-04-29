@@ -1,0 +1,32 @@
+{
+  "slug": "mello-foods-windhoek-west",
+  "name": "Mello Foods",
+  "city": "Windhoek West",
+  "country": "Namibia",
+  "placeId": "ChIJf2z1WgkdCxwR8uwy8IPy-Rw",
+  "googleName": "Mello Foods Namibia",
+  "formattedAddress": "Unit 15 - 18 Flamican park, Next to China Town, New Castle Street, Windhoek, Namibia",
+  "phone": "081 761 7626",
+  "website": "http://www.mello.com.na/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2087966550747442418",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -22.5259624,
+    17.0766297
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mello-foods-windhoek-west/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:32:03.818Z"
+}

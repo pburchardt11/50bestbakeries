@@ -1,0 +1,32 @@
+{
+  "slug": "sweetberi-boutique-bakery",
+  "name": "Sweetberi Boutique Bakery",
+  "city": "אילת",
+  "country": "Israel",
+  "placeId": "ChIJPUZbGKVzABURJzbAe0IE8Gw",
+  "googleName": "Sweetberi Boutique Bakery",
+  "formattedAddress": "Parparon St, Eilat, Israel",
+  "phone": "052-683-3424",
+  "website": "http://www.fb.com/sweetberi1",
+  "googleMapsUrl": "https://maps.google.com/?cid=7849778834097321511",
+  "rating": 4.8,
+  "reviewCount": 9,
+  "coords": [
+    29.5559821,
+    34.9376891
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: 8:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweetberi-boutique-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:11.919Z"
+}

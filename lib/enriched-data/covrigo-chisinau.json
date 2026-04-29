@@ -1,0 +1,32 @@
+{
+  "slug": "covrigo-chisinau",
+  "name": "Covrigo",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJv_bLwC18yUARHJj9W-bENRE",
+  "googleName": "Covrigo",
+  "formattedAddress": "Strada Pușkin 14, Chișinău, Moldova",
+  "phone": "0681 82 266",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1240113766075308060",
+  "rating": 3.9,
+  "reviewCount": 101,
+  "coords": [
+    47.0189884,
+    28.8275517
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/covrigo-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:26.279Z"
+}

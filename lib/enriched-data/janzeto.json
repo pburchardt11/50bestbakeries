@@ -1,0 +1,32 @@
+{
+  "slug": "janzeto",
+  "name": "Janzeto",
+  "city": "Астана",
+  "country": "Kazakhstan",
+  "placeId": "ChIJz48Lok-HRUIRMJTwv4cWbGw",
+  "googleName": "Janzeto Кондитерская Астана",
+  "formattedAddress": "49X7+HHW, Kurgal'zhinskoye Shosse, Astana 020000, Kazakhstan",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7812644225877578800",
+  "rating": 3.6,
+  "reviewCount": 9,
+  "coords": [
+    51.1489772,
+    71.363964
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:00 PM",
+    "Tuesday: 8:30 AM – 10:00 PM",
+    "Wednesday: 8:30 AM – 10:00 PM",
+    "Thursday: 8:30 AM – 10:00 PM",
+    "Friday: 8:30 AM – 10:00 PM",
+    "Saturday: 8:30 AM – 10:00 PM",
+    "Sunday: 8:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/janzeto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:52:08.310Z"
+}

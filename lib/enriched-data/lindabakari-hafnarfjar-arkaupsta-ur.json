@@ -1,0 +1,32 @@
+{
+  "slug": "lindabakari-hafnarfjar-arkaupsta-ur",
+  "name": "Lindabakarí",
+  "city": "Hafnarfjarðarkaupstaður",
+  "country": "Iceland",
+  "placeId": "ChIJGzJBzbcN1kgRAZw87m5qhww",
+  "googleName": "Lindabakarí",
+  "formattedAddress": "323C+27F, Tjarnarvellir 15, 221 Hafnarfjörður, Iceland",
+  "phone": "544 5566",
+  "website": "https://lindabakari.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=902807274986970113",
+  "rating": 3.2,
+  "reviewCount": 25,
+  "coords": [
+    64.05250029999999,
+    -21.9795486
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lindabakari-hafnarfjar-arkaupsta-ur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:33:49.296Z"
+}

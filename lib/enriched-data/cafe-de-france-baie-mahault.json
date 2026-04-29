@@ -1,0 +1,32 @@
+{
+  "slug": "cafe-de-france-baie-mahault",
+  "name": "Café de France",
+  "city": "Baie-Mahault",
+  "country": "Guadeloupe",
+  "placeId": "ChIJByt2eiJEE4wRm7DpuG8uw_Q",
+  "googleName": "Restaurant Café de France",
+  "formattedAddress": "Immeuble l'Amiral, Moudong Sud Z.I Jarry Baie Mahault, Baie-Mahault 97122, Guadeloupe",
+  "phone": "0590 86 87 28",
+  "website": "https://cafedefranceguadeloupe.fr/?utm_source=GBP&utm_medium=CTA&utm_campaign=GBP",
+  "googleMapsUrl": "https://maps.google.com/?cid=17636991623091564699",
+  "rating": 4.4,
+  "reviewCount": 213,
+  "coords": [
+    16.2401453,
+    -61.5831051
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 3:30 PM",
+    "Tuesday: 6:30 AM – 3:30 PM",
+    "Wednesday: 6:30 AM – 3:30 PM",
+    "Thursday: 6:30 AM – 3:30 PM",
+    "Friday: 6:30 AM – 3:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-de-france-baie-mahault/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:20:58.436Z"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "beim-backer-jos-beckerich",
+  "name": "Beim Bäcker Jos",
+  "city": "Beckerich",
+  "country": "Luxembourg",
+  "placeId": "ChIJdVygbXKu6kcRWLd2ikOLKTo",
+  "googleName": "Beim Bäcker Jos",
+  "formattedAddress": "37 Huewelerstrooss, 8521 Biekerech, Luxembourg",
+  "phone": "23 62 14 79",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4191034050447062872",
+  "rating": 4.4,
+  "reviewCount": 99,
+  "coords": [
+    49.72948479999999,
+    5.888075
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:07:01.962Z"
+}

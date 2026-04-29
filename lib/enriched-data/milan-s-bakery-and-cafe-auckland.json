@@ -1,0 +1,32 @@
+{
+  "slug": "milan-s-bakery-and-cafe-auckland",
+  "name": "Milan's Bakery and Cafe",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJwQ5PkT5TDW0RBLgVu5tUYnk",
+  "googleName": "Milan's Bakery & Cafe",
+  "formattedAddress": "42 Sharland Avenue, Manurewa, Auckland 2102, New Zealand",
+  "phone": "09 268 8269",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8746646454142351364",
+  "rating": 4.3,
+  "reviewCount": 23,
+  "coords": [
+    -37.02852499999999,
+    174.8716069
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/milan-s-bakery-and-cafe-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:53.045Z"
+}

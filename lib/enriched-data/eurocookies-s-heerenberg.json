@@ -1,0 +1,32 @@
+{
+  "slug": "eurocookies-s-heerenberg",
+  "name": "Eurocookies",
+  "city": "'s-Heerenberg",
+  "country": "Netherlands",
+  "placeId": "ChIJsQeBhTWdx0cRwJdobDDQMVY",
+  "googleName": "Eurocookies",
+  "formattedAddress": "Lengelseweg 82, 7041 DS 's-Heerenberg, Netherlands",
+  "phone": "0314 668 579",
+  "website": "http://www.eurocookies.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6210974267516426176",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    51.8769274,
+    6.2593153
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eurocookies-s-heerenberg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:03.761Z"
+}

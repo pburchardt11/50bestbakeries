@@ -1,0 +1,32 @@
+{
+  "slug": "franzi-s-cakes-guernsey",
+  "name": "Franzi's Cakes",
+  "city": "Guernsey",
+  "country": "Guernsey",
+  "placeId": "ChIJfdNLIQBzDUgRaOYV0yqNQDE",
+  "googleName": "2 Frenchies",
+  "formattedAddress": "Rue du Pré, Guernsey GY1 1LX, Guernsey",
+  "phone": null,
+  "website": "https://www.2frenchies.gg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3548991721437521512",
+  "rating": 5,
+  "reviewCount": 21,
+  "coords": [
+    49.45136060000001,
+    -2.5414603
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 6:30 AM – 4:00 PM",
+    "Friday: 6:30 AM – 4:00 PM",
+    "Saturday: 6:30 AM – 4:00 PM",
+    "Sunday: 6:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/franzi-s-cakes-guernsey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:24:55.527Z"
+}

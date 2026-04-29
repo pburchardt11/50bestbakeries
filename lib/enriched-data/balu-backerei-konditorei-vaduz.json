@@ -1,0 +1,32 @@
+{
+  "slug": "balu-backerei-konditorei-vaduz",
+  "name": "Balu Bäckerei Konditorei",
+  "city": "Vaduz",
+  "country": "Liechtenstein",
+  "placeId": "ChIJW-HzOV0xm0cRZqictz8ebh8",
+  "googleName": "Balu Bäckerei Konditorei",
+  "formattedAddress": "Städtle 17, 9490 Vaduz, Liechtenstein",
+  "phone": "233 33 73",
+  "website": "http://www.baluvaduz.li/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2264780921626208358",
+  "rating": 4.4,
+  "reviewCount": 306,
+  "coords": [
+    47.1405147,
+    9.5228506
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/balu-backerei-konditorei-vaduz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:05:22.943Z"
+}

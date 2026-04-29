@@ -1,0 +1,32 @@
+{
+  "slug": "crumbs",
+  "name": "Crumbs",
+  "city": "حولى",
+  "country": "Kuwait",
+  "placeId": "ChIJgeCLkuiczz8R-K-USWdFZJg",
+  "googleName": "Crumbs",
+  "formattedAddress": "Shaab Sea Side, Shaab, Hawalli Governorate، Al Kindi St, Kuwait",
+  "phone": "552 78627",
+  "website": "http://www.crumbs.com.kw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10980978101354541048",
+  "rating": 4.3,
+  "reviewCount": 111,
+  "coords": [
+    29.3500828,
+    48.0296915
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Resource for cupcakes in a wide range of creative flavors like milkshake & cookie dough.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crumbs/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:58:01.289Z"
+}

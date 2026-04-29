@@ -1,0 +1,32 @@
+{
+  "slug": "muffin-bakery-coffee-chisinau",
+  "name": "MUFFIN Bakery & Coffee",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJywYBLxx9yUARJcQhRH5dq3Y",
+  "googleName": "MUFFIN Bakery&Coffee",
+  "formattedAddress": "Bulevardul Mircea cel Bătrîn 7/1, MD-2044, Chișinău, Moldova",
+  "phone": "0695 58 042",
+  "website": "https://www.facebook.com/muffinmd",
+  "googleMapsUrl": "https://maps.google.com/?cid=8551031114383344677",
+  "rating": 3.5,
+  "reviewCount": 35,
+  "coords": [
+    47.0432216,
+    28.8895047
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:30 PM",
+    "Tuesday: 7:30 AM – 10:30 PM",
+    "Wednesday: 7:30 AM – 10:30 PM",
+    "Thursday: 7:30 AM – 10:30 PM",
+    "Friday: 7:30 AM – 10:30 PM",
+    "Saturday: 7:30 AM – 10:30 PM",
+    "Sunday: 7:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/muffin-bakery-coffee-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:22:05.045Z"
+}

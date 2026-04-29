@@ -1,0 +1,32 @@
+{
+  "slug": "maravi-bakery-lilongwe",
+  "name": "Maravi Bakery",
+  "city": "Lilongwe",
+  "country": "Malawi",
+  "placeId": "ChIJK2FjhRXTIRkRQjGqqSwU8BM",
+  "googleName": "Maravi Bakery",
+  "formattedAddress": "Paul Kagame Road, Lilongwe, Malawi",
+  "phone": "0888 23 25 96",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1436670463188808002",
+  "rating": 4.7,
+  "reviewCount": 76,
+  "coords": [
+    -13.9778863,
+    33.771838
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:30 PM",
+    "Tuesday: 8:30 AM – 5:30 PM",
+    "Wednesday: 8:30 AM – 5:30 PM",
+    "Thursday: 8:30 AM – 5:30 PM",
+    "Friday: 8:30 AM – 5:30 PM",
+    "Saturday: 8:30 AM – 5:30 PM",
+    "Sunday: 9:30 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maravi-bakery-lilongwe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:11:52.241Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "padaria-du-munhava-beira",
+  "name": "Padaria du Munhava",
+  "city": "Beira",
+  "country": "Mozambique",
+  "placeId": "ChIJXTA4knFqKh8RAzyBqe-6QTA",
+  "googleName": "Bakery Munhava",
+  "formattedAddress": "5VR3+76M, Sousa Araujo Estrada, Beira, Mozambique",
+  "phone": "82 256 3786",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3477265925810502659",
+  "rating": 4.2,
+  "reviewCount": 73,
+  "coords": [
+    -19.8092981,
+    34.8530472
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-du-munhava-beira/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:28:41.870Z"
+}

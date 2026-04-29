@@ -1,0 +1,32 @@
+{
+  "slug": "tatuya-aomori",
+  "name": "TATUYA",
+  "city": "Aomori",
+  "country": "Japan",
+  "placeId": "ChIJfwpyZB6fm18R4Zh_g3t205M",
+  "googleName": "Tatsuya",
+  "formattedAddress": "1-chōme-9-19 Shinmachi, Aomori, 030-0801, Japan",
+  "phone": "017-752-1535",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10651987816520587489",
+  "rating": 4.2,
+  "reviewCount": 325,
+  "coords": [
+    40.8274957,
+    140.7375075
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+    "Tuesday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+    "Wednesday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+    "Thursday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+    "Friday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+    "Saturday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tatuya-aomori/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:47:24.975Z"
+}

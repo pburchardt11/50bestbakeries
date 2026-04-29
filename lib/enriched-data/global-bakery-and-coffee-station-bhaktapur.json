@@ -1,0 +1,32 @@
+{
+  "slug": "global-bakery-and-coffee-station-bhaktapur",
+  "name": "Global Bakery and Coffee Station",
+  "city": "Bhaktapur",
+  "country": "Nepal",
+  "placeId": "ChIJjcBf7IAb6zkRnuo36K5tsOM",
+  "googleName": "Global bakery & coffee station",
+  "formattedAddress": "SallaGhari, Bhaktapur 44800, Nepal",
+  "phone": "986-1922785",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16406734040498432670",
+  "rating": 4.6,
+  "reviewCount": 20,
+  "coords": [
+    27.6703992,
+    85.41052959999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/global-bakery-and-coffee-station-bhaktapur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:32:59.342Z"
+}

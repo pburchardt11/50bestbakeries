@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-polog",
+  "name": "Bakery Polog",
+  "city": "Гостивар",
+  "country": "North Macedonia",
+  "placeId": "ChIJvUEXJOVXURMRweVZww59nPM",
+  "googleName": "Extra Baklava",
+  "formattedAddress": "18-ti Noemvri 144, 1230, Gostivar 1230, North Macedonia",
+  "phone": "070 691 128",
+  "website": "https://modivia.net/restaurant/extra-baklava",
+  "googleMapsUrl": "https://maps.google.com/?cid=17554042949943813569",
+  "rating": 4.9,
+  "reviewCount": 90,
+  "coords": [
+    41.7972856,
+    20.903466
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-polog/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:02.990Z"
+}

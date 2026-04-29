@@ -1,0 +1,32 @@
+{
+  "slug": "al-saha-bakery",
+  "name": "Al Saha Bakery",
+  "city": "البترون",
+  "country": "Lebanon",
+  "placeId": "ChIJx_5K8v1YHxUR6wiA1Yad8ps",
+  "googleName": "Al Saha Bakery",
+  "formattedAddress": "6M9R+953, Smar Jbeil, Lebanon",
+  "phone": "71 004 481",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11237217222675925227",
+  "rating": 4.5,
+  "reviewCount": 47,
+  "coords": [
+    34.2183808,
+    35.6904163
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 AM",
+    "Tuesday: 7:00 AM – 1:00 AM",
+    "Wednesday: 7:00 AM – 1:00 AM",
+    "Thursday: 7:00 AM – 1:00 AM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 7:00 AM – 1:00 AM",
+    "Sunday: 7:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-saha-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:03:37.433Z"
+}

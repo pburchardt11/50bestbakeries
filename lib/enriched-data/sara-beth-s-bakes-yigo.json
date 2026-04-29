@@ -1,0 +1,32 @@
+{
+  "slug": "sara-beth-s-bakes-yigo",
+  "name": "Sara Beth's Bakes",
+  "city": "Yigo",
+  "country": "Guam",
+  "placeId": "ChIJPykdD3SDH2cROvIZVq8twFo",
+  "googleName": "ASAP Bakery",
+  "formattedAddress": "655 27 Unit 107A, Dededo, 96929, Guam",
+  "phone": "(671) 989-2727",
+  "website": "https://www.facebook.com/profile.php?id=100087876290978&mibextid=ZbWKwL",
+  "googleMapsUrl": "https://maps.google.com/?cid=6539276890029027898",
+  "rating": 5,
+  "reviewCount": 26,
+  "coords": [
+    13.5101103,
+    144.8205402
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sara-beth-s-bakes-yigo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:23:11.112Z"
+}

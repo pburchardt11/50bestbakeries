@@ -1,0 +1,32 @@
+{
+  "slug": "backwerkstatt-frommelt-triesen",
+  "name": "Backwerkstatt Frommelt",
+  "city": "Triesen",
+  "country": "Liechtenstein",
+  "placeId": "ChIJB6VTrY0zm0cRVEKUiubilbk",
+  "googleName": "Backwerkstatt Frommelt / Hauptsitz",
+  "formattedAddress": "Landstrasse 261, 9495 Triesen, Liechtenstein",
+  "phone": "392 25 07",
+  "website": "https://www.backwerkstatt.li/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13372844148341883476",
+  "rating": 4.4,
+  "reviewCount": 62,
+  "coords": [
+    47.1084239,
+    9.525501199999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:30 PM, 2:30 – 6:00 PM",
+    "Tuesday: 6:00 AM – 12:30 PM, 2:30 – 6:00 PM",
+    "Wednesday: 6:00 AM – 12:30 PM, 2:30 – 6:00 PM",
+    "Thursday: 6:00 AM – 12:30 PM, 2:30 – 6:00 PM",
+    "Friday: 6:00 AM – 12:30 PM, 2:30 – 6:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backwerkstatt-frommelt-triesen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:05:18.316Z"
+}

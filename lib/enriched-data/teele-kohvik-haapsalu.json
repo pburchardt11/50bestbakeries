@@ -1,0 +1,32 @@
+{
+  "slug": "teele-kohvik-haapsalu",
+  "name": "Teele Kohvik",
+  "city": "Haapsalu",
+  "country": "Estonia",
+  "placeId": "ChIJe1PQX5yn8kYRqFAJk-NsJVk",
+  "googleName": "Teele Bakery",
+  "formattedAddress": "Metsa tn 53, Haapsalu, 90505 Lääne maakond, Estonia",
+  "phone": "518 4074",
+  "website": "https://teelepagar.ee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6423660168194117800",
+  "rating": 4.7,
+  "reviewCount": 698,
+  "coords": [
+    58.94241,
+    23.5495209
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/teele-kohvik-haapsalu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:04:48.303Z"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "oak-bakery-abuja",
+  "name": "Oak Bakery",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "placeId": "ChIJg_OM6nl1ThAR1rA6P772ZpE",
+  "googleName": "Oak Bakery",
+  "formattedAddress": "32 Owerri St, War College Estate, 32 Owerri Cl, Gwarinpa Estate, Gwarinpa 900108, Federal Capital Territory, Nigeria",
+  "phone": "0809 840 5156",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10477332880089067734",
+  "rating": 4.9,
+  "reviewCount": 8,
+  "coords": [
+    9.1097944,
+    7.399762
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: Closed",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:41:24.170Z"
+}

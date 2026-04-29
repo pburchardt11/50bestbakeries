@@ -1,0 +1,32 @@
+{
+  "slug": "uni-bakery-air-hitam",
+  "name": "Uni Bakery",
+  "city": "Air Hitam",
+  "country": "Malaysia",
+  "placeId": "ChIJA2GHhCLCSjAROi4XPopN45k",
+  "googleName": "Syarikat Uni Bakery",
+  "formattedAddress": "187-E, Jln Kampung Pisang, Kampung Melayu, 11500 Ayer Itam, Pulau Pinang, Malaysia",
+  "phone": "012-475 2928",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11088791963658825274",
+  "rating": 4.1,
+  "reviewCount": 57,
+  "coords": [
+    5.3985531,
+    100.282829
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:30 PM",
+    "Tuesday: 9:00 AM – 6:30 PM",
+    "Wednesday: 9:00 AM – 6:30 PM",
+    "Thursday: 9:00 AM – 6:30 PM",
+    "Friday: 9:00 AM – 6:30 PM",
+    "Saturday: Closed",
+    "Sunday: 9:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/uni-bakery-air-hitam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:12:33.791Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "geirabakari-kaffihus-borgarbygg",
+  "name": "Geirabakarí Kaffihús",
+  "city": "Borgarbyggð",
+  "country": "Iceland",
+  "placeId": "ChIJd4dvHpnI1UgRE7ZEc71FHFk",
+  "googleName": "Geirabakarí Kaffihús",
+  "formattedAddress": "Þjóðvegur, 310 Borgarnes, Iceland",
+  "phone": "437 1920",
+  "website": "https://www.facebook.com/geirabakari.ehf",
+  "googleMapsUrl": "https://maps.google.com/?cid=6421083848708503059",
+  "rating": 4.4,
+  "reviewCount": 764,
+  "coords": [
+    64.541062,
+    -21.9091845
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:30 PM",
+    "Tuesday: 7:30 AM – 4:30 PM",
+    "Wednesday: 7:30 AM – 4:30 PM",
+    "Thursday: 7:30 AM – 4:30 PM",
+    "Friday: 7:30 AM – 4:30 PM",
+    "Saturday: 8:00 AM – 4:30 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/geirabakari-kaffihus-borgarbygg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:33:35.573Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "lily-bakes-beau-bassin-town",
+  "name": "Lily Bakes",
+  "city": "Beau Bassin Town",
+  "country": "Mauritius",
+  "placeId": "ChIJh-ufdldBfCERojjfsPY8aPA",
+  "googleName": "Lily Bakes",
+  "formattedAddress": "Mallefille Ave, Quatre Bornes, Mauritius",
+  "phone": "5768 4599",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17323162996907653282",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -20.2507404,
+    57.479477
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:30 AM",
+    "Tuesday: 9:00 AM – 5:30 PM",
+    "Wednesday: 9:00 AM – 5:30 PM",
+    "Thursday: 9:00 AM – 5:30 PM",
+    "Friday: 9:00 AM – 5:30 PM",
+    "Saturday: 9:00 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lily-bakes-beau-bassin-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:18:40.327Z"
+}

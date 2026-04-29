@@ -1,0 +1,32 @@
+{
+  "slug": "musamma-cafe-hulhumale",
+  "name": "Musamma Café",
+  "city": "Hulhumale",
+  "country": "Maldives",
+  "placeId": "ChIJNyaCDv9-PzsRohgrvIhldro",
+  "googleName": "Musammaa Cafe",
+  "formattedAddress": "5GG7+3MP, Malé, Maldives",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13436038176253352098",
+  "rating": 4.1,
+  "reviewCount": 16,
+  "coords": [
+    4.1752037,
+    73.5142023
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 2:00 PM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/musamma-cafe-hulhumale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:12:58.412Z"
+}

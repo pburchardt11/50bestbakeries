@@ -1,0 +1,32 @@
+{
+  "slug": "dulce-maria-karm-saddeh",
+  "name": "Dulce Maria",
+  "city": "karm saddeh",
+  "country": "Lebanon",
+  "placeId": "ChIJTWpZGg35IRURL-fDN38HRG0",
+  "googleName": "Dulce Maria",
+  "formattedAddress": "Main road, Zgharta - Ehden Rd, 1304, كرم سدة، Lebanon",
+  "phone": "76 546 611",
+  "website": "http://www.dulce-maria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7873426291528296239",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    34.3081282,
+    35.8974261
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dulce-maria-karm-saddeh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:03:26.308Z"
+}

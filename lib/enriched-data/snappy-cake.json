@@ -1,0 +1,24 @@
+{
+  "slug": "snappy-cake",
+  "name": "Snappy Cake",
+  "city": "عمان",
+  "country": "Jordan",
+  "placeId": "ChIJfRmuT_emHBURu9x8KSer7Kk",
+  "googleName": "Snappy Cake",
+  "formattedAddress": "Marj Al Hamam, Amman, Jordan",
+  "phone": "07 9745 0003",
+  "website": "https://m.facebook.com/snappycakeandpastry/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12244349671601659067",
+  "rating": 3.9,
+  "reviewCount": 33,
+  "coords": [
+    31.8911888,
+    35.8599614
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/snappy-cake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:50:21.742Z"
+}

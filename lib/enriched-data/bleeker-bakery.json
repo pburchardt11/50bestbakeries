@@ -1,0 +1,32 @@
+{
+  "slug": "bleeker-bakery",
+  "name": "Bleeker bakery-בליקר בייקרי-בד״ץ אשדוד",
+  "city": "אשדוד",
+  "country": "Israel",
+  "placeId": "ChIJE2qXylWiAhURwi6XfqhggXo",
+  "googleName": "Bleecker Bakery Ashdod",
+  "formattedAddress": "Ha-Gdud ha-Ivri St, Ashdod, Israel",
+  "phone": "08-975-7800",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8827443021417492162",
+  "rating": 4.4,
+  "reviewCount": 1247,
+  "coords": [
+    31.7923435,
+    34.638923
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 3:30 PM",
+    "Saturday: 7:00 PM – 12:00 AM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bleeker-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:33.558Z"
+}

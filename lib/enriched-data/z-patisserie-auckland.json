@@ -1,0 +1,32 @@
+{
+  "slug": "z-patisserie-auckland",
+  "name": "Z Patisserie",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJizlMSV1NDW0R_o2Sdog-n7c",
+  "googleName": "Z PATISSERIE西点特工（东区店）",
+  "formattedAddress": "Bellingham Road, Flat Bush, Auckland 2019, New Zealand",
+  "phone": "09 200 0090",
+  "website": "http://www.cake4u.co.nz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13231362986063597054",
+  "rating": 4.3,
+  "reviewCount": 172,
+  "coords": [
+    -36.9645719,
+    174.9141931
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/z-patisserie-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:27.664Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "magbaker",
+  "name": "MagBaker",
+  "city": "გორი",
+  "country": "Georgia",
+  "placeId": "ChIJIelM-DudREARG8Yb_R-G6sk",
+  "googleName": "MagBakery-საცხობი",
+  "formattedAddress": "62 Davit Aghmashenebeli Ave, Gori 1400, Georgia",
+  "phone": "511 15 62 62",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14549589018122372635",
+  "rating": 5,
+  "reviewCount": 9,
+  "coords": [
+    41.9829334,
+    44.11758589999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magbaker/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:32.846Z"
+}

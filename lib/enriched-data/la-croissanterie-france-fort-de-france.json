@@ -1,0 +1,32 @@
+{
+  "slug": "la-croissanterie-france-fort-de-france",
+  "name": "La Croissanterie France",
+  "city": "Fort-de-France",
+  "country": "Martinique",
+  "placeId": "ChIJFQ9tUdOmaowRgF8bUlTLqVU",
+  "googleName": "La Croissanterie",
+  "formattedAddress": "Cité Dillon, Fort-de-France 97200, Martinique",
+  "phone": "0596 57 21 79",
+  "website": "https://www.lacroissanterie.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6172688327303192448",
+  "rating": 3.5,
+  "reviewCount": 6,
+  "coords": [
+    14.6097454,
+    -61.0475046
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:45 PM",
+    "Tuesday: 6:00 AM – 7:45 PM",
+    "Wednesday: 6:00 AM – 7:45 PM",
+    "Thursday: 6:00 AM – 7:45 PM",
+    "Friday: 6:00 AM – 7:45 PM",
+    "Saturday: 6:00 AM – 7:45 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-croissanterie-france-fort-de-france/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:17:32.751Z"
+}

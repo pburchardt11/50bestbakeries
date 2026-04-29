@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-delipan-distrito-central",
+  "name": "Panaderia Delipan",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJIwih4Nuib48RlMOqq2Hh_1k",
+  "googleName": "Delipán • Blv. Morazán",
+  "formattedAddress": "3RX7+X28, Tegucigalpa, Francisco Morazán, Honduras",
+  "phone": "2232-4339",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6485149798044976020",
+  "rating": 4.4,
+  "reviewCount": 89,
+  "coords": [
+    14.0999079,
+    -87.1874351
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 10:30 AM – 5:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-delipan-distrito-central/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:28:00.757Z"
+}

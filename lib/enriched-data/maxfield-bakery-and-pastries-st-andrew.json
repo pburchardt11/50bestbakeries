@@ -1,0 +1,32 @@
+{
+  "slug": "maxfield-bakery-and-pastries-st-andrew",
+  "name": "Maxfield Bakery and Pastries",
+  "city": "St Andrew",
+  "country": "Jamaica",
+  "placeId": "ChIJo5k--rs_244RIu0Nq-SmhKw",
+  "googleName": "Maxfield Bakery & Pastries Ltd.",
+  "formattedAddress": "14 Central Rd, Kencot, Kingston 10, Jamaica, Central Rd, Kingston, Jamaica",
+  "phone": "(876) 926-2160",
+  "website": "http://www.maxfieldbakery.com",
+  "googleMapsUrl": "https://maps.google.com/?cid=12431244372501982498",
+  "rating": 4.1,
+  "reviewCount": 119,
+  "coords": [
+    18.0017018,
+    -76.7965996
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maxfield-bakery-and-pastries-st-andrew/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:46:55.776Z"
+}

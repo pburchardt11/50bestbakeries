@@ -1,0 +1,32 @@
+{
+  "slug": "muscat-pastizzeria-pieta",
+  "name": "Muscat Pastizzeria",
+  "city": "Pietà",
+  "country": "Malta",
+  "placeId": "ChIJuTfoaLRaDhMRXbup0nWU8Bs",
+  "googleName": "Muscat Pastizzeria",
+  "formattedAddress": "VFVR+P9X, Triq Qrejten, L-Imsida, Malta",
+  "phone": "2123 8916",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2013272267201035101",
+  "rating": 4.6,
+  "reviewCount": 81,
+  "coords": [
+    35.8943515,
+    14.490984
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:00 PM",
+    "Tuesday: 5:00 AM – 7:00 PM",
+    "Wednesday: 5:00 AM – 7:00 PM",
+    "Thursday: 5:00 AM – 7:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 5:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/muscat-pastizzeria-pieta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:00.340Z"
+}

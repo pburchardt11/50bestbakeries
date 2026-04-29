@@ -1,0 +1,32 @@
+{
+  "slug": "david-s-bakery-kercem",
+  "name": "David's Bakery",
+  "city": "Kerċem",
+  "country": "Malta",
+  "placeId": "ChIJmyynjUS0DxMRhE3bhbZOL0g",
+  "googleName": "David's Bakery",
+  "formattedAddress": "Triq il-Madonna tas, Sokkors, Kerċem, Malta",
+  "phone": "2155 5655",
+  "website": "https://davidsbakerygozo.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5201462640472968580",
+  "rating": 4.7,
+  "reviewCount": 285,
+  "coords": [
+    36.042953,
+    14.2261927
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 5:00 PM",
+    "Tuesday: 5:00 AM – 5:00 PM",
+    "Wednesday: 5:00 AM – 5:00 PM",
+    "Thursday: 5:00 AM – 5:00 PM",
+    "Friday: 5:00 AM – 5:00 PM",
+    "Saturday: 5:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/david-s-bakery-kercem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:20.124Z"
+}

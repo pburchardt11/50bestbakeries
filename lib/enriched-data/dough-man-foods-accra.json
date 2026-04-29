@@ -1,0 +1,32 @@
+{
+  "slug": "dough-man-foods-accra",
+  "name": "Dough Man Foods",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJFd89xvmb3w8R8U1rmAMTC2o",
+  "googleName": "Dough Man Foods, North Kaneshie",
+  "formattedAddress": "Aduemi St, Accra, Ghana",
+  "phone": "020 110 0533",
+  "website": "http://www.doughmanfoods.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7641222098927177201",
+  "rating": 4.3,
+  "reviewCount": 264,
+  "coords": [
+    5.5963724,
+    -0.2440374
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dough-man-foods-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:51.914Z"
+}

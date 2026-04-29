@@ -1,0 +1,32 @@
+{
+  "slug": "bogiant-accra",
+  "name": "Bogiant",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJESZ3bGaZ3w8R3Jnfv45CXn8",
+  "googleName": "Bogiant Bakery",
+  "formattedAddress": "JQC9+43J, Accra, Achimota, Ghana",
+  "phone": "026 098 9780",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9177846271499540956",
+  "rating": 4.3,
+  "reviewCount": 390,
+  "coords": [
+    5.620312500000001,
+    -0.2323125
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 9:00 PM",
+    "Tuesday: 5:00 AM – 9:00 PM",
+    "Wednesday: 5:00 AM – 9:00 PM",
+    "Thursday: 5:00 AM – 9:00 PM",
+    "Friday: 5:00 AM – 9:00 PM",
+    "Saturday: 5:00 AM – 9:00 PM",
+    "Sunday: 5:00 – 8:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bogiant-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:16:40.271Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bakkerij-van-den-berg-s-gravenzande",
+  "name": "Bakkerij van den Berg",
+  "city": "'s-Gravenzande",
+  "country": "Netherlands",
+  "placeId": "ChIJD6VQWpCtxUcRLNea7-zfZpU",
+  "googleName": "Bakkerij van den Berg - 's-Gravenzande - Graaf Florisplein",
+  "formattedAddress": "Graaf Florisplein 6, 2691 ZW 's-Gravenzande, Netherlands",
+  "phone": "0174 418 037",
+  "website": "http://www.bakkerijvdberg.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10765538168000927532",
+  "rating": 4.5,
+  "reviewCount": 70,
+  "coords": [
+    52.0029262,
+    4.1633334
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:30 PM",
+    "Tuesday: 8:00 AM – 5:30 PM",
+    "Wednesday: 8:00 AM – 5:30 PM",
+    "Thursday: 8:00 AM – 5:30 PM",
+    "Friday: 8:00 AM – 5:30 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-van-den-berg-s-gravenzande/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:33:58.456Z"
+}

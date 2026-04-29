@@ -1,0 +1,32 @@
+{
+  "slug": "bikerbaking-s-heer-arendskerke",
+  "name": "BikerBaking",
+  "city": "'s-Heer Arendskerke",
+  "country": "Netherlands",
+  "placeId": "ChIJGXSuaT-JxEcRy_6_N2SdSto",
+  "googleName": "BikerBaking",
+  "formattedAddress": "Blikhoek 72, 4453 BG 's-Heerenhoek, Netherlands",
+  "phone": null,
+  "website": "http://www.bikerbaking.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15729557702302498507",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    51.457828,
+    3.7709704
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bikerbaking-s-heer-arendskerke/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:01.180Z"
+}

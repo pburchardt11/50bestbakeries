@@ -1,0 +1,32 @@
+{
+  "slug": "ribca-s-artisan-bakery-chisinau",
+  "name": "Ribca's Artisan Bakery",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJIUtjbTB8yUAR8N13MFKSikc",
+  "googleName": "Bunătăți de la Marika",
+  "formattedAddress": "Chișinău MD, Strada Veronica Micle 1/1, MD-2012, Chișinău, Moldova",
+  "phone": "0683 99 111",
+  "website": "https://www.facebook.com/bunatatidelamarika",
+  "googleMapsUrl": "https://maps.google.com/?cid=5155093605177089520",
+  "rating": 4.6,
+  "reviewCount": 127,
+  "coords": [
+    47.0192395,
+    28.8371399
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ribca-s-artisan-bakery-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:41.567Z"
+}

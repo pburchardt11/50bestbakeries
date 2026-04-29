@@ -1,0 +1,32 @@
+{
+  "slug": "le-pain-du-pasteur-monaco",
+  "name": "Le Pain du Pasteur",
+  "city": "Monaco",
+  "country": "Monaco",
+  "placeId": "ChIJ_RU8MIvCzRIRuEX4IFPc2tc",
+  "googleName": "Le Pain do Minho",
+  "formattedAddress": "3 Bd des Moneghetti, 06240 Beausoleil, France",
+  "phone": "09 82 55 08 74",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15553986512670967224",
+  "rating": 4.5,
+  "reviewCount": 83,
+  "coords": [
+    43.7382947,
+    7.4172478
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 11:00 PM",
+    "Tuesday: 6:30 AM – 11:00 PM",
+    "Wednesday: 6:30 AM – 11:00 PM",
+    "Thursday: 6:30 AM – 11:00 PM",
+    "Friday: 6:30 AM – 11:00 PM",
+    "Saturday: 6:30 AM – 11:00 PM",
+    "Sunday: 6:30 – 11:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-pain-du-pasteur-monaco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:22:42.908Z"
+}

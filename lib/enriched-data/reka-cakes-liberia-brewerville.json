@@ -1,0 +1,32 @@
+{
+  "slug": "reka-cakes-liberia-brewerville",
+  "name": "Reka Cakes - Liberia",
+  "city": "Brewerville",
+  "country": "Liberia",
+  "placeId": "ChIJPSiSSA37CQ8Ri4DGDRJzgKs",
+  "googleName": "Reka Cakes - Liberia",
+  "formattedAddress": "VOA Junction, 0000, Liberia",
+  "phone": "088 692 1190",
+  "website": "http://www.rekacakes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12358003898882359435",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    6.4373838,
+    -10.7958423
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 2:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/reka-cakes-liberia-brewerville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:04:09.831Z"
+}

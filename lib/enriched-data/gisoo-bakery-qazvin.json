@@ -1,0 +1,32 @@
+{
+  "slug": "gisoo-bakery-qazvin",
+  "name": "Gisoo Bakery",
+  "city": "Qazvin",
+  "country": "Iran",
+  "placeId": "ChIJmfZOTwBViz8RMVnUCcW3YDs",
+  "googleName": "نان و شیرینی گیسو",
+  "formattedAddress": "Qazvin Province, Qazvin, Nokhbegan Blvd, 825H+PW8, Iran",
+  "phone": "0900 281 0118",
+  "website": "https://www.instagram.com/gisoobakery_?igsh=azd4enVhcWgxc29n",
+  "googleMapsUrl": "https://maps.google.com/?cid=4278621702903322929",
+  "rating": 4.6,
+  "reviewCount": 10,
+  "coords": [
+    36.3092312,
+    50.02972459999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:30 PM",
+    "Tuesday: 7:30 AM – 11:30 PM",
+    "Wednesday: 7:30 AM – 11:30 PM",
+    "Thursday: 7:30 AM – 11:30 PM",
+    "Friday: 7:30 AM – 11:30 PM",
+    "Saturday: 7:30 AM – 11:30 PM",
+    "Sunday: 7:30 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gisoo-bakery-qazvin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:35:46.703Z"
+}

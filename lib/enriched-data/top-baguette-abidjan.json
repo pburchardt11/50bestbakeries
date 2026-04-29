@@ -1,0 +1,32 @@
+{
+  "slug": "top-baguette-abidjan",
+  "name": "Top Baguette",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJtRC5lBDrwQ8RBZVkZRZ-a8I",
+  "googleName": "Top Baguette",
+  "formattedAddress": "9X3M+63Q, Abidjan, Côte d'Ivoire",
+  "phone": "07 67 19 8818",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14009429700521530629",
+  "rating": 3.4,
+  "reviewCount": 34,
+  "coords": [
+    5.3530989,
+    -4.0172738
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/top-baguette-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:13.672Z"
+}

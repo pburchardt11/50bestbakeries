@@ -1,0 +1,24 @@
+{
+  "slug": "my-bakery-bhaktapur",
+  "name": "MY Bakery",
+  "city": "Bhaktapur",
+  "country": "Nepal",
+  "placeId": "ChIJC5YUrf4b6zkRAnm_k_SMQUQ",
+  "googleName": "MY BAKERY",
+  "formattedAddress": "Unnamed Road, M9MQ+R6M, मध्यपुर थिमि 44600, Nepal",
+  "phone": "01-6632061",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4918367250144000258",
+  "rating": 3.5,
+  "reviewCount": 12,
+  "coords": [
+    27.6845823,
+    85.38804259999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/my-bakery-bhaktapur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:33:03.150Z"
+}

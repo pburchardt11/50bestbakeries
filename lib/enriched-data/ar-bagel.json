@@ -1,0 +1,24 @@
+{
+  "slug": "ar-bagel",
+  "name": "AR Bagel",
+  "city": "بغداد",
+  "country": "Iraq",
+  "placeId": "ChIJt9TdmgB_VxURa3QCdzmCWDk",
+  "googleName": "ar Bagel",
+  "formattedAddress": "8967+PRR, Baghdad, Baghdad Governorate, Iraq",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4132195841433826411",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    33.3118623,
+    44.3645138
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ar-bagel/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:39:14.862Z"
+}

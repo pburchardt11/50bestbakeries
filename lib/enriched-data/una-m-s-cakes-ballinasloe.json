@@ -1,0 +1,32 @@
+{
+  "slug": "una-m-s-cakes-ballinasloe",
+  "name": "UNA M's CAKES",
+  "city": "Ballinasloe",
+  "country": "Ireland",
+  "placeId": "ChIJ0YtSbOdxXEgRL5VblCFS6kM",
+  "googleName": "Woodlawn Bakes",
+  "formattedAddress": "Castlebin South, New Inn, Co. Galway, Ireland",
+  "phone": "087 455 0051",
+  "website": "http://www.woodlawnbakes.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4893814249267893551",
+  "rating": 4.8,
+  "reviewCount": 20,
+  "coords": [
+    53.299974,
+    -8.489717299999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:30 AM – 4:30 PM",
+    "Wednesday: 9:30 AM – 6:00 PM",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/una-m-s-cakes-ballinasloe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:40:46.993Z"
+}

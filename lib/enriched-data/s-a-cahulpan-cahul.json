@@ -1,0 +1,32 @@
+{
+  "slug": "s-a-cahulpan-cahul",
+  "name": "S.A Cahulpan",
+  "city": "Cahul",
+  "country": "Moldova",
+  "placeId": "ChIJmY-kKoZctkARx-tWkUKFJPc",
+  "googleName": "S.A Cahulpan",
+  "formattedAddress": "Strada Păcii 20, MD-3900, Cahul, Moldova",
+  "phone": "0299 41 837",
+  "website": "https://www.cahulpan.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17808505347482512327",
+  "rating": 4.4,
+  "reviewCount": 58,
+  "coords": [
+    45.8904301,
+    28.1929501
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/s-a-cahulpan-cahul/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:20:57.002Z"
+}

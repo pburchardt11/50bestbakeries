@@ -1,0 +1,32 @@
+{
+  "slug": "krystle-s-patisserie-accra",
+  "name": "Krystle's Patisserie",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJhfZJ8ZyF3w8RU0cD8uqMYaA",
+  "googleName": "Krystle's Patisserie",
+  "formattedAddress": "48 Boundary Rd, Accra, Ghana",
+  "phone": "027 770 8476",
+  "website": "http://krystlespatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11556673059519940435",
+  "rating": 4.5,
+  "reviewCount": 90,
+  "coords": [
+    5.6442412,
+    -0.147952
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:00 PM",
+    "Tuesday: 5:30 AM – 6:00 PM",
+    "Wednesday: 5:30 AM – 6:00 PM",
+    "Thursday: 5:30 AM – 6:00 PM",
+    "Friday: 5:30 AM – 6:00 PM",
+    "Saturday: 5:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/krystle-s-patisserie-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:15:38.906Z"
+}

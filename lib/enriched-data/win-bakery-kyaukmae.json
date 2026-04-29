@@ -1,0 +1,32 @@
+{
+  "slug": "win-bakery-kyaukmae",
+  "name": "Win Bakery",
+  "city": "Kyaukmae",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJ66wUmHArMzcRTX72UEbEIJw",
+  "googleName": "Win Bakery",
+  "formattedAddress": "pinlong road, Kyaukme, Myanmar (Burma)",
+  "phone": "09 527 5281",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11250207675456585293",
+  "rating": 3.8,
+  "reviewCount": 4,
+  "coords": [
+    22.5410377,
+    97.0336458
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/win-bakery-kyaukmae/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:30:28.494Z"
+}

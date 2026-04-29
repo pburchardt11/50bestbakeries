@@ -1,0 +1,32 @@
+{
+  "slug": "blessyou-bakery-savannaket",
+  "name": "Blessyou bakery",
+  "city": "Savannaket",
+  "country": "Laos",
+  "placeId": "ChIJ8X0ZLdjFPTEREtiajgDG5xE",
+  "googleName": "Blessyou bakery",
+  "formattedAddress": "HQ44+RMR, Savannakhet, Laos",
+  "phone": "020 55 221 622",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1290217523959748626",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "coords": [
+    16.5570728,
+    104.7564569
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blessyou-bakery-savannaket/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:00:09.289Z"
+}

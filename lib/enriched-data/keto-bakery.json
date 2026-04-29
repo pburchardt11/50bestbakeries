@@ -1,0 +1,32 @@
+{
+  "slug": "keto-bakery",
+  "name": "Keto Bakery",
+  "city": "السليمانية",
+  "country": "Iraq",
+  "placeId": "ChIJgxPMvr8tAEARPxMoa4-rDuY",
+  "googleName": "Keto Bakery",
+  "formattedAddress": "HC5H+3XR, Salim Street, Sulaymaniyah, Sulaymaniyah Governorate, Iraq",
+  "phone": "0770 248 8208",
+  "website": "https://m.facebook.com/KetoBK/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16577375910863835967",
+  "rating": 4.4,
+  "reviewCount": 23,
+  "coords": [
+    35.5577344,
+    45.4298981
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/keto-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:38:16.755Z"
+}

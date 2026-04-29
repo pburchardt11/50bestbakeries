@@ -1,0 +1,32 @@
+{
+  "slug": "leili-pastry-shop-chalus",
+  "name": "Leili Pastry Shop",
+  "city": "Chalus",
+  "country": "Iran",
+  "placeId": "ChIJ8-1-Cfinjj8RiwUa-1GGwn0",
+  "googleName": "Leili Pastry",
+  "formattedAddress": "M9HX+84P, Chalus, Mazandaran Province, Iran",
+  "phone": "011 5225 6137",
+  "website": "http://www.leilipastry.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9061953086886118795",
+  "rating": 4.4,
+  "reviewCount": 154,
+  "coords": [
+    36.6783429,
+    51.3978175
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:30 PM",
+    "Tuesday: 9:00 AM – 10:30 PM",
+    "Wednesday: 9:00 AM – 10:30 PM",
+    "Thursday: 9:00 AM – 10:30 PM",
+    "Friday: 9:00 AM – 12:30 AM",
+    "Saturday: 9:00 AM – 10:30 PM",
+    "Sunday: 9:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leili-pastry-shop-chalus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:35:21.570Z"
+}

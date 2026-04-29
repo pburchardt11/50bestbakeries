@@ -1,0 +1,32 @@
+{
+  "slug": "cullys-craft-bakery-arvagh",
+  "name": "Cullys Craft Bakery",
+  "city": "Arvagh",
+  "country": "Ireland",
+  "placeId": "ChIJ9WX5D6Z2XkgR3YFfj7Muclw",
+  "googleName": "Cully's Craft Bakery",
+  "formattedAddress": "Farrangarve, Arvagh, Co. Cavan, H12 D566, Ireland",
+  "phone": "(049) 433 5316",
+  "website": "http://www.cullysbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6661438147573809629",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    53.92174970000001,
+    -7.568647599999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cullys-craft-bakery-arvagh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:39:50.855Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bakari-konditori-hafnarfjar-arkaupsta-ur",
+  "name": "Bakarí Konditori",
+  "city": "Hafnarfjarðarkaupstaður",
+  "country": "Iceland",
+  "placeId": "ChIJJdf-EVgM1kgRnbU5cY29A4w",
+  "googleName": "Brikk",
+  "formattedAddress": "Norðurbakki 1b, 220 Hafnarfjörður, Iceland",
+  "phone": "565 1665",
+  "website": "http://www.brikk.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10089116005427688861",
+  "rating": 4.5,
+  "reviewCount": 285,
+  "coords": [
+    64.0690853,
+    -21.9596407
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakari-konditori-hafnarfjar-arkaupsta-ur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:33:58.843Z"
+}

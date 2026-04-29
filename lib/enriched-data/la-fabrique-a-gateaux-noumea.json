@@ -1,0 +1,32 @@
+{
+  "slug": "la-fabrique-a-gateaux-noumea",
+  "name": "La Fabrique à Gateaux",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJNebRKwfjJ2wRmBmkMYXcBZg",
+  "googleName": "La Fabrique à Gateaux",
+  "formattedAddress": "6bis route du vélodrome Nouméa 6 Route du Vélodrome Nouméa, Nouméa 98800, New Caledonia",
+  "phone": "44.04.66",
+  "website": "https://www.facebook.com/profile.php?id=61576604458816",
+  "googleMapsUrl": "https://maps.google.com/?cid=10954404133270198680",
+  "rating": 4.8,
+  "reviewCount": 21,
+  "coords": [
+    -22.2888087,
+    166.4450898
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-fabrique-a-gateaux-noumea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:33.150Z"
+}

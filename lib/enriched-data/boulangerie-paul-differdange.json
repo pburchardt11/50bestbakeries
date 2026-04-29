@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-paul-differdange",
+  "name": "Boulangerie Paul",
+  "city": "Differdange",
+  "country": "Luxembourg",
+  "placeId": "ChIJ182wcWjK6kcRUbMIA8cbTS4",
+  "googleName": "Boulangerie PAUL Differdange",
+  "formattedAddress": "1 Boulevard Emile Krieps, 4530 Oberkorn Differdange, Luxembourg",
+  "phone": "24 55 86 97",
+  "website": "https://www.boulangerie-paul.lu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3336353440514749265",
+  "rating": 3.9,
+  "reviewCount": 118,
+  "coords": [
+    49.5221864,
+    5.892637199999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-paul-differdange/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:58.898Z"
+}

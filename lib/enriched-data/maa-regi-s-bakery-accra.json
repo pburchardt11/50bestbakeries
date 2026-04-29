@@ -1,0 +1,32 @@
+{
+  "slug": "maa-regi-s-bakery-accra",
+  "name": "Maa Regi's Bakery",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJF0AE2IWa3w8Rx8eXdKZmZvA",
+  "googleName": "Maa Regi Plaza",
+  "formattedAddress": "Tse Addo, Opposite Goil Filling Station, House, B213, Accra, Ghana",
+  "phone": "053 884 4364",
+  "website": "https://www.facebook.com/maaregisbakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17322645881833899975",
+  "rating": 4.3,
+  "reviewCount": 242,
+  "coords": [
+    5.5793672,
+    -0.1407763
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maa-regi-s-bakery-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:16:55.369Z"
+}

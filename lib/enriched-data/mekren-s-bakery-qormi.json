@@ -1,0 +1,32 @@
+{
+  "slug": "mekren-s-bakery-qormi",
+  "name": "Mekren's Bakery Qormi",
+  "city": "Qormi",
+  "country": "Malta",
+  "placeId": "ChIJC64T4pZRDhMRVIXeXVZOQh8",
+  "googleName": "Mekren's Bakery Qormi",
+  "formattedAddress": "53 K.Camilleri, Ħal Qormi, Malta",
+  "phone": "2759 2792",
+  "website": "https://www.facebook.com/Mekren.Qormi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2252448896487687508",
+  "rating": 4.1,
+  "reviewCount": 37,
+  "coords": [
+    35.87446540000001,
+    14.4650581
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 4:30 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mekren-s-bakery-qormi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:13.447Z"
+}

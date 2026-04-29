@@ -1,0 +1,32 @@
+{
+  "slug": "brau-husi-grimsb-reykjavikurborg",
+  "name": "Brauðhúsið Grímsbæ",
+  "city": "Reykjavíkurborg",
+  "country": "Iceland",
+  "placeId": "ChIJS2EI46Z01kgRuQHoCqXxy8Y",
+  "googleName": "Hygge Bakarí",
+  "formattedAddress": "Efstaland 26, 108 Reykjavík, Iceland",
+  "phone": "568 6530",
+  "website": "http://hyggebakery.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14324808730936869305",
+  "rating": 5,
+  "reviewCount": 16,
+  "coords": [
+    64.1221225,
+    -21.8750579
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:00 PM",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brau-husi-grimsb-reykjavikurborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:51.529Z"
+}

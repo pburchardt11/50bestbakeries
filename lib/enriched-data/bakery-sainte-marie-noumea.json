@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-sainte-marie-noumea",
+  "name": "Bakery Sainte-Marie",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJx8t_Ut4JKGwRUCAV7Ym77_I",
+  "googleName": "Bakery Sainte-Marie",
+  "formattedAddress": "81 Rue De Charleroi, Nouméa 98800, New Caledonia",
+  "phone": "30.22.62",
+  "website": "https://www.facebook.com/BakerySainteMarie",
+  "googleMapsUrl": "https://maps.google.com/?cid=17505416477674905680",
+  "rating": 3.9,
+  "reviewCount": 31,
+  "coords": [
+    -22.2773676,
+    166.4616574
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-sainte-marie-noumea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:28.380Z"
+}

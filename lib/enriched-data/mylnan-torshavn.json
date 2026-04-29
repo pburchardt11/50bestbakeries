@@ -1,0 +1,32 @@
+{
+  "slug": "mylnan-torshavn",
+  "name": "Mylnan",
+  "city": "Tórshavn",
+  "country": "Faroe Islands",
+  "placeId": "ChIJ77peYD0uvEgRO1dUPiGTgkU",
+  "googleName": "Mylnan",
+  "formattedAddress": "1 Berjabrekka, Tórshavn 100, Faroe Islands",
+  "phone": "341991",
+  "website": "https://mylnan.fo/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5008727506578331451",
+  "rating": 3.9,
+  "reviewCount": 39,
+  "coords": [
+    62.02575899999999,
+    -6.789068299999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mylnan-torshavn/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:07:34.088Z"
+}

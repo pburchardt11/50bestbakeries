@@ -1,0 +1,32 @@
+{
+  "slug": "zalaco-ajka",
+  "name": "Zalaco",
+  "city": "Ajka",
+  "country": "Hungary",
+  "placeId": "ChIJqT0QGcNzaUcRVcVFz3HE4nY",
+  "googleName": "Zalaco",
+  "formattedAddress": "Ajka, Szabadság tér 14, 8400 Hungary",
+  "phone": "(06 92) 509 960",
+  "website": "http://zalaco.hu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8566625434299909461",
+  "rating": 4.2,
+  "reviewCount": 224,
+  "coords": [
+    47.10578899999999,
+    17.5634183
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zalaco-ajka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:32:23.223Z"
+}

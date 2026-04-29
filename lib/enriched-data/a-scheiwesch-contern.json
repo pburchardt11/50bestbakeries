@@ -1,0 +1,32 @@
+{
+  "slug": "a-scheiwesch-contern",
+  "name": "A Schéiwesch",
+  "city": "Contern",
+  "country": "Luxembourg",
+  "placeId": "ChIJYb1jBPxHlUcRi3_K1R4t9lk",
+  "googleName": "A Schéiwesch",
+  "formattedAddress": "30 Rue d'Oetrange, 5333 Moutfort Contern, Luxembourg",
+  "phone": "691 499 021",
+  "website": "http://www.a-scheiwesch.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6482418324105494411",
+  "rating": 4.9,
+  "reviewCount": 19,
+  "coords": [
+    49.58993530000001,
+    6.257228
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 3:00 – 6:00 PM",
+    "Wednesday: 3:00 – 6:00 PM",
+    "Thursday: 3:00 – 6:00 PM",
+    "Friday: 3:00 – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-scheiwesch-contern/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:36.080Z"
+}

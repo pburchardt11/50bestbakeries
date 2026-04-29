@@ -1,0 +1,32 @@
+{
+  "slug": "homies-beirut",
+  "name": "Homies",
+  "city": "Beirut",
+  "country": "Lebanon",
+  "placeId": "ChIJiyeyHxU7UDARaUtij3On4Y0",
+  "googleName": "The Homies",
+  "formattedAddress": "60 Phang Muang Sai Kor, Tambon Patong, Amphoe Kathu, Chang Wat Phuket 83150, Thailand",
+  "phone": null,
+  "website": "https://linktr.ee/the.homies.thailand",
+  "googleMapsUrl": "https://maps.google.com/?cid=10223636743876397929",
+  "rating": 4.9,
+  "reviewCount": 178,
+  "coords": [
+    7.883693,
+    98.295144
+  ],
+  "openingHours": [
+    "Monday: 6:00 PM – 1:00 AM",
+    "Tuesday: 6:00 PM – 1:00 AM",
+    "Wednesday: 6:00 PM – 1:00 AM",
+    "Thursday: 6:00 PM – 1:00 AM",
+    "Friday: 6:00 PM – 1:00 AM",
+    "Saturday: 6:00 PM – 1:00 AM",
+    "Sunday: 6:00 PM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/homies-beirut/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:02:30.703Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-esperanza-diriamba",
+  "name": "Panaderia Esperanza",
+  "city": "Diriamba",
+  "country": "Nicaragua",
+  "placeId": "ChIJ9UFn5v4ddI8Rw6JSe8GHw5g",
+  "googleName": "Panaderia Esperanza",
+  "formattedAddress": "VQ45+87R, 4ta. Av NO, Diriamba, Nicaragua",
+  "phone": "7611 8311",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11007791179291075267",
+  "rating": 4.7,
+  "reviewCount": 10,
+  "coords": [
+    11.8558596,
+    -86.2418641
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-esperanza-diriamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:38:10.438Z"
+}

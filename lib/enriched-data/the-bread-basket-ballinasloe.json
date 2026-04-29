@@ -1,0 +1,32 @@
+{
+  "slug": "the-bread-basket-ballinasloe",
+  "name": "The Bread Basket Ballinasloe",
+  "city": "Ballinasloe",
+  "country": "Ireland",
+  "placeId": "ChIJ65AD7tFpXEgR8OFZryYywfw",
+  "googleName": "The Bread Basket",
+  "formattedAddress": "St Michael's Square, Townparks, Ballinasloe, Co. Galway, Ireland",
+  "phone": "(090) 964 4578",
+  "website": "http://www.thebreadbasket.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18212893509795045872",
+  "rating": 4.6,
+  "reviewCount": 435,
+  "coords": [
+    53.3300646,
+    -8.2211873
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bread-basket-ballinasloe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:40:53.068Z"
+}

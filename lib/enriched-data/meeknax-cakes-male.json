@@ -1,0 +1,32 @@
+{
+  "slug": "meeknax-cakes-male",
+  "name": "Meeknax cakes",
+  "city": "Malé",
+  "country": "Maldives",
+  "placeId": "ChIJ38gSzVN-PzsRSybee4DJF5c",
+  "googleName": "The Kek Shop",
+  "formattedAddress": "Sheereen Villa, Burevi Magu, Malé, Maldives",
+  "phone": "333-5838",
+  "website": "http://thekekshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10887392177862616651",
+  "rating": 4.4,
+  "reviewCount": 28,
+  "coords": [
+    4.1730488,
+    73.5173724
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 2:00 – 6:00 PM, 8:00 – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/meeknax-cakes-male/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:03.948Z"
+}

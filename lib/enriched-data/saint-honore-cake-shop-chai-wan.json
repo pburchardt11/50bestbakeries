@@ -1,0 +1,32 @@
+{
+  "slug": "saint-honore-cake-shop-chai-wan",
+  "name": "Saint Honore Cake Shop",
+  "city": "Chai Wan",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJF1dTQwABBDQRa-hzzZX-Aog",
+  "googleName": "Saint Honore Cake Shop",
+  "formattedAddress": "G/F including Cockloft, 87 Wan Chai Road, Wan Chai, Hong Kong",
+  "phone": "2538 0656",
+  "website": "http://www.sthonore.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9800675658462128235",
+  "rating": 2.5,
+  "reviewCount": 2,
+  "coords": [
+    22.2763719,
+    114.1748894
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/saint-honore-cake-shop-chai-wan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:30:30.012Z"
+}

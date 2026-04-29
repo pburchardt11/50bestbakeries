@@ -1,0 +1,32 @@
+{
+  "slug": "elite-bakery-tamuning",
+  "name": "Elite Bakery",
+  "city": "Tamuning",
+  "country": "Guam",
+  "placeId": "ChIJs8eMRwp4H2cRRmJfQ1804x0",
+  "googleName": "Elite Bakery",
+  "formattedAddress": "236 Chalan San Antonio, Tamuning, 96913, Guam",
+  "phone": "(671) 646-4127",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2153622630570091078",
+  "rating": 3.9,
+  "reviewCount": 37,
+  "coords": [
+    13.4929948,
+    144.7829598
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elite-bakery-tamuning/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:22:57.642Z"
+}

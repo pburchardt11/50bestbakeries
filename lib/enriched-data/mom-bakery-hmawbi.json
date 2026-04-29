@@ -1,0 +1,32 @@
+{
+  "slug": "mom-bakery-hmawbi",
+  "name": "MOM Bakery",
+  "city": "Hmawbi",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJM-tj7WajwTARKZUe-Uc3TPI",
+  "googleName": "MOM Bakery Hmawbi",
+  "formattedAddress": "No.975 Yangon - Pyay Rd, Hmawbi, Myanmar (Burma)",
+  "phone": "09 666 236370",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17459390637670307113",
+  "rating": 3.9,
+  "reviewCount": 7,
+  "coords": [
+    17.0977282,
+    96.0367945
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mom-bakery-hmawbi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:30:16.459Z"
+}

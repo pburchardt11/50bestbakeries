@@ -1,0 +1,32 @@
+{
+  "slug": "caravane-des-deux-lacs-kourou",
+  "name": "Caravane des deux lacs",
+  "city": "Kourou",
+  "country": "French Guiana",
+  "placeId": "ChIJpcWUaIP-EY0R6gb56rh281I",
+  "googleName": "Glacier des Deux Lacs",
+  "formattedAddress": "68 Avenue des Deux Lacs, Kourou 97310, French Guiana",
+  "phone": "0594 32 12 10",
+  "website": "https://fr-fr.facebook.com/pages/category/Ice-Cream-Shop/Le-Glacier-Des-2-Lacs-365624390510281/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5977251667039028970",
+  "rating": 3.6,
+  "reviewCount": 384,
+  "coords": [
+    5.1663077,
+    -52.65068400000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/caravane-des-deux-lacs-kourou/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:12:01.693Z"
+}

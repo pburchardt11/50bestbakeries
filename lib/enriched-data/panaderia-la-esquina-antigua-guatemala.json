@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-esquina-antigua-guatemala",
+  "name": "Panadería La Esquina",
+  "city": "Antigua Guatemala",
+  "country": "Guatemala",
+  "placeId": "ChIJCwIDz-YPiYURwSZAf0tLPlU",
+  "googleName": "La esquina del sabor",
+  "formattedAddress": "interior de hostal lemon tree, 5a Calle Oriente 12, Antigua Guatemala 03001, Guatemala",
+  "phone": "5389 3811",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6142429729409476289",
+  "rating": 5,
+  "reviewCount": 78,
+  "coords": [
+    14.5564937,
+    -90.7303068
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-esquina-antigua-guatemala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:23:51.823Z"
+}

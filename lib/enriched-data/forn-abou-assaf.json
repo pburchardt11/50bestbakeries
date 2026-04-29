@@ -1,0 +1,32 @@
+{
+  "slug": "forn-abou-assaf",
+  "name": "Forn Abou Assaf",
+  "city": "الشياح",
+  "country": "Lebanon",
+  "placeId": "ChIJl_rhQ6lcHxURiSIeMQ1Cl4g",
+  "googleName": "Forn Abou Assaf",
+  "formattedAddress": "4JCX+9HV, Byblos, Lebanon",
+  "phone": "09 546 489",
+  "website": "https://www.facebook.com/fornabouassaf/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9842408135067574921",
+  "rating": 4.6,
+  "reviewCount": 10,
+  "coords": [
+    34.1209839,
+    35.6489102
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-abou-assaf/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:04:01.645Z"
+}

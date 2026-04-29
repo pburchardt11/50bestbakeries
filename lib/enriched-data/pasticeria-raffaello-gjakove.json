@@ -1,0 +1,32 @@
+{
+  "slug": "pasticeria-raffaello-gjakove",
+  "name": "Pasticeria Raffaello",
+  "city": "Gjakovë",
+  "country": "Kosovo",
+  "placeId": "ChIJ7UQGquqxUxMRJ1d2GP46emg",
+  "googleName": "Pasticeria Raffaello",
+  "formattedAddress": "Alesandër Moisiu, Gjakova 50000",
+  "phone": "044 970 788",
+  "website": "https://www.instagram.com/pasticeria_raffaello?igsh=MWM4emZiZGc0ZjE5OA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=7528394590109718311",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    42.3737007,
+    20.4406253
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticeria-raffaello-gjakove/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:54:57.462Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bread-factory-athens",
+  "name": "Bread Factory",
+  "city": "Athens",
+  "country": "Greece",
+  "placeId": "ChIJT63Spyi9oRQR7phEuHUoVAs",
+  "googleName": "Bread Factory Μεταξουργείο",
+  "formattedAddress": "Achilleos 2, Athina 104 37, Greece",
+  "phone": "21 0520 2789",
+  "website": "https://m.facebook.com/breadfactorymetaxourgeio/",
+  "googleMapsUrl": "https://maps.google.com/?cid=816321918528690414",
+  "rating": 4.1,
+  "reviewCount": 4352,
+  "coords": [
+    37.9853854,
+    23.720849
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-factory-athens/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:18:17.953Z"
+}

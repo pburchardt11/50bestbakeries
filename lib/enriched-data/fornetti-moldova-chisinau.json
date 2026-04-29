@@ -1,0 +1,32 @@
+{
+  "slug": "fornetti-moldova-chisinau",
+  "name": "Fornetti Moldova",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJP2C5UnF9yUARlJlp3DX8TUg",
+  "googleName": "Fornetti (Oficiul Central)",
+  "formattedAddress": "Strada Armenească, Chișinău 63, et.2, of.2, MD-2012, Chișinău, Moldova",
+  "phone": "0796 03 602",
+  "website": "http://www.fornetti.md/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5210097652198906260",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    47.0225198,
+    28.8428378
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fornetti-moldova-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:22:10.122Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "eesti-pagar-as-paide",
+  "name": "Eesti Pagar AS",
+  "city": "Paide",
+  "country": "Estonia",
+  "placeId": "ChIJJbjisoQ2k0YR52l2l3bqEs0",
+  "googleName": "Eesti Pagar AS",
+  "formattedAddress": "Tööstuse tn 34, Paide, 72720 Järva maakond, Estonia",
+  "phone": "384 9260",
+  "website": "https://eestipagar.ee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14777131122424179175",
+  "rating": 4.3,
+  "reviewCount": 232,
+  "coords": [
+    58.8805661,
+    25.5615104
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eesti-pagar-as-paide/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:44.188Z"
+}

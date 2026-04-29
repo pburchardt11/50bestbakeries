@@ -1,0 +1,32 @@
+{
+  "slug": "hammond-s-kitchen-savanna-la-mar",
+  "name": "Hammond's Kitchen",
+  "city": "Savanna-la-Mar",
+  "country": "Jamaica",
+  "placeId": "ChIJtcfGYMBv2Y4RC3vNoV-QbYk",
+  "googleName": "Hammond's Kitchen",
+  "formattedAddress": "54 Beckford St, Savanna la Mar, Jamaica",
+  "phone": "(876) 297-6585",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9902729896068479755",
+  "rating": 2.9,
+  "reviewCount": 30,
+  "coords": [
+    18.2235521,
+    -78.1318403
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hammond-s-kitchen-savanna-la-mar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:46:21.462Z"
+}

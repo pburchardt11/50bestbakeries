@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-annie-cherie-delmas",
+  "name": "Boulangerie Annie Cherie",
+  "city": "Delmas",
+  "country": "Haiti",
+  "placeId": "ChIJ2U7MF7vnuY4RzJUmB8N0XWw",
+  "googleName": "Naniz Restaurant & Pâtisserie",
+  "formattedAddress": "Delmas 49, Port-au-Prince, Haiti",
+  "phone": "31 63 3202",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7808525709917722060",
+  "rating": 3.8,
+  "reviewCount": 88,
+  "coords": [
+    18.5455935,
+    -72.3003114
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-annie-cherie-delmas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:26:23.542Z"
+}

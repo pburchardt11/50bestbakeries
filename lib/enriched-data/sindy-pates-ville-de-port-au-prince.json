@@ -1,0 +1,32 @@
+{
+  "slug": "sindy-pates-ville-de-port-au-prince",
+  "name": "Sindy pates",
+  "city": "Ville de Port-au-Prince",
+  "country": "Haiti",
+  "placeId": "ChIJ14pAS4bouY4ReZve3lbWAMc",
+  "googleName": "Portofino",
+  "formattedAddress": "30, Rue Goulard, Place Boyer - Petion Ville, Pòtoprens 6140, Haiti",
+  "phone": "28 17 0365",
+  "website": "http://www.facebook.com/PortofinoRistoranteItaliano/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14339696882142321529",
+  "rating": 4.3,
+  "reviewCount": 1050,
+  "coords": [
+    18.51348,
+    -72.2808056
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 8:00 PM",
+    "Tuesday: 12:00 – 8:00 PM",
+    "Wednesday: 12:00 – 8:00 PM",
+    "Thursday: 12:00 – 8:00 PM",
+    "Friday: 11:00 AM – 11:00 PM",
+    "Saturday: 11:00 AM – 11:00 PM",
+    "Sunday: 12:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sindy-pates-ville-de-port-au-prince/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:27:05.061Z"
+}

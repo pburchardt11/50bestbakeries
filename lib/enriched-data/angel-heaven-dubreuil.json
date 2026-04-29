@@ -1,0 +1,32 @@
+{
+  "slug": "angel-heaven-dubreuil",
+  "name": "Angel heaven",
+  "city": "Dubreuil",
+  "country": "Mauritius",
+  "placeId": "ChIJUUWEatpdfCERsUCPugdUkds",
+  "googleName": "Angel Heaven Pastry",
+  "formattedAddress": "15, Dean street, Dubreuil MU, Curepipe 81501, Mauritius",
+  "phone": "5927 0581",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15821519358100717745",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -20.2986239,
+    57.60476550000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/angel-heaven-dubreuil/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:19:43.601Z"
+}

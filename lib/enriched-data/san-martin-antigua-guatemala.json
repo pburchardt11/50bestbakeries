@@ -1,0 +1,32 @@
+{
+  "slug": "san-martin-antigua-guatemala",
+  "name": "San Martín",
+  "city": "Antigua Guatemala",
+  "country": "Guatemala",
+  "placeId": "ChIJl61d1HIOiYUR9twYDnuebgY",
+  "googleName": "San Martín Antigua Guatemala",
+  "formattedAddress": "6a Calle Poniente 5, Antigua Guatemala, Guatemala",
+  "phone": "2420 9938",
+  "website": "http://www.sanmartinbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=463482063020416246",
+  "rating": 4.5,
+  "reviewCount": 2567,
+  "coords": [
+    14.5550124,
+    -90.7340665
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/san-martin-antigua-guatemala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:23:24.203Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "new-senners-bakery-st-martin",
+  "name": "New Senners Bakery",
+  "city": "St Martin",
+  "country": "Guernsey",
+  "placeId": "ChIJL186uXVzDUgR44eS9FRDods",
+  "googleName": "New Senners Bakery",
+  "formattedAddress": "Les Camps du Moulin, Guernsey GY4 6AD, Guernsey",
+  "phone": "01481 236908",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15826004597716191203",
+  "rating": 4.4,
+  "reviewCount": 51,
+  "coords": [
+    49.4345303,
+    -2.5507994
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 1:00 PM",
+    "Tuesday: 8:00 AM – 1:00 PM",
+    "Wednesday: 8:00 AM – 1:00 PM",
+    "Thursday: 8:00 AM – 1:00 PM",
+    "Friday: 8:00 AM – 1:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/new-senners-bakery-st-martin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:24:58.589Z"
+}

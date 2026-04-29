@@ -1,0 +1,32 @@
+{
+  "slug": "overoll-croissanterie-athens",
+  "name": "Overoll Croissanterie",
+  "city": "Athens",
+  "country": "Greece",
+  "placeId": "ChIJHXnGCkq9oRQR0zIZSJ2YsMY",
+  "googleName": "overoll",
+  "formattedAddress": "Praxitelous 27, Athina 105 60, Greece",
+  "phone": "21 1419 8151",
+  "website": "http://www.facebook.com/overoll.croissanterie",
+  "googleMapsUrl": "https://maps.google.com/?cid=14317111016697705171",
+  "rating": 4.6,
+  "reviewCount": 3490,
+  "coords": [
+    37.9788624,
+    23.7296885
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/overoll-croissanterie-athens/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:18:09.996Z"
+}

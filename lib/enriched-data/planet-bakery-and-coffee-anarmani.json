@@ -1,0 +1,32 @@
+{
+  "slug": "planet-bakery-and-coffee-anarmani",
+  "name": "Planet Bakery and Coffee",
+  "city": "Anarmani",
+  "country": "Nepal",
+  "placeId": "ChIJn00_et675TkR8wly9AtsLNA",
+  "googleName": "Planet Bakery & Coffee",
+  "formattedAddress": "Mahendra Hwy, Birtamod 57204, Nepal",
+  "phone": "980-7945358",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15000483257465833971",
+  "rating": 4.2,
+  "reviewCount": 72,
+  "coords": [
+    26.644558,
+    88.00002309999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/planet-bakery-and-coffee-anarmani/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:32:10.076Z"
+}

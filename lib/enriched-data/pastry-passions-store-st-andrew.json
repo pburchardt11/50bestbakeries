@@ -1,0 +1,32 @@
+{
+  "slug": "pastry-passions-store-st-andrew",
+  "name": "Pastry Passions Store",
+  "city": "St Andrew",
+  "country": "Jamaica",
+  "placeId": "ChIJmcJS9v4-244R95ramj3Kios",
+  "googleName": "Pastry Passions Store",
+  "formattedAddress": "106, Shop 17, Food Court, 6 Hope Rd, Kingston, Jamaica",
+  "phone": "(876) 927-9105",
+  "website": "http://www.pastrypassions.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10055071483997887223",
+  "rating": 4,
+  "reviewCount": 205,
+  "coords": [
+    18.0212996,
+    -76.7691791
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 12:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastry-passions-store-st-andrew/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:46:43.559Z"
+}

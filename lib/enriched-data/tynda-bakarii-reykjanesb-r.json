@@ -1,0 +1,32 @@
+{
+  "slug": "tynda-bakarii-reykjanesb-r",
+  "name": "Týnda Bakaríið",
+  "city": "Reykjanesbær",
+  "country": "Iceland",
+  "placeId": "ChIJyY0UB2cD1kgRXdh-FB_2djA",
+  "googleName": "Týnda Bakaríið",
+  "formattedAddress": "Tjarnabraut 24, 260 Keflavík, Iceland",
+  "phone": "577 1300",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3492249174420674653",
+  "rating": 4.9,
+  "reviewCount": 45,
+  "coords": [
+    63.9745147,
+    -22.5076105
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tynda-bakarii-reykjanesb-r/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:41.275Z"
+}

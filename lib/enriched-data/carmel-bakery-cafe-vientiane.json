@@ -1,0 +1,24 @@
+{
+  "slug": "carmel-bakery-cafe-vientiane",
+  "name": "Carmel Bakery Cafe",
+  "city": "Vientiane",
+  "country": "Laos",
+  "placeId": "ChIJE4D6X09nJDERW6D1aZfcS5w",
+  "googleName": "Carmel Bakery Café",
+  "formattedAddress": "WJHG+442, Vientiane, Laos",
+  "phone": "030 50 87 639",
+  "website": "http://facebook.com/carmelvientiane",
+  "googleMapsUrl": "https://maps.google.com/?cid=11262337836045934683",
+  "rating": 4.5,
+  "reviewCount": 25,
+  "coords": [
+    17.92777,
+    102.6252648
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/carmel-bakery-cafe-vientiane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:00:27.824Z"
+}

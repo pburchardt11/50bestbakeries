@@ -1,0 +1,32 @@
+{
+  "slug": "golden-bazaar",
+  "name": "Golden Bazaar",
+  "city": "أربيل",
+  "country": "Iraq",
+  "placeId": "ChIJRbTQIqgjB0ARRmhR4r-bSXM",
+  "googleName": "Qeyserî Bazar",
+  "formattedAddress": "Haji Dawood Mosque, Erbil, Erbil Governorate, Iraq",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8307342236099635270",
+  "rating": 4.4,
+  "reviewCount": 3402,
+  "coords": [
+    36.1880668,
+    44.0099578
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/golden-bazaar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:37:55.803Z"
+}

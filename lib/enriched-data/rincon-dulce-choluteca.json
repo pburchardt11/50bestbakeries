@@ -1,0 +1,32 @@
+{
+  "slug": "rincon-dulce-choluteca",
+  "name": "Rincon Dulce",
+  "city": "Choluteca",
+  "country": "Honduras",
+  "placeId": "ChIJF-rp9IvRcY8RAiDtk8VbaFg",
+  "googleName": "El Rincón Dulce",
+  "formattedAddress": "continuo a Agrotoro esquina verde, 3 cuadras arriba del parque, 51101 San Marcos de Colón, Choluteca, Honduras",
+  "phone": "3297-6128",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6370442577064042498",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    13.4299843,
+    -86.8054908
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 1:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rincon-dulce-choluteca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:27:31.597Z"
+}

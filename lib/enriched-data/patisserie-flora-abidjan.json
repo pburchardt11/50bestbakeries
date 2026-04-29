@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-flora-abidjan",
+  "name": "Pâtisserie FLORA",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJZdl4E0_AwQ8RrSHnHGtSzQE",
+  "googleName": "Patisserie Flora",
+  "formattedAddress": "8WV6+F94, Abidjan, Côte d'Ivoire",
+  "phone": "27 23 5 25787",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=129850584263500205",
+  "rating": 3.8,
+  "reviewCount": 1028,
+  "coords": [
+    5.343625299999999,
+    -4.0890323
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-flora-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:43:45.812Z"
+}

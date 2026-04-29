@@ -1,0 +1,32 @@
+{
+  "slug": "vigurid-haapsipea-kula",
+  "name": "Vigurid",
+  "city": "Haapsipea küla",
+  "country": "Estonia",
+  "placeId": "ChIJLVoBLTrFlEYRqzuEPDsVbBc",
+  "googleName": "VIGURID OÜ",
+  "formattedAddress": "Lohutaga, Haapsipea, 60203 Tartu maakond, Estonia",
+  "phone": "5671 7000",
+  "website": "https://www.vigurdajad.ee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1687747304519646123",
+  "rating": 4.9,
+  "reviewCount": 32,
+  "coords": [
+    58.63967829999999,
+    27.1585924
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vigurid-haapsipea-kula/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:04:54.160Z"
+}

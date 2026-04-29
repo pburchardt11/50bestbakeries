@@ -1,0 +1,32 @@
+{
+  "slug": "kadaka-leivakoda-elva",
+  "name": "Kadaka Leivakoda",
+  "city": "Elva",
+  "country": "Estonia",
+  "placeId": "ChIJbZlZYwBB60YRyLCcWyic-n8",
+  "googleName": "Kadaka Leivakoda",
+  "formattedAddress": "Kadaka tn 13b, Käärdi, 61007 Tartu maakond, Estonia",
+  "phone": "5626 1977",
+  "website": "https://facebook.com/100094066694693",
+  "googleMapsUrl": "https://maps.google.com/?cid=9221854884144132296",
+  "rating": 5,
+  "reviewCount": 8,
+  "coords": [
+    58.2148919,
+    26.401029
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 11:00 AM – 2:00 PM",
+    "Thursday: Closed",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kadaka-leivakoda-elva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:04:30.403Z"
+}

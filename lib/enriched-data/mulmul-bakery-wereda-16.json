@@ -1,0 +1,32 @@
+{
+  "slug": "mulmul-bakery-wereda-16",
+  "name": "Mulmul Bakery",
+  "city": "Wereda 16",
+  "country": "Ethiopia",
+  "placeId": "ChIJscEU7lWESxYRPrKnXwnjENA",
+  "googleName": "Mulmul Bakery",
+  "formattedAddress": "XQRH+HVJ, Airport Rd, Addis Ababa, Ethiopia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14992732788915417662",
+  "rating": 4.3,
+  "reviewCount": 72,
+  "coords": [
+    8.9914586,
+    38.7796555
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mulmul-bakery-wereda-16/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:07:06.186Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bake-city-and-cafe-banke",
+  "name": "Bake city and cafe",
+  "city": "Banke",
+  "country": "Nepal",
+  "placeId": "ChIJoeG4gMtrmDkRqMyO8w4vRys",
+  "googleName": "bake city and cafe",
+  "formattedAddress": "raptisonari 08, शमसेरगञ्ज 21900, Nepal",
+  "phone": "986-4974007",
+  "website": "https://www.bakecityandcafe.np.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3118513008239627432",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    28.1209222,
+    81.8037963
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-city-and-cafe-banke/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:32:28.296Z"
+}

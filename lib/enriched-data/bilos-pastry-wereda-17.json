@@ -1,0 +1,32 @@
+{
+  "slug": "bilos-pastry-wereda-17",
+  "name": "Bilos Pastry",
+  "city": "Wereda 17",
+  "country": "Ethiopia",
+  "placeId": "ChIJ75z0QweFSxYRTkj0TxJbqtE",
+  "googleName": "Bilos Pastry | Atlas Branch | ቢሎስ | አትላስ |",
+  "formattedAddress": "Addis Ababa, Ethiopia",
+  "phone": "093 003 3177",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15107988034176698446",
+  "rating": 3.8,
+  "reviewCount": 78,
+  "coords": [
+    9.0012587,
+    38.779527
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bilos-pastry-wereda-17/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:07:12.709Z"
+}

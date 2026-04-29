@@ -1,0 +1,32 @@
+{
+  "slug": "the-premier-pastizzeria-mosta",
+  "name": "The Premier Pastizzeria",
+  "city": "Mosta",
+  "country": "Malta",
+  "placeId": "ChIJcf0mNytODhMR4kGbyOJaHmw",
+  "googleName": "The Premier Pastizzeria",
+  "formattedAddress": "WC5G+R3P, Constitution St, Mosta, Malta",
+  "phone": "2141 6750",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7790764335472263650",
+  "rating": 4.5,
+  "reviewCount": 128,
+  "coords": [
+    35.9095826,
+    14.425196
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-premier-pastizzeria-mosta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:41.912Z"
+}

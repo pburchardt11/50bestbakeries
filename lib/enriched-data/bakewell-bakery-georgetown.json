@@ -1,0 +1,32 @@
+{
+  "slug": "bakewell-bakery-georgetown",
+  "name": "Bakewell Bakery",
+  "city": "Georgetown",
+  "country": "Guyana",
+  "placeId": "ChIJU7JxO6jvr40RrsyeZBOqS-A",
+  "googleName": "Bakewell Bakery",
+  "formattedAddress": "RR5W+VJ6, Albert St, Georgetown, Guyana",
+  "phone": "220 1304",
+  "website": "http://bakewellgy.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16162198688018386094",
+  "rating": 4.1,
+  "reviewCount": 71,
+  "coords": [
+    6.809757100000001,
+    -58.15346289999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakewell-bakery-georgetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:25:33.120Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "alexander-bakery-auckland",
+  "name": "Alexander Bakery",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJcaM6lQZNDW0Rzq_PDICtmh4",
+  "googleName": "Alexander Bakery",
+  "formattedAddress": "6/8 Chapel Road, Flat Bush, Auckland 2019, New Zealand",
+  "phone": "09 278 9869",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2205265733033635790",
+  "rating": 4,
+  "reviewCount": 69,
+  "coords": [
+    -36.9806135,
+    174.9024266
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alexander-bakery-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:37:17.957Z"
+}

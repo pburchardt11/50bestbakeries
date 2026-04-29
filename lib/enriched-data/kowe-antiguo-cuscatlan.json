@@ -1,0 +1,32 @@
+{
+  "slug": "kowe-antiguo-cuscatlan",
+  "name": "Kowe",
+  "city": "Antiguo Cuscatlán",
+  "country": "El Salvador",
+  "placeId": "ChIJv7Ge72cvY48RmWln9XCfsq4",
+  "googleName": "Kowe • SOHO Cascadas",
+  "formattedAddress": "Centro comercial Soho Cascadas, Cd Merliot, El Salvador",
+  "phone": "7097 9993",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12588299215956306329",
+  "rating": 4.4,
+  "reviewCount": 50,
+  "coords": [
+    13.6786101,
+    -89.25168769999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 1:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kowe-antiguo-cuscatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:03:52.694Z"
+}

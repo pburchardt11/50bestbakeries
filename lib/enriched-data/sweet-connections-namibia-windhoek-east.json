@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-connections-namibia-windhoek-east",
+  "name": "Sweet Connections Namibia",
+  "city": "Windhoek East",
+  "country": "Namibia",
+  "placeId": "ChIJ5evHPSEFCxwROB8c6fdbRGs",
+  "googleName": "Sweet Connections Namibia",
+  "formattedAddress": "Yang Tze Street, Windhoek, Namibia",
+  "phone": "081 784 7714",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7729403980800597816",
+  "rating": 4.9,
+  "reviewCount": 10,
+  "coords": [
+    -22.5723623,
+    17.1040309
+  ],
+  "openingHours": [
+    "Monday: 5:00 – 10:00 PM",
+    "Tuesday: 5:00 – 10:00 PM",
+    "Wednesday: 5:00 – 10:00 PM",
+    "Thursday: 5:00 – 10:00 PM",
+    "Friday: 5:00 – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-connections-namibia-windhoek-east/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:31:54.544Z"
+}

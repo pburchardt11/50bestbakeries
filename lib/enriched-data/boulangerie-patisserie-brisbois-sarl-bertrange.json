@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-brisbois-sarl-bertrange",
+  "name": "Boulangerie-Pâtisserie Brisbois Sàrl",
+  "city": "Bertrange",
+  "country": "Luxembourg",
+  "placeId": "ChIJ43GD-VpLlUcReW6foiwnjKU",
+  "googleName": "Boulangerie-Pâtisserie Brisbois Sàrl",
+  "formattedAddress": "3-5 Rue de Mamer, 8081 Bertrange, Luxembourg",
+  "phone": "31 98 23",
+  "website": "http://boulangeriebrisbois.lu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11928952585658003065",
+  "rating": 3.8,
+  "reviewCount": 11,
+  "coords": [
+    49.611192,
+    6.048749
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-brisbois-sarl-bertrange/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:04.422Z"
+}

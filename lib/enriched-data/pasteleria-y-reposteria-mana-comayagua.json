@@ -1,0 +1,32 @@
+{
+  "slug": "pasteleria-y-reposteria-mana-comayagua",
+  "name": "Pastelería y Repostería Maná",
+  "city": "Comayagua",
+  "country": "Honduras",
+  "placeId": "ChIJo7DdelOFZY8Rzo5cEC_AHqM",
+  "googleName": "Pastelería y Repostería Maná",
+  "formattedAddress": "Bajo el Edificio Liceo Cardenal 1 cuadra al sur del Supermercado la Colonia, 12101 Comayagua, Honduras",
+  "phone": "9472-7127",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11754043385854070478",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    14.45409,
+    -87.6411148
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:30 PM",
+    "Tuesday: 7:00 AM – 5:30 PM",
+    "Wednesday: 7:00 AM – 5:30 PM",
+    "Thursday: 7:00 AM – 5:30 PM",
+    "Friday: 7:00 AM – 5:30 PM",
+    "Saturday: 7:00 AM – 5:30 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-y-reposteria-mana-comayagua/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:27:39.906Z"
+}

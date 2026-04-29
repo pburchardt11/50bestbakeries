@@ -1,0 +1,32 @@
+{
+  "slug": "chili-s-restaurant-lilongwe",
+  "name": "Chili's Restaurant",
+  "city": "Lilongwe",
+  "country": "Malawi",
+  "placeId": "ChIJs8je_lbTIRkRa3xTs7L0WP0",
+  "googleName": "Chili's Restaurant",
+  "formattedAddress": "City Mall, Kamuzu Processsion Rd, Lilongwe, Malawi",
+  "phone": "0992 54 23 20",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18255610137896254571",
+  "rating": 4.8,
+  "reviewCount": 10,
+  "coords": [
+    -13.9736002,
+    33.753882
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chili-s-restaurant-lilongwe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:11:56.769Z"
+}

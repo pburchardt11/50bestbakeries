@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-savina-herceg-novi",
+  "name": "Pekara Savina",
+  "city": "Herceg Novi",
+  "country": "Montenegro",
+  "placeId": "ChIJC4eDBpI7TBMRVez8Nfqdsr4",
+  "googleName": "Pekara Poslastičarnica TAJNA Herceg Novi",
+  "formattedAddress": "52 Njegoševa, Herceg - Novi 85340, Montenegro",
+  "phone": "068 027 111",
+  "website": "http://tajna.me/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13741219111033957461",
+  "rating": 4.5,
+  "reviewCount": 59,
+  "coords": [
+    42.4521318,
+    18.5339058
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-savina-herceg-novi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:26:40.855Z"
+}

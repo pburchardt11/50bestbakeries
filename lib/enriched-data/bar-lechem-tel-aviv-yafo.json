@@ -1,0 +1,32 @@
+{
+  "slug": "bar-lechem-tel-aviv-yafo",
+  "name": "בר לחם (Bar Lechem)",
+  "city": "Tel Aviv - Yafo",
+  "country": "Israel",
+  "placeId": "ChIJxaV3N5lJHRURP6Z1rWT_ZU0",
+  "googleName": "Bread Bar",
+  "formattedAddress": "Kehilat Saloniki St 7, Tel Aviv-Yafo, 69513, Israel",
+  "phone": "03-648-0055",
+  "website": "http://www.barlechem.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5577144521440208447",
+  "rating": 4.5,
+  "reviewCount": 1347,
+  "coords": [
+    32.1138957,
+    34.8245975
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:30 PM",
+    "Tuesday: 6:30 AM – 8:30 PM",
+    "Wednesday: 6:30 AM – 8:30 PM",
+    "Thursday: 6:30 AM – 8:30 PM",
+    "Friday: 6:30 AM – 3:30 PM",
+    "Saturday: Closed",
+    "Sunday: 6:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bar-lechem-tel-aviv-yafo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:46.932Z"
+}

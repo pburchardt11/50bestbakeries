@@ -1,0 +1,32 @@
+{
+  "slug": "bearbakerymacau",
+  "name": "Bearbakerymacau",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJX8JcPAl7ATQRGd7GVgpBetM",
+  "googleName": "Bamu Bakery",
+  "formattedAddress": "Macao果欄街25號德富大廈地下B舖",
+  "phone": "2835 0735",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15238563801822846489",
+  "rating": 4.5,
+  "reviewCount": 300,
+  "coords": [
+    22.1975249,
+    113.5389365
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bearbakerymacau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:59.318Z"
+}

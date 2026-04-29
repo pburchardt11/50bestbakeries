@@ -1,0 +1,32 @@
+{
+  "slug": "bloudan-sweets",
+  "name": "Bloudan Sweets",
+  "city": "بغداد",
+  "country": "Iraq",
+  "placeId": "ChIJgdY1OB2DVxURyq6_fZ6aPiU",
+  "googleName": "Bloudan Bakery معجنات بلودان",
+  "formattedAddress": "8CXJ+7H9, شارع فلسطين, Baghdad, Baghdad Governorate, Iraq",
+  "phone": "0773 088 5221",
+  "website": "https://m.facebook.com/bloudanbakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2683752433464618698",
+  "rating": 4.2,
+  "reviewCount": 188,
+  "coords": [
+    33.3481559,
+    44.4314842
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bloudan-sweets/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:39:34.383Z"
+}

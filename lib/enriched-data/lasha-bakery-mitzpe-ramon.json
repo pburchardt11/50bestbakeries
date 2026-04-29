@@ -1,0 +1,32 @@
+{
+  "slug": "lasha-bakery-mitzpe-ramon",
+  "name": "Lasha Bakery",
+  "city": "Mitzpe Ramon",
+  "country": "Israel",
+  "placeId": "ChIJYVZuR0vyARURXrH2tqtqgXI",
+  "googleName": "Lasha Bakery",
+  "formattedAddress": "Har Boker St 8, Mitzpe Ramon, Israel",
+  "phone": "058-753-6766",
+  "website": "http://www.lashabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8250993278061031774",
+  "rating": 4.5,
+  "reviewCount": 2376,
+  "coords": [
+    30.6197735,
+    34.8006429
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 3:30 PM",
+    "Saturday: Closed",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lasha-bakery-mitzpe-ramon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:42:27.368Z"
+}

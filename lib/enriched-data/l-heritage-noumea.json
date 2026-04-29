@@ -1,0 +1,32 @@
+{
+  "slug": "l-heritage-noumea",
+  "name": "L'Heritage",
+  "city": "Nouméa",
+  "country": "New Caledonia",
+  "placeId": "ChIJrdHIaEjjJ2wRUHkCC9kunCA",
+  "googleName": "L'HERITAGE",
+  "formattedAddress": "6 Rte de la Baie des Dames, Nouméa 98800, New Caledonia",
+  "phone": "27.37.57",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2349804615308048720",
+  "rating": 4.5,
+  "reviewCount": 30,
+  "coords": [
+    -22.2448349,
+    166.4476511
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 3:00 PM",
+    "Tuesday: 5:30 AM – 3:00 PM",
+    "Wednesday: 5:30 AM – 3:00 PM",
+    "Thursday: 5:30 AM – 3:00 PM",
+    "Friday: 5:30 AM – 3:00 PM",
+    "Saturday: 5:30 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-heritage-noumea/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:35:06.467Z"
+}

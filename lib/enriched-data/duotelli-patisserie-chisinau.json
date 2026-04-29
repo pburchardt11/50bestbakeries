@@ -1,0 +1,32 @@
+{
+  "slug": "duotelli-patisserie-chisinau",
+  "name": "DuoTelli Patisserie",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJh6djPeZ9yUAR8r0-MnvIgBk",
+  "googleName": "DuoTelli Patisserie",
+  "formattedAddress": "MD-2002, Decebal Blvd 6, Chișinău, Moldova",
+  "phone": "0792 20 467",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1837689079416667634",
+  "rating": 5,
+  "reviewCount": 30,
+  "coords": [
+    47.0061222,
+    28.8593495
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/duotelli-patisserie-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:44.313Z"
+}

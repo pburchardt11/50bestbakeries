@@ -1,0 +1,32 @@
+{
+  "slug": "cm-and-sons-bakery-snackette-new-amsterdam",
+  "name": "CM and SONS Bakery & Snackette",
+  "city": "New Amsterdam",
+  "country": "Guyana",
+  "placeId": "ChIJReBaSLCjpY0R-3cVjcim_Ws",
+  "googleName": "C&M Bakery and Snackette",
+  "formattedAddress": "6FRH+8MR, Main Street, New Amsterdam, Guyana",
+  "phone": "333 3624",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7781559111456749563",
+  "rating": 4.2,
+  "reviewCount": 27,
+  "coords": [
+    6.2408649,
+    -57.5208643
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cm-and-sons-bakery-snackette-new-amsterdam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:26:00.934Z"
+}

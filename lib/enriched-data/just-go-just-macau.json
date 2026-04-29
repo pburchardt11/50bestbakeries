@@ -1,0 +1,32 @@
+{
+  "slug": "just-go-just-macau",
+  "name": "Just Go(Just)",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJGSeWv457ATQR9uWlSNxOAKQ",
+  "googleName": "Just Go(Just糕)",
+  "formattedAddress": "Macao關前後街39號恆樂大廈地下A座",
+  "phone": "6284 9349",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11817532130238785014",
+  "rating": 4.2,
+  "reviewCount": 36,
+  "coords": [
+    22.1959169,
+    113.5402198
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:30 PM",
+    "Tuesday: 11:00 AM – 7:30 PM",
+    "Wednesday: 11:00 AM – 7:30 PM",
+    "Thursday: 11:00 AM – 7:30 PM",
+    "Friday: 11:00 AM – 7:30 PM",
+    "Saturday: 11:00 AM – 7:30 PM",
+    "Sunday: 11:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/just-go-just-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:09:42.598Z"
+}

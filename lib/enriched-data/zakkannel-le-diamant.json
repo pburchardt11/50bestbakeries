@@ -1,0 +1,32 @@
+{
+  "slug": "zakkannel-le-diamant",
+  "name": "Zakkannel",
+  "city": "Le Diamant",
+  "country": "Martinique",
+  "placeId": "ChIJA8ux6eQfQIwRKOWyxru4rhY",
+  "googleName": "boulangerie beaujolais",
+  "formattedAddress": "Taupiniere, Le Diamant 97223, Martinique",
+  "phone": "0596 78 30 46",
+  "website": "https://www.zak-kannel.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1634446831414076712",
+  "rating": 4.6,
+  "reviewCount": 79,
+  "coords": [
+    14.483815,
+    -60.99477580000001
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: Closed",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zakkannel-le-diamant/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:17:42.596Z"
+}

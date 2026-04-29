@@ -1,0 +1,32 @@
+{
+  "slug": "unity-cafe-and-restaurant-wereda-05",
+  "name": "Unity Cafe and Restaurant",
+  "city": "Wereda 05",
+  "country": "Ethiopia",
+  "placeId": "ChIJt9p-9ZWFSxYRmlunTd7jO4A",
+  "googleName": "Unity Park",
+  "formattedAddress": "2QF7+7H, Addis Ababa, Ethiopia",
+  "phone": "8578718",
+  "website": "https://www.unitypark.et/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9240229604405762970",
+  "rating": 4.5,
+  "reviewCount": 1715,
+  "coords": [
+    9.0231324,
+    38.7639572
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/unity-cafe-and-restaurant-wereda-05/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:06:42.599Z"
+}

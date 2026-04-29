@@ -1,0 +1,32 @@
+{
+  "slug": "channel-islands-co-operative-trinity",
+  "name": "Channel Islands Co-operative",
+  "city": "Trinity",
+  "country": "Jersey",
+  "placeId": "ChIJB9W76L9TDEgR7xPM_N3SIqg",
+  "googleName": "Coop Trinity Fuel",
+  "formattedAddress": "La Gd Rte de Saint-Jean, Jersey JE3 4FZ, Jersey",
+  "phone": "01534 784515",
+  "website": "https://www.channelislands.coop/je/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12115477798450893807",
+  "rating": 4.2,
+  "reviewCount": 71,
+  "coords": [
+    49.2178985,
+    -2.1141278
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/channel-islands-co-operative-trinity/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:48:49.963Z"
+}

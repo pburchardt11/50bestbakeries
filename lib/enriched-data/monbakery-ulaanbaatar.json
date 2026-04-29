@@ -1,0 +1,32 @@
+{
+  "slug": "monbakery-ulaanbaatar",
+  "name": "MONBAKERY",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJ1T5JvfGSll0RhTl13Lqr-i4",
+  "googleName": "Monbakery",
+  "formattedAddress": "Dilav Khutagt Jamsranjav's street, BGD - 7 khoroo, Ulaanbaatar 16094, Mongolia",
+  "phone": null,
+  "website": "https://monbakery.mn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3385206888973285765",
+  "rating": 4.3,
+  "reviewCount": 73,
+  "coords": [
+    47.9188991,
+    106.8611696
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/monbakery-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:23:53.044Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-delices-du-grand-large-mont-dore",
+  "name": "Boulangerie Pâtisserie Délices du grand large",
+  "city": "Mont Dore",
+  "country": "New Caledonia",
+  "placeId": "ChIJIbgPcD0GKGwRbhCS5-ZRou0",
+  "googleName": "Les Délices Du Grand Large",
+  "formattedAddress": "25 impasse vivaneaux, New Caledonia",
+  "phone": "46.55.54",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17123338785385484398",
+  "rating": 4.5,
+  "reviewCount": 13,
+  "coords": [
+    -22.2302002,
+    166.524703
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 5:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 5:00 AM – 5:00 PM",
+    "Thursday: 5:00 AM – 5:00 PM",
+    "Friday: 5:00 AM – 5:00 PM",
+    "Saturday: 5:00 AM – 5:00 PM",
+    "Sunday: 5:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-delices-du-grand-large-mont-dore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:34:55.100Z"
+}

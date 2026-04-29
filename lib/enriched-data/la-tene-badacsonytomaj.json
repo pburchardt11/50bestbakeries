@@ -1,0 +1,32 @@
+{
+  "slug": "la-tene-badacsonytomaj",
+  "name": "La Téne",
+  "city": "Badacsonytomaj",
+  "country": "Hungary",
+  "placeId": "ChIJm_nbdCUBaUcR3ctA5gMkGb8",
+  "googleName": "La Tène Confectionery & Café",
+  "formattedAddress": "Badacsonytomaj, Park u. 3, 8258 Hungary",
+  "phone": "06 30 681 1688",
+  "website": "http://www.latenebadacsony.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13770076934828510173",
+  "rating": 4.7,
+  "reviewCount": 1166,
+  "coords": [
+    46.78879269999999,
+    17.5056946
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-tene-badacsonytomaj/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:33:14.720Z"
+}

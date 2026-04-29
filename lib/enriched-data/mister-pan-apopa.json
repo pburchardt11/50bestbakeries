@@ -1,0 +1,32 @@
+{
+  "slug": "mister-pan-apopa",
+  "name": "Mister Pan | Apopa",
+  "city": "Apopa",
+  "country": "El Salvador",
+  "placeId": "ChIJPTnBDHY7Y48RZ5k9xHnk_E4",
+  "googleName": "Mister Pan Apopa centro",
+  "formattedAddress": "Avenida Quirino Chavez Sur, Apopa, El Salvador",
+  "phone": "7293 3859",
+  "website": "http://www.misterpan.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5691675240724011367",
+  "rating": 4,
+  "reviewCount": 17,
+  "coords": [
+    13.8009352,
+    -89.17882159999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 AM",
+    "Tuesday: 8:00 AM – 6:30 AM",
+    "Wednesday: 8:00 AM – 6:30 AM",
+    "Thursday: 8:00 AM – 6:30 AM",
+    "Friday: 8:00 AM – 6:30 AM",
+    "Saturday: 8:00 AM – 6:30 AM",
+    "Sunday: 8:00 AM – 5:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mister-pan-apopa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:04:03.728Z"
+}

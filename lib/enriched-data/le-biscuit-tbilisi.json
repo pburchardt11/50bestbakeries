@@ -1,0 +1,32 @@
+{
+  "slug": "le-biscuit-tbilisi",
+  "name": "Le Biscuit",
+  "city": "Tbilisi",
+  "country": "Georgia",
+  "placeId": "ChIJ1WOL2DZzREARQDVnBKYDFC4",
+  "googleName": "Creperie Le Bisquit",
+  "formattedAddress": "Nikoloz Berdzenishvili St, T'bilisi, Georgia",
+  "phone": "555 96 83 83",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3320282836852225344",
+  "rating": 4,
+  "reviewCount": 56,
+  "coords": [
+    41.71038859999999,
+    44.758858
+  ],
+  "openingHours": [
+    "Monday: 12:00 AM – 10:00 PM",
+    "Tuesday: 12:00 AM – 10:00 PM",
+    "Wednesday: 12:00 AM – 10:00 PM",
+    "Thursday: 12:00 AM – 10:00 PM",
+    "Friday: 12:00 AM – 10:00 PM",
+    "Saturday: 12:00 AM – 10:00 PM",
+    "Sunday: 12:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-biscuit-tbilisi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:13:57.802Z"
+}

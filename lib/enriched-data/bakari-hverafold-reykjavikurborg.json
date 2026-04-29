@@ -1,0 +1,32 @@
+{
+  "slug": "bakari-hverafold-reykjavikurborg",
+  "name": "Bakari Hverafold",
+  "city": "Reykjavíkurborg",
+  "country": "Iceland",
+  "placeId": "ChIJI5Xo08Zz1kgRqj-F2SkUdmg",
+  "googleName": "Kaffihús Árbæjarbakarí",
+  "formattedAddress": "Hraunbær 119, 110 Reykjavík, Iceland",
+  "phone": "557 7660",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7527225997171965866",
+  "rating": 4.5,
+  "reviewCount": 37,
+  "coords": [
+    64.11813,
+    -21.796438
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:40 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:40 AM – 4:00 PM",
+    "Sunday: 8:10 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakari-hverafold-reykjavikurborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:35:01.414Z"
+}

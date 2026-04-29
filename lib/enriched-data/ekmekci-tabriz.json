@@ -1,0 +1,32 @@
+{
+  "slug": "ekmekci-tabriz",
+  "name": "Ekmekçi",
+  "city": "Tabriz",
+  "country": "Iran",
+  "placeId": "ChIJEQV3lA0FGkARGUf66Of2WhU",
+  "googleName": "Donutim cafe bakery",
+  "formattedAddress": "East Azerbaijan Province, Tabriz, Nowbar, Arg Alley, 37CQ+FG3, Iran",
+  "phone": "041 3557 9099",
+  "website": "https://donutim.ir/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1538813698607040281",
+  "rating": 4,
+  "reviewCount": 25,
+  "coords": [
+    38.0711322,
+    46.2887972
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ekmekci-tabriz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:36:14.955Z"
+}

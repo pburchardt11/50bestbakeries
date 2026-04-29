@@ -1,0 +1,32 @@
+{
+  "slug": "the-blue-hen-addis-ababa",
+  "name": "The Blue Hen",
+  "city": "Addis Ababa",
+  "country": "Ethiopia",
+  "placeId": "ChIJF42kye-FSxYRV6ntMCEItw4",
+  "googleName": "The blue hen | Kazanchis",
+  "formattedAddress": "Kazanchis, Addis Ababa, Ethiopia",
+  "phone": "099 172 1626",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1060325175916865879",
+  "rating": 4.7,
+  "reviewCount": 69,
+  "coords": [
+    9.012225299999999,
+    38.7687228
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-blue-hen-addis-ababa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:06:32.013Z"
+}

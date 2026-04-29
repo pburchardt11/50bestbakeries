@@ -1,0 +1,32 @@
+{
+  "slug": "bairro-mocone-nacala",
+  "name": "Bairro Mocone",
+  "city": "Nacala",
+  "country": "Mozambique",
+  "placeId": "ChIJ8VJ8QQCruRgRqcGCGO4GyF8",
+  "googleName": "Bairro Mocone",
+  "formattedAddress": "FM6M+C3C, Nacala, Mozambique",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6901774048628490665",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -14.5390702,
+    40.6838011
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bairro-mocone-nacala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:29:42.792Z"
+}

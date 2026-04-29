@@ -1,0 +1,32 @@
+{
+  "slug": "michelle-s-bakery-and-cafe-ballina",
+  "name": "Michelle's Bakery and Cafe",
+  "city": "Ballina",
+  "country": "Ireland",
+  "placeId": "ChIJhaPdMnM3WUgRxmBwV0FwDNU",
+  "googleName": "Michelle’s Bakery & Cafe",
+  "formattedAddress": "Market Square, Ballina, Co. Mayo, Ireland",
+  "phone": "(096) 22220",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15351768655741345990",
+  "rating": 4.8,
+  "reviewCount": 59,
+  "coords": [
+    54.1149604,
+    -9.1558307
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/michelle-s-bakery-and-cafe-ballina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:40:34.020Z"
+}

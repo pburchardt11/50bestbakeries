@@ -1,0 +1,32 @@
+{
+  "slug": "mon-eclair-ulaanbaatar",
+  "name": "Mon Eclair",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJRdVJGUiSll0RLGNiv1lu5Hg",
+  "googleName": "Mon Eclair",
+  "formattedAddress": "Olympic Street 12-1, SBD - 1 khoroo, Ulaanbaatar 14241, Mongolia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8711208910983422764",
+  "rating": 4.6,
+  "reviewCount": 8,
+  "coords": [
+    47.91365829999999,
+    106.9210883
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mon-eclair-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:24:13.370Z"
+}

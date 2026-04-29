@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-karditsa",
+  "name": "Παστα Patisserie",
+  "city": "Karditsa",
+  "country": "Greece",
+  "placeId": "ChIJZwjjwv7ZWBMRFi1fxCBGnBc",
+  "googleName": "ΖΑΧΑΡΟΠΛΑΣΤΕΙΟ ΠΑΣΤΑ ΠΑΓΩΤΑ PATISSERIE",
+  "formattedAddress": "Ir. Politechniou 7, Karditsa 431 00, Greece",
+  "phone": "2441 077633",
+  "website": "http://www.mypasta.gr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1701311865786674454",
+  "rating": 4.5,
+  "reviewCount": 117,
+  "coords": [
+    39.364934,
+    21.9244167
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-karditsa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:19:54.125Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "the-snackbar-accra",
+  "name": "The Snackbar",
+  "city": "Accra",
+  "country": "Ghana",
+  "placeId": "ChIJFSDUUmya3w8Rey0NeATQOMA",
+  "googleName": "The Snackbar",
+  "formattedAddress": "Onyaa Cres, Accra, Ghana",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13851049371590536571",
+  "rating": 4.3,
+  "reviewCount": 12,
+  "coords": [
+    5.574821,
+    -0.2028453
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-snackbar-accra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:17:05.966Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "ay-the-tasty-laos",
+  "name": "Ay the Tasty",
+  "city": "Laos",
+  "country": "Laos",
+  "placeId": "ChIJl1eeBgpnJDERGvjhQiuLFOc",
+  "googleName": "Yao Thai-Chinese Restaurant",
+  "formattedAddress": "23 Singha, Ban Nongbon, Muong Xaysettha, ວຽງຈັນ 01000, Laos",
+  "phone": "021 528 888",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16651086740217526298",
+  "rating": 4.1,
+  "reviewCount": 54,
+  "coords": [
+    17.9736391,
+    102.6269882
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 10:00 PM",
+    "Tuesday: 11:00 AM – 10:00 PM",
+    "Wednesday: 11:00 AM – 10:00 PM",
+    "Thursday: 11:00 AM – 10:00 PM",
+    "Friday: 11:00 AM – 10:00 PM",
+    "Saturday: 11:00 AM – 10:00 PM",
+    "Sunday: 11:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ay-the-tasty-laos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:58:45.424Z"
+}

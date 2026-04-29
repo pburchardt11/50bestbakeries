@@ -1,0 +1,30 @@
+{
+  "slug": "lipoti-pekseg-abda",
+  "name": "Lipóti pékség",
+  "city": "Abda",
+  "country": "Hungary",
+  "placeId": "ChIJp3XUsvuVa0cRyq0VwcRqSLo",
+  "googleName": "Lipóti pékség",
+  "formattedAddress": "Abda, Bécsi u. 60, 9151 Hungary",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13423096082663321034",
+  "rating": 4.3,
+  "reviewCount": 63,
+  "coords": [
+    47.6956834,
+    17.5460457
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 8:00 PM",
+    "Tuesday: 5:00 AM – 8:00 PM",
+    "Wednesday: 5:00 AM – 8:00 PM",
+    "Thursday: 5:00 AM – 8:00 PM",
+    "Friday: 5:00 AM – 8:00 PM",
+    "Saturday: 5:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:32:05.321Z"
+}

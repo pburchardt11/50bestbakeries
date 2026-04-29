@@ -1,0 +1,32 @@
+{
+  "slug": "confiserie-namur-ingeldorf-erpeldange",
+  "name": "Confiserie Namur - Ingeldorf",
+  "city": "Erpeldange",
+  "country": "Luxembourg",
+  "placeId": "ChIJL5cSOgdWlUcRsByA1-UfFzw",
+  "googleName": "Confiserie Namur - Ingeldorf",
+  "formattedAddress": "4 Rte d'Ettelbruck, 9160 Ingeldorf Erpeldange-sur-Sûre, Luxembourg",
+  "phone": "43 69 23",
+  "website": "http://www.namur.lu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4329964638763490480",
+  "rating": 4.9,
+  "reviewCount": 7,
+  "coords": [
+    49.8505775,
+    6.1278951
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confiserie-namur-ingeldorf-erpeldange/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:37.298Z"
+}

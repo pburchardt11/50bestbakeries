@@ -1,0 +1,32 @@
+{
+  "slug": "stapanul-mesei-chisinau",
+  "name": "Stapanul Mesei",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJ9yNWfPd9yUARAP46sjIyQAE",
+  "googleName": "Stăpânul Mesei",
+  "formattedAddress": "Bulevardul Moscova 9, Chișinău, Moldova",
+  "phone": "0787 01 787",
+  "website": "https://www.stapinulmesei.md/ro",
+  "googleMapsUrl": "https://maps.google.com/?cid=90127185867374080",
+  "rating": 4.6,
+  "reviewCount": 314,
+  "coords": [
+    47.0482533,
+    28.8624221
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stapanul-mesei-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:22:26.932Z"
+}

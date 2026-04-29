@@ -1,0 +1,32 @@
+{
+  "slug": "nouva-bakery-ulaanbaatar",
+  "name": "Nouva bakery",
+  "city": "Ulaanbaatar",
+  "country": "Mongolia",
+  "placeId": "ChIJU6XY-SmNll0R8FkT_Dp84Jk",
+  "googleName": "Nouva bakery",
+  "formattedAddress": "XW48+827, CHD - 14 khoroo, Ulaanbaatar 15110, Mongolia",
+  "phone": "8818 2307",
+  "website": "https://www.facebook.com/profile.php?id=100091729073130&mibextid=LQQJ4d",
+  "googleMapsUrl": "https://maps.google.com/?cid=11087998875365235184",
+  "rating": 4,
+  "reviewCount": 4,
+  "coords": [
+    47.9557853,
+    106.9150473
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nouva-bakery-ulaanbaatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:24:25.506Z"
+}

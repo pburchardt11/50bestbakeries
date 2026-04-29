@@ -1,0 +1,30 @@
+{
+  "slug": "reposteria-gabriela-distrito-central",
+  "name": "Repostería Gabriela",
+  "city": "Distrito Central",
+  "country": "Honduras",
+  "placeId": "ChIJUyruXLKib48RH7Tq-4SDzG4",
+  "googleName": "Repostería Gabriela",
+  "formattedAddress": "3QQQ+2QJ, Tegucigalpa, Francisco Morazán, Honduras",
+  "phone": "2225-4502",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7983900846606431263",
+  "rating": 4.2,
+  "reviewCount": 9,
+  "coords": [
+    14.0875825,
+    -87.2106099
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:28:06.910Z"
+}

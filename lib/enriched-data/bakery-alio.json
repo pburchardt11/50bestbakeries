@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-alio",
+  "name": "Bakery ALIO",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJQTOXu22GZ0AR6iaCb1LRM48",
+  "googleName": "Alubali",
+  "formattedAddress": "JJWC+7R3, 5 Griboedov St, Batumi, Georgia",
+  "phone": "593 38 37 75",
+  "website": "https://www.facebook.com/alubalibatumi",
+  "googleMapsUrl": "https://maps.google.com/?cid=10318821323224262378",
+  "rating": 4.5,
+  "reviewCount": 374,
+  "coords": [
+    41.6456492,
+    41.6219151
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-alio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:14:21.537Z"
+}

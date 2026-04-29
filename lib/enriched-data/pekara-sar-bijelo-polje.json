@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-sar-bijelo-polje",
+  "name": "Pekara Šar",
+  "city": "Bijelo Polje",
+  "country": "Montenegro",
+  "placeId": "ChIJd8S0WFujUhMRy9xZ61wITUY",
+  "googleName": "Pekara Šar",
+  "formattedAddress": "Third Sandzak bb, 2PMR+9HC, 21, Bijelo Polje, Montenegro",
+  "phone": "067 230 404",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5065714351040224459",
+  "rating": 4.5,
+  "reviewCount": 103,
+  "coords": [
+    43.0334408,
+    19.7413923
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-sar-bijelo-polje/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:25:48.576Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "madina-s-bakery",
+  "name": "Madina's bakery",
+  "city": "Астана",
+  "country": "Kazakhstan",
+  "placeId": "ChIJXUOVhTXRtTgRv-upx372wpU",
+  "googleName": "Madina's Bakery",
+  "formattedAddress": "HQHR+J8H, Shohtemur Street, Dushanbe, Tajikistan",
+  "phone": "55 222 1199",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10791458681509243839",
+  "rating": 4.9,
+  "reviewCount": 10,
+  "coords": [
+    38.5790579,
+    68.7908691
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/madina-s-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:52:04.698Z"
+}

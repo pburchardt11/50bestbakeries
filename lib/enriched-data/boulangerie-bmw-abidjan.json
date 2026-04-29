@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-bmw-abidjan",
+  "name": "Boulangerie BMW",
+  "city": "Abidjan",
+  "country": "Ivory Coast",
+  "placeId": "ChIJTSnGQSjrwQ8RmkkNt98cjT8",
+  "googleName": "Boulangerie BMW",
+  "formattedAddress": "9XCF+J4J, Abidjan, Côte d'Ivoire",
+  "phone": "07 07 94 6359",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4579348143280048538",
+  "rating": 3.9,
+  "reviewCount": 168,
+  "coords": [
+    5.3715831,
+    -4.0272489
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-bmw-abidjan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:45:15.292Z"
+}

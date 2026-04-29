@@ -1,0 +1,32 @@
+{
+  "slug": "the-great-escake-southern-region",
+  "name": "The Great EsCake",
+  "city": "Southern Region",
+  "country": "Malawi",
+  "placeId": "ChIJF4sr8RZF2BgR4J11ut0Lob0",
+  "googleName": "The Great EsCake",
+  "formattedAddress": "1 Masuku Street New, Blantyre, Malawi",
+  "phone": "0992 70 86 67",
+  "website": "https://linktr.ee/TheGreatEsCake",
+  "googleMapsUrl": "https://maps.google.com/?cid=13664215791362743776",
+  "rating": 4.8,
+  "reviewCount": 5,
+  "coords": [
+    -15.8164477,
+    35.00174020000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-great-escake-southern-region/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:12:00.784Z"
+}

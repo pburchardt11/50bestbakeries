@@ -1,0 +1,32 @@
+{
+  "slug": "bakeshop-cafe-batumi",
+  "name": "Bakeshop & Cafe Batumi",
+  "city": "ბათუმი",
+  "country": "Georgia",
+  "placeId": "ChIJ6xSvD2yHZ0ARuOVXrPGBzDk",
+  "googleName": "Sable Bakeshop & cafe",
+  "formattedAddress": "24 Rustaveli st, 3 დემეტრე თავდადებულის ქუჩა, ბათუმი 6000, Georgia",
+  "phone": "577 10 33 36",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4164846630389409208",
+  "rating": 4.2,
+  "reviewCount": 902,
+  "coords": [
+    41.6518718,
+    41.6337011
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakeshop-cafe-batumi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:14:46.866Z"
+}

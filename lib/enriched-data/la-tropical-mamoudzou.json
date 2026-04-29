@@ -1,0 +1,32 @@
+{
+  "slug": "la-tropical-mamoudzou",
+  "name": "La Tropical",
+  "city": "Mamoudzou",
+  "country": "Mayotte",
+  "placeId": "ChIJYb0UwS8NCiIR2Tj-TzP3KOM",
+  "googleName": "MAYOTTE TROPIC",
+  "formattedAddress": "88 RUE DE LA SOURCE DZOUMOGNE, Bandraboua 97650, Mayotte",
+  "phone": "0269 63 28 27",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16368604645435521241",
+  "rating": 4,
+  "reviewCount": 45,
+  "coords": [
+    -12.7267971,
+    45.1204703
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 12:00 PM, 1:30 – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-tropical-mamoudzou/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:20:07.736Z"
+}

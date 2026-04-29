@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-gzira",
+  "name": "Cinnabon",
+  "city": "Gżira",
+  "country": "Malta",
+  "placeId": "ChIJXzUnyTdFDhMROwYaHIEJ-g8",
+  "googleName": "Cinnabon",
+  "formattedAddress": "WF4W+7PF, Triq Sir Patrick Stuart, Il-Gżira, Malta",
+  "phone": "2122 2277",
+  "website": "http://www.cinnabon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1151243104873481787",
+  "rating": 4.4,
+  "reviewCount": 1712,
+  "coords": [
+    35.9056925,
+    14.4967944
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Counter-serve chain serving cinnamon rolls plus other baked goods & specialty frozen beverages.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnabon-gzira/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:15:12.948Z"
+}

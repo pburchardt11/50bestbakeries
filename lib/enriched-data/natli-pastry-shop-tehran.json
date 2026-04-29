@@ -1,0 +1,32 @@
+{
+  "slug": "natli-pastry-shop-tehran",
+  "name": "Natli Pastry Shop",
+  "city": "Tehran",
+  "country": "Iran",
+  "placeId": "ChIJuf2IL139jT8RS4Fh0QardP4",
+  "googleName": "Natli Pastry",
+  "formattedAddress": "Q87P+WV, Tehran, Tehran Province, Iran",
+  "phone": "021 4445 0761",
+  "website": "https://www.natli.ir/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18335468028703113547",
+  "rating": 3.9,
+  "reviewCount": 157,
+  "coords": [
+    35.7648785,
+    51.3372473
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/natli-pastry-shop-tehran/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:36:50.946Z"
+}

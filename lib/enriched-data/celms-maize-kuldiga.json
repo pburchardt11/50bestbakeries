@@ -1,0 +1,32 @@
+{
+  "slug": "celms-maize-kuldiga",
+  "name": "Celms maize",
+  "city": "Kuldīga",
+  "country": "Latvia",
+  "placeId": "ChIJg6pW0ybb70YReP6w1_jmP2Y",
+  "googleName": "Celms maize",
+  "formattedAddress": "Liepājas iela 23, Kuldīga, Kuldīga pilsēta, Kuldīgas novads, LV-3301, Latvia",
+  "phone": "22 350 593",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7367861471846399608",
+  "rating": 4.9,
+  "reviewCount": 171,
+  "coords": [
+    56.96875199999999,
+    21.9661509
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/celms-maize-kuldiga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:02:17.904Z"
+}

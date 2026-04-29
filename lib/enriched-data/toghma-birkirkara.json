@@ -1,0 +1,32 @@
+{
+  "slug": "toghma-birkirkara",
+  "name": "Toghma",
+  "city": "Birkirkara",
+  "country": "Malta",
+  "placeId": "ChIJg0-TpIJFDhMRM1OC2oK5rZI",
+  "googleName": "Boulangerie Toghma",
+  "formattedAddress": "67 San Duminku, Tas-Sliema SLM 1407, Malta",
+  "phone": "2099 5846",
+  "website": "https://www.toghma.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10569307872171283251",
+  "rating": 4.8,
+  "reviewCount": 106,
+  "coords": [
+    35.9095366,
+    14.5029739
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/toghma-birkirkara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:14:43.070Z"
+}

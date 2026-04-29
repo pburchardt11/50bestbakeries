@@ -1,0 +1,32 @@
+{
+  "slug": "pain-d-or-beirut",
+  "name": "Pain d'Or",
+  "city": "Beirut",
+  "country": "Lebanon",
+  "placeId": "ChIJ4cuSlyYXHxURCjmXpacVVgQ",
+  "googleName": "Pain d'Or - Zarif",
+  "formattedAddress": "Beirut, Lebanon",
+  "phone": "01 366 316",
+  "website": "https://paindorinternational.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=312461033930701066",
+  "rating": 4,
+  "reviewCount": 265,
+  "coords": [
+    33.8901131,
+    35.4931418
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pain-d-or-beirut/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:02:28.355Z"
+}

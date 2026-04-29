@@ -1,0 +1,32 @@
+{
+  "slug": "a-la-baguette-akaroa",
+  "name": "A la baguette",
+  "city": "Akaroa",
+  "country": "New Zealand",
+  "placeId": "ChIJY4UjcI_LM20RrmBi1tlEyCU",
+  "googleName": "A la baguette",
+  "formattedAddress": "74 Rue Lavaud, Akaroa 7520, New Zealand",
+  "phone": "022 402 3692",
+  "website": "https://www.facebook.com/profile.php?id=61550805091276&mibextid=ZbWKwL",
+  "googleMapsUrl": "https://maps.google.com/?cid=2722501677140828334",
+  "rating": 4.9,
+  "reviewCount": 98,
+  "coords": [
+    -43.8050299,
+    172.9671094
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:30 AM – 12:00 PM",
+    "Thursday: 7:30 AM – 12:00 PM",
+    "Friday: 7:30 AM – 12:00 PM",
+    "Saturday: 7:30 AM – 12:00 PM",
+    "Sunday: 7:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-la-baguette-akaroa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:36:02.600Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "b4lao-bakery-savannakhet",
+  "name": "B4LAO Bakery",
+  "city": "Savannakhét",
+  "country": "Laos",
+  "placeId": "ChIJO6TjKA7FPTERw4tTNidZP98",
+  "googleName": "BakeryB4LAO",
+  "formattedAddress": "GQV4+5G6 Phonsaad Laos",
+  "phone": "020 55 238 538",
+  "website": "https://www.facebook.com/B4LAO-Bakery-315502212293826",
+  "googleMapsUrl": "https://maps.google.com/?cid=16086674418940742595",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    16.5429246,
+    104.7562597
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:30 PM",
+    "Tuesday: 8:00 AM – 4:30 PM",
+    "Wednesday: 8:00 AM – 4:30 PM",
+    "Thursday: 8:00 AM – 4:30 PM",
+    "Friday: 8:00 AM – 4:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/b4lao-bakery-savannakhet/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:00:12.924Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "burecas-house-balti",
+  "name": "Burecas House",
+  "city": "Bălți",
+  "country": "Moldova",
+  "placeId": "ChIJX2FWkxlny0ARZw7l9G14ZGA",
+  "googleName": "Burecas House",
+  "formattedAddress": "MD-3100, Strada Ștefan cel Mare 89, Bălți, Moldova",
+  "phone": "0678 80 090",
+  "website": "https://www.facebook.com/BurecasHouse",
+  "googleMapsUrl": "https://maps.google.com/?cid=6945808938967567975",
+  "rating": 4.3,
+  "reviewCount": 7,
+  "coords": [
+    47.7591619,
+    27.9207117
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/burecas-house-balti/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:20:50.766Z"
+}

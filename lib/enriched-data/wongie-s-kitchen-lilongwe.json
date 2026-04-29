@@ -1,0 +1,32 @@
+{
+  "slug": "wongie-s-kitchen-lilongwe",
+  "name": "Wongie's Kitchen",
+  "city": "Lilongwe",
+  "country": "Malawi",
+  "placeId": "ChIJiYUpfSItIBkR2MZgh5uA9_E",
+  "googleName": "Will Kitchen",
+  "formattedAddress": "Area12/178, Kaduya Cres, Lilongwe, Malawi",
+  "phone": "0996 66 11 18",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17435545887867717336",
+  "rating": 4.5,
+  "reviewCount": 33,
+  "coords": [
+    -13.9593411,
+    33.8141515
+  ],
+  "openingHours": [
+    "Monday: 5:00 – 9:30 PM",
+    "Tuesday: 10:00 AM – 9:30 PM",
+    "Wednesday: 10:00 AM – 9:30 PM",
+    "Thursday: 10:00 AM – 9:30 PM",
+    "Friday: 10:00 AM – 9:30 PM",
+    "Saturday: 10:00 AM – 9:30 PM",
+    "Sunday: 10:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wongie-s-kitchen-lilongwe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:11:47.252Z"
+}

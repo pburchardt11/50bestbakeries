@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-l-amour",
+  "name": "Patisserie L'Amour",
+  "city": "البوشرية",
+  "country": "Lebanon",
+  "placeId": "ChIJTZGpCh8WHxUREarw9MP1ccM",
+  "googleName": "Pâtisserie l'Amour",
+  "formattedAddress": "VHP4+FXM, Baouchriyeh, Lebanon",
+  "phone": "01 880 319",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14083307731741092369",
+  "rating": 4.7,
+  "reviewCount": 10,
+  "coords": [
+    33.8862125,
+    35.5574121
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-l-amour/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:03:50.819Z"
+}

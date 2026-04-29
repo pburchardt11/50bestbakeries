@@ -1,0 +1,32 @@
+{
+  "slug": "b-jarbakari-hafnarfjordur",
+  "name": "Bæjarbakarí",
+  "city": "Hafnarfjordur",
+  "country": "Iceland",
+  "placeId": "ChIJ1ZiF7e0M1kgRjQQpmJ7digI",
+  "googleName": "Bæjarbakarí",
+  "formattedAddress": "Bæjarhraun 2, 220 Hafnarfjörður, Iceland",
+  "phone": "555 0480",
+  "website": "http://www.bakari.is/",
+  "googleMapsUrl": "https://maps.google.com/?cid=183202408089322637",
+  "rating": 4.7,
+  "reviewCount": 53,
+  "coords": [
+    64.0768008,
+    -21.93925
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: 8:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/b-jarbakari-hafnarfjordur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:34:10.701Z"
+}

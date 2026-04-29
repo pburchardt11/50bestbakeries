@@ -1,0 +1,32 @@
+{
+  "slug": "simit-saray-kuveyt",
+  "name": "Simit Sarayı",
+  "city": "Kuveyt",
+  "country": "Kuwait",
+  "placeId": "ChIJYWqxuI6Fzz8RkPljW43k1yc",
+  "googleName": "SIMIT SARAYI",
+  "formattedAddress": "قطعة 3،،, مدينة الكويت، Kuwait",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2871014583246780816",
+  "rating": 3.8,
+  "reviewCount": 14,
+  "coords": [
+    29.37392329999999,
+    47.9877254
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simit-saray-kuveyt/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:56:22.968Z"
+}

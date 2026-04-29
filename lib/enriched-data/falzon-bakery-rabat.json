@@ -1,0 +1,32 @@
+{
+  "slug": "falzon-bakery-rabat",
+  "name": "Falzon Bakery",
+  "city": "Rabat",
+  "country": "Malta",
+  "placeId": "ChIJgzfyjpZRDhMRfRnhf8H5bn0",
+  "googleName": "Falzon Bakery - Rabat",
+  "formattedAddress": "7 College Street, Rabat, Malta",
+  "phone": "2145 9171",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9038436111648627069",
+  "rating": 4.6,
+  "reviewCount": 199,
+  "coords": [
+    35.8814499,
+    14.3990526
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/falzon-bakery-rabat/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:16:24.142Z"
+}

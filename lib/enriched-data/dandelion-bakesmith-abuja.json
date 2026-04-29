@@ -1,0 +1,32 @@
+{
+  "slug": "dandelion-bakesmith-abuja",
+  "name": "Dandelion Bakesmith",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "placeId": "ChIJIxVecW4NThAR8RXJna5snh0",
+  "googleName": "Dandelion Bakesmith",
+  "formattedAddress": "B002, Crowther Plaza, Plot 1055 Joseph Gomwalk St, Gudu, AMAC 900104, Federal Capital Territory, Nigeria",
+  "phone": "0817 549 6612",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2134262770647504369",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    8.9984975,
+    7.4775334
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dandelion-bakesmith-abuja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:41:14.236Z"
+}

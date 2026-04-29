@@ -1,0 +1,32 @@
+{
+  "slug": "delices-d-orient-granada",
+  "name": "Délices d'Orient",
+  "city": "Granada",
+  "country": "Nicaragua",
+  "placeId": "ChIJlUnFQQ9w5kcR3qht4oBZkC8",
+  "googleName": "Les Délices d'Orient",
+  "formattedAddress": "52 Av. Emile Zola, 75015 Paris, France",
+  "phone": "01 45 79 10 00",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3427337726518470878",
+  "rating": 4,
+  "reviewCount": 1497,
+  "coords": [
+    48.8463028,
+    2.2832047
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 8:00 PM",
+    "Wednesday: 8:30 AM – 8:00 PM",
+    "Thursday: 8:30 AM – 8:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delices-d-orient-granada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:40:21.106Z"
+}

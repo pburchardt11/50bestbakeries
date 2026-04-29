@@ -1,0 +1,32 @@
+{
+  "slug": "maxim-s-cake-macau",
+  "name": "Maxim's Cake",
+  "city": "Macau",
+  "country": "Macao SAR China",
+  "placeId": "ChIJu0swAuZ6ATQRHnavudbuVFc",
+  "googleName": "Maxim’s cake shop",
+  "formattedAddress": "R. do Campo, Macao",
+  "phone": "2838 5883",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6292917185349121566",
+  "rating": 4.8,
+  "reviewCount": 9,
+  "coords": [
+    22.1937107,
+    113.5435831
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maxim-s-cake-macau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:08:57.433Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boulevard-bakery",
+  "name": "Boulevard Bakery",
+  "city": "Битола",
+  "country": "North Macedonia",
+  "placeId": "ChIJLdQ6_v0kVxMRzVKZ1Xv-j_Q",
+  "googleName": "Bakery Boulevard",
+  "formattedAddress": "1-vi Maj Boulevard 144, Bitola, North Macedonia",
+  "phone": "047 610 347",
+  "website": "https://www.facebook.com/boulevardbakerymk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17622583674742067917",
+  "rating": 4.5,
+  "reviewCount": 544,
+  "coords": [
+    41.0312934,
+    21.3326399
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulevard-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:42:51.417Z"
+}

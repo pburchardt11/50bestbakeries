@@ -1,0 +1,32 @@
+{
+  "slug": "bon-appetit-chisinau",
+  "name": "Bon Appetit",
+  "city": "Chișinău",
+  "country": "Moldova",
+  "placeId": "ChIJvcwbde97yUARaMvNlfjPz_Q",
+  "googleName": "Bon Appetit",
+  "formattedAddress": "str. Voluntarilor 16, Chișinău, Moldova",
+  "phone": "0794 01 397",
+  "website": "http://bonappetit.md/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17640546932005653352",
+  "rating": 4.6,
+  "reviewCount": 174,
+  "coords": [
+    47.0030593,
+    28.8948815
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bon-appetit-chisinau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:21:51.200Z"
+}

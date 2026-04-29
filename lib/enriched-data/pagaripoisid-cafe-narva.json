@@ -1,0 +1,32 @@
+{
+  "slug": "pagaripoisid-cafe-narva",
+  "name": "Pagaripoisid cafe",
+  "city": "Narva",
+  "country": "Estonia",
+  "placeId": "ChIJQdK3cr2UkkYReq1EtD936vo",
+  "googleName": "Pagaripoisid Ltd.",
+  "formattedAddress": "Vana-Lõuna tn 37, 10134 Tallinn, Estonia",
+  "phone": "627 3710",
+  "website": "https://www.pagaripoisid.ee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18080394769523322234",
+  "rating": 4.5,
+  "reviewCount": 791,
+  "coords": [
+    59.4213132,
+    24.7446512
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:30 PM",
+    "Tuesday: 7:30 AM – 6:30 PM",
+    "Wednesday: 7:30 AM – 6:30 PM",
+    "Thursday: 7:30 AM – 6:30 PM",
+    "Friday: 7:30 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pagaripoisid-cafe-narva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:05:37.654Z"
+}

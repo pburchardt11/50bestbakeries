@@ -1,0 +1,32 @@
+{
+  "slug": "blue-ribbon-lesotho-bakery-maseru",
+  "name": "Blue Ribbon Lesotho Bakery",
+  "city": "Maseru",
+  "country": "Lesotho",
+  "placeId": "ChIJC_UdQFbLjR4RDnvRBddWS2A",
+  "googleName": "Blue Ribbon Lesotho Bakery",
+  "formattedAddress": "MF74+5V3, Maseru, Lesotho",
+  "phone": "5349 4353",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6938735132409953038",
+  "rating": 3.9,
+  "reviewCount": 23,
+  "coords": [
+    -29.3371213,
+    27.4571863
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blue-ribbon-lesotho-bakery-maseru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:04:04.222Z"
+}

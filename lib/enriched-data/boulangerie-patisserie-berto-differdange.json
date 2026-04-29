@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-berto-differdange",
+  "name": "Boulangerie-Pâtisserie Berto",
+  "city": "Differdange",
+  "country": "Luxembourg",
+  "placeId": "ChIJ3ZS2oozK6kcRyNv2eK2WLLs",
+  "googleName": "Berto",
+  "formattedAddress": "137 Rue de Soleuvre, 4670 Oberkorn Differdange, Luxembourg",
+  "phone": "26 58 00 32",
+  "website": "http://www.berto.lu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13487320655870745544",
+  "rating": 4.3,
+  "reviewCount": 274,
+  "coords": [
+    49.520952,
+    5.908188
+  ],
+  "openingHours": [
+    "Monday: 4:00 AM – 2:00 PM",
+    "Tuesday: 4:00 AM – 2:00 PM",
+    "Wednesday: 4:00 AM – 2:00 PM",
+    "Thursday: 4:00 AM – 2:00 PM",
+    "Friday: 4:00 AM – 2:00 PM",
+    "Saturday: 4:00 AM – 12:00 PM",
+    "Sunday: 4:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-berto-differdange/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:07:56.756Z"
+}
