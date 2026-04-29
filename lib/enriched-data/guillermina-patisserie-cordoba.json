@@ -1,0 +1,43 @@
+{
+  "slug": "guillermina-patisserie-cordoba",
+  "name": "Guillermina Patisserie",
+  "curatedName": "Guillermina Patisserie",
+  "city": "Córdoba",
+  "country": "Argentina",
+  "placeId": "ChIJL9CFJ7eeMpQRaJMLxkyH96I",
+  "googleName": "Guillermina Patisserie",
+  "formattedAddress": "Federico, Av. Carlos F. Gauss 5429, X5021 Córdoba, Argentina",
+  "phone": "0351 509-5399",
+  "internationalPhone": "+54 351 509-5399",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11743003317201769320",
+  "rating": 4.8,
+  "reviewCount": 249,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -31.3596823,
+    -64.2524043
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/guillermina-patisserie-cordoba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:37.193Z"
+}

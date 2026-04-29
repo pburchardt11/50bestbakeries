@@ -1,0 +1,45 @@
+{
+  "slug": "el-hojaldre-chihuahua",
+  "name": "El Hojaldre",
+  "curatedName": "El Hojaldre",
+  "city": "Chihuahua",
+  "country": "Mexico",
+  "placeId": "ChIJJ_cFZ1JD6oYRM905bwZCLtU",
+  "googleName": "El Hojaldre",
+  "formattedAddress": "Calle Ignacio Allende 200, Zona Centro, 31000 Chihuahua, Chih., Mexico",
+  "phone": "614 413 4329",
+  "internationalPhone": "+52 614 413 4329",
+  "website": "http://www.el-hojaldre.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15361287974410640691",
+  "rating": 4.4,
+  "reviewCount": 1562,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.634302,
+    -106.07497
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM",
+    "Tuesday: 8:00 AM – 9:15 PM",
+    "Wednesday: 8:00 AM – 9:15 PM",
+    "Thursday: 8:00 AM – 9:15 PM",
+    "Friday: 8:00 AM – 9:15 PM",
+    "Saturday: 8:00 AM – 9:15 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-hojaldre-chihuahua/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:14.510Z"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "taita-cafeteria-panaderia-cuenca",
+  "name": "Taita Cafeteria Panaderia",
+  "curatedName": "Taita Cafeteria Panaderia",
+  "city": "Cuenca",
+  "country": "Ecuador",
+  "placeId": "ChIJTxTnHmsYzZER9o8cYbfPFZE",
+  "googleName": "Taita Cafeteria Panaderia",
+  "formattedAddress": "Calle Larga y Manuel Vega, 010107 Cuenca, Ecuador",
+  "phone": "098 418 6707",
+  "internationalPhone": "+593 98 418 6707",
+  "website": "https://es-la.facebook.com/taitapancafe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10454490496525701110",
+  "rating": 4.7,
+  "reviewCount": 383,
+  "priceLevel": 1,
+  "types": [
+    "art_gallery",
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -2.9047576,
+    -78.99927439999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/taita-cafeteria-panaderia-cuenca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:28.249Z"
+}

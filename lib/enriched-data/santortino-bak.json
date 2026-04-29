@@ -1,0 +1,32 @@
+{
+  "slug": "santortino-bak",
+  "name": "SanTortino",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJW7d1XYeHMEARjoShz20GMeQ",
+  "googleName": "San Tortino",
+  "formattedAddress": "33 Atatürk prospekti, Bakı 1110, Azerbaijan",
+  "phone": "051 230 46 42",
+  "website": "https://www.instagram.com/santortino.az/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16442930783211062414",
+  "rating": 4.6,
+  "reviewCount": 18,
+  "coords": [
+    40.410154,
+    49.8471083
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santortino-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:38:02.844Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "delibaguette-saltillo",
+  "name": "Delibaguette",
+  "curatedName": "Delibaguette",
+  "city": "Saltillo",
+  "country": "Mexico",
+  "placeId": "ChIJIexihFZtiIYRhpcxMPLtr1s",
+  "googleName": "Delibaguette",
+  "formattedAddress": "Nava 2516, República Nte., 25280 Saltillo, Coah., Mexico",
+  "phone": "844 415 5112",
+  "internationalPhone": "+52 844 415 5112",
+  "website": "http://www.facebook.com/Delibaguette",
+  "googleMapsUrl": "https://maps.google.com/?cid=6606760802822231942",
+  "rating": 4.6,
+  "reviewCount": 132,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.4421764,
+    -100.9866889
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delibaguette-saltillo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:33.564Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "thu-huong-cake-quan-hai-ba-trung",
+  "name": "Thu Hường Cake",
+  "curatedName": "Thu Hường Cake",
+  "city": "Quận Hai Bà Trưng",
+  "country": "Vietnam",
+  "placeId": "ChIJWRKC5KKtNTERIgeEPWCljwY",
+  "googleName": "Thu Hường Cake",
+  "formattedAddress": "87 Trương Định, Tương Mai, Hà Nội 100000, Vietnam",
+  "phone": "0988 504 514",
+  "internationalPhone": "+84 988 504 514",
+  "website": "https://thuhuongcake.vn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=472778318664697634",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.9937561,
+    105.8497023
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thu-huong-cake-quan-hai-ba-trung/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:18.458Z"
+}

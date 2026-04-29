@@ -1,0 +1,44 @@
+{
+  "slug": "vecchio-forno-firenze",
+  "name": "Vecchio Forno",
+  "curatedName": "Vecchio Forno",
+  "city": "Firenze",
+  "country": "Italy",
+  "placeId": "ChIJ0UBPLx1UKhMRn_lWmy-nLw8",
+  "googleName": "Vecchio Forno",
+  "formattedAddress": "Via Guelfa, 32, 50129 Firenze FI, Italy",
+  "phone": "055 265 4069",
+  "internationalPhone": "+39 055 265 4069",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1094277057385789855",
+  "rating": 4.7,
+  "reviewCount": 951,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.7772057,
+    11.2561449
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vecchio-forno-firenze/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:30.540Z"
+}

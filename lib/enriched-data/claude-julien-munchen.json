@@ -1,0 +1,44 @@
+{
+  "slug": "claude-julien-munchen",
+  "name": "Claude & Julien",
+  "curatedName": "Claude & Julien",
+  "city": "München",
+  "country": "Germany",
+  "placeId": "ChIJwfM0NIffnUcR4qJTKmOVucU",
+  "googleName": "Claude & Julien",
+  "formattedAddress": "Elsässer Str. 25, 81667 München, Germany",
+  "phone": "015888 364697",
+  "internationalPhone": "+49 15888 364697",
+  "website": "https://www.facebook.com/ClaudeetJulien/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14247583149307699938",
+  "rating": 4.7,
+  "reviewCount": 488,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.1301954,
+    11.6052684
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/claude-julien-munchen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:22.416Z"
+}

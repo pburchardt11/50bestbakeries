@@ -1,0 +1,43 @@
+{
+  "slug": "bakery-violante-bari",
+  "name": "Bakery Violante",
+  "curatedName": "Bakery Violante",
+  "city": "Bari",
+  "country": "Italy",
+  "placeId": "ChIJ_RH7D0LoRxMRJLPolMzSmLU",
+  "googleName": "Bakery Violante",
+  "formattedAddress": "Via Addis Abeba, 12, 70121 Bari BA, Italy",
+  "phone": "080 553 4210",
+  "internationalPhone": "+39 080 553 4210",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13085440493438415652",
+  "rating": 4.7,
+  "reviewCount": 1013,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.119845,
+    16.881935
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM, 5:00 – 8:15 PM",
+    "Tuesday: 8:00 AM – 2:00 PM, 5:00 – 8:15 PM",
+    "Wednesday: 8:00 AM – 2:00 PM, 5:00 – 8:15 PM",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM, 5:00 – 8:15 PM",
+    "Saturday: 8:00 AM – 2:00 PM, 5:30 – 8:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-violante-bari/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:39.468Z"
+}

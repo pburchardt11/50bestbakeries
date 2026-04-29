@@ -1,0 +1,44 @@
+{
+  "slug": "pasticceria-toletta-venezia",
+  "name": "Pasticceria Toletta",
+  "curatedName": "Pasticceria Toletta",
+  "city": "Venezia",
+  "country": "Italy",
+  "placeId": "ChIJtUrXe86xfkcReKLSSR1J-EQ",
+  "googleName": "Pasticceria Toletta",
+  "formattedAddress": "Sestiere Dorsoduro, 1192, 30123 Venezia VE, Italy",
+  "phone": "041 522 7451",
+  "internationalPhone": "+39 041 522 7451",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4969802578944762488",
+  "rating": 4.7,
+  "reviewCount": 875,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4317719,
+    12.3262519
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: 8:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-toletta-venezia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:11.488Z"
+}

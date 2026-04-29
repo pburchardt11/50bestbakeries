@@ -1,0 +1,43 @@
+{
+  "slug": "pasticceria-cappello-palermo",
+  "name": "Pasticceria Cappello",
+  "curatedName": "Pasticceria Cappello",
+  "city": "Palermo",
+  "country": "Italy",
+  "placeId": "ChIJ09vuNWTvGRMRL-1vSqrMWmU",
+  "googleName": "Pasticceria Cappello",
+  "formattedAddress": "Via Colonna Rotta, 68, 90134 Palermo PA, Italy",
+  "phone": "091 489601",
+  "internationalPhone": "+39 091 489601",
+  "website": "https://www.pasticceriacappello.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7303374777500036399",
+  "rating": 4.4,
+  "reviewCount": 2523,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.1121385,
+    13.3503093
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: Closed",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-cappello-palermo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:50.877Z"
+}

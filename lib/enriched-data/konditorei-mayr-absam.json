@@ -1,0 +1,32 @@
+{
+  "slug": "konditorei-mayr-absam",
+  "name": "Konditorei Mayr",
+  "city": "Absam",
+  "country": "Austria",
+  "placeId": "ChIJu5iXWWVvnUcR1ARIe-mhUgc",
+  "googleName": "Cafe-Konditorei Mayr",
+  "formattedAddress": "Walburga Schindl-Straße 15, 6067 Absam, Austria",
+  "phone": "05223 57640",
+  "website": "http://www.konditoreimayr.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=527662130523538644",
+  "rating": 4.8,
+  "reviewCount": 268,
+  "coords": [
+    47.2928309,
+    11.5022054
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 11:00 AM – 5:00 PM",
+    "Saturday: 11:00 AM – 5:00 PM",
+    "Sunday: 11:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditorei-mayr-absam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:30:21.559Z"
+}

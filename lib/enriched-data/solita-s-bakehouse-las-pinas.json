@@ -1,0 +1,43 @@
+{
+  "slug": "solita-s-bakehouse-las-pinas",
+  "name": "Solita's Bakehouse",
+  "curatedName": "Solita's Bakehouse",
+  "city": "Las Piñas",
+  "country": "Philippines",
+  "placeId": "ChIJn7KF58_RlzMRHDRYWQ2B_xY",
+  "googleName": "Solita's Bakehouse",
+  "formattedAddress": "1750 Daang Hari Road, Alabang West, Las Piñas, Kalakhang Maynila, Philippines",
+  "phone": "0919 000 6268",
+  "internationalPhone": "+63 919 000 6268",
+  "website": "http://www.solitasbakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1657185082229142556",
+  "rating": 4.6,
+  "reviewCount": 27,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.4136252,
+    121.0167854
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/solita-s-bakehouse-las-pinas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:41.822Z"
+}

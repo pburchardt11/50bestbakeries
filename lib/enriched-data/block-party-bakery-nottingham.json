@@ -1,0 +1,43 @@
+{
+  "slug": "block-party-bakery-nottingham",
+  "name": "Block Party Bakery",
+  "curatedName": "Block Party Bakery",
+  "city": "Nottingham",
+  "country": "United Kingdom",
+  "placeId": "ChIJL1tlOjTDeUgRxuDUVmbXCyE",
+  "googleName": "Block Party Bakery",
+  "formattedAddress": "Cumberland House, 35 Park Row, Nottingham NG1 6EE, UK",
+  "phone": "07359 740591",
+  "internationalPhone": "+44 7359 740591",
+  "website": "https://www.blockpartybakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2381233662538866886",
+  "rating": 4.9,
+  "reviewCount": 55,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.95297859999999,
+    -1.1554742
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:00 PM",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 11:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/block-party-bakery-nottingham/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:07:32.087Z"
+}

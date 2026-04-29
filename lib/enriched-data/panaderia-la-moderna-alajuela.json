@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-moderna-alajuela",
+  "name": "Panaderia La Moderna",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJ1djMF8X5oI8RtGqOi2JYpt4",
+  "googleName": "Panaderia La Moderna",
+  "formattedAddress": "00000 250 mts al sur de tienda Llobet, Provincia de Alajuela, Alajuela, El Carmen, Costa Rica",
+  "phone": "2442 4432",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16043607902825376436",
+  "rating": 4.7,
+  "reviewCount": 151,
+  "coords": [
+    10.0179185,
+    -84.2155034
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: 12:00 – 7:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-moderna-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:02.034Z"
+}

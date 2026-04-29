@@ -1,0 +1,44 @@
+{
+  "slug": "tous-les-jours-bakery-and-cafe-washington",
+  "name": "Tous Les Jours Bakery and Cafe",
+  "curatedName": "Tous Les Jours Bakery and Cafe",
+  "city": "Washington",
+  "country": "United States",
+  "placeId": "ChIJcwdkDgC3t4kRsG5R5SWV43I",
+  "googleName": "Tous Les Jours Bakery and Cafe",
+  "formattedAddress": "625 H St NW Unit 101, Washington, DC 20001, USA",
+  "phone": "(202) 621-7811",
+  "internationalPhone": "+1 202-621-7811",
+  "website": "https://tljus.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8278624530030751408",
+  "rating": 4.2,
+  "reviewCount": 112,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.9000227,
+    -77.0210931
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:00 PM",
+    "Tuesday: 8:30 AM – 10:00 PM",
+    "Wednesday: 8:30 AM – 10:00 PM",
+    "Thursday: 8:30 AM – 10:00 PM",
+    "Friday: 8:30 AM – 11:00 PM",
+    "Saturday: 11:00 AM – 11:00 PM",
+    "Sunday: 11:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-bakery-and-cafe-washington/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:28.129Z"
+}

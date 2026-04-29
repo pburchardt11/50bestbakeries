@@ -1,0 +1,43 @@
+{
+  "slug": "la-espanola-irapuato",
+  "name": "La Española",
+  "curatedName": "La Española",
+  "city": "Irapuato",
+  "country": "Mexico",
+  "placeId": "ChIJxZPzOMZ_LIQRcTYHOAExXOk",
+  "googleName": "La Española",
+  "formattedAddress": "Calz. De Los Chinacos 1204, Ferrocarrilero, 36690 Irapuato, Gto., Mexico",
+  "phone": "462 143 0716",
+  "internationalPhone": "+52 462 143 0716",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16815368989999314545",
+  "rating": 3.9,
+  "reviewCount": 19,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.6818509,
+    -101.3620509
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-espanola-irapuato/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:36.116Z"
+}

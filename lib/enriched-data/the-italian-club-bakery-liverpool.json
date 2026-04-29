@@ -1,0 +1,43 @@
+{
+  "slug": "the-italian-club-bakery-liverpool",
+  "name": "The Italian Club Bakery",
+  "curatedName": "The Italian Club Bakery",
+  "city": "Liverpool",
+  "country": "United Kingdom",
+  "placeId": "ChIJVfUOfUIhe0gRQ_kFqfmVCT0",
+  "googleName": "The Italian Club Bakery",
+  "formattedAddress": "43 Duke St, Liverpool L1 5AP, UK",
+  "phone": "0151 708 6566",
+  "internationalPhone": "+44 151 708 6566",
+  "website": "https://theitalianclubfamily.com/the-italian-club-bakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4398211410619136323",
+  "rating": 4.8,
+  "reviewCount": 154,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.40216909999999,
+    -2.9831815
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 4:30 PM",
+    "Tuesday: 8:30 AM – 4:30 PM",
+    "Wednesday: 8:30 AM – 4:30 PM",
+    "Thursday: 8:30 AM – 4:30 PM",
+    "Friday: 8:30 AM – 4:30 PM",
+    "Saturday: 8:30 AM – 4:30 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-italian-club-bakery-liverpool/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:07:37.974Z"
+}

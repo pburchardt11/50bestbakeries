@@ -1,0 +1,32 @@
+{
+  "slug": "popalicious-cakes-and-events-nassau",
+  "name": "Popalicious Cakes and Events",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJleM3NMJ7L4kRHPAk1d7hpU8",
+  "googleName": "Popalicious Cakes and Events",
+  "formattedAddress": "7 Hanna Road, Carmichael Rd, Nassau, The Bahamas",
+  "phone": "(242) 823-8799",
+  "website": "http://www.popaliciousevents.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5739241647328522268",
+  "rating": 4.9,
+  "reviewCount": 26,
+  "coords": [
+    25.0168327,
+    -77.37535629999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/popalicious-cakes-and-events-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:42:49.272Z"
+}

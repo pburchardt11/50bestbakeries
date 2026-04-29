@@ -1,0 +1,46 @@
+{
+  "slug": "casa-monsenhor-manaus",
+  "name": "Casa Monsenhor",
+  "curatedName": "Casa Monsenhor",
+  "city": "Manaus",
+  "country": "Brazil",
+  "placeId": "ChIJtQzg73wFbJIRBd9taOklf6k",
+  "googleName": "Casa Monsenhor",
+  "formattedAddress": "Rua 10 de Julho, 567 - Centro, Manaus - AM, 69010-060, Brazil",
+  "phone": "(92) 3018-2552",
+  "internationalPhone": "+55 92 3018-2552",
+  "website": "http://www.casamonsenhor.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12213522398861713157",
+  "rating": 4.5,
+  "reviewCount": 1116,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -3.129817,
+    -60.0224436
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-monsenhor-manaus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:38.162Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "thriftaholics-belmopan",
+  "name": "Thriftaholics",
+  "city": "Belmopan",
+  "country": "Belize",
+  "placeId": "ChIJDR51CwBZXI8RAmze0CS-_vw",
+  "googleName": "Thrift City",
+  "formattedAddress": "13 Douglas Jones St, Belize City, Belize",
+  "phone": "627-4140",
+  "website": "http://thriftcity.bz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18230217406974684162",
+  "rating": 4.6,
+  "reviewCount": 5,
+  "coords": [
+    17.5010046,
+    -88.19048749999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thriftaholics-belmopan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:06:35.108Z"
+}

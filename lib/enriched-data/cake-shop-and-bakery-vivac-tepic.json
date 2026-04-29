@@ -1,0 +1,43 @@
+{
+  "slug": "cake-shop-and-bakery-vivac-tepic",
+  "name": "Cake Shop And Bakery VIVAC",
+  "curatedName": "Cake Shop And Bakery VIVAC",
+  "city": "Tepic",
+  "country": "Mexico",
+  "placeId": "ChIJS2lX3CA3J4QR7ftAs56WTpQ",
+  "googleName": "Cake Shop And Bakery VIVAC",
+  "formattedAddress": "Río Bravo 107, Los Fresnos Oriente, Los Fresnos, 63190 Tepic, Nay., Mexico",
+  "phone": "311 301 8554",
+  "internationalPhone": "+52 311 301 8554",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10686644574153145325",
+  "rating": 4.6,
+  "reviewCount": 189,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.4868343,
+    -104.8898054
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 1:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-shop-and-bakery-vivac-tepic/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:26.912Z"
+}

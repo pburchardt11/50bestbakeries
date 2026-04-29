@@ -1,0 +1,43 @@
+{
+  "slug": "charm-bakery-vietnam-quan-1",
+  "name": "Charm Bakery Vietnam",
+  "curatedName": "Charm Bakery Vietnam",
+  "city": "Quận 1",
+  "country": "Vietnam",
+  "placeId": "ChIJXaeOOTwvdTERHKOccDtY7Dw",
+  "googleName": "Charm Bakery Vietnam",
+  "formattedAddress": "10 Lê Thị Riêng, Phường Phạm Ngũ Lão, Bến Thành, Hồ Chí Minh 700000, Vietnam",
+  "phone": "0916 171 739",
+  "internationalPhone": "+84 916 171 739",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4389980749095019292",
+  "rating": 4.8,
+  "reviewCount": 1488,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7715038,
+    106.6926822
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charm-bakery-vietnam-quan-1/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:32:51.074Z"
+}

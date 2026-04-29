@@ -1,0 +1,43 @@
+{
+  "slug": "the-muffin-bakery-merkezefendi",
+  "name": "The Muffin Bakery",
+  "curatedName": "The Muffin Bakery",
+  "city": "Merkezefendi",
+  "country": "Türkiye",
+  "placeId": "ChIJVV__DQtBxxQR1apU9QG4vnI",
+  "googleName": "The Muffin Bakery",
+  "formattedAddress": "Bereketler, 10208 Sk. No:1/A, 20040 Denizli Merkezefendi/Denizli, Türkiye",
+  "phone": "0545 470 97 17",
+  "internationalPhone": "+90 545 470 97 17",
+  "website": "http://themuffinbakery.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8268248284449254101",
+  "rating": 4.8,
+  "reviewCount": 123,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.776014,
+    29.014636
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-muffin-bakery-merkezefendi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:03:58.466Z"
+}

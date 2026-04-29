@@ -1,0 +1,32 @@
+{
+  "slug": "pegasos-durres",
+  "name": "Pegasos",
+  "city": "Durrës",
+  "country": "Albania",
+  "placeId": "ChIJu28RK0DbTxMRVNEAXI5eLeI",
+  "googleName": "Pegasos S&D Shpk",
+  "formattedAddress": "Rruga Taulantia, Durrës, Albania",
+  "phone": "069 662 3665",
+  "website": "https://www.instagram.com/furre_pasticeri_pegasos?igsh=MWV4YXlhbnk5YzRrMQ==",
+  "googleMapsUrl": "https://maps.google.com/?cid=16297786592045617492",
+  "rating": 4.5,
+  "reviewCount": 49,
+  "coords": [
+    41.3115202,
+    19.4388502
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 11:00 PM",
+    "Tuesday: 5:00 AM – 11:00 PM",
+    "Wednesday: 5:00 AM – 11:00 PM",
+    "Thursday: 5:00 AM – 11:00 PM",
+    "Friday: 5:00 AM – 11:00 PM",
+    "Saturday: 5:00 AM – 11:00 PM",
+    "Sunday: 5:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pegasos-durres/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:13:41.354Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pasteleria-la-inglesa-real-acacias",
+  "name": "Pasteleria La Inglesa Real",
+  "city": "Acacías",
+  "country": "Colombia",
+  "placeId": "ChIJ--yR1rI-Po4R6YXh9PPUSdU",
+  "googleName": "Pasteleria La Inglesa Real",
+  "formattedAddress": "Cra. 19 #13-2, Acacías, Meta, Colombia",
+  "phone": "311 8274555",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15369049347629090281",
+  "rating": 4.3,
+  "reviewCount": 737,
+  "coords": [
+    3.985919099999999,
+    -73.7623978
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-la-inglesa-real-acacias/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:45:27.970Z"
+}

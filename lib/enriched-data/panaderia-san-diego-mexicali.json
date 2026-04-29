@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-san-diego-mexicali",
+  "name": "Panadería San Diego",
+  "curatedName": "Panadería San Diego",
+  "city": "Mexicali",
+  "country": "Mexico",
+  "placeId": "ChIJxQ3bg95x14AR2zk7dd89Vlw",
+  "googleName": "Panadería San Diego",
+  "formattedAddress": "Av. Rep. de Argentina 202, Hípico, 21200 Mexicali, B.C., Mexico",
+  "phone": "686 565 6599",
+  "internationalPhone": "+52 686 565 6599",
+  "website": "http://facebook.com/PanSanDiego/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6653573529440303579",
+  "rating": 4.6,
+  "reviewCount": 1018,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.6675798,
+    -115.4476845
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-san-diego-mexicali/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:44.885Z"
+}

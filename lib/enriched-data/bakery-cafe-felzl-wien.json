@@ -1,0 +1,46 @@
+{
+  "slug": "bakery-cafe-felzl-wien",
+  "name": "Bakery Cafe Felzl",
+  "curatedName": "Bakery Cafe Felzl",
+  "city": "Wien",
+  "country": "Austria",
+  "placeId": "ChIJewoyDL0HbUcReJVPaL3dadE",
+  "googleName": "Bakery Cafe Felzl",
+  "formattedAddress": "Helferstorferstraße 2, 1010 Wien, Austria",
+  "phone": "01 5321687",
+  "internationalPhone": "+43 1 5321687",
+  "website": "http://www.felzl.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15089835832050161016",
+  "rating": 4.5,
+  "reviewCount": 678,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.21299459999999,
+    16.3639799
+  ],
+  "openingHours": [
+    "Monday: 6:45 AM – 6:30 PM",
+    "Tuesday: 6:45 AM – 6:30 PM",
+    "Wednesday: 6:45 AM – 6:30 PM",
+    "Thursday: 6:45 AM – 6:30 PM",
+    "Friday: 6:45 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-cafe-felzl-wien/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:15.935Z"
+}

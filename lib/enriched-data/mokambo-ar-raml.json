@@ -1,0 +1,32 @@
+{
+  "slug": "mokambo-ar-raml",
+  "name": "Mokambo",
+  "city": "Ar Raml",
+  "country": "Egypt",
+  "placeId": "ChIJj7HKvifF9RQRaLc48x5X4SA",
+  "googleName": "MOKAMBO Patisserie",
+  "formattedAddress": "17 Mostafa Fahmy, Fleming, El Raml 1, Alexandria Governorate 5451009, Egypt",
+  "phone": "011 59119996",
+  "website": "http://www.mokamboegypt.com/index.php?r=contact/index",
+  "googleMapsUrl": "https://maps.google.com/?cid=2369270669414807400",
+  "rating": 4.5,
+  "reviewCount": 457,
+  "coords": [
+    31.2393632,
+    29.9609394
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mokambo-ar-raml/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:01:47.735Z"
+}

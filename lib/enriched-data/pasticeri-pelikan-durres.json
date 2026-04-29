@@ -1,0 +1,32 @@
+{
+  "slug": "pasticeri-pelikan-durres",
+  "name": "Pastiçeri Pelikan",
+  "city": "Durrës",
+  "country": "Albania",
+  "placeId": "ChIJxwyOfzjaTxMR1QgwI8fb3uQ",
+  "googleName": "Pelikan",
+  "formattedAddress": "Bulevardi Dyrrah, Durrës, Albania",
+  "phone": "068 612 2522",
+  "website": "https://www.facebook.com/pasticeripeliakan/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16491860533812660437",
+  "rating": 4.4,
+  "reviewCount": 849,
+  "coords": [
+    41.317877,
+    19.4497493
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticeri-pelikan-durres/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:13:54.898Z"
+}

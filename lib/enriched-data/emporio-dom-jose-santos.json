@@ -1,0 +1,44 @@
+{
+  "slug": "emporio-dom-jose-santos",
+  "name": "Emporio Dom Jose",
+  "curatedName": "Emporio Dom Jose",
+  "city": "Santos",
+  "country": "Brazil",
+  "placeId": "ChIJsVPhsVQCzpQRDZc_F2aWSEU",
+  "googleName": "Emporio Dom Jose",
+  "formattedAddress": "R. Conselheiro Lafayette, 3 - Embaré, Santos - SP, 11040-280, Brazil",
+  "phone": "(13) 3227-0906",
+  "internationalPhone": "+55 13 3227-0906",
+  "website": "https://www.lojalocal.com/amstel/11925157000144",
+  "googleMapsUrl": "https://maps.google.com/?cid=4992405552161068813",
+  "rating": 4.4,
+  "reviewCount": 3463,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.9711511,
+    -46.3196789
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/emporio-dom-jose-santos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:39.968Z"
+}

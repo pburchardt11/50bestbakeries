@@ -1,0 +1,45 @@
+{
+  "slug": "der-zucker-backer-tshwane",
+  "name": "Der Zucker Backer",
+  "curatedName": "Der Zucker Backer",
+  "city": "Tshwane",
+  "country": "South Africa",
+  "placeId": "ChIJAW_k-LhglR4RGymraC3q8QQ",
+  "googleName": "Der Zucker Backer",
+  "formattedAddress": "Menlyn Retail Park Corner Garsfontein Rd, Lois Ave, &, Pretoria, 0063, South Africa",
+  "phone": "074 052 6850",
+  "internationalPhone": "+27 74 052 6850",
+  "website": "https://www.derzuckerbacker.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=356323326289455387",
+  "rating": 4,
+  "reviewCount": 1344,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.7870036,
+    28.2773975
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:30 PM",
+    "Tuesday: 7:00 AM – 5:30 PM",
+    "Wednesday: 7:00 AM – 5:30 PM",
+    "Thursday: 7:00 AM – 5:30 PM",
+    "Friday: 7:00 AM – 5:30 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/der-zucker-backer-tshwane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:56:10.377Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "baking-story-cuauhtemoc",
+  "name": "Baking Story",
+  "curatedName": "Baking Story",
+  "city": "Cuauhtémoc",
+  "country": "Mexico",
+  "placeId": "ChIJW6jXOQD_0YURgAD76Nzjp2U",
+  "googleName": "Baking Story",
+  "formattedAddress": "Praga 58, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+  "phone": "55 2305 9227",
+  "internationalPhone": "+52 55 2305 9227",
+  "website": "http://www.instagram.com/bakingstory.mx",
+  "googleMapsUrl": "https://maps.google.com/?cid=7325073856882475136",
+  "rating": 4.5,
+  "reviewCount": 549,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4228727,
+    -99.168633
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baking-story-cuauhtemoc/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:21.983Z"
+}

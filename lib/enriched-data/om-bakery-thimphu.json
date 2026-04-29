@@ -1,0 +1,32 @@
+{
+  "slug": "om-bakery-thimphu",
+  "name": "Om Bakery",
+  "city": "Thimphu",
+  "country": "Bhutan",
+  "placeId": "ChIJF2LPExSU4TkRFh4s9-1E-_o",
+  "googleName": "Om Bakery",
+  "formattedAddress": "FJFQ+QXJ, Thimphu, Bhutan",
+  "phone": "17 58 44 01",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18085124517481160214",
+  "rating": 3.7,
+  "reviewCount": 30,
+  "coords": [
+    27.4744681,
+    89.63989699999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/om-bakery-thimphu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:10:09.963Z"
+}

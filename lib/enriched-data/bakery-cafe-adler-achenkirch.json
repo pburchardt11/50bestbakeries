@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-cafe-adler-achenkirch",
+  "name": "Bakery Cafe Adler",
+  "city": "Achenkirch",
+  "country": "Austria",
+  "placeId": "ChIJQ_etU9GDnUcRaKGGxvhCpEI",
+  "googleName": "Bakery Cafe Adler",
+  "formattedAddress": "Obere Dorfstraße 372, 6215 Achenkirch, Austria",
+  "phone": "05246 6202",
+  "website": "http://www.adler-brot.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4802036738933825896",
+  "rating": 4.7,
+  "reviewCount": 354,
+  "coords": [
+    47.5261566,
+    11.7075304
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 PM, 2:30 – 6:00 PM",
+    "Tuesday: 6:00 AM – 12:00 PM, 2:30 – 6:00 PM",
+    "Wednesday: 6:00 AM – 12:00 PM",
+    "Thursday: 6:00 AM – 12:00 PM, 2:30 – 6:00 PM",
+    "Friday: 6:00 AM – 12:00 PM, 2:30 – 6:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-cafe-adler-achenkirch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:30:40.999Z"
+}

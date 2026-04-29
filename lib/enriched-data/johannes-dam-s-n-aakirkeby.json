@@ -1,0 +1,32 @@
+{
+  "slug": "johannes-dam-s-n-aakirkeby",
+  "name": "Johannes Dam & Søn",
+  "city": "Aakirkeby",
+  "country": "Denmark",
+  "placeId": "ChIJ_1akC0kSVUYRLhLWVaByY10",
+  "googleName": "Johannes Dam & Søn",
+  "formattedAddress": "Østergade 1, 3720 Aakirkeby, Denmark",
+  "phone": "56 97 42 00",
+  "website": "http://bagerdam.dk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6729348301182079534",
+  "rating": 4.5,
+  "reviewCount": 190,
+  "coords": [
+    55.0703288,
+    14.9234686
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:30 PM",
+    "Tuesday: 6:00 AM – 5:30 PM",
+    "Wednesday: 6:00 AM – 5:30 PM",
+    "Thursday: 6:00 AM – 5:30 PM",
+    "Friday: 6:00 AM – 5:30 PM",
+    "Saturday: 6:30 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/johannes-dam-s-n-aakirkeby/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:55:52.426Z"
+}

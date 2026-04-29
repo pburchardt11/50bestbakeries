@@ -1,0 +1,44 @@
+{
+  "slug": "croissantier-kuching",
+  "name": "Croissantier",
+  "curatedName": "Croissantier",
+  "city": "Kuching",
+  "country": "Malaysia",
+  "placeId": "ChIJS1OMcACn-zERodBG7FaX9ik",
+  "googleName": "Croissantier",
+  "formattedAddress": "Ground Floor, Lot 2, Block B1, Jalan Saradise, 93350 Kuching, Sarawak, Malaysia",
+  "phone": "016-364 3519",
+  "internationalPhone": "+60 16-364 3519",
+  "website": "https://www.facebook.com/CroissantierOfficial",
+  "googleMapsUrl": "https://maps.google.com/?cid=3023770599412912289",
+  "rating": 4.9,
+  "reviewCount": 479,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.5052416,
+    110.358238
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:30 PM",
+    "Tuesday: 8:30 AM – 6:30 PM",
+    "Wednesday: 8:30 AM – 6:30 PM",
+    "Thursday: 8:30 AM – 6:30 PM",
+    "Friday: 8:30 AM – 6:30 PM",
+    "Saturday: 8:30 AM – 6:30 PM",
+    "Sunday: 8:30 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/croissantier-kuching/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:49.384Z"
+}

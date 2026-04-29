@@ -1,0 +1,32 @@
+{
+  "slug": "jessica-s-dream-bakery-belize-city",
+  "name": "Jessica's Dream Bakery",
+  "city": "Belize City",
+  "country": "Belize",
+  "placeId": "ChIJi_ds0l5ZXI8Rk9cTZsW1fBE",
+  "googleName": "Room 4 Dessert",
+  "formattedAddress": "270 Philip Goldson Hwy, Belize City, Belize",
+  "phone": "621-2021",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1260081855182657427",
+  "rating": 5,
+  "reviewCount": 18,
+  "coords": [
+    17.5142491,
+    -88.2228092
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 5:30 PM",
+    "Wednesday: 10:00 AM – 5:30 PM",
+    "Thursday: 10:00 AM – 5:30 PM",
+    "Friday: 10:00 AM – 5:30 PM",
+    "Saturday: 10:00 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jessica-s-dream-bakery-belize-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:05:55.083Z"
+}

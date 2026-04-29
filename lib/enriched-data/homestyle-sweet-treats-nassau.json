@@ -1,0 +1,32 @@
+{
+  "slug": "homestyle-sweet-treats-nassau",
+  "name": "homestyle_sweet_treats",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJl3rzIwB9L4kRP-xlSiTmtIg",
+  "googleName": "I C Sweet Treats",
+  "formattedAddress": "Nassau, The Bahamas",
+  "phone": "(242) 394-8342",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9850751328507522111",
+  "rating": 4.5,
+  "reviewCount": 11,
+  "coords": [
+    25.0430645,
+    -77.3174915
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 8:00 PM",
+    "Tuesday: 11:00 AM – 8:00 PM",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: 3:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/homestyle-sweet-treats-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:41:24.703Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "house-of-cakes-ahmedabad",
+  "name": "House of cakes",
+  "curatedName": "House of cakes",
+  "city": "Ahmedabad",
+  "country": "India",
+  "placeId": "ChIJqyx7g1aEXjkRuaWOE6JmzWQ",
+  "googleName": "House of cakes",
+  "formattedAddress": "Shop No. 6, Shanti Dayal Apartment, Near H.B. Kapadia School, Gurukul Rd, Memnagar, Ahmedabad, Gujarat 380052, India",
+  "phone": "099240 28787",
+  "internationalPhone": "+91 99240 28787",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7263574620317328825",
+  "rating": 4.9,
+  "reviewCount": 674,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.0580642,
+    72.5331257
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 9:30 PM",
+    "Tuesday: 9:30 AM – 9:30 PM",
+    "Wednesday: 9:30 AM – 9:30 PM",
+    "Thursday: 9:30 AM – 9:30 PM",
+    "Friday: 9:30 AM – 9:30 PM",
+    "Saturday: 9:30 AM – 9:30 PM",
+    "Sunday: 9:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/house-of-cakes-ahmedabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:45.632Z"
+}

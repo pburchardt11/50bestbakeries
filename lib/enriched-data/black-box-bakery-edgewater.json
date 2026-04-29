@@ -1,0 +1,43 @@
+{
+  "slug": "black-box-bakery-edgewater",
+  "name": "Black Box Bakery",
+  "curatedName": "Black Box Bakery",
+  "city": "Edgewater",
+  "country": "United States",
+  "placeId": "ChIJAQBAntB4bIcRNdBR1iiClnQ",
+  "googleName": "Black Box Bakery",
+  "formattedAddress": "5505 W 20th Ave, Edgewater, CO 80214, USA",
+  "phone": "(720) 213-8531",
+  "internationalPhone": "+1 720-213-8531",
+  "website": "https://www.blackboxbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8401045266812227637",
+  "rating": 4.8,
+  "reviewCount": 580,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.74895040000001,
+    -105.0574711
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 1:00 PM",
+    "Tuesday: 8:00 AM – 1:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/black-box-bakery-edgewater/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:11:40.602Z"
+}

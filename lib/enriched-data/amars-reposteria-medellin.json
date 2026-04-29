@@ -1,0 +1,43 @@
+{
+  "slug": "amars-reposteria-medellin",
+  "name": "Amars Reposteria",
+  "curatedName": "Amars Reposteria",
+  "city": "Medellín",
+  "country": "Colombia",
+  "placeId": "ChIJK2CsmZApRI4Rxt53a9xRIJs",
+  "googleName": "AMARS REPOSTERIA",
+  "formattedAddress": "Av. 33 #81a-41, Laureles - Estadio, Medellín, Laureles, Medellín, Antioquia, Colombia",
+  "phone": "320 7666728",
+  "internationalPhone": "+57 320 7666728",
+  "website": "https://amarsreposteria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11178024282271243974",
+  "rating": 4.7,
+  "reviewCount": 2169,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    6.2385103,
+    -75.6044747
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amars-reposteria-medellin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:13.136Z"
+}

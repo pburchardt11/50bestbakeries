@@ -1,0 +1,44 @@
+{
+  "slug": "evin-unlu-mamulleri-fatih",
+  "name": "Evin Unlu Mamulleri",
+  "curatedName": "Evin Unlu Mamulleri",
+  "city": "Fatih",
+  "country": "Türkiye",
+  "placeId": "ChIJU1SH9pm5yhQR-vDWmkORzwo",
+  "googleName": "Evin Unlu Mamulleri",
+  "formattedAddress": "Küçük Ayasofya, Kadırga Limanı Cd. No:82, 34122 Fatih/İstanbul, Türkiye",
+  "phone": "(0212) 516 24 64",
+  "internationalPhone": "+90 212 516 24 64",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=779000980104999162",
+  "rating": 4.8,
+  "reviewCount": 3908,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.00505829999999,
+    28.9701657
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/evin-unlu-mamulleri-fatih/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:11.446Z"
+}

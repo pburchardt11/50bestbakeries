@@ -1,0 +1,43 @@
+{
+  "slug": "panificadora-perola-franca",
+  "name": "Panificadora Pérola",
+  "curatedName": "Panificadora Pérola",
+  "city": "Franca",
+  "country": "Brazil",
+  "placeId": "ChIJK7uBiw-msJQRoMmGmNeQV_E",
+  "googleName": "Panificadora Pérola",
+  "formattedAddress": "R. Goiás, 1510 - Jardim Santo Agostinho, Franca - SP, 14401-363, Brazil",
+  "phone": "(16) 3725-9209",
+  "internationalPhone": "+55 16 3725-9209",
+  "website": "https://mechamenozap.com.br/panificadora-perola/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17390527741765798304",
+  "rating": 4.6,
+  "reviewCount": 884,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.5309026,
+    -47.3791542
+  ],
+  "openingHours": [
+    "Monday: 5:45 AM – 8:45 PM",
+    "Tuesday: 5:45 AM – 8:45 PM",
+    "Wednesday: 5:45 AM – 8:45 PM",
+    "Thursday: 5:45 AM – 8:45 PM",
+    "Friday: 5:45 AM – 8:45 PM",
+    "Saturday: 6:00 AM – 8:45 PM",
+    "Sunday: 7:00 – 11:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-perola-franca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:23:19.587Z"
+}

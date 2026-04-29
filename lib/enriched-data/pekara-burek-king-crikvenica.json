@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-burek-king-crikvenica",
+  "name": "Pekara Burek King",
+  "city": "Crikvenica",
+  "country": "Croatia",
+  "placeId": "ChIJpZuaTQJ7Y0cR7nr--uRrGV4",
+  "googleName": "Pekara Burek King",
+  "formattedAddress": "Vinodolska ul. 29, 51260, Crikvenica, Croatia",
+  "phone": "095 348 8804",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6780569345190689518",
+  "rating": 4.4,
+  "reviewCount": 25,
+  "coords": [
+    45.1755018,
+    14.693365
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-burek-king-crikvenica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:49:57.036Z"
+}

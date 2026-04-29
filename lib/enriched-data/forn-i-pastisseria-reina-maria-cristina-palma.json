@@ -1,0 +1,43 @@
+{
+  "slug": "forn-i-pastisseria-reina-maria-cristina-palma",
+  "name": "Forn i Pastisseria Reina Maria Cristina",
+  "curatedName": "Forn i Pastisseria Reina Maria Cristina",
+  "city": "Palma",
+  "country": "Spain",
+  "placeId": "ChIJx19Qu_-SlxIRYe0P31JTxic",
+  "googleName": "Forn i Pastisseria Reina Maria Cristina",
+  "formattedAddress": "Carrer de la Reina Maria Cristina, 69, Nord, 07004 Palma, Illes Balears, Spain",
+  "phone": "971 75 15 43",
+  "internationalPhone": "+34 971 75 15 43",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2866069828262686049",
+  "rating": 4.5,
+  "reviewCount": 1121,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.5820164,
+    2.6566913
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:30 PM",
+    "Tuesday: 7:00 AM – 2:30 PM",
+    "Wednesday: 7:00 AM – 2:30 PM",
+    "Thursday: 7:00 AM – 2:30 PM",
+    "Friday: 7:00 AM – 2:30 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-i-pastisseria-reina-maria-cristina-palma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:57:44.078Z"
+}

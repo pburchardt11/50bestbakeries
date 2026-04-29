@@ -1,0 +1,44 @@
+{
+  "slug": "the-firmament-bakery",
+  "name": "The Firmament Bakery",
+  "curatedName": "The Firmament Bakery",
+  "city": "台中市",
+  "country": "Taiwan",
+  "placeId": "ChIJy7xhNNskaTQRtW8KT_IIkdE",
+  "googleName": "The Firmament Bakery",
+  "formattedAddress": "No. 2號, Lane 49, Zhongshan Rd, Central District, Taichung City, Taiwan 400",
+  "phone": "0911 714 411",
+  "internationalPhone": "+886 911 714 411",
+  "website": "https://www.facebook.com/TheFirmamentBakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15100860862351175605",
+  "rating": 4.8,
+  "reviewCount": 227,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.1380621,
+    120.6825214
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 2:00 – 7:00 PM",
+    "Wednesday: 2:00 – 9:00 PM",
+    "Thursday: 2:00 – 9:00 PM",
+    "Friday: Closed",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-firmament-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:19.940Z"
+}

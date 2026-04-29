@@ -1,0 +1,44 @@
+{
+  "slug": "hangar-dos-paes-belo-horizonte",
+  "name": "Hangar dos Pães",
+  "curatedName": "Hangar dos Pães",
+  "city": "Belo Horizonte",
+  "country": "Brazil",
+  "placeId": "ChIJPZAe6hWQpgARHVZO8j1i0z4",
+  "googleName": "Hangar dos Pães",
+  "formattedAddress": "Av. Portugal, 4304 - Jardim Atlântico, Belo Horizonte - MG, 31710-400, Brazil",
+  "phone": "(31) 3566-7063",
+  "internationalPhone": "+55 31 3566-7063",
+  "website": "https://hangardospaes.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4527070068635227677",
+  "rating": 4.5,
+  "reviewCount": 11392,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.8433768,
+    -43.9616907
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Relaxed, light-filled destination with airport views offering a sweet & savory buffet.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hangar-dos-paes-belo-horizonte/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:13.073Z"
+}

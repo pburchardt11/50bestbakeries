@@ -1,0 +1,43 @@
+{
+  "slug": "nara-stein-santa-maria",
+  "name": "Nara Stein",
+  "curatedName": "Nara Stein",
+  "city": "Santa Maria",
+  "country": "Brazil",
+  "placeId": "ChIJpeTF0kDLA5URXstqJC8ODI8",
+  "googleName": "Nara Stein",
+  "formattedAddress": "R. Comissário Justo, 1332 - Centro, Santa Maria - RS, 97010-110, Brazil",
+  "phone": "(55) 3223-7945",
+  "internationalPhone": "+55 55 3223-7945",
+  "website": "http://www.narastein.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10307629242781453150",
+  "rating": 4.9,
+  "reviewCount": 397,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.6806397,
+    -53.8041449
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 12:00 PM, 1:00 – 6:30 PM",
+    "Tuesday: 8:30 AM – 12:00 PM, 1:00 – 6:30 PM",
+    "Wednesday: 8:30 AM – 12:00 PM, 1:00 – 6:30 PM",
+    "Thursday: 8:30 AM – 12:00 PM, 1:00 – 6:30 PM",
+    "Friday: 8:30 AM – 12:00 PM, 1:00 – 6:30 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nara-stein-santa-maria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:21:03.698Z"
+}

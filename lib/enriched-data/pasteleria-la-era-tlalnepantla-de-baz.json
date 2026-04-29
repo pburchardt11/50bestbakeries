@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-la-era-tlalnepantla-de-baz",
+  "name": "Pastelería La Era",
+  "curatedName": "Pastelería La Era",
+  "city": "Tlalnepantla de Baz",
+  "country": "Mexico",
+  "placeId": "ChIJ23AUZvId0oURnRrlPy5oROk",
+  "googleName": "Pastelería La Era",
+  "formattedAddress": "C. Vallarta 10, Tlalnepantla Centro, 54000 Tlalnepantla, Méx., Mexico",
+  "phone": "55 5370 0904",
+  "internationalPhone": "+52 55 5370 0904",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16808674257103297181",
+  "rating": 4.4,
+  "reviewCount": 1841,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.5364611,
+    -99.19618299999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-la-era-tlalnepantla-de-baz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:18.727Z"
+}

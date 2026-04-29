@@ -1,0 +1,44 @@
+{
+  "slug": "painea-lui-dumnezeu-bucuresti",
+  "name": "Painea Lui Dumnezeu",
+  "curatedName": "Painea Lui Dumnezeu",
+  "city": "București",
+  "country": "Romania",
+  "placeId": "ChIJe88igdcDskAR_SDeZEAN5Oo",
+  "googleName": "Painea Lui Dumnezeu",
+  "formattedAddress": "Șoseaua Gheorghe Ionescu Sisești 50, 013822 București, Romania",
+  "phone": "0722 807 040",
+  "internationalPhone": "+40 722 807 040",
+  "website": "http://painealuidumnezeu.ro/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16925667869786513661",
+  "rating": 4.7,
+  "reviewCount": 551,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.5034857,
+    26.050399
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/painea-lui-dumnezeu-bucuresti/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:54:51.317Z"
+}

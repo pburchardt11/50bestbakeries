@@ -1,0 +1,43 @@
+{
+  "slug": "zoe-padoca-artesanal-campo-grande",
+  "name": "Zoe Padoca Artesanal",
+  "curatedName": "Zoe Padoca Artesanal",
+  "city": "Campo Grande",
+  "country": "Brazil",
+  "placeId": "ChIJQztPiBnphpQR3y0RCHUds1Q",
+  "googleName": "Zoe Padoca Artesanal",
+  "formattedAddress": "Tv. José de Oliveira Lima, 31 - Jardim dos Estados, Campo Grande - MS, 79031-010, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/zoepadoca/?hl=pt-br",
+  "googleMapsUrl": "https://maps.google.com/?cid=6103254308500876767",
+  "rating": 4.7,
+  "reviewCount": 155,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.4609814,
+    -54.5946007
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zoe-padoca-artesanal-campo-grande/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:51.072Z"
+}

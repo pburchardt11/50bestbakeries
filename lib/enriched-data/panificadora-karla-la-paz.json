@@ -1,0 +1,43 @@
+{
+  "slug": "panificadora-karla-la-paz",
+  "name": "Panificadora Karla",
+  "curatedName": "Panificadora Karla",
+  "city": "La Paz",
+  "country": "Mexico",
+  "placeId": "ChIJeeH3qEHTr4YRxdGk3YaL9Qw",
+  "googleName": "Panificadora Karla",
+  "formattedAddress": "Gral Félix Ortega Aguilar 2510, Zona Central, 23000 La Paz, B.C.S., Mexico",
+  "phone": "612 122 6063",
+  "internationalPhone": "+52 612 122 6063",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=933805909109690821",
+  "rating": 4.5,
+  "reviewCount": 1339,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.1452457,
+    -110.3117784
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-karla-la-paz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:26.769Z"
+}

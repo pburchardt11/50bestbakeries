@@ -1,0 +1,43 @@
+{
+  "slug": "simonds-el-sheikh-zayed-city",
+  "name": "Simonds",
+  "curatedName": "Simonds",
+  "city": "El Sheikh Zayed City",
+  "country": "Egypt",
+  "placeId": "ChIJzeWDPABbWBQRYWqtYicWFpU",
+  "googleName": "Simonds",
+  "formattedAddress": "2 El-Zohour, First Al Sheikh Zayed, Giza Governorate 3244501, Egypt",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10742798319553964641",
+  "rating": 4.3,
+  "reviewCount": 75,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.0282778,
+    31.0005833
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simonds-el-sheikh-zayed-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:08.427Z"
+}

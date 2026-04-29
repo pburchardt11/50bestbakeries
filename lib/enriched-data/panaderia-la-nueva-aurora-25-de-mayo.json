@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-nueva-aurora-25-de-mayo",
+  "name": "Panaderia La Nueva Aurora",
+  "city": "25 de Mayo",
+  "country": "Argentina",
+  "placeId": "ChIJYf1ulFVgvpURDVAuT4a_YvI",
+  "googleName": "Panaderia la Nueva Aurora",
+  "formattedAddress": "618, CTN, C. 7, B6660 Veinticinco de Mayo, Provincia de Buenos Aires, Argentina",
+  "phone": "02345 46-5984",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17465732888471162893",
+  "rating": 4.5,
+  "reviewCount": 69,
+  "coords": [
+    -35.4343854,
+    -60.1688901
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:30 PM, 4:00 – 8:00 PM",
+    "Tuesday: 8:00 AM – 12:30 PM, 4:00 – 8:00 PM",
+    "Wednesday: 8:00 AM – 12:30 PM, 4:00 – 8:00 PM",
+    "Thursday: 8:00 AM – 12:30 PM, 4:00 – 8:00 PM",
+    "Friday: 8:00 AM – 12:30 PM, 4:00 – 8:00 PM",
+    "Saturday: 8:00 AM – 12:30 PM, 4:00 – 8:00 PM",
+    "Sunday: 8:00 AM – 12:30 PM, 4:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-nueva-aurora-25-de-mayo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:20:52.498Z"
+}

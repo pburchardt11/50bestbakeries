@@ -1,0 +1,43 @@
+{
+  "slug": "pasticceria-d-azeglio-bologna",
+  "name": "Pasticceria D'Azeglio",
+  "curatedName": "Pasticceria D'Azeglio",
+  "city": "Bologna",
+  "country": "Italy",
+  "placeId": "ChIJUz2IEOrUf0cRRwjrQjOxHqY",
+  "googleName": "Pasticceria D'Azeglio",
+  "formattedAddress": "Via d'Azeglio, 69a, 40123 Bologna BO, Italy",
+  "phone": "051 583310",
+  "internationalPhone": "+39 051 583310",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11970199693321504839",
+  "rating": 4.4,
+  "reviewCount": 1092,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.487199,
+    11.3395462
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:30 PM",
+    "Tuesday: 6:30 AM – 8:30 PM",
+    "Wednesday: 6:30 AM – 8:30 PM",
+    "Thursday: 6:30 AM – 8:30 PM",
+    "Friday: 6:30 AM – 8:30 PM",
+    "Saturday: 6:30 AM – 8:30 PM",
+    "Sunday: 6:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-d-azeglio-bologna/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:56.981Z"
+}

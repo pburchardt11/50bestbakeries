@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-el-mortero-la-plata",
+  "name": "Panadería El Mortero",
+  "curatedName": "Panadería El Mortero",
+  "city": "La Plata",
+  "country": "Argentina",
+  "placeId": "ChIJaXGfbxzmopUR2XRuhdZSbus",
+  "googleName": "Panadería El Mortero",
+  "formattedAddress": "C. 64 322, B1900 La Plata, Provincia de Buenos Aires, Argentina",
+  "phone": "0221 690-5264",
+  "internationalPhone": "+54 221 690-5264",
+  "website": "https://www.facebook.com/PanaderiaElMortero/?locale=es_ES",
+  "googleMapsUrl": "https://maps.google.com/?cid=16964587927666324697",
+  "rating": 4.4,
+  "reviewCount": 638,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.9192767,
+    -57.93120589999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-el-mortero-la-plata/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:18.195Z"
+}

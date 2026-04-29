@@ -1,0 +1,45 @@
+{
+  "slug": "trentin-mauricio-cardoso-novo-hamburgo",
+  "name": "Trentin Mauricio Cardoso",
+  "curatedName": "Trentin Mauricio Cardoso",
+  "city": "Novo Hamburgo",
+  "country": "Brazil",
+  "placeId": "ChIJHUMU57dDGZURC2E-BuUm0B4",
+  "googleName": "Trentin Mauricio Cardoso",
+  "formattedAddress": "Av. Dr. Maurício Cardoso, 954 - Centro, Novo Hamburgo - RS, 93510-250, Brazil",
+  "phone": "(51) 3594-6901",
+  "internationalPhone": "+55 51 3594-6901",
+  "website": "http://www.trentinmauriciocardoso.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2220317381387772171",
+  "rating": 4.4,
+  "reviewCount": 2163,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.6804495,
+    -51.1171245
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 12:00 PM, 3:00 – 8:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM, 3:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/trentin-mauricio-cardoso-novo-hamburgo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:44.505Z"
+}

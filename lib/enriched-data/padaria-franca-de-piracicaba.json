@@ -1,0 +1,46 @@
+{
+  "slug": "padaria-franca-de-piracicaba",
+  "name": "Padaria França de Piracicaba",
+  "curatedName": "Padaria França de Piracicaba",
+  "city": "Piracicaba",
+  "country": "Brazil",
+  "placeId": "ChIJa87PTUIxxpQR917fBJtAB7g",
+  "googleName": "Padaria França de Piracicaba",
+  "formattedAddress": "R. Manoel Ferraz de Arruda Campos, 675 - Alto, Piracicaba - SP, 13419-140, Brazil",
+  "phone": "(19) 3433-5786",
+  "internationalPhone": "+55 19 3433-5786",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13260638662361571063",
+  "rating": 4.7,
+  "reviewCount": 700,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.7275225,
+    -47.6380023
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 2:30 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-franca-de-piracicaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:32.358Z"
+}

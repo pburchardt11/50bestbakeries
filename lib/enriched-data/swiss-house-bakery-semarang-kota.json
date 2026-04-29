@@ -1,0 +1,43 @@
+{
+  "slug": "swiss-house-bakery-semarang-kota",
+  "name": "Swiss House Bakery",
+  "curatedName": "Swiss House Bakery",
+  "city": "Semarang Kota",
+  "country": "Indonesia",
+  "placeId": "ChIJMWA8eZuMcC4RoaByloXpEY4",
+  "googleName": "Swiss House Bakery",
+  "formattedAddress": "Ruko Mataram Plaza, Jl. MT. Haryono Blok A No. 10, Jagalan, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50135, Indonesia",
+  "phone": "(024) 3546546",
+  "internationalPhone": "+62 24 3546546",
+  "website": "http://swisshousebakery.co.id/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10237220187953864865",
+  "rating": 4.6,
+  "reviewCount": 1318,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.984166699999999,
+    110.4313889
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/swiss-house-bakery-semarang-kota/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:49.512Z"
+}

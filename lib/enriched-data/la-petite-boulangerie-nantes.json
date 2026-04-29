@@ -1,0 +1,43 @@
+{
+  "slug": "la-petite-boulangerie-nantes",
+  "name": "La Petite Boulangerie",
+  "curatedName": "La Petite Boulangerie",
+  "city": "Nantes",
+  "country": "France",
+  "placeId": "ChIJC6QbgpzuBUgRR1dQUSfCYlk",
+  "googleName": "La Petite Boulangerie",
+  "formattedAddress": "1 Pl. St Félix, 44000 Nantes, France",
+  "phone": "02 40 74 36 38",
+  "internationalPhone": "+33 2 40 74 36 38",
+  "website": "http://www.lapetiteboulangerie.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6440923891216963399",
+  "rating": 4.7,
+  "reviewCount": 1118,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.2309089,
+    -1.5557658
+  ],
+  "openingHours": [
+    "Monday: 6:45 AM – 7:30 PM",
+    "Tuesday: 6:45 AM – 7:30 PM",
+    "Wednesday: Closed",
+    "Thursday: 6:45 AM – 7:30 PM",
+    "Friday: 6:45 AM – 7:30 PM",
+    "Saturday: 6:45 AM – 6:30 PM",
+    "Sunday: 6:45 AM – 1:00 PM"
+  ],
+  "editorialSummary": "Bakery serving up baguettes & loaves of bread, plus pastries, cakes & sandwiches to take away.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-petite-boulangerie-nantes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:12.307Z"
+}

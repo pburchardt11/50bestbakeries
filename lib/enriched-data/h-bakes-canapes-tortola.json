@@ -1,0 +1,32 @@
+{
+  "slug": "h-bakes-canapes-tortola",
+  "name": "H Bakes & Canapes",
+  "city": "Tortola",
+  "country": "British Virgin Islands",
+  "placeId": "ChIJoa4hmZNzBYwRCcxz8meRdIM",
+  "googleName": "H Bakes & Canapes",
+  "formattedAddress": "Sabbath Hill Drive, VG1110, British Virgin Islands",
+  "phone": "(284) 543-6445",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9472355791902329865",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    18.431289,
+    -64.5945535
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/h-bakes-canapes-tortola/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:19:47.489Z"
+}

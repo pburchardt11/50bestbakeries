@@ -1,0 +1,43 @@
+{
+  "slug": "boutique-do-pao-de-lo-joinville-sc-joinville",
+  "name": "Boutique do Pão de Ló Joinville-SC",
+  "curatedName": "Boutique do Pão de Ló Joinville-SC",
+  "city": "Joinville",
+  "country": "Brazil",
+  "placeId": "ChIJ2ck7Usux3pQR4bGewXaaU5Q",
+  "googleName": "Boutique do Pão de Ló Joinville-SC",
+  "formattedAddress": "R. Max Colin, 1932 - América, Joinville - SC, 89204-635, Brazil",
+  "phone": "(47) 99186-7796",
+  "internationalPhone": "+55 47 99186-7796",
+  "website": "https://www.boutiquedopaodelo.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10688056175525540321",
+  "rating": 4.8,
+  "reviewCount": 443,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.2937754,
+    -48.861458
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 8:00 PM",
+    "Tuesday: 12:00 – 8:00 PM",
+    "Wednesday: 12:00 – 8:00 PM",
+    "Thursday: 12:00 – 8:00 PM",
+    "Friday: 12:00 – 8:00 PM",
+    "Saturday: 12:00 – 8:00 PM",
+    "Sunday: 2:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boutique-do-pao-de-lo-joinville-sc-joinville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:38.786Z"
+}

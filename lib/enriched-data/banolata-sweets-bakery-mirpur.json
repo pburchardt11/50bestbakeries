@@ -1,0 +1,32 @@
+{
+  "slug": "banolata-sweets-bakery-mirpur",
+  "name": "Banolata Sweets & Bakery",
+  "city": "Mirpur",
+  "country": "Bangladesh",
+  "placeId": "ChIJv5FEZCXBVTcRKp5ULYfFCcU",
+  "googleName": "Banolata Sweets and Bakery",
+  "formattedAddress": "Begum Rokeya Ave, Dhaka 1216, Bangladesh",
+  "phone": "01714-358410",
+  "website": "http://banolatasweets.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14198096484633976362",
+  "rating": 4.2,
+  "reviewCount": 304,
+  "coords": [
+    23.8204172,
+    90.3650996
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banolata-sweets-bakery-mirpur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:52:17.709Z"
+}

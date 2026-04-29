@@ -1,0 +1,43 @@
+{
+  "slug": "panne-s-campeche",
+  "name": "Panne's",
+  "curatedName": "Panne's",
+  "city": "Campeche",
+  "country": "Mexico",
+  "placeId": "ChIJS3J1HPoz-IURac4DR-oP2lk",
+  "googleName": "Panne’s",
+  "formattedAddress": "8 y Calle, C. 49 10, Zona Centro, 24000 San Francisco de Campeche, Camp., Mexico",
+  "phone": "981 199 9784",
+  "internationalPhone": "+52 981 199 9784",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6474504913186705001",
+  "rating": 4.5,
+  "reviewCount": 81,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.84708,
+    -90.5343449
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panne-s-campeche/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:31.684Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "my-bakery",
+  "name": "My Bakery",
+  "city": "الرفاع الغربي",
+  "country": "Bahrain",
+  "placeId": "ChIJnUzpcsmtST4RiXscWRoPfko",
+  "googleName": "My Bakery",
+  "formattedAddress": "West Riffa, Block 912, Road 1223, Villa 851, West Riffa, Bahrain",
+  "phone": "1765 0411",
+  "website": "http://www.mybakery.com.bh/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5367744411710815113",
+  "rating": 4.3,
+  "reviewCount": 81,
+  "coords": [
+    26.1302356,
+    50.5485403
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/my-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:47:20.743Z"
+}

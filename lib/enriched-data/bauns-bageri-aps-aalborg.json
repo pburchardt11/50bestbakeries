@@ -1,0 +1,32 @@
+{
+  "slug": "bauns-bageri-aps-aalborg",
+  "name": "Bauns Bageri ApS",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJB5Iv11cySUYRexLjqemHsEE",
+  "googleName": "Baun's Bakery v. / Lars Baun Nielsen",
+  "formattedAddress": "Vestre Alle 28, 9000 Aalborg, Denmark",
+  "phone": "98 12 61 35",
+  "website": "http://baunsbageri.dk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4733432646013751931",
+  "rating": 4.5,
+  "reviewCount": 314,
+  "coords": [
+    57.0349798,
+    9.9039614
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 4:30 PM",
+    "Wednesday: 6:00 AM – 4:30 PM",
+    "Thursday: 6:00 AM – 4:30 PM",
+    "Friday: 6:00 AM – 4:30 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: 6:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bauns-bageri-aps-aalborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:44.282Z"
+}

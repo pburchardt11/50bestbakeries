@@ -1,0 +1,43 @@
+{
+  "slug": "feeling-good-bakery-nantes",
+  "name": "Feeling Good Bakery",
+  "curatedName": "Feeling Good Bakery",
+  "city": "Nantes",
+  "country": "France",
+  "placeId": "ChIJM_dv_IHvBUgRz1JWDHmfOJM",
+  "googleName": "Feeling Good Bakery",
+  "formattedAddress": "1 Rue de la Marne, 44000 Nantes, France",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.feelinggoodbakery.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10608404264518046415",
+  "rating": 4.8,
+  "reviewCount": 688,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.2159458,
+    -1.5534185
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 1:00 – 7:00 PM",
+    "Wednesday: 1:00 – 7:00 PM",
+    "Thursday: 1:00 – 7:00 PM",
+    "Friday: 1:00 – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/feeling-good-bakery-nantes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:16.970Z"
+}

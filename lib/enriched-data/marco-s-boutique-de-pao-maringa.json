@@ -1,0 +1,45 @@
+{
+  "slug": "marco-s-boutique-de-pao-maringa",
+  "name": "Marco's Boutique de Pão",
+  "curatedName": "Marco's Boutique de Pão",
+  "city": "Maringá",
+  "country": "Brazil",
+  "placeId": "ChIJxYyZQCzX7JQR7ldSEt752pQ",
+  "googleName": "Marco's Boutique de Pão",
+  "formattedAddress": "Av. XV de Novembro, 803 - loja 1 - Zona 01, Maringá - PR, 87013-230, Brazil",
+  "phone": "(44) 3226-2244",
+  "internationalPhone": "+55 44 3226-2244",
+  "website": "https://www.marcosboutiquedepao.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10726160194721699822",
+  "rating": 4.3,
+  "reviewCount": 1798,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.4238817,
+    -51.9403466
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marco-s-boutique-de-pao-maringa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:17.471Z"
+}

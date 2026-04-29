@@ -1,0 +1,43 @@
+{
+  "slug": "le-bordeaux-quan-ngu-hanh-son",
+  "name": "Le Bordeaux",
+  "curatedName": "Le Bordeaux",
+  "city": "Quận Ngũ Hành Sơn",
+  "country": "Vietnam",
+  "placeId": "ChIJhzKJJjIYQjERjLA5ro4m1dI",
+  "googleName": "Le Bordeaux",
+  "formattedAddress": "18 Mỹ Đa Đông 12, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+  "phone": "0902 135 210",
+  "internationalPhone": "+84 902 135 210",
+  "website": "http://lebordeauxbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15192091312254464140",
+  "rating": 4.5,
+  "reviewCount": 746,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    16.0455459,
+    108.2468842
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-bordeaux-quan-ngu-hanh-son/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:19:27.491Z"
+}

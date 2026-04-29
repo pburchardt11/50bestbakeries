@@ -1,0 +1,46 @@
+{
+  "slug": "sponge-colombo",
+  "name": "Sponge",
+  "curatedName": "Sponge",
+  "city": "Colombo",
+  "country": "Sri Lanka",
+  "placeId": "ChIJiycCyW5Z4joRPUMM8ENB9vY",
+  "googleName": "Sponge",
+  "formattedAddress": "347 Galle Rd, Colombo 00300, Sri Lanka",
+  "phone": "0112 573 321",
+  "internationalPhone": "+94 112 573 321",
+  "website": "https://www.sponge.lk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17795482737647043389",
+  "rating": 4.2,
+  "reviewCount": 1446,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    6.905242599999999,
+    79.85181140000002
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sponge-colombo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:50.037Z"
+}

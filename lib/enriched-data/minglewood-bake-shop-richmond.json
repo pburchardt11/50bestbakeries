@@ -1,0 +1,43 @@
+{
+  "slug": "minglewood-bake-shop-richmond",
+  "name": "Minglewood Bake Shop",
+  "curatedName": "Minglewood Bake Shop",
+  "city": "Richmond",
+  "country": "United States",
+  "placeId": "ChIJ29drjAMTsYkRDM-cnue0PJw",
+  "googleName": "Minglewood Bake Shop",
+  "formattedAddress": "3337 W Cary St, Richmond, VA 23221, USA",
+  "phone": "(804) 206-3181",
+  "internationalPhone": "+1 804-206-3181",
+  "website": "https://www.minglewoodbakeshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11258072075410919180",
+  "rating": 4.7,
+  "reviewCount": 410,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.554175,
+    -77.48424229999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/minglewood-bake-shop-richmond/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:13:13.259Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "las-crepes-de-montana-acacias",
+  "name": "Las Crepes De Montaña",
+  "city": "Acacías",
+  "country": "Colombia",
+  "placeId": "ChIJ1937zFI5Po4ROyZHnuhQSS8",
+  "googleName": "Las Crepes De Montaña",
+  "formattedAddress": "Cl. 14, Acacías, Meta, Colombia",
+  "phone": "320 2835724",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3407343553100588603",
+  "rating": 4.6,
+  "reviewCount": 20,
+  "coords": [
+    3.9874748,
+    -73.75791679999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/las-crepes-de-montana-acacias/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:45:18.098Z"
+}

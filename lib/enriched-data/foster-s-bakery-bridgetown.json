@@ -1,0 +1,32 @@
+{
+  "slug": "foster-s-bakery-bridgetown",
+  "name": "Foster's Bakery",
+  "city": "Bridgetown",
+  "country": "Barbados",
+  "placeId": "ChIJ3YAFcF_2Q4wRCJn8q-RhxBc",
+  "googleName": "Fosters Bakery",
+  "formattedAddress": "Rockley New Road, Bridgetown, Christ Church BB15126Barbados",
+  "phone": "(246) 426-4581",
+  "website": "http://www.fostersbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1712601393073527048",
+  "rating": 4.5,
+  "reviewCount": 192,
+  "coords": [
+    13.0808728,
+    -59.5911879
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:30 PM",
+    "Tuesday: 8:00 AM – 4:30 PM",
+    "Wednesday: 8:00 AM – 4:30 PM",
+    "Thursday: 8:00 AM – 4:30 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/foster-s-bakery-bridgetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:53:48.243Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "brotgarten-la-reposteria-alemana-san-luis-potosi",
+  "name": "Brotgarten la Repostería Alemana",
+  "curatedName": "Brotgarten la Repostería Alemana",
+  "city": "San Luis Potosí",
+  "country": "Mexico",
+  "placeId": "ChIJF6pR5UyfKoQRiBHqZ4jD-1E",
+  "googleName": "Brotgarten la Repostería Alemana",
+  "formattedAddress": "Av. Nicolas Zapata 815, Tequis, De Tequisquiapan, 78250 San Luis Potosí, S.L.P., Mexico",
+  "phone": "444 833 7273",
+  "internationalPhone": "+52 444 833 7273",
+  "website": "http://www.brotgarten.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5907530326852899208",
+  "rating": 4.6,
+  "reviewCount": 2359,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.1537902,
+    -100.9956366
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brotgarten-la-reposteria-alemana-san-luis-potosi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:40.666Z"
+}

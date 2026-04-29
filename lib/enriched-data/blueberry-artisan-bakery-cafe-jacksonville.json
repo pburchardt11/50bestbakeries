@@ -1,0 +1,45 @@
+{
+  "slug": "blueberry-artisan-bakery-cafe-jacksonville",
+  "name": "Blueberry Artisan Bakery & Cafe",
+  "curatedName": "Blueberry Artisan Bakery & Cafe",
+  "city": "Jacksonville",
+  "country": "United States",
+  "placeId": "ChIJAV6wrGe35YgRvTGjphynJmo",
+  "googleName": "Blueberry Artisan Bakery & Cafe",
+  "formattedAddress": "3247 Beach Blvd, Jacksonville, FL 32207, USA",
+  "phone": "(904) 367-2957",
+  "internationalPhone": "+1 904-367-2957",
+  "website": "http://www.theblueberrybakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7648984758632001981",
+  "rating": 4.7,
+  "reviewCount": 184,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.3043766,
+    -81.6315716
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 3:00 PM",
+    "Tuesday: 6:30 AM – 3:00 PM",
+    "Wednesday: 6:30 AM – 3:00 PM",
+    "Thursday: 6:30 AM – 3:00 PM",
+    "Friday: 6:30 AM – 3:00 PM",
+    "Saturday: 6:30 AM – 3:00 PM",
+    "Sunday: 6:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blueberry-artisan-bakery-cafe-jacksonville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:12:15.528Z"
+}

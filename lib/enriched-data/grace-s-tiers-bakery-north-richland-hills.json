@@ -1,0 +1,43 @@
+{
+  "slug": "grace-s-tiers-bakery-north-richland-hills",
+  "name": "Grace's Tiers Bakery",
+  "curatedName": "Grace's Tiers Bakery",
+  "city": "North Richland Hills",
+  "country": "United States",
+  "placeId": "ChIJ215u0-ebbwQRZD0wc-HGJ4U",
+  "googleName": "Grace's Tiers Bakery",
+  "formattedAddress": "7901 Mid Cities Blvd Ste 212, North Richland Hills, TX 76182, USA",
+  "phone": "(817) 479-3037",
+  "internationalPhone": "+1 817-479-3037",
+  "website": "http://gracestiersbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9594856202738613604",
+  "rating": 4.9,
+  "reviewCount": 867,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.8622763,
+    -97.2109426
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 5:00 PM",
+    "Tuesday: 12:00 – 5:00 PM",
+    "Wednesday: 12:00 – 5:00 PM",
+    "Thursday: 12:00 – 5:00 PM",
+    "Friday: 12:00 – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grace-s-tiers-bakery-north-richland-hills/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:15:25.455Z"
+}

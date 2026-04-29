@@ -1,0 +1,43 @@
+{
+  "slug": "aux-merveilleux-de-fred-paris",
+  "name": "Aux Merveilleux de Fred",
+  "curatedName": "Aux Merveilleux de Fred",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJT0LXWf1x5kcRCPB7xXgUpdw",
+  "googleName": "Aux Merveilleux de Fred",
+  "formattedAddress": "24 Rue du Pont Louis-Philippe, 75004 Paris, France",
+  "phone": "01 57 40 98 43",
+  "internationalPhone": "+33 1 57 40 98 43",
+  "website": "https://www.auxmerveilleux.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15899136568443269128",
+  "rating": 4.6,
+  "reviewCount": 1924,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8557109,
+    2.3564149
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aux-merveilleux-de-fred-paris/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:11.579Z"
+}

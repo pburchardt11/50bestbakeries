@@ -1,0 +1,32 @@
+{
+  "slug": "fanani-s",
+  "name": "Fanani’s",
+  "city": "Бургас",
+  "country": "Bulgaria",
+  "placeId": "ChIJ5c62F2qVpkARGh8bYIed9mY",
+  "googleName": "Fanani’s Веган Сладкарница",
+  "formattedAddress": "Burgas Center, ul. \"Sofroniy\" 23, 8000 Burgas, Bulgaria",
+  "phone": "088 866 6762",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7419290640898006810",
+  "rating": 5,
+  "reviewCount": 111,
+  "coords": [
+    42.4939743,
+    27.4796823
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:30 AM – 6:00 PM",
+    "Wednesday: 11:30 AM – 6:00 PM",
+    "Thursday: 11:30 AM – 6:00 PM",
+    "Friday: 11:30 AM – 6:00 PM",
+    "Saturday: 11:30 AM – 6:00 PM",
+    "Sunday: 11:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fanani-s/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:25:23.779Z"
+}

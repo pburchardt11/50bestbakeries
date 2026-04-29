@@ -1,0 +1,43 @@
+{
+  "slug": "el-damasquino-zaragoza",
+  "name": "El Damasquino",
+  "curatedName": "El Damasquino",
+  "city": "Zaragoza",
+  "country": "Spain",
+  "placeId": "ChIJNzAcm-QVWQ0Rk0c313gMZ9k",
+  "googleName": "El Damasquino",
+  "formattedAddress": "C. de San Vicente Mártir, 26, 50008 Zaragoza, Spain",
+  "phone": "876 65 27 87",
+  "internationalPhone": "+34 876 65 27 87",
+  "website": "https://pasteleriaeldamasquino.es/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15665503541977892755",
+  "rating": 4.9,
+  "reviewCount": 333,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.6450604,
+    -0.8805103
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:30 PM",
+    "Tuesday: 8:00 AM – 9:30 PM",
+    "Wednesday: 8:00 AM – 9:30 PM",
+    "Thursday: 8:00 AM – 9:30 PM",
+    "Friday: 8:00 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: 8:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-damasquino-zaragoza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:57:51.103Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "panificadora-e-confeitaria-belle-pane-ponta-grossa",
+  "name": "Panificadora e Confeitaria Belle Pane",
+  "curatedName": "Panificadora e Confeitaria Belle Pane",
+  "city": "Ponta Grossa",
+  "country": "Brazil",
+  "placeId": "ChIJpRbB72Ya6JQRuhURG3z98bI",
+  "googleName": "Panificadora e Confeitaria Belle Pane",
+  "formattedAddress": "Rua Doutor Joaquim de Paula Xavier, 689 - Estrela, Ponta Grossa - PR, 84050-000, Brazil",
+  "phone": "(42) 3223-8664",
+  "internationalPhone": "+55 42 3223-8664",
+  "website": "http://www.bellepane.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12894365917610317242",
+  "rating": 4.5,
+  "reviewCount": 953,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.1066518,
+    -50.16587
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:15 PM",
+    "Tuesday: 6:30 AM – 8:15 PM",
+    "Wednesday: 6:30 AM – 8:15 PM",
+    "Thursday: 6:30 AM – 8:15 PM",
+    "Friday: 6:30 AM – 8:15 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-e-confeitaria-belle-pane-ponta-grossa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:21:01.447Z"
+}

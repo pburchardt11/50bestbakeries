@@ -1,0 +1,45 @@
+{
+  "slug": "sere-paes-artesanais-e-cafeteria-sao-luis",
+  "name": "Seré Pães Artesanais e Cafeteria",
+  "curatedName": "Seré Pães Artesanais e Cafeteria",
+  "city": "São Luís",
+  "country": "Brazil",
+  "placeId": "ChIJBRuyofyT9gcRlbGbkKfdzKY",
+  "googleName": "Seré Pães Artesanais e Cafeteria",
+  "formattedAddress": "R. dos Gaviões, 14 - Quadra 16 - Ponta D'areia, São Luís - MA, 65075-020, Brazil",
+  "phone": "(98) 98421-3199",
+  "internationalPhone": "+55 98 98421-3199",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12019225217300410773",
+  "rating": 4.5,
+  "reviewCount": 119,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -2.4924874,
+    -44.297925
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 2:00 – 8:00 PM",
+    "Wednesday: 2:00 – 8:00 PM",
+    "Thursday: 2:00 – 8:00 PM",
+    "Friday: 2:00 – 8:00 PM",
+    "Saturday: 9:00 AM – 12:00 PM, 2:00 – 7:00 PM",
+    "Sunday: 8:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sere-paes-artesanais-e-cafeteria-sao-luis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:18.503Z"
+}

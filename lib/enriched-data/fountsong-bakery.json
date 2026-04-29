@@ -1,0 +1,43 @@
+{
+  "slug": "fountsong-bakery",
+  "name": "FountSong Bakery",
+  "curatedName": "FountSong Bakery",
+  "city": "台南市",
+  "country": "Taiwan",
+  "placeId": "ChIJKffFtMx3bjQR0-RqD1FQrzI",
+  "googleName": "FountSong Bakery 灃頌 台南",
+  "formattedAddress": "No. 206號, Section 3, Minzu Rd, West Central District, Tainan City, Taiwan 700",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://vocus.cc/salon/fountsong",
+  "googleMapsUrl": "https://maps.google.com/?cid=3652226131901998291",
+  "rating": 4.5,
+  "reviewCount": 194,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.9995906,
+    120.1942371
+  ],
+  "openingHours": [
+    "Monday: 12:30 – 7:00 PM",
+    "Tuesday: 12:30 – 7:00 PM",
+    "Wednesday: 12:30 – 7:00 PM",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 12:30 – 7:00 PM",
+    "Sunday: 12:30 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fountsong-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:17.423Z"
+}

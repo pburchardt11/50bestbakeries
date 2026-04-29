@@ -1,0 +1,43 @@
+{
+  "slug": "sunrise-bakers-ajmer",
+  "name": "Sunrise Bakers",
+  "curatedName": "Sunrise Bakers",
+  "city": "Ajmer",
+  "country": "India",
+  "placeId": "ChIJk--MlifnazkRU-Mkae2LxcI",
+  "googleName": "SUNRISE BAKERS",
+  "formattedAddress": "Makarwali Rd, C Block, Baldev Nagar, Ajmer, Rajasthan 305004, India",
+  "phone": "077409 66677",
+  "internationalPhone": "+91 77409 66677",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14034777665557554003",
+  "rating": 3.9,
+  "reviewCount": 9,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.4993267,
+    74.6307516
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:30 PM",
+    "Tuesday: 10:00 AM – 10:30 PM",
+    "Wednesday: 10:00 AM – 10:30 PM",
+    "Thursday: 10:00 AM – 10:30 PM",
+    "Friday: 10:00 AM – 10:30 PM",
+    "Saturday: 10:00 AM – 10:30 PM",
+    "Sunday: 10:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sunrise-bakers-ajmer/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:10.062Z"
+}

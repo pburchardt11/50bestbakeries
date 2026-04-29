@@ -1,0 +1,45 @@
+{
+  "slug": "kompaan-padaria-artesanal-florianopolis",
+  "name": "Kompaan Padaria Artesanal",
+  "curatedName": "Kompaan Padaria Artesanal",
+  "city": "Florianópolis",
+  "country": "Brazil",
+  "placeId": "ChIJAwyoOeg5J5UR1u_BELY4gWE",
+  "googleName": "Kompaan Padaria Artesanal",
+  "formattedAddress": "R. João Pio Duarte Silva, 1801 - loja 01 - Córrego Grande, Florianópolis - SC, 88037-001, Brazil",
+  "phone": "(48) 98806-4030",
+  "internationalPhone": "+55 48 98806-4030",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7025959248291033046",
+  "rating": 4.9,
+  "reviewCount": 298,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.6005239,
+    -48.5004095
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kompaan-padaria-artesanal-florianopolis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:41:01.834Z"
+}

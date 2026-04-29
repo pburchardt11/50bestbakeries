@@ -1,0 +1,32 @@
+{
+  "slug": "panos-rail-aalst",
+  "name": "Panos Rail Aalst",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJa4MEhli9w0cRap4D5Z6mISk",
+  "googleName": "Panos Rail Aalst",
+  "formattedAddress": "Stationsplein, 9300 Aalst, Belgium",
+  "phone": "0489 71 31 65",
+  "website": "https://www.panos.be/nl/winkel/panos-rail-aalst-23226",
+  "googleMapsUrl": "https://maps.google.com/?cid=2963833231163760234",
+  "rating": 3.8,
+  "reviewCount": 153,
+  "coords": [
+    50.9426555,
+    4.039132299999999
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:45 PM",
+    "Tuesday: 5:30 AM – 6:45 PM",
+    "Wednesday: 5:30 AM – 6:45 PM",
+    "Thursday: 5:30 AM – 6:45 PM",
+    "Friday: 5:30 AM – 6:45 PM",
+    "Saturday: 7:00 AM – 4:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panos-rail-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:04:50.177Z"
+}

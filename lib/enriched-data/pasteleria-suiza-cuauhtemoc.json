@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-suiza-cuauhtemoc",
+  "name": "Pasteleria Suiza",
+  "curatedName": "Pasteleria Suiza",
+  "city": "Cuauhtémoc",
+  "country": "Mexico",
+  "placeId": "ChIJsVJy-0b_0YUR-FxlTwr258c",
+  "googleName": "PASTELERIA SUIZA",
+  "formattedAddress": "Parque España 7, Roma Nte., Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico",
+  "phone": "55 5211 0904",
+  "internationalPhone": "+52 55 5211 0904",
+  "website": "http://www.pasteleriasuiza.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14404752457309969656",
+  "rating": 4.3,
+  "reviewCount": 3807,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4165855,
+    -99.17001859999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Well-known patisserie selling a huge variety of European-style tarts, pastries & cakes, plus breads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-suiza-cuauhtemoc/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:24.384Z"
+}

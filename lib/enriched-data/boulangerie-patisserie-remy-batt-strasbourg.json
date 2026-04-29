@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-patisserie-remy-batt-strasbourg",
+  "name": "Boulangerie Patisserie Rémy Batt",
+  "curatedName": "Boulangerie Patisserie Rémy Batt",
+  "city": "Strasbourg",
+  "country": "France",
+  "placeId": "ChIJbeeJ7wXJlkcRr6VvYB-cDjM",
+  "googleName": "Boulangerie Pâtisserie Rémy BATT",
+  "formattedAddress": "5 Rue de Rathsamhausen, 67100 Strasbourg, France",
+  "phone": "03 88 34 53 37",
+  "internationalPhone": "+33 3 88 34 53 37",
+  "website": "https://www.facebook.com/profile.php?id=100057077395443",
+  "googleMapsUrl": "https://maps.google.com/?cid=3679049604184122799",
+  "rating": 4.6,
+  "reviewCount": 845,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.568835,
+    7.762812
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 2:00 PM",
+    "Sunday: 6:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-remy-batt-strasbourg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:56.858Z"
+}

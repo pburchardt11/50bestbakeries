@@ -1,0 +1,43 @@
+{
+  "slug": "the-big-chill-cakery-noida",
+  "name": "The Big Chill Cakery",
+  "curatedName": "The Big Chill Cakery",
+  "city": "Noida",
+  "country": "India",
+  "placeId": "ChIJ2Q4rgkjkDDkRh_WImiq29vQ",
+  "googleName": "The Big Chill Cakery",
+  "formattedAddress": "E140, Dlf Mall Of India, Sector 18, Noida, Uttar Pradesh 201301, India",
+  "phone": "0120 622 9438",
+  "internationalPhone": "+91 120 622 9438",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17651496083622786439",
+  "rating": 4.3,
+  "reviewCount": 1624,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.5677305,
+    77.32096709999999
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 11:30 PM",
+    "Tuesday: 12:00 – 11:30 PM",
+    "Wednesday: 12:00 – 11:30 PM",
+    "Thursday: 12:00 – 11:30 PM",
+    "Friday: 12:00 – 11:30 PM",
+    "Saturday: 12:00 – 11:30 PM",
+    "Sunday: 12:00 – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-big-chill-cakery-noida/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:34.504Z"
+}

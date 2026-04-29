@@ -1,0 +1,32 @@
+{
+  "slug": "tim-s-coffee-shop-bakery-kabul",
+  "name": "Tim's Coffee Shop & Bakery",
+  "city": "Kabul",
+  "country": "Afghanistan",
+  "placeId": "ChIJC3InSgDD9RQRXXb4cFr0dFM",
+  "googleName": "Tim’s Coffee",
+  "formattedAddress": "٥ شارع بدوي, ميدان محطة الرمل، المسلة شرق، العطارين، محافظة الإسكندرية 5373010, Egypt",
+  "phone": "03 4840875",
+  "website": "http://www.timscoffee.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6013700071726020189",
+  "rating": 4.8,
+  "reviewCount": 248,
+  "coords": [
+    31.203891,
+    29.9045273
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tim-s-coffee-shop-bakery-kabul/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:12:37.557Z"
+}

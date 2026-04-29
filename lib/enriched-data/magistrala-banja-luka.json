@@ -1,0 +1,32 @@
+{
+  "slug": "magistrala-banja-luka",
+  "name": "Magistrala",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJS5h-XwABXkcR7EVb6QaPIOE",
+  "googleName": "Magistrala",
+  "formattedAddress": "R6G8+WX9, Put srpskih branilaca, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": "066 333-187",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16222123117636175340",
+  "rating": 4.6,
+  "reviewCount": 14,
+  "coords": [
+    44.8272962,
+    17.2174849
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magistrala-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:17:09.236Z"
+}

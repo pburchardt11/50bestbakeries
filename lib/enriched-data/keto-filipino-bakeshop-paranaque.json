@@ -1,0 +1,43 @@
+{
+  "slug": "keto-filipino-bakeshop-paranaque",
+  "name": "Keto Filipino Bakeshop",
+  "curatedName": "Keto Filipino Bakeshop",
+  "city": "Parañaque",
+  "country": "Philippines",
+  "placeId": "ChIJy1xnUt3PlzMR9Qva-rllQSM",
+  "googleName": "Keto Filipino Bakeshop - Paranaque",
+  "formattedAddress": "40 Aguirre Ave, Parañaque, Metro Manila, Philippines",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.ketofilipinobakeshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2540423514265619445",
+  "rating": 5,
+  "reviewCount": 9,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.4449804,
+    121.0245357
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/keto-filipino-bakeshop-paranaque/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:00.211Z"
+}

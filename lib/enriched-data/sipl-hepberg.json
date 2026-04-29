@@ -1,0 +1,43 @@
+{
+  "slug": "sipl-hepberg",
+  "name": "Sipl",
+  "curatedName": "Sipl",
+  "city": "Hepberg",
+  "country": "Germany",
+  "placeId": "ChIJEx7kq00An0cRkcGHBdsPiig",
+  "googleName": "Sipl Brot & Kaffee Hepberg",
+  "formattedAddress": "Hauptstraße 33, 85120 Hepberg, Germany",
+  "phone": "08456 916424",
+  "internationalPhone": "+49 8456 916424",
+  "website": "http://www.sipl.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2921164741668225425",
+  "rating": 4.3,
+  "reviewCount": 196,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8223846,
+    11.4612153
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: 7:30 – 10:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sipl-hepberg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:21:34.741Z"
+}

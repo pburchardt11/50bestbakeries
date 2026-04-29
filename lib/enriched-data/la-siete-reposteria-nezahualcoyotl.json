@@ -1,0 +1,43 @@
+{
+  "slug": "la-siete-reposteria-nezahualcoyotl",
+  "name": "La Siete Repostería",
+  "curatedName": "La Siete Repostería",
+  "city": "Nezahualcóyotl",
+  "country": "Mexico",
+  "placeId": "ChIJnxWRV5Pi0YURbZTwZ7FoPFU",
+  "googleName": "La Siete Repostería",
+  "formattedAddress": "Ote. 7 No. 84, Reforma, 57840 Cdad. Nezahualcóyotl, Méx., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.facebook.com/LaSieteReposteria",
+  "googleMapsUrl": "https://maps.google.com/?cid=6141899102988833901",
+  "rating": 4.6,
+  "reviewCount": 677,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.3693712,
+    -98.98523809999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 5:00 – 10:30 PM",
+    "Saturday: 5:00 – 10:30 PM",
+    "Sunday: 5:00 – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-siete-reposteria-nezahualcoyotl/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:14.272Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "krokan-el-lezzetleri-meram",
+  "name": "Krokan El Lezzetleri",
+  "curatedName": "Krokan El Lezzetleri",
+  "city": "Meram",
+  "country": "Türkiye",
+  "placeId": "ChIJg32ubm6F0BQRewhDIsz-gMs",
+  "googleName": "Krokan El Lezzetleri",
+  "formattedAddress": "Havzan, Yenisantralelektrik Caddesi No:29/A, 42099 Meram/Konya, Türkiye",
+  "phone": "0545 122 36 22",
+  "internationalPhone": "+90 545 122 36 22",
+  "website": "http://www.krokanellezzetleri.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14664000539419936891",
+  "rating": 4.8,
+  "reviewCount": 79,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.8625434,
+    32.470399
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/krokan-el-lezzetleri-meram/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:03:55.793Z"
+}

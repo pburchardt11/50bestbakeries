@@ -1,0 +1,43 @@
+{
+  "slug": "ajay-bakery-anjar",
+  "name": "Ajay Bakery",
+  "curatedName": "Ajay Bakery",
+  "city": "Anjar",
+  "country": "India",
+  "placeId": "ChIJyaflJmbHUDkRBh0psJTKZa4",
+  "googleName": "Ajay Bakery",
+  "formattedAddress": "Mahakaleshwer Temple Rd, Anjar, Gujarat 370110, India",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12566673075206692102",
+  "rating": 4,
+  "reviewCount": 58,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.0932864,
+    70.0386451
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:00 PM",
+    "Tuesday: 8:30 AM – 8:00 PM",
+    "Wednesday: 8:30 AM – 8:00 PM",
+    "Thursday: 8:30 AM – 8:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ajay-bakery-anjar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:46.159Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-el-eden-guadalupe",
+  "name": "Panadería El Edén",
+  "curatedName": "Panadería El Edén",
+  "city": "Guadalupe",
+  "country": "Mexico",
+  "placeId": "ChIJp4Bm3pDBYoYRE4F2F3vetYY",
+  "googleName": "Panadería El Edén",
+  "formattedAddress": "Av Maestro Israel Cavazos Garza s/n, Jardines de Andalucía, Sin Nombre de Col 66, 67193 Guadalupe, N.L., Mexico",
+  "phone": "81 8900 5561",
+  "internationalPhone": "+52 81 8900 5561",
+  "website": "http://el-eden-bakery.negocio.site/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9706909192122958099",
+  "rating": 4.6,
+  "reviewCount": 2770,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.6517328,
+    -100.1858867
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:30 PM",
+    "Tuesday: 6:30 AM – 9:30 PM",
+    "Wednesday: 6:30 AM – 9:30 PM",
+    "Thursday: 6:30 AM – 9:30 PM",
+    "Friday: 6:30 AM – 9:30 PM",
+    "Saturday: 6:30 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-el-eden-guadalupe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:29.122Z"
+}

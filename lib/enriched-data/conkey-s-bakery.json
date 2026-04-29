@@ -1,0 +1,43 @@
+{
+  "slug": "conkey-s-bakery",
+  "name": "Conkey's Bakery",
+  "curatedName": "Conkey's Bakery",
+  "city": "กรุงเทพมหานคร",
+  "country": "Thailand",
+  "placeId": "ChIJER4FkRef4jARY-MzNdma3g0",
+  "googleName": "Conkey's Bakery Sukhumvit 33",
+  "formattedAddress": "27/1 Soi Sukhumvit 33, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+  "phone": "083 209 8295",
+  "internationalPhone": "+66 83 209 8295",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=999406425014002531",
+  "rating": 4.5,
+  "reviewCount": 42,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.7378456,
+    100.56776
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:30 PM",
+    "Sunday: 8:00 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/conkey-s-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:35.167Z"
+}

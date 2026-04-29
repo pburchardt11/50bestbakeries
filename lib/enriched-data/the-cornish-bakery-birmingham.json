@@ -1,0 +1,35 @@
+{
+  "slug": "the-cornish-bakery-birmingham",
+  "name": "The Cornish Bakery",
+  "curatedName": "The Cornish Bakery",
+  "city": "Birmingham",
+  "country": "United Kingdom",
+  "placeId": "ChIJCc4xeyGxcEgRGy88yIpc6H4",
+  "googleName": "The Cornish Bakery",
+  "formattedAddress": "Marston Green, Birmingham B40 1NT, UK",
+  "phone": "0121 782 7521",
+  "internationalPhone": "+44 121 782 7521",
+  "website": "https://thecornishbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9144660794510421787",
+  "rating": 4.9,
+  "reviewCount": 510,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.4520607,
+    -1.722045
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cornish-bakery-birmingham/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:06:30.024Z"
+}

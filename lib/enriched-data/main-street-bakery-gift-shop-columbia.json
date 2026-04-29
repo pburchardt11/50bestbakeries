@@ -1,0 +1,43 @@
+{
+  "slug": "main-street-bakery-gift-shop-columbia",
+  "name": "Main Street Bakery & Gift Shop",
+  "curatedName": "Main Street Bakery & Gift Shop",
+  "city": "Columbia",
+  "country": "United States",
+  "placeId": "ChIJmzNBfuik-IgRG0USv03xAr4",
+  "googleName": "Main Street Bakery & Gift Shop",
+  "formattedAddress": "3307 N Main St, Columbia, SC 29203, USA",
+  "phone": "(803) 563-5009",
+  "internationalPhone": "+1 803-563-5009",
+  "website": "http://www.mainstreetbakery3307.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13691771133380150555",
+  "rating": 4.8,
+  "reviewCount": 256,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.02905,
+    -81.0425556
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/main-street-bakery-gift-shop-columbia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:20.414Z"
+}

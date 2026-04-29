@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-tradicional-vale-chihuahua",
+  "name": "Panaderia Tradicional Vale",
+  "curatedName": "Panaderia Tradicional Vale",
+  "city": "Chihuahua",
+  "country": "Mexico",
+  "placeId": "ChIJX6lJ7alD6oYRZXT_eRzmZmY",
+  "googleName": "PANADERÍA TRADICIONAL VALE",
+  "formattedAddress": "Táscate 905, Lagos, 31100 Chihuahua, Chih., Mexico",
+  "phone": "614 421 8974",
+  "internationalPhone": "+52 614 421 8974",
+  "website": "http://www.facebook.com/PanaderiaVale",
+  "googleMapsUrl": "https://maps.google.com/?cid=7378838049473393765",
+  "rating": 4.8,
+  "reviewCount": 70,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.6754371,
+    -106.1043266
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-tradicional-vale-chihuahua/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:12.079Z"
+}

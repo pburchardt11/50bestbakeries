@@ -1,0 +1,32 @@
+{
+  "slug": "pasteleria-endulzate-ahuachapan",
+  "name": "Pastelería Endúlzate",
+  "city": "Ahuachapán",
+  "country": "El Salvador",
+  "placeId": "ChIJMziELMHpYo8RTmaXeE_eDq8",
+  "googleName": "Pastelería Endúlzate",
+  "formattedAddress": "Ahuachapan, El Salvador",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12614264039218308686",
+  "rating": 4.1,
+  "reviewCount": 10,
+  "coords": [
+    13.9259311,
+    -89.8411536
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-endulzate-ahuachapan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:02:17.443Z"
+}

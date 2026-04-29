@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-costa-brava-makati",
+  "name": "Pasteleria Costa Brava",
+  "curatedName": "Pasteleria Costa Brava",
+  "city": "Makati",
+  "country": "Philippines",
+  "placeId": "ChIJGfLRgKrJlzMRpB3YeYTWSWU",
+  "googleName": "Pasteleria Costa Brava",
+  "formattedAddress": "Petron Gil Puyat, Makati Ave, Makati City, Metro Manila, Philippines",
+  "phone": "(02) 8896 6872",
+  "internationalPhone": "+63 2 8896 6872",
+  "website": "http://instagram.com/costabrava2013",
+  "googleMapsUrl": "https://maps.google.com/?cid=7298600535598833060",
+  "rating": 4.4,
+  "reviewCount": 298,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5618823,
+    121.0277987
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-costa-brava-makati/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:25.673Z"
+}

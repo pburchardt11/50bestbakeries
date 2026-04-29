@@ -1,0 +1,32 @@
+{
+  "slug": "tsoryan-alap-ars",
+  "name": "Ցորյան / Tsoryan",
+  "city": "Alap'ars",
+  "country": "Armenia",
+  "placeId": "ChIJ30nFvlW9akARSQ6UgK2e0DY",
+  "googleName": "ARS Armenia",
+  "formattedAddress": "Charentsi 20, Yerevan 0025, Armenia",
+  "phone": "077 567513",
+  "website": "https://arsarmenia.org/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3949831341227642441",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    40.17975209999999,
+    44.52743419999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 AM",
+    "Tuesday: 9:00 AM – 5:00 AM",
+    "Wednesday: 9:00 AM – 5:00 AM",
+    "Thursday: 9:00 AM – 5:00 AM",
+    "Friday: 9:00 AM – 5:00 AM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tsoryan-alap-ars/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:21:32.724Z"
+}

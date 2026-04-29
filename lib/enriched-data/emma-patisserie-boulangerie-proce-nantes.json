@@ -1,0 +1,43 @@
+{
+  "slug": "emma-patisserie-boulangerie-proce-nantes",
+  "name": "Emma Pâtisserie Boulangerie Procé",
+  "curatedName": "Emma Pâtisserie Boulangerie Procé",
+  "city": "Nantes",
+  "country": "France",
+  "placeId": "ChIJIbh5cT7sBUgRcFjSXO60R8U",
+  "googleName": "Emma Pâtisserie Boulangerie Procé",
+  "formattedAddress": "3 Bd Gaston Serpette, 44000 Nantes, France",
+  "phone": "02 40 76 91 45",
+  "internationalPhone": "+33 2 40 76 91 45",
+  "website": "http://www.emma-patisserie.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14215529684670765168",
+  "rating": 4.4,
+  "reviewCount": 1190,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.2245067,
+    -1.5768374
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/emma-patisserie-boulangerie-proce-nantes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:32.022Z"
+}

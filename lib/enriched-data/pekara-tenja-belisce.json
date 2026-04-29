@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-tenja-belisce",
+  "name": "Pekara Tenja",
+  "city": "Belišće",
+  "country": "Croatia",
+  "placeId": "ChIJAfQknsDoXEcRow8aZTe8Q30",
+  "googleName": "Pekara Hit Tenja",
+  "formattedAddress": "Osječka ul. 143, 31207, Tenja, Croatia",
+  "phone": "031 293 258",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9026265024286035875",
+  "rating": 4.4,
+  "reviewCount": 187,
+  "coords": [
+    45.5173455,
+    18.7299206
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-tenja-belisce/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:48:53.139Z"
+}

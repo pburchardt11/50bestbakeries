@@ -1,0 +1,43 @@
+{
+  "slug": "padoca-sao-jose-dos-campos",
+  "name": "Padoca",
+  "curatedName": "Padoca",
+  "city": "São José dos Campos",
+  "country": "Brazil",
+  "placeId": "ChIJj5QyC0BLzJQRYhg9LHnbIyU",
+  "googleName": "Padoca",
+  "formattedAddress": "R. Eng. Prudente Meireles de Morais, 261 - Vila Adyana, São José dos Campos - SP, 12243-750, Brazil",
+  "phone": "(12) 3941-8460",
+  "internationalPhone": "+55 12 3941-8460",
+  "website": "https://www.instagram.com/padocasjc/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2676223917067933794",
+  "rating": 4.1,
+  "reviewCount": 499,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.1969446,
+    -45.8966721
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padoca-sao-jose-dos-campos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:38.054Z"
+}

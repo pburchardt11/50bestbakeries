@@ -1,0 +1,44 @@
+{
+  "slug": "jessy-bread-jakarta-timur",
+  "name": "Jessy Bread",
+  "curatedName": "Jessy Bread",
+  "city": "Jakarta Timur",
+  "country": "Indonesia",
+  "placeId": "ChIJO-nfmZT0aS4RTGfvOQ-x-wc",
+  "googleName": "Jessy Bread",
+  "formattedAddress": "Jl. Balai Pustaka Timur No.C 2, RT.5/RW.10, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220, Indonesia",
+  "phone": "(021) 4896888",
+  "internationalPhone": "+62 21 4896888",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=575248056374486860",
+  "rating": 4.6,
+  "reviewCount": 946,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.198296699999999,
+    106.8858863
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Tempat roti dan kue dengan menu makanan international dan Indonesia, plus parkir dan wifi.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jessy-bread-jakarta-timur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:28.523Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "paninor-cotui",
+  "name": "Paninor",
+  "city": "Cotuí",
+  "country": "Dominican Republic",
+  "placeId": "ChIJT44v2DDPr44Rr-6amjsCeYw",
+  "googleName": "Paninor (Panificadora del Nordeste)",
+  "formattedAddress": "C/Luis Manuel Sánchez #01, Cotuí, Provincia Sánchez Ramírez 43000, Dominican Republic",
+  "phone": "(809) 240-0190",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10122124092512071343",
+  "rating": 4.9,
+  "reviewCount": 27,
+  "coords": [
+    19.0620513,
+    -70.1548747
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paninor-cotui/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:57:55.347Z"
+}

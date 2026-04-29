@@ -1,0 +1,43 @@
+{
+  "slug": "dbakers-sweet-studio-miami",
+  "name": "dbakers Sweet Studio",
+  "curatedName": "dbakers Sweet Studio",
+  "city": "Miami",
+  "country": "United States",
+  "placeId": "ChIJqVBk4sir2YgRvm5GuzXwhJE",
+  "googleName": "dbakers Sweet Studio",
+  "formattedAddress": "3501 NE 2nd Ave, Miami, FL 33137, USA",
+  "phone": "(786) 310-8763",
+  "internationalPhone": "+1 786-310-8763",
+  "website": "https://dbakers.us/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10485769945991245502",
+  "rating": 4.6,
+  "reviewCount": 815,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.809457,
+    -80.19091829999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dbakers-sweet-studio-miami/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:09:06.281Z"
+}

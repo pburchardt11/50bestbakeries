@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-alajuelita",
+  "name": "Panadería",
+  "city": "Alajuelita",
+  "country": "Costa Rica",
+  "placeId": "ChIJv8srQwDjoI8RAUB0_virDOs",
+  "googleName": "Al Pan Pan Panadería",
+  "formattedAddress": "WW23+5C4, Av. 6, San José, Alajuelita, Costa Rica",
+  "phone": "7251 0668",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16937101384542863361",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    9.9003709,
+    -84.0964264
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-alajuelita/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:48:02.655Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "l-atelier-sucre-maison-bauru",
+  "name": "L'Atelier Sucré Maison",
+  "curatedName": "L'Atelier Sucré Maison",
+  "city": "Bauru",
+  "country": "Brazil",
+  "placeId": "ChIJ-77HeWlnv5QRnL_EmbCrCNg",
+  "googleName": "L'Atelier Sucré Maison",
+  "formattedAddress": "Av. Comendador José da Silva Martha, 644 - Jardim Estoril, Bauru - SP, 17016-080, Brazil",
+  "phone": "(14) 99661-7577",
+  "internationalPhone": "+55 14 99661-7577",
+  "website": "http://www.lateliersucre.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15566880886988521372",
+  "rating": 4.7,
+  "reviewCount": 359,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.3408569,
+    -49.0738068
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-sucre-maison-bauru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:51.251Z"
+}

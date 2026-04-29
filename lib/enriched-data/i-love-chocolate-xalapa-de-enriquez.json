@@ -1,0 +1,43 @@
+{
+  "slug": "i-love-chocolate-xalapa-de-enriquez",
+  "name": "I Love Chocolate",
+  "curatedName": "I Love Chocolate",
+  "city": "Xalapa de Enríquez",
+  "country": "Mexico",
+  "placeId": "ChIJ645kxfcx24URotYNc2cn6yQ",
+  "googleName": "I Love Chocolate",
+  "formattedAddress": "Maestros Veracruzanos 106, Dos de Abril, 91033 Xalapa-Enríquez, Ver., Mexico",
+  "phone": "228 290 9881",
+  "internationalPhone": "+52 228 290 9881",
+  "website": "http://www.pasteleriailovechocolate.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2660263330157811362",
+  "rating": 4.5,
+  "reviewCount": 496,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.5327966,
+    -96.9082244
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/i-love-chocolate-xalapa-de-enriquez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:19.680Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "charity-fent-cake-design-springfield",
+  "name": "Charity Fent Cake Design",
+  "curatedName": "Charity Fent Cake Design",
+  "city": "Springfield",
+  "country": "United States",
+  "placeId": "ChIJXSV8Hodkz4cRf_1xEsNyQv4",
+  "googleName": "Charity Fent Cake Design",
+  "formattedAddress": "2648 S Glenstone Ave, Springfield, MO 65804, USA",
+  "phone": "(417) 838-1182",
+  "internationalPhone": "+1 417-838-1182",
+  "website": "https://www.cfcakedesign.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18321332416250248575",
+  "rating": 4.9,
+  "reviewCount": 108,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.1655839,
+    -93.26167099999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charity-fent-cake-design-springfield/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:16:10.848Z"
+}

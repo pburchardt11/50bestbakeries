@@ -1,0 +1,43 @@
+{
+  "slug": "lucette-patiserie-bratislava",
+  "name": "Lucette Patiserie",
+  "curatedName": "Lucette Patiserie",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJEzKslsuJbEcRkD_PIKNViVs",
+  "googleName": "Lucette Patiserie",
+  "formattedAddress": "Humenské námestie 4, 851 07 Bratislava-Petržalka, Slovakia",
+  "phone": "0948 184 020",
+  "internationalPhone": "+421 948 184 020",
+  "website": "http://facebook.com/lucettepatisserie",
+  "googleMapsUrl": "https://maps.google.com/?cid=6595897288379285392",
+  "rating": 4.7,
+  "reviewCount": 782,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.09483179999999,
+    17.1159046
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lucette-patiserie-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:33.086Z"
+}

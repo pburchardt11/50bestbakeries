@@ -1,0 +1,43 @@
+{
+  "slug": "queen-sophie-kowloon",
+  "name": "Queen Sophie",
+  "curatedName": "Queen Sophie",
+  "city": "Kowloon",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJdegP1yoHBDQRfAx9LKvxets",
+  "googleName": "Queen Sophie",
+  "formattedAddress": "24號 Hau Wong Rd, Kowloon City, Hong Kong",
+  "phone": "2333 1728",
+  "internationalPhone": "+852 2333 1728",
+  "website": "https://www.instagram.com/queensophietarts.official",
+  "googleMapsUrl": "https://maps.google.com/?cid=15815218758953012348",
+  "rating": 4,
+  "reviewCount": 239,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.3285704,
+    114.1888097
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/queen-sophie-kowloon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:18.533Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "b-lem-padaria-portuguesa-teresina",
+  "name": "B.Lem Padaria Portuguesa",
+  "curatedName": "B.Lem Padaria Portuguesa",
+  "city": "Teresina",
+  "country": "Brazil",
+  "placeId": "ChIJu_6l6v45jgcRCxDat5dcP1o",
+  "googleName": "B.Lem Padaria Portuguesa",
+  "formattedAddress": "Shopping Rio Poty - Av. Mar. Castelo Branco, 911 - lojas 209BC - Porenquanto, Teresina - PI, 64003-901, Brazil",
+  "phone": "(86) 3122-5109",
+  "internationalPhone": "+55 86 3122-5109",
+  "website": "https://blempadaria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6503018193640624139",
+  "rating": 4.9,
+  "reviewCount": 241,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -5.077198999999999,
+    -42.8019226
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 1:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/b-lem-padaria-portuguesa-teresina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:12.166Z"
+}

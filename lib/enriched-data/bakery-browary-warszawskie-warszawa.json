@@ -1,0 +1,43 @@
+{
+  "slug": "bakery-browary-warszawskie-warszawa",
+  "name": "BAKERY BROWARY WARSZAWSKIE",
+  "curatedName": "BAKERY BROWARY WARSZAWSKIE",
+  "city": "Warszawa",
+  "country": "Poland",
+  "placeId": "ChIJ8eqaPPnNHkcR0U8p6_XYXX4",
+  "googleName": "BAKERY BROWARY WARSZAWSKIE",
+  "formattedAddress": "Grzybowska 56, 00-844 Warszawa, Poland",
+  "phone": "885 110 199",
+  "internationalPhone": "+48 885 110 199",
+  "website": "https://www.instagram.com/bakerybrowarywarszawskie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9105672572336951249",
+  "rating": 4.5,
+  "reviewCount": 756,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.2345391,
+    20.9871694
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-browary-warszawskie-warszawa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:28.860Z"
+}

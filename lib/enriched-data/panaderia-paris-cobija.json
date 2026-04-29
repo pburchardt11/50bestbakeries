@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-paris-cobija",
+  "name": "Panadería París",
+  "city": "Cobija",
+  "country": "Bolivia",
+  "placeId": "ChIJbx7pmVGxfpERo7ixTBhwP0M",
+  "googleName": "Panadería París",
+  "formattedAddress": "Av. 9 de Febrero, frente a UE Cobija \"A\", próximo a El Cristo, Cobija, Bolivia",
+  "phone": "72922375",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4845714973742184611",
+  "rating": 3.9,
+  "reviewCount": 12,
+  "coords": [
+    -11.02754,
+    -68.7604163
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:30 PM",
+    "Thursday: 6:00 AM – 10:30 PM",
+    "Friday: 6:00 AM – 10:30 PM",
+    "Saturday: 6:00 AM – 10:30 PM",
+    "Sunday: 8:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-paris-cobija/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:12:46.422Z"
+}

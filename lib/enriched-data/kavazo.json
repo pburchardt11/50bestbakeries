@@ -1,0 +1,42 @@
+{
+  "slug": "kavazo",
+  "name": "Kavazo",
+  "curatedName": "Kavazo",
+  "city": "ঢাকা",
+  "country": "Bangladesh",
+  "placeId": "ChIJZ468ihHHVTcR5pnh1z8G60A",
+  "googleName": "Kavazo",
+  "formattedAddress": "Suvastu Jahanara Square, Plot-39 Road No. 11, Dhaka 1212, Bangladesh",
+  "phone": "01722-746008",
+  "internationalPhone": "+880 1722-746008",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4677839509228984806",
+  "rating": 4.4,
+  "reviewCount": 448,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.7900768,
+    90.4086077
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 1:00 AM",
+    "Tuesday: 10:00 AM – 1:00 AM",
+    "Wednesday: 10:00 AM – 1:00 AM",
+    "Thursday: 10:00 AM – 1:00 AM",
+    "Friday: 10:00 AM – 1:00 AM",
+    "Saturday: 10:00 AM – 1:00 AM",
+    "Sunday: 10:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kavazo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:26.175Z"
+}

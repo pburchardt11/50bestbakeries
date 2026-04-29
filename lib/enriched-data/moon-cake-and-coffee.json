@@ -1,0 +1,32 @@
+{
+  "slug": "moon-cake-and-coffee",
+  "name": "Moon Cake and Coffee",
+  "city": "ខេត្តបាត់ដំបង",
+  "country": "Cambodia",
+  "placeId": "ChIJK7VZHO83BTERnzkvcDIQEfY",
+  "googleName": "Moon coffee",
+  "formattedAddress": "626 National 626, Road 57, Krong Battambang, Cambodia",
+  "phone": "096 699 7003",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17730971016750905759",
+  "rating": 4,
+  "reviewCount": 3,
+  "coords": [
+    13.0872361,
+    103.1918005
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moon-cake-and-coffee/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:31:38.259Z"
+}

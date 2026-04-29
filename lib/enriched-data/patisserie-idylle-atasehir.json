@@ -1,0 +1,43 @@
+{
+  "slug": "patisserie-idylle-atasehir",
+  "name": "Patisserie Idylle",
+  "curatedName": "Patisserie Idylle",
+  "city": "Ataşehir",
+  "country": "Türkiye",
+  "placeId": "ChIJgQIuzRDHyhQRKXp7iPskJ3U",
+  "googleName": "Patisserie Idylle",
+  "formattedAddress": "Küçükbakkalköy, Işıklar Cd. 30 A, 34750 Ataşehir/İstanbul, Türkiye",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.idylle.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8441756689274468905",
+  "rating": 4.3,
+  "reviewCount": 50,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.9852478,
+    29.1089584
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-idylle-atasehir/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:47.487Z"
+}

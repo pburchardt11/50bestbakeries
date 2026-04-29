@@ -1,0 +1,43 @@
+{
+  "slug": "medellin-bakery-medellin",
+  "name": "Medellín Bakery",
+  "curatedName": "Medellín Bakery",
+  "city": "Medellín",
+  "country": "Colombia",
+  "placeId": "ChIJPYWCVV4oRI4R29WNEXouM1s",
+  "googleName": "Medellín Bakery",
+  "formattedAddress": "Cra. 75 #31 -20, Medellín, Belén, Medellín, Antioquia, Colombia",
+  "phone": "4941835",
+  "internationalPhone": "+57 4941835",
+  "website": "https://www.medellinbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6571647383079081435",
+  "rating": 4.7,
+  "reviewCount": 21,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    6.233039799999999,
+    -75.5953389
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/medellin-bakery-medellin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:20.827Z"
+}

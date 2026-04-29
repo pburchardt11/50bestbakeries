@@ -1,0 +1,45 @@
+{
+  "slug": "french-gourmet-bakery-houston",
+  "name": "French Gourmet Bakery",
+  "curatedName": "French Gourmet Bakery",
+  "city": "Houston",
+  "country": "United States",
+  "placeId": "ChIJr5I6U-vAQIYRJsW_juibnrI",
+  "googleName": "French Gourmet Bakery",
+  "formattedAddress": "2250 Westheimer Rd, Houston, TX 77098, USA",
+  "phone": "(713) 524-3744",
+  "internationalPhone": "+1 713-524-3744",
+  "website": "http://www.fgbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12870896208201106726",
+  "rating": 4.6,
+  "reviewCount": 483,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.7427812,
+    -95.41500140000001
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 7:30 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Casual, family-owned cafe offering French & American baked treats, bread & light fare.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/french-gourmet-bakery-houston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:08:17.844Z"
+}

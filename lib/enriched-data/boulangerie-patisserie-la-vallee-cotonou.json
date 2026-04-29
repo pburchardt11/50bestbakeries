@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-la-vallee-cotonou",
+  "name": "Boulangerie-Pâtisserie la Vallée",
+  "city": "Cotonou",
+  "country": "Benin",
+  "placeId": "ChIJdfLpj9dXIxARpJvwO_ErLOQ",
+  "googleName": "Val'delices pâtisserie",
+  "formattedAddress": "3447, Pâtisserie Val'delices, Cotonou, Benin",
+  "phone": "01 65 24 00 55",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16441564654715575204",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    6.3807231,
+    2.3638571
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-la-vallee-cotonou/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:08:55.716Z"
+}

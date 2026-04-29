@@ -1,0 +1,32 @@
+{
+  "slug": "tante-nini-oranjestad",
+  "name": "Tante Nini",
+  "city": "Oranjestad",
+  "country": "Aruba",
+  "placeId": "ChIJ48a032s5hY4RfGa8hy4EC6M",
+  "googleName": "Tante Nini",
+  "formattedAddress": "Bilderdijkstraat 19, Oranjestad, Aruba",
+  "phone": "569 4615",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11748488650818348668",
+  "rating": 4.6,
+  "reviewCount": 13,
+  "coords": [
+    12.5142296,
+    -70.0274192
+  ],
+  "openingHours": [
+    "Monday: 7:00 – 11:00 AM",
+    "Tuesday: 7:00 – 11:00 AM",
+    "Wednesday: 7:00 – 11:00 AM",
+    "Thursday: 7:00 – 11:00 AM",
+    "Friday: 7:00 – 11:00 AM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tante-nini-oranjestad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:29:07.306Z"
+}

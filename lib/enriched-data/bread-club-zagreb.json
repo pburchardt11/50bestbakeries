@@ -1,0 +1,43 @@
+{
+  "slug": "bread-club-zagreb",
+  "name": "Bread Club",
+  "curatedName": "Bread Club",
+  "city": "Zagreb",
+  "country": "Croatia",
+  "placeId": "ChIJA10VR2HXZUcRAVdmim8Bzhs",
+  "googleName": "Bread Club",
+  "formattedAddress": "Trakošćanska ul. 42, 10000, Zagreb, Croatia",
+  "phone": "01 6551 293",
+  "internationalPhone": "+385 1 6551 293",
+  "website": "http://www.breadclub.eu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2003540462801409793",
+  "rating": 4.5,
+  "reviewCount": 891,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.8014289,
+    15.9534135
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-club-zagreb/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:51.970Z"
+}

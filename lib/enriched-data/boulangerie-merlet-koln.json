@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-merlet-koln",
+  "name": "Boulangerie Merlet",
+  "curatedName": "Boulangerie Merlet",
+  "city": "Köln",
+  "country": "Germany",
+  "placeId": "ChIJDfnJyOEkv0cR8WEvwL6-OoA",
+  "googleName": "Boulangerie Merlet",
+  "formattedAddress": "Dürener Str. 100, 50931 Köln, Germany",
+  "phone": "0221 94103900",
+  "internationalPhone": "+49 221 94103900",
+  "website": "http://www.boulangerie-merlet.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9239907311981388273",
+  "rating": 4.7,
+  "reviewCount": 307,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.93180599999999,
+    6.9200398
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-merlet-koln/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:34.487Z"
+}

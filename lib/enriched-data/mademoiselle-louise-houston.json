@@ -1,0 +1,43 @@
+{
+  "slug": "mademoiselle-louise-houston",
+  "name": "Mademoiselle Louise",
+  "curatedName": "Mademoiselle Louise",
+  "city": "Houston",
+  "country": "United States",
+  "placeId": "ChIJLWcUt0O_QIYR8Z600gjT24E",
+  "googleName": "Mademoiselle Louise",
+  "formattedAddress": "1725 Main St #1, Houston, TX 77002, USA",
+  "phone": "(346) 980-8763",
+  "internationalPhone": "+1 346-980-8763",
+  "website": "http://mademoisellelouise.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9357304685640589041",
+  "rating": 4.7,
+  "reviewCount": 744,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.7510169,
+    -95.36944430000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mademoiselle-louise-houston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:49.825Z"
+}

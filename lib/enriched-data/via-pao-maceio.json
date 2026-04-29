@@ -1,0 +1,45 @@
+{
+  "slug": "via-pao-maceio",
+  "name": "Via Pão",
+  "curatedName": "Via Pão",
+  "city": "Maceió",
+  "country": "Brazil",
+  "placeId": "ChIJHfDuM9NHAQcRA2YnkLBxY2M",
+  "googleName": "Via Pão",
+  "formattedAddress": "Av. Menino Marcelo, 6951 - Antares, Maceió - AL, 57081-385, Brazil",
+  "phone": "(82) 3432-6432",
+  "internationalPhone": "+55 82 3432-6432",
+  "website": "https://www.instagram.com/via_pao/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7161692835595904515",
+  "rating": 4.5,
+  "reviewCount": 3605,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -9.585248199999999,
+    -35.7329159
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/via-pao-maceio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:45.733Z"
+}

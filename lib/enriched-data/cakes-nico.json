@@ -1,0 +1,32 @@
+{
+  "slug": "cakes-nico",
+  "name": "Cakes Nico [ ]",
+  "city": "Асеновград",
+  "country": "Bulgaria",
+  "placeId": "ChIJS7LH9-fYrBQR6wF5vH2lMUg",
+  "googleName": "Cakes Nico [Торти Нико]",
+  "formattedAddress": "Tsentar, bul. \"Bulgaria\" 33, 4230 Asenovgrad, Bulgaria",
+  "phone": "089 700 5817",
+  "website": "http://tortiniko.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5202121004041175531",
+  "rating": 4.6,
+  "reviewCount": 4369,
+  "coords": [
+    42.0125135,
+    24.8675215
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-nico/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:23:26.628Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "prace-brigady-pekarny-blansko-a-s-blansko",
+  "name": "Práce - brigády Pekárny Blansko a.s.",
+  "city": "Blansko",
+  "country": "Czech Republic",
+  "placeId": "ChIJoWnHlJCOEkcRrZgG7pBzwJA",
+  "googleName": "Labor Office of the Czech Republic",
+  "formattedAddress": "9, Vodní 1992, 678 01 Blansko-Blansko 1, Czechia",
+  "phone": "950 103 111",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10430463803295963309",
+  "rating": 2.9,
+  "reviewCount": 21,
+  "coords": [
+    49.3617544,
+    16.6409686
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Tuesday: 8:00 – 11:00 AM",
+    "Wednesday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Thursday: 8:00 – 11:00 AM",
+    "Friday: Closed",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/prace-brigady-pekarny-blansko-a-s-blansko/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:21.742Z"
+}

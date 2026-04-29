@@ -1,0 +1,43 @@
+{
+  "slug": "brady-s-bakery-glendale",
+  "name": "Brady's Bakery",
+  "curatedName": "Brady's Bakery",
+  "city": "Glendale",
+  "country": "United States",
+  "placeId": "ChIJZeYdQ1jAwoARHWH1syIVpF8",
+  "googleName": "Brady's Bakery",
+  "formattedAddress": "6222 San Fernando Rd Suite 114, Glendale, CA 91201, USA",
+  "phone": "(213) 674-0642",
+  "internationalPhone": "+1 213-674-0642",
+  "website": "http://www.bradysbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6891656568575975709",
+  "rating": 4.9,
+  "reviewCount": 742,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.1639847,
+    -118.2851944
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 3:00 PM",
+    "Tuesday: 9:00 AM – 3:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brady-s-bakery-glendale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:11.319Z"
+}

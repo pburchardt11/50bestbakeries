@@ -1,0 +1,43 @@
+{
+  "slug": "panetteria-tabacchi-cuiaba",
+  "name": "Panetteria Tabacchi",
+  "curatedName": "Panetteria Tabacchi",
+  "city": "Cuiabá",
+  "country": "Brazil",
+  "placeId": "ChIJ0QF1dtaxnZMRQV6JF8TQvuU",
+  "googleName": "Panetteria Tabacchi",
+  "formattedAddress": "R. Sá Pôrto, 10 - Quadra 11 - Jardim Petropolis, Cuiabá - MT, 78070-010, Brazil",
+  "phone": "(65) 99673-5518",
+  "internationalPhone": "+55 65 99673-5518",
+  "website": "https://instagram.com/panetteriatabacchioficial?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=16554898820887567937",
+  "rating": 4.7,
+  "reviewCount": 260,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -15.6159455,
+    -56.07518109999999
+  ],
+  "openingHours": [
+    "Monday: 2:00 – 7:00 PM",
+    "Tuesday: 2:00 – 7:00 PM",
+    "Wednesday: 2:00 – 7:00 PM",
+    "Thursday: 2:00 – 7:00 PM",
+    "Friday: 2:00 – 7:00 PM",
+    "Saturday: 7:30 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panetteria-tabacchi-cuiaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:50.440Z"
+}

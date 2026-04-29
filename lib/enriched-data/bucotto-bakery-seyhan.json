@@ -1,0 +1,43 @@
+{
+  "slug": "bucotto-bakery-seyhan",
+  "name": "Bucotto Bakery",
+  "curatedName": "Bucotto Bakery",
+  "city": "Seyhan",
+  "country": "Türkiye",
+  "placeId": "ChIJe3oDhmaPKBURfctzApulZ38",
+  "googleName": "Bucotto Bakery",
+  "formattedAddress": "Cemil Öztekin Apartmanı, Kurtuluş, 64009. Sk. No: 2/B, 01130 Seyhan/Adana, Türkiye",
+  "phone": "0538 461 42 69",
+  "internationalPhone": "+90 538 461 42 69",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9180488450597702525",
+  "rating": 4.6,
+  "reviewCount": 32,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.9986059,
+    35.3199755
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bucotto-bakery-seyhan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:28.490Z"
+}

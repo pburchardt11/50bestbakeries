@@ -1,0 +1,43 @@
+{
+  "slug": "the-french-american-bakery-singapore",
+  "name": "The French American Bakery",
+  "curatedName": "The French American Bakery",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJBatV2pMZ2jERqJrFpvoi2BA",
+  "googleName": "The French American Bakery",
+  "formattedAddress": "49 Haji Ln, Singapore 189242",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.tfab.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1213758559511485096",
+  "rating": 4.1,
+  "reviewCount": 522,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.3011555,
+    103.8587453
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-french-american-bakery-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:24.021Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "code-aytos",
+  "name": "Code Aytos",
+  "city": "Айтос",
+  "country": "Bulgaria",
+  "placeId": "ChIJZWrUxj59pkARjeUP34vhTzc",
+  "googleName": "coffee Code",
+  "formattedAddress": "Tsentar, ul. \"P. Beron\" 2, 8500 Aytos, Bulgaria",
+  "phone": "088 577 5903",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3985652186105243021",
+  "rating": 4.2,
+  "reviewCount": 396,
+  "coords": [
+    42.7029257,
+    27.2544835
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:30 PM",
+    "Tuesday: 7:30 AM – 11:30 PM",
+    "Wednesday: 7:30 AM – 11:30 PM",
+    "Thursday: 7:30 AM – 11:30 PM",
+    "Friday: 7:30 AM – 11:30 PM",
+    "Saturday: 7:30 AM – 11:30 PM",
+    "Sunday: 7:30 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/code-aytos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:23:25.254Z"
+}

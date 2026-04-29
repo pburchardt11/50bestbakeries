@@ -1,0 +1,43 @@
+{
+  "slug": "40-bakery-bornova",
+  "name": "40 Bakery",
+  "curatedName": "40 Bakery",
+  "city": "Bornova",
+  "country": "Türkiye",
+  "placeId": "ChIJP-36yqB9uRQRmF0DdoDqdOo",
+  "googleName": "40 Bakery",
+  "formattedAddress": "Erzene, 36. Sk. No: 3 D:B, 35040 Bornova/İzmir, Türkiye",
+  "phone": "0538 541 66 21",
+  "internationalPhone": "+90 538 541 66 21",
+  "website": "https://instagram.com/40.firin",
+  "googleMapsUrl": "https://maps.google.com/?cid=16894385939630218648",
+  "rating": 4.8,
+  "reviewCount": 29,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.4645096,
+    27.2239813
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:30 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 9:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/40-bakery-bornova/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:12.033Z"
+}

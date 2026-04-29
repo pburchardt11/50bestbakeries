@@ -1,0 +1,44 @@
+{
+  "slug": "art-s-bakery-cafe-duluth",
+  "name": "Art's Bakery & Cafe",
+  "curatedName": "Art's Bakery & Cafe",
+  "city": "Duluth",
+  "country": "United States",
+  "placeId": "ChIJ23zF_pOj9YgR6dfuviJItdg",
+  "googleName": "Art's Bakery and Cafe",
+  "formattedAddress": "4500 Satellite Blvd #1170, Duluth, GA 30096, USA",
+  "phone": "(770) 446-5656",
+  "internationalPhone": "+1 770-446-5656",
+  "website": "http://www.facebook.com/artsbakeryandcafe",
+  "googleMapsUrl": "https://maps.google.com/?cid=15615466597046474729",
+  "rating": 4.8,
+  "reviewCount": 255,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.942466,
+    -84.1592683
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 10:00 PM",
+    "Saturday: 11:00 AM – 10:00 PM",
+    "Sunday: 12:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/art-s-bakery-cafe-duluth/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:16:25.942Z"
+}

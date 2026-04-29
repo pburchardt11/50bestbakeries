@@ -1,0 +1,43 @@
+{
+  "slug": "mongsim-bakery-coffee-jakarta-selatan",
+  "name": "MONGSIM Bakery & Coffee",
+  "curatedName": "MONGSIM Bakery & Coffee",
+  "city": "Jakarta Selatan",
+  "country": "Indonesia",
+  "placeId": "ChIJxWcbOrDxaS4Rf0N4qGiS4_A",
+  "googleName": "MONGSIM Bakery & Coffee",
+  "formattedAddress": "Jl. Cililin No.3, RT.9/RW.6, Petogogan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12170, Indonesia",
+  "phone": "0812-7777-1180",
+  "internationalPhone": "+62 812-7777-1180",
+  "website": "http://www.instagram.com/mongsim_ours",
+  "googleMapsUrl": "https://maps.google.com/?cid=17357878367016731519",
+  "rating": 4.9,
+  "reviewCount": 3754,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.241631,
+    106.808418
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mongsim-bakery-coffee-jakarta-selatan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:08.832Z"
+}

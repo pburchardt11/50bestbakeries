@@ -1,0 +1,32 @@
+{
+  "slug": "san-honore-alangasi",
+  "name": "San Honoré",
+  "city": "Alangasí",
+  "country": "Ecuador",
+  "placeId": "ChIJ6fJnQx691ZERFpVi2YlgRvM",
+  "googleName": "San Honoré",
+  "formattedAddress": "Plaza Quimbita, Ilaló y Rio Tivacuno &, 170804 Quito, Ecuador",
+  "phone": "098 848 3458",
+  "website": "http://www.sanhonore.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17529804744760136982",
+  "rating": 4.3,
+  "reviewCount": 117,
+  "coords": [
+    -0.2958612,
+    -78.4535506
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 8:00 PM",
+    "Tuesday: 10:30 AM – 8:00 PM",
+    "Wednesday: 10:30 AM – 8:00 PM",
+    "Thursday: 10:30 AM – 8:00 PM",
+    "Friday: 10:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/san-honore-alangasi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:59:24.432Z"
+}

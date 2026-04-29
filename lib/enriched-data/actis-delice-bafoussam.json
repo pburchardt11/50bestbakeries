@@ -1,0 +1,32 @@
+{
+  "slug": "actis-delice-bafoussam",
+  "name": "ACTIS Délice",
+  "city": "Bafoussam",
+  "country": "Cameroon",
+  "placeId": "ChIJF-lFEgCbXxARD9GtXXqjI9E",
+  "googleName": "Restaurant Les Délices De K-reine",
+  "formattedAddress": "Bafoussam, Cameroon",
+  "phone": "6 90 73 97 26",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15070068524064821519",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    5.480510400000001,
+    10.4256908
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/actis-delice-bafoussam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:34:30.909Z"
+}

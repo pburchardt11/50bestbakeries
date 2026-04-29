@@ -1,0 +1,32 @@
+{
+  "slug": "yoanna-cake-boutique",
+  "name": "Yoanna Cake Boutique",
+  "city": "Благоевград",
+  "country": "Bulgaria",
+  "placeId": "ChIJw1gz7Aj2qhQRARW580tmjNY",
+  "googleName": "Yoanna Coffee & Gelato",
+  "formattedAddress": "Blagoevgrad Center, ul. \"Rayko Daskalov\" 2, 2700 Blagoevgrad, Bulgaria",
+  "phone": "089 859 9899",
+  "website": "https://yoannacakeboutique.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15459844097253643521",
+  "rating": 4.5,
+  "reviewCount": 434,
+  "coords": [
+    42.02173699999999,
+    23.1006556
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yoanna-cake-boutique/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:25:02.403Z"
+}

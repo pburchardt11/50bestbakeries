@@ -1,0 +1,44 @@
+{
+  "slug": "pasteleria-italiana-cancun",
+  "name": "Pastelería Italiana",
+  "curatedName": "Pastelería Italiana",
+  "city": "Cancún",
+  "country": "Mexico",
+  "placeId": "ChIJYaLGpfErTI8R4D0W8GmyYvw",
+  "googleName": "Pastelería Italiana",
+  "formattedAddress": "Av Yaxchilán 67, 77509 Cancún, Q.R., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18186294413344783840",
+  "rating": 4.3,
+  "reviewCount": 132,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1614956,
+    -86.8295019
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:30 PM",
+    "Tuesday: 9:00 AM – 9:30 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:30 PM",
+    "Friday: 9:00 AM – 9:30 PM",
+    "Saturday: 10:00 AM – 9:30 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-italiana-cancun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:17.298Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "azza-cake-house-bak",
+  "name": "Azza Cake House",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJvwM610FjMEARqqSXon12njs",
+  "googleName": "AZZA Cake House",
+  "formattedAddress": "9WVC+7W9, Babək Prospekti, Bakı, Azerbaijan",
+  "phone": "051 330 59 77",
+  "website": "http://www.azza.az/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4296001376528868522",
+  "rating": 4.5,
+  "reviewCount": 27,
+  "coords": [
+    40.3931522,
+    49.9223685
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:00 PM",
+    "Tuesday: 8:30 AM – 10:00 PM",
+    "Wednesday: 8:30 AM – 10:00 PM",
+    "Thursday: 8:30 AM – 10:00 PM",
+    "Friday: 8:30 AM – 10:00 PM",
+    "Saturday: 8:30 AM – 10:00 PM",
+    "Sunday: 8:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/azza-cake-house-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:36:25.010Z"
+}

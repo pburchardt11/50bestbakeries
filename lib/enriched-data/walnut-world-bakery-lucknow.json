@@ -1,0 +1,43 @@
+{
+  "slug": "walnut-world-bakery-lucknow",
+  "name": "Walnut World Bakery",
+  "curatedName": "Walnut World Bakery",
+  "city": "Lucknow",
+  "country": "India",
+  "placeId": "ChIJX6_eZAb9mzkRPL_-cmlheB4",
+  "googleName": "Walnut World Bakery",
+  "formattedAddress": "A-2, 3 Park Rd, Tarikhana, Raj Bhavan Colony, Hazratganj, Lucknow, Uttar Pradesh 226001, India",
+  "phone": "081770 75844",
+  "internationalPhone": "+91 81770 75844",
+  "website": "https://thewalnutbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2195611923871874876",
+  "rating": 4.2,
+  "reviewCount": 2488,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.8456251,
+    80.94774269999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Straightforward bakery/cafe offering European cakes, coffee & breads as well as sandwiches & pizza.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/walnut-world-bakery-lucknow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:40.886Z"
+}

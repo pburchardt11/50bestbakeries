@@ -1,0 +1,45 @@
+{
+  "slug": "mendel-s-confeitaria-e-cafe-uberlandia",
+  "name": "Mendel's Confeitaria e Cafe",
+  "curatedName": "Mendel's Confeitaria e Cafe",
+  "city": "Uberlândia",
+  "country": "Brazil",
+  "placeId": "ChIJW5j1ncNFpJQR5B_blGoD9cA",
+  "googleName": "Mendel's Confeitaria e Café",
+  "formattedAddress": "Rua Paraúna, 61 - Santa Maria, Uberlândia - MG, 38408-024, Brazil",
+  "phone": "(34) 99869-0123",
+  "internationalPhone": "+55 34 99869-0123",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13904023180875079652",
+  "rating": 4.7,
+  "reviewCount": 262,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -18.916982,
+    -48.2640819
+  ],
+  "openingHours": [
+    "Monday: 1:00 – 7:00 PM",
+    "Tuesday: 1:00 – 7:00 PM",
+    "Wednesday: 1:00 – 7:00 PM",
+    "Thursday: 1:00 – 7:00 PM",
+    "Friday: 9:30 AM – 7:00 PM",
+    "Saturday: 9:30 AM – 6:30 PM",
+    "Sunday: 9:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mendel-s-confeitaria-e-cafe-uberlandia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:16:17.880Z"
+}

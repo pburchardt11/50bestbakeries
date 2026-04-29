@@ -1,0 +1,32 @@
+{
+  "slug": "la-independencia-ec-ambato",
+  "name": "la independencia EC",
+  "city": "Ambato",
+  "country": "Ecuador",
+  "placeId": "ChIJT-erEOqB05ER-31ltlCoPp0",
+  "googleName": "la independencia EC",
+  "formattedAddress": "Camilo Ponce y Diego noboa NW 03-109, 180202 Ambato, Ecuador",
+  "phone": "099 560 2204",
+  "website": "https://linktr.ee/laindependencia",
+  "googleMapsUrl": "https://maps.google.com/?cid=11330678777121701371",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    -1.2590913,
+    -78.62614549999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-independencia-ec-ambato/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:00:05.749Z"
+}

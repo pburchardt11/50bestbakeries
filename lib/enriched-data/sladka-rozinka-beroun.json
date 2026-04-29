@@ -1,0 +1,32 @@
+{
+  "slug": "sladka-rozinka-beroun",
+  "name": "Sladká Rozinka",
+  "city": "Beroun",
+  "country": "Czech Republic",
+  "placeId": "ChIJLz5nwmqlC0cRK-jh6Ul0R6A",
+  "googleName": "Sladká Rozinka",
+  "formattedAddress": "Česká 57, 266 01 Beroun-Beroun 1, Czechia",
+  "phone": "776 668 814",
+  "website": "http://sladkarozinka.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11549327630220257323",
+  "rating": 4.9,
+  "reviewCount": 56,
+  "coords": [
+    49.9654694,
+    14.073605
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sladka-rozinka-beroun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:13.241Z"
+}

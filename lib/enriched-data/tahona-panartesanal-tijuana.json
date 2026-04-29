@@ -1,0 +1,43 @@
+{
+  "slug": "tahona-panartesanal-tijuana",
+  "name": "Tahona Panartesanal",
+  "curatedName": "Tahona Panartesanal",
+  "city": "Tijuana",
+  "country": "Mexico",
+  "placeId": "ChIJJzKHXjhI2YARM4izhMIm7pA",
+  "googleName": "Tahona Panartesanal",
+  "formattedAddress": "Calete, 22044 Tijuana, B.C., Mexico",
+  "phone": "664 210 2645",
+  "internationalPhone": "+52 664 210 2645",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10443327202810628147",
+  "rating": 4.7,
+  "reviewCount": 478,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.5162816,
+    -117.0179557
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:30 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tahona-panartesanal-tijuana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:07.846Z"
+}

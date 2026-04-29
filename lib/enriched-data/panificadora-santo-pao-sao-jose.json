@@ -1,0 +1,44 @@
+{
+  "slug": "panificadora-santo-pao-sao-jose",
+  "name": "Panificadora Santo Pão",
+  "curatedName": "Panificadora Santo Pão",
+  "city": "São José",
+  "country": "Brazil",
+  "placeId": "ChIJu7puEuFJJ5URJ0Ko8EZRwUg",
+  "googleName": "Panificadora Santo Pão",
+  "formattedAddress": "R. João Grumiche, 1126 - Roçado, São José - SC, 88108-100, Brazil",
+  "phone": "(48) 3259-2159",
+  "internationalPhone": "+55 48 3259-2159",
+  "website": "https://panificadorasantopao.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5242560806363087399",
+  "rating": 4.6,
+  "reviewCount": 2327,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.5945181,
+    -48.62237510000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM, 2:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-santo-pao-sao-jose/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:23.217Z"
+}

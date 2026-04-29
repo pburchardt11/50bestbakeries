@@ -1,0 +1,45 @@
+{
+  "slug": "sugar-bakery-cafe-seattle",
+  "name": "Sugar Bakery & Cafe",
+  "curatedName": "Sugar Bakery & Cafe",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJO_YVH7ZqkFQRe6amQ5fBrtg",
+  "googleName": "Sugar Bakery",
+  "formattedAddress": "1014 Madison St, Seattle, WA 98104, USA",
+  "phone": "(206) 749-4105",
+  "internationalPhone": "+1 206-749-4105",
+  "website": "https://sugarbakerycafe.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15613629813559305851",
+  "rating": 4.4,
+  "reviewCount": 835,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.6091643,
+    -122.3258677
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Bakery for handcrafted, freshly baked cookies, cakes & pastries, plus lunch & coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-bakery-cafe-seattle/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:24:02.181Z"
+}

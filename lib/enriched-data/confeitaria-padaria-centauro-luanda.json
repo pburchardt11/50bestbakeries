@@ -1,0 +1,32 @@
+{
+  "slug": "confeitaria-padaria-centauro-luanda",
+  "name": "Confeitaria&Padaria Centauro",
+  "city": "Luanda",
+  "country": "Angola",
+  "placeId": "ChIJTQjjMrT0URoRxKcR76KIoV0",
+  "googleName": "Ana Cakes Luanda Angola",
+  "formattedAddress": "459J+CHV Rua do Hotel Costa do Sol, Corimba, Luanda, Angola",
+  "phone": "936 726 161",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6746823950154704836",
+  "rating": 3.5,
+  "reviewCount": 41,
+  "coords": [
+    -8.8813868,
+    13.1814088
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-padaria-centauro-luanda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:18:22.955Z"
+}

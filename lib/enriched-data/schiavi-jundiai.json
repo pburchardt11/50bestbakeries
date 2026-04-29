@@ -1,0 +1,43 @@
+{
+  "slug": "schiavi-jundiai",
+  "name": "Schiavi",
+  "curatedName": "Schiavi",
+  "city": "Jundiaí",
+  "country": "Brazil",
+  "placeId": "ChIJNT7JMoQmz5QRc6xrPqxTeDo",
+  "googleName": "Schiavi",
+  "formattedAddress": "R. Mario Borin, 683 - Chácara Urbana, Jundiaí - SP, 13209-030, Brazil",
+  "phone": "(11) 4521-5499",
+  "internationalPhone": "+55 11 4521-5499",
+  "website": "http://www.schiavi.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4213209450651823219",
+  "rating": 4.3,
+  "reviewCount": 714,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.1850122,
+    -46.8957552
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 7:00 PM",
+    "Sunday: 6:30 AM – 2:50 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schiavi-jundiai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:55.946Z"
+}

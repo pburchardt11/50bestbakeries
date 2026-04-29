@@ -1,0 +1,44 @@
+{
+  "slug": "dulce-romero-restaurant-la-paz",
+  "name": "Dulce Romero Restaurant",
+  "curatedName": "Dulce Romero Restaurant",
+  "city": "La Paz",
+  "country": "Mexico",
+  "placeId": "ChIJv76vqEjTr4YRASUeQQpSNFY",
+  "googleName": "Dulce Romero Restaurant",
+  "formattedAddress": "Ignacio Allende 167, Zona Central, 23000 La Paz, B.C.S., Mexico",
+  "phone": "612 158 6649",
+  "internationalPhone": "+52 612 158 6649",
+  "website": "http://www.dulceromero.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6211679990046401793",
+  "rating": 4.5,
+  "reviewCount": 2897,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.1558479,
+    -110.3190804
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Easygoing choice with a trendy vibe serving an all-day menu of light meals & home-baked pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dulce-romero-restaurant-la-paz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:55:58.789Z"
+}

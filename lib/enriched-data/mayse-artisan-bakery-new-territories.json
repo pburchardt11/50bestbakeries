@@ -1,0 +1,43 @@
+{
+  "slug": "mayse-artisan-bakery-new-territories",
+  "name": "Mayse Artisan Bakery",
+  "curatedName": "Mayse Artisan Bakery",
+  "city": "New Territories",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJVVUB-TQJBDQREqdJdy1NugE",
+  "googleName": "Mayse Artisan Bakery",
+  "formattedAddress": "G/F No, 64 Sam Wo Rd, Tai Mei Tuk Tsuen, Hong Kong",
+  "phone": "9855 6159",
+  "internationalPhone": "+852 9855 6159",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=124496797376292626",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.4731665,
+    114.2326765
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mayse-artisan-bakery-new-territories/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:11.776Z"
+}

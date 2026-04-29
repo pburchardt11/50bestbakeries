@@ -1,0 +1,32 @@
+{
+  "slug": "pankey-ambato",
+  "name": "PANKEY",
+  "city": "Ambato",
+  "country": "Ecuador",
+  "placeId": "ChIJnccSIQCB05ERDc_8Nj2bxU0",
+  "googleName": "PANKEY",
+  "formattedAddress": "Av. Pichincha y Manco Capac, 180202 Ambato, Ecuador",
+  "phone": "099 412 1160",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5604055998550298381",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "coords": [
+    -1.254126,
+    -78.62472079999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:30 PM",
+    "Tuesday: 7:30 AM – 8:30 PM",
+    "Wednesday: 7:30 AM – 8:30 PM",
+    "Thursday: 7:30 AM – 8:30 PM",
+    "Friday: 7:30 AM – 8:30 PM",
+    "Saturday: 7:30 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pankey-ambato/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:00:14.347Z"
+}

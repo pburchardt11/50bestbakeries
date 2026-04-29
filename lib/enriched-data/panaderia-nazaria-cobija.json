@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-nazaria-cobija",
+  "name": "Panaderia nazaria",
+  "city": "Cobija",
+  "country": "Bolivia",
+  "placeId": "ChIJZabWDuexfpERicLinBLT7k4",
+  "googleName": "Panaderia nazaria",
+  "formattedAddress": "X67F+VPC, Cobija, Bolivia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5687715456310493833",
+  "rating": 4,
+  "reviewCount": 12,
+  "coords": [
+    -11.0353181,
+    -68.77572599999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-nazaria-cobija/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:11:44.310Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "ame-du-pain-encamp",
+  "name": "Âme du Pain",
+  "city": "Encamp",
+  "country": "Andorra",
+  "placeId": "ChIJD89CEZOLpRIRm96kPX7kvIs",
+  "googleName": "Âme du Pain panes de autor",
+  "formattedAddress": "Av. Príncep Benlloch, 14, AD200 Encamp, Andorra",
+  "phone": "813 229",
+  "website": "https://www.instagram.com/amedupainpanesdeautor/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10069174097744813723",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    42.5348431,
+    1.5790403
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ame-du-pain-encamp/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:16:59.000Z"
+}

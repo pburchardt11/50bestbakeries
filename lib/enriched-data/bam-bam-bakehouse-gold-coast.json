@@ -1,0 +1,45 @@
+{
+  "slug": "bam-bam-bakehouse-gold-coast",
+  "name": "Bam Bam Bakehouse",
+  "curatedName": "Bam Bam Bakehouse",
+  "city": "Gold Coast",
+  "country": "Australia",
+  "placeId": "ChIJ0QNuvvYEkWsR8iSwzR8DBbM",
+  "googleName": "Bam Bam Bakehouse",
+  "formattedAddress": "2519 Gold Coast Hwy, Mermaid Beach QLD 4218, Australia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.bambambakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12899720142802396402",
+  "rating": 4.6,
+  "reviewCount": 3651,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -28.0414009,
+    153.4345744
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:30 PM",
+    "Tuesday: 6:00 AM – 2:30 PM",
+    "Wednesday: 6:00 AM – 2:30 PM",
+    "Thursday: 6:00 AM – 2:30 PM",
+    "Friday: 6:00 AM – 2:30 PM",
+    "Saturday: 6:00 AM – 2:30 PM",
+    "Sunday: 6:00 AM – 2:30 PM"
+  ],
+  "editorialSummary": "Leafy bakery & cafe offering house-baked pastries & bread, plus eclectic breakfast & lunch fare.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bam-bam-bakehouse-gold-coast/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:18.427Z"
+}

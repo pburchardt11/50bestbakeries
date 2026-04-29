@@ -1,0 +1,32 @@
+{
+  "slug": "v-c-delights-corozal",
+  "name": "V & C Delights",
+  "city": "Corozal",
+  "country": "Belize",
+  "placeId": "ChIJ-djd93-VW48RJBmWDApasEo",
+  "googleName": "V & C Delights",
+  "formattedAddress": "San Joaquin, Belize",
+  "phone": "610-1991",
+  "website": "https://sites.google.com/view/vc-delights/home",
+  "googleMapsUrl": "https://maps.google.com/?cid=5381900553915078948",
+  "rating": 4,
+  "reviewCount": 2,
+  "coords": [
+    18.3486181,
+    -88.4433972
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/v-c-delights-corozal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:07:56.836Z"
+}

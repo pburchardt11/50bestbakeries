@@ -1,0 +1,45 @@
+{
+  "slug": "thom-s-sourdough-bakery-hoi-an",
+  "name": "Thom's Sourdough Bakery",
+  "curatedName": "Thom's Sourdough Bakery",
+  "city": "Hội An",
+  "country": "Vietnam",
+  "placeId": "ChIJVVUAoX0OQjER7_Jqd4g181k",
+  "googleName": "Thom's Sourdough Bakery & Coffee - Old town",
+  "formattedAddress": "146 Nguyễn Trường Tộ, Phường Minh An, Hội An, Đà Nẵng 560000, Vietnam",
+  "phone": "0963 222 143",
+  "internationalPhone": "+84 963 222 143",
+  "website": "https://thomsbakery.cafe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6481583148951597807",
+  "rating": 4.8,
+  "reviewCount": 1629,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    15.8805691,
+    108.32885
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 7:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thom-s-sourdough-bakery-hoi-an/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:48.986Z"
+}

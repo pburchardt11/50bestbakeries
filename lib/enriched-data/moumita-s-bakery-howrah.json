@@ -1,0 +1,43 @@
+{
+  "slug": "moumita-s-bakery-howrah",
+  "name": "Moumita'S Bakery",
+  "curatedName": "Moumita'S Bakery",
+  "city": "Howrah",
+  "country": "India",
+  "placeId": "ChIJ8318IVqd-DkRwVk2cb81IUo",
+  "googleName": "Moumita's Bakery",
+  "formattedAddress": "Ghoshpara Rd, Madhyapara, Ghosh Para, Howrah, West Bengal 711227, India",
+  "phone": "090388 31562",
+  "internationalPhone": "+91 90388 31562",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5341609729392531905",
+  "rating": 4.9,
+  "reviewCount": 146,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.6478994,
+    88.32865729999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moumita-s-bakery-howrah/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:39.049Z"
+}

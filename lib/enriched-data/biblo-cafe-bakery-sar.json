@@ -1,0 +1,32 @@
+{
+  "slug": "biblo-cafe-bakery-sar",
+  "name": "Biblo Café & Bakery",
+  "city": "Sar",
+  "country": "Bahrain",
+  "placeId": "ChIJc6rim_m7ST4Ra759srcEoOA",
+  "googleName": "Biblo Bakery",
+  "formattedAddress": "Road 2925، Saar 529, Bahrain",
+  "phone": "1768 2860",
+  "website": "http://www.biblotreats.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16185942247789674091",
+  "rating": 4.4,
+  "reviewCount": 299,
+  "coords": [
+    26.2134408,
+    50.4792334
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/biblo-cafe-bakery-sar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:44:32.597Z"
+}

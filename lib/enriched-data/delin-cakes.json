@@ -1,0 +1,32 @@
+{
+  "slug": "delin-cakes",
+  "name": "DeLin Cakes",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJ9947sjK9akAR0tJkaPCH0pM",
+  "googleName": "DeLin Cakes",
+  "formattedAddress": "52/2 Tigran Mets Ave, Yerevan, Armenia",
+  "phone": "041 661121",
+  "website": "https://www.instagram.com/cakedelin/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10651725535297983186",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    40.15903350000001,
+    44.5114909
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delin-cakes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:22:39.776Z"
+}

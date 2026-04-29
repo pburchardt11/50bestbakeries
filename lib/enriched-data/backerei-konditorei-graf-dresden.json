@@ -1,0 +1,43 @@
+{
+  "slug": "backerei-konditorei-graf-dresden",
+  "name": "Bäckerei Konditorei Graf",
+  "curatedName": "Bäckerei Konditorei Graf",
+  "city": "Dresden",
+  "country": "Germany",
+  "placeId": "ChIJE1CAKOqQcUERieQyuCgGQJw",
+  "googleName": "Bäckerei Konditorei Graf😀",
+  "formattedAddress": "Alaunstraße 31, 01099 Dresden, Germany",
+  "phone": "0351 8045761",
+  "internationalPhone": "+49 351 8045761",
+  "website": "http://www.baeckerei-graf.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11259005840385041545",
+  "rating": 4.7,
+  "reviewCount": 403,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.0657565,
+    13.7503562
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-konditorei-graf-dresden/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:19.441Z"
+}

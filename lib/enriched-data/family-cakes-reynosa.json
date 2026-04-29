@@ -1,0 +1,43 @@
+{
+  "slug": "family-cakes-reynosa",
+  "name": "Family Cakes",
+  "curatedName": "Family Cakes",
+  "city": "Reynosa",
+  "country": "Mexico",
+  "placeId": "ChIJqwogNfIFZYYRnShnz4tK7d4",
+  "googleName": "Family Cakes",
+  "formattedAddress": "Blvd.las Fuentes #210 Local - E Col, Las Fuentes, 88710 Reynosa, Tamps., Mexico",
+  "phone": "899 924 8497",
+  "internationalPhone": "+52 899 924 8497",
+  "website": "https://www.facebook.com/familycakespasteles/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16063577410240981149",
+  "rating": 4.8,
+  "reviewCount": 16,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.0686781,
+    -98.31684299999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 11:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/family-cakes-reynosa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:42.230Z"
+}

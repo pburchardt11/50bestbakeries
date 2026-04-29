@@ -1,0 +1,32 @@
+{
+  "slug": "la-delights-gallery",
+  "name": "La Delights Gallery",
+  "city": "الرفاع البحير",
+  "country": "Bahrain",
+  "placeId": "ChIJ_2OK6bmtST4RxYlq-qgju04",
+  "googleName": "La Delights Gallery",
+  "formattedAddress": "Rd No 3933, Riffa, Bahrain",
+  "phone": "7799 1477",
+  "website": "https://ladelights.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5673167364266035653",
+  "rating": 4.8,
+  "reviewCount": 25,
+  "coords": [
+    26.1380767,
+    50.5758781
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-delights-gallery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:45:57.382Z"
+}

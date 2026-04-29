@@ -1,0 +1,45 @@
+{
+  "slug": "balbadem-pastanesi-sisli",
+  "name": "Balbadem Pastanesi",
+  "curatedName": "Balbadem Pastanesi",
+  "city": "Şişli",
+  "country": "Türkiye",
+  "placeId": "ChIJl1fZ7la2yhQRsRMsAC2I9Ms",
+  "googleName": "Balbadem Pastanesi",
+  "formattedAddress": "Gülbahar, Oya Sk. no :4, 34418 Şişli/İstanbul, Türkiye",
+  "phone": "(0212) 217 66 53",
+  "internationalPhone": "+90 212 217 66 53",
+  "website": "https://siparis.balbadempastanesi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14696521210874565553",
+  "rating": 4.8,
+  "reviewCount": 1986,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0677823,
+    29.00332999999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/balbadem-pastanesi-sisli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:01:40.487Z"
+}

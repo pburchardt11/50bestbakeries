@@ -1,0 +1,43 @@
+{
+  "slug": "alepan-panaderia-y-reposteria-alemana-medellin",
+  "name": "Alepan Panaderia y Reposteria Alemana",
+  "curatedName": "Alepan Panaderia y Reposteria Alemana",
+  "city": "Medellín",
+  "country": "Colombia",
+  "placeId": "ChIJ1_3sanMpRI4RFC0-dSeT87k",
+  "googleName": "AlePan Panadería y Repostería Alemana",
+  "formattedAddress": "Cl. 12 #40a-293, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "phone": "315 2387081",
+  "internationalPhone": "+57 315 2387081",
+  "website": "http://www.alepan.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13399215114037374228",
+  "rating": 4.9,
+  "reviewCount": 127,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    6.2130017,
+    -75.5696696
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alepan-panaderia-y-reposteria-alemana-medellin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:23.503Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "patisserie-conte-toulouse",
+  "name": "Pâtisserie Conté",
+  "curatedName": "Pâtisserie Conté",
+  "city": "Toulouse",
+  "country": "France",
+  "placeId": "ChIJp1BRqpy8rhIRBtoCRvElvt4",
+  "googleName": "Pâtisserie Conté",
+  "formattedAddress": "37 Rue Croix Baragnon, 31000 Toulouse, France",
+  "phone": "05 61 52 06 73",
+  "internationalPhone": "+33 5 61 52 06 73",
+  "website": "https://www.patisserieconte.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16050307840186964486",
+  "rating": 4.5,
+  "reviewCount": 1058,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.5997213,
+    1.4480115
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:45 AM – 7:30 PM",
+    "Wednesday: 7:45 AM – 7:30 PM",
+    "Thursday: 7:45 AM – 7:30 PM",
+    "Friday: 7:45 AM – 7:30 PM",
+    "Saturday: 7:45 AM – 7:30 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-conte-toulouse/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:58.467Z"
+}

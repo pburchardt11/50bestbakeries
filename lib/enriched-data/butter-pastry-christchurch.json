@@ -1,0 +1,43 @@
+{
+  "slug": "butter-pastry-christchurch",
+  "name": "Butter Pastry",
+  "curatedName": "Butter Pastry",
+  "city": "Christchurch",
+  "country": "New Zealand",
+  "placeId": "ChIJXYbOlQmJMW0RY2Z6AFToFWY",
+  "googleName": "BUTTER Pastry",
+  "formattedAddress": "472 Tuam Street, Phillipstown, Christchurch 8011, New Zealand",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.butterpastry.nz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7356041013862491747",
+  "rating": 5,
+  "reviewCount": 121,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -43.53572519999999,
+    172.6568469
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 12:00 PM",
+    "Thursday: 10:00 AM – 12:00 PM",
+    "Friday: 10:00 AM – 12:00 PM",
+    "Saturday: 10:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/butter-pastry-christchurch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:20.859Z"
+}

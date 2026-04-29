@@ -1,0 +1,43 @@
+{
+  "slug": "levain-bakery-chicago",
+  "name": "Levain Bakery",
+  "curatedName": "Levain Bakery",
+  "city": "Chicago",
+  "country": "United States",
+  "placeId": "ChIJQ8Q544EtDogRMQnTIEZEg9g",
+  "googleName": "Levain Bakery",
+  "formattedAddress": "840 W Randolph St, Chicago, IL 60607, USA",
+  "phone": "(312) 300-0654",
+  "internationalPhone": "+1 312-300-0654",
+  "website": "https://levainbakery.com/pages/west-loop",
+  "googleMapsUrl": "https://maps.google.com/?cid=15601388602130630961",
+  "rating": 4.5,
+  "reviewCount": 567,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.8846755,
+    -87.64903749999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 11:00 PM",
+    "Friday: 7:30 AM – 11:00 PM",
+    "Saturday: 7:30 AM – 11:00 PM",
+    "Sunday: 7:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/levain-bakery-chicago/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:15.380Z"
+}

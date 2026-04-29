@@ -1,0 +1,43 @@
+{
+  "slug": "louise-boulangerie-montreal",
+  "name": "Louise Boulangerie",
+  "curatedName": "Louise Boulangerie",
+  "city": "Montréal",
+  "country": "Canada",
+  "placeId": "ChIJZ7qLQ20ZyUwRDboFHpsu0FQ",
+  "googleName": "Louise Boulangerie",
+  "formattedAddress": "6835 Boul. Saint-Laurent, Montréal, QC H2S 3C8, Canada",
+  "phone": "(514) 543-7246",
+  "internationalPhone": "+1 514-543-7246",
+  "website": "https://www.boulangerielouise.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6111435938100263437",
+  "rating": 4.6,
+  "reviewCount": 692,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5329101,
+    -73.614075
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/louise-boulangerie-montreal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:37.928Z"
+}

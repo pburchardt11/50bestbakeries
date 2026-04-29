@@ -1,0 +1,24 @@
+{
+  "slug": "coaf-douala",
+  "name": "COAF",
+  "city": "Douala",
+  "country": "Cameroon",
+  "placeId": "ChIJI81-In4TYRARFDq6wjhg-ZQ",
+  "googleName": "Boulangerie Coaf",
+  "formattedAddress": "3P67+42H, Douala, Cameroon",
+  "phone": "6 99 65 40 64",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10734716983715707412",
+  "rating": 3.7,
+  "reviewCount": 290,
+  "coords": [
+    4.0602922,
+    9.712664799999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coaf-douala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:37:47.211Z"
+}

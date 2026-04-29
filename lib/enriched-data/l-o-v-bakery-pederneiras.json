@@ -1,0 +1,43 @@
+{
+  "slug": "l-o-v-bakery-pederneiras",
+  "name": "L.O.V Bakery",
+  "curatedName": "L.O.V Bakery",
+  "city": "Pederneiras",
+  "country": "Brazil",
+  "placeId": "ChIJV9Y-txxnv5QRiJIBBLCO_IU",
+  "googleName": "L.O.V Bakery",
+  "formattedAddress": "Alameda Dr. Octávio Pinheiro Brisolla, 15 - 17 - Jardim Brasil, Bauru - SP, 17012-191, Brazil",
+  "phone": "(14) 98152-0030",
+  "internationalPhone": "+55 14 98152-0030",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9654748587808101000",
+  "rating": 4.7,
+  "reviewCount": 265,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.3401548,
+    -49.0569457
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-o-v-bakery-pederneiras/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:20:18.435Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "liliha-bakery-nimitz-honolulu",
+  "name": "Liliha Bakery Nimitz",
+  "curatedName": "Liliha Bakery Nimitz",
+  "city": "Honolulu",
+  "country": "United States",
+  "placeId": "ChIJH4qe5G1uAHwRrV5VH_h6S6Q",
+  "googleName": "Liliha Bakery Nimitz",
+  "formattedAddress": "580 N Nimitz Hwy, Honolulu, HI 96817, USA",
+  "phone": "(808) 537-2488",
+  "internationalPhone": "+1 808-537-2488",
+  "website": "http://www.lilihabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11838691251569647277",
+  "rating": 4.5,
+  "reviewCount": 4255,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.3133809,
+    -157.8696314
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Bakery & diner since 1950, popular for its breakfasts, comfort food & coco puffs.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/liliha-bakery-nimitz-honolulu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:13:18.992Z"
+}

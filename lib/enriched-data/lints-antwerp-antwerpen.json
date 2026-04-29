@@ -1,0 +1,44 @@
+{
+  "slug": "lints-antwerp-antwerpen",
+  "name": "Lints Antwerp",
+  "curatedName": "Lints Antwerp",
+  "city": "Antwerpen",
+  "country": "Belgium",
+  "placeId": "ChIJqfrRhfr2w0cRyEaommsFK4g",
+  "googleName": "Lints Antwerp",
+  "formattedAddress": "Vleminckveld 68, 2000 Antwerpen, Belgium",
+  "phone": "03 226 91 34",
+  "internationalPhone": "+32 3 226 91 34",
+  "website": "https://www.lints.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9811942172871116488",
+  "rating": 4.5,
+  "reviewCount": 1744,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.2137933,
+    4.4043683
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lints-antwerp-antwerpen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:41.068Z"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "panaderia-magda-coacalco-de-berriozabal",
+  "name": "Panadería Magda",
+  "curatedName": "Panadería Magda",
+  "city": "Coacalco de Berriozábal",
+  "country": "Mexico",
+  "placeId": "ChIJZRIHw5Pz0YURv5Kx2Hy3KDA",
+  "googleName": "Panadería \"Magda\"",
+  "formattedAddress": "Manzana 005, Rinconada San Felipe, 55719 San Francisco Coacalco, Méx., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3470225259728310975",
+  "rating": 3.9,
+  "reviewCount": 10,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.6529839,
+    -99.086328
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T03:56:09.191Z"
+}

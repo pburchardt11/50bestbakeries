@@ -1,0 +1,43 @@
+{
+  "slug": "nourish-backerei-leipzig",
+  "name": "Nourish Bäckerei",
+  "curatedName": "Nourish Bäckerei",
+  "city": "Leipzig",
+  "country": "Germany",
+  "placeId": "ChIJxT2QwRf3pkcRLDJOylMUmCQ",
+  "googleName": "Nourish - Bäckerei",
+  "formattedAddress": "Spinnereistraße 7/Haus 24, 04179 Leipzig, Germany",
+  "phone": "0341 39298857",
+  "internationalPhone": "+49 341 39298857",
+  "website": "https://www.nourish.mn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2636879931934388780",
+  "rating": 4.9,
+  "reviewCount": 109,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.3279058,
+    12.3199293
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nourish-backerei-leipzig/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:19.187Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "snazzy-cake-shop-gaborone",
+  "name": "Snazzy Cake Shop",
+  "city": "Gaborone",
+  "country": "Botswana",
+  "placeId": "ChIJtSonzoNbux4RhlmLEXhsVDg",
+  "googleName": "Snazzy Courts Cafe",
+  "formattedAddress": "Padel Courts, Gaborone, Botswana",
+  "phone": "73 085 129",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4058988427113879942",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    -24.6855361,
+    25.8789455
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/snazzy-cake-shop-gaborone/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:18:46.591Z"
+}

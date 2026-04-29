@@ -1,0 +1,32 @@
+{
+  "slug": "nanipan-gourmet-aruba-oranjestad",
+  "name": "NANIPAN Gourmet Aruba",
+  "city": "Oranjestad",
+  "country": "Aruba",
+  "placeId": "ChIJL20LRAg5hY4RuBTGTwoY-l0",
+  "googleName": "NANIPAN Gourmet Aruba",
+  "formattedAddress": "Oranjestad, Aruba",
+  "phone": "583 9966",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6771751422272083128",
+  "rating": 4.5,
+  "reviewCount": 67,
+  "coords": [
+    12.5206227,
+    -70.0175393
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 PM, 2:00 – 7:30 PM",
+    "Tuesday: 7:00 AM – 12:00 PM, 2:30 – 7:30 PM",
+    "Wednesday: 7:00 AM – 12:00 PM, 2:30 – 7:30 PM",
+    "Thursday: 7:00 AM – 12:00 PM, 2:30 – 7:30 PM",
+    "Friday: 7:00 AM – 12:00 PM, 2:30 – 7:30 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nanipan-gourmet-aruba-oranjestad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:30:05.063Z"
+}

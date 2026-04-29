@@ -1,0 +1,44 @@
+{
+  "slug": "cakes-bakes-nottingham",
+  "name": "Cakes & Bakes Nottingham",
+  "curatedName": "Cakes & Bakes Nottingham",
+  "city": "Nottingham",
+  "country": "United Kingdom",
+  "placeId": "ChIJbRx8qGnBeUgRN25H8XaQvvQ",
+  "googleName": "Cakes & Bakes Nottingham",
+  "formattedAddress": "169 Radford Rd, Shop, Nottingham NG7 5EH, UK",
+  "phone": "07909 057094",
+  "internationalPhone": "+44 7909 057094",
+  "website": "https://www.cakesandbakes.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17635692031357972023",
+  "rating": 4.8,
+  "reviewCount": 419,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "home_goods_store",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.96747449999999,
+    -1.1720866
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 8:00 PM",
+    "Tuesday: 10:30 AM – 8:00 PM",
+    "Wednesday: 10:30 AM – 8:00 PM",
+    "Thursday: 10:30 AM – 8:00 PM",
+    "Friday: 10:30 AM – 8:00 PM",
+    "Saturday: 10:30 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-bakes-nottingham/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:07:35.560Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "bread-arboleda-san-pedro-garza-garcia",
+  "name": "Bread Arboleda",
+  "curatedName": "Bread Arboleda",
+  "city": "San Pedro Garza García",
+  "country": "Mexico",
+  "placeId": "ChIJDZKLU-e9YoYRwAMAiy9n_uw",
+  "googleName": "Bread Arboleda",
+  "formattedAddress": "Parque Arboleda, Av. del Roble 660-Local E-101, Valle del Campestre, 66265 San Pedro Garza García, N.L., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17077200290928657344",
+  "rating": 4.6,
+  "reviewCount": 2349,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.6491282,
+    -100.3556905
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 8:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-arboleda-san-pedro-garza-garcia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:15.694Z"
+}

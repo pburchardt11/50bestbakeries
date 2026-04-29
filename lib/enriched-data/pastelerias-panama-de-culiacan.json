@@ -1,0 +1,44 @@
+{
+  "slug": "pastelerias-panama-de-culiacan",
+  "name": "Pastelerias Panama de Culiacan",
+  "curatedName": "Pastelerias Panama de Culiacan",
+  "city": "Culiacán",
+  "country": "Mexico",
+  "placeId": "ChIJMacVR2LQvIYRKFkYjSj7plw",
+  "googleName": "Panamá Restaurante y Pastelería Pedro Infante",
+  "formattedAddress": "Blvd. Pedro Infante 2363, Desarrollo Urbano Tres Ríos, 80020 Culiacán Rosales, Sin., Mexico",
+  "phone": "667 717 4343",
+  "internationalPhone": "+52 667 717 4343",
+  "website": "https://www.panama.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6676299649207785768",
+  "rating": 4.7,
+  "reviewCount": 6670,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.7946529,
+    -107.4343224
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Spacious eatery with a pastry shop, serving traditional fare & American-style burgers & sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelerias-panama-de-culiacan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:53.639Z"
+}

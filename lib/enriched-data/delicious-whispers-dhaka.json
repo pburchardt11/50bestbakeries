@@ -1,0 +1,32 @@
+{
+  "slug": "delicious-whispers-dhaka",
+  "name": "Delicious Whispers",
+  "city": "Dhaka",
+  "country": "Bangladesh",
+  "placeId": "ChIJRbxtF4HBVTcRIvJ4u8yqqqo",
+  "googleName": "Delicious Restaurant Cake & Cafe",
+  "formattedAddress": "House 18, block a main road, Dhaka 1216, Bangladesh",
+  "phone": "01978-092709",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12297829528783876642",
+  "rating": 4.1,
+  "reviewCount": 35,
+  "coords": [
+    23.8173848,
+    90.3659271
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 12:00 AM",
+    "Tuesday: 11:00 AM – 12:00 AM",
+    "Wednesday: 11:00 AM – 12:00 AM",
+    "Thursday: 11:00 AM – 12:00 AM",
+    "Friday: 11:00 AM – 12:00 AM",
+    "Saturday: 11:00 AM – 12:00 AM",
+    "Sunday: 11:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delicious-whispers-dhaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:51:52.415Z"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "panaderia-y-pasteleria-la-espanola-ancud",
+  "name": "Panadería y Pastelería \"La Española\"",
+  "city": "Ancud",
+  "country": "Chile",
+  "placeId": "ChIJYfIbAqOTIpYRVvRYSZDvP9Y",
+  "googleName": "La Española",
+  "formattedAddress": "Dieciocho 170, 5710999 Ancud, Los Lagos, Chile",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15438321450634245206",
+  "rating": 3,
+  "reviewCount": 2,
+  "coords": [
+    -41.8668646,
+    -73.82817010000001
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 8:30 PM",
+    "Tuesday: 9:00 AM – 8:30 PM",
+    "Wednesday: 9:00 AM – 8:30 PM",
+    "Thursday: 9:00 AM – 8:30 PM",
+    "Friday: 9:00 AM – 8:30 PM",
+    "Saturday: 10:30 AM – 8:30 PM",
+    "Sunday: 12:00 – 4:00 PM, 5:00 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:43:54.335Z"
+}

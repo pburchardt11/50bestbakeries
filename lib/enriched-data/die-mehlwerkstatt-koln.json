@@ -1,0 +1,44 @@
+{
+  "slug": "die-mehlwerkstatt-koln",
+  "name": "Die Mehlwerkstatt",
+  "curatedName": "Die Mehlwerkstatt",
+  "city": "Köln",
+  "country": "Germany",
+  "placeId": "ChIJi65nxRYlv0cR8-cIMMM5z_A",
+  "googleName": "Die Mehlwerkstatt",
+  "formattedAddress": "Venloer Str. 202, 50823 Köln, Germany",
+  "phone": "0221 17074800",
+  "internationalPhone": "+49 221 17074800",
+  "website": "http://diemehlwerkstatt.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17352151399769106419",
+  "rating": 4.6,
+  "reviewCount": 1892,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.9463844,
+    6.9253019
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/die-mehlwerkstatt-koln/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:50.753Z"
+}

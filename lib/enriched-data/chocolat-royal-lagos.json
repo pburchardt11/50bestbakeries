@@ -1,0 +1,44 @@
+{
+  "slug": "chocolat-royal-lagos",
+  "name": "Chocolat Royal",
+  "curatedName": "Chocolat Royal",
+  "city": "Lagos",
+  "country": "Nigeria",
+  "placeId": "ChIJq6qqqi_1OxARNDDgWaC_FaQ",
+  "googleName": "Chocolat Royal",
+  "formattedAddress": "267A Etim Inyang Cres, Victoria Island, Lagos 106104, Lagos, Nigeria",
+  "phone": "0809 993 0170",
+  "internationalPhone": "+234 809 993 0170",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11823567092154642484",
+  "rating": 4.3,
+  "reviewCount": 252,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    6.4331434,
+    3.438132
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chocolat-royal-lagos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:23.860Z"
+}

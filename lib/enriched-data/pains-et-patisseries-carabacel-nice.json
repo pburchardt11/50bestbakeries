@@ -1,0 +1,43 @@
+{
+  "slug": "pains-et-patisseries-carabacel-nice",
+  "name": "Pains et Pâtisseries Carabacel",
+  "curatedName": "Pains et Pâtisseries Carabacel",
+  "city": "Nice",
+  "country": "France",
+  "placeId": "ChIJTR4Nd6XazRIRe9gp6dHMGjI",
+  "googleName": "Pains et Pâtisseries Carabacel",
+  "formattedAddress": "9 Rue Pastorelli, 06000 Nice, France",
+  "phone": "04 93 85 57 50",
+  "internationalPhone": "+33 4 93 85 57 50",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3610423253222938747",
+  "rating": 4.6,
+  "reviewCount": 336,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.7021933,
+    7.2735797
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pains-et-patisseries-carabacel-nice/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:49.986Z"
+}

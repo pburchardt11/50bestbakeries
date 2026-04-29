@@ -1,0 +1,32 @@
+{
+  "slug": "bake-my-day-maya-beach",
+  "name": "Bake My Day",
+  "city": "Maya Beach",
+  "country": "Belize",
+  "placeId": "ChIJBbw3WySJXY8Rm7kVZOXlfRA",
+  "googleName": "Bake My Day",
+  "formattedAddress": "Placencia Rd, Placencia, Belize",
+  "phone": "602-9914",
+  "website": "http://www.greenparrot-belize.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1188358650085095835",
+  "rating": 4.9,
+  "reviewCount": 28,
+  "coords": [
+    16.6127253,
+    -88.3537587
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-my-day-maya-beach/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:08:40.460Z"
+}

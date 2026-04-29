@@ -1,0 +1,44 @@
+{
+  "slug": "wayfarer-bread-pastry-la-jolla",
+  "name": "Wayfarer Bread & Pastry",
+  "curatedName": "Wayfarer Bread & Pastry",
+  "city": "La Jolla",
+  "country": "United States",
+  "placeId": "ChIJ29nQ-9ED3IARViS_yvPl5WY",
+  "googleName": "Wayfarer Bread & Pastry",
+  "formattedAddress": "5525 La Jolla Blvd, La Jolla, CA 92037, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.wayfarerbread.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7414585196776727638",
+  "rating": 4.7,
+  "reviewCount": 1047,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.8130139,
+    -117.2685222
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 2:30 PM",
+    "Wednesday: 8:00 AM – 2:30 PM",
+    "Thursday: 8:00 AM – 2:30 PM",
+    "Friday: 8:00 AM – 2:30 PM",
+    "Saturday: 8:00 AM – 2:30 PM",
+    "Sunday: 8:00 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wayfarer-bread-pastry-la-jolla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:37.291Z"
+}

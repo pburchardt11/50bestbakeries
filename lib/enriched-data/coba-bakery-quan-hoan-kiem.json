@@ -1,0 +1,43 @@
+{
+  "slug": "coba-bakery-quan-hoan-kiem",
+  "name": "CoBa Bakery",
+  "curatedName": "CoBa Bakery",
+  "city": "Quận Hoàn Kiếm",
+  "country": "Vietnam",
+  "placeId": "ChIJHXYRd3GrNTER8LgxN40CqLA",
+  "googleName": "CoBa Bakery",
+  "formattedAddress": "69 P. Hàng Gai, Hàng Trống, Hoàn Kiếm, Hà Nội 10000, Vietnam",
+  "phone": "0966 333 304",
+  "internationalPhone": "+84 966 333 304",
+  "website": "https://www.facebook.com/COBA-Bakery-101519165990408",
+  "googleMapsUrl": "https://maps.google.com/?cid=12729427152302356720",
+  "rating": 4.7,
+  "reviewCount": 489,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0318855,
+    105.8500523
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coba-bakery-quan-hoan-kiem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:22.964Z"
+}

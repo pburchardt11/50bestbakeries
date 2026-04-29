@@ -1,0 +1,43 @@
+{
+  "slug": "ponto-chic-bakery-sao-vicente",
+  "name": "Ponto Chic Bakery",
+  "curatedName": "Ponto Chic Bakery",
+  "city": "São Vicente",
+  "country": "Brazil",
+  "placeId": "ChIJywPJjLkczpQRW3cpaaFIy30",
+  "googleName": "Ponto Chic Bakery",
+  "formattedAddress": "Av. Monteiro Lobato, 87 - Vila Valenca, São Vicente - SP, 11380-500, Brazil",
+  "phone": "(13) 3468-4671",
+  "internationalPhone": "+55 13 3468-4671",
+  "website": "https://pontochicpadariasaovicente.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9064418533104514907",
+  "rating": 4.6,
+  "reviewCount": 3375,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.966349,
+    -46.3733197
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ponto-chic-bakery-sao-vicente/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:23:54.816Z"
+}

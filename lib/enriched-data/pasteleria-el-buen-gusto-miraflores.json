@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-el-buen-gusto-miraflores",
+  "name": "Pasteleria El Buen Gusto",
+  "curatedName": "Pasteleria El Buen Gusto",
+  "city": "Miraflores",
+  "country": "Peru",
+  "placeId": "ChIJkRKXmzzIBZERxcO5fI-c9KI",
+  "googleName": "Pasteleria El Buen Gusto",
+  "formattedAddress": "Marqués de Torre Tagle 249, Miraflores 15074, Peru",
+  "phone": "(01) 4458737",
+  "internationalPhone": "+51 1 4458737",
+  "website": "https://www.facebook.com/PasteleriaElBuenGustoPeru",
+  "googleMapsUrl": "https://maps.google.com/?cid=11742182268548531141",
+  "rating": 4.5,
+  "reviewCount": 2439,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -12.1175794,
+    -77.03873200000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-el-buen-gusto-miraflores/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:39.280Z"
+}

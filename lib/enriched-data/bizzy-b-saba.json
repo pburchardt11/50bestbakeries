@@ -1,0 +1,32 @@
+{
+  "slug": "bizzy-b-saba",
+  "name": "Bizzy B",
+  "city": "Saba",
+  "country": "Caribbean Netherlands",
+  "placeId": "ChIJec8yF2ogDowR2lVJkKo4oYE",
+  "googleName": "Bizzy B",
+  "formattedAddress": "A.E Johnson road, The Bottom, Caribbean Netherlands",
+  "phone": "416 2900",
+  "website": "https://www.facebook.com/SabaBakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9340809407359440346",
+  "rating": 4.7,
+  "reviewCount": 104,
+  "coords": [
+    17.6289382,
+    -63.2318283
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bizzy-b-saba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:41:18.876Z"
+}

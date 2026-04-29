@@ -1,0 +1,32 @@
+{
+  "slug": "center-bageriet-guldbageren-aalborg",
+  "name": "Center Bageriet - GuldBageren",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJqcnHU28ySUYRV9vjHHHFL4Y",
+  "googleName": "GuldBageren",
+  "formattedAddress": "Kastetvej 115, 9000 Aalborg, Denmark",
+  "phone": "98 12 53 55",
+  "website": "https://www.guldbageren.dk/butikkerne/aalborg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9669164014594415447",
+  "rating": 4.4,
+  "reviewCount": 264,
+  "coords": [
+    57.0553835,
+    9.8946126
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:30 AM – 4:00 PM",
+    "Sunday: 6:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/center-bageriet-guldbageren-aalborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:45.920Z"
+}

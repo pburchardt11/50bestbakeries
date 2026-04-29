@@ -1,0 +1,32 @@
+{
+  "slug": "meer-s-cake-gallery-dhaka",
+  "name": "Meer's Cake Gallery",
+  "city": "Dhaka",
+  "country": "Bangladesh",
+  "placeId": "ChIJV0FJdJbHVTcR9EccYmjcCHo",
+  "googleName": "Emerald Bakery & Cafe",
+  "formattedAddress": "House 80 Road No. 11, Dhaka 1212, Bangladesh",
+  "phone": "01832-398120",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8793520613321623540",
+  "rating": 4.4,
+  "reviewCount": 767,
+  "coords": [
+    23.7902388,
+    90.4093889
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:30 PM",
+    "Tuesday: 9:00 AM – 10:30 PM",
+    "Wednesday: 9:00 AM – 10:30 PM",
+    "Thursday: 9:00 AM – 10:30 PM",
+    "Friday: 9:00 AM – 10:30 PM",
+    "Saturday: 9:00 AM – 10:30 PM",
+    "Sunday: 9:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/meer-s-cake-gallery-dhaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:50:37.516Z"
+}

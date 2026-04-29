@@ -1,0 +1,44 @@
+{
+  "slug": "boston-bakery-sao-paulo",
+  "name": "Boston Bakery",
+  "curatedName": "Boston Bakery",
+  "city": "São Paulo",
+  "country": "Brazil",
+  "placeId": "ChIJI3VZg1pXzpQRZaXEi7eJOJg",
+  "googleName": "Boston Bakery",
+  "formattedAddress": "R. Clodomiro Amazonas, 816 - Vila Nova Conceição, São Paulo - SP, 04537-002, Brazil",
+  "phone": "(11) 3040-4393",
+  "internationalPhone": "+55 11 3040-4393",
+  "website": "http://www.bostonbakery.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10968668313877783909",
+  "rating": 4.3,
+  "reviewCount": 7344,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5915079,
+    -46.6780118
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Cappuccinos & pastries, also sandwiches, pizza & grilled food in a relaxed, modern spot.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boston-bakery-sao-paulo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:01.086Z"
+}

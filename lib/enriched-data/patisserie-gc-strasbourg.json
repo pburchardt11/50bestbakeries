@@ -1,0 +1,43 @@
+{
+  "slug": "patisserie-gc-strasbourg",
+  "name": "Pâtisserie GC",
+  "curatedName": "Pâtisserie GC",
+  "city": "Strasbourg",
+  "country": "France",
+  "placeId": "ChIJqeVqFvHJlkcR0rEX-4FjAhA",
+  "googleName": "Pâtisserie GC",
+  "formattedAddress": "55 Av. des Vosges, 67000 Strasbourg, France",
+  "phone": "03 88 51 50 58",
+  "internationalPhone": "+33 3 88 51 50 58",
+  "website": "https://patisserie-gc.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1153593864474833362",
+  "rating": 4.7,
+  "reviewCount": 550,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.589856,
+    7.7497615
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 7:30 PM",
+    "Wednesday: 8:30 AM – 7:30 PM",
+    "Thursday: 8:30 AM – 7:30 PM",
+    "Friday: 8:30 AM – 7:30 PM",
+    "Saturday: 8:30 AM – 7:30 PM",
+    "Sunday: 8:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-gc-strasbourg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:54.335Z"
+}

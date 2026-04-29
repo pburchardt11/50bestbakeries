@@ -1,0 +1,32 @@
+{
+  "slug": "zorbas-ayia-napa",
+  "name": "Zorbas",
+  "city": "Ayia Napa",
+  "country": "Cyprus",
+  "placeId": "ChIJuWl5RmvF3xQRVrv2EinxBHk",
+  "googleName": "Zorbas Bakery (Φούρνος ΖΟΡΠΑΣ)",
+  "formattedAddress": "Nissi Ave 17, Ayia Napa 5330, Cyprus",
+  "phone": "23 725840",
+  "website": "http://zorbas.com.cy/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8720359937210235734",
+  "rating": 4.6,
+  "reviewCount": 1949,
+  "coords": [
+    34.9872232,
+    33.9963278
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zorbas-ayia-napa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:52:13.126Z"
+}

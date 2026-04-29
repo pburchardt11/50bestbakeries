@@ -1,0 +1,30 @@
+{
+  "slug": "pekara-zitarica-bjelovar",
+  "name": "Pekara Žitarica",
+  "city": "Bjelovar",
+  "country": "Croatia",
+  "placeId": "ChIJVaEc6X03ZkcRNKomfZiRADY",
+  "googleName": "Pekara Žitarica",
+  "formattedAddress": "Ul. Antuna Mihanovića 8, 43000, Bjelovar, Croatia",
+  "phone": "043 244 744",
+  "website": "https://pekara-zitarica-bjelovar.eatbu.hr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3891270162168850996",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    45.9029466,
+    16.8464216
+  ],
+  "openingHours": [
+    "Monday: 5:45 AM – 8:00 PM",
+    "Tuesday: 5:45 AM – 8:00 PM",
+    "Wednesday: 5:45 AM – 8:00 PM",
+    "Thursday: 5:45 AM – 8:00 PM",
+    "Friday: 5:45 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:49:01.740Z"
+}

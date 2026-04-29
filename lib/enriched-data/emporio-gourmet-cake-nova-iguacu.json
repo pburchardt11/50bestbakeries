@@ -1,0 +1,43 @@
+{
+  "slug": "emporio-gourmet-cake-nova-iguacu",
+  "name": "Empório Gourmet cake",
+  "curatedName": "Empório Gourmet cake",
+  "city": "Nova Iguaçu",
+  "country": "Brazil",
+  "placeId": "ChIJ7UVxR2RnmQARRrTWm0S25xE",
+  "googleName": "Empório Gourmet cake",
+  "formattedAddress": "R. Cel. Francisco Soares, 665 - Centro, Nova Iguaçu - RJ, 26216-031, Brazil",
+  "phone": "(21) 97264-8288",
+  "internationalPhone": "+55 21 97264-8288",
+  "website": "https://l.instagram.com/?u=https://linktr.ee/emporiogcake&e=ATP45AcSooZJAT2kjHhNI32S5a4hVc1TiDNoYNZw33xm9U8Z09t90IbWvpsDATCfXZpxJsyQcoL92cDsTZROwn7Ku-F8_Gg0gTpObnk",
+  "googleMapsUrl": "https://maps.google.com/?cid=1290200224053507142",
+  "rating": 5,
+  "reviewCount": 24,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.7570291,
+    -43.442844
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/emporio-gourmet-cake-nova-iguacu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:28.325Z"
+}

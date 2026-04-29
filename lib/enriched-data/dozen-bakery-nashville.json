@@ -1,0 +1,45 @@
+{
+  "slug": "dozen-bakery-nashville",
+  "name": "Dozen Bakery",
+  "curatedName": "Dozen Bakery",
+  "city": "Nashville",
+  "country": "United States",
+  "placeId": "ChIJ0ZKIQRlnZIgRCTOakCOpiHg",
+  "googleName": "Dozen Bakery",
+  "formattedAddress": "2522 Grandview Ave, Nashville, TN 37211, USA",
+  "phone": "(615) 712-8150",
+  "internationalPhone": "+1 615-712-8150",
+  "website": "http://www.dozen-nashville.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8685377851598975753",
+  "rating": 4.7,
+  "reviewCount": 916,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.1174584,
+    -86.7495735
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Minimalist counter-serve featuring artisanal breads & sweets, plus breakfast fare & sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dozen-bakery-nashville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:00.751Z"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "padaria-galeria-dos-paes-sao-paulo",
+  "name": "Padaria Galeria dos Pães",
+  "curatedName": "Padaria Galeria dos Pães",
+  "city": "São Paulo",
+  "country": "Brazil",
+  "placeId": "ChIJyRb7ENZZzpQR2QbqPYdsNL4",
+  "googleName": "Padaria Galeria dos Pães",
+  "formattedAddress": "R. Estados Unidos, 1645 - Jardim America, São Paulo - SP, 01427-002, Brazil",
+  "phone": "(11) 3064-5900",
+  "internationalPhone": "+55 11 3064-5900",
+  "website": "http://galeriadospaes.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13705698894110394073",
+  "rating": 4.4,
+  "reviewCount": 21323,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "liquor_store",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5660268,
+    -46.669853
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "Bakery serving bread & cakes, with a wine cellar, a deli & an area for breakfast & lunch.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-galeria-dos-paes-sao-paulo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:55.154Z"
+}

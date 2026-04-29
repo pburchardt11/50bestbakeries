@@ -1,0 +1,43 @@
+{
+  "slug": "adore-bakery-pastry-surakarta",
+  "name": "ADORE Bakery & Pastry",
+  "curatedName": "ADORE Bakery & Pastry",
+  "city": "Surakarta",
+  "country": "Indonesia",
+  "placeId": "ChIJz7DRJPMXei4RSIjRlN2sweU",
+  "googleName": "ADORE Bakery & Pastry",
+  "formattedAddress": "Jl. Gatot Subroto No.238, Kratonan, Kec. Serengan, Kota Surakarta, Jawa Tengah 57153, Indonesia",
+  "phone": "0819-4424-8884",
+  "internationalPhone": "+62 819-4424-8884",
+  "website": "https://www.adorebakeryindonesia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16555703772875163720",
+  "rating": 4.9,
+  "reviewCount": 424,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.5808377,
+    110.8179382
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/adore-bakery-pastry-surakarta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:14.830Z"
+}

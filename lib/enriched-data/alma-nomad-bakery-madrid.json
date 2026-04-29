@@ -1,0 +1,43 @@
+{
+  "slug": "alma-nomad-bakery-madrid",
+  "name": "Alma Nomad Bakery",
+  "curatedName": "Alma Nomad Bakery",
+  "city": "Madrid",
+  "country": "Spain",
+  "placeId": "ChIJ-Ya7MZ4pQg0RU4_J4HShBV4",
+  "googleName": "Alma Nomad Bakery",
+  "formattedAddress": "C. de Sta. Feliciana, 10, Chamberí, 28010 Madrid, Spain",
+  "phone": "613 02 68 88",
+  "internationalPhone": "+34 613 02 68 88",
+  "website": "https://www.instagram.com/almanomadbakery/?hl=es",
+  "googleMapsUrl": "https://maps.google.com/?cid=6774998737808363347",
+  "rating": 4.7,
+  "reviewCount": 1618,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.4330935,
+    -3.6993644
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alma-nomad-bakery-madrid/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:10.609Z"
+}

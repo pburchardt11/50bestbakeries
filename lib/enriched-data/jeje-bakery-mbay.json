@@ -1,0 +1,32 @@
+{
+  "slug": "jeje-bakery-mbay",
+  "name": "Jeje bakery",
+  "city": "Mbay",
+  "country": "DR Congo",
+  "placeId": "ChIJqXL-tdj7aS4RgT0zB8a07m0",
+  "googleName": "Jaje bakehouse",
+  "formattedAddress": "Blok PE-RB/23, Parigi, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15227, Indonesia",
+  "phone": "0877-5474-0047",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7921467557208604033",
+  "rating": 4.2,
+  "reviewCount": 30,
+  "coords": [
+    -6.2749223,
+    106.7006655
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jeje-bakery-mbay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:55:33.167Z"
+}

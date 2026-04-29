@@ -1,0 +1,32 @@
+{
+  "slug": "azcake-bas-ofis-bak",
+  "name": "Azcake Baş ofis",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJr7okAopjMEAR8lpKYjJRdOI",
+  "googleName": "Azcake Baş ofis",
+  "formattedAddress": "4 Müzəffər Nərimanov küçəsi, Bakı 1000, Azerbaijan",
+  "phone": "051 527 68 68",
+  "website": "http://www.azcake.az/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16317756626709404402",
+  "rating": 4.1,
+  "reviewCount": 14,
+  "coords": [
+    40.417819,
+    49.8943042
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/azcake-bas-ofis-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:35:21.110Z"
+}

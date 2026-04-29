@@ -1,0 +1,45 @@
+{
+  "slug": "la-belle-baguette-winnipeg",
+  "name": "La Belle Baguette",
+  "curatedName": "La Belle Baguette",
+  "city": "Winnipeg",
+  "country": "Canada",
+  "placeId": "ChIJ4Z0y-zZx6lIRhoRUvy1Mt20",
+  "googleName": "La Belle Baguette",
+  "formattedAddress": "248 De La Cathedrale Ave, Winnipeg, MB R2H 0H8, Canada",
+  "phone": "(204) 219-2123",
+  "internationalPhone": "+1 204-219-2123",
+  "website": "http://www.labellebaguette.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7905871430239421574",
+  "rating": 4.6,
+  "reviewCount": 690,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.88989669999999,
+    -97.1178113
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-belle-baguette-winnipeg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:47.847Z"
+}

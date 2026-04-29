@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-nossa-senhora-aparecida-ribeirao-preto",
+  "name": "Padaria Nossa Senhora Aparecida",
+  "curatedName": "Padaria Nossa Senhora Aparecida",
+  "city": "Ribeirão Preto",
+  "country": "Brazil",
+  "placeId": "ChIJDeQrGWO-uZQRpsvDQHsITy8",
+  "googleName": "Padaria Nossa Senhora Aparecida",
+  "formattedAddress": "R. Constituicão, 1365 - Vila Tiberio, Ribeirão Preto - SP, 14050-470, Brazil",
+  "phone": "(16) 3630-1464",
+  "internationalPhone": "+55 16 3630-1464",
+  "website": "https://www.facebook.com/panificadoransaparecida",
+  "googleMapsUrl": "https://maps.google.com/?cid=3408952768403327910",
+  "rating": 4.7,
+  "reviewCount": 3788,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -21.1741487,
+    -47.8309643
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-nossa-senhora-aparecida-ribeirao-preto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:31.530Z"
+}

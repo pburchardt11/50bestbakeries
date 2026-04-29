@@ -1,0 +1,43 @@
+{
+  "slug": "oh-bagels-tepic",
+  "name": "Oh! Bagels Tepic",
+  "curatedName": "Oh! Bagels Tepic",
+  "city": "Tepic",
+  "country": "Mexico",
+  "placeId": "ChIJx9Z7rC83J4QRI-Eh4-_xktg",
+  "googleName": "Oh! Bagels Tepic",
+  "formattedAddress": "Laureles y Góngora 299, La Loma, 63000 Tepic, Nay., Mexico",
+  "phone": "311 235 0885",
+  "internationalPhone": "+52 311 235 0885",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15605801671402316067",
+  "rating": 4.2,
+  "reviewCount": 20,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.5022644,
+    -104.9025395
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oh-bagels-tepic/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:29.133Z"
+}

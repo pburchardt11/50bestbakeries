@@ -1,0 +1,43 @@
+{
+  "slug": "sabor-maria-confeitaria-cuiaba",
+  "name": "Sabor Maria Confeitaria",
+  "curatedName": "Sabor Maria Confeitaria",
+  "city": "Cuiabá",
+  "country": "Brazil",
+  "placeId": "ChIJrW4_1_CxnZMRzdyMOvgHC1M",
+  "googleName": "Sabor Maria Confeitaria",
+  "formattedAddress": "Rua Feliciano Galdino, 400 - Porto, Cuiabá - MT, 78025-100, Brazil",
+  "phone": "(65) 99930-8322",
+  "internationalPhone": "+55 65 99930-8322",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5983885292607429837",
+  "rating": 4.6,
+  "reviewCount": 440,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -15.6104909,
+    -56.1078627
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:30 PM",
+    "Tuesday: 7:30 AM – 6:30 PM",
+    "Wednesday: 7:30 AM – 6:30 PM",
+    "Thursday: 7:30 AM – 6:30 PM",
+    "Friday: 7:30 AM – 6:30 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sabor-maria-confeitaria-cuiaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:55.022Z"
+}

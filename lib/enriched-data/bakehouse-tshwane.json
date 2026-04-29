@@ -1,0 +1,44 @@
+{
+  "slug": "bakehouse-tshwane",
+  "name": "BakeHouse",
+  "curatedName": "BakeHouse",
+  "city": "Tshwane",
+  "country": "South Africa",
+  "placeId": "ChIJxcNS9gphlR4RnfYtHHphKMA",
+  "googleName": "BakeHouse",
+  "formattedAddress": "18 Firwood Ave, Hazelwood, Pretoria, 0081, South Africa",
+  "phone": "010 109 8284",
+  "internationalPhone": "+27 10 109 8284",
+  "website": "http://www.bakehouse.online/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13846424231437268637",
+  "rating": 4.4,
+  "reviewCount": 1017,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.7756829,
+    28.2563867
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakehouse-tshwane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:05.054Z"
+}

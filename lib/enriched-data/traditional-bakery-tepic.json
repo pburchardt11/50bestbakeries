@@ -1,0 +1,43 @@
+{
+  "slug": "traditional-bakery-tepic",
+  "name": "Traditional Bakery",
+  "curatedName": "Traditional Bakery",
+  "city": "Tepic",
+  "country": "Mexico",
+  "placeId": "ChIJqd-u3FI3J4QRqonuDE95kmE",
+  "googleName": "Traditional Bakery",
+  "formattedAddress": "Av. Tecnológico 3958, Puente de San Cayetano, 63194 Tepic, Nay., Mexico",
+  "phone": "311 169 4105",
+  "internationalPhone": "+52 311 169 4105",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7030815348705102250",
+  "rating": 4.8,
+  "reviewCount": 256,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.4724388,
+    -104.8549141
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/traditional-bakery-tepic/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:24.998Z"
+}

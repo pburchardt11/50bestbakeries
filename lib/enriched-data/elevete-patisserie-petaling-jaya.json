@@ -1,0 +1,43 @@
+{
+  "slug": "elevete-patisserie-petaling-jaya",
+  "name": "Elevete Patisserie",
+  "curatedName": "Elevete Patisserie",
+  "city": "Petaling Jaya",
+  "country": "Malaysia",
+  "placeId": "ChIJk8gbD05JzDER3fGW0PkuvkU",
+  "googleName": "Elevete Patisserie",
+  "formattedAddress": "12, Jalan SS 26/13, Taman Mayang Jaya, 47301 Petaling Jaya, Selangor, Malaysia",
+  "phone": "018-370 3770",
+  "internationalPhone": "+60 18-370 3770",
+  "website": "https://www.elevete.com.my/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5025505884673339869",
+  "rating": 4.8,
+  "reviewCount": 1332,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.115901,
+    101.602977
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elevete-patisserie-petaling-jaya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:42.792Z"
+}

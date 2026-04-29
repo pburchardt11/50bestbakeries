@@ -1,0 +1,24 @@
+{
+  "slug": "durres",
+  "name": "Durres",
+  "city": "Durrës",
+  "country": "Albania",
+  "placeId": "ChIJx7y7X3zZTxMR7oHN5up383c",
+  "googleName": "Durrës",
+  "formattedAddress": "Durrës, Albania",
+  "phone": null,
+  "website": "http://www.durres.gov.al/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8643383960632394222",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    41.3245904,
+    19.4564686
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/durres/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:13:38.388Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "blue-poppy-bakery",
+  "name": "Blue Poppy Bakery",
+  "curatedName": "Blue Poppy Bakery",
+  "city": "世田谷区",
+  "country": "Japan",
+  "placeId": "ChIJPVV11Qz1GGARpl-erVYu-jE",
+  "googleName": "BLUE POPPY Bakery",
+  "formattedAddress": "Japan, 〒158-0094 Tokyo, Setagaya City, Tamagawa, 2-chōme−12−７ NSEビル １A",
+  "phone": "03-5797-9560",
+  "internationalPhone": "+81 3-5797-9560",
+  "website": "https://instagram.com/bluepoppy_bakery_tokyo?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=3601241801851035558",
+  "rating": 4.5,
+  "reviewCount": 141,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.6128004,
+    139.630087
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blue-poppy-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:24.956Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "santagloria-coffee-bakery-alacant",
+  "name": "Santagloria Coffee & Bakery",
+  "curatedName": "Santagloria Coffee & Bakery",
+  "city": "Alacant",
+  "country": "Spain",
+  "placeId": "ChIJPfdj9Mw3Yg0RT_2CQmZ6erk",
+  "googleName": "Santagloria Coffee & Bakery",
+  "formattedAddress": "C. Bailen, 2, 03001 Alacant, Alicante, Spain",
+  "phone": "865 53 00 90",
+  "internationalPhone": "+34 865 53 00 90",
+  "website": "http://www.santagloria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13365129423796501839",
+  "rating": 4.4,
+  "reviewCount": 4669,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.3444679,
+    -0.4838338
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 1:30 AM",
+    "Tuesday: 8:00 AM – 1:30 AM",
+    "Wednesday: 8:00 AM – 1:30 AM",
+    "Thursday: 8:00 AM – 1:30 AM",
+    "Friday: 8:00 AM – 1:30 AM",
+    "Saturday: 8:00 AM – 1:30 AM",
+    "Sunday: 8:00 AM – 1:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santagloria-coffee-bakery-alacant/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:47.983Z"
+}

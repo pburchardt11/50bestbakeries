@@ -1,0 +1,40 @@
+{
+  "slug": "coppenrath-wiese-vohringen",
+  "name": "Coppenrath & Wiese",
+  "curatedName": "Coppenrath & Wiese",
+  "city": "Vöhringen",
+  "country": "Germany",
+  "placeId": "ChIJp2e2U6_nuUcRAarD3YcZMgQ",
+  "googleName": "Coppenrath & Wiese KG",
+  "formattedAddress": "Zum Attersee 2, 49076 Osnabrück, Germany",
+  "phone": "0541 91620",
+  "internationalPhone": "+49 541 91620",
+  "website": "https://www.coppenrath-wiese.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=302332196319111681",
+  "rating": 4.2,
+  "reviewCount": 186,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.3027289,
+    7.9472931
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 6:00 PM",
+    "Tuesday: 9:30 AM – 6:00 PM",
+    "Wednesday: 9:30 AM – 6:00 PM",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 2:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coppenrath-wiese-vohringen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:21:48.676Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "zeppieri-sons-italian-bakery-new-york",
+  "name": "Zeppieri & Sons Italian Bakery",
+  "curatedName": "Zeppieri & Sons Italian Bakery",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJU03hylCLwokRbK-wbqFx9sc",
+  "googleName": "Zeppieri & Sons Italian Bakery",
+  "formattedAddress": "3004 Buhre Ave, Bronx, NY 10461, USA",
+  "phone": "(718) 829-9111",
+  "internationalPhone": "+1 718-829-9111",
+  "website": "http://zeppieriandsonsbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14408828995979226988",
+  "rating": 4.7,
+  "reviewCount": 979,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.84699940000001,
+    -73.8318108
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Bread, rolls & classic desserts like cannoli are served at this old-school neighborhood staple.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zeppieri-sons-italian-bakery-new-york/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:00.754Z"
+}

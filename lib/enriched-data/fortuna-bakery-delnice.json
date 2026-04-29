@@ -1,0 +1,32 @@
+{
+  "slug": "fortuna-bakery-delnice",
+  "name": "Fortuna Bakery",
+  "city": "Delnice",
+  "country": "Croatia",
+  "placeId": "ChIJoysLXX6FZEcRI9uTJx-G_PI",
+  "googleName": "Fortuna Bakery",
+  "formattedAddress": "pro. hrvatskih Šuma 3-1, 51300, Delnice, Croatia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17509016919675755299",
+  "rating": 4.6,
+  "reviewCount": 98,
+  "coords": [
+    45.3943103,
+    14.8007884
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fortuna-bakery-delnice/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:50:05.938Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "panitalia-taubate",
+  "name": "Panitalia",
+  "curatedName": "Panitalia",
+  "city": "Taubaté",
+  "country": "Brazil",
+  "placeId": "ChIJVy6xWI34zJQRPE11baA4Xa8",
+  "googleName": "Panitália",
+  "formattedAddress": "Av. Independência, 1153 - Independência, Taubaté - SP, 12031-001, Brazil",
+  "phone": "(12) 3681-4433",
+  "internationalPhone": "+55 12 3681-4433",
+  "website": "https://www.facebook.com/pages/Panitalia-Paes-Especiais/242553349088376",
+  "googleMapsUrl": "https://maps.google.com/?cid=12636318391153806652",
+  "rating": 4.6,
+  "reviewCount": 4378,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.0385173,
+    -45.5826807
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:30 PM",
+    "Tuesday: 6:00 AM – 8:30 PM",
+    "Wednesday: 6:00 AM – 8:30 PM",
+    "Thursday: 6:00 AM – 8:30 PM",
+    "Friday: 6:00 AM – 8:30 PM",
+    "Saturday: 6:00 AM – 8:30 PM",
+    "Sunday: 6:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panitalia-taubate/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:42.758Z"
+}

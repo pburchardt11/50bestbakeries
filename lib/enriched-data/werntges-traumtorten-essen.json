@@ -1,0 +1,43 @@
+{
+  "slug": "werntges-traumtorten-essen",
+  "name": "Werntges TraumTorten",
+  "curatedName": "Werntges TraumTorten",
+  "city": "Essen",
+  "country": "Germany",
+  "placeId": "ChIJBfyP7KrEuEcRUiPkZYURNls",
+  "googleName": "Werntges TraumTorten",
+  "formattedAddress": "Grafenstraße 36-38, 45239 Essen, Germany",
+  "phone": "0201 4901005",
+  "internationalPhone": "+49 201 4901005",
+  "website": "https://www.traumtorten.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6572459970831590226",
+  "rating": 4.7,
+  "reviewCount": 744,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.3888092,
+    7.000812
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/werntges-traumtorten-essen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:35.318Z"
+}

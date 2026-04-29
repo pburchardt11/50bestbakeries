@@ -1,0 +1,43 @@
+{
+  "slug": "confeitaria-coruja-duque-de-caxias",
+  "name": "Confeitaria Coruja",
+  "curatedName": "Confeitaria Coruja",
+  "city": "Duque de Caxias",
+  "country": "Brazil",
+  "placeId": "ChIJ1zDizMF6mQARvmDOlyY7yOg",
+  "googleName": "Confeitaria Coruja",
+  "formattedAddress": "Av. Governador Leonel de Moura Brizola, 1790 - Centro, Duque de Caxias - RJ, 25030-001, Brazil",
+  "phone": "(21) 99750-9069",
+  "internationalPhone": "+55 21 99750-9069",
+  "website": "https://instagram.com/confeitariacoruja?utm_medium=copy_link",
+  "googleMapsUrl": "https://maps.google.com/?cid=16773721849083093182",
+  "rating": 4.4,
+  "reviewCount": 2053,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.7864333,
+    -43.3107015
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-coruja-duque-de-caxias/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:09.882Z"
+}

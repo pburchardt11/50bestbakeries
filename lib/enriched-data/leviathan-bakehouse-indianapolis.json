@@ -1,0 +1,45 @@
+{
+  "slug": "leviathan-bakehouse-indianapolis",
+  "name": "Leviathan Bakehouse",
+  "curatedName": "Leviathan Bakehouse",
+  "city": "Indianapolis",
+  "country": "United States",
+  "placeId": "ChIJf6bEB4JRa4gRRlevI-3bkAU",
+  "googleName": "Leviathan Bakehouse",
+  "formattedAddress": "1101 N College Ave, Indianapolis, IN 46202, USA",
+  "phone": "(317) 493-1879",
+  "internationalPhone": "+1 317-493-1879",
+  "website": "http://www.leviathanbakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=401062178388399942",
+  "rating": 4.7,
+  "reviewCount": 655,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.7819116,
+    -86.144477
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leviathan-bakehouse-indianapolis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:32.963Z"
+}

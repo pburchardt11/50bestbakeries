@@ -1,0 +1,44 @@
+{
+  "slug": "gllm-guillaume-bordeaux",
+  "name": "Gllm Guillaume",
+  "curatedName": "Gllm Guillaume",
+  "city": "Bordeaux",
+  "country": "France",
+  "placeId": "ChIJEf0HC90nVQ0RgtH7KUq9tHk",
+  "googleName": "Gllm Guillaume",
+  "formattedAddress": "5 Rue du Palais Gallien, 33000 Bordeaux, France",
+  "phone": "05 57 83 70 41",
+  "internationalPhone": "+33 5 57 83 70 41",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8769842500626796930",
+  "rating": 4.6,
+  "reviewCount": 620,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.8419296,
+    -0.5813342
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gllm-guillaume-bordeaux/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:46.824Z"
+}

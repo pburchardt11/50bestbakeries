@@ -1,0 +1,43 @@
+{
+  "slug": "the-baker-co-kozhikode",
+  "name": "The Baker & Co",
+  "curatedName": "The Baker & Co",
+  "city": "Kozhikode",
+  "country": "India",
+  "placeId": "ChIJuTj0-_RfpjsRYvzH6kTwt0k",
+  "googleName": "The Baker & Co",
+  "formattedAddress": "OP Raman Rd, opp. Dr.Balraj clinic, Eranhippalam, Kozhikode, Kerala 673020, India",
+  "phone": "089529 00800",
+  "internationalPhone": "+91 89529 00800",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5311978464294206562",
+  "rating": 4.7,
+  "reviewCount": 1044,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    11.2826726,
+    75.78923750000001
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:45 PM",
+    "Tuesday: 10:00 AM – 10:45 PM",
+    "Wednesday: 10:00 AM – 10:45 PM",
+    "Thursday: 10:00 AM – 10:45 PM",
+    "Friday: 10:00 AM – 10:45 PM",
+    "Saturday: 10:00 AM – 10:45 PM",
+    "Sunday: 10:00 AM – 10:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-baker-co-kozhikode/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:46.389Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "just-bake-beroun",
+  "name": "Just Bake",
+  "city": "Beroun",
+  "country": "Czech Republic",
+  "placeId": "ChIJgz4M0rClC0cRaQkcZmZMro0",
+  "googleName": "Just Bake",
+  "formattedAddress": "Na Ostrově 3/15, 266 01 Beroun-Beroun 1, Czechia",
+  "phone": "797 666 713",
+  "website": "https://instagram.com/just_bake_milu",
+  "googleMapsUrl": "https://maps.google.com/?cid=10209181407978981737",
+  "rating": 4.9,
+  "reviewCount": 56,
+  "coords": [
+    49.9643108,
+    14.0769437
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 4:00 PM",
+    "Thursday: Closed",
+    "Friday: 10:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/just-bake-beroun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:10.784Z"
+}

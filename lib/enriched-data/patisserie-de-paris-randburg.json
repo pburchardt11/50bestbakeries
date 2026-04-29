@@ -1,0 +1,45 @@
+{
+  "slug": "patisserie-de-paris-randburg",
+  "name": "Patisserie de Paris",
+  "curatedName": "Patisserie de Paris",
+  "city": "Randburg",
+  "country": "South Africa",
+  "placeId": "ChIJd3tB56t0lR4RUSME30HC_zo",
+  "googleName": "Patisserie de Paris",
+  "formattedAddress": "9 Mackay Ave, Blairgowrie, Johannesburg, 2194, South Africa",
+  "phone": "011 326 0913",
+  "internationalPhone": "+27 11 326 0913",
+  "website": "http://www.patisseriedeparis.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4251330161431290705",
+  "rating": 4.3,
+  "reviewCount": 1365,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.1133057,
+    28.0140711
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-de-paris-randburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:00.480Z"
+}

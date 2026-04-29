@@ -1,0 +1,48 @@
+{
+  "slug": "padaria-tranza-sao-bernardo-do-campo",
+  "name": "Padaria Tranza",
+  "curatedName": "Padaria Tranza",
+  "city": "São Bernardo do Campo",
+  "country": "Brazil",
+  "placeId": "ChIJ88luYsdDzpQR4k4xH2ZGVZI",
+  "googleName": "Padaria Tranza",
+  "formattedAddress": "Av. Álvaro Guimarães, 681 - Planalto, São Bernardo do Campo - SP, 09890-000, Brazil",
+  "phone": "(11) 4341-4050",
+  "internationalPhone": "+55 11 4341-4050",
+  "website": "http://www.padariatranza.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10544411506981818082",
+  "rating": 4.5,
+  "reviewCount": 3731,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.6963824,
+    -46.5676898
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-tranza-sao-bernardo-do-campo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:08.384Z"
+}

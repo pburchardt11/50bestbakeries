@@ -1,0 +1,32 @@
+{
+  "slug": "french-baked-bakery-bullet-tree-falls",
+  "name": "French Baked Bakery",
+  "city": "Bullet Tree Falls",
+  "country": "Belize",
+  "placeId": "ChIJczuoil9dXo8RwNocABmb9kc",
+  "googleName": "French Baked Bakery",
+  "formattedAddress": "5V9Q+G96, Bullet Tree Road, San Ignacio, Belize",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5185502552642083520",
+  "rating": 4.9,
+  "reviewCount": 9,
+  "coords": [
+    17.1687928,
+    -89.11160509999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/french-baked-bakery-bullet-tree-falls/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:07:48.488Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-e-confeitaria-melo-sao-jose",
+  "name": "Padaria e Confeitaria Melo",
+  "curatedName": "Padaria e Confeitaria Melo",
+  "city": "São José",
+  "country": "Brazil",
+  "placeId": "ChIJ811SiMJJJ5URGd0NrPFNJaw",
+  "googleName": "Padaria e Confeitaria Melo",
+  "formattedAddress": "R. Paulino Pedro Hermes, 455 - Nossa Sra. do Rosario, São José - SC, 88110-693, Brazil",
+  "phone": "(48) 3246-1256",
+  "internationalPhone": "+55 48 3246-1256",
+  "website": "https://padariamelo.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12404406449030946073",
+  "rating": 4.5,
+  "reviewCount": 2027,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.5837555,
+    -48.6180038
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM, 3:00 – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-e-confeitaria-melo-sao-jose/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:25.940Z"
+}

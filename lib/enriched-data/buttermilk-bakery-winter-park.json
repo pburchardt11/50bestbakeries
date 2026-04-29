@@ -1,0 +1,43 @@
+{
+  "slug": "buttermilk-bakery-winter-park",
+  "name": "Buttermilk Bakery",
+  "curatedName": "Buttermilk Bakery",
+  "city": "Winter Park",
+  "country": "United States",
+  "placeId": "ChIJ__-izHRw54gRuWDxtIhTc5Q",
+  "googleName": "Buttermilk Bakery",
+  "formattedAddress": "1198 N Orange Ave, Winter Park, FL 32789, USA",
+  "phone": "(321) 422-4015",
+  "internationalPhone": "+1 321-422-4015",
+  "website": "http://www.buttermilk-bakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10696985386551435449",
+  "rating": 4.7,
+  "reviewCount": 821,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.5881729,
+    -81.3620154
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 2:00 PM",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: 9:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Cozy, family-owned bakeshop serving American & French cafe fare, plus sweet & savory pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/buttermilk-bakery-winter-park/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:11:24.504Z"
+}

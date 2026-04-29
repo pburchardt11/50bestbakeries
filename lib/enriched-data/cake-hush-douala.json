@@ -1,0 +1,32 @@
+{
+  "slug": "cake-hush-douala",
+  "name": "Cake Hush",
+  "city": "Douala",
+  "country": "Cameroon",
+  "placeId": "ChIJdxoXhFwNYRARhisxRZbiJrI",
+  "googleName": "Cake Hush",
+  "formattedAddress": "3PMM+VGP, Douala, Cameroon",
+  "phone": "6 75 71 13 86",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12837196922899999622",
+  "rating": 4.9,
+  "reviewCount": 7,
+  "coords": [
+    4.0847101,
+    9.7338305
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 12:00 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-hush-douala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:38:58.043Z"
+}

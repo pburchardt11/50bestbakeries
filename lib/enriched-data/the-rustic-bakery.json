@@ -1,0 +1,43 @@
+{
+  "slug": "the-rustic-bakery",
+  "name": "The Rustic Bakery",
+  "curatedName": "The Rustic Bakery",
+  "city": "الرياض",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJsVUZEYsDLz4RyC1ukMLOiw4",
+  "googleName": "The Rustic Bakery",
+  "formattedAddress": "2619 Prince Saud Ibn Abdul Aziz Al Saud Al Kabir Rd, Al Quds, Riyadh 13214, Saudi Arabia",
+  "phone": "055 474 8558",
+  "internationalPhone": "+966 55 474 8558",
+  "website": "http://www.rustic-bakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1048158673335889352",
+  "rating": 4.8,
+  "reviewCount": 1339,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.7534684,
+    46.7448627
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-rustic-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:59:35.258Z"
+}

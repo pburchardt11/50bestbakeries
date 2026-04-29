@@ -1,0 +1,45 @@
+{
+  "slug": "paddock-bakery-gold-coast",
+  "name": "Paddock Bakery",
+  "curatedName": "Paddock Bakery",
+  "city": "Gold Coast",
+  "country": "Australia",
+  "placeId": "ChIJ3cFf_YMDkWsRfsG_jpV8XxI",
+  "googleName": "Paddock Bakery",
+  "formattedAddress": "20 Hibiscus Haven, Burleigh Heads QLD 4220, Australia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.paddockbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1323913797257118078",
+  "rating": 4.5,
+  "reviewCount": 3940,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -28.076974,
+    153.44423
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 3:00 PM",
+    "Tuesday: 6:00 AM – 3:00 PM",
+    "Wednesday: 6:00 AM – 3:00 PM",
+    "Thursday: 6:00 AM – 3:00 PM",
+    "Friday: 6:00 AM – 3:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Wood-fired sourdough, plus brekkie and lunch, in a stylish weatherboard space with a leafy garden.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paddock-bakery-gold-coast/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:58.827Z"
+}

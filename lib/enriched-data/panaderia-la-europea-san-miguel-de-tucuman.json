@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-la-europea-san-miguel-de-tucuman",
+  "name": "Panadería La Europea",
+  "curatedName": "Panadería La Europea",
+  "city": "San Miguel de Tucumán",
+  "country": "Argentina",
+  "placeId": "ChIJN3PIAhpcIpQR7UFA__teyWM",
+  "googleName": "Panadería La Europea",
+  "formattedAddress": "Laprida 351, T4000 San Miguel de Tucumán, Tucumán, Argentina",
+  "phone": "0381 421-1286",
+  "internationalPhone": "+54 381 421-1286",
+  "website": "https://www.facebook.com/La-europea-panader%C3%ADa-y-confiter%C3%ADa-110410957092507/about/?ref=page_internal",
+  "googleMapsUrl": "https://maps.google.com/?cid=7190382716485911021",
+  "rating": 4.5,
+  "reviewCount": 326,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.8266366,
+    -65.2018803
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM, 4:00 – 8:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM, 4:00 – 8:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM, 4:00 – 8:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM, 4:00 – 8:00 PM",
+    "Friday: 7:00 AM – 2:00 PM, 4:00 – 8:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM, 4:00 – 8:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-europea-san-miguel-de-tucuman/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:09.172Z"
+}

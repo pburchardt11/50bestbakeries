@@ -1,0 +1,44 @@
+{
+  "slug": "flaky-not-flaky-bake-shoppe-and-chocolatarium-atlanta",
+  "name": "Flaky Not Flaky - Bake Shoppe and Chocolatarium",
+  "curatedName": "Flaky Not Flaky - Bake Shoppe and Chocolatarium",
+  "city": "Atlanta",
+  "country": "United States",
+  "placeId": "ChIJ6adt8slWNa4R111cnkKFr0c",
+  "googleName": "Flaky Not Flaky - Bake Shoppe and Chocolatarium",
+  "formattedAddress": "Food Court, 303 Peachtree Center Ave NE, Atlanta, GA 30303, USA",
+  "phone": "(770) 847-0427",
+  "internationalPhone": "+1 770-847-0427",
+  "website": "http://www.flakynotflaky.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5165493818788437463",
+  "rating": 4.9,
+  "reviewCount": 145,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.7624699,
+    -84.38582629999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flaky-not-flaky-bake-shoppe-and-chocolatarium-atlanta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:11:51.131Z"
+}

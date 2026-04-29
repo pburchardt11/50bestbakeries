@@ -1,0 +1,43 @@
+{
+  "slug": "amoud-anfa",
+  "name": "Amoud Anfa",
+  "curatedName": "Amoud Anfa",
+  "city": "الدار البيضاء",
+  "country": "Morocco",
+  "placeId": "ChIJMz1apuvSpw0RVvKis74Hy_g",
+  "googleName": "Amoud Anfa",
+  "formattedAddress": "26 Bd Al Massira Al Khadra, Casablanca 20250, Morocco",
+  "phone": "05 22 39 07 09",
+  "internationalPhone": "+212 5 22 39 07 09",
+  "website": "http://www.amoud.ma/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17927431257317372502",
+  "rating": 4.1,
+  "reviewCount": 1322,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.586884,
+    -7.6360424
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:30 PM",
+    "Sunday: 7:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": "Established bakery featuring an array of gourmet sweet & savory pastries, cakes & other desserts.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amoud-anfa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:54.020Z"
+}

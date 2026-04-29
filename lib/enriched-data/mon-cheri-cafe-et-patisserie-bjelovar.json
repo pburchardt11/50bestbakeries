@@ -1,0 +1,32 @@
+{
+  "slug": "mon-cheri-cafe-et-patisserie-bjelovar",
+  "name": "Mon Cheri Cafe et Patisserie",
+  "city": "Bjelovar",
+  "country": "Croatia",
+  "placeId": "ChIJUfLk9NM3ZkcRMdfRZn2EqnQ",
+  "googleName": "Mon Cheri Cafe et Patisserie",
+  "formattedAddress": "Ul. Frana Supila 9, 43000, Bjelovar, Croatia",
+  "phone": "043 220 429",
+  "website": "https://moncheri.hr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8406677328571258673",
+  "rating": 4.6,
+  "reviewCount": 110,
+  "coords": [
+    45.9001017,
+    16.8444805
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mon-cheri-cafe-et-patisserie-bjelovar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:49:08.397Z"
+}

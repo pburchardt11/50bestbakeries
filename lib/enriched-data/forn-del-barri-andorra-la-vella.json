@@ -1,0 +1,32 @@
+{
+  "slug": "forn-del-barri-andorra-la-vella",
+  "name": "Forn del Barri",
+  "city": "Andorra la Vella",
+  "country": "Andorra",
+  "placeId": "ChIJqeq8HNqKpRIRyZaasBYaK34",
+  "googleName": "Forn del Barri",
+  "formattedAddress": "Carrer Ciutat de Consuegra, 10, AD500 Andorra la Vella, Andorra",
+  "phone": "860 520",
+  "website": "https://somriucoffeeandorr.wixsite.com/somriucoffee",
+  "googleMapsUrl": "https://maps.google.com/?cid=9091388957532001993",
+  "rating": 4.6,
+  "reviewCount": 61,
+  "coords": [
+    42.5066211,
+    1.5312872
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forn-del-barri-andorra-la-vella/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:16:54.155Z"
+}

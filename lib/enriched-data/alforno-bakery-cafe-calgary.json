@@ -1,0 +1,44 @@
+{
+  "slug": "alforno-bakery-cafe-calgary",
+  "name": "Alforno Bakery & Cafe",
+  "curatedName": "Alforno Bakery & Cafe",
+  "city": "Calgary",
+  "country": "Canada",
+  "placeId": "ChIJixl2Z-VvcVMRCsj_z0G4VxI",
+  "googleName": "Alforno Bakery & Cafe",
+  "formattedAddress": "222 7 St SW, Calgary, AB T2P 0E4, Canada",
+  "phone": "(403) 454-0308",
+  "internationalPhone": "+1 403-454-0308",
+  "website": "http://alforno.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1321727608458561546",
+  "rating": 4.4,
+  "reviewCount": 3236,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.051421,
+    -114.078151
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Modern, light-filled place with cafe fare, baked goods & coffee, plus artisan beer, wine & spirits.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alforno-bakery-cafe-calgary/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:00.868Z"
+}

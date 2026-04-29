@@ -1,0 +1,44 @@
+{
+  "slug": "buttery-co-quezon-city",
+  "name": "Buttery & Co",
+  "curatedName": "Buttery & Co",
+  "city": "Quezon City",
+  "country": "Philippines",
+  "placeId": "ChIJO_p3fG62lzMRemALI8Eaza8",
+  "googleName": "Buttery & Co",
+  "formattedAddress": "104, 1800 Katipunan Ave, Quezon City, 1800 Metro Manila, Philippines",
+  "phone": "0915 333 3990",
+  "internationalPhone": "+63 915 333 3990",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12667810743682031738",
+  "rating": 4.3,
+  "reviewCount": 379,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.6088657,
+    121.0708544
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/buttery-co-quezon-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:02.476Z"
+}

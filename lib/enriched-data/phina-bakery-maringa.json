@@ -1,0 +1,45 @@
+{
+  "slug": "phina-bakery-maringa",
+  "name": "Phina Bakery",
+  "curatedName": "Phina Bakery",
+  "city": "Maringá",
+  "country": "Brazil",
+  "placeId": "ChIJm7-fkFnR7JQR93oYWCwyuWg",
+  "googleName": "Phina Bakery",
+  "formattedAddress": "Av. Herval, 1214 - Zona 7, Maringá - PR, 87030-090, Brazil",
+  "phone": "(44) 99121-0952",
+  "internationalPhone": "+55 44 99121-0952",
+  "website": "https://www.instagram.com/phinabakery/?hl=pt-br",
+  "googleMapsUrl": "https://maps.google.com/?cid=7546117816673925879",
+  "rating": 4.7,
+  "reviewCount": 500,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.414597,
+    -51.9364729
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/phina-bakery-maringa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:03.281Z"
+}

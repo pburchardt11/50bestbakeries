@@ -1,0 +1,43 @@
+{
+  "slug": "downtown-bakers-dehradun",
+  "name": "Downtown Bakers Dehradun",
+  "curatedName": "Downtown Bakers Dehradun",
+  "city": "Dehradun",
+  "country": "India",
+  "placeId": "ChIJs3J9ZrspCTkRQX97uiV3fhA",
+  "googleName": "Downtown Bakers Dehradun",
+  "formattedAddress": "90, Moti Bazar, Ajit Prasad Nagar, Paltan Bazaar, Dehradun, Uttarakhand 248001, India",
+  "phone": "096340 36448",
+  "internationalPhone": "+91 96340 36448",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1188518355598540609",
+  "rating": 4.6,
+  "reviewCount": 614,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.3201975,
+    78.0352055
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/downtown-bakers-dehradun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:28.967Z"
+}

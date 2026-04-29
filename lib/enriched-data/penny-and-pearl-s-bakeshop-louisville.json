@@ -1,0 +1,43 @@
+{
+  "slug": "penny-and-pearl-s-bakeshop-louisville",
+  "name": "Penny and Pearl's Bakeshop",
+  "curatedName": "Penny and Pearl's Bakeshop",
+  "city": "Louisville",
+  "country": "United States",
+  "placeId": "ChIJ3X-xzW91aYgRo7mK-kKQf94",
+  "googleName": "Penny and Pearl's Bakeshop",
+  "formattedAddress": "106 Fairfax Ave, Louisville, KY 40207, USA",
+  "phone": "(502) 890-6004",
+  "internationalPhone": "+1 502-890-6004",
+  "website": "http://www.pennyandpearls.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16032691815807891875",
+  "rating": 4.8,
+  "reviewCount": 210,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.2520174,
+    -85.651135
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: 11:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/penny-and-pearl-s-bakeshop-louisville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:14:25.575Z"
+}

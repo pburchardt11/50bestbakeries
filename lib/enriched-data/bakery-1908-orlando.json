@@ -1,0 +1,44 @@
+{
+  "slug": "bakery-1908-orlando",
+  "name": "Bakery 1908",
+  "curatedName": "Bakery 1908",
+  "city": "Orlando",
+  "country": "United States",
+  "placeId": "ChIJhwc43bZ754gR-1SqjoUIOUI",
+  "googleName": "Bakery 1908",
+  "formattedAddress": "2021 E Colonial Dr, Orlando, FL 32803, USA",
+  "phone": "(407) 668-4128",
+  "internationalPhone": "+1 407-668-4128",
+  "website": "https://bakery1908.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4771854649892951291",
+  "rating": 4.8,
+  "reviewCount": 2065,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.5534969,
+    -81.35532529999999
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:00 PM",
+    "Tuesday: 8:30 AM – 8:00 PM",
+    "Wednesday: 8:30 AM – 8:00 PM",
+    "Thursday: 8:30 AM – 8:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 9:00 PM",
+    "Sunday: 8:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-1908-orlando/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:53.277Z"
+}

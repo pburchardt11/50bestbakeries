@@ -1,0 +1,42 @@
+{
+  "slug": "mandarine-koueider-heliopolis",
+  "name": "Mandarine Koueider",
+  "curatedName": "Mandarine Koueider",
+  "city": "Heliopolis",
+  "country": "Egypt",
+  "placeId": "ChIJmUbmrSA-WBQRGL8NAC4UDoo",
+  "googleName": "Mandarine Koueider",
+  "formattedAddress": "31 Ramses, El-Montaza, Heliopolis, Cairo Governorate 4460244, Egypt",
+  "phone": "02 24186555",
+  "internationalPhone": "+20 2 24186555",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9947910814709956376",
+  "rating": 4.5,
+  "reviewCount": 3302,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.0893056,
+    31.3222448
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 PM, 12:30 PM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mandarine-koueider-heliopolis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:05.580Z"
+}

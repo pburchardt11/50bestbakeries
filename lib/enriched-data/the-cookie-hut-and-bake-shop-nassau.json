@@ -1,0 +1,32 @@
+{
+  "slug": "the-cookie-hut-and-bake-shop-nassau",
+  "name": "The Cookie Hut and Bake Shop",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJ738DW15jL4kRHsJXxa8o4Rk",
+  "googleName": "The Cookie Hut & Bake Shop",
+  "formattedAddress": "2JJ2+RHC, Flamingo Close, Nassau, The Bahamas",
+  "phone": "(242) 341-1840",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1864816456103346718",
+  "rating": 4.5,
+  "reviewCount": 51,
+  "coords": [
+    25.0320519,
+    -77.3986189
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cookie-hut-and-bake-shop-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:42:55.761Z"
+}

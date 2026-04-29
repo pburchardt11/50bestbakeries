@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-pasteleria-la-mamy-aisen",
+  "name": "Panaderia y Pasteleria La Mamy",
+  "city": "Aisén",
+  "country": "Chile",
+  "placeId": "ChIJ0wYiq83bjL0Rz_2aCDgKB-o",
+  "googleName": "Panadería y Pastelería La Mamy",
+  "formattedAddress": "Teniente Merino 172, 6000496 Aysen, Aysén, Chile",
+  "phone": "9 2088 9413",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16863458565490933199",
+  "rating": 4.9,
+  "reviewCount": 32,
+  "coords": [
+    -45.41221669999999,
+    -72.70218059999999
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 9:00 PM",
+    "Tuesday: 8:30 AM – 9:00 PM",
+    "Wednesday: 8:30 AM – 9:00 PM",
+    "Thursday: 8:30 AM – 9:00 PM",
+    "Friday: 8:30 AM – 9:00 PM",
+    "Saturday: 8:30 AM – 9:00 PM",
+    "Sunday: 8:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-pasteleria-la-mamy-aisen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:42:31.801Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "bobe-kitchen-bakery-miami",
+  "name": "Bobe Kitchen & Bakery",
+  "curatedName": "Bobe Kitchen & Bakery",
+  "city": "Miami",
+  "country": "United States",
+  "placeId": "ChIJvzGxHAC32YgRMvfqU29BbyU",
+  "googleName": "Bobe Kitchen & Bakery",
+  "formattedAddress": "236 NE 4th St, Miami, FL 33132, USA",
+  "phone": "(786) 794-3686",
+  "internationalPhone": "+1 786-794-3686",
+  "website": "https://bobekitchen.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2697446648223299378",
+  "rating": 4.9,
+  "reviewCount": 1876,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.7779254,
+    -80.1895698
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bobe-kitchen-bakery-miami/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:06.053Z"
+}

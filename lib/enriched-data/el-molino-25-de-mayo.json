@@ -1,0 +1,30 @@
+{
+  "slug": "el-molino-25-de-mayo",
+  "name": "El Molino",
+  "city": "25 de Mayo",
+  "country": "Argentina",
+  "placeId": "ChIJV9es3HlhvpURQ7oyUsRI88U",
+  "googleName": "Molino harinero belgrains",
+  "formattedAddress": "Calle 3, C. 39 &, B6660 Veinticinco de Mayo, Provincia de Buenos Aires, Argentina",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14263824452842338883",
+  "rating": 3,
+  "reviewCount": 1,
+  "coords": [
+    -35.422683,
+    -60.1622143
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T06:20:57.902Z"
+}

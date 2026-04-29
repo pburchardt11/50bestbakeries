@@ -1,0 +1,44 @@
+{
+  "slug": "la-flor-de-canela-naucalpan-de-juarez",
+  "name": "La Flor de Canela",
+  "curatedName": "La Flor de Canela",
+  "city": "Naucalpan de Juárez",
+  "country": "Mexico",
+  "placeId": "ChIJt0aqyuIC0oURtGi4Cbkxt1U",
+  "googleName": "La Flor de Canela",
+  "formattedAddress": "Hacienda de la Gavia 69, Bosques de Echegaray, 53310 Naucalpan de Juárez, Méx., Mexico",
+  "phone": "55 5373 0779",
+  "internationalPhone": "+52 55 5373 0779",
+  "website": "http://www.laflordecanela.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6176460084763715764",
+  "rating": 4.5,
+  "reviewCount": 342,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4873074,
+    -99.2328275
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:30 PM",
+    "Tuesday: 9:00 AM – 8:30 PM",
+    "Wednesday: 9:00 AM – 8:30 PM",
+    "Thursday: 9:00 AM – 8:30 PM",
+    "Friday: 9:00 AM – 8:30 PM",
+    "Saturday: 9:00 AM – 8:30 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-flor-de-canela-naucalpan-de-juarez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:55:52.444Z"
+}

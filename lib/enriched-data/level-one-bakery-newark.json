@@ -1,0 +1,43 @@
+{
+  "slug": "level-one-bakery-newark",
+  "name": "Level One Bakery",
+  "curatedName": "Level One Bakery",
+  "city": "Newark",
+  "country": "United States",
+  "placeId": "ChIJ0ySdJChTwokRb3ycy6HtcAU",
+  "googleName": "Level One Bakery",
+  "formattedAddress": "1051 Bergen St, Newark, NJ 07112, USA",
+  "phone": "(973) 705-8072",
+  "internationalPhone": "+1 973-705-8072",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=392074446742781039",
+  "rating": 4.7,
+  "reviewCount": 125,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7083029,
+    -74.2081468
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/level-one-bakery-newark/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:16:05.771Z"
+}

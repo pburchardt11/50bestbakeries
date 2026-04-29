@@ -1,0 +1,43 @@
+{
+  "slug": "os-doces-da-fer-esposito-limeira",
+  "name": "Os Doces da Fer Espósito",
+  "curatedName": "Os Doces da Fer Espósito",
+  "city": "Limeira",
+  "country": "Brazil",
+  "placeId": "ChIJAcgke9CByJQRy-UaBIRA8U4",
+  "googleName": "Os Doces da Fer Espósito",
+  "formattedAddress": "R. Louis Pasteur, 165 - Vila Castelar, Limeira - SP, 13484-076, Brazil",
+  "phone": "(19) 98173-0676",
+  "internationalPhone": "+55 19 98173-0676",
+  "website": "https://osdocesdafer.com.br/os_doces_da_fer",
+  "googleMapsUrl": "https://maps.google.com/?cid=5688398740094379467",
+  "rating": 5,
+  "reviewCount": 505,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.551709,
+    -47.4120648
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 6:00 PM",
+    "Tuesday: 12:00 – 6:00 PM",
+    "Wednesday: 12:00 – 6:00 PM",
+    "Thursday: 12:00 – 6:00 PM",
+    "Friday: 12:00 – 6:00 PM",
+    "Saturday: 12:00 – 6:00 PM",
+    "Sunday: 12:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/os-doces-da-fer-esposito-limeira/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:34.375Z"
+}

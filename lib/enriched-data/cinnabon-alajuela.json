@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-alajuela",
+  "name": "Cinnabon",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJ5Z3d0b75oI8RYNuzq5TXPFw",
+  "googleName": "Cinnabon • Alajuela",
+  "formattedAddress": "City Mall Alajuela, Alajuela Province, Radial, Monserrat, 20101, Costa Rica",
+  "phone": "2248 1590",
+  "website": "https://www.cinnabon.cr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6646424183627832160",
+  "rating": 3.9,
+  "reviewCount": 31,
+  "coords": [
+    10.0046726,
+    -84.2117499
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnabon-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:37.977Z"
+}

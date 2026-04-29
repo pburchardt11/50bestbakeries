@@ -1,0 +1,32 @@
+{
+  "slug": "aregak-bakery-and-cafe",
+  "name": "Aregak Bakery and Cafe",
+  "city": "Գյումրի",
+  "country": "Armenia",
+  "placeId": "ChIJBR5KF4z7QUARhJS3AYe0Jy4",
+  "googleName": "Aregak Bakery and Café",
+  "formattedAddress": "242 Abovyan St, Gyumri 3101, Armenia",
+  "phone": "098 441088",
+  "website": "http://www.aregakbakeryandcafe.weebly.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3325825341778793604",
+  "rating": 4.9,
+  "reviewCount": 196,
+  "coords": [
+    40.7863311,
+    43.84088999999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aregak-bakery-and-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:22:21.984Z"
+}

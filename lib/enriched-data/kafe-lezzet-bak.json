@@ -1,0 +1,32 @@
+{
+  "slug": "kafe-lezzet-bak",
+  "name": "Kafe Lezzet",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJd-j9Ou19MEARJir9-EusBWI",
+  "googleName": "Lezzet",
+  "formattedAddress": "31/53 Həsən bəy Zərdabi, Bakı, Azerbaijan",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7063241032900356646",
+  "rating": 4.3,
+  "reviewCount": 184,
+  "coords": [
+    40.38925649999999,
+    49.805708
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kafe-lezzet-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:36:22.934Z"
+}

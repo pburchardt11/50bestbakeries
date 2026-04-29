@@ -1,0 +1,32 @@
+{
+  "slug": "blue-bakery-aleksandrovo",
+  "name": "Blue Bakery",
+  "city": "Aleksandrovo",
+  "country": "Bulgaria",
+  "placeId": "ChIJwRpSyFrnpUARlSOlWuoyfqM",
+  "googleName": "Синята Пекарна / Blue Bakery",
+  "formattedAddress": "ул. Охрид 4, 9829 Alexandrovo, Bulgaria",
+  "phone": "087 900 0175",
+  "website": "https://www.facebook.com/profile.php?id=61550944073247",
+  "googleMapsUrl": "https://maps.google.com/?cid=11780909657372304277",
+  "rating": 4.8,
+  "reviewCount": 114,
+  "coords": [
+    42.9888056,
+    26.9779709
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blue-bakery-aleksandrovo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:22:52.392Z"
+}

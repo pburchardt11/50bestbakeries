@@ -1,0 +1,43 @@
+{
+  "slug": "kofken-panificacion-local-ensenada",
+  "name": "Kofken Panificación Local",
+  "curatedName": "Kofken Panificación Local",
+  "city": "Ensenada",
+  "country": "Mexico",
+  "placeId": "ChIJR5e_DleT2IARR96MXbxNiK0",
+  "googleName": "Kofken Panificación Local",
+  "formattedAddress": "Miramar Calle Novena &, Zona Centro, 22800 Ensenada, B.C., Mexico",
+  "phone": "646 185 8353",
+  "internationalPhone": "+52 646 185 8353",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12504329836812885575",
+  "rating": 4.7,
+  "reviewCount": 344,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.8704874,
+    -116.6212385
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:30 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kofken-panificacion-local-ensenada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:55:28.041Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "jennivee-s-bakery-cafe-chicago",
+  "name": "Jennivee's Bakery & Cafe",
+  "curatedName": "Jennivee's Bakery & Cafe",
+  "city": "Chicago",
+  "country": "United States",
+  "placeId": "ChIJC4USPKzTD4gRYcCRg302yps",
+  "googleName": "Jennivee's Bakery & Cafe",
+  "formattedAddress": "2925 N Halsted St, Chicago, IL 60657, USA",
+  "phone": "(773) 941-7200",
+  "internationalPhone": "+1 773-941-7200",
+  "website": "http://www.jenniveesbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11225844933880561761",
+  "rating": 4.6,
+  "reviewCount": 1214,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.9353804,
+    -87.648968
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Quaint local bakeshop offering unique cakes, cupcakes, breakfast pastries, brownies & more.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jennivee-s-bakery-cafe-chicago/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:08:35.527Z"
+}

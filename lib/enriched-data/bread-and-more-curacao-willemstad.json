@@ -1,0 +1,32 @@
+{
+  "slug": "bread-and-more-curacao-willemstad",
+  "name": "Bread and More Curacao",
+  "city": "Willemstad",
+  "country": "Curaçao",
+  "placeId": "ChIJr4ec44uahI4Rhk9ieBgU-zI",
+  "googleName": "Bread and more",
+  "formattedAddress": "Coral Estate, Sint Willibrordus, Curaçao",
+  "phone": "9 724 5667",
+  "website": "http://breadandmorecuracao.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3673552016382250886",
+  "rating": 4.2,
+  "reviewCount": 74,
+  "coords": [
+    12.198643,
+    -69.0778875
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-and-more-curacao-willemstad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:35.851Z"
+}

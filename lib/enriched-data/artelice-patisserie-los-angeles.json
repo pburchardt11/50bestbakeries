@@ -1,0 +1,44 @@
+{
+  "slug": "artelice-patisserie-los-angeles",
+  "name": "Artelice Pâtisserie",
+  "curatedName": "Artelice Pâtisserie",
+  "city": "Los Angeles",
+  "country": "United States",
+  "placeId": "ChIJ2byf0Qq7woARVE90VJm4PiU",
+  "googleName": "Artelice Pâtisserie",
+  "formattedAddress": "11301 W Olympic Blvd UNIT 123, Los Angeles, CA 90064, USA",
+  "phone": "(424) 293-8846",
+  "internationalPhone": "+1 424-293-8846",
+  "website": "https://www.artelicela.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2683785396645810004",
+  "rating": 4.8,
+  "reviewCount": 652,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.0381149,
+    -118.4417864
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:30 AM – 6:00 PM",
+    "Wednesday: 9:30 AM – 6:00 PM",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 5:00 PM",
+    "Sunday: 9:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artelice-patisserie-los-angeles/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:44.841Z"
+}

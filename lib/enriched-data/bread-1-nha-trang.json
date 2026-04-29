@@ -1,0 +1,43 @@
+{
+  "slug": "bread-1-nha-trang",
+  "name": "BREAD 1",
+  "curatedName": "BREAD 1",
+  "city": "Nha Trang",
+  "country": "Vietnam",
+  "placeId": "ChIJ27xESGRncDERdbVmKx3hNNY",
+  "googleName": "BREAD 1",
+  "formattedAddress": "45 Tô Hiến Thành, Tân Lập, Nha Trang, Khánh Hòa 650000, Vietnam",
+  "phone": "0365 151 322",
+  "internationalPhone": "+84 365 151 322",
+  "website": "https://banhtt.com.vn/banh-ngot-au.html",
+  "googleMapsUrl": "https://maps.google.com/?cid=15435209338303985013",
+  "rating": 4.6,
+  "reviewCount": 484,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.2399322,
+    109.1922902
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-1-nha-trang/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:14.758Z"
+}

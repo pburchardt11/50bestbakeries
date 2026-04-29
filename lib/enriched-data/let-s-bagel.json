@@ -1,0 +1,24 @@
+{
+  "slug": "let-s-bagel",
+  "name": "Let's Bagel",
+  "city": "المنامة",
+  "country": "Bahrain",
+  "placeId": "ChIJ67besHilST4RyABDBIcSOV0",
+  "googleName": "let's bagel",
+  "formattedAddress": "6HM4+43M, Manama, Bahrain",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6717420690301190344",
+  "rating": 3.6,
+  "reviewCount": 11,
+  "coords": [
+    26.232832,
+    50.5551663
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/let-s-bagel/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:48:59.292Z"
+}

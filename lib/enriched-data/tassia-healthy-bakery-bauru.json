@@ -1,0 +1,43 @@
+{
+  "slug": "tassia-healthy-bakery-bauru",
+  "name": "Tássia Healthy Bakery",
+  "curatedName": "Tássia Healthy Bakery",
+  "city": "Bauru",
+  "country": "Brazil",
+  "placeId": "ChIJZcP3a01nv5QRcl0dl8Vd9rw",
+  "googleName": "Tássia Healthy Bakery",
+  "formattedAddress": "R. Araújo Leite, 38-70 - Jardim Aeroporto, Bauru - SP, 17012-432, Brazil",
+  "phone": "(14) 99901-8975",
+  "internationalPhone": "+55 14 99901-8975",
+  "website": "https://instagram.com/tassiahealthybakery?igshid=s17ps6wzfxtd",
+  "googleMapsUrl": "https://maps.google.com/?cid=13616173626626497906",
+  "rating": 4.8,
+  "reviewCount": 100,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.341549,
+    -49.0579845
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tassia-healthy-bakery-bauru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:20:15.034Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-zoi-cuernavaca",
+  "name": "Pastelería Zoi",
+  "curatedName": "Pastelería Zoi",
+  "city": "Cuernavaca",
+  "country": "Mexico",
+  "placeId": "ChIJv3iChyrezYURazrNXORYYpk",
+  "googleName": "Pastelería Zoi",
+  "formattedAddress": "Av. Domingo Diez 1480, Maravillas, 62230 Cuernavaca, Mor., Mexico",
+  "phone": "777 313 4369",
+  "internationalPhone": "+52 777 313 4369",
+  "website": "http://zoi.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11052494173353359979",
+  "rating": 4.7,
+  "reviewCount": 182,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.9565403,
+    -99.23679519999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-zoi-cuernavaca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:31.206Z"
+}

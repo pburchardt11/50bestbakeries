@@ -1,0 +1,44 @@
+{
+  "slug": "gooey-bakery-cafe-manchester",
+  "name": "Gooey Bakery + Cafè",
+  "curatedName": "Gooey Bakery + Cafè",
+  "city": "Manchester",
+  "country": "United Kingdom",
+  "placeId": "ChIJB54wFIKxe0gRCwpRNB0o3XI",
+  "googleName": "Gooey Bakery + Café",
+  "formattedAddress": "103 High St, Manchester M4 1HQ, UK",
+  "phone": "07399 775196",
+  "internationalPhone": "+44 7399 775196",
+  "website": "https://gooeybakery.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8276815796073728523",
+  "rating": 4.4,
+  "reviewCount": 1296,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.485083,
+    -2.236329
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gooey-bakery-cafe-manchester/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:06:13.442Z"
+}

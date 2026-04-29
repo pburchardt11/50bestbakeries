@@ -1,0 +1,43 @@
+{
+  "slug": "la-maison-d-isabelle-paris",
+  "name": "La Maison d'Isabelle",
+  "curatedName": "La Maison d'Isabelle",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJz-BeBRtx5kcR-L_OQPGGf8E",
+  "googleName": "La Maison d'Isabelle",
+  "formattedAddress": "47ter Bd Saint-Germain, 75005 Paris, France",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13943011342094876664",
+  "rating": 4.5,
+  "reviewCount": 5127,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8498436,
+    2.3482751
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-maison-d-isabelle-paris/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:34.945Z"
+}

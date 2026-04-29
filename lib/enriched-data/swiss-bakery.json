@@ -1,0 +1,34 @@
+{
+  "slug": "swiss-bakery",
+  "name": "Swiss Bakery",
+  "curatedName": "Swiss Bakery",
+  "city": "أبوظبي",
+  "country": "UAE",
+  "placeId": "ChIJHTAaU0ZmXj4RWwC7cTQViaU",
+  "googleName": "Swiss Bakery",
+  "formattedAddress": "F9MG+FWV - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11928088403058032731",
+  "rating": 2.5,
+  "reviewCount": 4,
+  "priceLevel": null,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    24.4837274,
+    54.3773081
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/swiss-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:37.460Z"
+}

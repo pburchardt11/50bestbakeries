@@ -1,0 +1,32 @@
+{
+  "slug": "patrick-s-pastry",
+  "name": "Patrick's Pastry",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJK2GDzR29akARq771fA1oOdw",
+  "googleName": "Patrick's Pastry",
+  "formattedAddress": "64 Arami poghots, Yerevan 0002, Armenia",
+  "phone": "044 008118",
+  "website": "http://www.patrickspastry.am/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15868829169156996779",
+  "rating": 3.8,
+  "reviewCount": 143,
+  "coords": [
+    40.1831849,
+    44.5089546
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patrick-s-pastry/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:26:52.880Z"
+}

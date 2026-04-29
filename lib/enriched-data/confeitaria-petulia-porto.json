@@ -1,0 +1,44 @@
+{
+  "slug": "confeitaria-petulia-porto",
+  "name": "Confeitaria Petúlia",
+  "curatedName": "Confeitaria Petúlia",
+  "city": "Porto",
+  "country": "Portugal",
+  "placeId": "ChIJ6TzMfQhlJA0RSd9WClaTkxY",
+  "googleName": "Confeitaria Petúlia",
+  "formattedAddress": "Rua de Júlio Dinis 775, 4050-326 Porto, Portugal",
+  "phone": "22 606 6181",
+  "internationalPhone": "+351 22 606 6181",
+  "website": "http://www.petulia.pt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1626805888160816969",
+  "rating": 4.5,
+  "reviewCount": 3264,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1554456,
+    -8.6275011
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-petulia-porto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:51.114Z"
+}

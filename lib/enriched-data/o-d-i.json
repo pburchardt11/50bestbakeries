@@ -1,0 +1,32 @@
+{
+  "slug": "o-d-i",
+  "name": "O.D.I",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJJyWun8LP20YRcgXTMk4kIF0",
+  "googleName": "The ODI",
+  "formattedAddress": "prasp. Niezaliežnasci 12, Minsk, Minskaja voblasć, Belarus",
+  "phone": "8 044 772-12-12",
+  "website": "http://odi.by/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6710403363060778354",
+  "rating": 4.5,
+  "reviewCount": 2166,
+  "coords": [
+    53.8970923,
+    27.5526327
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/o-d-i/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:59:57.474Z"
+}

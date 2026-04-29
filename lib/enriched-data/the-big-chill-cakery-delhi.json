@@ -1,0 +1,43 @@
+{
+  "slug": "the-big-chill-cakery-delhi",
+  "name": "The Big Chill Cakery",
+  "curatedName": "The Big Chill Cakery",
+  "city": "Delhi",
+  "country": "India",
+  "placeId": "ChIJu1Ady-niDDkRp2XV5rLRQwI",
+  "googleName": "The Big Chill Cakery",
+  "formattedAddress": "3-b, 68 A, Khan Market, Rabindra Nagar, New Delhi, Delhi 110003, India",
+  "phone": "011 4004 1500",
+  "internationalPhone": "+91 11 4004 1500",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=163204577822598567",
+  "rating": 4.4,
+  "reviewCount": 1799,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.5997996,
+    77.2260637
+  ],
+  "openingHours": [
+    "Monday: 12:00 PM – 12:00 AM",
+    "Tuesday: 12:00 PM – 12:00 AM",
+    "Wednesday: 12:00 PM – 12:00 AM",
+    "Thursday: 12:00 PM – 12:00 AM",
+    "Friday: 12:00 PM – 12:00 AM",
+    "Saturday: 12:00 PM – 12:00 AM",
+    "Sunday: 12:00 PM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-big-chill-cakery-delhi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:52.336Z"
+}

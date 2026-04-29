@@ -1,0 +1,43 @@
+{
+  "slug": "woodlea-bakery-baltimore",
+  "name": "Woodlea Bakery",
+  "curatedName": "Woodlea Bakery",
+  "city": "Baltimore",
+  "country": "United States",
+  "placeId": "ChIJR7zrTNoFyIkROpg35hdrBdM",
+  "googleName": "Woodlea Bakery",
+  "formattedAddress": "4905 Belair Rd, Baltimore, MD 21206, USA",
+  "phone": "(410) 488-7717",
+  "internationalPhone": "+1 410-488-7717",
+  "website": "http://www.woodleabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15205677467277170746",
+  "rating": 4.6,
+  "reviewCount": 949,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.33451549999999,
+    -76.5564571
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/woodlea-bakery-baltimore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:13:31.909Z"
+}

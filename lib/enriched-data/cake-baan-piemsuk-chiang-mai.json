@@ -1,0 +1,43 @@
+{
+  "slug": "cake-baan-piemsuk-chiang-mai",
+  "name": "(Cake Baan Piemsuk)",
+  "curatedName": "(Cake Baan Piemsuk)",
+  "city": "Chiang Mai",
+  "country": "Thailand",
+  "placeId": "ChIJF2v5B7A62jARxvLVc5DvEkU",
+  "googleName": "Cake Baan Piemsuk",
+  "formattedAddress": "165 167 ถนน เจริญราษฎร์ Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000, Thailand",
+  "phone": "085 525 0752",
+  "internationalPhone": "+66 85 525 0752",
+  "website": "https://www.facebook.com/baanpiemsuk",
+  "googleMapsUrl": "https://maps.google.com/?cid=4977303941895549638",
+  "rating": 4.5,
+  "reviewCount": 2489,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.7927395,
+    99.0018582
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 6:30 PM",
+    "Tuesday: 9:30 AM – 6:30 PM",
+    "Wednesday: 9:30 AM – 6:30 PM",
+    "Thursday: 9:30 AM – 6:30 PM",
+    "Friday: 9:30 AM – 6:30 PM",
+    "Saturday: 9:30 AM – 6:30 PM",
+    "Sunday: 9:30 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-baan-piemsuk-chiang-mai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:44.505Z"
+}

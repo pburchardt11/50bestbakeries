@@ -1,0 +1,45 @@
+{
+  "slug": "padoca-do-enaldo-campo-grande",
+  "name": "Padoca do Enaldo",
+  "curatedName": "Padoca do Enaldo",
+  "city": "Campo Grande",
+  "country": "Brazil",
+  "placeId": "ChIJfabRNfPnhpQRJgWUfs7nmOY",
+  "googleName": "Padoca do Enaldo",
+  "formattedAddress": "R. Dom Aquino, 2158 - Centro, Campo Grande - MS, 79002-182, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://acuolina.com/pt/padoca-do-enaldo",
+  "googleMapsUrl": "https://maps.google.com/?cid=16616285699256354086",
+  "rating": 4.6,
+  "reviewCount": 1090,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.4604255,
+    -54.6105895
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padoca-do-enaldo-campo-grande/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:46.568Z"
+}

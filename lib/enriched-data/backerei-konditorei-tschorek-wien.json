@@ -1,0 +1,45 @@
+{
+  "slug": "backerei-konditorei-tschorek-wien",
+  "name": "Bäckerei & Konditorei Tschörek",
+  "curatedName": "Bäckerei & Konditorei Tschörek",
+  "city": "Wien",
+  "country": "Austria",
+  "placeId": "ChIJY37pZQsIbUcRPQ41jpntgI8",
+  "googleName": "Bäckerei & Konditorei Tschörek",
+  "formattedAddress": "Wilhelminenstraße 18, 1160 Wien, Austria",
+  "phone": "0676 3923213",
+  "internationalPhone": "+43 676 3923213",
+  "website": "https://www.tschoerek.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10340525988214279741",
+  "rating": 4.9,
+  "reviewCount": 879,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.2163234,
+    16.3193653
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-konditorei-tschorek-wien/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:24.955Z"
+}

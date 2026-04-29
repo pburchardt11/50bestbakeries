@@ -1,0 +1,43 @@
+{
+  "slug": "brown-loaf-bakery-ottawa",
+  "name": "Brown Loaf Bakery",
+  "curatedName": "Brown Loaf Bakery",
+  "city": "Ottawa",
+  "country": "Canada",
+  "placeId": "ChIJN6OBOKkFzkwR25rbHl8CBNY",
+  "googleName": "Brown Loaf Bakery",
+  "formattedAddress": "268 Elgin St, Ottawa, ON K2P 1M2, Canada",
+  "phone": "(613) 236-3255",
+  "internationalPhone": "+1 613-236-3255",
+  "website": "https://www.facebook.com/brownloafelgin/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15421453631586278107",
+  "rating": 4.8,
+  "reviewCount": 325,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4176115,
+    -75.6903248
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:30 PM",
+    "Sunday: 7:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brown-loaf-bakery-ottawa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:04.765Z"
+}

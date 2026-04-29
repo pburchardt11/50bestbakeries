@@ -1,0 +1,32 @@
+{
+  "slug": "soho-patisserie-chocolaterie",
+  "name": "SoHo Patisserie & Chocolaterie",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJT66_9wK9akARlONe_QWSgOk",
+  "googleName": "SoHo Patisserie & Chocolaterie",
+  "formattedAddress": "24 Martiros Saryan St, Yerevan 0002, Armenia",
+  "phone": "(011) 770337",
+  "website": "https://soho.am/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16825608762279519124",
+  "rating": 4.3,
+  "reviewCount": 87,
+  "coords": [
+    40.1840437,
+    44.5050976
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/soho-patisserie-chocolaterie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:27:09.521Z"
+}

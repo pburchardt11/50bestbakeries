@@ -1,0 +1,43 @@
+{
+  "slug": "holland-bakery-depok",
+  "name": "Holland Bakery",
+  "curatedName": "Holland Bakery",
+  "city": "Depok",
+  "country": "Indonesia",
+  "placeId": "ChIJ8UUSLA7raS4R8pm8topWHew",
+  "googleName": "Holland Bakery Grand Depok City",
+  "formattedAddress": "Jl. Boulevard Grand Depok City, Tirtajaya, Kec. Sukmajaya, Kota Depok, Jawa Barat 16412, Indonesia",
+  "phone": "0813-1562-3679",
+  "internationalPhone": "+62 813-1562-3679",
+  "website": "https://www.hollandbakery.co.id/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17013850121046890994",
+  "rating": 4.6,
+  "reviewCount": 165,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.420111599999999,
+    106.8286307
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/holland-bakery-depok/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:44.823Z"
+}

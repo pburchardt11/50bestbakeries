@@ -1,0 +1,45 @@
+{
+  "slug": "melo-coffee-and-bakery-bari",
+  "name": "Melo Coffee and Bakery",
+  "curatedName": "Melo Coffee and Bakery",
+  "city": "Bari",
+  "country": "Italy",
+  "placeId": "ChIJ_QnqqRrpRxMR1Mip_B7cVXI",
+  "googleName": "Melo Coffee and Bakery",
+  "formattedAddress": "Via Melo da Bari, 174, 70121 Bari BA, Italy",
+  "phone": "080 865 1951",
+  "internationalPhone": "+39 080 865 1951",
+  "website": "https://www.melocoffeeandbakery.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8238733118990305492",
+  "rating": 4.5,
+  "reviewCount": 693,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1209248,
+    16.8717091
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/melo-coffee-and-bakery-bari/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:34.465Z"
+}

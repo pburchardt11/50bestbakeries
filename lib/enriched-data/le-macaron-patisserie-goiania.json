@@ -1,0 +1,45 @@
+{
+  "slug": "le-macaron-patisserie-goiania",
+  "name": "Le Macaron Pâtisserie",
+  "curatedName": "Le Macaron Pâtisserie",
+  "city": "Goiânia",
+  "country": "Brazil",
+  "placeId": "ChIJTUzQqUHxXpMRoudQLQW4dDw",
+  "googleName": "Le Macaron Pâtisserie",
+  "formattedAddress": "Rua 26, 22 - qd g12 lt 05 - Marista, Goiânia - GO, 74150-080, Brazil",
+  "phone": "(62) 3931-0210",
+  "internationalPhone": "+55 62 3931-0210",
+  "website": "https://www.instagram.com/lemacaronbrasil/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4356309071948736418",
+  "rating": 4.8,
+  "reviewCount": 92,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -16.6927923,
+    -49.266468
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-macaron-patisserie-goiania/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:25.261Z"
+}

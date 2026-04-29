@@ -1,0 +1,43 @@
+{
+  "slug": "mita-cake-house-kuching",
+  "name": "Mita Cake House",
+  "curatedName": "Mita Cake House",
+  "city": "Kuching",
+  "country": "Malaysia",
+  "placeId": "ChIJef2AUoun-zERMvGpB73bols",
+  "googleName": "Mita Cake House",
+  "formattedAddress": "155A, Jalan Satok, 93400 Kuching, Sarawak, Malaysia",
+  "phone": "082-416 955",
+  "internationalPhone": "+60 82-416 955",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6603081608602448178",
+  "rating": 4.3,
+  "reviewCount": 1764,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.5527489,
+    110.3368467
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:30 PM",
+    "Tuesday: 7:30 AM – 8:30 PM",
+    "Wednesday: 7:30 AM – 8:30 PM",
+    "Thursday: 7:30 AM – 8:30 PM",
+    "Friday: 7:30 AM – 8:30 PM",
+    "Saturday: 7:30 AM – 8:30 PM",
+    "Sunday: 7:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mita-cake-house-kuching/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:07.559Z"
+}

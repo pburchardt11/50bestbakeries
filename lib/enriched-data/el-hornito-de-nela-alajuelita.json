@@ -1,0 +1,32 @@
+{
+  "slug": "el-hornito-de-nela-alajuelita",
+  "name": "El Hornito de Nela",
+  "city": "Alajuelita",
+  "country": "Costa Rica",
+  "placeId": "ChIJPcnH4MT9oI8RmYpR_tkG56U",
+  "googleName": "El Hornito de Nela",
+  "formattedAddress": "Urb.Bellotas, de la última parada de bus, tercera entrada a la izquierda, San José Province, Alajuelita, Guapil, 11005, Costa Rica",
+  "phone": "8899 4175",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11954531269222697625",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    9.9227739,
+    -84.1186488
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 – 7:00 AM",
+    "Sunday: 6:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-hornito-de-nela-alajuelita/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:48:09.750Z"
+}

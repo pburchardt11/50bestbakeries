@@ -1,0 +1,32 @@
+{
+  "slug": "kozaro",
+  "name": "KOZARO",
+  "city": "Ботевград",
+  "country": "Bulgaria",
+  "placeId": "ChIJ6RtvD-JZqkARVzAgC-AjQfU",
+  "googleName": "KOZARO",
+  "formattedAddress": "2140, Tsentar, 2140 Botevgrad, Bulgaria",
+  "phone": "087 750 5432",
+  "website": "http://kozaro.bg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17672445857944842327",
+  "rating": 4.6,
+  "reviewCount": 282,
+  "coords": [
+    42.9071887,
+    23.7904816
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kozaro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:25:15.216Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "neighbor-s-mill-bakery-cafe-harrison",
+  "name": "Neighbor's Mill Bakery & Cafe",
+  "curatedName": "Neighbor's Mill Bakery & Cafe",
+  "city": "Harrison",
+  "country": "United States",
+  "placeId": "ChIJS-puUg71zocRer4x4YwzZlw",
+  "googleName": "Neighbor's Mill Bakery & Cafe",
+  "formattedAddress": "1012 U.S. 65 North, 1012 N Highway 62 65 Bus, Harrison, AR 72601, USA",
+  "phone": "(870) 741-6455",
+  "internationalPhone": "+1 870-741-6455",
+  "website": "http://www.neighborsmill.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6658065779280428666",
+  "rating": 4.7,
+  "reviewCount": 1816,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.256985,
+    -93.125166
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/neighbor-s-mill-bakery-cafe-harrison/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:08.640Z"
+}

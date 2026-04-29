@@ -1,0 +1,45 @@
+{
+  "slug": "sylvana-briocherie-gonflee-lille",
+  "name": "Sylvana Briocherie Gonflée",
+  "curatedName": "Sylvana Briocherie Gonflée",
+  "city": "Lille",
+  "country": "France",
+  "placeId": "ChIJl0O02PrVwkcR6luP5WIFgQk",
+  "googleName": "Sylvana Briocherie Gonflée",
+  "formattedAddress": "24 Bd Victor Hugo, 59000 Lille, France",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.briocheriesylvana.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=684834540653337578",
+  "rating": 4.8,
+  "reviewCount": 726,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.62395679999999,
+    3.0660833
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sylvana-briocherie-gonflee-lille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:42.088Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "grains-de-sucres-lyon",
+  "name": "Grains de Sucres",
+  "curatedName": "Grains de Sucres",
+  "city": "Lyon",
+  "country": "France",
+  "placeId": "ChIJNbOiS8nr9EcRdD1PrKQKxns",
+  "googleName": "Grains de Sucres",
+  "formattedAddress": "45 Rue de Trion, 69005 Lyon, France",
+  "phone": "04 81 91 31 87",
+  "internationalPhone": "+33 4 81 91 31 87",
+  "website": "https://grainsdesucres.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8918827814435634548",
+  "rating": 4.8,
+  "reviewCount": 516,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.7569644,
+    4.815824
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 6:30 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grains-de-sucres-lyon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:36.316Z"
+}

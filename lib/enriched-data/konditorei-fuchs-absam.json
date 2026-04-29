@@ -1,0 +1,32 @@
+{
+  "slug": "konditorei-fuchs-absam",
+  "name": "Konditorei Fuchs",
+  "city": "Absam",
+  "country": "Austria",
+  "placeId": "ChIJH60MVX1vnUcRYlXv8MQdGlg",
+  "googleName": "Konditorei Fuchs",
+  "formattedAddress": "Salzbergstraße 20, 6067 Absam, Austria",
+  "phone": "05223 55355",
+  "website": "http://www.konditorei-fuchs.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6348419356425147746",
+  "rating": 4.7,
+  "reviewCount": 510,
+  "coords": [
+    47.2924397,
+    11.5144246
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditorei-fuchs-absam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:30:23.857Z"
+}

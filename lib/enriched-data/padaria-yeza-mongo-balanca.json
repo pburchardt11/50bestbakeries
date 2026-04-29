@@ -1,0 +1,32 @@
+{
+  "slug": "padaria-yeza-mongo-balanca",
+  "name": "Padaria Yeza",
+  "city": "Mongo Balanca",
+  "country": "Angola",
+  "placeId": "ChIJoWKmf2_TXRoRjc4y68VB5do",
+  "googleName": "Padaria Yeza",
+  "formattedAddress": "95XV+CXP, Cabinda, Angola",
+  "phone": "926 647 187",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15773085588245368461",
+  "rating": 4.1,
+  "reviewCount": 14,
+  "coords": [
+    -5.6014059,
+    12.1949615
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-yeza-mongo-balanca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:18:28.596Z"
+}

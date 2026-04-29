@@ -1,0 +1,43 @@
+{
+  "slug": "duchess-bake-shop-edmonton",
+  "name": "Duchess Bake Shop",
+  "curatedName": "Duchess Bake Shop",
+  "city": "Edmonton",
+  "country": "Canada",
+  "placeId": "ChIJ2x8ZfdEjoFMR9rCeZvnHvlc",
+  "googleName": "Duchess Bake Shop",
+  "formattedAddress": "10718 124 St, Edmonton, AB T5M 0H1, Canada",
+  "phone": "(780) 488-4999",
+  "internationalPhone": "+1 780-488-4999",
+  "website": "http://duchessbakeshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6322710800857215222",
+  "rating": 4.6,
+  "reviewCount": 2991,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.5515464,
+    -113.5361601
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Warm, chic bakery serving macarons, croissants, tarts, cakes & éclairs, plus lunch staples & coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/duchess-bake-shop-edmonton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:16.263Z"
+}

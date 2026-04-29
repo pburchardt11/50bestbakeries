@@ -1,0 +1,43 @@
+{
+  "slug": "the-cake-bar-denver",
+  "name": "The Cake Bar",
+  "curatedName": "The Cake Bar",
+  "city": "Denver",
+  "country": "United States",
+  "placeId": "ChIJqY5tJEd_bIcR4DxP2XF8Xt8",
+  "googleName": "The Cake Bar",
+  "formattedAddress": "214 E 13th Ave, Denver, CO 80203, USA",
+  "phone": "(303) 568-9752",
+  "internationalPhone": "+1 303-568-9752",
+  "website": "https://thecakebardenver.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16095438946687728864",
+  "rating": 4.9,
+  "reviewCount": 654,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.736722,
+    -104.984358
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-bar-denver/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:03.687Z"
+}

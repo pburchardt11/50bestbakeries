@@ -1,0 +1,43 @@
+{
+  "slug": "fabrique-pao-e-cafe-sao-paulo",
+  "name": "Fabrique Pão e Café",
+  "curatedName": "Fabrique Pão e Café",
+  "city": "São Paulo",
+  "country": "Brazil",
+  "placeId": "ChIJh0SwAjFYzpQREGTS4Kfxuzc",
+  "googleName": "Fabrique Pão e Café",
+  "formattedAddress": "R. Itacolomi, 612 - Higienópolis, São Paulo - SP, 01239-020, Brazil",
+  "phone": "(11) 4801-4318",
+  "internationalPhone": "+55 11 4801-4318",
+  "website": "https://www.instagram.com/fabriquepaes/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4016069196064646160",
+  "rating": 4.5,
+  "reviewCount": 4599,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5492228,
+    -46.65786180000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fabrique-pao-e-cafe-sao-paulo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:57.708Z"
+}

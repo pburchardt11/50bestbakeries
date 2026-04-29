@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-brasileira-jardim-santo-andre",
+  "name": "Padaria Brasileira Jardim",
+  "curatedName": "Padaria Brasileira Jardim",
+  "city": "Santo André",
+  "country": "Brazil",
+  "placeId": "ChIJRQqipetCzpQRlQQTaygIOeQ",
+  "googleName": "Padaria Brasileira Jardim",
+  "formattedAddress": "R. das Figueiras, 664 - Jardim, Santo André - SP, 09080-300, Brazil",
+  "phone": "(11) 4437-3545",
+  "internationalPhone": "+55 11 4437-3545",
+  "website": "http://padariabrasileira.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16445184484008199317",
+  "rating": 4.4,
+  "reviewCount": 9206,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.6512292,
+    -46.5382834
+  ],
+  "openingHours": [
+    "Monday: 6:40 AM – 10:10 PM",
+    "Tuesday: 6:40 AM – 10:10 PM",
+    "Wednesday: 6:40 AM – 10:10 PM",
+    "Thursday: 6:40 AM – 10:10 PM",
+    "Friday: 6:40 AM – 10:10 PM",
+    "Saturday: 6:40 AM – 10:10 PM",
+    "Sunday: 6:40 AM – 10:10 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-brasileira-jardim-santo-andre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:16:57.155Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-antwerpia-aalst",
+  "name": "Patisserie Antwerpia",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJeTYLAlu9w0cR3RqPKP3-IWQ",
+  "googleName": "Antwerpia Patisserie bvba",
+  "formattedAddress": "Geraardsbergsestraat 38, 9300 Aalst, Belgium",
+  "phone": "053 21 35 33",
+  "website": "http://patisserieantwerpia.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7215328441284893405",
+  "rating": 4.4,
+  "reviewCount": 95,
+  "coords": [
+    50.9344005,
+    4.037569
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-antwerpia-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:04:30.348Z"
+}

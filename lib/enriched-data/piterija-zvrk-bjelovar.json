@@ -1,0 +1,32 @@
+{
+  "slug": "piterija-zvrk-bjelovar",
+  "name": "Piterija Zvrk",
+  "city": "Bjelovar",
+  "country": "Croatia",
+  "placeId": "ChIJkZqnRQk2ZkcRY9C1j5icDtg",
+  "googleName": "Piterija Zvrk",
+  "formattedAddress": "Trg Stanka Vraza 2, 43000, Bjelovar, Croatia",
+  "phone": "095 354 7908",
+  "website": "https://m.facebook.com/PiterijaZvrk/?locale2=hr_HR",
+  "googleMapsUrl": "https://maps.google.com/?cid=15568553140926402659",
+  "rating": 4.2,
+  "reviewCount": 49,
+  "coords": [
+    45.8963084,
+    16.8395107
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:00 PM",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/piterija-zvrk-bjelovar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:49:12.450Z"
+}

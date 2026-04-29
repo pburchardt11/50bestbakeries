@@ -1,0 +1,44 @@
+{
+  "slug": "mom-and-tina-s-bakery-cafe-san-fernando",
+  "name": "Mom and Tina's Bakery Cafe",
+  "curatedName": "Mom and Tina's Bakery Cafe",
+  "city": "San Fernando",
+  "country": "Philippines",
+  "placeId": "ChIJY9GpiaXJlzMRnwxhNpb-3xE",
+  "googleName": "Mom and Tina's Bakery Cafe",
+  "formattedAddress": "14, Tropical Palms Condominum, Perea, Legazpi Village, Makati City, Metro Manila, Philippines",
+  "phone": "(02) 8894 3598",
+  "internationalPhone": "+63 2 8894 3598",
+  "website": "http://momandtinas.com/contact-us/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1288027939562130591",
+  "rating": 4.2,
+  "reviewCount": 666,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5545142,
+    121.0219604
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mom-and-tina-s-bakery-cafe-san-fernando/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:57.036Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "konditorei-heinemann-dusseldorf",
+  "name": "Konditorei Heinemann",
+  "curatedName": "Konditorei Heinemann",
+  "city": "Düsseldorf",
+  "country": "Germany",
+  "placeId": "ChIJiXH6EzzKuEcROXu_IwOPsck",
+  "googleName": "Konditorei Heinemann",
+  "formattedAddress": "Bahnstraße 16, 40212 Düsseldorf, Germany",
+  "phone": "0211 131350",
+  "internationalPhone": "+49 211 131350",
+  "website": "https://www.konditorei-heinemann.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14533554716148726585",
+  "rating": 4.5,
+  "reviewCount": 1972,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.2199246,
+    6.7808958
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditorei-heinemann-dusseldorf/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:52.849Z"
+}

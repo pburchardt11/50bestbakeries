@@ -1,0 +1,32 @@
+{
+  "slug": "cafetaria-doce-vida-sal-rei",
+  "name": "Cafetaria Doce Vida",
+  "city": "Sal Rei",
+  "country": "Cape Verde",
+  "placeId": "ChIJH-ALFlMjSwkRdYzVsBrFQ9o",
+  "googleName": "Cafetaria Doce Vida",
+  "formattedAddress": "53FP+GG3, Sal Rei, Cabo Verde",
+  "phone": "978 79 65",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15727631042134510709",
+  "rating": 4.4,
+  "reviewCount": 137,
+  "coords": [
+    16.1737597,
+    -22.9137071
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafetaria-doce-vida-sal-rei/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:40:37.800Z"
+}

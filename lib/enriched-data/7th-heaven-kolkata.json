@@ -1,0 +1,44 @@
+{
+  "slug": "7th-heaven-kolkata",
+  "name": "7th Heaven",
+  "curatedName": "7th Heaven",
+  "city": "Kolkata",
+  "country": "India",
+  "placeId": "ChIJHZxkCqFxAjoREB5I3T0wZSI",
+  "googleName": "7th Heaven",
+  "formattedAddress": "188, 9, Jodhpur Park, Kolkata, West Bengal 700068, India",
+  "phone": "084207 92999",
+  "internationalPhone": "+91 84207 92999",
+  "website": "https://www.instagram.com/7th_heaven_kolkata/?hl=en",
+  "googleMapsUrl": "https://maps.google.com/?cid=2478440212200955408",
+  "rating": 4.6,
+  "reviewCount": 872,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.5022157,
+    88.3592304
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/7th-heaven-kolkata/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:47.509Z"
+}

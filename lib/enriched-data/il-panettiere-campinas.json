@@ -1,0 +1,43 @@
+{
+  "slug": "il-panettiere-campinas",
+  "name": "Il Panettiere",
+  "curatedName": "Il Panettiere",
+  "city": "Campinas",
+  "country": "Brazil",
+  "placeId": "ChIJjbbbq1bPyJQR0wD_hB_mn50",
+  "googleName": "Il Panettiere",
+  "formattedAddress": "R. Maria Monteiro, 1334 - Cambuí, Campinas - SP, 13025-150, Brazil",
+  "phone": "(19) 99897-1693",
+  "internationalPhone": "+55 19 99897-1693",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11358049808301359315",
+  "rating": 4.7,
+  "reviewCount": 1048,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.8925937,
+    -47.053219
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/il-panettiere-campinas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:52.182Z"
+}

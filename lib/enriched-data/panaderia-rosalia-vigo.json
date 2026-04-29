@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-rosalia-vigo",
+  "name": "Panadería Rosalía",
+  "curatedName": "Panadería Rosalía",
+  "city": "Vigo",
+  "country": "Spain",
+  "placeId": "ChIJoQIWNA1iLw0RkGfk6rDm-UU",
+  "googleName": "Panadería Rosalía",
+  "formattedAddress": "R. de Rosalía de Castro, 51, Santiago de Vigo, 36201 Vigo, Pontevedra, Spain",
+  "phone": "986 22 12 46",
+  "internationalPhone": "+34 986 22 12 46",
+  "website": "https://panaderiarosalia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5042314905347450768",
+  "rating": 4.4,
+  "reviewCount": 225,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.2380338,
+    -8.714108000000001
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 3:00 PM, 5:30 – 9:00 PM",
+    "Tuesday: 8:30 AM – 3:00 PM, 5:30 – 9:00 PM",
+    "Wednesday: 8:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+    "Thursday: 8:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+    "Friday: 8:30 AM – 3:00 PM, 5:00 – 9:00 PM",
+    "Saturday: 8:30 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-rosalia-vigo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:25.344Z"
+}

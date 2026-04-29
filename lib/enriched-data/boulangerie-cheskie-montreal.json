@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-cheskie-montreal",
+  "name": "Boulangerie Cheskie",
+  "curatedName": "Boulangerie Cheskie",
+  "city": "Montréal",
+  "country": "Canada",
+  "placeId": "ChIJnYcnzXkZyUwRvqe92dWQeN0",
+  "googleName": "Boulangerie Cheskie",
+  "formattedAddress": "272 Rue Bernard O, Montréal, QC H2V 1T4, Canada",
+  "phone": "(514) 271-2253",
+  "internationalPhone": "+1 514-271-2253",
+  "website": "https://m.facebook.com/pages/Cheskies/133884676726138",
+  "googleMapsUrl": "https://maps.google.com/?cid=15958664527742871486",
+  "rating": 4.6,
+  "reviewCount": 1582,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5239464,
+    -73.60513279999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Snug, understated bakery featuring a variety of Jewish kosher pastries, cakes & other goods.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-cheskie-montreal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:52.506Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "holland-bakery-sidoarjo",
+  "name": "Holland Bakery",
+  "curatedName": "Holland Bakery",
+  "city": "Sidoarjo",
+  "country": "Indonesia",
+  "placeId": "ChIJ____v0vh1y0RFwUBdTNWroA",
+  "googleName": "Holland Bakery",
+  "formattedAddress": "Jl. Thamrin No.2 Kav. D1 & D2, Rw4, Magersari, Kec. Sidoarjo, Kabupaten Sidoarjo, Jawa Timur 61212, Indonesia",
+  "phone": "0878-7718-8181",
+  "internationalPhone": "+62 878-7718-8181",
+  "website": "https://www.hollandbakery.co.id/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9272443461808751895",
+  "rating": 4.5,
+  "reviewCount": 1712,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.451111099999999,
+    112.7173329
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/holland-bakery-sidoarjo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:34.906Z"
+}

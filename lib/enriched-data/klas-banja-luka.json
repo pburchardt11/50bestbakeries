@@ -1,0 +1,32 @@
+{
+  "slug": "klas-banja-luka",
+  "name": "Klas",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJZ7uCZ7kEXkcR3dN-AloQlQk",
+  "googleName": "Krajina klas",
+  "formattedAddress": "Debeljaci, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": "051 420-110",
+  "website": "http://www.krajinaklas.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=690476096646206429",
+  "rating": 3.8,
+  "reviewCount": 197,
+  "coords": [
+    44.75219209999999,
+    17.2435889
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 3:30 PM",
+    "Tuesday: 7:30 AM – 3:30 PM",
+    "Wednesday: 7:30 AM – 3:30 PM",
+    "Thursday: 7:30 AM – 3:30 PM",
+    "Friday: 7:30 AM – 3:30 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klas-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:16:14.215Z"
+}

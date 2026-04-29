@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-portugal-santo-andre",
+  "name": "Padaria Portugal",
+  "curatedName": "Padaria Portugal",
+  "city": "Santo André",
+  "country": "Brazil",
+  "placeId": "ChIJzwPt8YpCzpQRhuLupl6tg78",
+  "googleName": "Padaria Portugal",
+  "formattedAddress": "Av. Portugal, 894 - Jardim Bela Vista, Santo André - SP, 09040-001, Brazil",
+  "phone": "(11) 4990-3643",
+  "internationalPhone": "+55 11 4990-3643",
+  "website": "http://www.padariaportugal.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13800064305232536198",
+  "rating": 4.2,
+  "reviewCount": 4424,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.6640112,
+    -46.5336588
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: 12:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-portugal-santo-andre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:16:54.275Z"
+}

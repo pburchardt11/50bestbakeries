@@ -1,0 +1,44 @@
+{
+  "slug": "beth-bakery-sao-paulo",
+  "name": "Beth Bakery",
+  "curatedName": "Beth Bakery",
+  "city": "São Paulo",
+  "country": "Brazil",
+  "placeId": "ChIJw_KcPYNZzpQRmXDgREr-7B8",
+  "googleName": "Beth Bakery",
+  "formattedAddress": "Rua Paula Ney, 298 - Vila Mariana, São Paulo - SP, 04107-020, Brazil",
+  "phone": "(11) 94183-5634",
+  "internationalPhone": "+55 11 94183-5634",
+  "website": "http://www.bethbakery.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2300493104616075417",
+  "rating": 4.7,
+  "reviewCount": 1577,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.577762,
+    -46.635182
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "A store with weekly batches of breads, cakes & sweets, ordered online with occasional specials.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beth-bakery-sao-paulo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:49.383Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "mert-selvi-pastanesi-atapark-kecioren",
+  "name": "Mert Selvi Pastanesi Atapark",
+  "curatedName": "Mert Selvi Pastanesi Atapark",
+  "city": "Keçiören",
+  "country": "Türkiye",
+  "placeId": "ChIJ4df5vONM0xQRIMsKYkl3ARA",
+  "googleName": "MERT SELVİ PASTANESİ (ATAPARK)",
+  "formattedAddress": "Ufuktepe, Atapark Cd. NO:8/A, 06280 Keçiören/Ankara, Türkiye",
+  "phone": "(0312) 581 35 25",
+  "internationalPhone": "+90 312 581 35 25",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1153334136644750112",
+  "rating": 4.3,
+  "reviewCount": 1118,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.0089882,
+    32.8496506
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 12:00 AM",
+    "Tuesday: 5:00 AM – 12:00 AM",
+    "Wednesday: 5:00 AM – 12:00 AM",
+    "Thursday: 5:00 AM – 12:00 AM",
+    "Friday: 5:00 AM – 12:00 AM",
+    "Saturday: 5:00 AM – 12:00 AM",
+    "Sunday: 5:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mert-selvi-pastanesi-atapark-kecioren/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:03:32.975Z"
+}

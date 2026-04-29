@@ -1,0 +1,43 @@
+{
+  "slug": "la-ideal-la-cipreses-torreon",
+  "name": "La Ideal La Cipreses",
+  "curatedName": "La Ideal La Cipreses",
+  "city": "Torreón",
+  "country": "Mexico",
+  "placeId": "ChIJ_-kqxI3bj4YR17Tiz2XqP2U",
+  "googleName": "La Ideal \"La Cipreses\"",
+  "formattedAddress": "Av Cipreses 999, Torreón Jardín, 27200 Torreón, Coah., Mexico",
+  "phone": "871 721 0362",
+  "internationalPhone": "+52 871 721 0362",
+  "website": "https://www.facebook.com/panaderialacipresestorreon",
+  "googleMapsUrl": "https://maps.google.com/?cid=7295807644363830487",
+  "rating": 4.7,
+  "reviewCount": 1394,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.5233086,
+    -103.4233403
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 10:30 PM",
+    "Tuesday: 5:30 AM – 10:30 PM",
+    "Wednesday: 5:30 AM – 10:30 PM",
+    "Thursday: 5:30 AM – 10:30 PM",
+    "Friday: 5:30 AM – 10:30 PM",
+    "Saturday: 5:30 AM – 10:30 PM",
+    "Sunday: 5:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-ideal-la-cipreses-torreon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:06.668Z"
+}

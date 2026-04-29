@@ -1,0 +1,44 @@
+{
+  "slug": "natural-bakery-brasil-osasco",
+  "name": "Natural Bakery Brasil",
+  "curatedName": "Natural Bakery Brasil",
+  "city": "Osasco",
+  "country": "Brazil",
+  "placeId": "ChIJGwH_nRZVzpQRxhIp34B9ZIM",
+  "googleName": "Natural Bakery Brasil",
+  "formattedAddress": "Av. Flora, 1555 - loja 17 - Bussocaba, Osasco - SP, 06053-130, Brazil",
+  "phone": "(11) 4557-9197",
+  "internationalPhone": "+55 11 4557-9197",
+  "website": "https://naturalbakery.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9467830309092922054",
+  "rating": 4.4,
+  "reviewCount": 157,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5635002,
+    -46.7909235
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/natural-bakery-brasil-osasco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:41:45.172Z"
+}

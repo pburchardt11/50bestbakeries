@@ -1,0 +1,43 @@
+{
+  "slug": "the-tattooed-baker-makati",
+  "name": "The Tattooed Baker",
+  "curatedName": "The Tattooed Baker",
+  "city": "Makati",
+  "country": "Philippines",
+  "placeId": "ChIJFWCVI9DJlzMRPI2mC_h8ro8",
+  "googleName": "The Tattooed Baker",
+  "formattedAddress": "Kalayaan Building Salcedo, Corner Dela Rosa Street, San Lorenzo, Legazpi Village, Makati City, Metro Manila, Philippines",
+  "phone": "0917 307 6630",
+  "internationalPhone": "+63 917 307 6630",
+  "website": "https://www.taocommunity.com/tao-community/tao-food/tattooed-baker/?_tao_loader=4",
+  "googleMapsUrl": "https://maps.google.com/?cid=10353349998160547132",
+  "rating": 4,
+  "reviewCount": 306,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5586672,
+    121.015637
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-tattooed-baker-makati/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:27.689Z"
+}

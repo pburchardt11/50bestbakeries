@@ -1,0 +1,32 @@
+{
+  "slug": "reposteria-beki-cochabamba",
+  "name": "Reposteria Beki",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJP_eLWz9z45MRhq8vf7jsKVI",
+  "googleName": "Reposteria Beki",
+  "formattedAddress": "Miraflores, Cochabamba, Bolivia",
+  "phone": "77949808",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5920523462307196806",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -17.4525361,
+    -66.1505787
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:30 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/reposteria-beki-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:12:54.319Z"
+}

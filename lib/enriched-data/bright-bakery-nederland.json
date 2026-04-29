@@ -1,0 +1,32 @@
+{
+  "slug": "bright-bakery-nederland",
+  "name": "Bright Bakery",
+  "city": "Nederland",
+  "country": "Aruba",
+  "placeId": "ChIJWbLhwwQ5hY4RYwhjYg_BvhM",
+  "googleName": "Bright Bakery",
+  "formattedAddress": "Piedra Plat 44, Paradera, Aruba",
+  "phone": "585 9031",
+  "website": "https://www.brightbakery.com/new-home/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1422786804114983011",
+  "rating": 4.4,
+  "reviewCount": 1263,
+  "coords": [
+    12.5256195,
+    -69.9949112
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bright-bakery-nederland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:28:37.359Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "martins-cape-town",
+  "name": "Martins",
+  "curatedName": "Martins",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "placeId": "ChIJQ9KW9_tCzB0RUiZZi_o6sA4",
+  "googleName": "MARTINS",
+  "formattedAddress": "43 Main Rd, Diep River, Cape Town, 7800, South Africa",
+  "phone": "021 712 8555",
+  "internationalPhone": "+27 21 712 8555",
+  "website": "https://martinsbakery.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1058410760186177106",
+  "rating": 4.3,
+  "reviewCount": 1114,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.0305081,
+    18.4658425
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:30 PM",
+    "Tuesday: 7:30 AM – 4:30 PM",
+    "Wednesday: 7:30 AM – 4:30 PM",
+    "Thursday: 7:30 AM – 4:30 PM",
+    "Friday: 7:30 AM – 4:30 PM",
+    "Saturday: 7:30 AM – 3:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martins-cape-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:50.922Z"
+}

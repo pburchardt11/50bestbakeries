@@ -1,0 +1,43 @@
+{
+  "slug": "angie-bakeshop-mty-san-nicolas-de-los-garza",
+  "name": "Angie Bakeshop Mty",
+  "curatedName": "Angie Bakeshop Mty",
+  "city": "San Nicolás de los Garza",
+  "country": "Mexico",
+  "placeId": "ChIJ--JF4w6VYoYRo02a7tCNxsw",
+  "googleName": "Angie Bakeshop Mty",
+  "formattedAddress": "Miguel Hidalgo Y Costilla 207-A, Centro, 66400 San Nicolás de los Garza, N.L., Mexico",
+  "phone": "81 8202 5222",
+  "internationalPhone": "+52 81 8202 5222",
+  "website": "https://instagram.com/angie_bakeshopmty?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=14755637157621812643",
+  "rating": 5,
+  "reviewCount": 15,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.7564188,
+    -100.2903458
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:30 PM",
+    "Tuesday: 10:00 AM – 6:30 PM",
+    "Wednesday: 10:00 AM – 6:30 PM",
+    "Thursday: 10:00 AM – 6:30 PM",
+    "Friday: 10:00 AM – 6:30 PM",
+    "Saturday: 10:30 AM – 1:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/angie-bakeshop-mty-san-nicolas-de-los-garza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:05.011Z"
+}

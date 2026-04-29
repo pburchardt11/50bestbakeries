@@ -1,0 +1,43 @@
+{
+  "slug": "piece-of-cake-lyon",
+  "name": "Piece of Cake",
+  "curatedName": "Piece of Cake",
+  "city": "Lyon",
+  "country": "France",
+  "placeId": "ChIJ_0uVy1rq9EcRhLAK4DVMHI8",
+  "googleName": "Piece of Cake",
+  "formattedAddress": "5 Rue d'Aguesseau, 69007 Lyon, France",
+  "phone": "09 83 37 88 84",
+  "internationalPhone": "+33 9 83 37 88 84",
+  "website": "http://www.pieceofcake.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10312201041047367812",
+  "rating": 4.7,
+  "reviewCount": 615,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.7543844,
+    4.8404696
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/piece-of-cake-lyon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:33.592Z"
+}

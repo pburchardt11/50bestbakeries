@@ -1,0 +1,32 @@
+{
+  "slug": "manja-banja-luka",
+  "name": "Manja",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJyzytuxsDXkcR7NDJDBIrOM8",
+  "googleName": "Caffe slastičarna Manja",
+  "formattedAddress": "Kralja Petra I Karađorđevića 73, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": "065 940-274",
+  "website": "http://www.manja.ba/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14931731921070837996",
+  "rating": 4.3,
+  "reviewCount": 1291,
+  "coords": [
+    44.76970480000001,
+    17.1888319
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/manja-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:15:58.990Z"
+}

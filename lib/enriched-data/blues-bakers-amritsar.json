@@ -1,0 +1,43 @@
+{
+  "slug": "blues-bakers-amritsar",
+  "name": "Blues Bakers",
+  "curatedName": "Blues Bakers",
+  "city": "Amritsar",
+  "country": "India",
+  "placeId": "ChIJD3FffWdjGTkRKz1R88gH8VA",
+  "googleName": "Blues Bakers",
+  "formattedAddress": "30, Circular Rd, near Gurudwara Medical college, Amritsar, Punjab 143001, India",
+  "phone": "098143 33832",
+  "internationalPhone": "+91 98143 33832",
+  "website": "http://bluesbakers.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5832451552078544171",
+  "rating": 4.1,
+  "reviewCount": 2184,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.6516978,
+    74.88217879999999
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 10:00 PM",
+    "Tuesday: 9:30 AM – 10:00 PM",
+    "Wednesday: 9:30 AM – 10:00 PM",
+    "Thursday: 9:30 AM – 10:00 PM",
+    "Friday: 9:30 AM – 10:00 PM",
+    "Saturday: 9:30 AM – 10:00 PM",
+    "Sunday: 9:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Brown-shaded bakery preparing a daily selection of sweet & savoury goods.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blues-bakers-amritsar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:12.714Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pasteleria-inglesa-alajuela",
+  "name": "Pastelería Inglesa",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJjcj0n8b5oI8RxuiAmldqwtM",
+  "googleName": "Pastelería Inglesa",
+  "formattedAddress": "Calle 2, Provincia de Alajuela, Alajuela, Arroyo, Costa Rica",
+  "phone": "2430 0522",
+  "website": "http://www.pasteleriainglesa.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15258875411971500230",
+  "rating": 4.6,
+  "reviewCount": 327,
+  "coords": [
+    10.0135852,
+    -84.2134439
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-inglesa-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:15.824Z"
+}

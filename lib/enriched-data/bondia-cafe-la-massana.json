@@ -1,0 +1,32 @@
+{
+  "slug": "bondia-cafe-la-massana",
+  "name": "Bondia Cafè La Massana",
+  "city": "La Massana",
+  "country": "Andorra",
+  "placeId": "ChIJ6xbMOtOKpRIRk46J_fpFaeg",
+  "googleName": "Bon Dia",
+  "formattedAddress": "Plaça Guillemó, 2, AD500 Andorra la Vella, Andorra",
+  "phone": "820 820",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16746993633651691155",
+  "rating": 4.5,
+  "reviewCount": 64,
+  "coords": [
+    42.5085015,
+    1.5215674
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 10:00 AM – 12:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bondia-cafe-la-massana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:17:09.382Z"
+}

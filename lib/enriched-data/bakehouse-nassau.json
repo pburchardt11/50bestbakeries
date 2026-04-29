@@ -1,0 +1,24 @@
+{
+  "slug": "bakehouse-nassau",
+  "name": "Bakehouse",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJN00JBOx9L4kRwg5kAE0lpos",
+  "googleName": "Bakehouse",
+  "formattedAddress": "Old Fort Town Center Nassau N.P, Nassau, The Bahamas",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10062771430055218882",
+  "rating": 4.7,
+  "reviewCount": 42,
+  "coords": [
+    25.0476577,
+    -77.4913681
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakehouse-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:41:12.199Z"
+}

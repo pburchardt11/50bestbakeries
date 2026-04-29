@@ -1,0 +1,43 @@
+{
+  "slug": "woodstock-bakery-cape-town",
+  "name": "Woodstock Bakery",
+  "curatedName": "Woodstock Bakery",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "placeId": "ChIJ6941caFdzB0RjbnZveQf0B4",
+  "googleName": "Woodstock Bakery",
+  "formattedAddress": "15 Brickfield Rd, Woodstock, Cape Town, 7925, South Africa",
+  "phone": "074 797 7324",
+  "internationalPhone": "+27 74 797 7324",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2220309683591821709",
+  "rating": 4.3,
+  "reviewCount": 107,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.93445000000001,
+    18.4577109
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 2:00 PM",
+    "Tuesday: 7:30 AM – 2:00 PM",
+    "Wednesday: 7:30 AM – 2:00 PM",
+    "Thursday: 7:30 AM – 2:00 PM",
+    "Friday: 7:30 AM – 2:00 PM",
+    "Saturday: 7:30 AM – 2:00 PM",
+    "Sunday: 7:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/woodstock-bakery-cape-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:47.032Z"
+}

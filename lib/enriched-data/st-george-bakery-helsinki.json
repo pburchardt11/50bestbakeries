@@ -1,0 +1,44 @@
+{
+  "slug": "st-george-bakery-helsinki",
+  "name": "St. George Bakery",
+  "curatedName": "St. George Bakery",
+  "city": "Helsinki",
+  "country": "Finland",
+  "placeId": "ChIJn229qHELkkYRxedlTJcuG4k",
+  "googleName": "St. George Bakery",
+  "formattedAddress": "Yrjönkatu 13, 00120 Helsinki, Finland",
+  "phone": "09 42460060",
+  "internationalPhone": "+358 9 42460060",
+  "website": "https://www.stgeorgehelsinki.com/food/bakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=9879541434924001221",
+  "rating": 4.4,
+  "reviewCount": 540,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    60.1667344,
+    24.940813
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-george-bakery-helsinki/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:30.058Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mr-bread-korce",
+  "name": "Mr.Bread",
+  "city": "Korçë",
+  "country": "Albania",
+  "placeId": "ChIJwVSc-jgLWhMRXJG3eAiCbqw",
+  "googleName": "Mr.Bread",
+  "formattedAddress": "JQ9G+J74, Korçë, Albania",
+  "phone": "067 490 8031",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12425011394858422620",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    40.6190025,
+    20.7757131
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mr-bread-korce/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:56.597Z"
+}

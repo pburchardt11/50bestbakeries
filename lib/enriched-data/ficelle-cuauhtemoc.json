@@ -1,0 +1,43 @@
+{
+  "slug": "ficelle-cuauhtemoc",
+  "name": "Ficelle",
+  "curatedName": "Ficelle",
+  "city": "Cuauhtémoc",
+  "country": "Mexico",
+  "placeId": "ChIJrzHrUEH_0YURJUb1tzX7AN8",
+  "googleName": "Ficelle",
+  "formattedAddress": "Av. Tamaulipas 39b, Colonia Condesa, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico",
+  "phone": "55 5256 4488",
+  "internationalPhone": "+52 55 5256 4488",
+  "website": "http://ficelle-mx.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16069119678596072997",
+  "rating": 4.4,
+  "reviewCount": 1596,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4130261,
+    -99.1728041
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 7:30 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ficelle-cuauhtemoc/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:37:38.691Z"
+}

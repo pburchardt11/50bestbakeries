@@ -1,0 +1,43 @@
+{
+  "slug": "merci-bakery-67-hoang-hoa-tham-quan-thanh-khe",
+  "name": "Merci Bakery - 67 Hoàng Hoa Thám",
+  "curatedName": "Merci Bakery - 67 Hoàng Hoa Thám",
+  "city": "Quận Thanh Khê",
+  "country": "Vietnam",
+  "placeId": "ChIJKauY-JIZQjERrCiMGX7-vYY",
+  "googleName": "Merci Bakery - 67 Hoàng Hoa Thám",
+  "formattedAddress": "67 Hoàng Hoa Thám, Tân Chính, Thanh Khê, Đà Nẵng 50000, Vietnam",
+  "phone": "0981 202 067",
+  "internationalPhone": "+84 981 202 067",
+  "website": "http://mercibanhmi.vn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9709196189228607660",
+  "rating": 4.7,
+  "reviewCount": 475,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    16.0688419,
+    108.209948
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/merci-bakery-67-hoang-hoa-tham-quan-thanh-khe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:19:39.494Z"
+}

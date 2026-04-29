@@ -1,0 +1,32 @@
+{
+  "slug": "esforner-fleca-pastisseria-cafeteria-la-massana",
+  "name": "Esforner Fleca Pastisseria Cafetería",
+  "city": "La Massana",
+  "country": "Andorra",
+  "placeId": "ChIJHfXCzfZfrxIR2Rt7nGNqXKY",
+  "googleName": "Granier La Massana",
+  "formattedAddress": "Av. de Sant Antoni, 25, AD400 La Massana, Andorra",
+  "phone": "737 660",
+  "website": "https://www.gruphiperpas.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11987573284213038041",
+  "rating": 4.2,
+  "reviewCount": 252,
+  "coords": [
+    42.5454266,
+    1.5151902
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/esforner-fleca-pastisseria-cafeteria-la-massana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:17:11.607Z"
+}

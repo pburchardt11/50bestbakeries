@@ -1,0 +1,44 @@
+{
+  "slug": "marechal-paes-e-doces-cuiaba",
+  "name": "Marechal Pães e Doces",
+  "curatedName": "Marechal Pães e Doces",
+  "city": "Cuiabá",
+  "country": "Brazil",
+  "placeId": "ChIJKYLFC5qxnZMR44MBy9jS8d4",
+  "googleName": "Marechal Pães e Doces",
+  "formattedAddress": "Av. Mal. Deodoro, 1231 - Centro Norte, Cuiabá - MT, 78005-100, Brazil",
+  "phone": "(65) 2127-1509",
+  "internationalPhone": "+55 65 2127-1509",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16064853174367912931",
+  "rating": 4.4,
+  "reviewCount": 2897,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -15.5907749,
+    -56.0985606
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marechal-paes-e-doces-cuiaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:52.800Z"
+}

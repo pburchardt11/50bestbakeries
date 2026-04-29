@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-vianney-belo-horizonte",
+  "name": "Padaria Vianney",
+  "curatedName": "Padaria Vianney",
+  "city": "Belo Horizonte",
+  "country": "Brazil",
+  "placeId": "ChIJzU5S3OqZpgARzG3LTpSoskQ",
+  "googleName": "Padaria Vianney",
+  "formattedAddress": "R. dos Aimorés, 200 - Funcionários, Belo Horizonte - MG, 30140-070, Brazil",
+  "phone": "(31) 3227-2071",
+  "internationalPhone": "+55 31 3227-2071",
+  "website": "http://www.padariavianney.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4950204295364177356",
+  "rating": 4.3,
+  "reviewCount": 6894,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.931064,
+    -43.9261335
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:30 PM",
+    "Tuesday: 7:00 AM – 10:30 PM",
+    "Wednesday: 7:00 AM – 10:30 PM",
+    "Thursday: 7:00 AM – 10:30 PM",
+    "Friday: 7:00 AM – 10:30 PM",
+    "Saturday: 7:00 AM – 10:30 PM",
+    "Sunday: 7:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": "A laid-back, trendy bakery with an outdoor area, serving pizza, lunch specials, snacks & sushi.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-vianney-belo-horizonte/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:16.762Z"
+}

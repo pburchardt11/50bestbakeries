@@ -1,0 +1,44 @@
+{
+  "slug": "o-douceurs-french-pastry-bakery-quan-tay-ho",
+  "name": "O'douceurs French Pastry Bakery",
+  "curatedName": "O'douceurs French Pastry Bakery",
+  "city": "Quận Tây Hồ",
+  "country": "Vietnam",
+  "placeId": "ChIJ1_Xo-SirNTERhbRDOfsTT4Q",
+  "googleName": "O'douceurs French Pastry Bakery",
+  "formattedAddress": "72 Đ. Xuân Diệu, Tứ Liên, Tây Hồ, Hà Nội 11200, Vietnam",
+  "phone": "024 6291 8575",
+  "internationalPhone": "+84 24 6291 8575",
+  "website": "http://odouceurs.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9533860905885086853",
+  "rating": 4.6,
+  "reviewCount": 290,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0623274,
+    105.8304798
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/o-douceurs-french-pastry-bakery-quan-tay-ho/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:27.877Z"
+}

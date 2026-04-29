@@ -1,0 +1,44 @@
+{
+  "slug": "kadmiel-reposteria-gourmet-panaderia-artesanal-tuxtla-gutierrez",
+  "name": "Kadmiel Reposteria Gourmet & Panaderia Artesanal",
+  "curatedName": "Kadmiel Reposteria Gourmet & Panaderia Artesanal",
+  "city": "Tuxtla Gutiérrez",
+  "country": "Mexico",
+  "placeId": "ChIJVX8d1cvZ7IURrUl1wMsQ_jM",
+  "googleName": "KADMIEL Repostería Gourmet & Panadería Artesanal",
+  "formattedAddress": "C. Central 176, Terán, 29050 Tuxtla Gutiérrez, Chis., Mexico",
+  "phone": "961 693 6054",
+  "internationalPhone": "+52 961 693 6054",
+  "website": "http://kadmiel.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3746450407312148909",
+  "rating": 4.5,
+  "reviewCount": 200,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    16.7570139,
+    -93.1642001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kadmiel-reposteria-gourmet-panaderia-artesanal-tuxtla-gutierrez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:04.211Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "epi-dusseldorf",
+  "name": "Epi",
+  "curatedName": "Epi",
+  "city": "Düsseldorf",
+  "country": "Germany",
+  "placeId": "ChIJMRQ1Ia8lv0cRxqo0NwxXLUg",
+  "googleName": "EPI Boulangerie Patisserie",
+  "formattedAddress": "Breite Str. 29, 50667 Köln, Germany",
+  "phone": "0221 27745560",
+  "internationalPhone": "+49 221 27745560",
+  "website": "https://www.epi-boulangerie.de/standorte-und-oeffnungszeiten",
+  "googleMapsUrl": "https://maps.google.com/?cid=5200908854660213446",
+  "rating": 3.9,
+  "reviewCount": 1062,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.9388422,
+    6.9514654
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/epi-dusseldorf/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:40.641Z"
+}

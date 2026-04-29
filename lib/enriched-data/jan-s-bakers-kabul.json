@@ -1,0 +1,32 @@
+{
+  "slug": "jan-s-bakers-kabul",
+  "name": "Jan's Bakers",
+  "city": "Kabul",
+  "country": "Afghanistan",
+  "placeId": "ChIJHWNbmPVr0TgR8J4x8JLLc0s",
+  "googleName": "Jan's Baker",
+  "formattedAddress": "Kabul 100806, Afghanistan",
+  "phone": "078 749 4942",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5436913007121768176",
+  "rating": 4.2,
+  "reviewCount": 93,
+  "coords": [
+    34.5105914,
+    69.22270809999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jan-s-bakers-kabul/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:12:44.894Z"
+}

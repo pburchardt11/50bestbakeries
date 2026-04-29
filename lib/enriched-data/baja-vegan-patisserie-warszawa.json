@@ -1,0 +1,43 @@
+{
+  "slug": "baja-vegan-patisserie-warszawa",
+  "name": "BAJA Vegan Patisserie",
+  "curatedName": "BAJA Vegan Patisserie",
+  "city": "Warszawa",
+  "country": "Poland",
+  "placeId": "ChIJ-U1EMJctGUcRe0hm-TYNIw0",
+  "googleName": "BAJA Vegan Patisserie",
+  "formattedAddress": "Solec 85, 00-382 Warszawa, Poland",
+  "phone": "506 596 612",
+  "internationalPhone": "+48 506 596 612",
+  "website": "https://www.facebook.com/weganskabaja/",
+  "googleMapsUrl": "https://maps.google.com/?cid=946614876441561211",
+  "rating": 4.7,
+  "reviewCount": 872,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.2351973,
+    21.0323972
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 9:30 AM – 7:00 PM",
+    "Sunday: 9:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baja-vegan-patisserie-warszawa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:22.994Z"
+}

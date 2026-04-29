@@ -1,0 +1,43 @@
+{
+  "slug": "backerei-konditorei-rolf-weber-karlsruhe",
+  "name": "Bäckerei-Konditorei Rolf Weber",
+  "curatedName": "Bäckerei-Konditorei Rolf Weber",
+  "city": "Karlsruhe",
+  "country": "Germany",
+  "placeId": "ChIJE9GqqMEIl0cRvu0ND5d7VhA",
+  "googleName": "Bäckerei-Konditorei Rolf Weber",
+  "formattedAddress": "Westmarkstraße 12, 76227 Karlsruhe, Germany",
+  "phone": "0721 41070",
+  "internationalPhone": "+49 721 41070",
+  "website": "http://weber-bäckerei.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1177264241326812606",
+  "rating": 4.7,
+  "reviewCount": 621,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.9921245,
+    8.460427
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:30 PM",
+    "Tuesday: 5:30 AM – 6:30 PM",
+    "Wednesday: 5:30 AM – 6:30 PM",
+    "Thursday: 5:30 AM – 6:30 PM",
+    "Friday: 5:30 AM – 6:30 PM",
+    "Saturday: 5:30 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-konditorei-rolf-weber-karlsruhe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:39.480Z"
+}

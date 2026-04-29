@@ -1,0 +1,24 @@
+{
+  "slug": "ponchi",
+  "name": "Ponchi",
+  "city": "Гомель",
+  "country": "Belarus",
+  "placeId": "ChIJHUImE6pp1EYRvgF3bqHOfU8",
+  "googleName": "Ponchi Cafe",
+  "formattedAddress": "praspiekt Pieramohi 4, Homieĺ, Homieĺskaja voblasć, Belarus",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5727961493823488446",
+  "rating": 3.2,
+  "reviewCount": 54,
+  "coords": [
+    52.4347023,
+    31.0062276
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ponchi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:58:31.066Z"
+}

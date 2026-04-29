@@ -1,0 +1,43 @@
+{
+  "slug": "brown-sugar-concept-bandar-kuala-lumpur",
+  "name": "Brown & Sugar Concept",
+  "curatedName": "Brown & Sugar Concept",
+  "city": "Bandar Kuala Lumpur",
+  "country": "Malaysia",
+  "placeId": "ChIJQegiN8I5zDERdOiG9GpvjqI",
+  "googleName": "Brown & Sugar Concept",
+  "formattedAddress": "222, Jln Ampang, Kampung Datuk Keramat, 50450 Ampang, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "phone": "018-316 8000",
+  "internationalPhone": "+60 18-316 8000",
+  "website": "https://www.brownandsugar.com.my/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11713422185996937332",
+  "rating": 4.8,
+  "reviewCount": 363,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.1615118,
+    101.7292339
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 4:00 PM",
+    "Tuesday: 10:00 AM – 4:00 PM",
+    "Wednesday: 10:00 AM – 4:00 PM",
+    "Thursday: 10:00 AM – 4:00 PM",
+    "Friday: 10:00 AM – 4:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brown-sugar-concept-bandar-kuala-lumpur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:10.627Z"
+}

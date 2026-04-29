@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-elena-banja-luka",
+  "name": "Pekara Elena",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJM1LnoxADXkcRAXRbUBBlm_8",
+  "googleName": "Pekoteka Uranak",
+  "formattedAddress": "Vase Pelagića 24, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": "065 490-530",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18418426221803828225",
+  "rating": 5,
+  "reviewCount": 13,
+  "coords": [
+    44.7721862,
+    17.1962611
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 PM",
+    "Tuesday: 7:00 AM – 1:00 PM",
+    "Wednesday: 7:00 AM – 1:00 PM",
+    "Thursday: 7:00 AM – 1:00 PM",
+    "Friday: 7:00 AM – 1:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-elena-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:16:23.736Z"
+}

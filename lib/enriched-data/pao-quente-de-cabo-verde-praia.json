@@ -1,0 +1,32 @@
+{
+  "slug": "pao-quente-de-cabo-verde-praia",
+  "name": "Pão Quente de Cabo Verde",
+  "city": "Praia",
+  "country": "Cape Verde",
+  "placeId": "ChIJacYhc1aYNQkRzQYUTT8APCw",
+  "googleName": "Pão Quente - Palmarejo",
+  "formattedAddress": "Av. do Palmarejo, Praia, Cabo Verde",
+  "phone": "261 75 90",
+  "website": "http://paoquente.cv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3187422908147566285",
+  "rating": 3.9,
+  "reviewCount": 307,
+  "coords": [
+    14.9147744,
+    -23.5268248
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pao-quente-de-cabo-verde-praia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:40:29.928Z"
+}

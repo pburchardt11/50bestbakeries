@@ -1,0 +1,32 @@
+{
+  "slug": "insweet",
+  "name": "INsweet",
+  "city": "Առինջ",
+  "country": "Armenia",
+  "placeId": "ChIJLXSYw_ijakARPabfnjq0a74",
+  "googleName": "INsweet",
+  "formattedAddress": "7/1 Paruyr Sevak street, Yerevan 2210, Armenia",
+  "phone": "093 275659",
+  "website": "https://www.instagram.com/insweet.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13721258853580908093",
+  "rating": 5,
+  "reviewCount": 8,
+  "coords": [
+    40.225582,
+    44.5749778
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 7:30 PM",
+    "Wednesday: 11:00 AM – 7:30 PM",
+    "Thursday: 11:00 AM – 7:30 PM",
+    "Friday: 11:00 AM – 7:30 PM",
+    "Saturday: 11:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/insweet/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:21:54.522Z"
+}

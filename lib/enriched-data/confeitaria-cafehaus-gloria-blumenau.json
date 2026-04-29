@@ -1,0 +1,45 @@
+{
+  "slug": "confeitaria-cafehaus-gloria-blumenau",
+  "name": "Confeitaria Cafehaus Glória",
+  "curatedName": "Confeitaria Cafehaus Glória",
+  "city": "Blumenau",
+  "country": "Brazil",
+  "placeId": "ChIJD2ai3y0Z35QR9GitBHthBg4",
+  "googleName": "Confeitaria Cafehaus Glória",
+  "formattedAddress": "R. Humberto de Campos, 1091 - Velha, Blumenau - SC, 89036-050, Brazil",
+  "phone": "(47) 3329-0000",
+  "internationalPhone": "+55 47 3329-0000",
+  "website": "http://www.cafehaus.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1010602347378600180",
+  "rating": 4.7,
+  "reviewCount": 3482,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.9157732,
+    -49.0905457
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 3:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-cafehaus-gloria-blumenau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:04.302Z"
+}

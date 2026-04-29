@@ -1,0 +1,32 @@
+{
+  "slug": "24karat-cakes-nassau",
+  "name": "24Karat Cakes",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJu7HJY1h9L4kRQcbPvukK1eo",
+  "googleName": "Take a bite Bahamas",
+  "formattedAddress": "Stanton Drive, Nassau, The Bahamas",
+  "phone": "(242) 432-4861",
+  "website": "https://www.takeabitebahamas.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16921443173959452225",
+  "rating": 4.8,
+  "reviewCount": 34,
+  "coords": [
+    25.0492775,
+    -77.334885
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 5:00 PM",
+    "Sunday: 12:00 – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/24karat-cakes-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:43:05.047Z"
+}

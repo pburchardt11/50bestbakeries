@@ -1,0 +1,32 @@
+{
+  "slug": "flavors-of-portugal-oranjestad",
+  "name": "Flavors of Portugal",
+  "city": "Oranjestad",
+  "country": "Aruba",
+  "placeId": "ChIJuwtGEXhHhY4R4oZEp8jpnYs",
+  "googleName": "Twist of Flavors Restaurant",
+  "formattedAddress": "J.E. Irausquin Boulevard Oranjestad, Aruba",
+  "phone": "280 2518",
+  "website": "http://twistofflavorsaruba.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10060454190624573154",
+  "rating": 4.4,
+  "reviewCount": 412,
+  "coords": [
+    12.5397542,
+    -70.0614042
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:30 PM",
+    "Tuesday: 8:00 AM – 10:30 PM",
+    "Wednesday: 8:00 AM – 10:30 PM",
+    "Thursday: 8:00 AM – 10:30 PM",
+    "Friday: 8:00 AM – 10:30 PM",
+    "Saturday: 8:00 AM – 10:30 PM",
+    "Sunday: 8:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flavors-of-portugal-oranjestad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:29:02.552Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "joseph-brot-wien-bio-backerei-wien",
+  "name": "Joseph Brot • Wien Bio Bäckerei",
+  "curatedName": "Joseph Brot • Wien Bio Bäckerei",
+  "city": "Wien",
+  "country": "Austria",
+  "placeId": "ChIJb_0hBpwHbUcRfYbVXnJzx5g",
+  "googleName": "Joseph Brot • Wien Bio Bäckerei",
+  "formattedAddress": "Führichgasse 6, 1010 Wien, Austria",
+  "phone": "01 7102881",
+  "internationalPhone": "+43 1 7102881",
+  "website": "http://www.joseph.co.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11008894749184984701",
+  "rating": 4.3,
+  "reviewCount": 1862,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.20499150000001,
+    16.369765
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:30 PM",
+    "Tuesday: 7:30 AM – 6:30 PM",
+    "Wednesday: 7:30 AM – 6:30 PM",
+    "Thursday: 7:30 AM – 6:30 PM",
+    "Friday: 7:30 AM – 6:30 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: 7:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/joseph-brot-wien-bio-backerei-wien/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:38.906Z"
+}

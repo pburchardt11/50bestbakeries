@@ -1,0 +1,45 @@
+{
+  "slug": "patisserie-la-casa",
+  "name": "Pâtisserie La Casa",
+  "curatedName": "Pâtisserie La Casa",
+  "city": "الدار البيضاء",
+  "country": "Morocco",
+  "placeId": "ChIJD4YRZAAzpg0R829u9O4fP3c",
+  "googleName": "Pâtisserie LA CASA",
+  "formattedAddress": "G9JP+7CP, Casablanca, Morocco",
+  "phone": "05 22 50 41 97",
+  "internationalPhone": "+212 5 22 50 41 97",
+  "website": "http://www.la-casa.ma/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8592621725209751539",
+  "rating": 4.3,
+  "reviewCount": 108,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.5363052,
+    -7.601791700000001
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-la-casa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:22.555Z"
+}

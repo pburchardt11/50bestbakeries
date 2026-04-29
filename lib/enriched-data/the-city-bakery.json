@@ -1,0 +1,43 @@
+{
+  "slug": "the-city-bakery",
+  "name": "THE CITY BAKERY",
+  "curatedName": "THE CITY BAKERY",
+  "city": "大阪市",
+  "country": "Japan",
+  "placeId": "ChIJw0LI_YvmAGARr6H_7pvLyXk",
+  "googleName": "The City Bakery",
+  "formattedAddress": "Japan, 〒530-0011 Osaka, Kita Ward, Ōfukachō, 4−１ Umekita Plaza, B１F グランフロント大阪",
+  "phone": "06-6359-2010",
+  "internationalPhone": "+81 6-6359-2010",
+  "website": "https://thecitybakery.jp/shop/umeda.html",
+  "googleMapsUrl": "https://maps.google.com/?cid=8775769219498221999",
+  "rating": 4,
+  "reviewCount": 1029,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.703298,
+    135.4946704
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Busy cafe serving pastries, burgers & brunch in a contemporary space with shared tables.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-city-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:33.213Z"
+}

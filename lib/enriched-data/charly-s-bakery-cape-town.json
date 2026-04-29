@@ -1,0 +1,44 @@
+{
+  "slug": "charly-s-bakery-cape-town",
+  "name": "Charly's Bakery",
+  "curatedName": "Charly's Bakery",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "placeId": "ChIJHx5x_nxnzB0RFDC1QAnGpWc",
+  "googleName": "Charly's Bakery",
+  "formattedAddress": "36-38 Canterbury St, District Six, Cape Town, 8001, South Africa",
+  "phone": "021 461 5181",
+  "internationalPhone": "+27 21 461 5181",
+  "website": "http://www.charlysbakery.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7468593300106457108",
+  "rating": 4.2,
+  "reviewCount": 1199,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.9283507,
+    18.4247468
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/charly-s-bakery-cape-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:59:45.720Z"
+}

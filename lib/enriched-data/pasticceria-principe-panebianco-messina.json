@@ -1,0 +1,43 @@
+{
+  "slug": "pasticceria-principe-panebianco-messina",
+  "name": "Pasticceria Principe Panebianco",
+  "curatedName": "Pasticceria Principe Panebianco",
+  "city": "Messina",
+  "country": "Italy",
+  "placeId": "ChIJi637Yo9OFBMR57TDy1SGRGs",
+  "googleName": "Pasticceria Principe Panebianco",
+  "formattedAddress": "Via Camaro, 44, 98149 Messina ME, Italy",
+  "phone": "090 711919",
+  "internationalPhone": "+39 090 711919",
+  "website": "https://www.pasticceriaprincipepanebianco.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7729450559228589287",
+  "rating": 4.7,
+  "reviewCount": 140,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.1861994,
+    15.5389789
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Tuesday: 6:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Wednesday: 6:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Thursday: 6:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Friday: 6:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Saturday: 6:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Sunday: 6:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-principe-panebianco-messina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:52.170Z"
+}

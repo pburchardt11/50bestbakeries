@@ -1,0 +1,32 @@
+{
+  "slug": "the-bake-house",
+  "name": "The Bake House",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJAbVQ-_29akARnw_oMQ62CXc",
+  "googleName": "The Bake House",
+  "formattedAddress": "2 Arshakunyats Ave, Yerevan, Armenia",
+  "phone": "033 033070",
+  "website": "https://instagram.com/thebakehouse.armenia?igshid=MzRlODBiNWFlZA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=8577587137386909599",
+  "rating": 4.8,
+  "reviewCount": 6,
+  "coords": [
+    40.17036,
+    44.50779050000001
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 8:00 PM",
+    "Tuesday: 9:30 AM – 8:00 PM",
+    "Wednesday: 9:30 AM – 8:00 PM",
+    "Thursday: 9:30 AM – 8:00 AM",
+    "Friday: 9:30 AM – 8:00 PM",
+    "Saturday: 9:30 AM – 8:00 PM",
+    "Sunday: 9:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bake-house/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:25:33.859Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "panificadora-santa-fe-aguascalientes",
+  "name": "Panificadora Santa Fe",
+  "curatedName": "Panificadora Santa Fe",
+  "city": "Aguascalientes",
+  "country": "Mexico",
+  "placeId": "ChIJL8Qyi5LuKYQRYsz3ycauDBA",
+  "googleName": "Panificadora Santa Fe",
+  "formattedAddress": "Jardines Eternos 207, La Concordia, 20040 Aguascalientes, Ags., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1156491373142592610",
+  "rating": 4.8,
+  "reviewCount": 997,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.8898952,
+    -102.3135801
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-santa-fe-aguascalientes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:29.303Z"
+}

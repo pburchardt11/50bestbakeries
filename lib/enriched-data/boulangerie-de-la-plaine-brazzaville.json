@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-de-la-plaine-brazzaville",
+  "name": "Boulangerie de la Plaine",
+  "city": "Brazzaville",
+  "country": "Congo - Brazzaville",
+  "placeId": "ChIJR5DjcA4zahoRMY7INbo3LF8",
+  "googleName": "Boulangerie de la Plaine",
+  "formattedAddress": "P7GM+79Q, Brazzaville, Republic of the Congo",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6857917605484203569",
+  "rating": 3.7,
+  "reviewCount": 7,
+  "coords": [
+    -4.274276599999999,
+    15.2834758
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:30 PM",
+    "Tuesday: 6:00 AM – 10:30 PM",
+    "Wednesday: 6:00 AM – 10:30 PM",
+    "Thursday: 6:00 AM – 10:30 PM",
+    "Friday: 6:00 AM – 10:30 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-de-la-plaine-brazzaville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:46:07.611Z"
+}

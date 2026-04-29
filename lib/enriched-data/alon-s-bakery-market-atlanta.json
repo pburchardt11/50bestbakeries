@@ -1,0 +1,43 @@
+{
+  "slug": "alon-s-bakery-market-atlanta",
+  "name": "Alon's Bakery & Market",
+  "curatedName": "Alon's Bakery & Market",
+  "city": "Atlanta",
+  "country": "United States",
+  "placeId": "ChIJv3kBfYcP9YgR68FakOPSwpk",
+  "googleName": "Alon’s Bakery & Market",
+  "formattedAddress": "3500 Peachtree Rd Suite 1095 D, Atlanta, GA 30326, USA",
+  "phone": "(404) 978-2601",
+  "internationalPhone": "+1 404-978-2601",
+  "website": "http://alons.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11079649908106117611",
+  "rating": 4.1,
+  "reviewCount": 485,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.8527894,
+    -84.36114479999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Relaxed bakery & sandwich shop featuring prepared foods & sweets in snug, old-school digs.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alon-s-bakery-market-atlanta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:11.698Z"
+}

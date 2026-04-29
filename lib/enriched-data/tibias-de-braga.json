@@ -1,0 +1,43 @@
+{
+  "slug": "tibias-de-braga",
+  "name": "Tíbias de Braga",
+  "curatedName": "Tíbias de Braga",
+  "city": "Braga",
+  "country": "Portugal",
+  "placeId": "ChIJKVpQTN3-JA0RIg1t7aD52Vo",
+  "googleName": "Tíbias de Braga",
+  "formattedAddress": "Av. São Miguel O Anjo 5, 4700-210 Braga, Portugal",
+  "phone": "253 035 625",
+  "internationalPhone": "+351 253 035 625",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6546538002933157154",
+  "rating": 4.4,
+  "reviewCount": 1905,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.5502941,
+    -8.4295171
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 7:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tibias-de-braga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:59:23.677Z"
+}

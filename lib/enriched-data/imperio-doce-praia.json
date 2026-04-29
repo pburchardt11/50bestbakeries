@@ -1,0 +1,32 @@
+{
+  "slug": "imperio-doce-praia",
+  "name": "Império Doce",
+  "city": "Praia",
+  "country": "Cape Verde",
+  "placeId": "ChIJmwiF206ZNQkR8XR4EdJYJl0",
+  "googleName": "IMPÉRIO DOCE, LDA",
+  "formattedAddress": "CV, Praia 7200, Cabo Verde",
+  "phone": "976 33 51",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6712149953901786353",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    14.9373257,
+    -23.5062338
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/imperio-doce-praia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:40:32.285Z"
+}

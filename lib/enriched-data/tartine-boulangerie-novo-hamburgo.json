@@ -1,0 +1,43 @@
+{
+  "slug": "tartine-boulangerie-novo-hamburgo",
+  "name": "Tartine Boulangerie",
+  "curatedName": "Tartine Boulangerie",
+  "city": "Novo Hamburgo",
+  "country": "Brazil",
+  "placeId": "ChIJnXrGxk9DGZUR9UPETcs5dLI",
+  "googleName": "Tartine Boulangerie",
+  "formattedAddress": "R. Silveira Martins, 717 - Centro, Novo Hamburgo - RS, 93510-310, Brazil",
+  "phone": "(51) 98050-6080",
+  "internationalPhone": "+55 51 98050-6080",
+  "website": "https://www.instagram.com/tartinenh/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12858966381395461109",
+  "rating": 4.7,
+  "reviewCount": 559,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.6818857,
+    -51.12528529999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 7:45 PM",
+    "Wednesday: 9:00 AM – 7:45 PM",
+    "Thursday: 9:00 AM – 7:45 PM",
+    "Friday: 9:00 AM – 7:45 PM",
+    "Saturday: 9:00 AM – 7:45 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tartine-boulangerie-novo-hamburgo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:21.887Z"
+}

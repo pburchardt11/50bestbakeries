@@ -1,0 +1,32 @@
+{
+  "slug": "arzu-kafesi-bak",
+  "name": "Arzu kafesi",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJe213zwxjMEARxRFAPMNRoKI",
+  "googleName": "Arzu Hall, Şadlıq Sarayı",
+  "formattedAddress": "9WVG+586 Internal Troops Base, Bakı, Azerbaijan",
+  "phone": "055 311 94 93",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11718456129389334981",
+  "rating": 4.3,
+  "reviewCount": 20,
+  "coords": [
+    40.3929117,
+    49.9257733
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/arzu-kafesi-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:35:00.502Z"
+}

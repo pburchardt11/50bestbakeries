@@ -1,0 +1,46 @@
+{
+  "slug": "padaria-don-doc-diadema",
+  "name": "Padaria Don Doc",
+  "curatedName": "Padaria Don Doc",
+  "city": "Diadema",
+  "country": "Brazil",
+  "placeId": "ChIJ-YrzBB1FzpQRiwP6gWCZSE8",
+  "googleName": "Padaria Don Doc",
+  "formattedAddress": "Rua Visconde de Rio Branco, 212 - Centro, Diadema - SP, 09910-470, Brazil",
+  "phone": "(11) 4043-2159",
+  "internationalPhone": "+55 11 4043-2159",
+  "website": "https://www.instagram.com/panificadora_dondoc/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5712984767096030091",
+  "rating": 4.4,
+  "reviewCount": 5095,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.688896,
+    -46.63400799999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Enduring bakery for breads, pastries & cakes, plus prepared meals like wood-fired pizza & burgers.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-don-doc-diadema/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:33.149Z"
+}

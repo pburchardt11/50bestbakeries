@@ -1,0 +1,43 @@
+{
+  "slug": "la-fina-bakery-cali",
+  "name": "La Fina Bakery",
+  "curatedName": "La Fina Bakery",
+  "city": "Cali",
+  "country": "Colombia",
+  "placeId": "ChIJw_r_UZemMI4RxWPk9KZkqdQ",
+  "googleName": "La Fina Bakery",
+  "formattedAddress": "Cl. 6 #14-04, COMUNA 3, Cali, Valle del Cauca, Colombia",
+  "phone": "(602) 3745022",
+  "internationalPhone": "+57 602 3745022",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15323889875340780485",
+  "rating": 4.7,
+  "reviewCount": 477,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.443313,
+    -76.53598699999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 6:30 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-fina-bakery-cali/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:28.543Z"
+}

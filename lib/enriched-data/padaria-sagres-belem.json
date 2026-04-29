@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-sagres-belem",
+  "name": "Padaria Sagres",
+  "curatedName": "Padaria Sagres",
+  "city": "Belém",
+  "country": "Brazil",
+  "placeId": "ChIJh0ht7HyOpJIRqZFzKQfzYbU",
+  "googleName": "Padaria Sagres",
+  "formattedAddress": "R. dos Caripunas, 1717 - Batista Campos, Belém - PA, 66033-442, Brazil",
+  "phone": "(91) 3223-9123",
+  "internationalPhone": "+55 91 3223-9123",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13069994805691650473",
+  "rating": 4.6,
+  "reviewCount": 2158,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -1.46243,
+    -48.4874101
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 PM, 2:00 – 8:30 PM",
+    "Tuesday: 6:00 AM – 12:00 PM, 2:00 – 8:30 PM",
+    "Wednesday: 6:00 AM – 12:00 PM, 2:00 – 8:30 PM",
+    "Thursday: 6:00 AM – 12:00 PM, 2:00 – 8:30 PM",
+    "Friday: 6:00 AM – 12:00 PM, 2:00 – 8:30 PM",
+    "Saturday: 6:00 AM – 8:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-sagres-belem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:29.364Z"
+}

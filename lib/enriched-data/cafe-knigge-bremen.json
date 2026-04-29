@@ -1,0 +1,44 @@
+{
+  "slug": "cafe-knigge-bremen",
+  "name": "Café Knigge",
+  "curatedName": "Café Knigge",
+  "city": "Bremen",
+  "country": "Germany",
+  "placeId": "ChIJoQtD3hAosUcRAcYkIAN33EU",
+  "googleName": "Café Knigge",
+  "formattedAddress": "Sögestraße 42, 28195 Bremen, Germany",
+  "phone": "0421 13060",
+  "internationalPhone": "+49 421 13060",
+  "website": "http://www.knigge-shop.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5034029338801260033",
+  "rating": 4.2,
+  "reviewCount": 1320,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.0779951,
+    8.8078655
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 11:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Enduring cafe in operation since 1889 specializing in handmade cakes & biscuits, plus typical mains.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-knigge-bremen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:33.044Z"
+}

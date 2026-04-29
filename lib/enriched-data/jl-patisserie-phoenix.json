@@ -1,0 +1,43 @@
+{
+  "slug": "jl-patisserie-phoenix",
+  "name": "JL Patisserie",
+  "curatedName": "JL Patisserie",
+  "city": "Phoenix",
+  "country": "United States",
+  "placeId": "ChIJl3JenXkTK4cRQNPIziLdlas",
+  "googleName": "JL Patisserie",
+  "formattedAddress": "4700 N Central Ave ste. 121, Phoenix, AZ 85012, USA",
+  "phone": "(480) 859-4459",
+  "internationalPhone": "+1 480-859-4459",
+  "website": "https://jlpatisserie-order.square.site/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12364031493583459136",
+  "rating": 4.5,
+  "reviewCount": 653,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.5065759,
+    -112.0739947
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jl-patisserie-phoenix/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:48.862Z"
+}

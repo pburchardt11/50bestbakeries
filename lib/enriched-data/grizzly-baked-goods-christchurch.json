@@ -1,0 +1,43 @@
+{
+  "slug": "grizzly-baked-goods-christchurch",
+  "name": "Grizzly Baked Goods",
+  "curatedName": "Grizzly Baked Goods",
+  "city": "Christchurch",
+  "country": "New Zealand",
+  "placeId": "ChIJqfzb4Y2LMW0R89NYT6sFtTc",
+  "googleName": "Grizzly Baked Goods",
+  "formattedAddress": "22 Welles Street, Christchurch Central City, Christchurch 8011, New Zealand",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.grizzlybakedgoods.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4014120876199433203",
+  "rating": 4.7,
+  "reviewCount": 328,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -43.5370246,
+    172.6378116
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 8:30 AM – 2:30 PM",
+    "Sunday: 8:30 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grizzly-baked-goods-christchurch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:15.975Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-yiredh-aguas-zarcas",
+  "name": "Panaderia Yiredh",
+  "city": "Aguas Zarcas",
+  "country": "Costa Rica",
+  "placeId": "ChIJT_E7_xtjoI8RflwfcmpGyPU",
+  "googleName": "Panadería Yiredh #1",
+  "formattedAddress": "viendo fresco, Ruta Nacional Secundaria 140, Provincia de Alajuela, Aguas Zarcas, Costa Rica",
+  "phone": "8333 7371",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17710482957629611134",
+  "rating": 3.9,
+  "reviewCount": 7,
+  "coords": [
+    10.3740703,
+    -84.33163809999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-yiredh-aguas-zarcas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:46:41.524Z"
+}

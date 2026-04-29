@@ -1,0 +1,45 @@
+{
+  "slug": "bajgle-krola-jana-poznan",
+  "name": "Bajgle Króla Jana",
+  "curatedName": "Bajgle Króla Jana",
+  "city": "Poznań",
+  "country": "Poland",
+  "placeId": "ChIJk6joGohFBEcRJjLOkuKNqXE",
+  "googleName": "Bajgle Króla Jana",
+  "formattedAddress": "Kraszewskiego 15, 60-501 Poznań, Poland",
+  "phone": "732 806 444",
+  "internationalPhone": "+48 732 806 444",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8190233401615069734",
+  "rating": 4.6,
+  "reviewCount": 2271,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.4103767,
+    16.9025209
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bajgle-krola-jana-poznan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:40.607Z"
+}

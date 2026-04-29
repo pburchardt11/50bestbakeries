@@ -1,0 +1,46 @@
+{
+  "slug": "le-parisien-bakery-new-york",
+  "name": "Le Parisien Bakery",
+  "curatedName": "Le Parisien Bakery",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJnzkPKwBZwokRmUk0EzQbaNE",
+  "googleName": "Le Parisien Bakery",
+  "formattedAddress": "235 W 46th St, New York, NY 10036, USA",
+  "phone": "(212) 837-2210",
+  "internationalPhone": "+1 212-837-2210",
+  "website": "https://www.leparisienbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15089340461979290009",
+  "rating": 4.8,
+  "reviewCount": 7818,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7594696,
+    -73.9868936
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-parisien-bakery-new-york/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:43.162Z"
+}

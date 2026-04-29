@@ -1,0 +1,33 @@
+{
+  "slug": "panaderia-mora-puebla",
+  "name": "Panaderia MORA",
+  "curatedName": "Panaderia MORA",
+  "city": "Puebla",
+  "country": "Mexico",
+  "placeId": "ChIJzSf1SoTAz4URQvgREEZ49Sc",
+  "googleName": "Mora PANADERIA",
+  "formattedAddress": "Av. Vicente Guerrero 101A, Insurgentes Oriente, 72540 Heroica Puebla de Zaragoza, Pue., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2879339779085957186",
+  "rating": 5,
+  "reviewCount": 1,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.0153441,
+    -98.18449969999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T04:43:50.023Z"
+}

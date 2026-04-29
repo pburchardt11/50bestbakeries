@@ -1,0 +1,45 @@
+{
+  "slug": "ninety-six-bakery-medan",
+  "name": "Ninety Six Bakery",
+  "curatedName": "Ninety Six Bakery",
+  "city": "Medan",
+  "country": "Indonesia",
+  "placeId": "ChIJ2fF-SMoxMTARyG1edCBhW90",
+  "googleName": "Ninety Six Bakery",
+  "formattedAddress": "Jl. Kol. Sugiono No.2E, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",
+  "phone": "0813-9603-1404",
+  "internationalPhone": "+62 813-9603-1404",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15950449297281936840",
+  "rating": 4.9,
+  "reviewCount": 1653,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.5839458,
+    98.6799226
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ninety-six-bakery-medan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:04.526Z"
+}

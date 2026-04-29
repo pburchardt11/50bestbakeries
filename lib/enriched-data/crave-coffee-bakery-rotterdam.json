@@ -1,0 +1,44 @@
+{
+  "slug": "crave-coffee-bakery-rotterdam",
+  "name": "Crave Coffee & Bakery",
+  "curatedName": "Crave Coffee & Bakery",
+  "city": "Rotterdam",
+  "country": "Netherlands",
+  "placeId": "ChIJ605doCozxEcRqNw4k92QW3g",
+  "googleName": "Crave Coffee & Bakery",
+  "formattedAddress": "Vogelenzang 6, 3011 LM Rotterdam, Netherlands",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.cravecoffeebakery.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8672684788764171432",
+  "rating": 4.6,
+  "reviewCount": 229,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.9229966,
+    4.488799
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crave-coffee-bakery-rotterdam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:57.134Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "layers-bakery-helsinki",
+  "name": "Layers Bakery",
+  "curatedName": "Layers Bakery",
+  "city": "Helsinki",
+  "country": "Finland",
+  "placeId": "ChIJGcDFH-cLkkYRS_TaVS2b2WU",
+  "googleName": "Layers Bakery",
+  "formattedAddress": "Cygnaeuksenkatu 6, 00100 Helsinki, Finland",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/layersbakery.hel",
+  "googleMapsUrl": "https://maps.google.com/?cid=7339067686793180235",
+  "rating": 4.6,
+  "reviewCount": 194,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    60.1749543,
+    24.9284434
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/layers-bakery-helsinki/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:26.966Z"
+}

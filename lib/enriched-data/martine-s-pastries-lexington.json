@@ -1,0 +1,44 @@
+{
+  "slug": "martine-s-pastries-lexington",
+  "name": "Martine's Pastries",
+  "curatedName": "Martine's Pastries",
+  "city": "Lexington",
+  "country": "United States",
+  "placeId": "ChIJEzPDXRNFQogRj26heMXDPoM",
+  "googleName": "Martine's Pastries",
+  "formattedAddress": "400 E Third St, Lexington, KY 40508, USA",
+  "phone": "(859) 231-9110",
+  "internationalPhone": "+1 859-231-9110",
+  "website": "http://www.martinespastries.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9457211520424439439",
+  "rating": 4.7,
+  "reviewCount": 385,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.044713,
+    -84.4870466
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Compact bakeshop offering French pastries, cookies, desserts & custom special-occasion cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martine-s-pastries-lexington/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:31.435Z"
+}

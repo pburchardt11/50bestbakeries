@@ -1,0 +1,44 @@
+{
+  "slug": "bonin-bakery-curitiba",
+  "name": "Bonin Bakery",
+  "curatedName": "Bonin Bakery",
+  "city": "Curitiba",
+  "country": "Brazil",
+  "placeId": "ChIJHQuc6kXl3JQRGnx5tg5M8g8",
+  "googleName": "Bonin Bakery",
+  "formattedAddress": "Alameda Prudente de Moraes, 995 - Centro, Curitiba - PR, 80430-234, Brazil",
+  "phone": "(41) 3149-5040",
+  "internationalPhone": "+55 41 3149-5040",
+  "website": "http://www.boninbakery.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1149064481007565850",
+  "rating": 4.7,
+  "reviewCount": 658,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.4305775,
+    -49.2820656
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:30 PM",
+    "Tuesday: 10:00 AM – 6:30 PM",
+    "Wednesday: 10:00 AM – 6:30 PM",
+    "Thursday: 10:00 AM – 6:30 PM",
+    "Friday: 10:00 AM – 6:30 PM",
+    "Saturday: 10:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bonin-bakery-curitiba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:04.986Z"
+}

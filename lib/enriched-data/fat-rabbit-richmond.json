@@ -1,0 +1,43 @@
+{
+  "slug": "fat-rabbit-richmond",
+  "name": "Fat Rabbit",
+  "curatedName": "Fat Rabbit",
+  "city": "Richmond",
+  "country": "United States",
+  "placeId": "ChIJgZwrw5gRsYkRD-SXcYItwJM",
+  "googleName": "Fat Rabbit",
+  "formattedAddress": "2025 Venable St, Richmond, VA 23223, USA",
+  "phone": "(804) 344-3730",
+  "internationalPhone": "+1 804-344-3730",
+  "website": "http://fat-rabbit.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10646559557378630671",
+  "rating": 4.8,
+  "reviewCount": 260,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.5381052,
+    -77.41930119999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:30 AM – 3:00 PM",
+    "Wednesday: 6:30 AM – 3:00 PM",
+    "Thursday: 6:30 AM – 3:00 PM",
+    "Friday: 6:30 AM – 3:00 PM",
+    "Saturday: 7:30 AM – 3:00 PM",
+    "Sunday: 7:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fat-rabbit-richmond/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:38.724Z"
+}

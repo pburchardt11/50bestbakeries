@@ -1,0 +1,43 @@
+{
+  "slug": "the-velvet-buttercream-phoenix",
+  "name": "The Velvet Buttercream",
+  "curatedName": "The Velvet Buttercream",
+  "city": "Phoenix",
+  "country": "United States",
+  "placeId": "ChIJ7wRkM1wTK4cRB1_9rawSWmg",
+  "googleName": "The Velvet Buttercream",
+  "formattedAddress": "702 W Camelback Rd #5, Phoenix, AZ 85013, USA",
+  "phone": "(602) 734-1408",
+  "internationalPhone": "+1 602-734-1408",
+  "website": "http://www.velvetbuttercream.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7519343060711202567",
+  "rating": 4.7,
+  "reviewCount": 259,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.5098083,
+    -112.0833368
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-velvet-buttercream-phoenix/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:51.103Z"
+}

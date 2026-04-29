@@ -1,0 +1,43 @@
+{
+  "slug": "cuixi-panificadora-morelia",
+  "name": "CUIXI Panificadora",
+  "curatedName": "CUIXI Panificadora",
+  "city": "Morelia",
+  "country": "Mexico",
+  "placeId": "ChIJRdVwVKcPLYQRZ_DR6uUEYWE",
+  "googleName": "CUIXI Panificadora",
+  "formattedAddress": "Andrés Quintana Roo 171, Col. Centro, 58000 Morelia, Mich., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://linktr.ee/cuixi",
+  "googleMapsUrl": "https://maps.google.com/?cid=7016895079953592423",
+  "rating": 4.6,
+  "reviewCount": 246,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.7014781,
+    -101.1968005
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 10:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cuixi-panificadora-morelia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:32.085Z"
+}

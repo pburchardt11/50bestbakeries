@@ -1,0 +1,43 @@
+{
+  "slug": "supreme-bakery-el-paso",
+  "name": "Supreme Bakery",
+  "curatedName": "Supreme Bakery",
+  "city": "El Paso",
+  "country": "United States",
+  "placeId": "ChIJbW_tXmNR54YR68eu7ezL0G0",
+  "googleName": "Supreme Bakery",
+  "formattedAddress": "10180 McCombs St, El Paso, TX 79924, USA",
+  "phone": "(915) 751-9863",
+  "internationalPhone": "+1 915-751-9863",
+  "website": "https://m.facebook.com/pages/category/Bakery/Supreme-Bakery-1527782817496087/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7913048763750336491",
+  "rating": 4.5,
+  "reviewCount": 988,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.9059307,
+    -106.4065301
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/supreme-bakery-el-paso/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:23.882Z"
+}

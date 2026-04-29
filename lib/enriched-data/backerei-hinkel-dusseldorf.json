@@ -1,0 +1,43 @@
+{
+  "slug": "backerei-hinkel-dusseldorf",
+  "name": "Bäckerei Hinkel",
+  "curatedName": "Bäckerei Hinkel",
+  "city": "Düsseldorf",
+  "country": "Germany",
+  "placeId": "ChIJR2URkBfKuEcRz0cZ0os0wCg",
+  "googleName": "Bäckerei Hinkel GmbH & Co. KG",
+  "formattedAddress": "Mittelstraße 25, 40213 Düsseldorf, Germany",
+  "phone": "0211 86203421",
+  "internationalPhone": "+49 211 86203421",
+  "website": "http://www.baeckerei-hinkel.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2936404732175534031",
+  "rating": 4.8,
+  "reviewCount": 1814,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.2240195,
+    6.7741718
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Popular, long-running bakery featuring a large variety of breads & pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-hinkel-dusseldorf/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:48.759Z"
+}

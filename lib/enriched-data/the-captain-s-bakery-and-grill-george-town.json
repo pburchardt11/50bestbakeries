@@ -1,0 +1,32 @@
+{
+  "slug": "the-captain-s-bakery-and-grill-george-town",
+  "name": "The Captain's Bakery and Grill",
+  "city": "George Town",
+  "country": "Cayman Islands",
+  "placeId": "ChIJZyZRmviGJY8RyRBYuM8yuNo",
+  "googleName": "The Captain's Bakery & Grill",
+  "formattedAddress": "105 W Bay Rd, Cayman Islands",
+  "phone": "(345) 949-1007",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15760402763715449033",
+  "rating": 3.9,
+  "reviewCount": 134,
+  "coords": [
+    19.3093474,
+    -81.3845113
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 11:00 PM",
+    "Tuesday: 6:30 AM – 11:00 PM",
+    "Wednesday: 6:30 AM – 11:00 PM",
+    "Thursday: 6:30 AM – 11:00 PM",
+    "Friday: 6:30 AM – 12:00 AM",
+    "Saturday: 6:30 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-captain-s-bakery-and-grill-george-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:41:46.419Z"
+}

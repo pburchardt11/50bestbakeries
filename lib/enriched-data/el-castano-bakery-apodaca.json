@@ -1,0 +1,43 @@
+{
+  "slug": "el-castano-bakery-apodaca",
+  "name": "El Castaño Bakery",
+  "curatedName": "El Castaño Bakery",
+  "city": "Apodaca",
+  "country": "Mexico",
+  "placeId": "ChIJvdDMhvPtYoYRGdYNuANq22Q",
+  "googleName": "El Castaño Bakery",
+  "formattedAddress": "Arturo Martínez Calzado 100, Rinconada Colonial de Apodaca, 66606 Cdad. Apodaca, N.L., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/elcastanopan/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7267518987897787929",
+  "rating": 4.6,
+  "reviewCount": 2587,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.7979409,
+    -100.2015037
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-castano-bakery-apodaca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:11.832Z"
+}

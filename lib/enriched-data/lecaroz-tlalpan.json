@@ -1,0 +1,43 @@
+{
+  "slug": "lecaroz-tlalpan",
+  "name": "Lecaroz",
+  "curatedName": "Lecaroz",
+  "city": "Tlalpan",
+  "country": "Mexico",
+  "placeId": "ChIJJ7E2BPMAzoURH-ACU3MSXMs",
+  "googleName": "Lecaroz",
+  "formattedAddress": "Calz. de Tlalpan 4999, Tlalpan Centro II, Tlalpan, 14000 Ciudad de México, CDMX, Mexico",
+  "phone": "55 5485 4587",
+  "internationalPhone": "+52 55 5485 4587",
+  "website": "http://www.lecaroz.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14653607574079987743",
+  "rating": 4.1,
+  "reviewCount": 4816,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.2820532,
+    -99.1653437
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lecaroz-tlalpan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:38.994Z"
+}

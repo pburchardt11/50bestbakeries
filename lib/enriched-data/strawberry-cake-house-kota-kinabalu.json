@@ -1,0 +1,43 @@
+{
+  "slug": "strawberry-cake-house-kota-kinabalu",
+  "name": "Strawberry Cake House",
+  "curatedName": "Strawberry Cake House",
+  "city": "Kota Kinabalu",
+  "country": "Malaysia",
+  "placeId": "ChIJnR5SIwhpOzIRoQFLCeNepNI",
+  "googleName": "Strawberry Cake House",
+  "formattedAddress": "2, Jalan Damai, Luyang Commercial Centre, 88300 Kota Kinabalu, Sabah, Malaysia",
+  "phone": "088-261 700",
+  "internationalPhone": "+60 88-261 700",
+  "website": "https://www.facebook.com/profile.php?id=100063595051807",
+  "googleMapsUrl": "https://maps.google.com/?cid=15178360973351911841",
+  "rating": 4.3,
+  "reviewCount": 425,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    5.9626772,
+    116.0893244
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/strawberry-cake-house-kota-kinabalu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:20.742Z"
+}

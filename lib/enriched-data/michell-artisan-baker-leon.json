@@ -1,0 +1,43 @@
+{
+  "slug": "michell-artisan-baker-leon",
+  "name": "Michell Artisan Baker",
+  "curatedName": "Michell Artisan Baker",
+  "city": "León",
+  "country": "Mexico",
+  "placeId": "ChIJg9X5PkW_K4QRNmzEqeleAsI",
+  "googleName": "Michell Artisan Baker",
+  "formattedAddress": "Av. Guanajuato 1308, Jardines del Moral, 37160 León de los Aldama, Gto., Mexico",
+  "phone": "477 600 4394",
+  "internationalPhone": "+52 477 600 4394",
+  "website": "https://www.facebook.com/Michell-Artisan-Baker-112830947127426",
+  "googleMapsUrl": "https://maps.google.com/?cid=13979840550980054070",
+  "rating": 4.8,
+  "reviewCount": 116,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1464213,
+    -101.6984466
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 7:30 PM",
+    "Wednesday: 8:30 AM – 7:30 PM",
+    "Thursday: 8:30 AM – 7:30 PM",
+    "Friday: 8:30 AM – 7:30 PM",
+    "Saturday: 8:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/michell-artisan-baker-leon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:21.871Z"
+}

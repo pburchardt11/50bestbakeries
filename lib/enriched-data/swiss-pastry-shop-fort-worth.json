@@ -1,0 +1,44 @@
+{
+  "slug": "swiss-pastry-shop-fort-worth",
+  "name": "Swiss Pastry Shop",
+  "curatedName": "Swiss Pastry Shop",
+  "city": "Fort Worth",
+  "country": "United States",
+  "placeId": "ChIJZSXbcbVzToYRTUlk5loINxo",
+  "googleName": "Swiss Pastry Shop",
+  "formattedAddress": "3936 W Vickery Blvd, Fort Worth, TX 76107, USA",
+  "phone": "(817) 732-5661",
+  "internationalPhone": "+1 817-732-5661",
+  "website": "https://www.facebook.com/swisspastryshop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1888987755210623309",
+  "rating": 4.6,
+  "reviewCount": 1577,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.7293765,
+    -97.3743073
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Veteran bakery for breads, cookies & desserts plus a cafe serving breakfast & lunch.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/swiss-pastry-shop-fort-worth/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:46.836Z"
+}

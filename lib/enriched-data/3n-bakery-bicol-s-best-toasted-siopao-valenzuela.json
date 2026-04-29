@@ -1,0 +1,43 @@
+{
+  "slug": "3n-bakery-bicol-s-best-toasted-siopao-valenzuela",
+  "name": "3N bakery : Bicol's Best Toasted Siopao",
+  "curatedName": "3N bakery : Bicol's Best Toasted Siopao",
+  "city": "Valenzuela",
+  "country": "Philippines",
+  "placeId": "ChIJKyCuHAq0lzMRcxEgU0VyyOo",
+  "googleName": "3N Bakery",
+  "formattedAddress": "Unit 14, C. J. Santos St., Valenzuela, 1440 Metro Manila, Philippines",
+  "phone": "(02) 7794 8356",
+  "internationalPhone": "+63 2 7794 8356",
+  "website": "http://www.facebook.com/3nbakerytoastedsiopao",
+  "googleMapsUrl": "https://maps.google.com/?cid=16917897642290188659",
+  "rating": 2.6,
+  "reviewCount": 5,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.694452,
+    120.970109
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:30 PM",
+    "Sunday: 7:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/3n-bakery-bicol-s-best-toasted-siopao-valenzuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:45.678Z"
+}

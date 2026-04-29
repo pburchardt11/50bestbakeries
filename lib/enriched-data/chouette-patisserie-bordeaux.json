@@ -1,0 +1,43 @@
+{
+  "slug": "chouette-patisserie-bordeaux",
+  "name": "Chouette Pâtisserie",
+  "curatedName": "Chouette Pâtisserie",
+  "city": "Bordeaux",
+  "country": "France",
+  "placeId": "ChIJffKwPFEnVQ0RiSN7QYxyDAo",
+  "googleName": "Chouette Pâtisserie",
+  "formattedAddress": "71 Rue Judaïque, 33000 Bordeaux, France",
+  "phone": "09 70 95 45 87",
+  "internationalPhone": "+33 9 70 95 45 87",
+  "website": "https://www.chouette-patisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=724079586819384201",
+  "rating": 4.9,
+  "reviewCount": 237,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.8414146,
+    -0.5847933000000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 7:30 PM",
+    "Wednesday: 10:00 AM – 7:30 PM",
+    "Thursday: 10:00 AM – 7:30 PM",
+    "Friday: 10:00 AM – 7:30 PM",
+    "Saturday: 10:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chouette-patisserie-bordeaux/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:19.349Z"
+}

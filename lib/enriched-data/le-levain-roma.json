@@ -1,0 +1,44 @@
+{
+  "slug": "le-levain-roma",
+  "name": "Le Levain Roma",
+  "curatedName": "Le Levain Roma",
+  "city": "Roma",
+  "country": "Italy",
+  "placeId": "ChIJFcPuGjlgLxMRtPc88C14UdM",
+  "googleName": "Le Levain Roma",
+  "formattedAddress": "Via Luigi Santini, 22, 00153 Roma RM, Italy",
+  "phone": "327 294 1753",
+  "internationalPhone": "+39 327 294 1753",
+  "website": "https://www.lelevainroma.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15227083953815746484",
+  "rating": 4.6,
+  "reviewCount": 1930,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.8871433,
+    12.4687212
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Artisanal patisserie specializing in custom cakes, also popular for lunchtime soups & sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-levain-roma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:30.535Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "aysan-pastry-kabul",
+  "name": "Aysan Pastry",
+  "city": "Kabul",
+  "country": "Afghanistan",
+  "placeId": "ChIJsUASE9Bo0TgRatob5ZaBWaY",
+  "googleName": "Aysan Pastry",
+  "formattedAddress": "G43M+WV4, Kabul 100311, Afghanistan",
+  "phone": "078 626 6979",
+  "website": "https://www.facebook.com/aysan.pastry/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11986754368312171114",
+  "rating": 3.8,
+  "reviewCount": 64,
+  "coords": [
+    34.504766,
+    69.13469839999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aysan-pastry-kabul/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:12:55.557Z"
+}

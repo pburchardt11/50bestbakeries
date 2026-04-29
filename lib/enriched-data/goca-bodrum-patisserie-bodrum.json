@@ -1,0 +1,44 @@
+{
+  "slug": "goca-bodrum-patisserie-bodrum",
+  "name": "GOCA Bodrum Patisserie",
+  "curatedName": "GOCA Bodrum Patisserie",
+  "city": "Bodrum",
+  "country": "Türkiye",
+  "placeId": "ChIJI5xybwBtvhQR6dGFettUFPM",
+  "googleName": "GOCA Bodrum Patisserie",
+  "formattedAddress": "Çarşı, 1014. Sokak No:39, 48400 Bodrum/Muğla, Türkiye",
+  "phone": "0545 623 31 98",
+  "internationalPhone": "+90 545 623 31 98",
+  "website": "https://www.instagram.com/gocabodrumpatisserie?igsh=a2poY2syZ25qM2xi",
+  "googleMapsUrl": "https://maps.google.com/?cid=17515718152380862953",
+  "rating": 4.8,
+  "reviewCount": 260,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.0332771,
+    27.430702
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 2:00 AM",
+    "Tuesday: 9:00 AM – 2:00 AM",
+    "Wednesday: 9:00 AM – 2:00 AM",
+    "Thursday: 9:00 AM – 2:00 AM",
+    "Friday: 9:00 AM – 2:00 AM",
+    "Saturday: 9:00 AM – 2:00 AM",
+    "Sunday: 9:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/goca-bodrum-patisserie-bodrum/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:03:19.249Z"
+}

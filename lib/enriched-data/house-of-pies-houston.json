@@ -1,0 +1,45 @@
+{
+  "slug": "house-of-pies-houston",
+  "name": "House of Pies",
+  "curatedName": "House of Pies",
+  "city": "Houston",
+  "country": "United States",
+  "placeId": "ChIJlScY7-3AQIYR6HeQ08DoEmM",
+  "googleName": "House of Pies",
+  "formattedAddress": "3112 Kirby Dr, Houston, TX 77098, USA",
+  "phone": "(713) 528-3816",
+  "internationalPhone": "+1 713-528-3816",
+  "website": "http://www.houseofpies.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7139024274216482792",
+  "rating": 4.4,
+  "reviewCount": 6398,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.737072,
+    -95.419178
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "Classic 24-hour American diner serving burgers,  salads, sandwiches, breakfast fare & homemade pies.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/house-of-pies-houston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:08:30.040Z"
+}

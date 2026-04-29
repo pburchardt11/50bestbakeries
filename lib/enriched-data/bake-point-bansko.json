@@ -1,0 +1,32 @@
+{
+  "slug": "bake-point-bansko",
+  "name": "Bake Point Bansko",
+  "city": "Банско",
+  "country": "Bulgaria",
+  "placeId": "ChIJa0J9VACvqxQRs3oC4-uXpFk",
+  "googleName": "Bake Point Bansko",
+  "formattedAddress": "кв. Грамадето, \"Pirin\" Str. 125, 2770 Bansko, Bulgaria",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6459454804937833139",
+  "rating": 4.8,
+  "reviewCount": 49,
+  "coords": [
+    41.8242633,
+    23.4777493
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-point-bansko/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:23:38.278Z"
+}

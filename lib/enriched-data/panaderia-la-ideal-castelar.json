@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-la-ideal-castelar",
+  "name": "Panaderia la ideal",
+  "curatedName": "Panaderia la ideal",
+  "city": "Castelar",
+  "country": "Argentina",
+  "placeId": "ChIJ1-jKeinHvJURW3VC-3hL7gM",
+  "googleName": "LA IDEAL - Panaderia y Confiteria -",
+  "formattedAddress": "Carapachay 3620, B1708 Morón, Provincia de Buenos Aires, Argentina",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=283246809554515291",
+  "rating": 4.9,
+  "reviewCount": 14,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.6881718,
+    -58.6394017
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:50 AM – 1:00 PM, 5:00 – 8:30 PM",
+    "Wednesday: 6:50 AM – 1:00 PM, 5:00 – 8:30 PM",
+    "Thursday: 6:50 AM – 1:00 PM, 5:00 – 8:30 PM",
+    "Friday: 6:50 AM – 1:00 PM, 5:00 – 8:30 PM",
+    "Saturday: 6:50 AM – 1:00 PM, 5:00 – 8:30 PM",
+    "Sunday: 6:50 AM – 1:00 PM, 5:00 – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-ideal-castelar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:21.355Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "madders-brothers-patisserie-brisbane",
+  "name": "Madders Brothers Patisserie",
+  "curatedName": "Madders Brothers Patisserie",
+  "city": "Brisbane",
+  "country": "Australia",
+  "placeId": "ChIJt3EF_m1OkWsRNT-VMaMPu4I",
+  "googleName": "Madders Brothers Patisserie",
+  "formattedAddress": "30 Guide St, Jamboree Heights QLD 4074, Australia",
+  "phone": "(07) 3376 1101",
+  "internationalPhone": "+61 7 3376 1101",
+  "website": "https://www.facebook.com/Madders-Brothers-Patisserie-159138457500356/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9420140239161474869",
+  "rating": 4.8,
+  "reviewCount": 267,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.5583333,
+    152.9327778
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 1:00 PM",
+    "Tuesday: 7:30 AM – 1:00 PM",
+    "Wednesday: 7:30 AM – 1:00 PM",
+    "Thursday: 7:30 AM – 1:00 PM",
+    "Friday: 7:30 AM – 1:00 PM",
+    "Saturday: 7:30 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/madders-brothers-patisserie-brisbane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:35.062Z"
+}

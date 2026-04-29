@@ -1,0 +1,47 @@
+{
+  "slug": "ugly-bread-bakery-nottingham",
+  "name": "Ugly Bread Bakery",
+  "curatedName": "Ugly Bread Bakery",
+  "city": "Nottingham",
+  "country": "United Kingdom",
+  "placeId": "ChIJLQJvkNXDeUgR_rTg1rR062c",
+  "googleName": "Ugly Bread Bakery",
+  "formattedAddress": "34 Carlton St, Nottingham NG1 1NN, UK",
+  "phone": "07377 509805",
+  "internationalPhone": "+44 7377 509805",
+  "website": "http://www.uglybreadbakery.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7488207125481567486",
+  "rating": 4.5,
+  "reviewCount": 510,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.953526,
+    -1.1440006
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 5:00 PM",
+    "Tuesday: 9:30 AM – 5:00 PM",
+    "Wednesday: 9:30 AM – 5:00 PM",
+    "Thursday: 9:30 AM – 5:00 PM",
+    "Friday: 9:30 AM – 5:00 PM",
+    "Saturday: 9:30 AM – 6:00 PM",
+    "Sunday: 9:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ugly-bread-bakery-nottingham/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:31.447Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "rojen-pastanesi-osmangazi",
+  "name": "Rojen Pastanesi",
+  "curatedName": "Rojen Pastanesi",
+  "city": "Osmangazi",
+  "country": "Türkiye",
+  "placeId": "ChIJp9OxhrUVyhQRel5jjTHIqXk",
+  "googleName": "Rojen Pastanesi",
+  "formattedAddress": "Yenikaraman, 1. Hürriyet Cd. No:101, 16170 Osmangazi̇/Bursa, Türkiye",
+  "phone": "(0224) 246 41 27",
+  "internationalPhone": "+90 224 246 41 27",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8766758264804433530",
+  "rating": 4.5,
+  "reviewCount": 810,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.2227343,
+    29.0027779
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rojen-pastanesi-osmangazi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:46.480Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "1748-bakehouse-jacksonville",
+  "name": "1748 Bakehouse",
+  "curatedName": "1748 Bakehouse",
+  "city": "Jacksonville",
+  "country": "United States",
+  "placeId": "ChIJazny8ai35YgRaNxj4wZpRrI",
+  "googleName": "1748 Bakehouse",
+  "formattedAddress": "1748 N Main St, Jacksonville, FL 32206, USA",
+  "phone": "(904) 374-2541",
+  "internationalPhone": "+1 904-374-2541",
+  "website": "http://www.1748bakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12846070465426611304",
+  "rating": 4.8,
+  "reviewCount": 711,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.3455143,
+    -81.6541779
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/1748-bakehouse-jacksonville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:19.069Z"
+}

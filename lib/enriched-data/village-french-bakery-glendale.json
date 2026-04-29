@@ -1,0 +1,43 @@
+{
+  "slug": "village-french-bakery-glendale",
+  "name": "Village French Bakery",
+  "curatedName": "Village French Bakery",
+  "city": "Glendale",
+  "country": "United States",
+  "placeId": "ChIJU8cdxxnAwoARDbq9_CGU98g",
+  "googleName": "Village French Bakery",
+  "formattedAddress": "1414 W Kenneth Rd, Glendale, CA 91201, USA",
+  "phone": "(818) 241-2521",
+  "internationalPhone": "+1 818-241-2521",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14481206000528243213",
+  "rating": 4.5,
+  "reviewCount": 232,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.1725317,
+    -118.2799582
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Fresh-baked breads, cakes, coffee & other treats offered at a French patisserie with a relaxed vibe.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/village-french-bakery-glendale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:16:23.144Z"
+}

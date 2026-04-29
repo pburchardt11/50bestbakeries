@@ -1,0 +1,44 @@
+{
+  "slug": "delicias-del-contry-reynosa",
+  "name": "Delicias del Contry Reynosa",
+  "curatedName": "Delicias del Contry Reynosa",
+  "city": "Reynosa",
+  "country": "Mexico",
+  "placeId": "ChIJLWM0UPYFZYYRr8dNk2Qf4go",
+  "googleName": "Delicias del Contry Reynosa",
+  "formattedAddress": "Blvd. Del Maestro 209, Narciso Mendoza, 88700 Reynosa, Tamps., Mexico",
+  "phone": "899 273 3711",
+  "internationalPhone": "+52 899 273 3711",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=784223801944426415",
+  "rating": 4.5,
+  "reviewCount": 585,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.0701492,
+    -98.3091681
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 9:00 PM",
+    "Tuesday: 8:30 AM – 9:00 PM",
+    "Wednesday: 8:30 AM – 9:00 PM",
+    "Thursday: 8:30 AM – 9:00 PM",
+    "Friday: 8:30 AM – 9:00 PM",
+    "Saturday: 8:30 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delicias-del-contry-reynosa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:39.203Z"
+}

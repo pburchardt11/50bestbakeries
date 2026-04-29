@@ -1,0 +1,32 @@
+{
+  "slug": "bakemart-plus",
+  "name": "Bakemart Plus",
+  "city": "الرفاع البحير",
+  "country": "Bahrain",
+  "placeId": "ChIJlw3UKRSsST4R0_3bEVeSFFY",
+  "googleName": "Bakemart Plus",
+  "formattedAddress": "Building 1491 Road 1431 Block 919 Area Al Buhair Riffa, المنامة، Bahrain",
+  "phone": "1748 4941",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6202743489455455699",
+  "rating": 3.9,
+  "reviewCount": 156,
+  "coords": [
+    26.1410808,
+    50.5792655
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:00 PM",
+    "Tuesday: 7:30 AM – 11:00 PM",
+    "Wednesday: 7:30 AM – 11:00 PM",
+    "Thursday: 7:30 AM – 11:00 PM",
+    "Friday: 7:30 AM – 11:00 PM",
+    "Saturday: 7:30 AM – 11:00 PM",
+    "Sunday: 7:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakemart-plus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:46:02.645Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "paul-gilali",
+  "name": "Paul",
+  "city": "GiLALI",
+  "country": "Bahrain",
+  "placeId": "ChIJ9w5PAACnST4RC8VJaojSFWE",
+  "googleName": "Paul",
+  "formattedAddress": "8J3V+QJC, Samaheej, Bahrain",
+  "phone": "1750 7979",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6995729079530538251",
+  "rating": 3.7,
+  "reviewCount": 228,
+  "coords": [
+    26.3042795,
+    50.6437108
+  ],
+  "openingHours": [
+    "Monday: 5:00 PM – 12:30 AM",
+    "Tuesday: 5:00 PM – 12:30 AM",
+    "Wednesday: 5:00 PM – 12:30 AM",
+    "Thursday: 5:00 PM – 12:30 AM",
+    "Friday: 5:00 PM – 12:30 AM",
+    "Saturday: 5:00 PM – 12:30 AM",
+    "Sunday: 5:00 PM – 12:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-gilali/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:44:18.162Z"
+}

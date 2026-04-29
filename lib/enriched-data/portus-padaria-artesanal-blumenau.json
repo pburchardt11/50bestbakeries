@@ -1,0 +1,43 @@
+{
+  "slug": "portus-padaria-artesanal-blumenau",
+  "name": "Portus Padaria Artesanal",
+  "curatedName": "Portus Padaria Artesanal",
+  "city": "Blumenau",
+  "country": "Brazil",
+  "placeId": "ChIJg44kk1Ef35QRrom5OVChejA",
+  "googleName": "Portus Padaria Artesanal",
+  "formattedAddress": "Rua Theodoro Holtrup, 720 - Vila Nova, Blumenau - SC, 89035-300, Brazil",
+  "phone": "(47) 3234-6254",
+  "internationalPhone": "+55 47 3234-6254",
+  "website": "https://instagram.com/portuspadariaartesanal",
+  "googleMapsUrl": "https://maps.google.com/?cid=3493281826917157294",
+  "rating": 4.5,
+  "reviewCount": 773,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.9049058,
+    -49.0872596
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/portus-padaria-artesanal-blumenau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:01.229Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-ours",
+  "name": "Boulangerie Ours",
+  "curatedName": "Boulangerie Ours",
+  "city": "台北市",
+  "country": "Taiwan",
+  "placeId": "ChIJCz744GqrQjQRDp88pJ2vv0U",
+  "googleName": "Boulangerie Ours",
+  "formattedAddress": "106, Taiwan, Taipei City, Da’an District, Siwei Rd, 375-3號一樓",
+  "phone": "02 2707 5033",
+  "internationalPhone": "+886 2 2707 5033",
+  "website": "https://www.instagram.com/boulangerie_ours/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5025928800768925454",
+  "rating": 4.6,
+  "reviewCount": 507,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.0256244,
+    121.5479493
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 5:30 PM",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 11:00 AM – 5:30 PM",
+    "Sunday: 11:00 AM – 5:30 PM"
+  ],
+  "editorialSummary": "Laid-back bakeshop offering up pastries, pizzas & light fare in unpretentious surroundings.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-ours/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:27.316Z"
+}

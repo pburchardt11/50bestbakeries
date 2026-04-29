@@ -1,0 +1,43 @@
+{
+  "slug": "cardamomo-confeitaria-contagem",
+  "name": "Cardamomo Confeitaria",
+  "curatedName": "Cardamomo Confeitaria",
+  "city": "Contagem",
+  "country": "Brazil",
+  "placeId": "ChIJATYcsseVpgARBZny9PgWcgc",
+  "googleName": "Cardamomo Confeitaria",
+  "formattedAddress": "R. Felisberta Francisca de Carvalho, 307 - da Gloria, Contagem - MG, 32340-050, Brazil",
+  "phone": "(31) 99388-8327",
+  "internationalPhone": "+55 31 99388-8327",
+  "website": "https://encurtador.com.br/tGvJK",
+  "googleMapsUrl": "https://maps.google.com/?cid=536516564127750405",
+  "rating": 5,
+  "reviewCount": 90,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.9363534,
+    -44.0476691
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cardamomo-confeitaria-contagem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:00.003Z"
+}

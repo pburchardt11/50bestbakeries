@@ -1,0 +1,43 @@
+{
+  "slug": "grandmas-bakery-dallas",
+  "name": "Grandmas' Bakery",
+  "curatedName": "Grandmas' Bakery",
+  "city": "Dallas",
+  "country": "United States",
+  "placeId": "ChIJzx2weCAjTIYRN03Ito3rpLQ",
+  "googleName": "Grandmas’ Bakery",
+  "formattedAddress": "17977 Preston Rd, Dallas, TX 75252, USA",
+  "phone": "(972) 863-3779",
+  "internationalPhone": "+1 972-863-3779",
+  "website": "https://grandmasbakerydfw.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13016787816897072439",
+  "rating": 4.9,
+  "reviewCount": 711,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.9971557,
+    -96.79897299999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 12:00 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grandmas-bakery-dallas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:09:50.316Z"
+}

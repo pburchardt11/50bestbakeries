@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-eliza-apodaca",
+  "name": "Pastelería Eliza",
+  "curatedName": "Pastelería Eliza",
+  "city": "Apodaca",
+  "country": "Mexico",
+  "placeId": "ChIJ4b40OAvsYoYRvd8EUsdFHXo",
+  "googleName": "Pastelería Eliza",
+  "formattedAddress": "Gral. Jeronimo Treviño 208, Cabecera Municipal (Apodaca), Apodaca Centro, 66600 Cdad. Apodaca, N.L., Mexico",
+  "phone": "81 8386 0428",
+  "internationalPhone": "+52 81 8386 0428",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8799265969328676797",
+  "rating": 4.7,
+  "reviewCount": 34,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.781454,
+    -100.1918852
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-eliza-apodaca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:10.659Z"
+}

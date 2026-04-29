@@ -1,0 +1,43 @@
+{
+  "slug": "banh-sinh-nhat-thuy-an-bakery-quan-cau-giay",
+  "name": "Bánh sinh nhật Thúy An Bakery",
+  "curatedName": "Bánh sinh nhật Thúy An Bakery",
+  "city": "Quận Cầu Giấy",
+  "country": "Vietnam",
+  "placeId": "ChIJ10mkrKlVNDERZTzu3oh2TDo",
+  "googleName": "Bánh sinh nhật Thúy An Bakery",
+  "formattedAddress": "37 ngõ 75 Đ. Hồ Tùng Mậu, Mai Dịch, Từ Liêm, Hà Nội, Vietnam",
+  "phone": "0979 166 305",
+  "internationalPhone": "+84 979 166 305",
+  "website": "http://tiembanhsinhnhatdep.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4200862882657614949",
+  "rating": 4.7,
+  "reviewCount": 58,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0357529,
+    105.7761159
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-sinh-nhat-thuy-an-bakery-quan-cau-giay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:18:27.040Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-zamora-murcia",
+  "name": "Pasteleria Zamora",
+  "curatedName": "Pasteleria Zamora",
+  "city": "Murcia",
+  "country": "Spain",
+  "placeId": "ChIJ6w92nwOCYw0RTDj6gGh2zdk",
+  "googleName": "Pastelería Zamora",
+  "formattedAddress": "C. Almohajar, 8, 30002 Murcia, Spain",
+  "phone": "661 32 13 71",
+  "internationalPhone": "+34 661 32 13 71",
+  "website": "http://www.facebook.com/pasteleriazamora",
+  "googleMapsUrl": "https://maps.google.com/?cid=15694330467668605004",
+  "rating": 4.7,
+  "reviewCount": 131,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.9809659,
+    -1.1317417
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: Closed",
+    "Sunday: 9:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-zamora-murcia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:01.120Z"
+}

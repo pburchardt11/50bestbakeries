@@ -1,0 +1,44 @@
+{
+  "slug": "yangon-bakehouse",
+  "name": "Yangon Bakehouse",
+  "curatedName": "Yangon Bakehouse",
+  "city": "ရန်ကုန်",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJJTWNoavswTARR6V2els1hR8",
+  "googleName": "Yangon Bakehouse",
+  "formattedAddress": "150 Dhammazedi Road, Yangon, Myanmar (Burma)",
+  "phone": "09 797 008018",
+  "internationalPhone": "+95 9 797 008018",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2271280254091175239",
+  "rating": 4.3,
+  "reviewCount": 173,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    16.8062997,
+    96.1470282
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yangon-bakehouse/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:28.157Z"
+}

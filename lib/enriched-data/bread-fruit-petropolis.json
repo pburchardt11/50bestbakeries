@@ -1,0 +1,43 @@
+{
+  "slug": "bread-fruit-petropolis",
+  "name": "Bread Fruit",
+  "curatedName": "Bread Fruit",
+  "city": "Petrópolis",
+  "country": "Brazil",
+  "placeId": "ChIJPblMRwcImQARRDXkknwsAvA",
+  "googleName": "Bread Fruit",
+  "formattedAddress": "R. Treze de Maio, 89 - Centro, Petrópolis - RJ, 25685-231, Brazil",
+  "phone": "(24) 2231-4710",
+  "internationalPhone": "+55 24 2231-4710",
+  "website": "http://www.breadfruit.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17294434432608122180",
+  "rating": 4.4,
+  "reviewCount": 2421,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.505809,
+    -43.180603
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-fruit-petropolis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:04.325Z"
+}

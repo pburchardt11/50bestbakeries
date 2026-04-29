@@ -1,0 +1,44 @@
+{
+  "slug": "bake-n-shake-bhopal",
+  "name": "Bake-n-Shake",
+  "curatedName": "Bake-n-Shake",
+  "city": "Bhopal",
+  "country": "India",
+  "placeId": "ChIJs5gpezBofDkRNmMfy3wUIC4",
+  "googleName": "Bake-n-Shake",
+  "formattedAddress": "E-4/29 GM Tower B-1, B-2, 10 No. Stop, E-4, Arera Colony, Bhopal, Madhya Pradesh 462016, India",
+  "phone": "0755 429 1111",
+  "internationalPhone": "+91 755 429 1111",
+  "website": "http://www.bakenshake.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3323679051215758134",
+  "rating": 4.4,
+  "reviewCount": 3187,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.214473,
+    77.435047
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 11:30 PM",
+    "Tuesday: 9:30 AM – 11:00 PM",
+    "Wednesday: 9:30 AM – 11:30 PM",
+    "Thursday: 9:30 AM – 11:30 PM",
+    "Friday: 9:30 AM – 11:30 PM",
+    "Saturday: 9:30 AM – 11:30 PM",
+    "Sunday: 9:30 AM – 11:30 PM"
+  ],
+  "editorialSummary": "This casual cafe/restaurant offers coffee, house-baked pastries & a variety of light global dishes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-n-shake-bhopal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:37:02.363Z"
+}

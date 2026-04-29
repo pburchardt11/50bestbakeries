@@ -1,0 +1,43 @@
+{
+  "slug": "gran-farina-tlaquepaque",
+  "name": "Gran Farina",
+  "curatedName": "Gran Farina",
+  "city": "Tlaquepaque",
+  "country": "Mexico",
+  "placeId": "ChIJMbbwL0GzKIQR5dq0koF1B1k",
+  "googleName": "GRAN FARINA",
+  "formattedAddress": "C. Juárez 322, Rancho Blanco, 45560 San Pedro Tlaquepaque, Jal., Mexico",
+  "phone": "33 2160 8757",
+  "internationalPhone": "+52 33 2160 8757",
+  "website": "https://www.facebook.com/search/top?q=gran%20farina",
+  "googleMapsUrl": "https://maps.google.com/?cid=6415225393585117925",
+  "rating": 4.8,
+  "reviewCount": 83,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.6384989,
+    -103.3171046
+  ],
+  "openingHours": [
+    "Monday: 7:45 AM – 8:45 PM",
+    "Tuesday: 7:45 AM – 8:45 PM",
+    "Wednesday: 7:45 AM – 8:45 PM",
+    "Thursday: 7:45 AM – 8:45 PM",
+    "Friday: 7:45 AM – 8:45 PM",
+    "Saturday: 7:45 AM – 8:45 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gran-farina-tlaquepaque/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:58.907Z"
+}

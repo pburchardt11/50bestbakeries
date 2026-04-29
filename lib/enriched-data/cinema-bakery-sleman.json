@@ -1,0 +1,43 @@
+{
+  "slug": "cinema-bakery-sleman",
+  "name": "Cinema Bakery",
+  "curatedName": "Cinema Bakery",
+  "city": "Sleman",
+  "country": "Indonesia",
+  "placeId": "ChIJJ9EYdFj_ei4Rwcr9mZCBmas",
+  "googleName": "Cinema Bakery",
+  "formattedAddress": "Jl. Yudistira No.8, Wonorejo, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55285, Indonesia",
+  "phone": "0811-2635-068",
+  "internationalPhone": "+62 811-2635-068",
+  "website": "http://beacons.ai/cinemabakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=12365056709981227713",
+  "rating": 4.5,
+  "reviewCount": 3879,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.735502899999999,
+    110.3801164
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinema-bakery-sleman/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:11.192Z"
+}

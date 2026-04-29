@@ -1,0 +1,43 @@
+{
+  "slug": "pasticceria-trevisan-venezia",
+  "name": "Pasticceria Trevisan",
+  "curatedName": "Pasticceria Trevisan",
+  "city": "Venezia",
+  "country": "Italy",
+  "placeId": "ChIJn5xNHcexfkcRXgvqv3BRH-s",
+  "googleName": "Pasticceria Trevisan",
+  "formattedAddress": "Santa Croce, 636, 30135 Venezia VE, Italy",
+  "phone": "041 720713",
+  "internationalPhone": "+39 041 720713",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16942349867889068894",
+  "rating": 4.6,
+  "reviewCount": 360,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4389755,
+    12.3233842
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-trevisan-venezia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:11.667Z"
+}

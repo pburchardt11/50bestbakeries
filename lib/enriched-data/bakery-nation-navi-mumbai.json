@@ -1,0 +1,44 @@
+{
+  "slug": "bakery-nation-navi-mumbai",
+  "name": "Bakery Nation",
+  "curatedName": "Bakery Nation",
+  "city": "Navi Mumbai",
+  "country": "India",
+  "placeId": "ChIJE8SlqG_B5zsRLNwmGI6Tnzk",
+  "googleName": "Bakery Nation",
+  "formattedAddress": "Vardhaman Market, Sector 17, Vashi, Navi Mumbai, Maharashtra 400703, India",
+  "phone": "091520 52085",
+  "internationalPhone": "+91 91520 52085",
+  "website": "https://order.bakerynation.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4152199619958725676",
+  "rating": 4.5,
+  "reviewCount": 406,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.0735639,
+    73.0002846
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-nation-navi-mumbai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:20.905Z"
+}

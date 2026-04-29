@@ -1,0 +1,32 @@
+{
+  "slug": "ramy-bakery-and-coffee",
+  "name": "Ramy Bakery and Coffee",
+  "city": "កំពត",
+  "country": "Cambodia",
+  "placeId": "ChIJw-pc3oA2CDERfHFh1L0_jfQ",
+  "googleName": "Ramy Bakery and Coffee",
+  "formattedAddress": "33, Kampot, Cambodia",
+  "phone": "087 284 703",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17621811001515143548",
+  "rating": 4.2,
+  "reviewCount": 128,
+  "coords": [
+    10.6072161,
+    104.1891252
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ramy-bakery-and-coffee/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:31:07.851Z"
+}

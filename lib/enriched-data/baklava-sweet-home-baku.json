@@ -1,0 +1,32 @@
+{
+  "slug": "baklava-sweet-home-baku",
+  "name": "Baklava Sweet Home",
+  "city": "Baku",
+  "country": "Azerbaijan",
+  "placeId": "ChIJJwbOe4F9MEARmp_sC9kqZUc",
+  "googleName": "Baklava Sweet Home",
+  "formattedAddress": "62 Nizami St, Baku 1000, Azerbaijan",
+  "phone": "055 670 40 15",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5144565261036986266",
+  "rating": 2.6,
+  "reviewCount": 143,
+  "coords": [
+    40.3731739,
+    49.8416548
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baklava-sweet-home-baku/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:33:46.770Z"
+}

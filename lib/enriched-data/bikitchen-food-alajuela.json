@@ -1,0 +1,32 @@
+{
+  "slug": "bikitchen-food-alajuela",
+  "name": "Bikitchen Food",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJY4JInNL5oI8RZ-x0UWHHlKE",
+  "googleName": "HIBISCUS FOOD & COFFEE",
+  "formattedAddress": "125mts Sur de La Iglesia Católica de La Agonía, Provincia de Alajuela, Alajuela, Agonía, 20101, Costa Rica",
+  "phone": "8455 0247",
+  "website": "https://hibiscusstreetfoodcoffee.ola.click/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11643150157451947111",
+  "rating": 4.8,
+  "reviewCount": 131,
+  "coords": [
+    10.0160179,
+    -84.2089606
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 9:00 PM",
+    "Tuesday: 12:00 – 9:00 PM",
+    "Wednesday: 12:00 – 9:00 PM",
+    "Thursday: 12:00 – 9:00 PM",
+    "Friday: 12:00 – 9:30 PM",
+    "Saturday: 12:00 – 9:30 PM",
+    "Sunday: 12:00 – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bikitchen-food-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:13.032Z"
+}

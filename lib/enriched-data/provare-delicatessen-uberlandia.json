@@ -1,0 +1,43 @@
+{
+  "slug": "provare-delicatessen-uberlandia",
+  "name": "Provare Delicatessen",
+  "curatedName": "Provare Delicatessen",
+  "city": "Uberlândia",
+  "country": "Brazil",
+  "placeId": "ChIJx48deH9EpJQRhEyvZYrtzO8",
+  "googleName": "Provare Delicatessen",
+  "formattedAddress": "Av. Imbaúba, 1500 - Chácaras Tubalina e Quartel, Uberlândia - MG, 38413-316, Brazil",
+  "phone": "(34) 99994-2082",
+  "internationalPhone": "+55 34 99994-2082",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17279447048981007492",
+  "rating": 4.6,
+  "reviewCount": 1704,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -18.9289098,
+    -48.31844359999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:30 PM",
+    "Tuesday: 6:00 AM – 7:30 PM",
+    "Wednesday: 6:00 AM – 7:30 PM",
+    "Thursday: 6:00 AM – 7:30 PM",
+    "Friday: 6:00 AM – 7:30 PM",
+    "Saturday: 6:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/provare-delicatessen-uberlandia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:16:24.481Z"
+}

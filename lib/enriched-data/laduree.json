@@ -1,0 +1,45 @@
+{
+  "slug": "laduree",
+  "name": "Ladurée",
+  "curatedName": "Ladurée",
+  "city": "أبوظبي",
+  "country": "UAE",
+  "placeId": "ChIJ--L00dplXj4RSFAevT43t3k",
+  "googleName": "LADURÉE Al Bateen",
+  "formattedAddress": "F82P+VFM - Al Bateen - W35 - Abu Dhabi - United Arab Emirates",
+  "phone": "02 639 5266",
+  "internationalPhone": "+971 2 639 5266",
+  "website": "https://laduree.com.kw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8770539541927710792",
+  "rating": 4.8,
+  "reviewCount": 921,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.452085,
+    54.3359411
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 2:00 AM",
+    "Tuesday: 9:00 AM – 2:00 AM",
+    "Wednesday: 9:00 AM – 2:00 AM",
+    "Thursday: 9:00 AM – 2:00 AM",
+    "Friday: 9:00 AM – 2:00 AM",
+    "Saturday: 9:00 AM – 2:00 AM",
+    "Sunday: 9:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laduree/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:45.990Z"
+}

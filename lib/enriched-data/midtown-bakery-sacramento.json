@@ -1,0 +1,43 @@
+{
+  "slug": "midtown-bakery-sacramento",
+  "name": "Midtown Bakery",
+  "curatedName": "Midtown Bakery",
+  "city": "Sacramento",
+  "country": "United States",
+  "placeId": "ChIJqU1yl7fRmoAR-0e6JUzopvE",
+  "googleName": "Midtown Bakery",
+  "formattedAddress": "2301 J Street Ground Floor - Blue door, Sacramento, CA 95816, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://midtown-bakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17412860423022725115",
+  "rating": 5,
+  "reviewCount": 139,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.5758108,
+    -121.4756914
+  ],
+  "openingHours": [
+    "Monday: 7:00 – 9:00 AM",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 11:00 AM – 1:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/midtown-bakery-sacramento/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:38.777Z"
+}

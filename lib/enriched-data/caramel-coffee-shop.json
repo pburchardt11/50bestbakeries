@@ -1,0 +1,32 @@
+{
+  "slug": "caramel-coffee-shop",
+  "name": "Caramel Coffee Shop",
+  "city": "Бургас",
+  "country": "Bulgaria",
+  "placeId": "ChIJSQveeHeVpkAREMgtiypxtG8",
+  "googleName": "Caramel Coffee Shop",
+  "formattedAddress": "Burgas Center, ul. \"Aleksandrovska\", 8000 Burgas, Bulgaria",
+  "phone": "087 887 6605",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8049182861555517456",
+  "rating": 4.4,
+  "reviewCount": 40,
+  "coords": [
+    42.4958482,
+    27.4716196
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/caramel-coffee-shop/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:26:55.634Z"
+}

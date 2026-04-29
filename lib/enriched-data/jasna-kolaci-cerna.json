@@ -1,0 +1,32 @@
+{
+  "slug": "jasna-kolaci-cerna",
+  "name": "Jasna Kolači",
+  "city": "Cerna",
+  "country": "Croatia",
+  "placeId": "ChIJOeBVdutdXEcRcj7pS59di9Q",
+  "googleName": "JASNA KOLAČI",
+  "formattedAddress": "Ul. Matije Gupca 16, 32272, Cerna, Croatia",
+  "phone": "098 935 7125",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15315437896558263922",
+  "rating": 4,
+  "reviewCount": 26,
+  "coords": [
+    45.1772407,
+    18.6839337
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jasna-kolaci-cerna/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:49:44.792Z"
+}

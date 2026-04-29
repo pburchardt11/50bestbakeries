@@ -1,0 +1,44 @@
+{
+  "slug": "artizan-bakery-budapest",
+  "name": "Artizán Bakery",
+  "curatedName": "Artizán Bakery",
+  "city": "Budapest",
+  "country": "Hungary",
+  "placeId": "ChIJtTRfnxTcQUcRKjBHniM97tU",
+  "googleName": "Artizán Bakery",
+  "formattedAddress": "Budapest, Hold u. 3, 1054 Hungary",
+  "phone": "06 30 856 5122",
+  "internationalPhone": "+36 30 856 5122",
+  "website": "http://artizan.hu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15415325797724401706",
+  "rating": 4.8,
+  "reviewCount": 3624,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.503782,
+    19.0528592
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 1:30 PM",
+    "Sunday: 9:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Artisanal breads & pastries served in a laid-back cafe with understated decor & a cozy vibe.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artizan-bakery-budapest/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:47.900Z"
+}

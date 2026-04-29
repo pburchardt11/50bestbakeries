@@ -1,0 +1,42 @@
+{
+  "slug": "viavia-artisan-bakery-yogyakarta",
+  "name": "ViaVia Artisan Bakery",
+  "curatedName": "ViaVia Artisan Bakery",
+  "city": "Yogyakarta",
+  "country": "Indonesia",
+  "placeId": "ChIJXW6IdwdXei4RmMthS3bHPAk",
+  "googleName": "ViaVia Artisan Bakery",
+  "formattedAddress": "Jl. Prawirotaman No.32, Brontokusuman, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55153, Indonesia",
+  "phone": "0813-9165-8320",
+  "internationalPhone": "+62 813-9165-8320",
+  "website": "https://viaviabakeryanddeli.carrd.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=665626155828759448",
+  "rating": 4.7,
+  "reviewCount": 557,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.8193579,
+    110.3716205
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T04:39:22.338Z"
+}

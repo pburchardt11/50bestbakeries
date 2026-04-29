@@ -1,0 +1,32 @@
+{
+  "slug": "casa-costa-bakery-higuey",
+  "name": "Casa Costa Bakery",
+  "city": "Higüey",
+  "country": "Dominican Republic",
+  "placeId": "ChIJPRY5o2-RqI4RxRL6lQDlObE",
+  "googleName": "Casa Costa Bakery",
+  "formattedAddress": "Local G1, Boulevard Fishing Lodge 101, Punta Cana 23000, Dominican Republic",
+  "phone": "(849) 591-1666",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12770490009064706757",
+  "rating": 3.5,
+  "reviewCount": 2,
+  "coords": [
+    18.5055408,
+    -68.3824941
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-costa-bakery-higuey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:07.637Z"
+}

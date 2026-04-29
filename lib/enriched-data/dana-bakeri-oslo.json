@@ -1,0 +1,44 @@
+{
+  "slug": "dana-bakeri-oslo",
+  "name": "Dana Bakeri",
+  "curatedName": "Dana Bakeri",
+  "city": "Oslo",
+  "country": "Norway",
+  "placeId": "ChIJuVHy9dhtQUYRkWEdUZH2HxY",
+  "googleName": "Dana Bakeri",
+  "formattedAddress": "Niels Henrik Abels vei, 0371 Oslo, Norway",
+  "phone": "98 64 85 88",
+  "internationalPhone": "+47 98 64 85 88",
+  "website": "https://m.facebook.com/Dana-Bakeri-515264768565912/#!/Dana-Bakeri-515264768565912/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1594263897104015761",
+  "rating": 4.7,
+  "reviewCount": 302,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.94361849999999,
+    10.7210168
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 9:00 AM – 6:30 PM",
+    "Sunday: 9:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dana-bakeri-oslo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:36.456Z"
+}

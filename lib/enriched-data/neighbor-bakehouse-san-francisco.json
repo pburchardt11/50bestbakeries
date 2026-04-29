@@ -1,0 +1,43 @@
+{
+  "slug": "neighbor-bakehouse-san-francisco",
+  "name": "Neighbor Bakehouse",
+  "curatedName": "Neighbor Bakehouse",
+  "city": "San Francisco",
+  "country": "United States",
+  "placeId": "ChIJwxB7url_j4ARDQCaUUgJCwo",
+  "googleName": "Neighbor Bakehouse",
+  "formattedAddress": "2343 3rd St UNIT 100, San Francisco, CA 94107, USA",
+  "phone": "(415) 814-2544",
+  "internationalPhone": "+1 415-814-2544",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=723682371334438925",
+  "rating": 4.7,
+  "reviewCount": 1160,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.7596427,
+    -122.3881812
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Cafe & bakery serving baked goods & light fare in an industrial space with an open concept.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/neighbor-bakehouse-san-francisco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:09:40.943Z"
+}

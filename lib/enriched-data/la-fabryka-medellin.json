@@ -1,0 +1,43 @@
+{
+  "slug": "la-fabryka-medellin",
+  "name": "La Fabryka",
+  "curatedName": "La Fabryka",
+  "city": "Medellín",
+  "country": "Colombia",
+  "placeId": "ChIJY1SYrh0pRI4RanpDluQi8ww",
+  "googleName": "La Fabryka",
+  "formattedAddress": "Cl. 12 #43b-26, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "phone": "44086532",
+  "internationalPhone": "+57 44086532",
+  "website": "http://www.lafabryka.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=933127912964717162",
+  "rating": 4.9,
+  "reviewCount": 86,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    6.2134519,
+    -75.570757
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-fabryka-medellin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:44.922Z"
+}

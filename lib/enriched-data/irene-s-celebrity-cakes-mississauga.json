@@ -1,0 +1,43 @@
+{
+  "slug": "irene-s-celebrity-cakes-mississauga",
+  "name": "Irene's Celebrity Cakes",
+  "curatedName": "Irene's Celebrity Cakes",
+  "city": "Mississauga",
+  "country": "Canada",
+  "placeId": "ChIJyR3f3Jk4K4gRuB3KRZJUb5U",
+  "googleName": "Irene's Celebrity Cakes",
+  "formattedAddress": "1258 Eglinton Ave E, Mississauga, ON L4W 1K8, Canada",
+  "phone": "(905) 624-5545",
+  "internationalPhone": "+1 905-624-5545",
+  "website": "http://www.irenescelebritycakes.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10767918221278977464",
+  "rating": 4.6,
+  "reviewCount": 1091,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.632763,
+    -79.62343390000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Mom-&-pop bakeshop featuring Italian cakes, pastries & other desserts, plus espresso & lunch items.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/irene-s-celebrity-cakes-mississauga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:23.356Z"
+}

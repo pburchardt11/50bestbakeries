@@ -1,0 +1,43 @@
+{
+  "slug": "phoenix-bakery-los-angeles",
+  "name": "Phoenix Bakery",
+  "curatedName": "Phoenix Bakery",
+  "city": "Los Angeles",
+  "country": "United States",
+  "placeId": "ChIJ2z0XFVnGwoAROxyPconYGhM",
+  "googleName": "Phoenix Bakery",
+  "formattedAddress": "969 N Broadway, Los Angeles, CA 90012, USA",
+  "phone": "(213) 628-4642",
+  "internationalPhone": "+1 213-628-4642",
+  "website": "http://www.phoenixbakeryinc.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1376650720959208507",
+  "rating": 4.7,
+  "reviewCount": 1346,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.065967,
+    -118.236659
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 4:00 PM",
+    "Tuesday: 10:00 AM – 4:00 PM",
+    "Wednesday: 10:00 AM – 4:00 PM",
+    "Thursday: 10:00 AM – 4:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Venerable bakery specializing in birthday cakes & Chinese pastries such as sticky sugar butterflies.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/phoenix-bakery-los-angeles/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:08:02.886Z"
+}

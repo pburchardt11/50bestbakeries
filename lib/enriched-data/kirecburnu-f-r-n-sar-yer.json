@@ -1,0 +1,45 @@
+{
+  "slug": "kirecburnu-f-r-n-sar-yer",
+  "name": "Kireçburnu Fırını",
+  "curatedName": "Kireçburnu Fırını",
+  "city": "Sarıyer",
+  "country": "Türkiye",
+  "placeId": "ChIJDwA4rVm1yhQRp2ERfc4e8qE",
+  "googleName": "Kireçburnu Fırını",
+  "formattedAddress": "no Sarıyer, Kireçburnu, Haydar Aliyev Cd. No:48, 34457 Sarıyer/İstanbul, Türkiye",
+  "phone": "(0212) 262 10 59",
+  "internationalPhone": "+90 212 262 10 59",
+  "website": "http://www.kirecburnufirini.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11669423456680763815",
+  "rating": 4.1,
+  "reviewCount": 6348,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1484873,
+    29.04522219999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 11:00 PM",
+    "Tuesday: 6:30 AM – 11:00 PM",
+    "Wednesday: 6:30 AM – 11:00 PM",
+    "Thursday: 6:30 AM – 11:00 PM",
+    "Friday: 6:30 AM – 12:00 AM",
+    "Saturday: 6:30 AM – 12:00 AM",
+    "Sunday: 6:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kirecburnu-f-r-n-sar-yer/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:03:13.958Z"
+}

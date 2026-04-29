@@ -1,0 +1,41 @@
+{
+  "slug": "pasteleria-kale-cuernavaca",
+  "name": "Pasteleria Kale",
+  "curatedName": "Pasteleria Kale",
+  "city": "Cuernavaca",
+  "country": "Mexico",
+  "placeId": "ChIJ7WJoRXDfzYURaIImdZWPVyE",
+  "googleName": "Pasteleria Kale",
+  "formattedAddress": "Apolo XI 503, zona 1, Base Tranquilidad, 62250 Cuernavaca, Mor., Mexico",
+  "phone": "777 242 7043",
+  "internationalPhone": "+52 777 242 7043",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2402546798303806056",
+  "rating": 4.9,
+  "reviewCount": 29,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.9467934,
+    -99.2310273
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 3:00 PM, 4:00 – 7:00 PM",
+    "Tuesday: 10:00 AM – 3:00 PM, 4:00 – 7:00 PM",
+    "Wednesday: 10:00 AM – 3:00 PM, 4:00 – 7:00 PM",
+    "Thursday: 10:00 AM – 3:00 PM, 4:00 – 7:00 PM",
+    "Friday: 10:00 AM – 3:00 PM, 4:00 – 7:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM, 4:00 – 7:00 PM",
+    "Sunday: 11:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T04:49:32.065Z"
+}

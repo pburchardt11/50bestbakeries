@@ -1,0 +1,43 @@
+{
+  "slug": "genoise-pasteleria-villahermosa",
+  "name": "Gènoise Pastelería",
+  "curatedName": "Gènoise Pastelería",
+  "city": "Villahermosa",
+  "country": "Mexico",
+  "placeId": "ChIJU2wWxY3X7YURYSesuWwMTGA",
+  "googleName": "Gènoise Pastelería",
+  "formattedAddress": "Av. de Los Ríos 101, Tabasco 2000, Fraccionamiento Galaxia, 86035 Villahermosa, Tab., Mexico",
+  "phone": "993 316 1503",
+  "internationalPhone": "+52 993 316 1503",
+  "website": "https://www.pasteleriagenoisevhsa.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6938934786982160225",
+  "rating": 4.2,
+  "reviewCount": 159,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    17.9957,
+    -92.94579999999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:45 PM",
+    "Tuesday: 8:00 AM – 7:45 PM",
+    "Wednesday: 8:00 AM – 7:45 PM",
+    "Thursday: 8:00 AM – 7:45 PM",
+    "Friday: 8:00 AM – 7:45 PM",
+    "Saturday: 8:00 AM – 7:45 PM",
+    "Sunday: 8:00 AM – 7:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/genoise-pasteleria-villahermosa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:44.107Z"
+}

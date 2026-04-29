@@ -1,0 +1,43 @@
+{
+  "slug": "peters-bakery-san-jose",
+  "name": "Peters' Bakery",
+  "curatedName": "Peters' Bakery",
+  "city": "San Jose",
+  "country": "United States",
+  "placeId": "ChIJcZEId27Nj4ARgjgcWEbJ9lQ",
+  "googleName": "Peters' Bakery",
+  "formattedAddress": "3108 Alum Rock Ave, San Jose, CA 95127, USA",
+  "phone": "(408) 258-3529",
+  "internationalPhone": "+1 408-258-3529",
+  "website": "https://petersbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6122302047419906178",
+  "rating": 4.6,
+  "reviewCount": 813,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.365757,
+    -121.827523
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Basic counter-serve bake shop known for its burnt almond cake, plus a variety of cookies & pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/peters-bakery-san-jose/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:28.266Z"
+}

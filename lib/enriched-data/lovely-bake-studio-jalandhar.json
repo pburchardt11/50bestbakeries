@@ -1,0 +1,44 @@
+{
+  "slug": "lovely-bake-studio-jalandhar",
+  "name": "Lovely Bake Studio",
+  "curatedName": "Lovely Bake Studio",
+  "city": "Jalandhar",
+  "country": "India",
+  "placeId": "ChIJORffHvZaGjkRaa8w3405ogk",
+  "googleName": "Lovely Bake Studio",
+  "formattedAddress": "Jalandhar - Nakodar Rd, opposite Lovely Sweets, Islam Ganj, Jalandhar, Punjab 144001, India",
+  "phone": "085568 22222",
+  "internationalPhone": "+91 85568 22222",
+  "website": "https://www.lovelybakestudio.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=694180574066159465",
+  "rating": 4.3,
+  "reviewCount": 2241,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.3236675,
+    75.573821
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:30 PM",
+    "Tuesday: 8:30 AM – 10:30 PM",
+    "Wednesday: 8:30 AM – 10:30 PM",
+    "Thursday: 8:30 AM – 10:30 PM",
+    "Friday: 8:30 AM – 10:30 PM",
+    "Saturday: 8:30 AM – 10:30 PM",
+    "Sunday: 8:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lovely-bake-studio-jalandhar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:28.555Z"
+}

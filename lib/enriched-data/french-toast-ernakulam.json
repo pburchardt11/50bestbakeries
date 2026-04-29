@@ -1,0 +1,45 @@
+{
+  "slug": "french-toast-ernakulam",
+  "name": "French Toast",
+  "curatedName": "French Toast",
+  "city": "Ernakulam",
+  "country": "India",
+  "placeId": "ChIJ4caEwMdyCDsRtzHK60ehifo",
+  "googleName": "French Toast",
+  "formattedAddress": "8th Cross, Street B, Ambikapuram Rd, Panampilly Nagar, Ernakulam, Kochi, Kerala 682036, India",
+  "phone": "0484 406 1618",
+  "internationalPhone": "+91 484 406 1618",
+  "website": "https://www.facebook.com/frenchtoastindia",
+  "googleMapsUrl": "https://maps.google.com/?cid=18053137911561990583",
+  "rating": 4.3,
+  "reviewCount": 5140,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    9.960854,
+    76.2939207
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Bright & comfy nook specialising in sweet & savory breakfast staples, sandwiches & sweets.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/french-toast-ernakulam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:40.659Z"
+}

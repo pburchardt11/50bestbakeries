@@ -1,0 +1,46 @@
+{
+  "slug": "byen-bakeri-seattle",
+  "name": "Byen Bakeri",
+  "curatedName": "Byen Bakeri",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJJ7e5_AcVkFQRr_2IfnRk_Uo",
+  "googleName": "Byen Bakeri",
+  "formattedAddress": "15 Nickerson St Ste D, Seattle, WA 98109, USA",
+  "phone": "(206) 218-1000",
+  "internationalPhone": "+1 206-218-1000",
+  "website": "https://www.byenbakeri.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5403585579416354223",
+  "rating": 4.7,
+  "reviewCount": 1208,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.6492394,
+    -122.3569948
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:30 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Classic Scandinavian breads & pastries with a designer flair highlight this chill neighborhood cafe.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/byen-bakeri-seattle/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:20.374Z"
+}

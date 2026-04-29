@@ -1,0 +1,43 @@
+{
+  "slug": "pain-brut-montpellier",
+  "name": "Pain Brut",
+  "curatedName": "Pain Brut",
+  "city": "Montpellier",
+  "country": "France",
+  "placeId": "ChIJ-Ymt-sKvthIRUkS1-R3S6QI",
+  "googleName": "Pain Brut",
+  "formattedAddress": "9 Bd Victor Hugo, 34000 Montpellier, France",
+  "phone": "07 67 84 11 16",
+  "internationalPhone": "+33 7 67 84 11 16",
+  "website": "https://www.facebook.com/painbrut/?locale=fr_FR",
+  "googleMapsUrl": "https://maps.google.com/?cid=209929883834729554",
+  "rating": 4.7,
+  "reviewCount": 333,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.60721969999999,
+    3.878403
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 6:30 PM",
+    "Wednesday: 8:30 AM – 6:30 PM",
+    "Thursday: 8:30 AM – 6:30 PM",
+    "Friday: 8:30 AM – 6:30 PM",
+    "Saturday: 8:30 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pain-brut-montpellier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:25.401Z"
+}

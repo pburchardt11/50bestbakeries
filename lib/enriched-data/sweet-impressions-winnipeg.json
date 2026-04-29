@@ -1,0 +1,44 @@
+{
+  "slug": "sweet-impressions-winnipeg",
+  "name": "Sweet Impressions",
+  "curatedName": "Sweet Impressions",
+  "city": "Winnipeg",
+  "country": "Canada",
+  "placeId": "ChIJv2Vx-rR26lIR-kODfXscX8o",
+  "googleName": "Sweet Impressions",
+  "formattedAddress": "1817 Corydon Ave, Winnipeg, MB R3N 0K6, Canada",
+  "phone": "(204) 237-0743",
+  "internationalPhone": "+1 204-237-0743",
+  "website": "http://www.sweetimpressions.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14582405435161265146",
+  "rating": 4.7,
+  "reviewCount": 659,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.86428,
+    -97.20206999999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Whimsical bakery/cafe offering 100% nut-free, custom-decorated & themed cookies.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-impressions-winnipeg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:43.582Z"
+}

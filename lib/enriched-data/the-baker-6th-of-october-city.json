@@ -1,0 +1,32 @@
+{
+  "slug": "the-baker-6th-of-october-city",
+  "name": "The Baker",
+  "city": "6th of October City",
+  "country": "Egypt",
+  "placeId": "ChIJI1ysPw5aWBQRbetJvOqcRAg",
+  "googleName": "TBS - The Bakery Shop",
+  "formattedAddress": "22C3+8CR أركان بلازا مول، El-Bostan, قسم، First Al Sheikh Zayed, Giza Governorate 3242304, Egypt",
+  "phone": null,
+  "website": "http://www.tbsfresh.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=595773582714989421",
+  "rating": 4.4,
+  "reviewCount": 544,
+  "coords": [
+    30.0208618,
+    31.0035081
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 1:00 AM",
+    "Tuesday: 9:00 AM – 1:00 AM",
+    "Wednesday: 9:00 AM – 1:00 AM",
+    "Thursday: 9:00 AM – 1:00 AM",
+    "Friday: 9:00 AM – 1:00 AM",
+    "Saturday: 9:00 AM – 1:00 AM",
+    "Sunday: 9:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-baker-6th-of-october-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:00:48.502Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "albatross-bakery-berlin",
+  "name": "Albatross Bakery",
+  "curatedName": "Albatross Bakery",
+  "city": "Berlin",
+  "country": "Germany",
+  "placeId": "ChIJg2JtgUxOqEcRd1FPPyI0XCI",
+  "googleName": "Albatross Bakery",
+  "formattedAddress": "Graefestraße 66/67, 10967 Berlin, Germany",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://albatrossberlin.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2475911216842625399",
+  "rating": 4.6,
+  "reviewCount": 1448,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.4913781,
+    13.4166506
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Down-to-earth locale offering sweet & savory pastries, plus sandwiches, homemade bread & coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/albatross-bakery-berlin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:53.185Z"
+}

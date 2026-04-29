@@ -1,0 +1,44 @@
+{
+  "slug": "bite-bali-badung",
+  "name": "Bite Bali",
+  "curatedName": "Bite Bali",
+  "city": "Badung",
+  "country": "Indonesia",
+  "placeId": "ChIJYzwSaR9H0i0RvMi8FGgwRZ8",
+  "googleName": "Bite Bali",
+  "formattedAddress": "Jl. Sunset Road No.808, Seminyak, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia",
+  "phone": "0852-8282-5517",
+  "internationalPhone": "+62 852-8282-5517",
+  "website": "https://instagram.com/bite_bali?r=nametag",
+  "googleMapsUrl": "https://maps.google.com/?cid=11476632449006225596",
+  "rating": 4.8,
+  "reviewCount": 633,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -8.6850866,
+    115.1699991
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bite-bali-badung/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:40.073Z"
+}

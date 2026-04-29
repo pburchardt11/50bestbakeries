@@ -1,0 +1,44 @@
+{
+  "slug": "tocca-padaria-confeitaria-e-cafe-novo-hamburgo",
+  "name": "Tocca Padaria Confeitaria e Café",
+  "curatedName": "Tocca Padaria Confeitaria e Café",
+  "city": "Novo Hamburgo",
+  "country": "Brazil",
+  "placeId": "ChIJFUaopoVDGZUR_lopI54TMgY",
+  "googleName": "Tocca Padaria Confeitaria E Café",
+  "formattedAddress": "Av. Gen. Daltro Filho, 99 - Guarani, Novo Hamburgo - RS, 93520-540, Brazil",
+  "phone": "(51) 3939-2667",
+  "internationalPhone": "+55 51 3939-2667",
+  "website": "http://www.instagram.com/toccacafe",
+  "googleMapsUrl": "https://maps.google.com/?cid=446440882978773758",
+  "rating": 4.7,
+  "reviewCount": 448,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.6725735,
+    -51.117824
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 12:00 PM, 2:00 – 7:30 PM",
+    "Sunday: 3:00 – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tocca-padaria-confeitaria-e-cafe-novo-hamburgo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:39.869Z"
+}

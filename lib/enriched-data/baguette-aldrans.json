@@ -1,0 +1,32 @@
+{
+  "slug": "baguette-aldrans",
+  "name": "Baguette",
+  "city": "Aldrans",
+  "country": "Austria",
+  "placeId": "ChIJOetSgt9onUcRdIveNiG0-Vw",
+  "googleName": "Baguette",
+  "formattedAddress": "Dorf 5, 6071 Aldrans, Austria",
+  "phone": "050 3229 26028",
+  "website": "https://www.mpreis.at/baguette-filialen/id-6028/baguette-aldrans/?utm_source=google&utm_medium=organic&utm_campaign=digitale_standorte",
+  "googleMapsUrl": "https://maps.google.com/?cid=6699583975437798260",
+  "rating": 3.8,
+  "reviewCount": 168,
+  "coords": [
+    47.251948,
+    11.44728
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: Closed",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baguette-aldrans/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:33:15.487Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "dos-hermanos-bakery-portland",
+  "name": "Dos Hermanos Bakery",
+  "curatedName": "Dos Hermanos Bakery",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJw0WqmRWnlVQR5e3Ugez0Mv8",
+  "googleName": "Dos Hermanos Cafe",
+  "formattedAddress": "1015 SE Stark St, Portland, OR 97214, USA",
+  "phone": "(971) 383-3906",
+  "internationalPhone": "+1 971-383-3906",
+  "website": "https://www.doshermanosbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18389029525134831077",
+  "rating": 4.7,
+  "reviewCount": 368,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5195709,
+    -122.6553019
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dos-hermanos-bakery-portland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:39.434Z"
+}

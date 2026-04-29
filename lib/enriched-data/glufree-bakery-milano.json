@@ -1,0 +1,43 @@
+{
+  "slug": "glufree-bakery-milano",
+  "name": "GluFree Bakery",
+  "curatedName": "GluFree Bakery",
+  "city": "Milano",
+  "country": "Italy",
+  "placeId": "ChIJv4Sm2h_EhkcRBMfjP-s_xmQ",
+  "googleName": "GluFree Bakery",
+  "formattedAddress": "Via Curtatone, 6, 20122 Milano MI, Italy",
+  "phone": "02 5401 9723",
+  "internationalPhone": "+39 02 5401 9723",
+  "website": "http://www.glufreebakery.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7261561728803260164",
+  "rating": 4.6,
+  "reviewCount": 1152,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4564514,
+    9.2022572
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Airy, white-tiled cafe serving gluten-free breads & pastries, plus pizzas & arancini rice balls.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/glufree-bakery-milano/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:43.321Z"
+}

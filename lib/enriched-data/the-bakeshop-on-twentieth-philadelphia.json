@@ -1,0 +1,45 @@
+{
+  "slug": "the-bakeshop-on-twentieth-philadelphia",
+  "name": "The Bakeshop on Twentieth",
+  "curatedName": "The Bakeshop on Twentieth",
+  "city": "Philadelphia",
+  "country": "United States",
+  "placeId": "ChIJobjvpTnGxokRC4jBz-jJEh0",
+  "googleName": "The Bakeshop on Twentieth",
+  "formattedAddress": "269 S 20th St, Philadelphia, PA 19103, USA",
+  "phone": "(215) 644-9714",
+  "internationalPhone": "+1 215-644-9714",
+  "website": "https://bakeshopon20th.com/?utm_source=google",
+  "googleMapsUrl": "https://maps.google.com/?cid=2094958778435864587",
+  "rating": 4.6,
+  "reviewCount": 436,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.9483488,
+    -75.1742083
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Cozy spot for croissants, cookies, sticky buns & brownies, plus savory hand pies & soups.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakeshop-on-twentieth-philadelphia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:09:22.341Z"
+}

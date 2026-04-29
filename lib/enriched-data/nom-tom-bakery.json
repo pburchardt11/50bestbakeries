@@ -1,0 +1,32 @@
+{
+  "slug": "nom-tom-bakery",
+  "name": "Nom Tom Bakery",
+  "city": "កំពត",
+  "country": "Cambodia",
+  "placeId": "ChIJGVGnB9I3CDERl_SJ8isGq80",
+  "googleName": "Nom Tom Bakery",
+  "formattedAddress": "ផ្លូវលេខ ៧៣៦, Kampot 74000, Cambodia",
+  "phone": "015 441 563",
+  "website": "https://nomtom.asia/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14819945784615236759",
+  "rating": 4.8,
+  "reviewCount": 121,
+  "coords": [
+    10.6073588,
+    104.1792162
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 6:00 – 11:00 AM",
+    "Thursday: 6:00 – 11:00 AM",
+    "Friday: 6:00 – 11:00 AM",
+    "Saturday: 6:00 – 11:00 AM",
+    "Sunday: 6:00 – 11:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nom-tom-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:31:09.995Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "neka-jedu-kolace-slasticarnica-zagreb",
+  "name": "Neka jedu kolače slastičarnica",
+  "curatedName": "Neka jedu kolače slastičarnica",
+  "city": "Zagreb",
+  "country": "Croatia",
+  "placeId": "ChIJzXwAGZfXZUcRpQcgFPfGnN0",
+  "googleName": "Neka jedu kolače slastičarnica",
+  "formattedAddress": "Kamaufova ul. 22, 10000, Zagreb, Croatia",
+  "phone": "095 353 8340",
+  "internationalPhone": "+385 95 353 8340",
+  "website": "https://www.instagram.com/nekajedukolace/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15968857143245801381",
+  "rating": 4.8,
+  "reviewCount": 250,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.8153,
+    15.9931131
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/neka-jedu-kolace-slasticarnica-zagreb/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:45.045Z"
+}

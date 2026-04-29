@@ -1,0 +1,44 @@
+{
+  "slug": "hay-pan-quito",
+  "name": "Hay Pan",
+  "curatedName": "Hay Pan",
+  "city": "Quito",
+  "country": "Ecuador",
+  "placeId": "ChIJw2LJ_nOa1ZERT-qk1Ptb4Jg",
+  "googleName": "Hay Pan!",
+  "formattedAddress": "Whymper, 170517 Quito, Ecuador",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/haypan_ec?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  "googleMapsUrl": "https://maps.google.com/?cid=11015905825710729807",
+  "rating": 4.6,
+  "reviewCount": 802,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -0.1997195,
+    -78.4815641
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: 7:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hay-pan-quito/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:26.067Z"
+}

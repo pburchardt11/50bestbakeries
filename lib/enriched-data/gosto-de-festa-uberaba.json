@@ -1,0 +1,43 @@
+{
+  "slug": "gosto-de-festa-uberaba",
+  "name": "Gosto de Festa",
+  "curatedName": "Gosto de Festa",
+  "city": "Uberaba",
+  "country": "Brazil",
+  "placeId": "ChIJQVUVNzXQupQRI_BFGzWGUvo",
+  "googleName": "Gosto de Festa",
+  "formattedAddress": "Av. Gabriela Castro Cunha, 101 - Vila Olímpica, Uberaba - MG, 38066-000, Brazil",
+  "phone": "(34) 3312-9998",
+  "internationalPhone": "+55 34 3312-9998",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18037627020221214755",
+  "rating": 4.6,
+  "reviewCount": 1810,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.7398437,
+    -47.9417177
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gosto-de-festa-uberaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:58.965Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "salling-bager-aalborg",
+  "name": "Salling Bager",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJqXEwTAAzSUYRrjuc17vQtwU",
+  "googleName": "Salling Bager",
+  "formattedAddress": "Salling Stormagasin, Nytorv 8, 9000 Aalborg, Denmark",
+  "phone": "87 78 60 00",
+  "website": "https://salling.dk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=412027396122491822",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    57.04815439999999,
+    9.9226535
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: Closed",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/salling-bager-aalborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:13.358Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "pain-plaisir-kiseleff-bucuresti",
+  "name": "Pain Plaisir Kiseleff",
+  "curatedName": "Pain Plaisir Kiseleff",
+  "city": "București",
+  "country": "Romania",
+  "placeId": "ChIJm_6TAgMCskARtDhcL7z39Hs",
+  "googleName": "Pain Plaisir Kiseleff",
+  "formattedAddress": "Strada Barbu Delavrancea 1, București, Romania",
+  "phone": "0745 645 555",
+  "internationalPhone": "+40 745 645 555",
+  "website": "http://painplaisir.ro/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8932036348603021492",
+  "rating": 4.5,
+  "reviewCount": 872,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.45701390000001,
+    26.0803124
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pain-plaisir-kiseleff-bucuresti/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:54:58.545Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "on-top-patisserie-elbasan",
+  "name": "On Top Patisserie",
+  "city": "Elbasan",
+  "country": "Albania",
+  "placeId": "ChIJ16tCDn9DUBMRuQRxuzTHy6s",
+  "googleName": "On Top Patisserie",
+  "formattedAddress": "Bulevardi Qemal Stafa, Elbasan 3001, Albania",
+  "phone": "069 737 3181",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12379207030054913209",
+  "rating": 4.6,
+  "reviewCount": 29,
+  "coords": [
+    41.11441019999999,
+    20.0877926
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 1:30 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/on-top-patisserie-elbasan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:06.168Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "punk-doily",
+  "name": "Punk Doily",
+  "curatedName": "Punk Doily",
+  "city": "世田谷区",
+  "country": "Japan",
+  "placeId": "ChIJlfppegL1GGARLXUq9G3eFJQ",
+  "googleName": "Punk Doily",
+  "formattedAddress": "Japan, 〒158-0086 Tokyo, Setagaya City, Oyamadai, 3-chōme−28−２１ ３Ｆ",
+  "phone": "090-4702-7959",
+  "internationalPhone": "+81 90-4702-7959",
+  "website": "https://punkdoily.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10670397980976772397",
+  "rating": 4.9,
+  "reviewCount": 229,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "liquor_store",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.6051545,
+    139.6573456
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: 11:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/punk-doily/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:19.185Z"
+}

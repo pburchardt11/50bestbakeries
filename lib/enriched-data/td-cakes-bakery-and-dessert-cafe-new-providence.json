@@ -1,0 +1,32 @@
+{
+  "slug": "td-cakes-bakery-and-dessert-cafe-new-providence",
+  "name": "TD Cakes Bakery and Dessert Cafe",
+  "city": "New Providence",
+  "country": "Bahamas",
+  "placeId": "ChIJk1qSEB1_L4kRcJCRq-ixi9I",
+  "googleName": "TD Cakes Bakery and Dessert Cafe",
+  "formattedAddress": "Carmichael Road West Carmichael City Plaza Behind Walk Up, Wendy's, Nassau, The Bahamas",
+  "phone": "(242) 535-8475",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15171415382596620400",
+  "rating": 4.2,
+  "reviewCount": 39,
+  "coords": [
+    25.0176309,
+    -77.3878934
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 5:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 11:00 AM – 5:00 PM",
+    "Thursday: 11:00 AM – 5:00 PM",
+    "Friday: 11:00 AM – 5:00 PM",
+    "Saturday: 11:00 AM – 5:00 PM",
+    "Sunday: 12:00 – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/td-cakes-bakery-and-dessert-cafe-new-providence/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:44:11.115Z"
+}

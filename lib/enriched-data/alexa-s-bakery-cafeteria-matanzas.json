@@ -1,0 +1,32 @@
+{
+  "slug": "alexa-s-bakery-cafeteria-matanzas",
+  "name": "Alexa's bakery cafetería",
+  "city": "Matanzas",
+  "country": "Cuba",
+  "placeId": "ChIJCdIEK4YZiYgRjCy0xnSag1c",
+  "googleName": "Olexa's Catering, Cafe and Cakes",
+  "formattedAddress": "2838 Culver Rd, Mountain Brook, AL 35223, USA",
+  "phone": "(205) 871-2060",
+  "website": "http://www.olexas.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6306053729589406860",
+  "rating": 4.5,
+  "reviewCount": 240,
+  "coords": [
+    33.4827552,
+    -86.7723219
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 2:00 PM",
+    "Tuesday: 11:00 AM – 8:00 PM",
+    "Wednesday: 11:00 AM – 2:00 PM",
+    "Thursday: 11:00 AM – 2:00 PM",
+    "Friday: 11:00 AM – 2:00 PM",
+    "Saturday: 11:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Crêpes, sandwiches & baked goods served in a charming cafe designed to evoke a European streetscape.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alexa-s-bakery-cafeteria-matanzas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:00.217Z"
+}

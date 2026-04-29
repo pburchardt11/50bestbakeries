@@ -1,0 +1,43 @@
+{
+  "slug": "aux-merveilleux-de-fred-lyon",
+  "name": "Aux Merveilleux de Fred",
+  "curatedName": "Aux Merveilleux de Fred",
+  "city": "Lyon",
+  "country": "France",
+  "placeId": "ChIJAQCUBVbq9EcRTjUo3HpZkUQ",
+  "googleName": "Aux Merveilleux De Fred",
+  "formattedAddress": "32 Rue Grenette, 69002 Lyon, France",
+  "phone": "04 78 68 38 82",
+  "internationalPhone": "+33 4 78 68 38 82",
+  "website": "https://www.auxmerveilleux.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4940828650416649550",
+  "rating": 4.6,
+  "reviewCount": 1452,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.76332619999999,
+    4.8352238
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aux-merveilleux-de-fred-lyon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:45.331Z"
+}

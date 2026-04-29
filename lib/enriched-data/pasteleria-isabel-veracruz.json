@@ -1,0 +1,44 @@
+{
+  "slug": "pasteleria-isabel-veracruz",
+  "name": "Pastelería Isabel",
+  "curatedName": "Pastelería Isabel",
+  "city": "Veracruz",
+  "country": "Mexico",
+  "placeId": "ChIJO_l1FbhGw4URVcw7c0eMS1A",
+  "googleName": "Pastelería Isabel",
+  "formattedAddress": "Av. 1º de Mayo 331, Centro, 91700 Veracruz, Ver., Mexico",
+  "phone": "229 931 6213",
+  "internationalPhone": "+52 229 931 6213",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5785872384791399509",
+  "rating": 4.6,
+  "reviewCount": 838,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.1940168,
+    -96.1327543
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-isabel-veracruz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:55:22.959Z"
+}

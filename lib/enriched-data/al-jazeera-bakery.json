@@ -1,0 +1,32 @@
+{
+  "slug": "al-jazeera-bakery",
+  "name": "Al Jazeera Bakery",
+  "city": "السهلة الشمالية",
+  "country": "Bahrain",
+  "placeId": "ChIJq4pwTeqvST4RIQI21t93D9M",
+  "googleName": "Al Jazeera Bakery",
+  "formattedAddress": "6G3M+94M, Avenue 55, North Sehla, Bahrain",
+  "phone": "7718 0303",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15208506269908730401",
+  "rating": 4.1,
+  "reviewCount": 299,
+  "coords": [
+    26.2034675,
+    50.5327947
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 11:00 PM",
+    "Tuesday: 5:00 AM – 11:00 PM",
+    "Wednesday: 5:00 AM – 11:00 PM",
+    "Thursday: 5:00 AM – 11:00 PM",
+    "Friday: 5:00 AM – 11:00 PM",
+    "Saturday: 5:00 AM – 11:00 PM",
+    "Sunday: 5:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-jazeera-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:47:31.599Z"
+}

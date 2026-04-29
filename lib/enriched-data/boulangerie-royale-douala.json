@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-royale-douala",
+  "name": "Boulangerie Royale",
+  "city": "Douala",
+  "country": "Cameroon",
+  "placeId": "ChIJLe20uWESYRARG4G7HzyFzrY",
+  "googleName": "Boulangerie Pâtisserie Royale, Douala",
+  "formattedAddress": "14 Rue Foch, Douala, Cameroon",
+  "phone": "6 94 61 85 02",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13172612453382193435",
+  "rating": 3.4,
+  "reviewCount": 30,
+  "coords": [
+    4.0531239,
+    9.7041606
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-royale-douala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:37:16.853Z"
+}

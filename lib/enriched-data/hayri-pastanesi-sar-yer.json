@@ -1,0 +1,43 @@
+{
+  "slug": "hayri-pastanesi-sar-yer",
+  "name": "Hayri Pastanesi",
+  "curatedName": "Hayri Pastanesi",
+  "city": "Sarıyer",
+  "country": "Türkiye",
+  "placeId": "ChIJE2_VpQngn0ARsTlB4Gm6-K4",
+  "googleName": "Hayri Pastanesi",
+  "formattedAddress": "Sarıyer, Şht. Mithat Yılmaz Cd. No:86 D:B, 34450 Sarıyer/İstanbul, Türkiye",
+  "phone": "(0212) 242 26 60",
+  "internationalPhone": "+90 212 242 26 60",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12608032120720406961",
+  "rating": 4.6,
+  "reviewCount": 698,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1709678,
+    29.0540895
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:15 AM",
+    "Tuesday: 6:00 AM – 12:15 AM",
+    "Wednesday: 6:00 AM – 12:15 AM",
+    "Thursday: 6:00 AM – 12:15 AM",
+    "Friday: 6:00 AM – 12:30 AM",
+    "Saturday: 6:00 AM – 12:30 AM",
+    "Sunday: 6:00 AM – 12:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hayri-pastanesi-sar-yer/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:03:04.591Z"
+}

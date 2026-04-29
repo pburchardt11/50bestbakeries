@@ -1,0 +1,35 @@
+{
+  "slug": "the-accidental-baker-charlotte",
+  "name": "The Accidental Baker",
+  "curatedName": "The Accidental Baker",
+  "city": "Charlotte",
+  "country": "United States",
+  "placeId": "ChIJgw5v7v0hVIgRR5ijCqtC7_g",
+  "googleName": "The Accidental Baker",
+  "formattedAddress": "4416 Monroe Rd d, Charlotte, NC 28205, USA",
+  "phone": "(980) 475-2062",
+  "internationalPhone": "+1 980-475-2062",
+  "website": "http://www.theaccidentalbakerclt.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17937629143225309255",
+  "rating": 5,
+  "reviewCount": 52,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.1931766,
+    -80.78600999999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-accidental-baker-charlotte/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:12:07.181Z"
+}

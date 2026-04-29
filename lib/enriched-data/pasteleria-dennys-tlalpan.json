@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-dennys-tlalpan",
+  "name": "Pastelería Dennys",
+  "curatedName": "Pastelería Dennys",
+  "city": "Tlalpan",
+  "country": "Mexico",
+  "placeId": "ChIJN1KOPDL-zYUR-WWqmX4fLQQ",
+  "googleName": "Pastelería Dennys",
+  "formattedAddress": "Local 1 Jesús lecuona 215 esquina, Adolfo de la Huerta 14250, Miguel Hidalgo 2\" Sección, Tlalpan, 14250 Ciudad de México, CDMX, Mexico",
+  "phone": "55 8598 5213",
+  "internationalPhone": "+52 55 8598 5213",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=300931378708112889",
+  "rating": 4.6,
+  "reviewCount": 53,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.2834367,
+    -99.2026511
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-dennys-tlalpan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:46.161Z"
+}

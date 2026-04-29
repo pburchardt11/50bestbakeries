@@ -1,0 +1,44 @@
+{
+  "slug": "fomeria-canoas",
+  "name": "Fomeria",
+  "curatedName": "Fomeria",
+  "city": "Canoas",
+  "country": "Brazil",
+  "placeId": "ChIJr7KYa6x6GZURukrNfBXLyU4",
+  "googleName": "fomeria",
+  "formattedAddress": "R. Dr. Barcelos, 230 - Centro, Canoas - RS, 92310-200, Brazil",
+  "phone": "(51) 98154-9990",
+  "internationalPhone": "+55 51 98154-9990",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5677292098425801402",
+  "rating": 4.4,
+  "reviewCount": 155,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "convenience_store",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.9136946,
+    -51.1856897
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fomeria-canoas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:20:38.794Z"
+}

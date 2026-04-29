@@ -1,0 +1,44 @@
+{
+  "slug": "lumiere-patisserie-vaughan",
+  "name": "Lumière Pâtisserie",
+  "curatedName": "Lumière Pâtisserie",
+  "city": "Vaughan",
+  "country": "Canada",
+  "placeId": "ChIJoVTvVjYtK4gRkXkBGrAoG_w",
+  "googleName": "Lumière Pâtisserie",
+  "formattedAddress": "1102 Centre St #1, Thornhill, ON L4J 3M8, Canada",
+  "phone": "(647) 293-8815",
+  "internationalPhone": "+1 647-293-8815",
+  "website": "https://www.lumierepatisserie.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18166158258744686993",
+  "rating": 4.8,
+  "reviewCount": 944,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.8089956,
+    -79.4618227
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lumiere-patisserie-vaughan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:32.340Z"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "pequitas-algarrobo",
+  "name": "Pequitas",
+  "city": "Algarrobo",
+  "country": "Chile",
+  "placeId": "ChIJC0TgN58TYpYR70QEYRgLrm0",
+  "googleName": "Pequitas",
+  "formattedAddress": "Av. Carlos Alessandri 1923, Algarrobo, Valparaíso, Chile",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7903266595416589551",
+  "rating": 4.7,
+  "reviewCount": 15,
+  "coords": [
+    -33.3611465,
+    -71.66623299999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pequitas-algarrobo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:42:59.346Z"
+}

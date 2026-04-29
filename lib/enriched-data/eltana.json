@@ -1,0 +1,36 @@
+{
+  "slug": "eltana",
+  "name": "Eltana",
+  "curatedName": "Eltana",
+  "city": "常滑市",
+  "country": "Japan",
+  "placeId": "ChIJUVjvYIl9BGARlH9QBUHYXx8",
+  "googleName": "Eltana FLIGHT OF DREAMS",
+  "formattedAddress": "Japan, 〒479-0881 Aichi, Tokoname, Centrair, 1-chōme−１−１ ２Ｆ FLIGHT OF DREAMS, 2階",
+  "phone": "0569-38-2368",
+  "internationalPhone": "+81 569-38-2368",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2260763311736913812",
+  "rating": 3.7,
+  "reviewCount": 9,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    34.855149,
+    136.8168653
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eltana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:22:32.331Z"
+}

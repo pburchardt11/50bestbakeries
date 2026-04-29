@@ -1,0 +1,43 @@
+{
+  "slug": "nhat-sourdough-quan-binh-thanh",
+  "name": "Nhat & Sourdough",
+  "curatedName": "Nhat & Sourdough",
+  "city": "Quận Bình Thạnh",
+  "country": "Vietnam",
+  "placeId": "ChIJ1VB4IWYpdTER3Rk25tjmWbY",
+  "googleName": "Nhạt & Sourdough",
+  "formattedAddress": "159 Nguyễn Đình Chính, Phường 11, Phú Nhuận, Hồ Chí Minh 70000, Vietnam",
+  "phone": "0395 396 408",
+  "internationalPhone": "+84 395 396 408",
+  "website": "https://www.facebook.com/nhatandsourdough?mibextid=LQQJ4d",
+  "googleMapsUrl": "https://maps.google.com/?cid=13139787207079762397",
+  "rating": 4.5,
+  "reviewCount": 195,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7942598,
+    106.6739943
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nhat-sourdough-quan-binh-thanh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:32.094Z"
+}

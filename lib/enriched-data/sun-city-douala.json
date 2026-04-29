@@ -1,0 +1,32 @@
+{
+  "slug": "sun-city-douala",
+  "name": "Sun City",
+  "city": "Douala",
+  "country": "Cameroon",
+  "placeId": "ChIJ83VTAm8SYRARDNQVgwe_TfQ",
+  "googleName": "Sun City",
+  "formattedAddress": "3P75+RJ3, Douala, Cameroon",
+  "phone": "6 80 75 26 08",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17603936557446059020",
+  "rating": 3.9,
+  "reviewCount": 63,
+  "coords": [
+    4.0645191,
+    9.709043099999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sun-city-douala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:39:17.967Z"
+}

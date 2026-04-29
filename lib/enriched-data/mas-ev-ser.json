@@ -1,0 +1,32 @@
+{
+  "slug": "mas-ev-ser",
+  "name": "mas_ev_ser",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJ9UnofNqjakARhqVtzK-pOdY",
+  "googleName": "MAS autoservice",
+  "formattedAddress": "21, 3 Nikoghayos Tigranyan St, Yerevan 0037, Armenia",
+  "phone": "093 770333",
+  "website": "https://www.facebook.com/autoserviceMAS/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15436555770303194502",
+  "rating": 4.6,
+  "reviewCount": 8,
+  "coords": [
+    40.2115583,
+    44.5207499
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 7:30 PM",
+    "Tuesday: 9:30 AM – 7:30 PM",
+    "Wednesday: 9:30 AM – 7:30 PM",
+    "Thursday: 9:30 AM – 7:30 PM",
+    "Friday: 9:30 AM – 9:30 PM",
+    "Saturday: 9:30 AM – 7:30 PM",
+    "Sunday: 9:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mas-ev-ser/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:27:07.291Z"
+}

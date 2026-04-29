@@ -1,0 +1,43 @@
+{
+  "slug": "tous-les-jours-columbus",
+  "name": "TOUS les JOURS",
+  "curatedName": "TOUS les JOURS",
+  "city": "Columbus",
+  "country": "United States",
+  "placeId": "ChIJqSf7PMiNOIgRJmExebc5bY4",
+  "googleName": "TOUS les JOURS",
+  "formattedAddress": "2851 Olentangy River Rd, Columbus, OH 43202, USA",
+  "phone": "(614) 372-5158",
+  "internationalPhone": "+1 614-372-5158",
+  "website": "https://www.tljus.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10262922586022306086",
+  "rating": 4.6,
+  "reviewCount": 1000,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.0188585,
+    -83.0260333
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-columbus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:30.737Z"
+}

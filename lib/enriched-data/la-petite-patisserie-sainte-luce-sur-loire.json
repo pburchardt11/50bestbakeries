@@ -1,0 +1,43 @@
+{
+  "slug": "la-petite-patisserie-sainte-luce-sur-loire",
+  "name": "La petite Pâtisserie",
+  "curatedName": "La petite Pâtisserie",
+  "city": "Sainte-Luce-sur-Loire",
+  "country": "France",
+  "placeId": "ChIJY20FdjXvBUgRmsIT30zBWJE",
+  "googleName": "La petite Pâtisserie",
+  "formattedAddress": "43 Rue Jean Moulin, 44980 Sainte-Luce-sur-Loire, France",
+  "phone": "06 01 40 61 84",
+  "internationalPhone": "+33 6 01 40 61 84",
+  "website": "http://www.petitepatisserie.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10473333469354377882",
+  "rating": 4.8,
+  "reviewCount": 316,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.2507956,
+    -1.484265
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: Closed",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-petite-patisserie-sainte-luce-sur-loire/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:34.677Z"
+}

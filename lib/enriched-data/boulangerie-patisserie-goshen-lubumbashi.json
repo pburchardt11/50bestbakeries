@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-goshen-lubumbashi",
+  "name": "Boulangerie patisserie goshen",
+  "city": "Lubumbashi",
+  "country": "DR Congo",
+  "placeId": "ChIJCQ5KIfI_chkRYtIcHG2rPpw",
+  "googleName": "boulangerie patisserie goshen",
+  "formattedAddress": "01 avenue Adoula, quatier makomeno, coin Av. Likasi, Lubumbashi, Democratic Republic of the Congo",
+  "phone": "0815 051 851",
+  "website": "https://patisseriegoshenrdc.odoo.com/shop",
+  "googleMapsUrl": "https://maps.google.com/?cid=11258624603584254562",
+  "rating": 4.6,
+  "reviewCount": 10,
+  "coords": [
+    -11.6738094,
+    27.4820219
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-goshen-lubumbashi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:55:29.874Z"
+}

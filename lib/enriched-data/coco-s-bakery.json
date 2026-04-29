@@ -1,0 +1,35 @@
+{
+  "slug": "coco-s-bakery",
+  "name": "Coco's bakery | , , , ,",
+  "curatedName": "Coco's bakery | , , , ,",
+  "city": "Бургас",
+  "country": "Bulgaria",
+  "placeId": "ChIJRTGDIOSTpkAROqB9vhXas-g",
+  "googleName": "Пекарна Coco's bakery | Здравословен Хляб, Празнични Погачи и Питки, Кифли, Кроасани, Пици, Топли Закуски Бургас",
+  "formattedAddress": "g.k. Petko R. Slaveykov, zh.k. Slaveykov 86, 8005 Burgas, Bulgaria",
+  "phone": "087 726 3005",
+  "internationalPhone": "+359 87 726 3005",
+  "website": "https://www.facebook.com/profile.php?id=100089401016392",
+  "googleMapsUrl": "https://maps.google.com/?cid=16767985624555561018",
+  "rating": 2.5,
+  "reviewCount": 6,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    42.51857760000001,
+    27.4466414
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coco-s-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:20:47.609Z"
+}

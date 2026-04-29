@@ -1,0 +1,44 @@
+{
+  "slug": "cafe-lasch-pastry-bakery-karlsruhe",
+  "name": "Cafe Lasch pastry bakery",
+  "curatedName": "Cafe Lasch pastry bakery",
+  "city": "Karlsruhe",
+  "country": "Germany",
+  "placeId": "ChIJSccTDF0Gl0cRqiei_xUt4ys",
+  "googleName": "Cafe Lasch pastry bakery",
+  "formattedAddress": "Klauprechtstraße 13, 76137 Karlsruhe, Germany",
+  "phone": "0721 357935",
+  "internationalPhone": "+49 721 357935",
+  "website": "https://www.cafe-lasch.de/home",
+  "googleMapsUrl": "https://maps.google.com/?cid=3162420935850600362",
+  "rating": 4.6,
+  "reviewCount": 292,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.0006706,
+    8.3926027
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-lasch-pastry-bakery-karlsruhe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:37.417Z"
+}

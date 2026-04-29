@@ -1,0 +1,46 @@
+{
+  "slug": "pumpernickel-bakery-kathmandu",
+  "name": "Pumpernickel Bakery",
+  "curatedName": "Pumpernickel Bakery",
+  "city": "Kathmandu",
+  "country": "Nepal",
+  "placeId": "ChIJ0RlJ4_wY6zkRYpyG8OuZsPo",
+  "googleName": "PUMPERNICKEL BAKERY",
+  "formattedAddress": "Paryatan Marg, Kathmandu 44600, Nepal",
+  "phone": "982-6045931",
+  "internationalPhone": "+977 982-6045931",
+  "website": "https://pumpernickel.com.np/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18064107344014777442",
+  "rating": 4.5,
+  "reviewCount": 1458,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    27.7146621,
+    85.31089109999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:30 PM",
+    "Tuesday: 6:30 AM – 9:30 PM",
+    "Wednesday: 6:30 AM – 9:30 PM",
+    "Thursday: 6:30 AM – 9:30 PM",
+    "Friday: 6:30 AM – 9:30 PM",
+    "Saturday: 6:30 AM – 9:30 PM",
+    "Sunday: 6:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pumpernickel-bakery-kathmandu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:02.828Z"
+}

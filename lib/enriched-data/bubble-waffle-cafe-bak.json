@@ -1,0 +1,32 @@
+{
+  "slug": "bubble-waffle-cafe-bak",
+  "name": "Bubble Waffle Cafe",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJF0p4ual9MEAREZ38Ej0pD6c",
+  "googleName": "Bubbles",
+  "formattedAddress": "2 Məmmədəmin Rəsulzadə, Bakı, Azerbaijan",
+  "phone": "055 200 26 33",
+  "website": "https://www.instagram.com/bubbles_baku/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12037885671272914193",
+  "rating": 4,
+  "reviewCount": 28,
+  "coords": [
+    40.3682928,
+    49.8383666
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 11:00 PM",
+    "Tuesday: 11:00 AM – 11:00 PM",
+    "Wednesday: 11:00 AM – 11:00 PM",
+    "Thursday: 11:00 AM – 11:00 PM",
+    "Friday: 11:00 AM – 11:00 PM",
+    "Saturday: 11:00 AM – 11:00 PM",
+    "Sunday: 11:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bubble-waffle-cafe-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:38:14.289Z"
+}

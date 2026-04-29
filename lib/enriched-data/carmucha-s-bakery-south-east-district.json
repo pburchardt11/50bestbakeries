@@ -1,0 +1,32 @@
+{
+  "slug": "carmucha-s-bakery-south-east-district",
+  "name": "Carmucha's Bakery",
+  "city": "South-East District",
+  "country": "Botswana",
+  "placeId": "ChIJNdlb1Bhbux4R1LW9MR8ULwQ",
+  "googleName": "Carmucha's Bakery",
+  "formattedAddress": "Plot 61552 Goalestown Complex, Maruapula, Gaborone, Botswana",
+  "phone": "72 324 921",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=301481824268170708",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    -24.6445941,
+    25.9477858
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:30 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/carmucha-s-bakery-south-east-district/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:19:40.656Z"
+}

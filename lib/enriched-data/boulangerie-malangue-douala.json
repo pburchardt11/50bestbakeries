@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-malangue-douala",
+  "name": "Boulangerie Malangue",
+  "city": "Douala",
+  "country": "Cameroon",
+  "placeId": "ChIJ-z6FQbENYRARbK33wk2Tc60",
+  "googleName": "DareOries",
+  "formattedAddress": "beedi, Douala, Cameroon",
+  "phone": "6 91 25 55 03",
+  "website": "https://www.facebook.com/profile.php?id=100093926125842",
+  "googleMapsUrl": "https://maps.google.com/?cid=12498495353076034924",
+  "rating": 3.4,
+  "reviewCount": 323,
+  "coords": [
+    4.0650485,
+    9.7612007
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-malangue-douala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:39:22.754Z"
+}

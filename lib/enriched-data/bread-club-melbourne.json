@@ -1,0 +1,43 @@
+{
+  "slug": "bread-club-melbourne",
+  "name": "Bread Club",
+  "curatedName": "Bread Club",
+  "city": "Melbourne",
+  "country": "Australia",
+  "placeId": "ChIJv7mbr6Nd1moRl31jj8h1ka8",
+  "googleName": "Bread Club",
+  "formattedAddress": "558 Queensberry St, North Melbourne VIC 3051, Australia",
+  "phone": "(03) 8528 8993",
+  "internationalPhone": "+61 3 8528 8993",
+  "website": "https://cookaborough.com/bread-club",
+  "googleMapsUrl": "https://maps.google.com/?cid=12651022332520005015",
+  "rating": 4.6,
+  "reviewCount": 786,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -37.8027493,
+    144.9488194
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-club-melbourne/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:23.838Z"
+}

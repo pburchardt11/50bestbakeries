@@ -1,0 +1,43 @@
+{
+  "slug": "sam-urban-baker-bremen",
+  "name": "Sam Urban Baker",
+  "curatedName": "Sam Urban Baker",
+  "city": "Bremen",
+  "country": "Germany",
+  "placeId": "ChIJ3UxTHdEpsUcRvXXZgEuAUJI",
+  "googleName": "sam urban baker - Hillmannplatz",
+  "formattedAddress": "Hillmannpl. 20, 28195 Bremen, Germany",
+  "phone": "0421 24798042",
+  "internationalPhone": "+49 421 24798042",
+  "website": "https://www.sam-urbanbaker.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10543067789446968765",
+  "rating": 4.1,
+  "reviewCount": 422,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.07986469999999,
+    8.8096991
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sam-urban-baker-bremen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:35.597Z"
+}

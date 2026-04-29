@@ -1,0 +1,32 @@
+{
+  "slug": "kuncut-bake-shop-bak",
+  "name": "Kuncut Bake Shop",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJH9VDUXqHMEARM-rnTHArTvc",
+  "googleName": "Cake and Bake",
+  "formattedAddress": "92 Hasan bey Zardabi St, Baku, Azerbaijan",
+  "phone": "(012) 497 04 97",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17820228536878230067",
+  "rating": 4.1,
+  "reviewCount": 26,
+  "coords": [
+    40.397273,
+    49.8058782
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kuncut-bake-shop-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:34:56.999Z"
+}

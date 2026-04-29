@@ -1,0 +1,43 @@
+{
+  "slug": "i-love-cake-bakery-indore",
+  "name": "I Love Cake Bakery",
+  "curatedName": "I Love Cake Bakery",
+  "city": "Indore",
+  "country": "India",
+  "placeId": "ChIJLw4clYL9YjkRTvQJnG14WIM",
+  "googleName": "I Love Cake Bakery",
+  "formattedAddress": "House no.732, Rd Number 9, Near MIG Thana, Atal Dwar, Nehru Nagar, Indore, Madhya Pradesh 452011, India",
+  "phone": "070674 70402",
+  "internationalPhone": "+91 70674 70402",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9464447029083763790",
+  "rating": 4.7,
+  "reviewCount": 138,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.7349183,
+    75.8831648
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/i-love-cake-bakery-indore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:20.535Z"
+}

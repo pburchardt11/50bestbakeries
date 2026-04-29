@@ -1,0 +1,43 @@
+{
+  "slug": "backerei-konditorei-holtkamp-essen",
+  "name": "Bäckerei & Konditorei Holtkamp",
+  "curatedName": "Bäckerei & Konditorei Holtkamp",
+  "city": "Essen",
+  "country": "Germany",
+  "placeId": "ChIJjy9gIdvCuEcRIT1KoSdP058",
+  "googleName": "Bäckerei & Konditorei Holtkamp",
+  "formattedAddress": "Kahrstraße 62, 45128 Essen, Germany",
+  "phone": "0201 773177",
+  "internationalPhone": "+49 201 773177",
+  "website": "https://www.baeckerei-holtkamp.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11516635703744806177",
+  "rating": 4.5,
+  "reviewCount": 213,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.4419294,
+    6.9999864
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-konditorei-holtkamp-essen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:30.467Z"
+}

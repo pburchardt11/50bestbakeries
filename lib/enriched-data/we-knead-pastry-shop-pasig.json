@@ -1,0 +1,43 @@
+{
+  "slug": "we-knead-pastry-shop-pasig",
+  "name": "We Knead Pastry Shop",
+  "curatedName": "We Knead Pastry Shop",
+  "city": "Pasig",
+  "country": "Philippines",
+  "placeId": "ChIJOxXqhOrJlzMRQhvPoYYU1cA",
+  "googleName": "We Knead Pastry Shop",
+  "formattedAddress": "104B Parc Chateau Condominium, Sapphire Rd, corner Onyx Rd, Ortigas Center, Pasig, 1605 Metro Manila, Philippines",
+  "phone": "0917 883 6332",
+  "internationalPhone": "+63 917 883 6332",
+  "website": "https://www.instagram.com/wekneadph/?hl=en",
+  "googleMapsUrl": "https://maps.google.com/?cid=13895034793794411330",
+  "rating": 5,
+  "reviewCount": 24,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5862542,
+    121.062959
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/we-knead-pastry-shop-pasig/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:11.887Z"
+}

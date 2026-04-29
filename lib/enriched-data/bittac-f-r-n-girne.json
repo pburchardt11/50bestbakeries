@@ -1,0 +1,32 @@
+{
+  "slug": "bittac-f-r-n-girne",
+  "name": "Bittacı Fırını",
+  "city": "Girne",
+  "country": "Cyprus",
+  "placeId": "ChIJi2thfcls3hQRPFNqVtimkC0",
+  "googleName": "Bittacı Fırını",
+  "formattedAddress": "88PF+94C, Namık Kemal Cd, Girne 99300",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3283307576446047036",
+  "rating": 4.6,
+  "reviewCount": 41,
+  "coords": [
+    35.3359453,
+    33.3227643
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 7:30 AM – 10:00 PM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bittac-f-r-n-girne/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:53:16.408Z"
+}

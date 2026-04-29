@@ -1,0 +1,42 @@
+{
+  "slug": "le-macaron",
+  "name": "Le Macaron",
+  "curatedName": "Le Macaron",
+  "city": "الريان",
+  "country": "Qatar",
+  "placeId": "ChIJq3qx_-Oe4jAR-aOjXujm98c",
+  "googleName": "Le Macaron",
+  "formattedAddress": "189 Sukhumvit Rd, Khwaeng Khlong Toei Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+  "phone": "02 126 9999",
+  "internationalPhone": "+66 2 126 9999",
+  "website": "https://www.resdiary.com/restaurant/lemacaronaccor7729?covers=2&bookingDate=2020-08-10&bookingTime=19%3A30?utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps",
+  "googleMapsUrl": "https://maps.google.com/?cid=14409239418489775097",
+  "rating": 4.3,
+  "reviewCount": 100,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.7394139,
+    100.5577707
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-macaron/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:22:44.476Z"
+}

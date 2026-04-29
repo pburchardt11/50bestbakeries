@@ -1,0 +1,43 @@
+{
+  "slug": "pasticceria-briguglio-messina",
+  "name": "Pasticceria Briguglio",
+  "curatedName": "Pasticceria Briguglio",
+  "city": "Messina",
+  "country": "Italy",
+  "placeId": "ChIJrasiSGNOFBMRlRGjzv8aZCM",
+  "googleName": "Pasticceria Briguglio",
+  "formattedAddress": "Via Nino Bixio, 116, 98123 Messina ME, Italy",
+  "phone": "349 609 7996",
+  "internationalPhone": "+39 349 609 7996",
+  "website": "https://instagram.com/pasticceriabriguglio?igshid=NzZlODBkYWE4Ng==",
+  "googleMapsUrl": "https://maps.google.com/?cid=2550192974984319381",
+  "rating": 4.7,
+  "reviewCount": 93,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.183745,
+    15.5518357
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 1:30 PM, 4:30 – 8:00 PM",
+    "Wednesday: 8:30 AM – 1:30 PM, 4:30 – 8:00 PM",
+    "Thursday: 8:30 AM – 1:30 PM, 4:30 – 8:00 PM",
+    "Friday: 8:30 AM – 1:30 PM, 4:30 – 8:00 PM",
+    "Saturday: 8:30 AM – 1:30 PM, 4:30 – 8:00 PM",
+    "Sunday: 8:30 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-briguglio-messina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:47.866Z"
+}

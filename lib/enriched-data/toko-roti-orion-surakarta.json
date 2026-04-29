@@ -1,0 +1,43 @@
+{
+  "slug": "toko-roti-orion-surakarta",
+  "name": "Toko Roti Orion",
+  "curatedName": "Toko Roti Orion",
+  "city": "Surakarta",
+  "country": "Indonesia",
+  "placeId": "ChIJw1uw__QWei4RPfKzX-ZRmgw",
+  "googleName": "Toko Roti Orion",
+  "formattedAddress": "Jl. Jend. Urip Sumoharjo No.80, Purwodiningratan, Kec. Jebres, Kota Surakarta, Jawa Tengah 57129, Indonesia",
+  "phone": "(0271) 645214",
+  "internationalPhone": "+62 271 645214",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=908128324758532669",
+  "rating": 4.5,
+  "reviewCount": 13321,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.5659227,
+    110.8339153
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/toko-roti-orion-surakarta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:55.640Z"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "jaipur-bakers-jaipur",
+  "name": "Jaipur Bakers",
+  "curatedName": "Jaipur Bakers",
+  "city": "Jaipur",
+  "country": "India",
+  "placeId": "ChIJN8QYkxGzbTkRGd2OvAbOLqU",
+  "googleName": "Jaipur Bakers®",
+  "formattedAddress": "4, DC Heights, Plot no, near BP Petrol pump, Laxmi Nagar III, Jagannath Puri, Bakers, Jhotwara, Jaipur, Rajasthan 302012, India",
+  "phone": "099825 35455",
+  "internationalPhone": "+91 99825 35455",
+  "website": "https://www.jaipurbakery.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11902677393515404569",
+  "rating": 4.5,
+  "reviewCount": 1502,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.944833,
+    75.7420875
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 1:00 AM",
+    "Tuesday: 9:00 AM – 1:00 AM",
+    "Wednesday: 9:00 AM – 1:00 AM",
+    "Thursday: 9:00 AM – 1:00 AM",
+    "Friday: 9:00 AM – 1:00 AM",
+    "Saturday: 9:00 AM – 1:00 AM",
+    "Sunday: 9:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jaipur-bakers-jaipur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:36.671Z"
+}

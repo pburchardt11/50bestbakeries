@@ -1,0 +1,44 @@
+{
+  "slug": "the-schurener-backparadies-dortmund",
+  "name": "The Schürener Backparadies",
+  "curatedName": "The Schürener Backparadies",
+  "city": "Dortmund",
+  "country": "Germany",
+  "placeId": "ChIJpx1zgO4WuUcRfO_UYuDtt0w",
+  "googleName": "The Schürener Backparadies",
+  "formattedAddress": "Gevelsbergstraße 26, 44269 Dortmund, Germany",
+  "phone": "0231 453818",
+  "internationalPhone": "+49 231 453818",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5528148615607152508",
+  "rating": 4.9,
+  "reviewCount": 696,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.4968948,
+    7.536742599999999
+  ],
+  "openingHours": [
+    "Monday: 3:00 AM – 5:00 PM",
+    "Tuesday: 3:00 AM – 5:00 PM",
+    "Wednesday: 3:00 AM – 5:00 PM",
+    "Thursday: 3:00 AM – 5:00 PM",
+    "Friday: 3:00 AM – 5:00 PM",
+    "Saturday: 1:00 AM – 1:00 PM",
+    "Sunday: 3:00 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-schurener-backparadies-dortmund/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:29.940Z"
+}

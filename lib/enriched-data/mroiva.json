@@ -1,0 +1,32 @@
+{
+  "slug": "mroiva",
+  "name": "Mroiva",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJHyJVNHPR20YRrkhDBl-M9DM",
+  "googleName": "Mroiva",
+  "formattedAddress": "praspiekt Dziaržynskaha 119, Minsk, Minskaja voblasć, Belarus",
+  "phone": "8 029 105-70-00",
+  "website": "https://www.instagram.com/mroiva/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3743771530006579374",
+  "rating": 4.2,
+  "reviewCount": 59,
+  "coords": [
+    53.8522738,
+    27.477218
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mroiva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:59:54.893Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "vejgaard-bageri-aalborg",
+  "name": "Vejgaard Bageri",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJByNOysAySUYRYRhiHFXo-kA",
+  "googleName": "Vejgaard Bageri",
+  "formattedAddress": "Hadsundvej 10, 9000 Aalborg, Denmark",
+  "phone": "98 12 41 76",
+  "website": "https://www.instagram.com/vejgaardbageri/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4682310214851106913",
+  "rating": 4.7,
+  "reviewCount": 427,
+  "coords": [
+    57.0434266,
+    9.9496421
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 12:00 PM",
+    "Tuesday: 5:30 AM – 12:00 PM",
+    "Wednesday: 5:30 AM – 12:00 PM",
+    "Thursday: 5:30 AM – 12:00 PM",
+    "Friday: 5:30 AM – 12:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vejgaard-bageri-aalborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:36.805Z"
+}

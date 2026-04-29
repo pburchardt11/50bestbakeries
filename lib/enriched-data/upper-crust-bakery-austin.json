@@ -1,0 +1,45 @@
+{
+  "slug": "upper-crust-bakery-austin",
+  "name": "Upper Crust Bakery",
+  "curatedName": "Upper Crust Bakery",
+  "city": "Austin",
+  "country": "United States",
+  "placeId": "ChIJ8dfGAGLKRIYROUESDBsSgoE",
+  "googleName": "Upper Crust Bakery",
+  "formattedAddress": "4508 Burnet Rd, Austin, TX 78756, USA",
+  "phone": "(512) 467-0102",
+  "internationalPhone": "+1 512-467-0102",
+  "website": "https://www.uppercrustbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9332041285241028921",
+  "rating": 4.6,
+  "reviewCount": 1455,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.3158167,
+    -97.74156389999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Well-known bakery with a cozy ambiance selling made-from-scratch pastries, bread & lunch fare.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/upper-crust-bakery-austin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:44.919Z"
+}

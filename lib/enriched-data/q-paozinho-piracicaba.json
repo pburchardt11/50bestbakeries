@@ -1,0 +1,44 @@
+{
+  "slug": "q-paozinho-piracicaba",
+  "name": "Q'Pãozinho",
+  "curatedName": "Q'Pãozinho",
+  "city": "Piracicaba",
+  "country": "Brazil",
+  "placeId": "ChIJkXk9K5wxxpQRchm7TRBW8K0",
+  "googleName": "Q'Pãozinho",
+  "formattedAddress": "R. Dr. Alvim, 710 - São Dimas, Piracicaba - SP, 13416-060, Brazil",
+  "phone": "(19) 3434-8314",
+  "internationalPhone": "+55 19 3434-8314",
+  "website": "https://m.facebook.com/PadariaQPaozinho/?locale2=pt_BR",
+  "googleMapsUrl": "https://maps.google.com/?cid=12533612390995663218",
+  "rating": 4.5,
+  "reviewCount": 1536,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.71238,
+    -47.642785
+  ],
+  "openingHours": [
+    "Monday: 5:40 AM – 9:00 PM",
+    "Tuesday: 5:40 AM – 9:00 PM",
+    "Wednesday: 5:40 AM – 9:00 PM",
+    "Thursday: 5:40 AM – 9:00 PM",
+    "Friday: 5:40 AM – 9:00 PM",
+    "Saturday: 5:40 AM – 9:00 PM",
+    "Sunday: 5:40 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/q-paozinho-piracicaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:34.752Z"
+}

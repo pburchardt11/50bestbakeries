@@ -1,0 +1,43 @@
+{
+  "slug": "howey-medan",
+  "name": "Howey",
+  "curatedName": "Howey",
+  "city": "Medan",
+  "country": "Indonesia",
+  "placeId": "ChIJq6rqGCwwMTARjawSQK9N-dY",
+  "googleName": "HOWEY",
+  "formattedAddress": "Jl. Babura Lama No.4, Darat, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",
+  "phone": "0821-6717-4480",
+  "internationalPhone": "+62 821-6717-4480",
+  "website": "http://howey-patissier.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15490497808407112845",
+  "rating": 4.9,
+  "reviewCount": 337,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.5759152,
+    98.6668485
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/howey-medan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:38:50.934Z"
+}

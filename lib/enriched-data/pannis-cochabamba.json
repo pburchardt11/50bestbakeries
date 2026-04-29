@@ -1,0 +1,32 @@
+{
+  "slug": "pannis-cochabamba",
+  "name": "Pannis",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJfZQDZQB145MRkR-GsD1g1OM",
+  "googleName": "Pannis",
+  "formattedAddress": "C. Junin 348, Cochabamba, Bolivia",
+  "phone": "70748829",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16416852359743152017",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -17.3900653,
+    -66.1603063
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pannis-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:14:48.521Z"
+}

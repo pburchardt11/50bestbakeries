@@ -1,0 +1,43 @@
+{
+  "slug": "xochitl-bakery-el-paso",
+  "name": "Xochitl Bakery",
+  "curatedName": "Xochitl Bakery",
+  "city": "El Paso",
+  "country": "United States",
+  "placeId": "ChIJgZbGoNFb54YRWuVIADZI5X0",
+  "googleName": "Xochitl Bakery",
+  "formattedAddress": "241 S Concepcion St, El Paso, TX 79905, USA",
+  "phone": "(915) 771-6781",
+  "internationalPhone": "+1 915-771-6781",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9071736421177943386",
+  "rating": 4.7,
+  "reviewCount": 245,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.7670911,
+    -106.4318624
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 9:45 PM",
+    "Tuesday: 5:30 AM – 9:45 PM",
+    "Wednesday: 5:30 AM – 9:45 PM",
+    "Thursday: 5:30 AM – 9:45 PM",
+    "Friday: 5:30 AM – 9:45 PM",
+    "Saturday: 5:30 AM – 9:45 PM",
+    "Sunday: 5:30 AM – 9:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/xochitl-bakery-el-paso/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:15:18.328Z"
+}

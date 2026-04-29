@@ -1,0 +1,43 @@
+{
+  "slug": "state-flour-bakery-tampa",
+  "name": "State Flour Bakery",
+  "curatedName": "State Flour Bakery",
+  "city": "Tampa",
+  "country": "United States",
+  "placeId": "ChIJOyU5FsjdwogR24Wo9xaISGU",
+  "googleName": "State Flour Bakery",
+  "formattedAddress": "5224 S Dale Mabry Hwy Unit A, Tampa, FL 33611, USA",
+  "phone": "(813) 263-4371",
+  "internationalPhone": "+1 813-263-4371",
+  "website": "http://stateflourbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7298232828379563483",
+  "rating": 4.8,
+  "reviewCount": 277,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    27.8886792,
+    -82.50608539999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/state-flour-bakery-tampa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:35.135Z"
+}

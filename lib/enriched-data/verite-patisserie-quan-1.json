@@ -1,0 +1,43 @@
+{
+  "slug": "verite-patisserie-quan-1",
+  "name": "Vérité Patisserie",
+  "curatedName": "Vérité Patisserie",
+  "city": "Quận 1",
+  "country": "Vietnam",
+  "placeId": "ChIJk8X2Fy0vdTERJNAx-4NCts0",
+  "googleName": "Vérité Patisserie",
+  "formattedAddress": "84T/1 Trần Đình Xu, Cầu Ông Lãnh, Hồ Chí Minh, Vietnam",
+  "phone": "028 6276 1647",
+  "internationalPhone": "+84 28 6276 1647",
+  "website": "https://www.facebook.com/patisserie.de.verite",
+  "googleMapsUrl": "https://maps.google.com/?cid=14823108358159061028",
+  "rating": 4.8,
+  "reviewCount": 2895,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.761324,
+    106.690956
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/verite-patisserie-quan-1/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:32:42.989Z"
+}

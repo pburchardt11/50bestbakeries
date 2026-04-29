@@ -1,0 +1,30 @@
+{
+  "slug": "snay-s-kitchen-belait",
+  "name": "Snay's Kitchen",
+  "city": "Belait",
+  "country": "Brunei",
+  "placeId": "ChIJj6a8_a8LIjIRaamWbZOrsU4",
+  "googleName": "SNAY's Kitchen",
+  "formattedAddress": "JCRR+Q45, Liang, Brunei",
+  "phone": "893 8820",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5670502055523297641",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    4.6418761,
+    114.4403661
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 12:00 PM, 2:00 – 6:30 PM",
+    "Saturday: 7:00 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:22:26.563Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "gusticos-alajuela",
+  "name": "Gusticos",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJ55DrvUefCo8RwxiLr0Ek4uA",
+  "googleName": "Restaurante Gusticos",
+  "formattedAddress": "JF9G+MG8, Provincia de Alajuela, Santa Rosa de Pocosol, Costa Rica",
+  "phone": "2438 2222",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16204554273769068739",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    10.6214674,
+    -84.52453419999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gusticos-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:18.828Z"
+}

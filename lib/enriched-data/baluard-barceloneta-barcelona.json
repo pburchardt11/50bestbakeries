@@ -1,0 +1,31 @@
+{
+  "slug": "baluard-barceloneta-barcelona",
+  "name": "Baluard Barceloneta",
+  "curatedName": "Baluard Barceloneta",
+  "city": "Barcelona",
+  "country": "Spain",
+  "placeId": "ChIJ7zpOiqmjpBIREGj6Cdicfq0",
+  "googleName": "Carrer del Baluard",
+  "formattedAddress": "Carrer del Baluard, Ciutat Vella, 08003 Barcelona, Spain",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12501602067321350160",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "route"
+  ],
+  "businessStatus": null,
+  "coords": [
+    41.3791543,
+    2.1893139
+  ],
+  "openingHours": null,
+  "editorialSummary": "Route to the seashore lined with markets, seafood tapas bars, gift shops & other attractions.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baluard-barceloneta-barcelona/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:56:36.182Z"
+}

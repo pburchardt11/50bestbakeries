@@ -1,0 +1,44 @@
+{
+  "slug": "regoli-pasticceria-roma",
+  "name": "Regoli Pasticceria",
+  "curatedName": "Regoli Pasticceria",
+  "city": "Roma",
+  "country": "Italy",
+  "placeId": "ChIJC978ZrthLxMRzYBNfksMM4A",
+  "googleName": "Regoli Pasticceria",
+  "formattedAddress": "Via dello Statuto, 60, 00185 Roma RM, Italy",
+  "phone": "06 487 2812",
+  "internationalPhone": "+39 06 487 2812",
+  "website": "http://www.pasticceriaregoli.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9237740779048108237",
+  "rating": 4.5,
+  "reviewCount": 6143,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.8948172,
+    12.5009492
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Century-old, family-owned shop with arched ceilings, selling classic creme-based pastries & tarts.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/regoli-pasticceria-roma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:32.424Z"
+}

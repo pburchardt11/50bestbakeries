@@ -1,0 +1,44 @@
+{
+  "slug": "le-bon-choix-brisbane",
+  "name": "Le Bon Choix",
+  "curatedName": "Le Bon Choix",
+  "city": "Brisbane",
+  "country": "Australia",
+  "placeId": "ChIJRWF5oh1akWsR3fnUYlIPIxU",
+  "googleName": "Le Bon Choix",
+  "formattedAddress": "379 Queen St, Brisbane City QLD 4000, Australia",
+  "phone": "(07) 3229 9260",
+  "internationalPhone": "+61 7 3229 9260",
+  "website": "https://www.lebonchoixbakery.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1523077945501219293",
+  "rating": 4.2,
+  "reviewCount": 1541,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.4661806,
+    153.0299316
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 6:00 PM",
+    "Sunday: 6:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Handcrafted French sweet and savoury treats in a sleek, modern bakery with streetside tables.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-bon-choix-brisbane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:36.995Z"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "dave-s-home-bread-miguel-hidalgo",
+  "name": "Dave's Home Bread",
+  "curatedName": "Dave's Home Bread",
+  "city": "Miguel Hidalgo",
+  "country": "Mexico",
+  "placeId": "ChIJ6xosAxf_0YURf2L9zRK90jw",
+  "googleName": "Dave's Home Bread",
+  "formattedAddress": "Astrónomos 33 C, Escandón I Secc, Miguel Hidalgo, 11800 Ciudad de México, CDMX, Mexico",
+  "phone": "55 2063 3190",
+  "internationalPhone": "+52 55 2063 3190",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4382773275847910015",
+  "rating": 4.6,
+  "reviewCount": 291,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.401394,
+    -99.17158859999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:30 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 3:00 PM",
+    "Sunday: 7:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dave-s-home-bread-miguel-hidalgo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:50.963Z"
+}

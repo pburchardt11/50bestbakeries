@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-do-jarbas-av-italia-taubate",
+  "name": "Padaria do Jarbas Av. Itália",
+  "curatedName": "Padaria do Jarbas Av. Itália",
+  "city": "Taubaté",
+  "country": "Brazil",
+  "placeId": "ChIJZb4epRT5zJQResvCGwrXWtE",
+  "googleName": "Padaria do Jarbas Av. Itália",
+  "formattedAddress": "Av. Itália, 1260 - Jardim das Nações, Taubaté - SP, 12030-212, Brazil",
+  "phone": "(12) 3621-3322",
+  "internationalPhone": "+55 12 3621-3322",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15085606340246293370",
+  "rating": 4.5,
+  "reviewCount": 1849,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.0268614,
+    -45.5789937
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-do-jarbas-av-italia-taubate/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:59.961Z"
+}

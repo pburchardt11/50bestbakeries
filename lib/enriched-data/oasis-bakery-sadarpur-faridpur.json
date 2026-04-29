@@ -1,0 +1,32 @@
+{
+  "slug": "oasis-bakery-sadarpur-faridpur",
+  "name": "Oasis Bakery Sadarpur",
+  "city": "Faridpur",
+  "country": "Bangladesh",
+  "placeId": "ChIJ6WWWeJSBVTcRln1Khafq7cY",
+  "googleName": "Oasis Bakery Sadarpur",
+  "formattedAddress": "F2GG+W97, Sadarpur, Bangladesh",
+  "phone": "01781-828272",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14334371194206846358",
+  "rating": 4,
+  "reviewCount": 2,
+  "coords": [
+    23.4772948,
+    90.0259122
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oasis-bakery-sadarpur-faridpur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:52:00.084Z"
+}

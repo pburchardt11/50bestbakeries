@@ -1,0 +1,43 @@
+{
+  "slug": "tuna-pastanesi-kars-yaka",
+  "name": "Tuna Pastanesi",
+  "curatedName": "Tuna Pastanesi",
+  "city": "Karşıyaka",
+  "country": "Türkiye",
+  "placeId": "ChIJ_SZiGvHZuxQRKjghv5Jnbuk",
+  "googleName": "Tuna Pastanesi",
+  "formattedAddress": "Bostanlı, Girne Blv No:1/A, 35590 Karşıyaka/İzmir, Türkiye",
+  "phone": "(0232) 381 45 60",
+  "internationalPhone": "+90 232 381 45 60",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16820495538244892714",
+  "rating": 4.4,
+  "reviewCount": 1759,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.4519618,
+    27.1041002
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:30 PM",
+    "Tuesday: 6:00 AM – 11:30 PM",
+    "Wednesday: 6:00 AM – 11:30 PM",
+    "Thursday: 6:00 AM – 11:30 PM",
+    "Friday: 6:00 AM – 11:30 PM",
+    "Saturday: 6:00 AM – 11:30 PM",
+    "Sunday: 6:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tuna-pastanesi-kars-yaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:01:55.206Z"
+}

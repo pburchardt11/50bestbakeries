@@ -1,0 +1,30 @@
+{
+  "slug": "the-baker-al-ajuzah",
+  "name": "The Baker",
+  "city": "Al ‘Ajūzah",
+  "country": "Egypt",
+  "placeId": "ChIJp_sarH-f4jAR5lRLofGSS1Q",
+  "googleName": "The Baker Bakery CentralPlaza Rama 3",
+  "formattedAddress": "เซ็นทรัล พลาซา รัชดา-พระราม3 ชั้นที่ G Khwaeng Chong Nonsi, Khet Yan Nawa, Krung Thep Maha Nakhon 10120, Thailand",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6074110088930088166",
+  "rating": 4,
+  "reviewCount": 1,
+  "coords": [
+    13.6978764,
+    100.5380187
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T08:01:30.857Z"
+}

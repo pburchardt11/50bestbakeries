@@ -1,0 +1,44 @@
+{
+  "slug": "muffins-and-more-riga",
+  "name": "Muffins and More",
+  "curatedName": "Muffins and More",
+  "city": "Rīga",
+  "country": "Latvia",
+  "placeId": "ChIJ2039rs7P7kYRlKFARBl8xfw",
+  "googleName": "Muffins and More",
+  "formattedAddress": "Ģertrūdes iela 9, Centra rajons, Rīga, LV-1010, Latvia",
+  "phone": "22 130 196",
+  "internationalPhone": "+371 22 130 196",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18214100715930952084",
+  "rating": 4.7,
+  "reviewCount": 818,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    56.9582682,
+    24.1212374
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/muffins-and-more-riga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:38.586Z"
+}

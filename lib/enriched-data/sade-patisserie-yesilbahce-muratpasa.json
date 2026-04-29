@@ -1,0 +1,43 @@
+{
+  "slug": "sade-patisserie-yesilbahce-muratpasa",
+  "name": "Sade Patisserie Yesilbahce",
+  "curatedName": "Sade Patisserie Yesilbahce",
+  "city": "Muratpaşa",
+  "country": "Türkiye",
+  "placeId": "ChIJtY92PBabwxQRc9AOqGgE_Dk",
+  "googleName": "Sade Patisserie Yesilbahce",
+  "formattedAddress": "Yeşilbahçe, Çınarlı Cd. 47/A, 07160 Muratpaşa/Antalya, Türkiye",
+  "phone": "0552 896 30 26",
+  "internationalPhone": "+90 552 896 30 26",
+  "website": "http://sadepatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4178219401835630707",
+  "rating": 4.5,
+  "reviewCount": 782,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.8695962,
+    30.7331888
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sade-patisserie-yesilbahce-muratpasa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:45.069Z"
+}

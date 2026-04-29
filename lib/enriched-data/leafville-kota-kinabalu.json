@@ -1,0 +1,43 @@
+{
+  "slug": "leafville-kota-kinabalu",
+  "name": "Leafville",
+  "curatedName": "Leafville",
+  "city": "Kota Kinabalu",
+  "country": "Malaysia",
+  "placeId": "ChIJZ6OrZFFpOzIR4oPNPoD_e1A",
+  "googleName": "Leafville",
+  "formattedAddress": "No 2, Jalan Sireh, Pekan Tanjung Aru, 88100 Kota Kinabalu, Sabah, Malaysia",
+  "phone": "014-978 2218",
+  "internationalPhone": "+60 14-978 2218",
+  "website": "https://www.instagram.com/leafvillecafe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5799509871444198370",
+  "rating": 4.7,
+  "reviewCount": 85,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    5.9531649,
+    116.0555286
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leafville-kota-kinabalu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:25.052Z"
+}

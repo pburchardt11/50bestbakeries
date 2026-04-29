@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-asfa-n-djamena",
+  "name": "Boulangerie ASFA",
+  "city": "N'Djamena",
+  "country": "Chad",
+  "placeId": "ChIJWZs9YJlhGRER7H7xWj_S4JA",
+  "googleName": "Boulangerie HANANAH",
+  "formattedAddress": "Avenue Mubutu, Face Building، 66276726، 5011 Avenue Mobutu، N'Djamena, Chad",
+  "phone": "22 30 42 22",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10439575105795358444",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    12.1348457,
+    15.0557415
+  ],
+  "openingHours": [
+    "Monday: 5:00 – 11:00 AM",
+    "Tuesday: 5:00 – 11:00 AM",
+    "Wednesday: 5:00 – 11:00 AM",
+    "Thursday: 5:00 – 11:00 AM",
+    "Friday: 5:00 – 11:00 AM",
+    "Saturday: 5:00 – 11:00 AM",
+    "Sunday: 5:00 – 11:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-asfa-n-djamena/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:42:06.595Z"
+}

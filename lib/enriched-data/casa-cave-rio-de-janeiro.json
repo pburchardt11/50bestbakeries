@@ -1,0 +1,44 @@
+{
+  "slug": "casa-cave-rio-de-janeiro",
+  "name": "Casa Cavé",
+  "curatedName": "Casa Cavé",
+  "city": "Rio de Janeiro",
+  "country": "Brazil",
+  "placeId": "ChIJoc9XA15_mQARzK6lO0Zxaio",
+  "googleName": "Casa Cavé",
+  "formattedAddress": "R. Sete de Setembro, 133 - Centro, Rio de Janeiro - RJ, 20050-006, Brazil",
+  "phone": "(21) 2224-2520",
+  "internationalPhone": "+55 21 2224-2520",
+  "website": "http://www.casacave.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3056379843586666188",
+  "rating": 4.4,
+  "reviewCount": 3167,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.9058951,
+    -43.1791487
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Traditional sweets, snacks, pies, art deco décor & all you'd expect of Rio's oldest pastry store.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-cave-rio-de-janeiro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:02.642Z"
+}

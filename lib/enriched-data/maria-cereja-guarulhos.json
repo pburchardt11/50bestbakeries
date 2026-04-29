@@ -1,0 +1,44 @@
+{
+  "slug": "maria-cereja-guarulhos",
+  "name": "Maria Cereja",
+  "curatedName": "Maria Cereja",
+  "city": "Guarulhos",
+  "country": "Brazil",
+  "placeId": "ChIJD1jErkX1zpQR1gi6l0k4zQw",
+  "googleName": "Maria Cereja",
+  "formattedAddress": "Av. Paulo Faccini, 1331 - Jardim Maia, Guarulhos - SP, 07111-000, Brazil",
+  "phone": "(11) 2408-1920",
+  "internationalPhone": "+55 11 2408-1920",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=922455387410139350",
+  "rating": 4.4,
+  "reviewCount": 12384,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.4609522,
+    -46.5281128
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:30 PM",
+    "Tuesday: 6:00 AM – 10:30 PM",
+    "Wednesday: 6:00 AM – 10:30 PM",
+    "Thursday: 6:00 AM – 10:30 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:30 AM – 11:00 PM",
+    "Sunday: 6:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": "Long-standing bakery serving up morning pastries & coffee, plus burgers & pizzas throughout the day.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maria-cereja-guarulhos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:53.705Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "buttercrumbs-bakery-hamburg",
+  "name": "Buttercrumbs Bakery",
+  "curatedName": "Buttercrumbs Bakery",
+  "city": "Hamburg",
+  "country": "Germany",
+  "placeId": "ChIJfbpwZ6mPsUcRbd_khZCfcPk",
+  "googleName": "Buttercrumbs Bakery",
+  "formattedAddress": "Bernhard-Nocht-Straße 95, 20359 Hamburg, Germany",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.buttercrumbs-bakery.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17974041555906125677",
+  "rating": 4.8,
+  "reviewCount": 407,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.54705999999999,
+    9.962656599999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/buttercrumbs-bakery-hamburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:42.369Z"
+}

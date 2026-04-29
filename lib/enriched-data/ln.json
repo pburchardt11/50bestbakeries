@@ -1,0 +1,24 @@
+{
+  "slug": "ln",
+  "name": "LN",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJ6ayKW4w22kYRrgzvvXxutBA",
+  "googleName": "National Airport Minsk",
+  "formattedAddress": "Мінск, Мінская вобласць, Belarus",
+  "phone": "8 017 279-13-00",
+  "website": "http://airport.by/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1203708482456325294",
+  "rating": 4.1,
+  "reviewCount": 5015,
+  "coords": [
+    53.8896537,
+    28.0342018
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ln/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:01:41.431Z"
+}

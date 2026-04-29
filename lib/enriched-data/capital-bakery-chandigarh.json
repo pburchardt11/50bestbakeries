@@ -1,0 +1,43 @@
+{
+  "slug": "capital-bakery-chandigarh",
+  "name": "Capital Bakery",
+  "curatedName": "Capital Bakery",
+  "city": "Chandigarh",
+  "country": "India",
+  "placeId": "ChIJFQcid3rtDzkR1hsDrRCASz8",
+  "googleName": "Capital Bakery",
+  "formattedAddress": "SCF No.2, Azaadi Rte, 10D, Sector 10, Chandigarh, 160011, India",
+  "phone": "0172 463 8496",
+  "internationalPhone": "+91 172 463 8496",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4560879856753253334",
+  "rating": 4.3,
+  "reviewCount": 2134,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.7547803,
+    76.7875638
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/capital-bakery-chandigarh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:40.886Z"
+}

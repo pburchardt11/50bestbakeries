@@ -1,0 +1,43 @@
+{
+  "slug": "horno-san-bartolome-valencia",
+  "name": "Horno San Bartolomé",
+  "curatedName": "Horno San Bartolomé",
+  "city": "Valencia",
+  "country": "Spain",
+  "placeId": "ChIJkfoSiMhIYA0RqiMVKLQmi0k",
+  "googleName": "Horno San Bartolomé",
+  "formattedAddress": "C. del Duque de Calabria, 14, bajo, L'Eixample, 46005 València, Valencia, Spain",
+  "phone": "963 74 97 22",
+  "internationalPhone": "+34 963 74 97 22",
+  "website": "https://hornosanbartolome.es/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5299371941739963306",
+  "rating": 4.6,
+  "reviewCount": 1012,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.462678,
+    -0.366335
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/horno-san-bartolome-valencia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:03.740Z"
+}

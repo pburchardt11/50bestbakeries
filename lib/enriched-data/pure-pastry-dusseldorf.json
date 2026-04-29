@@ -1,0 +1,44 @@
+{
+  "slug": "pure-pastry-dusseldorf",
+  "name": "Pure Pastry",
+  "curatedName": "Pure Pastry",
+  "city": "Düsseldorf",
+  "country": "Germany",
+  "placeId": "ChIJo9gMCirLuEcRSaIIycJu9aQ",
+  "googleName": "Pure Pastry",
+  "formattedAddress": "D2, Carlspl., 40213 Düsseldorf, Germany",
+  "phone": "01520 3317873",
+  "internationalPhone": "+49 1520 3317873",
+  "website": "https://pure-pastry.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11886528574389789257",
+  "rating": 4.4,
+  "reviewCount": 849,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.2234786,
+    6.7734475
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pure-pastry-dusseldorf/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:50.570Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "gold-banja-luka",
+  "name": "Gold",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJfTq_ExkDXkcRFh4WTUlu6AQ",
+  "googleName": "РС Голд RS Gold",
+  "formattedAddress": "Kralja Petra I Karađorđevića 87, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": "051 217-909",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=353653831853547030",
+  "rating": 3.4,
+  "reviewCount": 83,
+  "coords": [
+    44.7694857,
+    17.1881443
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gold-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:16:54.493Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "pastelerias-esperanza-pachuca-de-soto",
+  "name": "Pastelerias Esperanza",
+  "curatedName": "Pastelerias Esperanza",
+  "city": "Pachuca de Soto",
+  "country": "Mexico",
+  "placeId": "ChIJnWdtZh2h0YURlz4bKgWsYag",
+  "googleName": "Pastelerías Esperanza (Feria)",
+  "formattedAddress": "Av Nuevo Pachuca 500, Colonia Parque urbano, Pachoacan, 42060 Pachuca de Soto, Hgo., Mexico",
+  "phone": "55 6285 0400 ext. 9011",
+  "internationalPhone": "+52 55 6285 0400 ext. 9011",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12133168009294069399",
+  "rating": 4.3,
+  "reviewCount": 774,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.0641624,
+    -98.779601
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelerias-esperanza-pachuca-de-soto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:33.949Z"
+}

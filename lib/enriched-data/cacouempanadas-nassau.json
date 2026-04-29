@@ -1,0 +1,32 @@
+{
+  "slug": "cacouempanadas-nassau",
+  "name": "CacouEmpanadas",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJj2DlaT59L4kRkgrImscdkXc",
+  "googleName": "Ms. Patty Empanadas",
+  "formattedAddress": "Mackey St, Nassau, The Bahamas",
+  "phone": "(242) 557-2073",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8615700305268968082",
+  "rating": 5,
+  "reviewCount": 13,
+  "coords": [
+    25.0682904,
+    -77.3248073
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cacouempanadas-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:41:09.853Z"
+}

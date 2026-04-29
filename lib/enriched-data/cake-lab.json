@@ -1,0 +1,43 @@
+{
+  "slug": "cake-lab",
+  "name": "Cake Lab",
+  "curatedName": "Cake Lab",
+  "city": "София",
+  "country": "Bulgaria",
+  "placeId": "ChIJw3wQKcqFqkARxtqDK4LGCW4",
+  "googleName": "Cake Lab",
+  "formattedAddress": "Old City Center, ul. \"Karnigradska\" 14, 1000 Sofia, Bulgaria",
+  "phone": "088 943 2454",
+  "internationalPhone": "+359 88 943 2454",
+  "website": "http://cakelab-bg.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7929086881340578502",
+  "rating": 4.9,
+  "reviewCount": 306,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.6933549,
+    23.3194343
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-lab/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:58.336Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "entenmann-s-exton",
+  "name": "Entenmann's",
+  "curatedName": "Entenmann's",
+  "city": "Exton",
+  "country": "United States",
+  "placeId": "ChIJKxbUbWXzxokRbI0A478wiF8",
+  "googleName": "Entenmann's Bakery",
+  "formattedAddress": "121 W Lincoln Hwy, Exton, PA 19341, USA",
+  "phone": "(610) 280-3870",
+  "internationalPhone": "+1 610-280-3870",
+  "website": "http://www.entenmanns.com/op-outletLocator-results.cfm#.U-E3JHWx3UY",
+  "googleMapsUrl": "https://maps.google.com/?cid=6883805631141154156",
+  "rating": 4.4,
+  "reviewCount": 115,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    40.0290355,
+    -75.63195069999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/entenmann-s-exton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:42.256Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "macaron-patisserie-guzelyurt",
+  "name": "Macaron Patisserie",
+  "city": "Güzelyurt",
+  "country": "Cyprus",
+  "placeId": "ChIJ5cYZT6n-3RQRt8Dd4ILKZqE",
+  "googleName": "Penevet Bakery & Cafe",
+  "formattedAddress": "5XVW+35C, Ecevit Caddesi, Güzelyurt 99700",
+  "phone": "(0392) 714 33 22",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11630205751198073015",
+  "rating": 4.1,
+  "reviewCount": 148,
+  "coords": [
+    35.192681,
+    32.9953846
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/macaron-patisserie-guzelyurt/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:53:29.909Z"
+}

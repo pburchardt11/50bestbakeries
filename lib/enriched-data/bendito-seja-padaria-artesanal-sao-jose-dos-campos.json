@@ -1,0 +1,44 @@
+{
+  "slug": "bendito-seja-padaria-artesanal-sao-jose-dos-campos",
+  "name": "Bendito Seja - Padaria Artesanal",
+  "curatedName": "Bendito Seja - Padaria Artesanal",
+  "city": "São José dos Campos",
+  "country": "Brazil",
+  "placeId": "ChIJIxADWN5LzJQRIcvz4EyiwSg",
+  "googleName": "Bendito Seja® Padaria Artesanal",
+  "formattedAddress": "Rua Bacabal, 140 - térreo do Ed. Delta Center - Parque Industrial, São José dos Campos - SP, 12235-680, Brazil",
+  "phone": "(12) 98264-6780",
+  "internationalPhone": "+55 12 98264-6780",
+  "website": "http://www.benditosejapaes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2936806883097561889",
+  "rating": 4.7,
+  "reviewCount": 860,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.2276819,
+    -45.9016105
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bendito-seja-padaria-artesanal-sao-jose-dos-campos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:15.277Z"
+}

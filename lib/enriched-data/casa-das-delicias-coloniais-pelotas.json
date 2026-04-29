@@ -1,0 +1,43 @@
+{
+  "slug": "casa-das-delicias-coloniais-pelotas",
+  "name": "Casa das Delícias Coloniais",
+  "curatedName": "Casa das Delícias Coloniais",
+  "city": "Pelotas",
+  "country": "Brazil",
+  "placeId": "ChIJSeohEKtKEJURv3r340ae6H0",
+  "googleName": "Casa das Delícias Coloniais",
+  "formattedAddress": "R. Santa Clara, 965 - Tres Vendas, Pelotas - RS, 96065-420, Brazil",
+  "phone": "(53) 3273-1182",
+  "internationalPhone": "+55 53 3273-1182",
+  "website": "https://www.facebook.com/Casa-das-Delicias-Coloniais-1649924375255509/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9072675476647410367",
+  "rating": 4.8,
+  "reviewCount": 1669,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -31.721503,
+    -52.357924
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 12:00 PM, 1:30 – 7:00 PM",
+    "Wednesday: 7:30 AM – 12:00 PM, 1:30 – 7:00 PM",
+    "Thursday: 7:30 AM – 12:00 PM, 1:30 – 7:00 PM",
+    "Friday: 7:30 AM – 12:00 PM, 1:30 – 7:00 PM",
+    "Saturday: 7:30 AM – 12:00 PM, 1:30 – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-das-delicias-coloniais-pelotas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:41:13.874Z"
+}

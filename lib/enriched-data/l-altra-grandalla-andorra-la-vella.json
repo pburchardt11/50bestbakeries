@@ -1,0 +1,32 @@
+{
+  "slug": "l-altra-grandalla-andorra-la-vella",
+  "name": "L'Altra Grandalla",
+  "city": "Andorra la Vella",
+  "country": "Andorra",
+  "placeId": "ChIJay_po9CKpRIRv3gP20lWgcM",
+  "googleName": "PASTISSERIA CAFETERIA L´ALTRA GRANDALLA",
+  "formattedAddress": "Carrer de l'Aigüeta, 12, AD500 Andorra la Vella, Andorra",
+  "phone": "860 101",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14087635984599447743",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    42.50743,
+    1.530195
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-altra-grandalla-andorra-la-vella/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:16:56.281Z"
+}

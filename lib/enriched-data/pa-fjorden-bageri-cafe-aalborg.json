@@ -1,0 +1,32 @@
+{
+  "slug": "pa-fjorden-bageri-cafe-aalborg",
+  "name": "På Fjorden Bageri & Café",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJW6cU2fUzSUYRmKE9OZ5JaP0",
+  "googleName": "På Fjorden Bageri & Café",
+  "formattedAddress": "Akvavitvej 23, 9000 Aalborg, Denmark",
+  "phone": "40 75 70 10",
+  "website": "http://www.paafjorden.dk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18259925633087676824",
+  "rating": 4.6,
+  "reviewCount": 152,
+  "coords": [
+    57.0550396,
+    9.9087087
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:30 AM – 4:00 PM",
+    "Thursday: 8:30 AM – 4:00 PM",
+    "Friday: 8:30 AM – 4:00 PM",
+    "Saturday: 8:30 AM – 3:00 PM",
+    "Sunday: 8:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pa-fjorden-bageri-cafe-aalborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:05.064Z"
+}

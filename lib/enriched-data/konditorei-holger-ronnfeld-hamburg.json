@@ -1,0 +1,43 @@
+{
+  "slug": "konditorei-holger-ronnfeld-hamburg",
+  "name": "Konditorei Holger Rönnfeld",
+  "curatedName": "Konditorei Holger Rönnfeld",
+  "city": "Hamburg",
+  "country": "Germany",
+  "placeId": "ChIJP3Ax1W2PsUcR0URp5Spe03M",
+  "googleName": "Konditorei Holger Rönnfeld",
+  "formattedAddress": "Hein-Hoyer-Straße 52, 20359 Hamburg, Germany",
+  "phone": "040 313536",
+  "internationalPhone": "+49 40 313536",
+  "website": "http://www.hochzeitstorten-hamburg.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8346118072778179793",
+  "rating": 4.8,
+  "reviewCount": 206,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.5526075,
+    9.962985399999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:30 AM – 1:00 PM, 2:00 – 6:00 PM",
+    "Wednesday: 6:30 AM – 1:00 PM, 2:00 – 6:00 PM",
+    "Thursday: 6:30 AM – 1:00 PM, 2:00 – 6:00 PM",
+    "Friday: 6:30 AM – 1:00 PM, 2:00 – 6:00 PM",
+    "Saturday: 6:30 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditorei-holger-ronnfeld-hamburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:24.626Z"
+}

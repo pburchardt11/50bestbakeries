@@ -1,0 +1,43 @@
+{
+  "slug": "blume-cake-studio-quan-tan-phu",
+  "name": "Blume Cake Studio",
+  "curatedName": "Blume Cake Studio",
+  "city": "Quận Tân Phú",
+  "country": "Vietnam",
+  "placeId": "ChIJjyynwhzRdDERcY8X2CpbPvU",
+  "googleName": "Blume Cake Studio",
+  "formattedAddress": "06 Đ. 30 Tháng 4, Phú Hoà, Phú Lợi, Hồ Chí Minh 72000, Vietnam",
+  "phone": "0902 409 922",
+  "internationalPhone": "+84 902 409 922",
+  "website": "https://www.facebook.com/blumecakestudio",
+  "googleMapsUrl": "https://maps.google.com/?cid=17671662227420581745",
+  "rating": 4.5,
+  "reviewCount": 93,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.9810909,
+    106.6719257
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blume-cake-studio-quan-tan-phu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:46.533Z"
+}

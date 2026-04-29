@@ -1,0 +1,42 @@
+{
+  "slug": "la-postreria-acapulco-de-juarez",
+  "name": "La Postreria",
+  "curatedName": "La Postreria",
+  "city": "Acapulco de Juárez",
+  "country": "Mexico",
+  "placeId": "ChIJQ9YBu95ZyoURIWXS29QUKRY",
+  "googleName": "Mi Postreria",
+  "formattedAddress": "Av Costera Miguel Alemán 125, Fracc Magallanes, Magallanes, 39670 Acapulco de Juárez, Gro., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1596830447333172513",
+  "rating": 4.4,
+  "reviewCount": 555,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    16.8610294,
+    -99.876373
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-postreria-acapulco-de-juarez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:46.398Z"
+}

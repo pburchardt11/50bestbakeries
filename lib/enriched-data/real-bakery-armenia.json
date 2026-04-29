@@ -1,0 +1,32 @@
+{
+  "slug": "real-bakery-armenia",
+  "name": "Real Bakery Armenia",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJ-6JrYqW9akARaVXXUgTbbU4",
+  "googleName": "Real Bakery",
+  "formattedAddress": "Hrachya Kochar St, Yerevan, Armenia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5651413919036036457",
+  "rating": 4.3,
+  "reviewCount": 6,
+  "coords": [
+    40.2007661,
+    44.4994218
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/real-bakery-armenia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:27:18.712Z"
+}

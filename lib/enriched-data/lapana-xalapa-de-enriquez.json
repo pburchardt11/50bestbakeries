@@ -1,0 +1,43 @@
+{
+  "slug": "lapana-xalapa-de-enriquez",
+  "name": "Lapana",
+  "curatedName": "Lapana",
+  "city": "Xalapa de Enríquez",
+  "country": "Mexico",
+  "placeId": "ChIJwS1T1QAy24URPpVbDRnPBbY",
+  "googleName": "Lapana",
+  "formattedAddress": "C. Bremont 32, Zona Centro, Centro, 91000 Xalapa-Enríquez, Ver., Mexico",
+  "phone": "228 818 5964",
+  "internationalPhone": "+52 228 818 5964",
+  "website": "https://www.facebook.com/lapanaboulangeriexalapa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13116117196291675454",
+  "rating": 4.7,
+  "reviewCount": 557,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.525706,
+    -96.9181653
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lapana-xalapa-de-enriquez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:55.621Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "breadworks-bakery-pittsburgh",
+  "name": "BreadWorks Bakery",
+  "curatedName": "BreadWorks Bakery",
+  "city": "Pittsburgh",
+  "country": "United States",
+  "placeId": "ChIJWxZ07g30NIgRuoxlHUGtDh0",
+  "googleName": "BreadWorks Bakery",
+  "formattedAddress": "2110 Brighton Rd, Pittsburgh, PA 15212, USA",
+  "phone": "(412) 231-7555",
+  "internationalPhone": "+1 412-231-7555",
+  "website": "http://www.breadworkspgh.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2093801371951533242",
+  "rating": 4.8,
+  "reviewCount": 744,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.4622104,
+    -80.019033
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadworks-bakery-pittsburgh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:15:03.057Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "soulcup-cafe",
+  "name": "soulcup.cafe",
+  "city": "បាត់ដំបង",
+  "country": "Cambodia",
+  "placeId": "ChIJ62vl36RJBTERRdPFqURWQLQ",
+  "googleName": "soulcup.cafe",
+  "formattedAddress": "293 Rd No 2.5, Krong Battambang 021410, Cambodia",
+  "phone": "076 555 5894",
+  "website": "https://www.facebook.com/share/15D5SnXo1m/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12988476178242589509",
+  "rating": 4.7,
+  "reviewCount": 31,
+  "coords": [
+    13.1014867,
+    103.198108
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 7:30 PM",
+    "Sunday: 7:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/soulcup-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:33:09.294Z"
+}

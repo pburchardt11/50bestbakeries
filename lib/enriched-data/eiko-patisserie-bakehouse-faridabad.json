@@ -1,0 +1,43 @@
+{
+  "slug": "eiko-patisserie-bakehouse-faridabad",
+  "name": "Eiko Patisserie & Bakehouse",
+  "curatedName": "Eiko Patisserie & Bakehouse",
+  "city": "Faridabad",
+  "country": "India",
+  "placeId": "ChIJOYpACWHdDDkR83ce6fN6dEk",
+  "googleName": "Eiko Patisserie & Bakehouse",
+  "formattedAddress": "Ground Floor, huda market, SCF-11, Sector 14, Faridabad, Haryana 121007, India",
+  "phone": "096432 80404",
+  "internationalPhone": "+91 96432 80404",
+  "website": "https://eikopatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5292990650073905139",
+  "rating": 4.6,
+  "reviewCount": 103,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.3941617,
+    77.3309455
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:45 PM",
+    "Tuesday: 10:00 AM – 10:45 PM",
+    "Wednesday: 10:00 AM – 10:45 PM",
+    "Thursday: 10:00 AM – 10:45 PM",
+    "Friday: 10:00 AM – 10:45 PM",
+    "Saturday: 10:00 AM – 10:45 PM",
+    "Sunday: 10:00 AM – 10:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eiko-patisserie-bakehouse-faridabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:23.517Z"
+}

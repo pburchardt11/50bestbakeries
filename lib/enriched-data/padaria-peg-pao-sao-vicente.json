@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-peg-pao-sao-vicente",
+  "name": "Padaria Peg Pão - São Vicente",
+  "curatedName": "Padaria Peg Pão - São Vicente",
+  "city": "São Vicente",
+  "country": "Brazil",
+  "placeId": "ChIJS5QENQAdzpQRRQBWB3v7OuI",
+  "googleName": "Padaria Peg Pão - São Vicente",
+  "formattedAddress": "R. Frei Gaspar, 128 - Centro, São Vicente - SP, 11310-060, Brazil",
+  "phone": "(13) 99652-5124",
+  "internationalPhone": "+55 13 99652-5124",
+  "website": "https://padariapegpao.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16301618307043557445",
+  "rating": 4.4,
+  "reviewCount": 1613,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.9681854,
+    -46.3809727
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:45 PM",
+    "Tuesday: 6:00 AM – 11:45 PM",
+    "Wednesday: 6:00 AM – 11:45 PM",
+    "Thursday: 6:00 AM – 11:45 PM",
+    "Friday: 6:00 AM – 11:45 PM",
+    "Saturday: 6:00 AM – 11:45 PM",
+    "Sunday: 6:00 AM – 11:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-peg-pao-sao-vicente/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:23:59.739Z"
+}

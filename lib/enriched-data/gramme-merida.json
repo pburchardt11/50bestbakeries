@@ -1,0 +1,43 @@
+{
+  "slug": "gramme-merida",
+  "name": "Gramme",
+  "curatedName": "Gramme",
+  "city": "Mérida",
+  "country": "Mexico",
+  "placeId": "ChIJeQ25kpVxVo8R0pElibW0DxM",
+  "googleName": "Gramme",
+  "formattedAddress": "Avenida Reforma, Av. Colón 363E, García Ginerés, 97070 Mérida, Yuc., Mexico",
+  "phone": "999 920 7578",
+  "internationalPhone": "+52 999 920 7578",
+  "website": "https://www.facebook.com/grammemid",
+  "googleMapsUrl": "https://maps.google.com/?cid=1373515103154311634",
+  "rating": 4.9,
+  "reviewCount": 73,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.9872488,
+    -89.62433659999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gramme-merida/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:35.166Z"
+}

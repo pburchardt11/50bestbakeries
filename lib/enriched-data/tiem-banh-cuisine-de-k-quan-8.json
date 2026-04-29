@@ -1,0 +1,43 @@
+{
+  "slug": "tiem-banh-cuisine-de-k-quan-8",
+  "name": "Tiệm Bánh Cuisine De K",
+  "curatedName": "Tiệm Bánh Cuisine De K",
+  "city": "Quận 8",
+  "country": "Vietnam",
+  "placeId": "ChIJsy8G35TRdDER1CPCJrZ7xd0",
+  "googleName": "Tiệm Bánh Cuisine De K",
+  "formattedAddress": "55/2 Trương Định, Hiệp Thành, Phú Lợi, Hồ Chí Minh 75000, Vietnam",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15980314875058594772",
+  "rating": 4.9,
+  "reviewCount": 43,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.9949779,
+    106.6617134
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiem-banh-cuisine-de-k-quan-8/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:20:04.450Z"
+}

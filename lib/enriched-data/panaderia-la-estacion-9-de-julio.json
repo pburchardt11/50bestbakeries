@@ -1,0 +1,30 @@
+{
+  "slug": "panaderia-la-estacion-9-de-julio",
+  "name": "Panadería La Estación",
+  "city": "9 de Julio",
+  "country": "Argentina",
+  "placeId": "ChIJPQffizQNv5URxWyNRVMy7YA",
+  "googleName": "PANADERIA LA ESTACIÓN",
+  "formattedAddress": "Fournier 1274, B6500 9 de Julio, Provincia de Buenos Aires, Argentina",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9290136939565771973",
+  "rating": 4.6,
+  "reviewCount": 14,
+  "coords": [
+    -35.455895,
+    -60.87682149999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T06:21:16.347Z"
+}

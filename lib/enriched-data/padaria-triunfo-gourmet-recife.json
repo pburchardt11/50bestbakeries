@@ -1,0 +1,45 @@
+{
+  "slug": "padaria-triunfo-gourmet-recife",
+  "name": "Padaria Triunfo Gourmet",
+  "curatedName": "Padaria Triunfo Gourmet",
+  "city": "Recife",
+  "country": "Brazil",
+  "placeId": "ChIJbZf9psQYqwcRfSJCbesnq5w",
+  "googleName": "Padaria Triunfo Gourmet",
+  "formattedAddress": "Av. Lins Petit, 101/107 - Boa Vista, Recife - PE, 50070-235, Brazil",
+  "phone": "(81) 99900-9267",
+  "internationalPhone": "+55 81 99900-9267",
+  "website": "https://www.instagram.com/padariatriunfo.gourmet/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11289160783038128765",
+  "rating": 4.5,
+  "reviewCount": 3852,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -8.0602361,
+    -34.8944994
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-triunfo-gourmet-recife/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:09.894Z"
+}

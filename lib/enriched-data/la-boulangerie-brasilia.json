@@ -1,0 +1,44 @@
+{
+  "slug": "la-boulangerie-brasilia",
+  "name": "La Boulangerie",
+  "curatedName": "La Boulangerie",
+  "city": "Brasília",
+  "country": "Brazil",
+  "placeId": "ChIJn-GIFcY6WpMRWgo2PlrSe_M",
+  "googleName": "La Boulangerie",
+  "formattedAddress": "SHCS CL Sul 306 BL A Loja 02 - Asa Sul, Brasília - DF, 70353-510, Brazil",
+  "phone": "(61) 99363-6800",
+  "internationalPhone": "+55 61 99363-6800",
+  "website": "http://www.laboulangerie.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17544848058384517722",
+  "rating": 4.3,
+  "reviewCount": 2075,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -15.8122799,
+    -47.9009834
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "An elegant bakery & café serving assorted gourmet sandwiches, cakes, desserts & snacks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boulangerie-brasilia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:42.671Z"
+}

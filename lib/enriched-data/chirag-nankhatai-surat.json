@@ -1,0 +1,43 @@
+{
+  "slug": "chirag-nankhatai-surat",
+  "name": "Chirag Nankhatai",
+  "curatedName": "Chirag Nankhatai",
+  "city": "Surat",
+  "country": "India",
+  "placeId": "ChIJ7ZCBuPVO4DsRcnP-Oi_ictk",
+  "googleName": "Chirag Nankhatai",
+  "formattedAddress": "Taratiya Hanuman sheri, Hira Bazar, Mahidharpura, Haripura, Surat, Gujarat 395003, India",
+  "phone": "070691 71714",
+  "internationalPhone": "+91 70691 71714",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15668834746056471410",
+  "rating": 4.9,
+  "reviewCount": 2117,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.2019111,
+    72.832377
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 6:00 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chirag-nankhatai-surat/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:08.408Z"
+}

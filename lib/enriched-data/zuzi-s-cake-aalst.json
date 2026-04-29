@@ -1,0 +1,32 @@
+{
+  "slug": "zuzi-s-cake-aalst",
+  "name": "Zuzi's Cake",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJL3ZF0ce9w0cRw2fp-grO49M",
+  "googleName": "Zuzi's cake",
+  "formattedAddress": "Kromme Elleboogstraat 8, 9320 Aalst, Belgium",
+  "phone": "0494 40 22 73",
+  "website": "https://www.facebook.com/Zuzis-Cake-215424365502114",
+  "googleMapsUrl": "https://maps.google.com/?cid=15268273708270708675",
+  "rating": 5,
+  "reviewCount": 23,
+  "coords": [
+    50.91831819999999,
+    4.0675555
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 3:00 – 6:00 PM",
+    "Thursday: 2:00 – 6:00 PM",
+    "Friday: 10:30 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zuzi-s-cake-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:03:56.602Z"
+}

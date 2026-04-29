@@ -1,0 +1,32 @@
+{
+  "slug": "naab-cakes-kabul",
+  "name": "Naab Cakes",
+  "city": "Kabul",
+  "country": "Afghanistan",
+  "placeId": "ChIJ3b8xMQBt0TgRp2M6Dvbn7qk",
+  "googleName": "kake saraee naab",
+  "formattedAddress": "Super Market, Kabol 100923, Afghanistan",
+  "phone": "078 928 5285",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12244979480853636007",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    34.53823089999999,
+    69.1997943
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/naab-cakes-kabul/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:12:49.125Z"
+}

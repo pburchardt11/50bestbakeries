@@ -1,0 +1,32 @@
+{
+  "slug": "cafe-de-paris-exuma",
+  "name": "Cafe De Paris",
+  "city": "Exuma",
+  "country": "Bahamas",
+  "placeId": "ChIJHdZOIWPCzRIRvKUx17jmV0o",
+  "googleName": "Place du Casino",
+  "formattedAddress": "Pl. du Casino, 98000 Monaco",
+  "phone": "98 06 76 23",
+  "website": "https://www.montecarlosbm.com/fr/restaurant-monaco/le-cafe-de-paris",
+  "googleMapsUrl": "https://maps.google.com/?cid=5357003963339220412",
+  "rating": 4.1,
+  "reviewCount": 4105,
+  "coords": [
+    43.7396369,
+    7.4278619
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 1:00 AM",
+    "Tuesday: 8:00 AM – 1:00 AM",
+    "Wednesday: 8:00 AM – 1:00 AM",
+    "Thursday: 8:00 AM – 1:00 AM",
+    "Friday: 8:00 AM – 1:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": "Traditional fare served in an elegant brasserie that has art nouveau-style decor & a roomy terrace.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-de-paris-exuma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:39:47.342Z"
+}

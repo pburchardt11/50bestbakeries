@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-beni-saf",
+  "name": "Boulangerie",
+  "city": "Beni Saf ⴱⴻⵏⵉ ⵚⴰⴼ بني صاف",
+  "country": "Algeria",
+  "placeId": "ChIJOf-FoN0leQ0R88lN900_aXQ",
+  "googleName": "Le Triangle des saveurs",
+  "formattedAddress": "Rue De Révolution, Béni Saf, Algeria",
+  "phone": "0541 11 14 77",
+  "website": "https://m.facebook.com/TriangleBenisaf",
+  "googleMapsUrl": "https://maps.google.com/?cid=8388305385048361459",
+  "rating": 4,
+  "reviewCount": 41,
+  "coords": [
+    35.3036794,
+    -1.3831311
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-beni-saf/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:15:59.219Z"
+}

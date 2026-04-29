@@ -1,0 +1,43 @@
+{
+  "slug": "the-bami-lab-thanh-hoa",
+  "name": "The Bami Lab",
+  "curatedName": "The Bami Lab",
+  "city": "Thanh Hóa",
+  "country": "Vietnam",
+  "placeId": "ChIJjYFt0xP5NjER4a0tCzLLLlw",
+  "googleName": "The Bami Lab",
+  "formattedAddress": "779 Thôi Hữu, Hạc Thành, Thanh Hóa 440000, Vietnam",
+  "phone": "0946 658 186",
+  "internationalPhone": "+84 946 658 186",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6642469916214406625",
+  "rating": 4.8,
+  "reviewCount": 38,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.7979703,
+    105.7850118
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bami-lab-thanh-hoa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:59.128Z"
+}

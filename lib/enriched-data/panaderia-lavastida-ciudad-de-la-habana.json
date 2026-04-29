@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-lavastida-ciudad-de-la-habana",
+  "name": "Panadería Lavastida",
+  "city": "Ciudad de la Habana",
+  "country": "Cuba",
+  "placeId": "ChIJV70nKQB3zYgRDpsFrDcPsE8",
+  "googleName": "Lavastida (Micropanadería Artesanal)",
+  "formattedAddress": "4H68+JGW, Havana, Cuba",
+  "phone": "(07) 2023770",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5742106256681048846",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    23.1116245,
+    -82.433655
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-lavastida-ciudad-de-la-habana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:50:51.923Z"
+}

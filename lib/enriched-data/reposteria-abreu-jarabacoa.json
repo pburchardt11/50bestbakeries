@@ -1,0 +1,32 @@
+{
+  "slug": "reposteria-abreu-jarabacoa",
+  "name": "Repostería Abreu",
+  "city": "Jarabacoa",
+  "country": "Dominican Republic",
+  "placeId": "ChIJ24ON1DkwsI4RkS3z5p9hqxA",
+  "googleName": "Repostería Abreu",
+  "formattedAddress": "C. Mario Nelson Galan, Jarabacoa 41000, Dominican Republic",
+  "phone": "(809) 574-2306",
+  "website": "https://reposteriaabreu.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1201161065026760081",
+  "rating": 4.4,
+  "reviewCount": 293,
+  "coords": [
+    19.1200589,
+    -70.6424305
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:45 PM",
+    "Tuesday: 8:00 AM – 7:45 PM",
+    "Wednesday: 8:00 AM – 7:45 PM",
+    "Thursday: 8:00 AM – 7:45 PM",
+    "Friday: 8:00 AM – 7:45 PM",
+    "Saturday: 8:00 AM – 7:45 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/reposteria-abreu-jarabacoa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:37.544Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "landbackerei-ihle-altomunster",
+  "name": "Landbäckerei IHLE",
+  "curatedName": "Landbäckerei IHLE",
+  "city": "Altomünster",
+  "country": "Germany",
+  "placeId": "ChIJzcM1C3GGnkcR3Sb09qxPazI",
+  "googleName": "Bäckerei Ihle",
+  "formattedAddress": "Rudolf-Diesel-Straße 1, 85235 Odelzhausen, Germany",
+  "phone": "08134 9356040",
+  "internationalPhone": "+49 8134 9356040",
+  "website": "https://www.ihle.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3633085128700602077",
+  "rating": 4.3,
+  "reviewCount": 671,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.3067504,
+    11.2052958
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/landbackerei-ihle-altomunster/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:21:00.028Z"
+}

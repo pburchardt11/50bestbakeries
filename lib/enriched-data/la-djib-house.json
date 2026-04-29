@@ -1,0 +1,32 @@
+{
+  "slug": "la-djib-house",
+  "name": "La Djib'House",
+  "city": "جيبوتي",
+  "country": "Djibouti",
+  "placeId": "ChIJDVMt5J8HIxYRbl28U3GETG8",
+  "googleName": "DjibHouse",
+  "formattedAddress": "Unnamed Road, H48J+7XF, Djibouti",
+  "phone": "77 43 91 20",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8019930658711035246",
+  "rating": 4.3,
+  "reviewCount": 16,
+  "coords": [
+    11.5656754,
+    43.1324222
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 PM, 4:00 – 7:30 PM",
+    "Tuesday: 6:00 AM – 12:00 PM, 4:00 – 7:30 PM",
+    "Wednesday: 6:00 AM – 12:00 PM, 4:00 – 7:30 PM",
+    "Thursday: 6:00 AM – 12:00 PM, 4:00 – 7:30 PM",
+    "Friday: 6:00 AM – 12:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM, 4:00 – 7:30 PM",
+    "Sunday: 6:00 AM – 12:00 PM, 4:00 – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-djib-house/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:52.473Z"
+}

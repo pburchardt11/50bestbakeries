@@ -1,0 +1,32 @@
+{
+  "slug": "crumbz-bakery-bridgetown",
+  "name": "Crumbz Bakery",
+  "city": "Bridgetown",
+  "country": "Barbados",
+  "placeId": "ChIJ2a042ez2Q4wR3meXbpQcVBA",
+  "googleName": "Crumbz Bakery - Wildey Industrial Estate",
+  "formattedAddress": "Bridgetown, Saint Michael Barbados",
+  "phone": "(246) 537-5980",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1176596826486695902",
+  "rating": 4.2,
+  "reviewCount": 169,
+  "coords": [
+    13.0937323,
+    -59.5876899
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 5:30 PM",
+    "Tuesday: 6:30 AM – 5:30 PM",
+    "Wednesday: 6:30 AM – 5:30 PM",
+    "Thursday: 6:30 AM – 5:30 PM",
+    "Friday: 6:30 AM – 5:30 PM",
+    "Saturday: 6:30 AM – 5:30 PM",
+    "Sunday: 6:30 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crumbz-bakery-bridgetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:56:19.678Z"
+}

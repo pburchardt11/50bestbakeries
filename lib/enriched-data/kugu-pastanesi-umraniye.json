@@ -1,0 +1,44 @@
+{
+  "slug": "kugu-pastanesi-umraniye",
+  "name": "Kuğu Pastanesi",
+  "curatedName": "Kuğu Pastanesi",
+  "city": "Ümraniye",
+  "country": "Türkiye",
+  "placeId": "ChIJ4_fvJE3PyhQR2ysubOgaaVY",
+  "googleName": "Kuğu Pastanesi",
+  "formattedAddress": "Şerifali, Kızkalesi Sokak & Çetin Caddesi Elit Plaza D:1, B Blok, 34775 Dudullu Osb/Ümraniye/Ümraniye/İstanbul, Türkiye",
+  "phone": "(0216) 540 74 05",
+  "internationalPhone": "+90 216 540 74 05",
+  "website": "http://www.kugupastaneleri.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6226537545366121435",
+  "rating": 4.2,
+  "reviewCount": 4534,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.9980983,
+    29.1400641
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kugu-pastanesi-umraniye/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:01:31.101Z"
+}

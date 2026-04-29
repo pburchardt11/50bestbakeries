@@ -1,0 +1,32 @@
+{
+  "slug": "kriul-elbasan",
+  "name": "Kriul",
+  "city": "Elbasan",
+  "country": "Albania",
+  "placeId": "ChIJ79kkfNdDUBMRq94m8DH7IsY",
+  "googleName": "KRIUL",
+  "formattedAddress": "Rruga Qemal Stafa 1993, Elbasan, Albania",
+  "phone": "069 682 6693",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14277249960618942123",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    41.1089159,
+    20.0742759
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kriul-elbasan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:13:57.775Z"
+}

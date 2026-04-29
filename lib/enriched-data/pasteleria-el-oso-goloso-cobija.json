@@ -1,0 +1,32 @@
+{
+  "slug": "pasteleria-el-oso-goloso-cobija",
+  "name": "Pastelería El Oso Goloso",
+  "city": "Cobija",
+  "country": "Bolivia",
+  "placeId": "ChIJlXSlAimxfpERQ91SNI_NwwM",
+  "googleName": "Pastelería El Oso Goloso",
+  "formattedAddress": "frente canchas de Fronto Parque Piñatas, 69932-000, Av. 27 de Mayo 000, Cobija, Bolivia",
+  "phone": "72929190",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=271286417514224963",
+  "rating": 4,
+  "reviewCount": 27,
+  "coords": [
+    -11.0289108,
+    -68.7633548
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 3:00 – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-el-oso-goloso-cobija/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:12:49.717Z"
+}

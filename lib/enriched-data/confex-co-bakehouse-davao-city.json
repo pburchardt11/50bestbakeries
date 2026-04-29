@@ -1,0 +1,44 @@
+{
+  "slug": "confex-co-bakehouse-davao-city",
+  "name": "Confex & Co. Bakehouse",
+  "curatedName": "Confex & Co. Bakehouse",
+  "city": "Davao City",
+  "country": "Philippines",
+  "placeId": "ChIJ0TWfY51t-TIRTQpOmaTuwpQ",
+  "googleName": "Confex & Co. Bakehouse",
+  "formattedAddress": "The Site Compound, Jacinto Extension, corner V. Mapa St, Poblacion District, Davao City, Davao del Sur, Philippines",
+  "phone": "0956 128 3397",
+  "internationalPhone": "+63 956 128 3397",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10719392453809277517",
+  "rating": 4.6,
+  "reviewCount": 135,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    7.078091000000001,
+    125.6092782
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 11:00 PM",
+    "Tuesday: 12:00 – 11:00 PM",
+    "Wednesday: 12:00 – 11:00 PM",
+    "Thursday: 12:00 – 11:00 PM",
+    "Friday: 12:00 – 11:00 PM",
+    "Saturday: 12:00 – 11:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confex-co-bakehouse-davao-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:41.447Z"
+}

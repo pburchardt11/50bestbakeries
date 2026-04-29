@@ -1,0 +1,32 @@
+{
+  "slug": "palmeras-rieder-algarrobo",
+  "name": "Palmeras Rieder",
+  "city": "Algarrobo",
+  "country": "Chile",
+  "placeId": "ChIJLTsEsNgTYpYRTSrkGdkh5Lk",
+  "googleName": "Palmeras Rieder",
+  "formattedAddress": "Av. Carlos Alessandri 1967, Algarrobo, Valparaíso, Chile",
+  "phone": "(35) 248 1160",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13394868408032701005",
+  "rating": 4.3,
+  "reviewCount": 44,
+  "coords": [
+    -33.3612596,
+    -71.6665908
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/palmeras-rieder-algarrobo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:43:04.773Z"
+}

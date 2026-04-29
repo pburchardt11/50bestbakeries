@@ -1,0 +1,43 @@
+{
+  "slug": "dulzzo-pasteleria-azcapotzalco",
+  "name": "Dulzzo Pastelería",
+  "curatedName": "Dulzzo Pastelería",
+  "city": "Azcapotzalco",
+  "country": "Mexico",
+  "placeId": "ChIJQeJyjdn50YUREolnvtcgWyM",
+  "googleName": "Dulzzo Pastelería",
+  "formattedAddress": "Calle Clavelinas 192C, Nueva Santa María, Azcapotzalco, 02800 Ciudad de México, CDMX, Mexico",
+  "phone": "55 2852 7112",
+  "internationalPhone": "+52 55 2852 7112",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2547666125192661266",
+  "rating": 4.9,
+  "reviewCount": 363,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4650874,
+    -99.1687091
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 12:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dulzzo-pasteleria-azcapotzalco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:03.639Z"
+}

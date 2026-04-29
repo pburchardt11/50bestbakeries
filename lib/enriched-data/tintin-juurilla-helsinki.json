@@ -1,0 +1,45 @@
+{
+  "slug": "tintin-juurilla-helsinki",
+  "name": "Tintin Juurilla",
+  "curatedName": "Tintin Juurilla",
+  "city": "Helsinki",
+  "country": "Finland",
+  "placeId": "ChIJTVUUDM4LkkYRaW4YbeMd7tc",
+  "googleName": "Tintin Juurilla",
+  "formattedAddress": "Lönnrotinkatu 33 35, 00180 Helsinki, Finland",
+  "phone": "044 7588880",
+  "internationalPhone": "+358 44 7588880",
+  "website": "https://www.tintinbakerycafe.fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15559406625236741737",
+  "rating": 4.8,
+  "reviewCount": 288,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    60.1636348,
+    24.9303547
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tintin-juurilla-helsinki/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:56.261Z"
+}

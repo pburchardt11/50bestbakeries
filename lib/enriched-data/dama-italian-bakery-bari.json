@@ -1,0 +1,43 @@
+{
+  "slug": "dama-italian-bakery-bari",
+  "name": "Dama Italian Bakery",
+  "curatedName": "Dama Italian Bakery",
+  "city": "Bari",
+  "country": "Italy",
+  "placeId": "ChIJwau2odHpRxMRtGv4j4VXYrs",
+  "googleName": "Dama Italian Bakery",
+  "formattedAddress": "Via Melo da Bari, 181, 70121 Bari BA, Italy",
+  "phone": "080 693 1208",
+  "internationalPhone": "+39 080 693 1208",
+  "website": "https://damaitalianbakery.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13502450863967857588",
+  "rating": 4.8,
+  "reviewCount": 743,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1206643,
+    16.871525
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:30 PM",
+    "Sunday: 7:30 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dama-italian-bakery-bari/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:06.500Z"
+}

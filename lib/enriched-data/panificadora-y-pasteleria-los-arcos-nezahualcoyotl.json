@@ -1,0 +1,43 @@
+{
+  "slug": "panificadora-y-pasteleria-los-arcos-nezahualcoyotl",
+  "name": "Panificadora y Pastelería Los Arcos",
+  "curatedName": "Panificadora y Pastelería Los Arcos",
+  "city": "Nezahualcóyotl",
+  "country": "Mexico",
+  "placeId": "ChIJ97IkZdni0YURhTkIISUecV4",
+  "googleName": "Panificadora y Pastelería Los Arcos",
+  "formattedAddress": "Cda. Ciclamores 86, La Perla, 57820 Cdad. Nezahualcóyotl, Méx., Mexico",
+  "phone": "55 5742 6117",
+  "internationalPhone": "+52 55 5742 6117",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6805253656750340485",
+  "rating": 4.5,
+  "reviewCount": 1891,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.3877454,
+    -98.9982825
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-y-pasteleria-los-arcos-nezahualcoyotl/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:16.437Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "restaurante-e-pastelaria-filomena-teixeira-luanda",
+  "name": "Restaurante e Pastelaria Filomena Teixeira",
+  "city": "Luanda",
+  "country": "Angola",
+  "placeId": "ChIJh7ZhVlbxURoRrdNFxThtb_w",
+  "googleName": "RESTAURANTE FILOMENA TEIXEIRA",
+  "formattedAddress": "Mulenvos, Angola",
+  "phone": "937 510 000",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18189877510568006573",
+  "rating": 3.6,
+  "reviewCount": 11,
+  "coords": [
+    -8.8468047,
+    13.3326813
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/restaurante-e-pastelaria-filomena-teixeira-luanda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:17:35.005Z"
+}

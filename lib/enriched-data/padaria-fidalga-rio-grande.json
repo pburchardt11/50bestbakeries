@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-fidalga-rio-grande",
+  "name": "Padaria Fidalga",
+  "curatedName": "Padaria Fidalga",
+  "city": "Rio Grande",
+  "country": "Brazil",
+  "placeId": "ChIJPeNeJQ-cEZURgiJI_6k-0nE",
+  "googleName": "Padaria Fidalga",
+  "formattedAddress": "98011-6887_____ - R. Vinte e Quatro de Maio, 371 - Centro, Rio Grande - RS, 96200-001, Brazil",
+  "phone": "(53) 3232-4696",
+  "internationalPhone": "+55 53 3232-4696",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8201686771248407170",
+  "rating": 4.5,
+  "reviewCount": 890,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -32.0353722,
+    -52.1002192
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-fidalga-rio-grande/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:20:21.208Z"
+}

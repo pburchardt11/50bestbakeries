@@ -1,0 +1,43 @@
+{
+  "slug": "beyond-loaf-chennai",
+  "name": "Beyond Loaf",
+  "curatedName": "Beyond Loaf",
+  "city": "Chennai",
+  "country": "India",
+  "placeId": "ChIJfwY26GZnUjoRjJ5KrkNOx-E",
+  "googleName": "Beyond Loaf",
+  "formattedAddress": "Old no.9 New no.11 Vivekananda Road, Landmark:, opp. Patialia House, M.S. Nagar, Chetpet, Chennai, Tamil Nadu 600031, India",
+  "phone": "063803 24519",
+  "internationalPhone": "+91 63803 24519",
+  "website": "https://linktr.ee/beyondloaf",
+  "googleMapsUrl": "https://maps.google.com/?cid=16269058231493107340",
+  "rating": 4.6,
+  "reviewCount": 186,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.0721536,
+    80.24932439999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beyond-loaf-chennai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:01.335Z"
+}

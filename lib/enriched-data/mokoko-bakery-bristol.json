@@ -1,0 +1,43 @@
+{
+  "slug": "mokoko-bakery-bristol",
+  "name": "Mokoko Bakery",
+  "curatedName": "Mokoko Bakery",
+  "city": "Bristol",
+  "country": "United Kingdom",
+  "placeId": "ChIJ0QQ2XwmPcUgRp35PFQdVbk4",
+  "googleName": "Mokoko Bakery",
+  "formattedAddress": "New Kingsley Rd, Bristol BS2 0GJ, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.mokokocoffee.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5651548071307214503",
+  "rating": 4.6,
+  "reviewCount": 430,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.4526666,
+    -2.5806735
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mokoko-bakery-bristol/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:06:42.836Z"
+}

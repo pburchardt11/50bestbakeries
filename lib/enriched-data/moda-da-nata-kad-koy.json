@@ -1,0 +1,44 @@
+{
+  "slug": "moda-da-nata-kad-koy",
+  "name": "Moda da Nata",
+  "curatedName": "Moda da Nata",
+  "city": "Kadıköy",
+  "country": "Türkiye",
+  "placeId": "ChIJo_dZAba5yhQRKMawm6H-aYY",
+  "googleName": "Moda da Nata",
+  "formattedAddress": "Caferağa, Dr. İhsan Ünlüer Sk. no:14/A, 34710 Kadıköy/İstanbul, Türkiye",
+  "phone": "(0216) 330 89 78",
+  "internationalPhone": "+90 216 330 89 78",
+  "website": "http://www.instagram.com/modadanata",
+  "googleMapsUrl": "https://maps.google.com/?cid=9685552443692205608",
+  "rating": 4.6,
+  "reviewCount": 3446,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.9859318,
+    29.0273263
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 10:00 PM",
+    "Tuesday: 11:00 AM – 10:00 PM",
+    "Wednesday: 11:00 AM – 10:00 PM",
+    "Thursday: 11:00 AM – 10:00 PM",
+    "Friday: 11:00 AM – 10:30 PM",
+    "Saturday: 11:00 AM – 10:30 PM",
+    "Sunday: 11:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moda-da-nata-kad-koy/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:35.312Z"
+}

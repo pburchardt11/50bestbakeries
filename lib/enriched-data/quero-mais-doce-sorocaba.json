@@ -1,0 +1,43 @@
+{
+  "slug": "quero-mais-doce-sorocaba",
+  "name": "Quero Mais Doce",
+  "curatedName": "Quero Mais Doce",
+  "city": "Sorocaba",
+  "country": "Brazil",
+  "placeId": "ChIJEQyKt1z1xZQRNyHDg1MACKM",
+  "googleName": "Quero Mais Doce",
+  "formattedAddress": "R. Alzira Camilo, 245 - Jardim Sao Guilherme, Sorocaba - SP, 18074-622, Brazil",
+  "phone": "(15) 99777-9091",
+  "internationalPhone": "+55 15 99777-9091",
+  "website": "https://www.instagram.com/quero_mais_doce/?igshid=MzRlODBiNWFlZA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=11747639986688827703",
+  "rating": 4.9,
+  "reviewCount": 1631,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.4525168,
+    -47.4896624
+  ],
+  "openingHours": [
+    "Monday: 12:30 – 6:00 PM",
+    "Tuesday: 12:30 – 6:00 PM",
+    "Wednesday: 12:30 – 6:00 PM",
+    "Thursday: 12:30 – 6:00 PM",
+    "Friday: 12:30 – 6:00 PM",
+    "Saturday: 12:30 – 5:00 PM",
+    "Sunday: 12:30 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/quero-mais-doce-sorocaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:41:24.948Z"
+}

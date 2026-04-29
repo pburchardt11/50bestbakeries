@@ -1,0 +1,43 @@
+{
+  "slug": "egmeg-atasehir",
+  "name": "Egmeg",
+  "curatedName": "Egmeg",
+  "city": "Ataşehir",
+  "country": "Türkiye",
+  "placeId": "ChIJ2aIABDfPyhQRaqKeQCcnIRE",
+  "googleName": "EGMEG",
+  "formattedAddress": "Ataturk Mah. Atapark Cad. Trendist, Atatürk, B8 Blok No:3, 34758 Ataşehir/İstanbul, Türkiye",
+  "phone": "0552 353 46 34",
+  "internationalPhone": "+90 552 353 46 34",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1234310822417572458",
+  "rating": 4.7,
+  "reviewCount": 88,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.98994990000001,
+    29.1404954
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:30 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: 8:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/egmeg-atasehir/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:02:51.534Z"
+}

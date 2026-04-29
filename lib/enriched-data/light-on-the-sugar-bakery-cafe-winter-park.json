@@ -1,0 +1,44 @@
+{
+  "slug": "light-on-the-sugar-bakery-cafe-winter-park",
+  "name": "Light On The Sugar Bakery Cafe",
+  "curatedName": "Light On The Sugar Bakery Cafe",
+  "city": "Winter Park",
+  "country": "United States",
+  "placeId": "ChIJUxu-JJ1x54gR3f95HoDNb84",
+  "googleName": "Light On The Sugar Bakery Café",
+  "formattedAddress": "501 N Orlando Ave STE 225, Winter Park, FL 32789, USA",
+  "phone": "(321) 972-8047",
+  "internationalPhone": "+1 321-972-8047",
+  "website": "http://www.lightonthesugar.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14875334044378857437",
+  "rating": 4.6,
+  "reviewCount": 544,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.6053712,
+    -81.367723
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/light-on-the-sugar-bakery-cafe-winter-park/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:12:17.948Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "purple-oven-at-portico-pasig",
+  "name": "Purple Oven at Portico",
+  "curatedName": "Purple Oven at Portico",
+  "city": "Pasig",
+  "country": "Philippines",
+  "placeId": "ChIJx-qmdW3IlzMRRu_1p6Vpc5Q",
+  "googleName": "Purple Oven at Portico",
+  "formattedAddress": "327 Capt. Henry P. Javier, Pasig, 1604 Metro Manila, Philippines",
+  "phone": "(02) 8631 4221",
+  "internationalPhone": "+63 2 8631 4221",
+  "website": "http://www.purpleoven.com.ph/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10697009700143492934",
+  "rating": 4.4,
+  "reviewCount": 433,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5749203,
+    121.066678
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/purple-oven-at-portico-pasig/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:07.696Z"
+}

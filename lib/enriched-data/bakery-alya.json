@@ -1,0 +1,24 @@
+{
+  "slug": "bakery-alya",
+  "name": "Bakery Alya",
+  "city": "Банско",
+  "country": "Bulgaria",
+  "placeId": "ChIJD1kgu_CvqxQRXZo6FUFAVIk",
+  "googleName": "Пекарна АЛЯ / Bakery Alya",
+  "formattedAddress": "кв. Новия град, ul. \"Nayden Gerov\" 17, 2770 Bansko, Bulgaria",
+  "phone": "087 720 7100",
+  "website": "https://www.facebook.com/profile.php?id=100088983185214",
+  "googleMapsUrl": "https://maps.google.com/?cid=9895604929513036381",
+  "rating": 5,
+  "reviewCount": 37,
+  "coords": [
+    41.8273036,
+    23.4826558
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-alya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:23:49.236Z"
+}

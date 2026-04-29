@@ -1,0 +1,32 @@
+{
+  "slug": "reposteria-yorquiris-bisono",
+  "name": "Repostería Yorquiris",
+  "city": "Bisonó",
+  "country": "Dominican Republic",
+  "placeId": "ChIJaZgEf5-5sY4RfoG0ZCi1nsM",
+  "googleName": "Repostería Yorquiris",
+  "formattedAddress": "Calle Sta. Ana, Bisonó 51000, Dominican Republic",
+  "phone": "(849) 459-1223",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14095903068809101694",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    19.5610793,
+    -70.87581580000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/reposteria-yorquiris-bisono/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:57:15.158Z"
+}

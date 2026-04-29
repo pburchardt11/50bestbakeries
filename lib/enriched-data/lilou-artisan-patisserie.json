@@ -1,0 +1,32 @@
+{
+  "slug": "lilou-artisan-patisserie",
+  "name": "Lilou Artisan Patisserie",
+  "city": "المنامة",
+  "country": "Bahrain",
+  "placeId": "ChIJW5EyTjGvST4R6h2Oyj7UkUw",
+  "googleName": "Lilou Artisan Patisserie",
+  "formattedAddress": "Rd No 3815, Manama, Bahrain",
+  "phone": "1771 5370",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5517424384656940522",
+  "rating": 4.5,
+  "reviewCount": 697,
+  "coords": [
+    26.2146152,
+    50.5906078
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 1:00 PM, 3:15 – 7:00 PM",
+    "Tuesday: 8:30 AM – 1:00 PM, 3:15 – 7:00 PM",
+    "Wednesday: 8:30 AM – 1:00 PM, 3:15 – 7:00 PM",
+    "Thursday: 8:30 AM – 1:00 PM, 3:15 – 7:00 PM",
+    "Friday: 8:30 AM – 1:00 PM, 3:15 – 7:00 PM",
+    "Saturday: 8:30 AM – 1:00 PM, 3:15 – 7:00 PM",
+    "Sunday: 8:30 AM – 1:00 PM, 3:15 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lilou-artisan-patisserie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:49:18.710Z"
+}

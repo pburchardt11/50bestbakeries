@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-pasteleria-del-campo-noord",
+  "name": "Panaderia Pasteleria Del Campo",
+  "city": "Noord",
+  "country": "Aruba",
+  "placeId": "ChIJ195ESRc4hY4RjrQOuR2_Gco",
+  "googleName": "Panaderia Pasteleria Del Campo",
+  "formattedAddress": "Caya Frans Figaroa, Noord, Aruba",
+  "phone": "586 1551",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14562881004458914958",
+  "rating": 4.4,
+  "reviewCount": 156,
+  "coords": [
+    12.570029,
+    -70.0319983
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:30 PM",
+    "Tuesday: 6:30 AM – 8:30 PM",
+    "Wednesday: 6:30 AM – 8:30 PM",
+    "Thursday: 6:30 AM – 8:30 PM",
+    "Friday: 6:30 AM – 8:30 PM",
+    "Saturday: 6:30 AM – 8:30 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-pasteleria-del-campo-noord/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:28:48.600Z"
+}

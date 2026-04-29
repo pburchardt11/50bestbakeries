@@ -1,0 +1,45 @@
+{
+  "slug": "vermont-finest-bakery-mexicali",
+  "name": "Vermont Finest Bakery",
+  "curatedName": "Vermont Finest Bakery",
+  "city": "Mexicali",
+  "country": "Mexico",
+  "placeId": "ChIJE-LHnQZx14ARjy2V-onsOAw",
+  "googleName": "Vermont Finest Bakery",
+  "formattedAddress": "Calz Independencia Plaza, Duna, 21254 Mexicali, B.C., Mexico",
+  "phone": "686 104 8957",
+  "internationalPhone": "+52 686 104 8957",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=880713804509687183",
+  "rating": 4.7,
+  "reviewCount": 207,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.6380027,
+    -115.404828
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:30 PM",
+    "Tuesday: 10:00 AM – 8:30 PM",
+    "Wednesday: 10:00 AM – 8:30 PM",
+    "Thursday: 10:00 AM – 8:30 PM",
+    "Friday: 10:00 AM – 8:30 PM",
+    "Saturday: 10:00 AM – 8:30 PM",
+    "Sunday: 11:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vermont-finest-bakery-mexicali/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:04.953Z"
+}

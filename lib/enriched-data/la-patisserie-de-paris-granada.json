@@ -1,0 +1,43 @@
+{
+  "slug": "la-patisserie-de-paris-granada",
+  "name": "La Pâtisserie de Paris",
+  "curatedName": "La Pâtisserie de Paris",
+  "city": "Granada",
+  "country": "Spain",
+  "placeId": "ChIJQUZMJwD9cQ0RoReqYIhNTYI",
+  "googleName": "La Pâtisserie de Paris",
+  "formattedAddress": "C. Ángel Ganivet, 6, Centro, Centro, 18009 Granada, Spain",
+  "phone": "623 33 53 86",
+  "internationalPhone": "+34 623 33 53 86",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9389246046270003105",
+  "rating": 4.6,
+  "reviewCount": 351,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.172956,
+    -3.598423
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:30 PM",
+    "Tuesday: 10:00 AM – 8:30 PM",
+    "Wednesday: 10:00 AM – 8:30 PM",
+    "Thursday: 10:00 AM – 8:30 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-patisserie-de-paris-granada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:48.712Z"
+}

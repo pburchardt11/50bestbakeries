@@ -1,0 +1,44 @@
+{
+  "slug": "banh-kem-hannie-quan-tan-binh",
+  "name": "Bánh kem Hannie",
+  "curatedName": "Bánh kem Hannie",
+  "city": "Quận Tân Bình",
+  "country": "Vietnam",
+  "placeId": "ChIJj0IS7Z4vdTERUheKFd5UfvA",
+  "googleName": "Bánh kem Hannie",
+  "formattedAddress": "233/4a Nghĩa Phát, Phường 6, Tân Hòa, Hồ Chí Minh, Vietnam",
+  "phone": "0901 358 536",
+  "internationalPhone": "+84 901 358 536",
+  "website": "http://banhkemhannie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17329381728989091666",
+  "rating": 4.9,
+  "reviewCount": 774,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7837914,
+    106.6559627
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-kem-hannie-quan-tan-binh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:00.336Z"
+}

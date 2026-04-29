@@ -1,0 +1,43 @@
+{
+  "slug": "panetteria-petropolis",
+  "name": "Panetteria Petrópolis",
+  "curatedName": "Panetteria Petrópolis",
+  "city": "Petrópolis",
+  "country": "Brazil",
+  "placeId": "ChIJQzAzzgYJmQARC5Tnr1RQnr4",
+  "googleName": "Panetteria Petrópolis",
+  "formattedAddress": "R. Gonçalves Dias, 660 - Valparaíso, Petrópolis - RJ, 25655-122, Brazil",
+  "phone": "(24) 99257-9100",
+  "internationalPhone": "+55 24 99257-9100",
+  "website": "https://www.instagram.com/panetteria.petropolis/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13735504238185255947",
+  "rating": 4.6,
+  "reviewCount": 39,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.5167103,
+    -43.1913635
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panetteria-petropolis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:12.248Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "caye-caulker-bakery-caye-caulker",
+  "name": "Caye Caulker Bakery",
+  "city": "Caye Caulker",
+  "country": "Belize",
+  "placeId": "ChIJLVM8lqmNXI8RWenWes2z0ts",
+  "googleName": "Caye Caulker Bakery",
+  "formattedAddress": "Avenida Langosta, Belize",
+  "phone": null,
+  "website": "https://www.facebook.com/profile.php?id=100063733551871",
+  "googleMapsUrl": "https://maps.google.com/?cid=15839920534526028121",
+  "rating": 4.8,
+  "reviewCount": 104,
+  "coords": [
+    17.7435086,
+    -88.02500309999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 – 11:30 AM, 2:30 – 7:00 PM",
+    "Tuesday: 7:30 – 11:30 AM, 2:30 – 7:00 PM",
+    "Wednesday: 7:30 – 11:30 AM, 2:30 – 7:00 PM",
+    "Thursday: 7:30 – 11:30 AM, 2:30 – 7:00 PM",
+    "Friday: 7:30 – 11:30 AM, 2:30 – 7:00 PM",
+    "Saturday: 7:30 – 11:30 AM, 2:30 – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/caye-caulker-bakery-caye-caulker/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:07:51.139Z"
+}

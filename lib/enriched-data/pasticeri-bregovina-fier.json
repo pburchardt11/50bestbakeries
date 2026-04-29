@@ -1,0 +1,32 @@
+{
+  "slug": "pasticeri-bregovina-fier",
+  "name": "Pastiçeri Bregovina",
+  "city": "Fier",
+  "country": "Albania",
+  "placeId": "ChIJjxEc4SytWhMRT3ERarED-xs",
+  "googleName": "Pastiçeri Bregovina",
+  "formattedAddress": "Rr. Jakov Xoxa, Fier, Albania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2016209318702051663",
+  "rating": 4.9,
+  "reviewCount": 35,
+  "coords": [
+    40.7335381,
+    19.570324
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticeri-bregovina-fier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:20.745Z"
+}

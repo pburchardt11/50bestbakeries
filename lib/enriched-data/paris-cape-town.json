@@ -1,0 +1,43 @@
+{
+  "slug": "paris-cape-town",
+  "name": "Paris Cape Town",
+  "curatedName": "Paris Cape Town",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "placeId": "ChIJoebGKNdnzB0RWVjy-IqpaTg",
+  "googleName": "PARIS CAPE TOWN",
+  "formattedAddress": "343 Main Rd, Sea Point, Cape Town, 8005, South Africa",
+  "phone": "076 138 2335",
+  "internationalPhone": "+27 76 138 2335",
+  "website": "https://www.instagram.com/paris_cape_town/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4064966553025796185",
+  "rating": 4.4,
+  "reviewCount": 394,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.914402,
+    18.3913153
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-cape-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:44.064Z"
+}

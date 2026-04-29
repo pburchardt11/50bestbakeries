@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-la-poupee-leon",
+  "name": "Pasteleria La Poupee",
+  "curatedName": "Pasteleria La Poupee",
+  "city": "León",
+  "country": "Mexico",
+  "placeId": "ChIJszGx0ai_K4QRulYZgKNxDPQ",
+  "googleName": "Pasteleria La Poupee",
+  "formattedAddress": "Av Roma 908, Andrade, 37480 León de los Aldama, Gto., Mexico",
+  "phone": "477 716 4628",
+  "internationalPhone": "+52 477 716 4628",
+  "website": "http://www.lapoupee.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17585555592017696442",
+  "rating": 4.5,
+  "reviewCount": 773,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.112114,
+    -101.670486
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-la-poupee-leon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:12.044Z"
+}

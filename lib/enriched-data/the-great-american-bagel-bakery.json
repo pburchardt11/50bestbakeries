@@ -1,0 +1,32 @@
+{
+  "slug": "the-great-american-bagel-bakery",
+  "name": "The Great American Bagel Bakery",
+  "city": "المنامة",
+  "country": "Bahrain",
+  "placeId": "ChIJqYNg94ypST4R9ktKMPpbVbg",
+  "googleName": "Great American Bagel",
+  "formattedAddress": "Fontana Tower, Road 2468، Manama, Bahrain",
+  "phone": "1330 3020",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13282623806109273078",
+  "rating": 4.1,
+  "reviewCount": 36,
+  "coords": [
+    26.2235299,
+    50.6068351
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-great-american-bagel-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:47:48.337Z"
+}

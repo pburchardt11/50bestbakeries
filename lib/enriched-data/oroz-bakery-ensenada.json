@@ -1,0 +1,44 @@
+{
+  "slug": "oroz-bakery-ensenada",
+  "name": "Oroz bakery",
+  "curatedName": "Oroz bakery",
+  "city": "Ensenada",
+  "country": "Mexico",
+  "placeId": "ChIJ6UQm5taT2IARSbJmov71kO4",
+  "googleName": "Oroz bakery",
+  "formattedAddress": "Av. Ryerson 613, Zona Centro, 22800 Ensenada, B.C., Mexico",
+  "phone": "646 978 9584",
+  "internationalPhone": "+52 646 978 9584",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17190510251668320841",
+  "rating": 4.6,
+  "reviewCount": 177,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.8701367,
+    -116.6289751
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oroz-bakery-ensenada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:55:36.134Z"
+}

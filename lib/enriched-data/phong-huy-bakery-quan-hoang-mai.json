@@ -1,0 +1,43 @@
+{
+  "slug": "phong-huy-bakery-quan-hoang-mai",
+  "name": "Phong Huy Bakery",
+  "curatedName": "Phong Huy Bakery",
+  "city": "Quận Hoàng Mai",
+  "country": "Vietnam",
+  "placeId": "ChIJeUEvn_OsNTER9XDttYpWYG0",
+  "googleName": "Phong Huy Bakery",
+  "formattedAddress": "124 Định Công Thượng, Định Công, Hà Nội, Vietnam",
+  "phone": "0869 612 238",
+  "internationalPhone": "+84 869 612 238",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7881394501656080629",
+  "rating": 4.9,
+  "reviewCount": 115,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.9837906,
+    105.8218569
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/phong-huy-bakery-quan-hoang-mai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:34.450Z"
+}

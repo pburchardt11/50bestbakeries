@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-la-paix-porto-novo",
+  "name": "Boulangerie la Paix",
+  "city": "Porto-Novo",
+  "country": "Benin",
+  "placeId": "ChIJaYHLyU_f5UcRD2RYZIT2D3Q",
+  "googleName": "Boulangerie de la Paix",
+  "formattedAddress": "31 Rue de la Paix, 91600 Savigny-sur-Orge, France",
+  "phone": "09 54 23 36 07",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8363174081529930767",
+  "rating": 4.6,
+  "reviewCount": 118,
+  "coords": [
+    48.68372249999999,
+    2.3613921
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 1:00 PM, 2:30 – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-la-paix-porto-novo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:09:40.773Z"
+}

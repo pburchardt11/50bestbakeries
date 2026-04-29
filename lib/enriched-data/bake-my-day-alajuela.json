@@ -1,0 +1,32 @@
+{
+  "slug": "bake-my-day-alajuela",
+  "name": "Bake My Day",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJZ8eBIgDT4jARpHhVZ0LTVeg",
+  "googleName": "BAKE MY DAY CAFE (WISE AVENUE)",
+  "formattedAddress": "135 Wise Avenue 5 ต.ลาดใหญ่ อ.เมือง Chang Wat Samut Songkhram 75000, Thailand",
+  "phone": "088 923 6145",
+  "website": "https://www.facebook.com/share/15wTtFVJ5Q/?mibextid=wwXIfr",
+  "googleMapsUrl": "https://maps.google.com/?cid=16741519471974643876",
+  "rating": 4.9,
+  "reviewCount": 47,
+  "coords": [
+    13.4247408,
+    100.0148236
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-my-day-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:06.644Z"
+}

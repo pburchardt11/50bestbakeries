@@ -1,0 +1,43 @@
+{
+  "slug": "bakerist",
+  "name": "Bakerist",
+  "curatedName": "Bakerist",
+  "city": "Атырау",
+  "country": "Kazakhstan",
+  "placeId": "ChIJqwqdu9Lpo0ERE4cibRlqq2o",
+  "googleName": "Bakerist",
+  "formattedAddress": "Isatay Taymanov Ave 58, Atyrau, Kazakhstan",
+  "phone": "8 (775) 321 0721",
+  "internationalPhone": "+7 775 321 0721",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7686353846475589395",
+  "rating": 4.6,
+  "reviewCount": 306,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.10814,
+    51.90470670000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakerist/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:27.776Z"
+}

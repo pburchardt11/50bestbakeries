@@ -1,0 +1,43 @@
+{
+  "slug": "gourmet-cake-kartal",
+  "name": "Gourmet Cake",
+  "curatedName": "Gourmet Cake",
+  "city": "Kartal",
+  "country": "Türkiye",
+  "placeId": "ChIJUdTiQsrFyhQRiSJLxoPASoM",
+  "googleName": "Gourmet Cake",
+  "formattedAddress": "Karlıktepe, Fahri Korutürk Cd. No:33A, 34870 Kartal/İstanbul, Türkiye",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://gurmepasta.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9460585639445209737",
+  "rating": 4.6,
+  "reviewCount": 71,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.898048,
+    29.19426039999999
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 10:00 PM",
+    "Tuesday: 11:00 AM – 10:00 PM",
+    "Wednesday: 11:00 AM – 10:00 PM",
+    "Thursday: 11:00 AM – 10:00 PM",
+    "Friday: 11:00 AM – 10:00 PM",
+    "Saturday: 11:00 AM – 10:00 PM",
+    "Sunday: 11:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gourmet-cake-kartal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:07.158Z"
+}

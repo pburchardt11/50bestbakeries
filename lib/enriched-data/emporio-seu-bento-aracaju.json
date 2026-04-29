@@ -1,0 +1,44 @@
+{
+  "slug": "emporio-seu-bento-aracaju",
+  "name": "Empório Seu Bento",
+  "curatedName": "Empório Seu Bento",
+  "city": "Aracaju",
+  "country": "Brazil",
+  "placeId": "ChIJ-e8Bq4-zGgcRko_kGu1Yz9c",
+  "googleName": "Empório Seu Bento",
+  "formattedAddress": "Av. Gov. Paulo Barreto de Menezes, 982 - Farolândia, Aracaju - SE, 49032-000, Brazil",
+  "phone": "(79) 3303-2035",
+  "internationalPhone": "+55 79 3303-2035",
+  "website": "https://www.instagram.com/emporioseubento/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15550745813715292050",
+  "rating": 4.5,
+  "reviewCount": 2181,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -10.9678581,
+    -37.0536942
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/emporio-seu-bento-aracaju/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:30.023Z"
+}

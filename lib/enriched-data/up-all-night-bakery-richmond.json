@@ -1,0 +1,43 @@
+{
+  "slug": "up-all-night-bakery-richmond",
+  "name": "Up All Night Bakery",
+  "curatedName": "Up All Night Bakery",
+  "city": "Richmond",
+  "country": "United States",
+  "placeId": "ChIJ2fBMCv8XsYkRzt2toCHzYwM",
+  "googleName": "Up All Night Bakery",
+  "formattedAddress": "1221 Bellevue Ave, Richmond, VA 23227, USA",
+  "phone": "(804) 918-8722",
+  "internationalPhone": "+1 804-918-8722",
+  "website": "https://www.upallnightbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=244306130563358158",
+  "rating": 4.8,
+  "reviewCount": 192,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.5908125,
+    -77.453323
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 1:00 PM",
+    "Thursday: 7:00 AM – 1:00 PM",
+    "Friday: 7:00 AM – 1:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/up-all-night-bakery-richmond/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:41.458Z"
+}

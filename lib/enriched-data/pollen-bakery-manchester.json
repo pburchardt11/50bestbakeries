@@ -1,0 +1,43 @@
+{
+  "slug": "pollen-bakery-manchester",
+  "name": "Pollen Bakery",
+  "curatedName": "Pollen Bakery",
+  "city": "Manchester",
+  "country": "United Kingdom",
+  "placeId": "ChIJrdNF6Zexe0gR3AFafRNNVv0",
+  "googleName": "Pollen Bakery",
+  "formattedAddress": "Cotton Field Wharf, 8 New Union St, Manchester M4 6FQ, UK",
+  "phone": "0161 273 3171",
+  "internationalPhone": "+44 161 273 3171",
+  "website": "http://pollenbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18254862885695652316",
+  "rating": 4.5,
+  "reviewCount": 1702,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.4835022,
+    -2.224253
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Light-filled, local bakery specialising in sourdough bread & viennoiserie baked goods, plus coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pollen-bakery-manchester/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:04:43.798Z"
+}

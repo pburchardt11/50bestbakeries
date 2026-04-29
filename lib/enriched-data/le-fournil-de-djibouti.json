@@ -1,0 +1,32 @@
+{
+  "slug": "le-fournil-de-djibouti",
+  "name": "Le Fournil de Djibouti",
+  "city": "جيبوتي",
+  "country": "Djibouti",
+  "placeId": "ChIJ69YMgmMBIxYRnxagOpliknE",
+  "googleName": "Fournile",
+  "formattedAddress": "H5R2+5FP, Blvd du General de Gaulle, Djibouti",
+  "phone": "77 62 47 14",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8183711883138700959",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    11.5903679,
+    43.1513796
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-fournil-de-djibouti/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:55.136Z"
+}

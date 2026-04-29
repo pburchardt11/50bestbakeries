@@ -1,0 +1,32 @@
+{
+  "slug": "maison-lipa-pointe-noire",
+  "name": "Maison Lipa",
+  "city": "Pointe Noire",
+  "country": "Congo - Brazzaville",
+  "placeId": "ChIJB51cQC6lYBoRGmITzyucj6w",
+  "googleName": "Maison Lipa",
+  "formattedAddress": "Av. Ngueli Ngueli, Pointe-Noire, Republic of the Congo",
+  "phone": "06 899 7726",
+  "website": "https://www.instagram.com/maisonlipa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12434328808164909594",
+  "rating": 4.4,
+  "reviewCount": 39,
+  "coords": [
+    -4.8066898,
+    11.8473347
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:30 PM",
+    "Tuesday: 6:30 AM – 8:30 PM",
+    "Wednesday: 6:30 AM – 8:30 PM",
+    "Thursday: 6:30 AM – 8:30 PM",
+    "Friday: 6:30 AM – 8:30 PM",
+    "Saturday: 6:30 AM – 8:30 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-lipa-pointe-noire/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:46:26.298Z"
+}

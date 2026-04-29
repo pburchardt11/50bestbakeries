@@ -1,0 +1,32 @@
+{
+  "slug": "la-bodeguita-luanda",
+  "name": "La Bodeguita",
+  "city": "Luanda",
+  "country": "Angola",
+  "placeId": "ChIJoVwQRsrzURoRUtT-hNvsoEo",
+  "googleName": "La Bodeguita",
+  "formattedAddress": "56GW+F4W, Luanda, Angola",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5377558382653658194",
+  "rating": 3.6,
+  "reviewCount": 74,
+  "coords": [
+    -8.823764299999999,
+    13.2453176
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-bodeguita-luanda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:17:47.751Z"
+}

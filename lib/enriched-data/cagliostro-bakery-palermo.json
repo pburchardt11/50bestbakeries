@@ -1,0 +1,43 @@
+{
+  "slug": "cagliostro-bakery-palermo",
+  "name": "Cagliostro Bakery",
+  "curatedName": "Cagliostro Bakery",
+  "city": "Palermo",
+  "country": "Italy",
+  "placeId": "ChIJka-4TvPlGRMR53k2pnFGI3c",
+  "googleName": "Cagliostro Bakery",
+  "formattedAddress": "Via Vittorio Emanuele, 162, 90133 Palermo PA, Italy",
+  "phone": "091 274 2299",
+  "internationalPhone": "+39 091 274 2299",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8584782768632134119",
+  "rating": 4,
+  "reviewCount": 828,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.1172222,
+    13.3655556
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:00 AM",
+    "Tuesday: 7:30 AM – 12:00 AM",
+    "Wednesday: 7:30 AM – 12:00 AM",
+    "Thursday: 7:30 AM – 12:00 AM",
+    "Friday: 7:30 AM – 12:00 AM",
+    "Saturday: 8:30 AM – 1:00 AM",
+    "Sunday: 7:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cagliostro-bakery-palermo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:18.090Z"
+}

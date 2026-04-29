@@ -1,0 +1,43 @@
+{
+  "slug": "la-panadera-providencia",
+  "name": "La Panadera",
+  "curatedName": "La Panadera",
+  "city": "Providencia",
+  "country": "Chile",
+  "placeId": "ChIJ--Xq3n7FYpYRdS-SQD8SI4M",
+  "googleName": "La Panadera",
+  "formattedAddress": "Condell 1097, 7501376 Providencia, Región Metropolitana, Chile",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/lapanadera_cl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9449416506028994421",
+  "rating": 4.7,
+  "reviewCount": 801,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.4449073,
+    -70.6265758
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-panadera-providencia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:01.802Z"
+}

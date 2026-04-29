@@ -1,0 +1,45 @@
+{
+  "slug": "hornitos-quinta-paredes-bogota-d-c",
+  "name": "Hornitos Quinta Paredes",
+  "curatedName": "Hornitos Quinta Paredes",
+  "city": "Bogotá, D.C.",
+  "country": "Colombia",
+  "placeId": "ChIJE7ov8dubP44RwY9yt88bgY8",
+  "googleName": "Hornitos Quinta Paredes",
+  "formattedAddress": "Av. La Esperanza #43A – 90, Teusaquillo, Bogotá, Cundinamarca, Colombia",
+  "phone": "(601) 7561515",
+  "internationalPhone": "+57 601 7561515",
+  "website": "https://hornitos.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10340576798369288129",
+  "rating": 4.4,
+  "reviewCount": 13685,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    4.6334464,
+    -74.0944938
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hornitos-quinta-paredes-bogota-d-c/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:07.890Z"
+}

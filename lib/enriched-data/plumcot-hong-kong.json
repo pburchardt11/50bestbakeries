@@ -1,0 +1,43 @@
+{
+  "slug": "plumcot-hong-kong",
+  "name": "Plumcot",
+  "curatedName": "Plumcot",
+  "city": "Hong Kong",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJkfVqRasBBDQRX-aj5wPe-OI",
+  "googleName": "Plumcot",
+  "formattedAddress": "G/F, 10A Sun Chun St, Tai Hang, Hong Kong",
+  "phone": "2573 6293",
+  "internationalPhone": "+852 2573 6293",
+  "website": "http://www.plumcot.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16355066155148502623",
+  "rating": 4.5,
+  "reviewCount": 199,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.2782897,
+    114.1923167
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Fresh French-style bakery & pastry store masterminded by 2 former Michelin restaurant pastry chefs.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/plumcot-hong-kong/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:07.007Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "cielin-s-cake-house-paranaque",
+  "name": "Cielin's Cake House",
+  "curatedName": "Cielin's Cake House",
+  "city": "Parañaque",
+  "country": "Philippines",
+  "placeId": "ChIJF9iH2C3OlzMRSOEItnXERWQ",
+  "googleName": "Cielin's Cake House",
+  "formattedAddress": "C2WH+R64, J. Cabarrus St, Parañaque, Metro Manila, Philippines",
+  "phone": "(02) 8772 1650",
+  "internationalPhone": "+63 2 8772 1650",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7225397187030081864",
+  "rating": 4.6,
+  "reviewCount": 67,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.447011,
+    121.0280685
+  ],
+  "openingHours": [
+    "Monday: 9:15 AM – 6:00 PM",
+    "Tuesday: 9:15 AM – 6:00 PM",
+    "Wednesday: 9:15 AM – 6:00 PM",
+    "Thursday: 9:15 AM – 6:00 PM",
+    "Friday: 9:15 AM – 6:00 PM",
+    "Saturday: 9:15 AM – 6:00 PM",
+    "Sunday: 9:15 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cielin-s-cake-house-paranaque/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:32.508Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "el-buen-pan-chetumal",
+  "name": "El Buen Pan",
+  "curatedName": "El Buen Pan",
+  "city": "Chetumal",
+  "country": "Mexico",
+  "placeId": "ChIJbyCbXr2jW48RMvrJpk9hEy0",
+  "googleName": "El Buen Pan",
+  "formattedAddress": "Av Álvaro Obregón 167, Centro, 77000 Chetumal, Q.R., Mexico",
+  "phone": "983 127 7877",
+  "internationalPhone": "+52 983 127 7877",
+  "website": "https://www.facebook.com/ElBuenPan.Chetumal",
+  "googleMapsUrl": "https://maps.google.com/?cid=3248046750992824882",
+  "rating": 4.5,
+  "reviewCount": 309,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.4967556,
+    -88.2952924
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-buen-pan-chetumal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:46.106Z"
+}

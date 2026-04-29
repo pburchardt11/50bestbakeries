@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-reposteria-mary-alajuelita",
+  "name": "Panaderia y Reposteria Mary",
+  "city": "Alajuelita",
+  "country": "Costa Rica",
+  "placeId": "ChIJt9Ebdwj9oI8RzWKcfTwPv_c",
+  "googleName": "Panadería y repostería Mary #2",
+  "formattedAddress": "WV3X+23H, C. 6, San José, Alajuelita, Costa Rica",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17852004200399790797",
+  "rating": 4.3,
+  "reviewCount": 7,
+  "coords": [
+    9.902573,
+    -84.1022637
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:00 PM",
+    "Tuesday: 5:00 AM – 7:00 PM",
+    "Wednesday: 5:00 AM – 7:00 PM",
+    "Thursday: 5:00 AM – 7:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 5:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-reposteria-mary-alajuelita/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:48:06.342Z"
+}

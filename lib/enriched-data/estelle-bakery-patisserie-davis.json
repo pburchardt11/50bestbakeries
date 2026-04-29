@@ -1,0 +1,43 @@
+{
+  "slug": "estelle-bakery-patisserie-davis",
+  "name": "Estelle Bakery & Pâtisserie",
+  "curatedName": "Estelle Bakery & Pâtisserie",
+  "city": "Davis",
+  "country": "United States",
+  "placeId": "ChIJCfjxRgArhYARRoqBWqeAaH0",
+  "googleName": "Estelle Bakery & Patisserie",
+  "formattedAddress": "2710 5th St, Davis, CA 95618, USA",
+  "phone": "(916) 551-1500",
+  "internationalPhone": "+1 916-551-1500",
+  "website": "http://www.estellebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9036614108585232966",
+  "rating": 4.1,
+  "reviewCount": 113,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.5517923,
+    -121.7183565
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/estelle-bakery-patisserie-davis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:26.095Z"
+}

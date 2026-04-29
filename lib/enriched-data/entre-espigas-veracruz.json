@@ -1,0 +1,43 @@
+{
+  "slug": "entre-espigas-veracruz",
+  "name": "Entre Espigas",
+  "curatedName": "Entre Espigas",
+  "city": "Veracruz",
+  "country": "Mexico",
+  "placeId": "ChIJvSoQN0hBw4URhKN_XQP9FDc",
+  "googleName": "Entre Espigas",
+  "formattedAddress": "Av. Ricardo Flores Magón, Esquina con, Santos Pérez Abascal, Ignacio Zaragoza, 91910 Veracruz, Ver., Mexico",
+  "phone": "229 126 6837",
+  "internationalPhone": "+52 229 126 6837",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3969075362515624836",
+  "rating": 4.9,
+  "reviewCount": 34,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.1801485,
+    -96.12536879999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 5:30 PM",
+    "Tuesday: 6:30 AM – 5:30 PM",
+    "Wednesday: 6:30 AM – 5:30 PM",
+    "Thursday: 6:30 AM – 5:30 PM",
+    "Friday: 6:30 AM – 5:30 PM",
+    "Saturday: 6:30 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/entre-espigas-veracruz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:43.806Z"
+}

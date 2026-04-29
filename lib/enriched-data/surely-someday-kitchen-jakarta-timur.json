@@ -1,0 +1,43 @@
+{
+  "slug": "surely-someday-kitchen-jakarta-timur",
+  "name": "Surely Someday Kitchen",
+  "curatedName": "Surely Someday Kitchen",
+  "city": "Jakarta Timur",
+  "country": "Indonesia",
+  "placeId": "ChIJN3EQvnDzaS4RvScc6otGhJ8",
+  "googleName": "Surely Someday Kitchen",
+  "formattedAddress": "Jl. Pedati Raya No.23, RT.13/RW.4, Cipinang Cempedak, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13340, Indonesia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.surelysomedaykitchen.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11494389715698460605",
+  "rating": 5,
+  "reviewCount": 520,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.2268035,
+    106.8729729
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 1:00 PM",
+    "Sunday: 10:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/surely-someday-kitchen-jakarta-timur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:30.421Z"
+}

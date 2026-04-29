@@ -1,0 +1,43 @@
+{
+  "slug": "guven-f-r-n-ve-cafe-merkezefendi",
+  "name": "Güven Fırın ve Cafe",
+  "curatedName": "Güven Fırın ve Cafe",
+  "city": "Merkezefendi",
+  "country": "Türkiye",
+  "placeId": "ChIJC07gAWdAxxQR7kiWJrhjO5c",
+  "googleName": "Güven Fırın ve Cafe",
+  "formattedAddress": "Selçuk Bey, 686 sok 4/A, 20020 Denizli Merkezefendi/Denizli, Türkiye",
+  "phone": "0555 020 87 88",
+  "internationalPhone": "+90 555 020 87 88",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10897413365925562606",
+  "rating": 4.5,
+  "reviewCount": 66,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.7932897,
+    29.0339215
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:30 PM",
+    "Tuesday: 6:00 AM – 10:30 PM",
+    "Wednesday: 6:00 AM – 10:30 PM",
+    "Thursday: 6:00 AM – 10:30 PM",
+    "Friday: 6:00 AM – 10:30 PM",
+    "Saturday: 6:00 AM – 10:30 PM",
+    "Sunday: 6:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/guven-f-r-n-ve-cafe-merkezefendi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:35.446Z"
+}

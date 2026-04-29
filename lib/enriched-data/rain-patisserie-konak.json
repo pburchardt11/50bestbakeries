@@ -1,0 +1,43 @@
+{
+  "slug": "rain-patisserie-konak",
+  "name": "Rain Patisserie",
+  "curatedName": "Rain Patisserie",
+  "city": "Konak",
+  "country": "Türkiye",
+  "placeId": "ChIJD9UD8vfYuxQRSmJGAzF-owY",
+  "googleName": "Rain Patisserie",
+  "formattedAddress": "Alsancak, 1378 1378. Sokak No:16/C, 35220 Konak/İzmir, Türkiye",
+  "phone": "(0232) 422 56 15",
+  "internationalPhone": "+90 232 422 56 15",
+  "website": "https://www.instagram.com/rainpatisseriealsancak/",
+  "googleMapsUrl": "https://maps.google.com/?cid=478364734404846154",
+  "rating": 4.8,
+  "reviewCount": 255,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.429677,
+    27.137748
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rain-patisserie-konak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:00:59.867Z"
+}

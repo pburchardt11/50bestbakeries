@@ -1,0 +1,43 @@
+{
+  "slug": "dolci-pasteleria-morelia",
+  "name": "DOLCI Pastelería",
+  "curatedName": "DOLCI Pastelería",
+  "city": "Morelia",
+  "country": "Mexico",
+  "placeId": "ChIJpS5oBgISLYQR-PcdX1_q3_4",
+  "googleName": "Dolci",
+  "formattedAddress": "Av Acueducto 3099, Insurgentes, 58250 Morelia, Mich., Mexico",
+  "phone": "443 324 6552",
+  "internationalPhone": "+52 443 324 6552",
+  "website": "http://www.dolci.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18365655500778764280",
+  "rating": 4.6,
+  "reviewCount": 1069,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.6955229,
+    -101.155473
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dolci-pasteleria-morelia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:55.549Z"
+}

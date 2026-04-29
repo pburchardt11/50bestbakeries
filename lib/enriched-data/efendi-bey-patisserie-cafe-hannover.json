@@ -1,0 +1,44 @@
+{
+  "slug": "efendi-bey-patisserie-cafe-hannover",
+  "name": "Efendi Bey Patisserie & Cafe",
+  "curatedName": "Efendi Bey Patisserie & Cafe",
+  "city": "Hannover",
+  "country": "Germany",
+  "placeId": "ChIJ49PcaLt0sEcRgimH0tEUscg",
+  "googleName": "Efendi Bey Patisserie & Café",
+  "formattedAddress": "Münzstraße 7, 30159 Hannover, Germany",
+  "phone": "0511 17507",
+  "internationalPhone": "+49 511 17507",
+  "website": "https://efendibey.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14461362769876167042",
+  "rating": 4.4,
+  "reviewCount": 2058,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.3753746,
+    9.7309973
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:00 AM",
+    "Tuesday: 7:30 AM – 12:00 AM",
+    "Wednesday: 7:30 AM – 12:00 AM",
+    "Thursday: 7:30 AM – 12:00 AM",
+    "Friday: 7:30 AM – 2:00 AM",
+    "Saturday: 7:30 AM – 2:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": "Western-style cakes, Turkish baklava & kunafa, plus pizza & pasta, in a stylish cafe with a terrace.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/efendi-bey-patisserie-cafe-hannover/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:14.645Z"
+}

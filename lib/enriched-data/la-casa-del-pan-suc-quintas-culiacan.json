@@ -1,0 +1,43 @@
+{
+  "slug": "la-casa-del-pan-suc-quintas-culiacan",
+  "name": "La Casa Del Pan (Suc. Quintas)",
+  "curatedName": "La Casa Del Pan (Suc. Quintas)",
+  "city": "Culiacán",
+  "country": "Mexico",
+  "placeId": "ChIJR2v5UuzZvIYRBFqOoZZ56AM",
+  "googleName": "La Casa Del Pan (Suc. Quintas)",
+  "formattedAddress": "Presa Adolfo López Mateos 990, Las Quintas, 80060 Culiacán Rosales, Sin., Mexico",
+  "phone": "667 786 2158",
+  "internationalPhone": "+52 667 786 2158",
+  "website": "http://www.lacasadelpancln.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=281608664573172228",
+  "rating": 4.5,
+  "reviewCount": 68,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.8178903,
+    -107.3799204
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-casa-del-pan-suc-quintas-culiacan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:51.309Z"
+}

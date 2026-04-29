@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-deli-alajuela",
+  "name": "Panaderia Deli",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJz9Zoub75oI8R5GqaMGgWsCc",
+  "googleName": "JL Panadería",
+  "formattedAddress": "2Q3Q+78X, Alajuela Province, Alajuela, Monserrat, Costa Rica",
+  "phone": "2100 7254",
+  "website": "https://m.facebook.com/jlpanaderia/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2859810400128101092",
+  "rating": 4.5,
+  "reviewCount": 535,
+  "coords": [
+    10.0032489,
+    -84.21162729999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-deli-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:46:51.590Z"
+}

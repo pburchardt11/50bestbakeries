@@ -1,0 +1,45 @@
+{
+  "slug": "korica-zagreb",
+  "name": "Korica",
+  "curatedName": "Korica",
+  "city": "Zagreb",
+  "country": "Croatia",
+  "placeId": "ChIJtW1w1PvWZUcRqQ2XigsHkFw",
+  "googleName": "Korica",
+  "formattedAddress": "Preradovićeva ul. 39, 10000, Zagreb, Croatia",
+  "phone": "01 6231 995",
+  "internationalPhone": "+385 1 6231 995",
+  "website": "http://www.korica.hr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6669838794286894505",
+  "rating": 4.6,
+  "reviewCount": 1047,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.8076109,
+    15.9749783
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/korica-zagreb/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:08.553Z"
+}

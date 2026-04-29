@@ -1,0 +1,43 @@
+{
+  "slug": "s-more-sugar",
+  "name": "S'more Sugar",
+  "curatedName": "S'more Sugar",
+  "city": "高雄市",
+  "country": "Taiwan",
+  "placeId": "ChIJ_01cNxsFbjQRYRGg8ibjFiM",
+  "googleName": "S'more Sugar 法式手工甜點",
+  "formattedAddress": "No. 169號, Xinhai Rd, Zuoying District, Kaohsiung City, Taiwan 813",
+  "phone": "07 556 6455",
+  "internationalPhone": "+886 7 556 6455",
+  "website": "https://www.facebook.com/pages/Smore-Sugar/109979552437850",
+  "googleMapsUrl": "https://maps.google.com/?cid=2528457997233951073",
+  "rating": 4.3,
+  "reviewCount": 1730,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.6641187,
+    120.3095749
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 9:00 PM",
+    "Tuesday: 12:00 – 9:00 PM",
+    "Wednesday: 12:00 – 9:00 PM",
+    "Thursday: 12:00 – 9:00 PM",
+    "Friday: 12:00 – 9:00 PM",
+    "Saturday: 12:00 – 9:00 PM",
+    "Sunday: 12:00 – 9:00 PM"
+  ],
+  "editorialSummary": "Compact, sophisticated shop selling elaborate European-style pastries in addition to coffee & tea.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/s-more-sugar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:29.753Z"
+}

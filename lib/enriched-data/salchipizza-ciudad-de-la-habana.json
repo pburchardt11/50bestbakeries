@@ -1,0 +1,32 @@
+{
+  "slug": "salchipizza-ciudad-de-la-habana",
+  "name": "SalchiPizza",
+  "city": "Ciudad de la Habana",
+  "country": "Cuba",
+  "placeId": "ChIJ-WFoSNt5zYgRKGJOy8TzrQA",
+  "googleName": "SalchiPizza",
+  "formattedAddress": "4JMC+HJ9, Havana, Cuba",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=48963197520994856",
+  "rating": 4.3,
+  "reviewCount": 14,
+  "coords": [
+    23.1339122,
+    -82.37838099999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/salchipizza-ciudad-de-la-habana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:50:43.659Z"
+}

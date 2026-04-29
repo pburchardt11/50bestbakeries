@@ -1,0 +1,44 @@
+{
+  "slug": "holy-bakery-bucuresti",
+  "name": "Holy Bakery",
+  "curatedName": "Holy Bakery",
+  "city": "București",
+  "country": "Romania",
+  "placeId": "ChIJycCecJL5sUARvYxLIuJLFFU",
+  "googleName": "Holy Bakery",
+  "formattedAddress": "Strada Constantin Aricescu 50a, 011688 București, Romania",
+  "phone": "0720 786 883",
+  "internationalPhone": "+40 720 786 883",
+  "website": "http://holybakery.ro/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6130608427368156349",
+  "rating": 4.7,
+  "reviewCount": 248,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.4614978,
+    26.0995129
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/holy-bakery-bucuresti/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:54:53.538Z"
+}

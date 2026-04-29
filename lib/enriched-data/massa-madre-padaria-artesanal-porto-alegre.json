@@ -1,0 +1,43 @@
+{
+  "slug": "massa-madre-padaria-artesanal-porto-alegre",
+  "name": "Massa Madre Padaria Artesanal",
+  "curatedName": "Massa Madre Padaria Artesanal",
+  "city": "Porto Alegre",
+  "country": "Brazil",
+  "placeId": "ChIJk3RvqiF5GZURp3rOxU5y0f4",
+  "googleName": "Massa Madre Padaria Artesanal",
+  "formattedAddress": "R. Marquês do Pombal, 316 - Moinhos de Vento, Porto Alegre - RS, 90540-000, Brazil",
+  "phone": "(51) 99916-0999",
+  "internationalPhone": "+55 51 99916-0999",
+  "website": "http://www.instagram.com/massamadre",
+  "googleMapsUrl": "https://maps.google.com/?cid=18361582838417881767",
+  "rating": 4.6,
+  "reviewCount": 509,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -30.0199426,
+    -51.2011945
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: 8:30 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/massa-madre-padaria-artesanal-porto-alegre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:29.682Z"
+}

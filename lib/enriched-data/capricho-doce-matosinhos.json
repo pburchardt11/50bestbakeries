@@ -1,0 +1,43 @@
+{
+  "slug": "capricho-doce-matosinhos",
+  "name": "Capricho Doce",
+  "curatedName": "Capricho Doce",
+  "city": "Matosinhos",
+  "country": "Portugal",
+  "placeId": "ChIJK2J2WThvJA0RcTQtq7puW1w",
+  "googleName": "Capricho Doce",
+  "formattedAddress": "Av. Comendador Ferreira de Matos 29, 4450-122 Matosinhos, Portugal",
+  "phone": "22 937 6782",
+  "internationalPhone": "+351 22 937 6782",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6655034622384878705",
+  "rating": 4.5,
+  "reviewCount": 667,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.181294,
+    -8.6836805
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/capricho-doce-matosinhos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:59:26.389Z"
+}

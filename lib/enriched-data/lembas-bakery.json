@@ -1,0 +1,32 @@
+{
+  "slug": "lembas-bakery",
+  "name": "Lembas Bakery",
+  "city": "Банско",
+  "country": "Bulgaria",
+  "placeId": "ChIJ7VlaHwCvqxQRT8X5_M68oKY",
+  "googleName": "Lembas Bakery",
+  "formattedAddress": "кв. Новия град, \"Pirin\" Str. 26, 2770 Bansko, Bulgaria",
+  "phone": "087 860 9155",
+  "website": "https://www.lembasbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12006804203763254607",
+  "rating": 5,
+  "reviewCount": 140,
+  "coords": [
+    41.8348079,
+    23.4856927
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lembas-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:23:46.933Z"
+}

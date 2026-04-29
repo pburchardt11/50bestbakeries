@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-reposteria-flores-cochabamba",
+  "name": "Panaderia Reposteria  Flores",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJ-2Z_BgB145MRkJSKYJS6JKU",
+  "googleName": "Floral Bake Shop",
+  "formattedAddress": "0000, Cochabamba, Bolivia",
+  "phone": "69962194",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11899841261857313936",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    -17.378167,
+    -66.1505079
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-reposteria-flores-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:14:52.570Z"
+}

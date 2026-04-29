@@ -1,0 +1,43 @@
+{
+  "slug": "bakehouse-bagshot",
+  "name": "Bakehouse",
+  "curatedName": "Bakehouse",
+  "city": "Bagshot",
+  "country": "United Kingdom",
+  "placeId": "ChIJOd6r419_dkgRsQSyXHALdNQ",
+  "googleName": "Rex Bakehouse",
+  "formattedAddress": "21 High St, Ascot SL5 7JE, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.rexbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15308873610558571697",
+  "rating": 4.7,
+  "reviewCount": 285,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.410904,
+    -0.6748518
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 4:00 PM",
+    "Tuesday: 8:30 AM – 4:00 PM",
+    "Wednesday: 8:30 AM – 4:00 PM",
+    "Thursday: 8:30 AM – 4:00 PM",
+    "Friday: 8:30 AM – 4:30 PM",
+    "Saturday: 8:00 AM – 4:30 PM",
+    "Sunday: 8:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakehouse-bagshot/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:24:29.744Z"
+}

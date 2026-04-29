@@ -1,0 +1,43 @@
+{
+  "slug": "la-cocina-de-mi-vecina-madrid",
+  "name": "La Cocina de mi Vecina",
+  "curatedName": "La Cocina de mi Vecina",
+  "city": "Madrid",
+  "country": "Spain",
+  "placeId": "ChIJlZgKNIgoQg0Rm1bs943sSxg",
+  "googleName": "La Cocina de mi Vecina",
+  "formattedAddress": "Corre. Alta de San Pablo, 15, Centro, 28004 Madrid, Spain",
+  "phone": "910 25 26 17",
+  "internationalPhone": "+34 910 25 26 17",
+  "website": "http://www.lacocinademivecina.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1750752974657574555",
+  "rating": 4.4,
+  "reviewCount": 2903,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.4253466,
+    -3.7019962
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 10:00 PM",
+    "Tuesday: 12:00 – 10:00 PM",
+    "Wednesday: 12:00 – 10:00 PM",
+    "Thursday: 12:00 – 10:00 PM",
+    "Friday: 12:00 – 10:00 PM",
+    "Saturday: 10:00 AM – 12:00 AM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Cozy, brick-walled bakery/cafe serving cookies, juices & cakes in flavors from banoffee to Guinness.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-cocina-de-mi-vecina-madrid/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:56:25.025Z"
+}

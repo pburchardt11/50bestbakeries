@@ -1,0 +1,44 @@
+{
+  "slug": "cottonrake-bakery-glasgow",
+  "name": "Cottonrake Bakery",
+  "curatedName": "Cottonrake Bakery",
+  "city": "Glasgow",
+  "country": "United Kingdom",
+  "placeId": "ChIJT9rE2DJEiEgR77YnTscozo4",
+  "googleName": "Cottonrake Bakery",
+  "formattedAddress": "497 Great Western Rd, Glasgow G12 8HL, UK",
+  "phone": "07910 282040",
+  "internationalPhone": "+44 7910 282040",
+  "website": "http://www.cottonrake.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10290207035062990575",
+  "rating": 4.6,
+  "reviewCount": 739,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    55.8753834,
+    -4.2822099
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cottonrake-bakery-glasgow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:04:52.955Z"
+}

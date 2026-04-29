@@ -1,0 +1,32 @@
+{
+  "slug": "l-epi-de-ble-n-djamena",
+  "name": "L'Epi de Ble",
+  "city": "N'Djamena",
+  "country": "Chad",
+  "placeId": "ChIJCy5TfhdjGRERPWTZAnakSOA",
+  "googleName": "L'Épi de Blé",
+  "formattedAddress": "Rue de Marseille, N'Djamena, Chad",
+  "phone": "96 00 11 11",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16161348089579922493",
+  "rating": 4.6,
+  "reviewCount": 54,
+  "coords": [
+    12.1211424,
+    15.0375191
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-epi-de-ble-n-djamena/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:42:08.643Z"
+}

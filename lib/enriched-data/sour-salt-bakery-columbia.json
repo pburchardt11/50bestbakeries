@@ -1,0 +1,43 @@
+{
+  "slug": "sour-salt-bakery-columbia",
+  "name": "Sour & Salt Bakery",
+  "curatedName": "Sour & Salt Bakery",
+  "city": "Columbia",
+  "country": "United States",
+  "placeId": "ChIJi7E8Zva7-IgRBbcp8rgBSLU",
+  "googleName": "Sour & Salt Bakery",
+  "formattedAddress": "2761 Rosewood Dr, Columbia, SC 29205, USA",
+  "phone": "(803) 816-0299",
+  "internationalPhone": "+1 803-816-0299",
+  "website": "http://sourandsalt.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13062692613036553989",
+  "rating": 4.6,
+  "reviewCount": 253,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.9874967,
+    -81.0049721
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sour-salt-bakery-columbia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:18.279Z"
+}

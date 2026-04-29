@@ -1,0 +1,44 @@
+{
+  "slug": "bakery-and-confectionery-santa-clara-belem",
+  "name": "Bakery and Confectionery Santa Clara",
+  "curatedName": "Bakery and Confectionery Santa Clara",
+  "city": "Belém",
+  "country": "Brazil",
+  "placeId": "ChIJHZnfdCmMpJIRr86-84ugQTM",
+  "googleName": "Bakery and Confectionery Santa Clara",
+  "formattedAddress": "Av. Gentil Bittencourt, 1888 - São Brás, Belém - PA, 66063-090, Brazil",
+  "phone": "(91) 3229-2035",
+  "internationalPhone": "+55 91 3229-2035",
+  "website": "https://www.facebook.com/Panificadora-Santa-Clara-167169393336584/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3693409692370783919",
+  "rating": 4.5,
+  "reviewCount": 2426,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -1.4549775,
+    -48.4755102
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-and-confectionery-santa-clara-belem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:55.794Z"
+}

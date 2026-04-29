@@ -1,0 +1,44 @@
+{
+  "slug": "padrela-santos",
+  "name": "Padrela",
+  "curatedName": "Padrela",
+  "city": "Santos",
+  "country": "Brazil",
+  "placeId": "ChIJhdxfmZgDzpQR5T0lr9mCHkU",
+  "googleName": "Padrela",
+  "formattedAddress": "Av. Gen. San Martin, 188 - Ponta da Praia, Santos - SP, 11030-250, Brazil",
+  "phone": "(13) 3261-2990",
+  "internationalPhone": "+55 13 3261-2990",
+  "website": "https://www.instagram.com/padrela_santos/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4980562109376314853",
+  "rating": 4.6,
+  "reviewCount": 6037,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.9886474,
+    -46.2997712
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padrela-santos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:41:51.700Z"
+}

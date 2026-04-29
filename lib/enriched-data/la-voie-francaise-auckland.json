@@ -1,0 +1,43 @@
+{
+  "slug": "la-voie-francaise-auckland",
+  "name": "La Voie Francaise",
+  "curatedName": "La Voie Francaise",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJ2e-6ZENGDW0R9wG9pmt2ncA",
+  "googleName": "La Voie Française",
+  "formattedAddress": "4/875 Dominion Road, Mount Roskill, Auckland 1041, New Zealand",
+  "phone": "027 247 6705",
+  "internationalPhone": "+64 27 247 6705",
+  "website": "https://m.facebook.com/LVFrancaise/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13879379831356719607",
+  "rating": 4.7,
+  "reviewCount": 971,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -36.8975633,
+    174.7438981
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 2:00 PM",
+    "Tuesday: 7:30 AM – 2:00 PM",
+    "Wednesday: 7:30 AM – 2:00 PM",
+    "Thursday: 7:30 AM – 2:00 PM",
+    "Friday: 7:30 AM – 2:00 PM",
+    "Saturday: 7:30 AM – 1:00 PM",
+    "Sunday: 7:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-voie-francaise-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:11.469Z"
+}

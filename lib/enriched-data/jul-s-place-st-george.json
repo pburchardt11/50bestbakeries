@@ -1,0 +1,32 @@
+{
+  "slug": "jul-s-place-st-george",
+  "name": "Jul's Place",
+  "city": "St. George",
+  "country": "Dominica",
+  "placeId": "ChIJxxp3g5ora4wRnO5QdByhnoc",
+  "googleName": "Café Mon Plézi",
+  "formattedAddress": "Mon Plezi, Laudat, Dominica",
+  "phone": "(767) 245-7291",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9772425385023172252",
+  "rating": 4.9,
+  "reviewCount": 18,
+  "coords": [
+    15.3315516,
+    -61.3287724
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 AM",
+    "Tuesday: 7:00 AM – 2:00 AM",
+    "Wednesday: 7:00 AM – 2:00 AM",
+    "Thursday: 7:00 AM – 2:00 AM",
+    "Friday: 7:00 AM – 2:00 AM",
+    "Saturday: 7:00 AM – 2:00 AM",
+    "Sunday: 7:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jul-s-place-st-george/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:57:04.146Z"
+}

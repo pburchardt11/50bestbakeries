@@ -1,0 +1,43 @@
+{
+  "slug": "village-baking-co-dallas",
+  "name": "Village Baking Co.",
+  "curatedName": "Village Baking Co.",
+  "city": "Dallas",
+  "country": "United States",
+  "placeId": "ChIJ59loq7qfToYRTaG_KUkAalA",
+  "googleName": "Village Baking Co.",
+  "formattedAddress": "3219 Knox St Suite 130, Dallas, TX 75205, USA",
+  "phone": "(214) 258-5183",
+  "internationalPhone": "+1 214-258-5183",
+  "website": "https://www.villagebakingco.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5794444184798601549",
+  "rating": 4.4,
+  "reviewCount": 311,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.8233557,
+    -96.78987430000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/village-baking-co-dallas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:13.843Z"
+}

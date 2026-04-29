@@ -1,0 +1,43 @@
+{
+  "slug": "pasticceria-enzo-giordano-figli-messina",
+  "name": "Pasticceria Enzo Giordano & Figli",
+  "curatedName": "Pasticceria Enzo Giordano & Figli",
+  "city": "Messina",
+  "country": "Italy",
+  "placeId": "ChIJNU0gJ9RNFBMRGDghkLvA12w",
+  "googleName": "Pasticceria Enzo Giordano & Figli",
+  "formattedAddress": "Viale Boccetta, 49, 98122 Messina ME, Italy",
+  "phone": "090 47450",
+  "internationalPhone": "+39 090 47450",
+  "website": "http://pasticceriagiordano.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7842949187898521624",
+  "rating": 4.7,
+  "reviewCount": 212,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.1979902,
+    15.5530323
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 1:30 PM, 3:30 – 8:00 PM",
+    "Tuesday: 7:30 AM – 1:30 PM, 3:30 – 8:30 PM",
+    "Wednesday: 7:30 AM – 1:30 PM, 3:30 – 8:00 PM",
+    "Thursday: 7:30 AM – 1:30 PM, 3:30 – 8:00 PM",
+    "Friday: 7:30 AM – 1:30 PM, 3:30 – 8:00 PM",
+    "Saturday: 7:30 AM – 1:30 PM, 3:30 – 8:00 PM",
+    "Sunday: 7:30 AM – 1:30 PM, 3:30 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-enzo-giordano-figli-messina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:50.232Z"
+}

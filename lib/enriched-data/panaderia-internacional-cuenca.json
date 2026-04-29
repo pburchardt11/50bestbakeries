@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-internacional-cuenca",
+  "name": "Panaderia Internacional",
+  "curatedName": "Panaderia Internacional",
+  "city": "Cuenca",
+  "country": "Ecuador",
+  "placeId": "ChIJ5XmdEMYZzZERWq91fCX7fow",
+  "googleName": "Panaderia Internacional",
+  "formattedAddress": "Juan Jaramillo 5-18, 010101 Cuenca, Ecuador",
+  "phone": "096 891 1591",
+  "internationalPhone": "+593 96 891 1591",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10123805150795902810",
+  "rating": 4.7,
+  "reviewCount": 96,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -2.9006341,
+    -79.0017226
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:30 PM",
+    "Tuesday: 8:00 AM – 5:30 PM",
+    "Wednesday: 8:00 AM – 5:30 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 5:30 PM",
+    "Sunday: 6:00 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-internacional-cuenca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:30.661Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "pantxo-pan-autentico-chihuahua",
+  "name": "PANtxo Pan Auténtico",
+  "curatedName": "PANtxo Pan Auténtico",
+  "city": "Chihuahua",
+  "country": "Mexico",
+  "placeId": "ChIJR0P7Rz1D6oYRtjlT-oQ4oRU",
+  "googleName": "PANtxo Pan Auténtico",
+  "formattedAddress": "Av. Glandorf 3705, Parques de San Felipe, 31203 Chihuahua, Chih., Mexico",
+  "phone": "614 414 5142",
+  "internationalPhone": "+52 614 414 5142",
+  "website": "https://www.facebook.com/pantxopan/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1558589089833499062",
+  "rating": 4.8,
+  "reviewCount": 507,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.65056319999999,
+    -106.0985631
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+    "Wednesday: 9:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+    "Thursday: 9:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+    "Friday: 9:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pantxo-pan-autentico-chihuahua/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:47.461Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "levure-bakehouse-semarang",
+  "name": "Levure Bakehouse",
+  "curatedName": "Levure Bakehouse",
+  "city": "Semarang",
+  "country": "Indonesia",
+  "placeId": "ChIJzSHZmpmLcC4R29kpxVjs8o8",
+  "googleName": "Levure Bakehouse",
+  "formattedAddress": "Jl. Pandanaran 2 No.2A, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50249, Indonesia",
+  "phone": "0812-3478-8709",
+  "internationalPhone": "+62 812-3478-8709",
+  "website": "https://instagram.com/levure.bakehouse",
+  "googleMapsUrl": "https://maps.google.com/?cid=10372612757796805083",
+  "rating": 4.7,
+  "reviewCount": 969,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.9897859,
+    110.4197379
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/levure-bakehouse-semarang/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:10.770Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-land-kabul",
+  "name": "Sweet Land",
+  "city": "Kabul",
+  "country": "Afghanistan",
+  "placeId": "ChIJp5OVOwBp0TgRr2K1wWG1RKk",
+  "googleName": "Sweet Land",
+  "formattedAddress": "Pul-e-surkh sqaure, G43M+VJP، کابل 100311, Afghanistan",
+  "phone": "073 053 6000",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12197073122292490927",
+  "rating": 4.5,
+  "reviewCount": 8,
+  "coords": [
+    34.5047135,
+    69.1340866
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-land-kabul/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:13:00.387Z"
+}

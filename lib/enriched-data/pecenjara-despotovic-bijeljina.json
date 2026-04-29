@@ -1,0 +1,32 @@
+{
+  "slug": "pecenjara-despotovic-bijeljina",
+  "name": "Pecenjara Despotovic",
+  "city": "Bijeljina",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJV8jZ-BHvW0cR1gX_FchG-lA",
+  "googleName": "Restoran & pečenjara Despotović",
+  "formattedAddress": "Q597+C7J, M14.1, Ljeljenča, Bosnia and Herzegovina",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5835054092388337110",
+  "rating": 3,
+  "reviewCount": 40,
+  "coords": [
+    44.7685969,
+    19.1631335
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pecenjara-despotovic-bijeljina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:17:54.452Z"
+}

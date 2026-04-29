@@ -1,0 +1,32 @@
+{
+  "slug": "tezgiah-sweets-bakery",
+  "name": "Tezgiah Sweets & Bakery",
+  "city": "Бургас",
+  "country": "Bulgaria",
+  "placeId": "ChIJdYL1rN2VpkARoigR-MNoKFw",
+  "googleName": "Tezgiah sweets & bakery",
+  "formattedAddress": "Burgas Center, ul. \"Tsar Simeon I\" 43, 8000 Burgas, Bulgaria",
+  "phone": "087 788 8252",
+  "website": "http://tezgiah.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6640672841447581858",
+  "rating": 4.3,
+  "reviewCount": 82,
+  "coords": [
+    42.4963498,
+    27.4765651
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tezgiah-sweets-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:28:06.271Z"
+}

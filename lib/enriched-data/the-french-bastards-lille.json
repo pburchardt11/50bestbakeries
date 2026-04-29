@@ -1,0 +1,45 @@
+{
+  "slug": "the-french-bastards-lille",
+  "name": "The French Bastards",
+  "curatedName": "The French Bastards",
+  "city": "Lille",
+  "country": "France",
+  "placeId": "ChIJn6dgEgDVwkcR2x0c2FAtDrQ",
+  "googleName": "The French Bastards",
+  "formattedAddress": "52 Rue Basse, 59800 Lille, France",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://thefrenchbastards.fr/fr",
+  "googleMapsUrl": "https://maps.google.com/?cid=12974357401747332571",
+  "rating": 4.4,
+  "reviewCount": 571,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.6387076,
+    3.0599814
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-french-bastards-lille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:45.822Z"
+}

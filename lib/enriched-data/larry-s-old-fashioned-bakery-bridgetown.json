@@ -1,0 +1,32 @@
+{
+  "slug": "larry-s-old-fashioned-bakery-bridgetown",
+  "name": "Larry's Old Fashioned Bakery",
+  "city": "Bridgetown",
+  "country": "Barbados",
+  "placeId": "ChIJPfCl_vD2Q4wRzUCyWId5aoI",
+  "googleName": "Larry's Old Fashioned Bakery",
+  "formattedAddress": "Laynes Rd, Bridgetown, Saint Michael Barbados",
+  "phone": "(246) 437-3168",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9397457194677584077",
+  "rating": 4.3,
+  "reviewCount": 159,
+  "coords": [
+    13.0894794,
+    -59.5961594
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 6:00 PM",
+    "Tuesday: 9:30 AM – 6:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/larry-s-old-fashioned-bakery-bridgetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:53:50.280Z"
+}

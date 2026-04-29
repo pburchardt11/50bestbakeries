@@ -1,0 +1,43 @@
+{
+  "slug": "the-baxters-cake-shop-lucknow",
+  "name": "The Baxters Cake Shop",
+  "curatedName": "The Baxters Cake Shop",
+  "city": "Lucknow",
+  "country": "India",
+  "placeId": "ChIJr_H655X9mzkRHtzeZQr5J5Q",
+  "googleName": "The Baxters Cake Shop",
+  "formattedAddress": "1/2, RVRX+QW6, 1, Pandey Ka Talab Colony, Moti Jheel Colony, Aishbagh, Lucknow, Uttar Pradesh 226004, India",
+  "phone": "088744 73596",
+  "internationalPhone": "+91 88744 73596",
+  "website": "https://wa.me/918874473596",
+  "googleMapsUrl": "https://maps.google.com/?cid=10675775264759143454",
+  "rating": 4.9,
+  "reviewCount": 305,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.8422327,
+    80.8996341
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 12:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-baxters-cake-shop-lucknow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:39.225Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "byclio-bakery-new-york",
+  "name": "ByClio Bakery",
+  "curatedName": "ByClio Bakery",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJw52j4W9ZwokRUxsssuZyD_c",
+  "googleName": "ByClio Bakery",
+  "formattedAddress": "400 3rd Ave, Brooklyn, NY 11215, USA",
+  "phone": "(585) 204-3121",
+  "internationalPhone": "+1 585-204-3121",
+  "website": "http://byclionyc.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17802574187176139603",
+  "rating": 4.9,
+  "reviewCount": 652,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.6735471,
+    -73.989479
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/byclio-bakery-new-york/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:08:57.999Z"
+}

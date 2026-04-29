@@ -1,0 +1,46 @@
+{
+  "slug": "sabor-de-luna-porto-alegre",
+  "name": "Sabor de Luna",
+  "curatedName": "Sabor de Luna",
+  "city": "Porto Alegre",
+  "country": "Brazil",
+  "placeId": "ChIJpdjvuc15GZUR7yr5CGBHL_s",
+  "googleName": "Sabor de Luna",
+  "formattedAddress": "R. Dr. Freire Alemão, 310 - Mont'Serrat, Porto Alegre - RS, 90450-060, Brazil",
+  "phone": "(51) 3392-4244",
+  "internationalPhone": "+55 51 3392-4244",
+  "website": "https://sabordeluna.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18099763905218292463",
+  "rating": 4.7,
+  "reviewCount": 5419,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -30.0247292,
+    -51.1918233
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Uruguayan pastries & simple meals, plus stuffed pasta to cook at home, at a cafe with a leafy patio.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sabor-de-luna-porto-alegre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:22.273Z"
+}

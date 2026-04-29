@@ -1,0 +1,43 @@
+{
+  "slug": "cheesy-eddie-s-henrietta",
+  "name": "Cheesy Eddie's",
+  "curatedName": "Cheesy Eddie's",
+  "city": "Henrietta",
+  "country": "United States",
+  "placeId": "ChIJM7f3tVVL0YkRdmI2a8Il_Vw",
+  "googleName": "Cheesy Eddie's",
+  "formattedAddress": "Regional Market, 900 Jefferson Rd Bldg 21, Rochester, NY 14623, USA",
+  "phone": "(585) 730-5653",
+  "internationalPhone": "+1 585-730-5653",
+  "website": "http://cheesyeddies.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6700553337549775478",
+  "rating": 4.9,
+  "reviewCount": 285,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.0888066,
+    -77.61297210000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cheesy-eddie-s-henrietta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:28.116Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "liebesbrot-frankfurt-am-main",
+  "name": "Liebesbrot",
+  "curatedName": "Liebesbrot",
+  "city": "Frankfurt am Main",
+  "country": "Germany",
+  "placeId": "ChIJw6SYUFAJvUcRvQZNUj7o4RQ",
+  "googleName": "Liebesbrot",
+  "formattedAddress": "Mendelssohnstraße 60, 60325 Frankfurt am Main, Germany",
+  "phone": "069 74743635",
+  "internationalPhone": "+49 69 74743635",
+  "website": "https://www.liebesbrot.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1504739104884852413",
+  "rating": 4.6,
+  "reviewCount": 760,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.1161639,
+    8.6584902
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Country-chic supplier of quiche, croissants, cakes & other baked goods, plus coffee & a patio.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/liebesbrot-frankfurt-am-main/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:04.270Z"
+}

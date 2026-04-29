@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-biser-banja-luka",
+  "name": "Pekara Biser",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJrS96mpoEXkcRJbho6dAzFTk",
+  "googleName": "Pekara Biser",
+  "formattedAddress": "Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": "051 424-424",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4113250807034984485",
+  "rating": 4.3,
+  "reviewCount": 564,
+  "coords": [
+    44.7659779,
+    17.2443007
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-biser-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:15:16.303Z"
+}

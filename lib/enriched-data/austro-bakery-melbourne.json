@@ -1,0 +1,43 @@
+{
+  "slug": "austro-bakery-melbourne",
+  "name": "Austro Bakery",
+  "curatedName": "Austro Bakery",
+  "city": "Melbourne",
+  "country": "Australia",
+  "placeId": "ChIJtexF2fNn1moRi73Dsdri6sk",
+  "googleName": "Austro Bakery",
+  "formattedAddress": "39 Lothian St, North Melbourne VIC 3051, Australia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.austrobakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14549690975086951819",
+  "rating": 4.5,
+  "reviewCount": 284,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -37.8031449,
+    144.9443264
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 8:00 AM – 1:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/austro-bakery-melbourne/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:28.184Z"
+}

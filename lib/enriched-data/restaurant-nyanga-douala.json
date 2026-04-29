@@ -1,0 +1,32 @@
+{
+  "slug": "restaurant-nyanga-douala",
+  "name": "Restaurant Nyanga",
+  "city": "Douala",
+  "country": "Cameroon",
+  "placeId": "ChIJbc_y53MSYRARbFBn1idCpbk",
+  "googleName": "Nyanga Restaurant",
+  "formattedAddress": "L'Avenue des Stars, Yau Tsim Mong District, Cameroon",
+  "phone": "6 40 85 53 57",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13377171007042179180",
+  "rating": 3.7,
+  "reviewCount": 132,
+  "coords": [
+    4.0695991,
+    9.7143636
+  ],
+  "openingHours": [
+    "Monday: 11:30 AM – 12:00 AM",
+    "Tuesday: 11:30 AM – 12:00 AM",
+    "Wednesday: 11:30 AM – 12:00 AM",
+    "Thursday: 11:30 AM – 12:00 AM",
+    "Friday: 11:30 AM – 12:00 AM",
+    "Saturday: 11:30 AM – 2:00 AM",
+    "Sunday: 11:30 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/restaurant-nyanga-douala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:37:51.614Z"
+}

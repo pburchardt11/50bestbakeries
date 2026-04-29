@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-zivy-chleb-beroun",
+  "name": "Pekárna Živý Chléb",
+  "city": "Beroun",
+  "country": "Czech Republic",
+  "placeId": "ChIJ0XgIsR6lC0cR2rKcmVnmumY",
+  "googleName": "Pekárna Živý Chléb",
+  "formattedAddress": "Holandská 122, Centrum, 266 01 Beroun-Beroun 1, Czechia",
+  "phone": null,
+  "website": "http://zivychleb.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7402482210040492762",
+  "rating": 4.8,
+  "reviewCount": 33,
+  "coords": [
+    49.962338,
+    14.0727678
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-zivy-chleb-beroun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:15.495Z"
+}

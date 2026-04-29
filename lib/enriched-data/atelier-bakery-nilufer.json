@@ -1,0 +1,43 @@
+{
+  "slug": "atelier-bakery-nilufer",
+  "name": "Atelier Bakery",
+  "curatedName": "Atelier Bakery",
+  "city": "Nilüfer",
+  "country": "Türkiye",
+  "placeId": "ChIJZyfRVuQTyhQRk52_lPJjxGY",
+  "googleName": "Atelier Bakery",
+  "formattedAddress": "Ona 202, 23 Nisan, Köroğlu Cd. A Blok No: 24AC, 16230 Ni̇lüfer/Bursa, Türkiye",
+  "phone": "0530 976 58 16",
+  "internationalPhone": "+90 530 976 58 16",
+  "website": "http://www.atelierbakery.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7405153580832759187",
+  "rating": 4.7,
+  "reviewCount": 525,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.2206994,
+    28.9446064
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:30 PM",
+    "Saturday: 9:00 AM – 11:30 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/atelier-bakery-nilufer/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:55.864Z"
+}

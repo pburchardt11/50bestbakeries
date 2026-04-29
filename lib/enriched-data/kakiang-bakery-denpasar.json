@@ -1,0 +1,44 @@
+{
+  "slug": "kakiang-bakery-denpasar",
+  "name": "Kakiang bakery denpasar",
+  "curatedName": "Kakiang bakery denpasar",
+  "city": "Denpasar",
+  "country": "Indonesia",
+  "placeId": "ChIJnz-vsgRB0i0RYutZKGWMbqI",
+  "googleName": "Kakiang Bakery Denpasar",
+  "formattedAddress": "Jl. Diponegoro No.150 blockA no.1, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80232, Indonesia",
+  "phone": "0813-3750-9862",
+  "internationalPhone": "+62 813-3750-9862",
+  "website": "https://www.instagram.com/kakiangbakery?igsh=NG1tem14NTB0aWZm",
+  "googleMapsUrl": "https://maps.google.com/?cid=11704446847679064930",
+  "rating": 4.6,
+  "reviewCount": 829,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -8.6703984,
+    115.2152557
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kakiang-bakery-denpasar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:00.731Z"
+}

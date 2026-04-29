@@ -1,0 +1,45 @@
+{
+  "slug": "glen-s-bakehouse-mysuru",
+  "name": "Glen's Bakehouse",
+  "curatedName": "Glen's Bakehouse",
+  "city": "Mysuru",
+  "country": "India",
+  "placeId": "ChIJuTb44XR7rzsRdCqkgrsHGP0",
+  "googleName": "Glen's Bakehouse",
+  "formattedAddress": "#405, Contour Rd, Gokulam 2nd Stage, Gokulam, Mysuru, Karnataka 570002, India",
+  "phone": "089043 60663",
+  "internationalPhone": "+91 89043 60663",
+  "website": "https://www.glensbakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18237335192968899188",
+  "rating": 4.2,
+  "reviewCount": 2384,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.3319868,
+    76.6244983
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:30 PM",
+    "Tuesday: 8:00 AM – 11:30 PM",
+    "Wednesday: 8:00 AM – 11:30 PM",
+    "Thursday: 8:00 AM – 11:30 PM",
+    "Friday: 8:00 AM – 11:30 PM",
+    "Saturday: 8:00 AM – 11:30 PM",
+    "Sunday: 8:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/glen-s-bakehouse-mysuru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:38:31.043Z"
+}

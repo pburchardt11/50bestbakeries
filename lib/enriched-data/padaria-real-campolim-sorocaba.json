@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-real-campolim-sorocaba",
+  "name": "Padaria Real Campolim",
+  "curatedName": "Padaria Real Campolim",
+  "city": "Sorocaba",
+  "country": "Brazil",
+  "placeId": "ChIJFXCZiouKxZQRQEZ6AEH8YCg",
+  "googleName": "Padaria Real Campolim",
+  "formattedAddress": "Av. Antônio Carlos Comitre, 475 - Parque Campolim, Sorocaba - SP, 18047-620, Brazil",
+  "phone": "(15) 3234-9485",
+  "internationalPhone": "+55 15 3234-9485",
+  "website": "http://www.padariareal.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2909602715392427584",
+  "rating": 4.6,
+  "reviewCount": 13847,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5199263,
+    -47.4642169
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-real-campolim-sorocaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:16:40.767Z"
+}

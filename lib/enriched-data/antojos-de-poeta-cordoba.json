@@ -1,0 +1,43 @@
+{
+  "slug": "antojos-de-poeta-cordoba",
+  "name": "Antojos de Poeta",
+  "curatedName": "Antojos de Poeta",
+  "city": "Córdoba",
+  "country": "Argentina",
+  "placeId": "ChIJVRoCBBSZMpQRFJlIPkAfQRc",
+  "googleName": "Antojos de Poeta",
+  "formattedAddress": "Santiago Baravino 4750, X5008 Córdoba, Argentina",
+  "phone": "0351 620-4916",
+  "internationalPhone": "+54 351 620-4916",
+  "website": "http://www.antojosdepoeta.com.ar/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1675654897141848340",
+  "rating": 4.5,
+  "reviewCount": 901,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -31.3592427,
+    -64.2129674
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antojos-de-poeta-cordoba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:40.027Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "docela-panificadora-maringa",
+  "name": "Docela Panificadora",
+  "curatedName": "Docela Panificadora",
+  "city": "Maringá",
+  "country": "Brazil",
+  "placeId": "ChIJ_eNiGCzX7JQRwV4j5tMKGE8",
+  "googleName": "Docela Panificadora",
+  "formattedAddress": "Rua: Vereador Basílio Sautchuk, 243 - Zona 01, Maringá - PR, 87013-190, Brazil",
+  "phone": "(44) 3026-2043",
+  "internationalPhone": "+55 44 3026-2043",
+  "website": "http://www.panificadoradocela.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5699317233652817601",
+  "rating": 4.5,
+  "reviewCount": 1304,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.4233804,
+    -51.94173499999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:30 PM",
+    "Tuesday: 6:30 AM – 8:30 PM",
+    "Wednesday: 6:30 AM – 8:30 PM",
+    "Thursday: 6:30 AM – 8:30 PM",
+    "Friday: 6:30 AM – 8:30 PM",
+    "Saturday: 6:30 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/docela-panificadora-maringa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:22.523Z"
+}

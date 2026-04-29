@@ -1,0 +1,45 @@
+{
+  "slug": "la-cheesequeria-malaga",
+  "name": "La Cheesequería",
+  "curatedName": "La Cheesequería",
+  "city": "Málaga",
+  "country": "Spain",
+  "placeId": "ChIJ47lq-r_3cg0RA-JszVvM7OE",
+  "googleName": "La Cheesequería",
+  "formattedAddress": "C. Carretería, 44, Distrito Centro, 29008 Málaga, Spain",
+  "phone": "722 63 44 54",
+  "internationalPhone": "+34 722 63 44 54",
+  "website": "https://www.lacheesequeria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16279611447698055683",
+  "rating": 4.7,
+  "reviewCount": 3071,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.7229301,
+    -4.4240027
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:30 PM",
+    "Tuesday: 9:00 AM – 8:30 PM",
+    "Wednesday: 9:00 AM – 8:30 PM",
+    "Thursday: 9:00 AM – 8:30 PM",
+    "Friday: 9:00 AM – 8:30 PM",
+    "Saturday: 9:00 AM – 8:30 PM",
+    "Sunday: 9:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-cheesequeria-malaga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:25.376Z"
+}

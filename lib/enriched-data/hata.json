@@ -1,0 +1,32 @@
+{
+  "slug": "hata",
+  "name": "hata",
+  "city": "Минск",
+  "country": "Belarus",
+  "placeId": "ChIJKZ7B7KbP20YRSOwHPHIGUfM",
+  "googleName": "Hata.by – портал по аренде и продаже недвижимости",
+  "formattedAddress": "vulica Internacyjanaĺnaja 25А, Minsk, Minskaja voblasć 220030, Belarus",
+  "phone": "8 044 550-45-45",
+  "website": "https://www.hata.by/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17532801912033242184",
+  "rating": 2.2,
+  "reviewCount": 21,
+  "coords": [
+    53.9039913,
+    27.5590713
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hata/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:59:40.919Z"
+}

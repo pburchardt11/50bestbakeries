@@ -1,0 +1,32 @@
+{
+  "slug": "laden-s-kitchen-cafe-gazimagusa",
+  "name": "Laden’s Kitchen Cafe",
+  "city": "Gazimağusa",
+  "country": "Cyprus",
+  "placeId": "ChIJtSBNBlXJ3xQRKQIVotQ3sVM",
+  "googleName": "La Dolce Bella Restaurant",
+  "formattedAddress": "Gazi Mustafa Kemal Blv, Gazimağusa 3010",
+  "phone": "0548 891 50 50",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6030662762417685033",
+  "rating": 5,
+  "reviewCount": 74,
+  "coords": [
+    35.1272188,
+    33.9237905
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:30 PM",
+    "Tuesday: 11:00 AM – 9:30 PM",
+    "Wednesday: 11:00 AM – 9:30 PM",
+    "Thursday: 11:00 AM – 9:30 PM",
+    "Friday: 11:00 AM – 9:30 PM",
+    "Saturday: 11:00 AM – 10:00 PM",
+    "Sunday: 12:00 – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/laden-s-kitchen-cafe-gazimagusa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:52:42.721Z"
+}

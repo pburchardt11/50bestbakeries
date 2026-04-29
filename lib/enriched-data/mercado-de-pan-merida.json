@@ -1,0 +1,43 @@
+{
+  "slug": "mercado-de-pan-merida",
+  "name": "Mercado de Pan",
+  "curatedName": "Mercado de Pan",
+  "city": "Mérida",
+  "country": "Mexico",
+  "placeId": "ChIJr0cDcExxVo8RiLjTmxUEBQw",
+  "googleName": "Mercado de Pan",
+  "formattedAddress": "C. 17 102A, entre 20 y 22, Itzimná, 97100 Mérida, Yuc., Mexico",
+  "phone": "999 688 9474",
+  "internationalPhone": "+52 999 688 9474",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=866102994193856648",
+  "rating": 4.6,
+  "reviewCount": 306,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.9940682,
+    -89.611985
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mercado-de-pan-merida/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:39.614Z"
+}

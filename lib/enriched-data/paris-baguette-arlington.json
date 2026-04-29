@@ -1,0 +1,44 @@
+{
+  "slug": "paris-baguette-arlington",
+  "name": "Paris Baguette",
+  "curatedName": "Paris Baguette",
+  "city": "Arlington",
+  "country": "United States",
+  "placeId": "ChIJq43rtQeHToYRJGYFhWMrzC4",
+  "googleName": "Paris Baguette",
+  "formattedAddress": "2609 W Pioneer Pkwy #110, Grand Prairie, TX 75051, USA",
+  "phone": "(817) 770-2525",
+  "internationalPhone": "+1 817-770-2525",
+  "website": "https://parisbaguette.com/locations/tx/grand-prairie/2609-w-pioneer-parkway/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3372117927427139108",
+  "rating": 4.5,
+  "reviewCount": 599,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.7114943,
+    -97.04500139999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-arlington/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:10.308Z"
+}

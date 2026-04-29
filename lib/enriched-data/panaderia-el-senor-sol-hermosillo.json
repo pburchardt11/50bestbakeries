@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-el-senor-sol-hermosillo",
+  "name": "Panaderia El Señor Sol",
+  "curatedName": "Panaderia El Señor Sol",
+  "city": "Hermosillo",
+  "country": "Mexico",
+  "placeId": "ChIJhVZyeCGEzoYRLVTFox2NY8s",
+  "googleName": "Panadería El Señor Sol",
+  "formattedAddress": "Av. José San Healy 206, San Benito, 83190 Hermosillo, Son., Mexico",
+  "phone": "662 267 2307",
+  "internationalPhone": "+52 662 267 2307",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14655712770834912301",
+  "rating": 4.6,
+  "reviewCount": 462,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.101034,
+    -110.966182
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-el-senor-sol-hermosillo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:34.267Z"
+}

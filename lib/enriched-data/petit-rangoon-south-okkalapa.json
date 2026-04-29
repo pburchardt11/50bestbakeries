@@ -1,0 +1,43 @@
+{
+  "slug": "petit-rangoon-south-okkalapa",
+  "name": "Petit Rangoon South Okkalapa",
+  "curatedName": "Petit Rangoon South Okkalapa",
+  "city": "ရန်ကုန်",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJD9ojH6aTwTARhVI6o9UgB3s",
+  "googleName": "Petit Rangoon South Okkalapa",
+  "formattedAddress": "37 Myittar Rd, Yangon, Myanmar (Burma)",
+  "phone": "09 791 602783",
+  "internationalPhone": "+95 9 791 602783",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8865090493440742021",
+  "rating": 4.3,
+  "reviewCount": 183,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    16.838917,
+    96.1787866
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: 8:30 AM – 7:00 PM",
+    "Sunday: 8:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/petit-rangoon-south-okkalapa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:57.825Z"
+}

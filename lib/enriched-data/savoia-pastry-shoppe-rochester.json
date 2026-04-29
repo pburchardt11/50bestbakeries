@@ -1,0 +1,43 @@
+{
+  "slug": "savoia-pastry-shoppe-rochester",
+  "name": "Savoia Pastry Shoppe",
+  "curatedName": "Savoia Pastry Shoppe",
+  "city": "Rochester",
+  "country": "United States",
+  "placeId": "ChIJ2xyKSAjK1okRdklJDNLBTIM",
+  "googleName": "Savoia Pastry Shoppe",
+  "formattedAddress": "2267 Clifford Ave, Rochester, NY 14609, USA",
+  "phone": "(585) 482-1130",
+  "internationalPhone": "+1 585-482-1130",
+  "website": "https://savoiapastry.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9461150025091991926",
+  "rating": 4.7,
+  "reviewCount": 1682,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.176086,
+    -77.56056699999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 4:30 PM",
+    "Sunday: 9:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Longtime Italian bakery offering cakes, cookies & pastries along with bread & personal pizzas.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/savoia-pastry-shoppe-rochester/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:22.991Z"
+}

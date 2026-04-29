@@ -1,0 +1,32 @@
+{
+  "slug": "simit-evi-alsancak",
+  "name": "Simit Evi",
+  "city": "Alsancak",
+  "country": "Cyprus",
+  "placeId": "ChIJXXD-t2YN3hQRu5nCT8fXbFM",
+  "googleName": "Çitir Simit Evi",
+  "formattedAddress": "Karaoğlanoğlu Caddesi No: 69 B Alsancak, Alsancak 99350",
+  "phone": "0533 822 23 25",
+  "website": "https://instagram.com/citirsimitevikibris",
+  "googleMapsUrl": "https://maps.google.com/?cid=6011416853669386683",
+  "rating": 4.5,
+  "reviewCount": 361,
+  "coords": [
+    35.3488068,
+    33.2219902
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simit-evi-alsancak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:54.609Z"
+}

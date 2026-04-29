@@ -1,0 +1,43 @@
+{
+  "slug": "vg-patisserie-paris",
+  "name": "VG Pâtisserie",
+  "curatedName": "VG Pâtisserie",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJq6ruRvZt5kcR3lwPd8IQrSE",
+  "googleName": "VG Pâtisserie",
+  "formattedAddress": "123 Bd Voltaire, 75011 Paris, France",
+  "phone": "01 48 87 13 42",
+  "internationalPhone": "+33 1 48 87 13 42",
+  "website": "http://vgpatisserie.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2426614201629760734",
+  "rating": 4.7,
+  "reviewCount": 2726,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8569444,
+    2.3819444
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 1:00 – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Buzzy bakery/cafe for pies & macarons, plus savory dishes like quiche.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vg-patisserie-paris/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:15.176Z"
+}

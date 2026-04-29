@@ -1,0 +1,35 @@
+{
+  "slug": "sweet-things-cagayan-de-oro-city",
+  "name": "Sweet Things",
+  "curatedName": "Sweet Things",
+  "city": "Cagayan de Oro City",
+  "country": "Philippines",
+  "placeId": "ChIJmajJDsvz_zIRGDMfa-cRGRw",
+  "googleName": "Sweet Things",
+  "formattedAddress": "408 Rodolfo N. Pelaez Blvd, Cagayan De Oro City, 9000 Misamis Oriental, Philippines",
+  "phone": "0917 176 3739",
+  "internationalPhone": "+63 917 176 3739",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2024669193112072984",
+  "rating": 4.9,
+  "reviewCount": 20,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    8.4905951,
+    124.6400943
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-things-cagayan-de-oro-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:52.457Z"
+}

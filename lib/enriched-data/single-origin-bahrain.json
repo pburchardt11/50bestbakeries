@@ -1,0 +1,32 @@
+{
+  "slug": "single-origin-bahrain",
+  "name": "Single Origin",
+  "city": "Bahrain",
+  "country": "Bahrain",
+  "placeId": "ChIJ6W8awI-vST4RsJscD9JhXjM",
+  "googleName": "Single Origin",
+  "formattedAddress": "Road 1243, Isa Town 812, Bahrain",
+  "phone": "3991 6966",
+  "website": "https://www.so-bh.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3701503498569685936",
+  "rating": 4.3,
+  "reviewCount": 104,
+  "coords": [
+    26.170817,
+    50.5495047
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/single-origin-bahrain/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:44:13.450Z"
+}

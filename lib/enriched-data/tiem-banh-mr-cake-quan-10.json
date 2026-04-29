@@ -1,0 +1,43 @@
+{
+  "slug": "tiem-banh-mr-cake-quan-10",
+  "name": "Tiệm bánh Mr Cake",
+  "curatedName": "Tiệm bánh Mr Cake",
+  "city": "Quận 10",
+  "country": "Vietnam",
+  "placeId": "ChIJCUQdytwudTERZvMybYShnsw",
+  "googleName": "Tiệm bánh Mr Cake",
+  "formattedAddress": "150 Đ. Thành Thái, Phường 12, Hòa Hưng, Hồ Chí Minh, Vietnam",
+  "phone": "0934 848 878",
+  "internationalPhone": "+84 934 848 878",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14744399820197393254",
+  "rating": 4,
+  "reviewCount": 92,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7752828,
+    106.6642424
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiem-banh-mr-cake-quan-10/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:19:59.850Z"
+}

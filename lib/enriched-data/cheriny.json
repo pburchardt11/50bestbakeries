@@ -1,0 +1,44 @@
+{
+  "slug": "cheriny",
+  "name": "Cheriny",
+  "curatedName": "Cheriny",
+  "city": "ភ្នំពេញ",
+  "country": "Cambodia",
+  "placeId": "ChIJnR6-yV5XCTER-FvNhGqqvzQ",
+  "googleName": "Chériny",
+  "formattedAddress": "15A Street 432, Phnom Penh 12305, Cambodia",
+  "phone": "085 655 767",
+  "internationalPhone": "+855 85 655 767",
+  "website": "https://www.facebook.com/cherinykh",
+  "googleMapsUrl": "https://maps.google.com/?cid=3800943984995294200",
+  "rating": 4.8,
+  "reviewCount": 404,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    11.5419808,
+    104.9206255
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:30 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: 8:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cheriny/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:45.849Z"
+}

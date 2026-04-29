@@ -1,0 +1,32 @@
+{
+  "slug": "tatl-c-kamil-usta-bak",
+  "name": "Tatlıcı Kamil Usta",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJlbhsgmxjMEARUdlALxMm0JE",
+  "googleName": "Tatlıcı Kamil Usta",
+  "formattedAddress": "102f Qara Qarayev, Bakı 1000, Azerbaijan",
+  "phone": "050 828 00 44",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10506939794494380369",
+  "rating": 5,
+  "reviewCount": 12,
+  "coords": [
+    40.40490519999999,
+    49.9466459
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tatl-c-kamil-usta-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:35:09.885Z"
+}

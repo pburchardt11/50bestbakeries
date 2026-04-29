@@ -1,0 +1,45 @@
+{
+  "slug": "brown-bear-bakery-madrid",
+  "name": "Brown Bear Bakery",
+  "curatedName": "Brown Bear Bakery",
+  "city": "Madrid",
+  "country": "Spain",
+  "placeId": "ChIJ67R5hY8oQg0RoyfidPMc6ww",
+  "googleName": "Brown Bear Bakery",
+  "formattedAddress": "C. del León, 10, Centro, 28014 Madrid, Spain",
+  "phone": "913 69 05 87",
+  "internationalPhone": "+34 913 69 05 87",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=930869579945748387",
+  "rating": 4.3,
+  "reviewCount": 1090,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.414209,
+    -3.698857
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Bakery/cafe in historic premises, for artisan breads & cakes, plus coffee & savory lunch dishes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brown-bear-bakery-madrid/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:56:15.990Z"
+}

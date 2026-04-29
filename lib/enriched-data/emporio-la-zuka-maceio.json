@@ -1,0 +1,46 @@
+{
+  "slug": "emporio-la-zuka-maceio",
+  "name": "Empório La Zuka",
+  "curatedName": "Empório La Zuka",
+  "city": "Maceió",
+  "country": "Brazil",
+  "placeId": "ChIJH14poLFFAQcR_J58b4Ch8LE",
+  "googleName": "Empório La Zuka",
+  "formattedAddress": "R. Dr. Augusto Cardoso, 11 - Loja 01 - Jatiúca, Maceió - AL, 57035-590, Brazil",
+  "phone": "(82) 99308-3414",
+  "internationalPhone": "+55 82 99308-3414",
+  "website": "http://lazuka.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12821925712122126076",
+  "rating": 5,
+  "reviewCount": 116,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "convenience_store",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -9.6525216,
+    -35.7038313
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/emporio-la-zuka-maceio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:40.374Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "the-black-rooster-bakery-fort-worth",
+  "name": "The Black Rooster Bakery",
+  "curatedName": "The Black Rooster Bakery",
+  "city": "Fort Worth",
+  "country": "United States",
+  "placeId": "ChIJF_fDRCBzToYRb15q7qAPVpQ",
+  "googleName": "The Black Rooster Bakery",
+  "formattedAddress": "6333 Camp Bowie Blvd Suite 204, Fort Worth, TX 76116, USA",
+  "phone": "(817) 738-2181",
+  "internationalPhone": "+1 817-738-2181",
+  "website": "http://www.roosterbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10688747949479583343",
+  "rating": 4.6,
+  "reviewCount": 84,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.7263598,
+    -97.41863289999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-black-rooster-bakery-fort-worth/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:15:36.791Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "kanniston-leipomo-helsinki",
+  "name": "Kanniston Leipomo",
+  "curatedName": "Kanniston Leipomo",
+  "city": "Helsinki",
+  "country": "Finland",
+  "placeId": "ChIJR64U1c0LkkYRvyjaG4DaUM4",
+  "googleName": "Kanniston Leipomo",
+  "formattedAddress": "Yliopistonkatu 7, 00100 Helsinki, Finland",
+  "phone": "010 5489404",
+  "internationalPhone": "+358 10 5489404",
+  "website": "http://kannistonleipomo.fi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14866622613707958463",
+  "rating": 4.5,
+  "reviewCount": 157,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    60.16987999999999,
+    24.946488
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kanniston-leipomo-helsinki/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:02.525Z"
+}

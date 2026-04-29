@@ -1,0 +1,45 @@
+{
+  "slug": "pistache-patisserie-nice",
+  "name": "Pistache - Pâtisserie",
+  "curatedName": "Pistache - Pâtisserie",
+  "city": "Nice",
+  "country": "France",
+  "placeId": "ChIJyW_ZQTHbzRIRNLyPqaPNMWQ",
+  "googleName": "Pistache - Pâtisserie",
+  "formattedAddress": "16 Rue Emmanuel Philibert, 06300 Nice, France",
+  "phone": "07 75 75 24 14",
+  "internationalPhone": "+33 7 75 75 24 14",
+  "website": "https://www.nicepistache.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7219777780459748404",
+  "rating": 4.8,
+  "reviewCount": 829,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6989612,
+    7.282947300000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: 8:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pistache-patisserie-nice/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:50.369Z"
+}

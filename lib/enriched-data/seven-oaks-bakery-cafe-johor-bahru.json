@@ -1,0 +1,44 @@
+{
+  "slug": "seven-oaks-bakery-cafe-johor-bahru",
+  "name": "Seven Oaks Bakery Cafe",
+  "curatedName": "Seven Oaks Bakery Cafe",
+  "city": "Johor Bahru",
+  "country": "Malaysia",
+  "placeId": "ChIJ9WAvHSlt2jERxx_Mt_hS00Y",
+  "googleName": "Seven Oaks Bakery Cafe",
+  "formattedAddress": "134, Jalan Serampang, Taman Pelangi, 80400 Johor Bahru, Johor Darul Ta'zim, Malaysia",
+  "phone": "07-338 3377",
+  "internationalPhone": "+60 7-338 3377",
+  "website": "http://www.facebook.com/sevenoaksmalaysia",
+  "googleMapsUrl": "https://maps.google.com/?cid=5103514030929878983",
+  "rating": 4.1,
+  "reviewCount": 1683,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.4841545,
+    103.7714844
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/seven-oaks-bakery-cafe-johor-bahru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:59.625Z"
+}

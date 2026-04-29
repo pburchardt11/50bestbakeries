@@ -1,0 +1,32 @@
+{
+  "slug": "oso-buzet",
+  "name": "OŠO",
+  "city": "Buzet",
+  "country": "Croatia",
+  "placeId": "ChIJJ2vUuz5Xe0cRi6VTxB31GAU",
+  "googleName": "Market \"Ošo\"",
+  "formattedAddress": "Riječka Ul. 2, 52420, Buzet, Croatia",
+  "phone": "052 694 236",
+  "website": "http://www.oso.hr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=367312877827368331",
+  "rating": 4.6,
+  "reviewCount": 353,
+  "coords": [
+    45.41073060000001,
+    13.9706403
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oso-buzet/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:49:39.601Z"
+}

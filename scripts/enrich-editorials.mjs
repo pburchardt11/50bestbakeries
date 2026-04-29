@@ -23,11 +23,14 @@ if (!BLOB_TOKEN) { console.error('Blob token missing'); process.exit(1); }
 
 const argLimit = process.argv.find(a => a.startsWith('--limit='));
 const LIMIT = argLimit ? parseInt(argLimit.split('=')[1], 10) : 10;
+const argPhotos = process.argv.find(a => a.startsWith('--photos='));
+const MAX_PHOTOS = argPhotos ? parseInt(argPhotos.split('=')[1], 10) : 5;
 const argDryRun = process.argv.includes('--dry-run');
 const argAllEditorial = process.argv.includes('--all-editorial');
+const argFromLookup = process.argv.includes('--from-lookup');
 const argSkipEnriched = !process.argv.includes('--force');
 
-console.log(`Phase 4 enrichment — limit=${LIMIT}${argDryRun ? ' (DRY RUN)' : ''}${argAllEditorial ? ' (ALL editorial)' : ' (curated only)'}${argSkipEnriched ? ' (skip already-enriched)' : ''}`);
+console.log(`Phase 4 enrichment — limit=${LIMIT}, photos=${MAX_PHOTOS}${argDryRun ? ' (DRY RUN)' : ''}${argFromLookup ? ' (FROM LOOKUP)' : argAllEditorial ? ' (ALL editorial)' : ' (curated only)'}${argSkipEnriched ? ' (skip already-enriched)' : ''}`);
 
 // ─── Cost tracking ───
 const COST = { findPlace: 0, details: 0, photos: 0, totalCalls: 0 };
@@ -47,8 +50,27 @@ function bakerySlug(name, city) {
   return cs && !ns.endsWith(cs) ? ns + '-' + cs : ns;
 }
 
-// ─── Load editorial data ───
-const { EDITORIAL_BAKERIES } = await import('../lib/editorial-data.js');
+// ─── Load sources ───
+let rawPool = [];
+
+if (argFromLookup) {
+  // Read directly from editorial-lookup.json (all editorial bakeries)
+  const lookupData = JSON.parse(fs.readFileSync(path.join(ROOT, 'lib/editorial-lookup.json'), 'utf8'));
+  for (const [key, entry] of Object.entries(lookupData)) {
+    rawPool.push({
+      name: entry.name,
+      city: entry.city,
+      country: entry.country,
+      editorialScore: entry.s || 0,
+      googlePlaceId: entry.googlePlaceId || null,
+    });
+  }
+} else {
+  const { EDITORIAL_BAKERIES } = await import('../lib/editorial-data.js');
+  rawPool = argAllEditorial
+    ? EDITORIAL_BAKERIES.map(b => ({ name: b.name, city: b.city, country: b.country, editorialScore: 0 }))
+    : EDITORIAL_BAKERIES.filter(b => b.sources?.some(s => s.name === 'Curated')).map(b => ({ name: b.name, city: b.city, country: b.country, editorialScore: 0 }));
+}
 
 // Build set of already-enriched slugs
 const alreadyEnriched = new Set();
@@ -60,25 +82,19 @@ if (argSkipEnriched && fs.existsSync(ENRICHED_DIR)) {
   }
 }
 
-// Pick entries: curated-only (default) or all editorial (--all-editorial)
 function slugify(name, city) {
-  const toSlug = s => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
   const ns = toSlug(name), cs = toSlug(city || '');
   return cs && !ns.endsWith(cs) ? ns + '-' + cs : ns;
 }
 
-let pool = argAllEditorial
-  ? EDITORIAL_BAKERIES
-  : EDITORIAL_BAKERIES.filter(b => b.sources?.some(s => s.name === 'Curated'));
-
 // Skip already-enriched
-pool = pool.filter(b => !alreadyEnriched.has(slugify(b.name, b.city)));
+let pool = rawPool.filter(b => !alreadyEnriched.has(slugify(b.name, b.city)));
 
 const candidates = pool
-  .sort((a, b) => (a.sourceRank || 999) - (b.sourceRank || 999) || a.country.localeCompare(b.country))
+  .sort((a, b) => (b.editorialScore || 0) - (a.editorialScore || 0) || (a.country || '').localeCompare(b.country || ''))
   .slice(0, LIMIT);
 
-console.log(`Pool: ${pool.length} (from ${EDITORIAL_BAKERIES.length} total). Already enriched: ${alreadyEnriched.size}. Selected: ${candidates.length}.`);
+console.log(`Pool: ${pool.length} (from ${rawPool.length} total). Already enriched: ${alreadyEnriched.size}. Selected: ${candidates.length}.`);
 if (candidates.length <= 20) {
   for (const c of candidates) console.log(`  - ${c.name} (${c.city}, ${c.country})`);
 }
@@ -162,7 +178,7 @@ for (let i = 0; i < candidates.length; i++) {
 
     // 3. Download up to 5 photos
     const photoUrls = [];
-    const photos = (d.photos || []).slice(0, 5);
+    const photos = (d.photos || []).slice(0, MAX_PHOTOS);
     for (let p = 0; p < photos.length; p++) {
       try {
         const u = await downloadPhotoToBlob(photos[p].photo_reference, slug, p);

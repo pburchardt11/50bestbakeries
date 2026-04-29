@@ -1,0 +1,32 @@
+{
+  "slug": "pechok-am",
+  "name": "Pechok.am",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJs5B8LgCXakARjxMxba7u-go",
+  "googleName": "PechOK",
+  "formattedAddress": "1st street, Yerevan, Armenia",
+  "phone": "041 205205",
+  "website": "http://pechok.am/",
+  "googleMapsUrl": "https://maps.google.com/?cid=791207117480596367",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    40.1985834,
+    44.4150095
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pechok-am/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:25:38.119Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "baked-on-grant-johannesburg",
+  "name": "Baked on Grant",
+  "curatedName": "Baked on Grant",
+  "city": "Johannesburg",
+  "country": "South Africa",
+  "placeId": "ChIJC7HnbbANlR4R98mkQ_zTAX0",
+  "googleName": "Baked on Grant",
+  "formattedAddress": "38 Grant Ave, Norwood, Johannesburg, 2192, South Africa",
+  "phone": "061 502 2533",
+  "internationalPhone": "+27 61 502 2533",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9007713810137795063",
+  "rating": 4.5,
+  "reviewCount": 363,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.1608869,
+    28.0762037
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 5:30 PM",
+    "Wednesday: 9:00 AM – 5:30 PM",
+    "Thursday: 9:00 AM – 5:30 PM",
+    "Friday: 9:00 AM – 5:30 PM",
+    "Saturday: 9:00 AM – 5:30 PM",
+    "Sunday: 9:00 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-on-grant-johannesburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:56:04.964Z"
+}

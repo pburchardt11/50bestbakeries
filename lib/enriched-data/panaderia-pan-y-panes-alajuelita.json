@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-pan-y-panes-alajuelita",
+  "name": "Panaderia Pan Y Panes",
+  "city": "Alajuelita",
+  "country": "Costa Rica",
+  "placeId": "ChIJvdECMdX8oI8Rgx89CwuknL4",
+  "googleName": "Panaderia Pan Y Panes",
+  "formattedAddress": "Costado sur de la iglesia santo cristo de esquipulas, San José, Alajuelita, Costa Rica",
+  "phone": "6069 2201",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13735033330913320835",
+  "rating": 3.5,
+  "reviewCount": 2,
+  "coords": [
+    9.902442299999999,
+    -84.0993155
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-pan-y-panes-alajuelita/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:48:13.269Z"
+}

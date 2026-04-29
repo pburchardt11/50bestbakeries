@@ -1,0 +1,32 @@
+{
+  "slug": "non-stop-pekarna-brno",
+  "name": "Non Stop Pekárna",
+  "city": "Brno",
+  "country": "Czech Republic",
+  "placeId": "ChIJaavYxw6UEkcR_dRI1d95l9U",
+  "googleName": "Nonstop Pekařství Barunka",
+  "formattedAddress": "57, Palackého tř. 1178, 612 00 Brno-Královo Pole, Czechia",
+  "phone": "541 213 557",
+  "website": "https://barunka.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15390904253824947453",
+  "rating": 3.8,
+  "reviewCount": 372,
+  "coords": [
+    49.2235729,
+    16.5946103
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/non-stop-pekarna-brno/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:55:11.611Z"
+}

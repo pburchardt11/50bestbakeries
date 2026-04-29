@@ -1,0 +1,30 @@
+{
+  "slug": "buregdzinica-zvrk-bihac",
+  "name": "Buregdzinica Zvrk",
+  "city": "Bihać",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJITlLCgBBYUcRaT3eBlUhuxQ",
+  "googleName": "Buregdzinica Zvrk",
+  "formattedAddress": "Dr. Irfana Ljubijankića 184, Bihać 77000, Bosnia and Herzegovina",
+  "phone": "060 33 70 355",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1493824350474616169",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    44.8234882,
+    15.8521362
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:17:25.433Z"
+}

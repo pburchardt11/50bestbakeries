@@ -1,0 +1,45 @@
+{
+  "slug": "petit-delice-merida",
+  "name": "Petit Delice",
+  "curatedName": "Petit Delice",
+  "city": "Mérida",
+  "country": "Mexico",
+  "placeId": "ChIJjdaLjO12Vo8RLY7Txr9jyxY",
+  "googleName": "PETIT DÉLICE",
+  "formattedAddress": "Avenida Andrés Garcia Lavín #352, por diagonal 36, Montebello, 97117 Mérida, Yuc., Mexico",
+  "phone": "999 406 7936",
+  "internationalPhone": "+52 999 406 7936",
+  "website": "http://www.petitdelice.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1642516164432334381",
+  "rating": 4.6,
+  "reviewCount": 1433,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0331847,
+    -89.6027927
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/petit-delice-merida/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:58.703Z"
+}

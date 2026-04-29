@@ -1,0 +1,45 @@
+{
+  "slug": "velvet-bakers-vadodara",
+  "name": "Velvet Bakers",
+  "curatedName": "Velvet Bakers",
+  "city": "Vadodara",
+  "country": "India",
+  "placeId": "ChIJMc1gerDIXzkRSJTBYSVexGc",
+  "googleName": "Velvet Bakers",
+  "formattedAddress": "31, Dr Rustom Cama Marg, near Maruti Courier, Chandralok Society, Nutan Bharat Society, Alkapuri, Vadodara, Gujarat 390007, India",
+  "phone": "072650 77775",
+  "internationalPhone": "+91 72650 77775",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7477204795988743240",
+  "rating": 4.2,
+  "reviewCount": 849,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.3148808,
+    73.1707524
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 12:00 AM",
+    "Tuesday: 10:30 AM – 12:00 AM",
+    "Wednesday: 10:30 AM – 12:30 AM",
+    "Thursday: 10:30 AM – 12:30 AM",
+    "Friday: 10:30 AM – 12:00 AM",
+    "Saturday: 10:30 AM – 12:00 AM",
+    "Sunday: 10:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/velvet-bakers-vadodara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:17.996Z"
+}

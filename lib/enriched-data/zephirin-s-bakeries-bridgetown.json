@@ -1,0 +1,32 @@
+{
+  "slug": "zephirin-s-bakeries-bridgetown",
+  "name": "Zephirin's Bakeries",
+  "city": "Bridgetown",
+  "country": "Barbados",
+  "placeId": "ChIJP0fb65P3Q4wRIFFzBOqAlW0",
+  "googleName": "Zephirin's Bakeries",
+  "formattedAddress": "Tudor Bridge, Bridgetown, Saint Michael Barbados",
+  "phone": "(246) 538-1426",
+  "website": "https://zephirinsbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7896359264249401632",
+  "rating": 4,
+  "reviewCount": 230,
+  "coords": [
+    13.1175416,
+    -59.61366040000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zephirin-s-bakeries-bridgetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:55:24.157Z"
+}

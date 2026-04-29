@@ -1,0 +1,43 @@
+{
+  "slug": "la-jolies-patisserie-konak",
+  "name": "La Joliés Patisserie",
+  "curatedName": "La Joliés Patisserie",
+  "city": "Konak",
+  "country": "Türkiye",
+  "placeId": "ChIJiTJvZ0_ZuxQR44pkk3PNp60",
+  "googleName": "La Joliés Patisserie",
+  "formattedAddress": "Kültür, Vasıf Çınar Blv 19 / D, 35220 Konak/İzmir, Türkiye",
+  "phone": "(0232) 416 14 24",
+  "internationalPhone": "+90 232 416 14 24",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12513195985949985507",
+  "rating": 4.8,
+  "reviewCount": 222,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.430454,
+    27.140255
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 8:30 PM",
+    "Tuesday: 9:30 AM – 8:30 PM",
+    "Wednesday: 9:30 AM – 8:30 PM",
+    "Thursday: 9:30 AM – 8:30 PM",
+    "Friday: 9:30 AM – 8:30 PM",
+    "Saturday: 9:30 AM – 8:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-jolies-patisserie-konak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:00:52.271Z"
+}

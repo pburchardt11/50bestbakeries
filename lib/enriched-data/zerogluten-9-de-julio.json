@@ -1,0 +1,32 @@
+{
+  "slug": "zerogluten-9-de-julio",
+  "name": "Zerogluten",
+  "city": "9 de Julio",
+  "country": "Argentina",
+  "placeId": "ChIJnTepyVgNv5URPXWSG7ay5kw",
+  "googleName": "Zerogluten",
+  "formattedAddress": "Bartolomé Mitre 1474 6500, B6500 9 de Julio, Provincia de Buenos Aires, Argentina",
+  "phone": "02317 52-9780",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5541312886742349117",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -35.4460446,
+    -60.886777
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 2:00 PM, 4:00 – 8:00 PM",
+    "Tuesday: 8:30 AM – 2:00 PM, 4:00 – 8:00 PM",
+    "Wednesday: 8:30 AM – 2:00 PM, 4:00 – 8:00 PM",
+    "Thursday: 8:30 AM – 2:00 PM, 4:00 – 8:00 PM",
+    "Friday: 8:30 AM – 2:00 PM, 4:00 – 8:00 PM",
+    "Saturday: 8:30 AM – 2:00 PM, 4:00 – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zerogluten-9-de-julio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:21:26.153Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-wogenstein-backerei-cafe-konditorei-altenburg",
+  "name": "Bäckerei Wögenstein (Bäckerei, Café, Konditorei)",
+  "city": "Altenburg",
+  "country": "Austria",
+  "placeId": "ChIJgVS4f3W9ckcRU0pdsxPyBfM",
+  "googleName": "Bäckerei Wögenstein (Bäckerei, Café, Konditorei)",
+  "formattedAddress": "Zwettler Str. 9, 3591 Altenburg, Austria",
+  "phone": "02982 2559",
+  "website": "https://bäckerei-wögenstein.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17511668892527577683",
+  "rating": 4.8,
+  "reviewCount": 68,
+  "coords": [
+    48.6460784,
+    15.5947381
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Tuesday: 6:30 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Wednesday: 6:30 AM – 12:30 PM",
+    "Thursday: 6:30 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Friday: 6:30 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Saturday: 6:30 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-wogenstein-backerei-cafe-konditorei-altenburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:33:40.661Z"
+}

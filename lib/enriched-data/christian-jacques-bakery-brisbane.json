@@ -1,0 +1,43 @@
+{
+  "slug": "christian-jacques-bakery-brisbane",
+  "name": "Christian Jacques Bakery",
+  "curatedName": "Christian Jacques Bakery",
+  "city": "Brisbane",
+  "country": "Australia",
+  "placeId": "ChIJ7SYm9dpbkWsRLJylxHBNpmM",
+  "googleName": "Christian Jacques Bakery",
+  "formattedAddress": "8 Baildon St, Kangaroo Point QLD 4169, Australia",
+  "phone": "0432 009 006",
+  "internationalPhone": "+61 432 009 006",
+  "website": "http://christianjacquespastries.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7180511802619698220",
+  "rating": 4.8,
+  "reviewCount": 1427,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.4684926,
+    153.0356837
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 1:00 PM",
+    "Wednesday: 6:00 AM – 1:00 PM",
+    "Thursday: 6:00 AM – 1:00 PM",
+    "Friday: 6:00 AM – 1:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/christian-jacques-bakery-brisbane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:08.760Z"
+}

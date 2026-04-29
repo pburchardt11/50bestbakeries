@@ -1,0 +1,43 @@
+{
+  "slug": "la-masa-de-tomasa-alicante",
+  "name": "La Masa de Tomasa",
+  "curatedName": "La Masa de Tomasa",
+  "city": "Alicante",
+  "country": "Spain",
+  "placeId": "ChIJhX12V603Yg0Rmr1sgdGS0Uw",
+  "googleName": "La Masa de Tomasa",
+  "formattedAddress": "Av. Alfonso El Sabio, 18, 03004 Alicante, Spain",
+  "phone": "966 23 30 20",
+  "internationalPhone": "+34 966 23 30 20",
+  "website": "http://www.lamasadetomasa.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5535366845532257690",
+  "rating": 4.4,
+  "reviewCount": 573,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.3473653,
+    -0.4874752
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:30 PM",
+    "Tuesday: 8:00 AM – 9:30 PM",
+    "Wednesday: 8:00 AM – 9:30 PM",
+    "Thursday: 8:00 AM – 9:30 PM",
+    "Friday: 8:00 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-masa-de-tomasa-alicante/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:36.834Z"
+}

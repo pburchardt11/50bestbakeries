@@ -1,0 +1,43 @@
+{
+  "slug": "rebecca-pasticceria-genova",
+  "name": "Rebecca Pasticceria",
+  "curatedName": "Rebecca Pasticceria",
+  "city": "Genova",
+  "country": "Italy",
+  "placeId": "ChIJ13iYU9hD0xIRI66ZSU06l_M",
+  "googleName": "Rebecca Pasticceria",
+  "formattedAddress": "Via Luccoli, 69r, 16123 Genova GE, Italy",
+  "phone": "010 472 1503",
+  "internationalPhone": "+39 010 472 1503",
+  "website": "https://rebeccapasticceria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17552562176321498659",
+  "rating": 4.7,
+  "reviewCount": 256,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.41006,
+    8.9347069
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rebecca-pasticceria-genova/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:56.340Z"
+}

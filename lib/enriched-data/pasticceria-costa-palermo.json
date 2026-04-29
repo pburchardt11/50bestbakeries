@@ -1,0 +1,44 @@
+{
+  "slug": "pasticceria-costa-palermo",
+  "name": "Pasticceria Costa",
+  "curatedName": "Pasticceria Costa",
+  "city": "Palermo",
+  "country": "Italy",
+  "placeId": "ChIJzQNP3tnlGRMRdSF0fqS_OtM",
+  "googleName": "Pasticceria Costa",
+  "formattedAddress": "Via Maqueda, 174, 90133 Palermo PA, Italy",
+  "phone": "091 980 7927",
+  "internationalPhone": "+39 091 980 7927",
+  "website": "http://www.pasticceriacosta.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15220688603869094261",
+  "rating": 4.2,
+  "reviewCount": 1628,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.1158823,
+    13.3612674
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 11:30 PM",
+    "Tuesday: 8:30 AM – 11:30 PM",
+    "Wednesday: 8:30 AM – 11:30 PM",
+    "Thursday: 8:30 AM – 11:30 PM",
+    "Friday: 8:30 AM – 12:00 AM",
+    "Saturday: 8:30 AM – 12:00 AM",
+    "Sunday: 8:30 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-costa-palermo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:15.345Z"
+}

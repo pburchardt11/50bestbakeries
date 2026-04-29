@@ -1,0 +1,44 @@
+{
+  "slug": "el-atelier-de-diego-caride-vigo",
+  "name": "El Atelier de Diego Caride",
+  "curatedName": "El Atelier de Diego Caride",
+  "city": "Vigo",
+  "country": "Spain",
+  "placeId": "ChIJj8PnSGNiLw0RpK1ao4OqCAA",
+  "googleName": "El Atelier de Diego Caride",
+  "formattedAddress": "Rúa de San Roque, 101, Lavadores, 36205 Vigo, Pontevedra, Spain",
+  "phone": "986 27 65 74",
+  "internationalPhone": "+34 986 27 65 74",
+  "website": "https://elatelierdediegocaride.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2439282171751844",
+  "rating": 4.4,
+  "reviewCount": 1047,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.2305561,
+    -8.7082643
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:30 PM",
+    "Tuesday: 8:00 AM – 9:30 PM",
+    "Wednesday: 8:00 AM – 9:30 PM",
+    "Thursday: 8:00 AM – 9:30 PM",
+    "Friday: 8:00 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: 8:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-atelier-de-diego-caride-vigo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:07.044Z"
+}

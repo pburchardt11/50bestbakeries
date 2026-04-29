@@ -1,0 +1,43 @@
+{
+  "slug": "casa-elmira-paranaque",
+  "name": "Casa Elmira",
+  "curatedName": "Casa Elmira",
+  "city": "Parañaque",
+  "country": "Philippines",
+  "placeId": "ChIJ78EijBbOlzMRylG6U10Vpt4",
+  "googleName": "Casa Elmira",
+  "formattedAddress": "293, 1720 El Grande Ave, Parañaque, Metro Manila, Philippines",
+  "phone": "(02) 8420 7376",
+  "internationalPhone": "+63 2 8420 7376",
+  "website": "http://casaelmira.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16043534213134832074",
+  "rating": 4.5,
+  "reviewCount": 101,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.455841,
+    121.007251
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 9:00 PM",
+    "Tuesday: 8:30 AM – 9:00 PM",
+    "Wednesday: 8:30 AM – 9:00 PM",
+    "Thursday: 8:30 AM – 9:00 PM",
+    "Friday: 8:30 AM – 9:00 PM",
+    "Saturday: 8:30 AM – 10:00 PM",
+    "Sunday: 8:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-elmira-paranaque/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:58:01.872Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "xurrupand-escaldes-engordany",
+  "name": "Xurrupand",
+  "city": "Escaldes-Engordany",
+  "country": "Andorra",
+  "placeId": "ChIJw_piXwCLpRIRuudVcFIWjDo",
+  "googleName": "Xurrupand",
+  "formattedAddress": "Carrer Santa Anna, 11, AD700 Escaldes-Engordany, Andorra",
+  "phone": "885 069",
+  "website": "https://xurrupand.ad/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4218771494267119546",
+  "rating": 4.3,
+  "reviewCount": 123,
+  "coords": [
+    42.5091027,
+    1.541103
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 1:00 PM, 4:00 – 8:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 8:00 AM – 1:00 PM, 4:00 – 8:00 PM",
+    "Friday: 8:00 AM – 1:00 PM, 4:00 – 8:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM, 4:00 – 8:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM, 4:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/xurrupand-escaldes-engordany/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:17:01.035Z"
+}

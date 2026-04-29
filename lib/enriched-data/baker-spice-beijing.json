@@ -1,0 +1,24 @@
+{
+  "slug": "baker-spice-beijing",
+  "name": "Baker & Spice Beijing",
+  "city": "Beijing",
+  "country": "China",
+  "placeId": "ChIJs8RUlrKt8TURYprZvxASR-M",
+  "googleName": "Baker & Spice",
+  "formattedAddress": "China, Bei Jing Shi, Chao Yang Qu, 86, Jian Guo Lu, 86号1层SKP-S地下 邮政编码: 100124",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16377078433103583842",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    39.9076236,
+    116.4793241
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-spice-beijing/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:44:09.492Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "eden-training-center-cambodia",
+  "name": "Eden Training Center Cambodia",
+  "city": "បាត់ដំបង",
+  "country": "Cambodia",
+  "placeId": "ChIJ50BZfotJBTERc5zeUOyTLEo",
+  "googleName": "Cafe Eden",
+  "formattedAddress": "Rd No 1, Krong Battambang, Cambodia",
+  "phone": "077 534 840",
+  "website": "https://www.cafeedencambodia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5344809500960267379",
+  "rating": 4.4,
+  "reviewCount": 439,
+  "coords": [
+    13.1030867,
+    103.1996596
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eden-training-center-cambodia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:32:53.566Z"
+}

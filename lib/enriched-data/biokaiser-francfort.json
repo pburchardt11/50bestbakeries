@@ -1,0 +1,43 @@
+{
+  "slug": "biokaiser-francfort",
+  "name": "Biokaiser",
+  "curatedName": "Biokaiser",
+  "city": "Francfort",
+  "country": "Germany",
+  "placeId": "ChIJVxigVwsPvUcRsz9nz278aiU",
+  "googleName": "BioKaiser",
+  "formattedAddress": "Kaiserstraße 59, 60329 Frankfurt am Main, Germany",
+  "phone": "06134 5842450",
+  "internationalPhone": "+49 6134 5842450",
+  "website": "https://www.ihre-bio-baeckerei.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2696244879790915507",
+  "rating": 4.5,
+  "reviewCount": 237,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.1082142,
+    8.6685187
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/biokaiser-francfort/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:13.280Z"
+}

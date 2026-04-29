@@ -1,0 +1,43 @@
+{
+  "slug": "club-del-pan-montevideo",
+  "name": "Club del Pan",
+  "curatedName": "Club del Pan",
+  "city": "Montevideo",
+  "country": "Uruguay",
+  "placeId": "ChIJAbXRa8WBn5UR6ds5auT2hC8",
+  "googleName": "Club del Pan",
+  "formattedAddress": "Av. Gonzalo Ramírez 1485, 11200 Montevideo, Departamento de Montevideo, Uruguay",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/clubdelpan.uy/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3424133077603572713",
+  "rating": 4.8,
+  "reviewCount": 86,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.9124514,
+    -56.18305369999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 8:00 PM",
+    "Wednesday: 8:30 AM – 8:00 PM",
+    "Thursday: 8:30 AM – 8:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/club-del-pan-montevideo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:17:36.351Z"
+}

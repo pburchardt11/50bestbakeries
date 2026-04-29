@@ -1,0 +1,32 @@
+{
+  "slug": "flor-reposteria-la-romana",
+  "name": "Flor reposteria",
+  "city": "La Romana",
+  "country": "Dominican Republic",
+  "placeId": "ChIJzVBQdUNUr44R3zoeiF11uJ0",
+  "googleName": "D FLOR REPOSTERIA",
+  "formattedAddress": "Av Sta Rosa 12, La Romana 22000, Dominican Republic",
+  "phone": "(809) 550-0988",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11364962704245537503",
+  "rating": 4.6,
+  "reviewCount": 120,
+  "coords": [
+    18.4219045,
+    -68.9687867
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flor-reposteria-la-romana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:43.284Z"
+}

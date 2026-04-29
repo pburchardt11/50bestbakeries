@@ -1,0 +1,43 @@
+{
+  "slug": "ginos-bakery-firenze",
+  "name": "Ginos Bakery",
+  "curatedName": "Ginos Bakery",
+  "city": "Firenze",
+  "country": "Italy",
+  "placeId": "ChIJY8mV_P9TKhMRGQFj1wfg8O4",
+  "googleName": "Ginos Bakery",
+  "formattedAddress": "Via de' Guicciardini, 3/5, 50041 Firenze FI, Italy",
+  "phone": "055 073 2247",
+  "internationalPhone": "+39 055 073 2247",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17217507699720388889",
+  "rating": 4.6,
+  "reviewCount": 1016,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.7672251,
+    11.2525617
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ginos-bakery-firenze/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:01.363Z"
+}

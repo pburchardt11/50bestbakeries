@@ -1,0 +1,43 @@
+{
+  "slug": "take-a-cake",
+  "name": "Take a cake",
+  "curatedName": "Take a cake",
+  "city": "อุดรธานี",
+  "country": "Thailand",
+  "placeId": "ChIJjyLLrG6dIzER2h0QpfXZBqc",
+  "googleName": "Take a cake อุดร",
+  "formattedAddress": "477/5 1 Soi Non Phibun, Tambon Ban Lueam, Amphoe Mueang Udon Thani, Chang Wat Udon Thani 41000, Thailand",
+  "phone": "085 505 8149",
+  "internationalPhone": "+66 85 505 8149",
+  "website": "https://www.facebook.com/profile.php?id=100089598507855&mibextid=ZbWKwL",
+  "googleMapsUrl": "https://maps.google.com/?cid=12035546703253741018",
+  "rating": 5,
+  "reviewCount": 6,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    17.4235221,
+    102.7813628
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/take-a-cake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:27.269Z"
+}

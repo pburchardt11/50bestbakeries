@@ -1,0 +1,43 @@
+{
+  "slug": "pasticceria-marchini-time-venezia",
+  "name": "Pasticceria Marchini Time",
+  "curatedName": "Pasticceria Marchini Time",
+  "city": "Venezia",
+  "country": "Italy",
+  "placeId": "ChIJdd8sCNqxfkcRzbOU1Ff8KAM",
+  "googleName": "Pasticceria Marchini Time",
+  "formattedAddress": "Campo S. Luca, 4589, 30124 Venezia VE, Italy",
+  "phone": "041 241 3087",
+  "internationalPhone": "+39 041 241 3087",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=227709235341079501",
+  "rating": 4.4,
+  "reviewCount": 696,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4358675,
+    12.3351661
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Simple outpost supplying coffee & a diverse selection of old-fashioned pastries & cookies.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-marchini-time-venezia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:20.324Z"
+}

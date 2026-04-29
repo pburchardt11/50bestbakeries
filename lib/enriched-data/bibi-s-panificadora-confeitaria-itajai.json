@@ -1,0 +1,43 @@
+{
+  "slug": "bibi-s-panificadora-confeitaria-itajai",
+  "name": "Bibi's Panificadora & Confeitaria",
+  "curatedName": "Bibi's Panificadora & Confeitaria",
+  "city": "Itajaí",
+  "country": "Brazil",
+  "placeId": "ChIJC1M7NgDN2JQRgGAMFbkcFc4",
+  "googleName": "Bibi's Panificadora & Confeitaria",
+  "formattedAddress": "R. Stringari, 508 - São João, Itajaí - SC, 88305-110, Brazil",
+  "phone": "(47) 98857-2503",
+  "internationalPhone": "+55 47 98857-2503",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14849806927571738752",
+  "rating": 4.9,
+  "reviewCount": 41,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.8989063,
+    -48.6765629
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 12:00 PM, 2:30 – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bibi-s-panificadora-confeitaria-itajai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:23:46.619Z"
+}

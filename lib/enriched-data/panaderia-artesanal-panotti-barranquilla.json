@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-artesanal-panotti-barranquilla",
+  "name": "Panadería Artesanal Panotti",
+  "curatedName": "Panadería Artesanal Panotti",
+  "city": "Barranquilla",
+  "country": "Colombia",
+  "placeId": "ChIJRXmcJLst9I4RcTG4M2UtVNk",
+  "googleName": "Panaderia Artesanal Panotti",
+  "formattedAddress": "Cra. 64 #84-178, Riomar, Barranquilla, Atlántico, Colombia",
+  "phone": "320 7213818",
+  "internationalPhone": "+57 320 7213818",
+  "website": "https://www.instagram.com/panottibaq",
+  "googleMapsUrl": "https://maps.google.com/?cid=15660191716956713329",
+  "rating": 4.7,
+  "reviewCount": 198,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    11.0127921,
+    -74.8123203
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:30 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: 8:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-artesanal-panotti-barranquilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:34.925Z"
+}

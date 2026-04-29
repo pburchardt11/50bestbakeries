@@ -1,0 +1,32 @@
+{
+  "slug": "pritchard-s-bakery-leone",
+  "name": "Pritchard's Bakery",
+  "city": "Leone",
+  "country": "American Samoa",
+  "placeId": "ChIJdXeHC6edpnER22X1tyagTNo",
+  "googleName": "Pritchard's Bakery",
+  "formattedAddress": "M65C+M2J, Leone, Western District 96799, American Samoa",
+  "phone": "(684) 688-7705",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15730123686653814235",
+  "rating": 4.5,
+  "reviewCount": 52,
+  "coords": [
+    -14.3407765,
+    -170.7799745
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 2:00 PM",
+    "Tuesday: 5:00 AM – 2:00 PM",
+    "Wednesday: 5:00 AM – 2:00 PM",
+    "Thursday: 5:00 AM – 2:00 PM",
+    "Friday: 5:00 AM – 2:00 PM",
+    "Saturday: 5:00 – 9:00 AM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pritchard-s-bakery-leone/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:16:46.702Z"
+}

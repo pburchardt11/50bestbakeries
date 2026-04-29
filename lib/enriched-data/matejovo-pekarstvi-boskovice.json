@@ -1,0 +1,32 @@
+{
+  "slug": "matejovo-pekarstvi-boskovice",
+  "name": "Matejovo Pekarstvi",
+  "city": "Boskovice",
+  "country": "Czech Republic",
+  "placeId": "ChIJSWU1c1NjEkcRNmKcQmwJwgw",
+  "googleName": "Matějovo pekařství",
+  "formattedAddress": "Masarykovo nám. 6, 680 01 Boskovice, Czechia",
+  "phone": "724 776 436",
+  "website": "https://www.matejovopekarstvi.cz/prodejny/boskovice-nam/",
+  "googleMapsUrl": "https://maps.google.com/?cid=919307634515665462",
+  "rating": 4.6,
+  "reviewCount": 35,
+  "coords": [
+    49.4874269,
+    16.6613178
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 7:00 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/matejovo-pekarstvi-boskovice/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:49.288Z"
+}

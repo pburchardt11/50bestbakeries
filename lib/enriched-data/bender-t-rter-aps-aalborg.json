@@ -1,0 +1,32 @@
+{
+  "slug": "bender-t-rter-aps-aalborg",
+  "name": "Bender Tærter ApS",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJAUC54mAtSUYRPsr4KhnX730",
+  "googleName": "Bender Tærter ApS",
+  "formattedAddress": "Hjørringvej 82, 9400 Nørresundby, Denmark",
+  "phone": "98 19 40 80",
+  "website": "http://www.bendertaerter.dk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9074708277269940798",
+  "rating": 4.3,
+  "reviewCount": 8,
+  "coords": [
+    57.07148129999999,
+    9.948078299999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bender-t-rter-aps-aalborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:42.132Z"
+}

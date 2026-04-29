@@ -1,0 +1,45 @@
+{
+  "slug": "ju-conrado-atelie-franca",
+  "name": "Ju Conrado Atelie",
+  "curatedName": "Ju Conrado Atelie",
+  "city": "Franca",
+  "country": "Brazil",
+  "placeId": "ChIJpwT9Pq-nsJQR3nic03hMP2M",
+  "googleName": "Ju Conrado Atelie",
+  "formattedAddress": "Av. Maj. Nicácio, 1710 - Cidade Nova, Franca - SP, 14403-462, Brazil",
+  "phone": "(16) 99183-1560",
+  "internationalPhone": "+55 16 99183-1560",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7151518815117670622",
+  "rating": 4.9,
+  "reviewCount": 24,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.5333219,
+    -47.3961135
+  ],
+  "openingHours": [
+    "Monday: 12:30 – 6:00 PM",
+    "Tuesday: 12:30 – 6:00 PM",
+    "Wednesday: 12:30 – 6:00 PM",
+    "Thursday: 12:30 – 6:00 PM",
+    "Friday: 12:30 – 6:00 PM",
+    "Saturday: 12:30 – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ju-conrado-atelie-franca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:23:35.454Z"
+}

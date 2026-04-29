@@ -1,0 +1,32 @@
+{
+  "slug": "ployer-dominik-ach",
+  "name": "Ployer Dominik",
+  "city": "Ach",
+  "country": "Austria",
+  "placeId": "ChIJO79xD__RdUcRUSOK8XwCTX4",
+  "googleName": "Bäckerei - Konditorei- Café Dominik Ployer",
+  "formattedAddress": "Ach 17, 5122 Ach, Austria",
+  "phone": "07727 2212",
+  "website": "https://www.ployer.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9100933157637202769",
+  "rating": 4.7,
+  "reviewCount": 90,
+  "coords": [
+    48.1575138,
+    12.8351701
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ployer-dominik-ach/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:30:35.839Z"
+}

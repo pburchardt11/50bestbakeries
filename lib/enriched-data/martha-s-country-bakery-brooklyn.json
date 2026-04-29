@@ -1,0 +1,43 @@
+{
+  "slug": "martha-s-country-bakery-brooklyn",
+  "name": "Martha's Country Bakery",
+  "curatedName": "Martha's Country Bakery",
+  "city": "Brooklyn",
+  "country": "United States",
+  "placeId": "ChIJAQXXiWBZwokRcbYYCJ-Pe9Q",
+  "googleName": "Martha's Country Bakery",
+  "formattedAddress": "263 Bedford Ave, Brooklyn, NY 11211, USA",
+  "phone": "(718) 599-0900",
+  "internationalPhone": "+1 718-599-0900",
+  "website": "http://marthascountrybakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15310989271374542449",
+  "rating": 4.5,
+  "reviewCount": 4786,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.714917,
+    -73.9605447
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 1:00 AM",
+    "Saturday: 6:00 AM – 1:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": "Bakeshop with a warm vibe serving old-fashioned cakes & pastries, plus gelato & an espresso bar.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martha-s-country-bakery-brooklyn/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:18.168Z"
+}

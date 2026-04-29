@@ -1,0 +1,32 @@
+{
+  "slug": "sunraise-bakery-bandar-seri-begawan",
+  "name": "Sunraise Bakery",
+  "city": "Bandar Seri Begawan",
+  "country": "Brunei",
+  "placeId": "ChIJncuQAXP1IjIRHTmzwZeUjeY",
+  "googleName": "Sunraise Bakery",
+  "formattedAddress": "WW58+FW2, Bandar Seri Begawan, Brunei",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16613097979950348573",
+  "rating": 4.7,
+  "reviewCount": 6,
+  "coords": [
+    4.908628,
+    114.9172549
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:30 PM",
+    "Tuesday: 7:30 AM – 10:30 PM",
+    "Wednesday: 7:30 AM – 10:30 PM",
+    "Thursday: 7:30 AM – 10:30 PM",
+    "Friday: 7:30 AM – 10:30 PM",
+    "Saturday: 7:30 AM – 10:30 PM",
+    "Sunday: 7:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sunraise-bakery-bandar-seri-begawan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:20:00.011Z"
+}

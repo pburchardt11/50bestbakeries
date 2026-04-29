@@ -1,0 +1,43 @@
+{
+  "slug": "bakery-and-confectionery-portobelo-rio-grande",
+  "name": "Bakery and Confectionery Portobelo",
+  "curatedName": "Bakery and Confectionery Portobelo",
+  "city": "Rio Grande",
+  "country": "Brazil",
+  "placeId": "ChIJu6JJMeaFEZUR_Zv68cDHS7Y",
+  "googleName": "Bakery and Confectionery Portobelo",
+  "formattedAddress": "Av. Atlântica, 1162 - Praia do Cassino, Rio Grande - RS, 96207-660, Brazil",
+  "phone": "(53) 3236-5997",
+  "internationalPhone": "+55 53 3236-5997",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13135812369663564797",
+  "rating": 4.7,
+  "reviewCount": 651,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -32.1955869,
+    -52.1752904
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-and-confectionery-portobelo-rio-grande/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:56.627Z"
+}

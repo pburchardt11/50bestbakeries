@@ -1,0 +1,43 @@
+{
+  "slug": "lazy-patisserie-quan-hoan-kiem",
+  "name": "LAZY Patisserie",
+  "curatedName": "LAZY Patisserie",
+  "city": "Quận Hoàn Kiếm",
+  "country": "Vietnam",
+  "placeId": "ChIJ7clu-DurNTERsqCDKCSRejo",
+  "googleName": "LAZY Patisserie",
+  "formattedAddress": "10 Ng. 12B P. Lý Nam Đế, Quán Thánh, Hoàn Kiếm, Hà Nội, Vietnam",
+  "phone": "0799 160 501",
+  "internationalPhone": "+84 799 160 501",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4213839985843085490",
+  "rating": 4.8,
+  "reviewCount": 126,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0384893,
+    105.8453965
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 2:30 PM",
+    "Tuesday: 9:00 AM – 2:30 PM",
+    "Wednesday: 9:00 AM – 2:30 PM",
+    "Thursday: 9:00 AM – 2:30 PM",
+    "Friday: 9:00 AM – 3:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: 10:00 AM – 3:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lazy-patisserie-quan-hoan-kiem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:19:02.610Z"
+}

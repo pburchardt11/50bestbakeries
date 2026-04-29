@@ -1,0 +1,32 @@
+{
+  "slug": "rolling-scones-bakery",
+  "name": "Rolling scones bakery",
+  "city": "Благоевград",
+  "country": "Bulgaria",
+  "placeId": "ChIJix70E5WpqxQRAt2l3_yBmR4",
+  "googleName": "Rolling scones bakery",
+  "formattedAddress": "ул. Ангел Даракчиев 26, 2778 Banja, Bulgaria",
+  "phone": "089 622 2841",
+  "website": "https://www.facebook.com/profile.php?id=100087566562337",
+  "googleMapsUrl": "https://maps.google.com/?cid=2204936415658499330",
+  "rating": 4.9,
+  "reviewCount": 119,
+  "coords": [
+    41.8832174,
+    23.5216278
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Wednesday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Thursday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Friday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rolling-scones-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:24:59.946Z"
+}

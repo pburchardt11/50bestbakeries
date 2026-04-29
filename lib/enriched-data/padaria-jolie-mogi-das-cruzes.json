@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-jolie-mogi-das-cruzes",
+  "name": "Padaria Jolie",
+  "curatedName": "Padaria Jolie",
+  "city": "Mogi das Cruzes",
+  "country": "Brazil",
+  "placeId": "ChIJS6qG8MF3zpQRQhMLQS5TypY",
+  "googleName": "Padaria Jolie",
+  "formattedAddress": "R. Dr. Deodato Wertheimer, 406 - Vila Bras Cubas, Mogi das Cruzes - SP, 08740-270, Brazil",
+  "phone": "(11) 2312-1044",
+  "internationalPhone": "+55 11 2312-1044",
+  "website": "https://m.facebook.com/pages/Padaria-Jolie/157267811012874",
+  "googleMapsUrl": "https://maps.google.com/?cid=10865588509109588802",
+  "rating": 4.7,
+  "reviewCount": 9948,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5389322,
+    -46.2239607
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:30 PM",
+    "Thursday: 6:00 AM – 10:30 PM",
+    "Friday: 6:00 AM – 10:30 PM",
+    "Saturday: 6:00 AM – 10:30 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-jolie-mogi-das-cruzes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:20.431Z"
+}

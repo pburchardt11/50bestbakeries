@@ -1,0 +1,45 @@
+{
+  "slug": "ariza-bakery-cafe-cucuta",
+  "name": "Ariza Bakery Cafe",
+  "curatedName": "Ariza Bakery Cafe",
+  "city": "Cúcuta",
+  "country": "Colombia",
+  "placeId": "ChIJSy45659FZo4RyWTzyaTPH_k",
+  "googleName": "Ariza Bakery Cafe",
+  "formattedAddress": "Av. 0 #11-75, Los Caobos, Cúcuta, Norte de Santander, Colombia",
+  "phone": "318 3397463",
+  "internationalPhone": "+57 318 3397463",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17951294946391844041",
+  "rating": 4.6,
+  "reviewCount": 90,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    7.886176599999999,
+    -72.4980075
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ariza-bakery-cafe-cucuta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:40.536Z"
+}

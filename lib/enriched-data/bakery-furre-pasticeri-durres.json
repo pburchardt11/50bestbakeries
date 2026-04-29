@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-furre-pasticeri-durres",
+  "name": "Bakery Furre Pasticeri",
+  "city": "Durrës",
+  "country": "Albania",
+  "placeId": "ChIJhyvpGTnaTxMRZB3V7e_j4Zs",
+  "googleName": "Bakery Furre Pasticeri",
+  "formattedAddress": "Rruga Adria, Durrës, Albania",
+  "phone": "067 650 0090",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11232509565265583460",
+  "rating": 4.5,
+  "reviewCount": 19,
+  "coords": [
+    41.3183927,
+    19.4533331
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-furre-pasticeri-durres/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:13:47.108Z"
+}

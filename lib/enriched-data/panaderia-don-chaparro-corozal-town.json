@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-don-chaparro-corozal-town",
+  "name": "Panaderia Don Chaparro",
+  "city": "Corozal Town",
+  "country": "Belize",
+  "placeId": "ChIJo4gjDmGXW48RnVlBLGu2nm0",
+  "googleName": "Panaderia Don Chaparro",
+  "formattedAddress": "Gibnut Street, Corozal, Belize",
+  "phone": "632-9525",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7898951367874664861",
+  "rating": 4.7,
+  "reviewCount": 6,
+  "coords": [
+    18.3977637,
+    -88.3811663
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: 3:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-don-chaparro-corozal-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:08:07.727Z"
+}

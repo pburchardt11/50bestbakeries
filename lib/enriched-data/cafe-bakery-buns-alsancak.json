@@ -1,0 +1,32 @@
+{
+  "slug": "cafe-bakery-buns-alsancak",
+  "name": "Cafe-bakery Buns",
+  "city": "Alsancak",
+  "country": "Cyprus",
+  "placeId": "ChIJmw59HIMN3hQRAnuEQza3bf4",
+  "googleName": "Bread Table",
+  "formattedAddress": "Karaoğlanoğlu Cd 1-Cad, Alsancak 9200",
+  "phone": "0533 869 40 00",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18333511101784029954",
+  "rating": 5,
+  "reviewCount": 12,
+  "coords": [
+    35.3471073,
+    33.2018589
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-bakery-buns-alsancak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:52:10.874Z"
+}

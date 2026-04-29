@@ -1,0 +1,45 @@
+{
+  "slug": "miller-baker-perth",
+  "name": "Miller + Baker",
+  "curatedName": "Miller + Baker",
+  "city": "Perth",
+  "country": "Australia",
+  "placeId": "ChIJdcOk_Ey7MioRki6OOuRrO_Q",
+  "googleName": "Miller + Baker",
+  "formattedAddress": "6b/236 Lake St, Perth WA 6000, Australia",
+  "phone": "0488 596 479",
+  "internationalPhone": "+61 488 596 479",
+  "website": "https://cookaborough.com/miller-baker",
+  "googleMapsUrl": "https://maps.google.com/?cid=17598778596859457170",
+  "rating": 4.6,
+  "reviewCount": 407,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -31.9405576,
+    115.8616515
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 2:00 PM",
+    "Tuesday: 6:30 AM – 2:00 PM",
+    "Wednesday: 6:30 AM – 2:00 PM",
+    "Thursday: 6:30 AM – 2:00 PM",
+    "Friday: 6:30 AM – 2:00 PM",
+    "Saturday: 6:30 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/miller-baker-perth/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:13.803Z"
+}

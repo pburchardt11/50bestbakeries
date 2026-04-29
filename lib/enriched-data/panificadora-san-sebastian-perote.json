@@ -1,0 +1,33 @@
+{
+  "slug": "panificadora-san-sebastian-perote",
+  "name": "Panificadora San Sebastian",
+  "curatedName": "Panificadora San Sebastian",
+  "city": "Perote",
+  "country": "Mexico",
+  "placeId": "ChIJxRoqh4zQ2oURzmUUMYSKTQQ",
+  "googleName": "Panificadora San Sebastian",
+  "formattedAddress": "91278 Los Molinos, Ver., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=310056249722168782",
+  "rating": 4.2,
+  "reviewCount": 5,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.59375,
+    -97.21639530000002
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T04:46:30.405Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "the-cookie-caterer-nassau",
+  "name": "The Cookie Caterer",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJbd_Y0-F9L4kRQy3RiDUdfuU",
+  "googleName": "The Cookie Caterer Prince Charles Drive",
+  "formattedAddress": "2MPW+PM, Nassau, The Bahamas",
+  "phone": "(242) 698-4710",
+  "website": "http://www.cookiecaterer.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16536686997516922179",
+  "rating": 4.6,
+  "reviewCount": 144,
+  "coords": [
+    25.0368438,
+    -77.3033356
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 6:00 PM",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cookie-caterer-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:42:40.163Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "l-ogre-de-carrouselberg-lille",
+  "name": "L'Ogre de Carrouselberg",
+  "curatedName": "L'Ogre de Carrouselberg",
+  "city": "Lille",
+  "country": "France",
+  "placeId": "ChIJ9f3zZ3gqw0cRgLSqY6VGick",
+  "googleName": "L'Ogre de Carrouselberg",
+  "formattedAddress": "17 Rue des Vieux Murs, 59800 Lille, France",
+  "phone": "03 28 36 40 68",
+  "internationalPhone": "+33 3 28 36 40 68",
+  "website": "http://www.ogre-de-carrouselberg.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14522216149588554880",
+  "rating": 4.7,
+  "reviewCount": 728,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.6405425,
+    3.0610803
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 6:30 PM",
+    "Thursday: 10:00 AM – 6:30 PM",
+    "Friday: 10:00 AM – 6:30 PM",
+    "Saturday: 9:30 AM – 6:30 PM",
+    "Sunday: 9:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-ogre-de-carrouselberg-lille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:26.635Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "kaiserzeit-frankfurt-am-main",
+  "name": "Kaiserzeit",
+  "curatedName": "Kaiserzeit",
+  "city": "Frankfurt am Main",
+  "country": "Germany",
+  "placeId": "ChIJq2D0vqoOvUcRkYQq8SJa-9Q",
+  "googleName": "Kaiserzeit",
+  "formattedAddress": "Kaiserstraße 59, 60329 Frankfurt am Main, Germany",
+  "phone": "069 24752352",
+  "internationalPhone": "+49 69 24752352",
+  "website": "http://www.ihre-bio-baeckerei.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15346959261316580497",
+  "rating": 4.3,
+  "reviewCount": 536,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.1081942,
+    8.668575
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaiserzeit-frankfurt-am-main/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:08.372Z"
+}

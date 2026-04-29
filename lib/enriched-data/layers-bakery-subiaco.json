@@ -1,0 +1,44 @@
+{
+  "slug": "layers-bakery-subiaco",
+  "name": "Layers Bakery",
+  "curatedName": "Layers Bakery",
+  "city": "Subiaco",
+  "country": "Australia",
+  "placeId": "ChIJfXLWoNalMioR8g8KxVSiux8",
+  "googleName": "Layers Bakery",
+  "formattedAddress": "10/29 Station St, Subiaco WA 6008, Australia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.layersbakery.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2286599720787382258",
+  "rating": 4.7,
+  "reviewCount": 482,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -31.9437709,
+    115.8243104
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 2:30 PM",
+    "Wednesday: 7:00 AM – 2:30 PM",
+    "Thursday: 7:00 AM – 2:30 PM",
+    "Friday: 7:00 AM – 2:30 PM",
+    "Saturday: 7:00 AM – 2:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/layers-bakery-subiaco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:45.399Z"
+}

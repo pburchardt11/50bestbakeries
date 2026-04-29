@@ -1,0 +1,44 @@
+{
+  "slug": "missbake-bologna",
+  "name": "Missbake",
+  "curatedName": "Missbake",
+  "city": "Bologna",
+  "country": "Italy",
+  "placeId": "ChIJ--jOoerUf0cRmn1YbWLns4A",
+  "googleName": "Missbake",
+  "formattedAddress": "Via Marsili, 1c, 40124 Bologna BO, Italy",
+  "phone": "338 999 6835",
+  "internationalPhone": "+39 338 999 6835",
+  "website": "https://www.missbake.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9274010467613310362",
+  "rating": 4.7,
+  "reviewCount": 419,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.4899571,
+    11.3413843
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 5:00 PM",
+    "Tuesday: 12:00 – 5:00 PM",
+    "Wednesday: 12:00 – 5:00 PM",
+    "Thursday: 12:00 – 5:00 PM",
+    "Friday: 12:00 – 5:00 PM",
+    "Saturday: 12:00 – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/missbake-bologna/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:01.447Z"
+}

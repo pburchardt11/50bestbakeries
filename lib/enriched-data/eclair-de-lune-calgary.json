@@ -1,0 +1,43 @@
+{
+  "slug": "eclair-de-lune-calgary",
+  "name": "Éclair de Lune",
+  "curatedName": "Éclair de Lune",
+  "city": "Calgary",
+  "country": "Canada",
+  "placeId": "ChIJ69u1SYFlcVMRR_E0biVzLvc",
+  "googleName": "Éclair de Lune",
+  "formattedAddress": "4127 6 St NE, Calgary, AB T2E 6V5, Canada",
+  "phone": "(403) 398-8803",
+  "internationalPhone": "+1 403-398-8803",
+  "website": "https://eclair-de-lune.storerav.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17811300180896837959",
+  "rating": 4.6,
+  "reviewCount": 1080,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.0894008,
+    -114.0486558
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "French pastry shop in a shopping center offering traditional baked goods with coffee & tea drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eclair-de-lune-calgary/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:57.898Z"
+}

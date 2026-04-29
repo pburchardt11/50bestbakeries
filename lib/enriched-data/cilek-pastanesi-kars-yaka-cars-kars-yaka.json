@@ -1,0 +1,44 @@
+{
+  "slug": "cilek-pastanesi-kars-yaka-cars-kars-yaka",
+  "name": "Çilek Pastanesi Karşıyaka Çarşı",
+  "curatedName": "Çilek Pastanesi Karşıyaka Çarşı",
+  "city": "Karşıyaka",
+  "country": "Türkiye",
+  "placeId": "ChIJZ2lkz8nZuxQRDJz5EGKbIR8",
+  "googleName": "Çilek Pastanesi Karşıyaka Çarşı",
+  "formattedAddress": "Donanmacı, 1721. Sk. no:4/B, 35580 Karşıyaka/İzmir, Türkiye",
+  "phone": "(0232) 337 17 37",
+  "internationalPhone": "+90 232 337 17 37",
+  "website": "http://www.cilekpastanesi.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2243244934901111820",
+  "rating": 4.8,
+  "reviewCount": 1367,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.4560307,
+    27.1181027
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cilek-pastanesi-kars-yaka-cars-kars-yaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:24.835Z"
+}

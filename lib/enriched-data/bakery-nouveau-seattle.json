@@ -1,0 +1,44 @@
+{
+  "slug": "bakery-nouveau-seattle",
+  "name": "Bakery Nouveau",
+  "curatedName": "Bakery Nouveau",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJ--L6NtNqkFQR28XtOJxSxL4",
+  "googleName": "Bakery Nouveau",
+  "formattedAddress": "137 15th Ave E, Seattle, WA 98112, USA",
+  "phone": "(206) 858-6957",
+  "internationalPhone": "+1 206-858-6957",
+  "website": "http://www.bakerynouveau.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13746202793565079003",
+  "rating": 4.6,
+  "reviewCount": 1715,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.619506,
+    -122.312902
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "French bakery outpost with sweet & savory sandwiches, pizza, pastries & breads plus park views.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-nouveau-seattle/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:23.193Z"
+}

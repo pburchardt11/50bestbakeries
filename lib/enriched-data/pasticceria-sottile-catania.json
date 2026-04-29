@@ -1,0 +1,43 @@
+{
+  "slug": "pasticceria-sottile-catania",
+  "name": "Pasticceria Sottile",
+  "curatedName": "Pasticceria Sottile",
+  "city": "Catania",
+  "country": "Italy",
+  "placeId": "ChIJPVHCeSrjExMRDEylcJgnQWg",
+  "googleName": "Pasticceria Sottile",
+  "formattedAddress": "Via Lago di Nicito, 15/17, 95124 Catania CT, Italy",
+  "phone": "095 218 0407",
+  "internationalPhone": "+39 095 218 0407",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7512329189109091340",
+  "rating": 4.8,
+  "reviewCount": 453,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.5077906,
+    15.0791913
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-sottile-catania/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:23.865Z"
+}

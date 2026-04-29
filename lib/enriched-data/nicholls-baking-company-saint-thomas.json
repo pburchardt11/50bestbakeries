@@ -1,0 +1,32 @@
+{
+  "slug": "nicholls-baking-company-saint-thomas",
+  "name": "Nicholls Baking Company",
+  "city": "Saint Thomas",
+  "country": "Barbados",
+  "placeId": "ChIJv6qqam3xQ4wRgVfw_luGGYE",
+  "googleName": "Nicholls Baking Company Inc. Bibby's Lane",
+  "formattedAddress": "Bibbys Lane, Saint Michael Barbados",
+  "phone": "(246) 425-0206",
+  "website": "http://nichollsbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9302614234987779969",
+  "rating": 4.1,
+  "reviewCount": 451,
+  "coords": [
+    13.1508651,
+    -59.5892055
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nicholls-baking-company-saint-thomas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:58:21.563Z"
+}

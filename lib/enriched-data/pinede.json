@@ -1,0 +1,44 @@
+{
+  "slug": "pinede",
+  "name": "PINEDE",
+  "curatedName": "PINEDE",
+  "city": "鈴鹿市",
+  "country": "Japan",
+  "placeId": "ChIJYcGZqkuKA2ARxOqUyvTtcTA",
+  "googleName": "PATISSERIE PINEDE",
+  "formattedAddress": "4-chōme-18 Nishijō, Suzuka, Mie 513-0809, Japan",
+  "phone": "059-384-7001",
+  "internationalPhone": "+81 59-384-7001",
+  "website": "https://pinede.co.jp/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3490832821815405252",
+  "rating": 4,
+  "reviewCount": 141,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.8796968,
+    136.571592
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pinede/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:16.162Z"
+}

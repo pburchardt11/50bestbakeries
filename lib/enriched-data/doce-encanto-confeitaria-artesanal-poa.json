@@ -1,0 +1,43 @@
+{
+  "slug": "doce-encanto-confeitaria-artesanal-poa",
+  "name": "Doce Encanto - Confeitaria Artesanal",
+  "curatedName": "Doce Encanto - Confeitaria Artesanal",
+  "city": "Poá",
+  "country": "Brazil",
+  "placeId": "ChIJgxLVsuJ7zpQRBGbFpJeY1Xw",
+  "googleName": "Doce Encanto - Confeitaria Artesanal",
+  "formattedAddress": "R. Cel. Benedito de Almeida, 104 - Vila Santa Maria, Poá - SP, 08562-200, Brazil",
+  "phone": "(11) 98397-0324",
+  "internationalPhone": "+55 11 98397-0324",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8995263607814317572",
+  "rating": 5,
+  "reviewCount": 21,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5317291,
+    -46.3467226
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/doce-encanto-confeitaria-artesanal-poa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:58.879Z"
+}

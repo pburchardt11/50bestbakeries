@@ -1,0 +1,44 @@
+{
+  "slug": "confeitaria-berola-rio-grande",
+  "name": "Confeitaria Berola Rio Grande",
+  "curatedName": "Confeitaria Berola Rio Grande",
+  "city": "Rio Grande",
+  "country": "Brazil",
+  "placeId": "ChIJ79UHfhCcEZURZzA2jLhOm_Q",
+  "googleName": "Confeitaria Berola Rio Grande",
+  "formattedAddress": "R. Mal. Floriano Peixoto, 261 - Centro, Rio Grande - RS, 96200-360, Brazil",
+  "phone": "(53) 98115-0379",
+  "internationalPhone": "+55 53 98115-0379",
+  "website": "https://wa.me/5553981150379?text=Ol%C3%A1%2C+seja+bem-vindo+a+Confeitaria+Berola%21++Estamos+aqui+para+responder+%C3%A0s+suas+perguntas+e+fornecer+um+atendimento+personalizado.+Como+podemos+ajudar+voc%C3%AA+hoje%3F",
+  "googleMapsUrl": "https://maps.google.com/?cid=17625768121177878631",
+  "rating": 4.8,
+  "reviewCount": 730,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -32.0311875,
+    -52.0932178
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:30 PM",
+    "Tuesday: 10:00 AM – 6:30 PM",
+    "Wednesday: 10:00 AM – 6:30 PM",
+    "Thursday: 10:00 AM – 6:30 PM",
+    "Friday: 10:00 AM – 6:30 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-berola-rio-grande/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:54.205Z"
+}

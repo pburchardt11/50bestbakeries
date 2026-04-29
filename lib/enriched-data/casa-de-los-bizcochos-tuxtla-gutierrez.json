@@ -1,0 +1,43 @@
+{
+  "slug": "casa-de-los-bizcochos-tuxtla-gutierrez",
+  "name": "Casa de los Bizcochos",
+  "curatedName": "Casa de los Bizcochos",
+  "city": "Tuxtla Gutiérrez",
+  "country": "Mexico",
+  "placeId": "ChIJA3KKeAHZ7IURqe51AWaGHXA",
+  "googleName": "Casa de los Bizcochos",
+  "formattedAddress": "De Los Castillos 382, Villas Montes Azules, 29030 Tuxtla Gutiérrez, Chis., Mexico",
+  "phone": "961 147 6002",
+  "internationalPhone": "+52 961 147 6002",
+  "website": "http://www.casadelosbizcochos.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8078761079241830057",
+  "rating": 4.5,
+  "reviewCount": 262,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    16.7523964,
+    -93.1472119
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:30 PM",
+    "Tuesday: 9:00 AM – 8:30 PM",
+    "Wednesday: 9:00 AM – 8:30 PM",
+    "Thursday: 9:00 AM – 8:30 PM",
+    "Friday: 9:00 AM – 8:30 PM",
+    "Saturday: 9:00 AM – 8:30 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-de-los-bizcochos-tuxtla-gutierrez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:03.667Z"
+}

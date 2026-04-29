@@ -1,0 +1,43 @@
+{
+  "slug": "nik-baker-s-jalandhar",
+  "name": "Nik Baker's",
+  "curatedName": "Nik Baker's",
+  "city": "Jalandhar",
+  "country": "India",
+  "placeId": "ChIJp16ReqtbGjkRPYh5sodmqzk",
+  "googleName": "NIK BAKER'S",
+  "formattedAddress": "579 B, Model Town, Jalandhar, Punjab 144001, India",
+  "phone": "0181 244 0140",
+  "internationalPhone": "+91 181 244 0140",
+  "website": "http://www.nikbakers.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4155527814180341821",
+  "rating": 4.2,
+  "reviewCount": 2327,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.3051769,
+    75.57868409999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nik-baker-s-jalandhar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:25.301Z"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "panaderia-bambam-guatemala",
+  "name": "Panadería BamBam",
+  "curatedName": "Panadería BamBam",
+  "city": "Guatemala",
+  "country": "Guatemala",
+  "placeId": "ChIJFcWw2RWiiYURyPbA8OFONT4",
+  "googleName": "Panadería BamBam",
+  "formattedAddress": "9 Av 11-82, Cdad. de Guatemala 01001, Guatemala",
+  "phone": "4162 0841",
+  "internationalPhone": "+502 4162 0841",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4482575736430982856",
+  "rating": 4.7,
+  "reviewCount": 176,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.6369213,
+    -90.51146419999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:30 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T04:33:55.823Z"
+}

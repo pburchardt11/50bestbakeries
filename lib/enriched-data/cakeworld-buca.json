@@ -1,0 +1,43 @@
+{
+  "slug": "cakeworld-buca",
+  "name": "cakeworld",
+  "curatedName": "cakeworld",
+  "city": "Buca",
+  "country": "Türkiye",
+  "placeId": "ChIJl17PC5TfuxQR6VGw6_aAdyU",
+  "googleName": "cakeworld",
+  "formattedAddress": "Akıncılar, Koşu Yolu Cd No:30 D:B, 35380 Buca/İzmir, Türkiye",
+  "phone": "(0232) 452 66 35",
+  "internationalPhone": "+90 232 452 66 35",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2699768299636412905",
+  "rating": 4.3,
+  "reviewCount": 422,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.3882014,
+    27.1512081
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 8:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakeworld-buca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:03:18.874Z"
+}

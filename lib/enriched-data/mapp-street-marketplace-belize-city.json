@@ -1,0 +1,32 @@
+{
+  "slug": "mapp-street-marketplace-belize-city",
+  "name": "Mapp Street Marketplace",
+  "city": "Belize City",
+  "country": "Belize",
+  "placeId": "ChIJMzMHRN1ZXI8RsLjq9_J-zpA",
+  "googleName": "Mapp Street Marketplace",
+  "formattedAddress": "2 Mapp St, Belize City, Belize",
+  "phone": "632-5294",
+  "website": "https://www.mappstreetmarketplace.bz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10434416968670558384",
+  "rating": 4.3,
+  "reviewCount": 68,
+  "coords": [
+    17.5009921,
+    -88.19318729999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mapp-street-marketplace-belize-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:05:51.294Z"
+}

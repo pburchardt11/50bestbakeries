@@ -1,0 +1,45 @@
+{
+  "slug": "mudra-lab-ponta-grossa",
+  "name": "mudra lab",
+  "curatedName": "mudra lab",
+  "city": "Ponta Grossa",
+  "country": "Brazil",
+  "placeId": "ChIJAx-ic9Eb6JQRpSxE5wFdaHM",
+  "googleName": "mudra lab",
+  "formattedAddress": "R. Dr. Paula Xavier, 937 - Centro, Ponta Grossa - PR, 84010-270, Brazil",
+  "phone": "(42) 99145-0695",
+  "internationalPhone": "+55 42 99145-0695",
+  "website": "https://mudralabuptecnologias.com.br/home",
+  "googleMapsUrl": "https://maps.google.com/?cid=8315998974695976101",
+  "rating": 4.9,
+  "reviewCount": 257,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.1008692,
+    -50.1615208
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mudra-lab-ponta-grossa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:20:50.327Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "bakerbots-baking-toronto",
+  "name": "Bakerbots Baking",
+  "curatedName": "Bakerbots Baking",
+  "city": "Toronto",
+  "country": "Canada",
+  "placeId": "ChIJAVvuyl80K4gRkpmVjYTa0Qo",
+  "googleName": "Bakerbots Baking",
+  "formattedAddress": "1242 Bloor St W, Toronto, ON M6H 1N5, Canada",
+  "phone": "(416) 901-3500",
+  "internationalPhone": "+1 416-901-3500",
+  "website": "http://bakerbotsbaking.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=779644473357736338",
+  "rating": 4.7,
+  "reviewCount": 1725,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6591254,
+    -79.4399924
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Hip bakery with a wide variety of cookies & other sweets plus ice cream sandwiches & coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakerbots-baking-toronto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:20.418Z"
+}

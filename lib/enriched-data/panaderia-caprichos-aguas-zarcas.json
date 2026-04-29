@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-caprichos-aguas-zarcas",
+  "name": "Panadería Caprichos",
+  "city": "Aguas Zarcas",
+  "country": "Costa Rica",
+  "placeId": "ChIJr4VfEEVjoI8RT_vE7SSL1Xo",
+  "googleName": "Panadería Caprichos",
+  "formattedAddress": "Ruta Nacional Secundaria 250, Provincia de Alajuela, La Fortuna, Costa Rica",
+  "phone": "7201 8307",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8851133633390771023",
+  "rating": 4.4,
+  "reviewCount": 37,
+  "coords": [
+    10.3872932,
+    -84.3394912
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-caprichos-aguas-zarcas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:46:45.548Z"
+}

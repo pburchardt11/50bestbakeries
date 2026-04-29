@@ -1,0 +1,43 @@
+{
+  "slug": "al-khabbaz-bakeries",
+  "name": "Al Khabbaz Bakeries",
+  "curatedName": "Al Khabbaz Bakeries",
+  "city": "أبوظبي",
+  "country": "UAE",
+  "placeId": "ChIJeVf8vP1nXj4RjBl6NxwtF4I",
+  "googleName": "Al Khabbaz Bakeries مخابز الخباز",
+  "formattedAddress": "Al Ahmadiyyah St - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates",
+  "phone": "02 575 2020",
+  "internationalPhone": "+971 2 575 2020",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9374010748608059788",
+  "rating": 4.6,
+  "reviewCount": 782,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.4803937,
+    54.3635023
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 1:00 AM",
+    "Tuesday: 6:30 AM – 1:00 AM",
+    "Wednesday: 6:30 AM – 1:00 AM",
+    "Thursday: 6:30 AM – 1:00 AM",
+    "Friday: 6:30 AM – 1:00 AM",
+    "Saturday: 6:30 AM – 1:00 AM",
+    "Sunday: 6:30 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-khabbaz-bakeries/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:50.590Z"
+}

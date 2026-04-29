@@ -1,0 +1,32 @@
+{
+  "slug": "fru-s-gaard-aalborg",
+  "name": "Fru Søgaard",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJ0RM4XgAzSUYR55U-3olTFsg",
+  "googleName": "Bakeri Fru Søgaard",
+  "formattedAddress": "C. W. Obels Pl. 1A, 9000 Aalborg, Denmark",
+  "phone": null,
+  "website": "https://frusoegaard.soegaardsbryghus.dk/bageri/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14417803108677490151",
+  "rating": 4.5,
+  "reviewCount": 11,
+  "coords": [
+    57.04892,
+    9.9200961
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fru-s-gaard-aalborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:20.117Z"
+}

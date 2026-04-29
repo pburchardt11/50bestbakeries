@@ -1,0 +1,45 @@
+{
+  "slug": "ca-a-w-mace-warszawa",
+  "name": "Cała w Mące",
+  "curatedName": "Cała w Mące",
+  "city": "Warszawa",
+  "country": "Poland",
+  "placeId": "ChIJHRj8xL7NHkcRNESMvA9weEU",
+  "googleName": "Cała w Mące Cafe & Breakfast",
+  "formattedAddress": "Karmelicka 19, 00-168 Warszawa, Poland",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.instagram.com/calawmacepiekarnia",
+  "googleMapsUrl": "https://maps.google.com/?cid=5005874198712435764",
+  "rating": 4.6,
+  "reviewCount": 522,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.2489388,
+    20.9906486
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ca-a-w-mace-warszawa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:58:11.845Z"
+}

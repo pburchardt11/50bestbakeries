@@ -1,0 +1,44 @@
+{
+  "slug": "hector-s-deli-antigua-guatemala",
+  "name": "Hector’s Deli",
+  "curatedName": "Hector’s Deli",
+  "city": "Antigua Guatemala",
+  "country": "Guatemala",
+  "placeId": "ChIJsZMiHXQOiYUR5qkisP4ZTT0",
+  "googleName": "Hector's Deli",
+  "formattedAddress": "6a Calle Poniente 24, Antigua Guatemala, Guatemala",
+  "phone": "3013 5512",
+  "internationalPhone": "+502 3013 5512",
+  "website": "http://www.instagram.com/hectorsdeli.gt",
+  "googleMapsUrl": "https://maps.google.com/?cid=4417215391187773926",
+  "rating": 4.7,
+  "reviewCount": 222,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5553188,
+    -90.7360803
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hector-s-deli-antigua-guatemala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:00.908Z"
+}

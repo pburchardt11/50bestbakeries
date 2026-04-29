@@ -1,0 +1,44 @@
+{
+  "slug": "eurobakery-playa-sur-mazatlan",
+  "name": "EuroBakery Playa Sur",
+  "curatedName": "EuroBakery Playa Sur",
+  "city": "Mazatlán",
+  "country": "Mexico",
+  "placeId": "ChIJmShVbhJTn4YRZWBzgqu3pTg",
+  "googleName": "EuroBakery Playa Sur",
+  "formattedAddress": "Carnaval 704, Playas del Sur, 82040 Mazatlán, Sin., Mexico",
+  "phone": "669 177 2278",
+  "internationalPhone": "+52 669 177 2278",
+  "website": "https://www.instagram.com/eurobakery_mzt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4081870584537112677",
+  "rating": 4.6,
+  "reviewCount": 277,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.1940011,
+    -106.4211849
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eurobakery-playa-sur-mazatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:13.175Z"
+}

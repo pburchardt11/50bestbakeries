@@ -1,0 +1,43 @@
+{
+  "slug": "primo-helsinki",
+  "name": "Primo",
+  "curatedName": "Primo",
+  "city": "Helsinki",
+  "country": "Finland",
+  "placeId": "ChIJmWC8ftMLkkYREJi_wzF0MGo",
+  "googleName": "PRIMO",
+  "formattedAddress": "Fahlanderin puistokuja 5, 00101 Helsinki, Finland",
+  "phone": "041 5304741",
+  "internationalPhone": "+358 41 5304741",
+  "website": "https://www.instagram.com/primo.bread",
+  "googleMapsUrl": "https://maps.google.com/?cid=7651743523988805648",
+  "rating": 5,
+  "reviewCount": 77,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    60.1687147,
+    24.9122216
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 3:00 – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/primo-helsinki/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:58.018Z"
+}

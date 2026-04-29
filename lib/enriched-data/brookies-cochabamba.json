@@ -1,0 +1,32 @@
+{
+  "slug": "brookies-cochabamba",
+  "name": "Brookies",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJj6qajq1145MRaHY5abzsj-A",
+  "googleName": "Brookies",
+  "formattedAddress": "Calle Luis Quintin Vila, C. Eufronio Viscarra y, Cochabamba, Bolivia",
+  "phone": "79396878",
+  "website": "https://instagram.com/brookies.bol?igshid=rz20mdaivsij",
+  "googleMapsUrl": "https://maps.google.com/?cid=16181412280128861800",
+  "rating": 4.6,
+  "reviewCount": 38,
+  "coords": [
+    -17.3811035,
+    -66.1473081
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:30 PM, 3:30 – 7:30 PM",
+    "Tuesday: 9:00 AM – 12:30 PM, 3:30 – 7:30 PM",
+    "Wednesday: 9:00 AM – 12:30 PM, 3:30 – 7:30 PM",
+    "Thursday: 9:00 AM – 12:30 PM, 3:30 – 7:30 PM",
+    "Friday: 9:00 AM – 12:30 PM, 3:30 – 7:30 PM",
+    "Saturday: 9:00 AM – 12:30 PM, 3:30 – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brookies-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:15:07.653Z"
+}

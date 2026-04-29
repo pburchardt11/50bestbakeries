@@ -1,0 +1,43 @@
+{
+  "slug": "tiem-banh-chon-chon-vung-tau",
+  "name": "Tiệm Bánh Chon Chon",
+  "curatedName": "Tiệm Bánh Chon Chon",
+  "city": "Vũng Tàu",
+  "country": "Vietnam",
+  "placeId": "ChIJXxil1fRvdTER0wDdk0povPE",
+  "googleName": "Tiệm Bánh Chon Chon",
+  "formattedAddress": "5K1 Nguyễn Thái Học, Phường 7, Tam Thắng, Hồ Chí Minh 760000, Vietnam",
+  "phone": "0909 005 300",
+  "internationalPhone": "+84 909 005 300",
+  "website": "https://chonchon.vn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17418912128279838931",
+  "rating": 4.8,
+  "reviewCount": 619,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.3653372,
+    107.0837148
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiem-banh-chon-chon-vung-tau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:19:50.561Z"
+}

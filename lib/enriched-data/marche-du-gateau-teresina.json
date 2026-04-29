@@ -1,0 +1,44 @@
+{
+  "slug": "marche-du-gateau-teresina",
+  "name": "Marché du Gâteau",
+  "curatedName": "Marché du Gâteau",
+  "city": "Teresina",
+  "country": "Brazil",
+  "placeId": "ChIJYfA2agA5jgcReZEnEAK3y7o",
+  "googleName": "Marché du Gâteau",
+  "formattedAddress": "R. Miosótis, 2375 - Fátima, Teresina - PI, 64048-130, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13460053130815705465",
+  "rating": 4.7,
+  "reviewCount": 63,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -5.066686,
+    -42.7961322
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marche-du-gateau-teresina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:30.483Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "eduardo-s-pastry-kitchen-fort-worth",
+  "name": "Eduardo's Pastry Kitchen",
+  "curatedName": "Eduardo's Pastry Kitchen",
+  "city": "Fort Worth",
+  "country": "United States",
+  "placeId": "ChIJyzg_NSxzToYRUVKtcbc7J6Q",
+  "googleName": "Eduardo's Pastry Kitchen",
+  "formattedAddress": "5950 River Oaks Blvd, Fort Worth, TX 76114, USA",
+  "phone": "(214) 531-4830",
+  "internationalPhone": "+1 214-531-4830",
+  "website": "http://www.eduardospastrykitchen.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11828488605384135249",
+  "rating": 4.9,
+  "reviewCount": 104,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.7669996,
+    -97.40775959999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 12:00 – 7:00 PM",
+    "Wednesday: 12:00 – 7:00 PM",
+    "Thursday: 12:00 – 7:00 PM",
+    "Friday: 12:00 – 7:00 PM",
+    "Saturday: 12:00 – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eduardo-s-pastry-kitchen-fort-worth/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:15:28.862Z"
+}

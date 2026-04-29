@@ -1,0 +1,35 @@
+{
+  "slug": "magnolia-bakery-boston",
+  "name": "Magnolia Bakery",
+  "curatedName": "Magnolia Bakery",
+  "city": "Boston",
+  "country": "United States",
+  "placeId": "ChIJITUMb4Zw44kRZZ7L5DdGIV0",
+  "googleName": "Magnolia Bakery - Boston",
+  "formattedAddress": "200 Faneuil Hall Marketplace, Boston, MA 02109, USA",
+  "phone": "(617) 904-1100",
+  "internationalPhone": "+1 617-904-1100",
+  "website": "https://www.magnoliabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6710722125634444901",
+  "rating": 4.4,
+  "reviewCount": 166,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    42.3601711,
+    -71.0556814
+  ],
+  "openingHours": null,
+  "editorialSummary": "Branch of the popular, NYC-founded bakery chain offers creative cupcakes & more in Faneuil Hall.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magnolia-bakery-boston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:24:32.002Z"
+}

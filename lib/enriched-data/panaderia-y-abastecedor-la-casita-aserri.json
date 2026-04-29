@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-abastecedor-la-casita-aserri",
+  "name": "Panadería y abastecedor La casita",
+  "city": "Aserri",
+  "country": "Costa Rica",
+  "placeId": "ChIJ52X-C77ioI8RPFy4qR6zlXw",
+  "googleName": "Panaderia La Casita",
+  "formattedAddress": "VW89+RGG, San José Province, Aserri, Costa Rica",
+  "phone": "2230 0768",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8977278376510774332",
+  "rating": 4.5,
+  "reviewCount": 54,
+  "coords": [
+    9.867066099999999,
+    -84.08115959999999
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: 5:30 AM – 7:00 PM",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: 5:30 AM – 7:00 PM",
+    "Saturday: 5:30 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-abastecedor-la-casita-aserri/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:48:27.854Z"
+}

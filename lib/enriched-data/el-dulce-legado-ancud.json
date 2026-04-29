@@ -1,0 +1,32 @@
+{
+  "slug": "el-dulce-legado-ancud",
+  "name": "El dulce Legado Ancud",
+  "city": "Ancud",
+  "country": "Chile",
+  "placeId": "ChIJD3jmH2SNIpYRSlNnkyXyUKE",
+  "googleName": "El dulce Legado Ancud",
+  "formattedAddress": "Pintor Francisco Carrillo Mancilla 35, 5710000 Ancud, Los Lagos, Chile",
+  "phone": "9 5751 9667",
+  "website": "https://www.instagram.com/el_dulce_legado?igsh=Y2dxY2ZwaXIwcTZk",
+  "googleMapsUrl": "https://maps.google.com/?cid=11624056881443984202",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    -41.8775793,
+    -73.81245249999999
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 9:30 PM",
+    "Tuesday: 10:30 AM – 9:30 PM",
+    "Wednesday: 10:30 AM – 9:30 PM",
+    "Thursday: 10:30 AM – 9:30 PM",
+    "Friday: 10:30 AM – 9:30 PM",
+    "Saturday: 10:30 AM – 9:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-dulce-legado-ancud/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:43:36.722Z"
+}

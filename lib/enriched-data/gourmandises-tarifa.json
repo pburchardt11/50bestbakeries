@@ -1,0 +1,43 @@
+{
+  "slug": "gourmandises-tarifa",
+  "name": "Gourmandises",
+  "curatedName": "Gourmandises",
+  "city": "Tarifa",
+  "country": "Ecuador",
+  "placeId": "ChIJ6c8GkzNtLZARGuvnYeKEZIg",
+  "googleName": "Gourmandises",
+  "formattedAddress": "C. Celeste Blacio de Rendón, C.C y Alhambra, 092301 Samborondón, Ecuador",
+  "phone": "093 915 3018",
+  "internationalPhone": "+593 93 915 3018",
+  "website": "https://gourmandises.ec/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9828126394669329178",
+  "rating": 4.6,
+  "reviewCount": 360,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -2.1319546,
+    -79.8636938
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gourmandises-tarifa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:43.797Z"
+}

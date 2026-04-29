@@ -1,0 +1,44 @@
+{
+  "slug": "fr-ya-panaderia-san-andres-cholula",
+  "name": "Frøya Panaderia",
+  "curatedName": "Frøya Panaderia",
+  "city": "San Andrés Cholula",
+  "country": "Mexico",
+  "placeId": "ChIJT9kFzArBz4UR7pjp-gbs-3g",
+  "googleName": "Frøya Panaderia",
+  "formattedAddress": "C. 8 Ote. 8, Centro, 72810 San Andrés Cholula, Pue., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/froyapanaderia?igsh=Y20zZzEzbGF3Njlk",
+  "googleMapsUrl": "https://maps.google.com/?cid=8717821018429298926",
+  "rating": 4.6,
+  "reviewCount": 218,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.0540527,
+    -98.2965476
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fr-ya-panaderia-san-andres-cholula/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:44.503Z"
+}

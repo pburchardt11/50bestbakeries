@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-rahoui-draa-ben-khedda",
+  "name": "Patisserie Rahoui",
+  "city": "Draâ Ben Khedda",
+  "country": "Algeria",
+  "placeId": "ChIJJz8M7KLHjRIRtGolrr2b6LQ",
+  "googleName": "Pâtisserie Rahoui",
+  "formattedAddress": "Tizi Ouzou 15000, Algeria",
+  "phone": "0556 64 40 24",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13035840360396712628",
+  "rating": 4,
+  "reviewCount": 154,
+  "coords": [
+    36.7233864,
+    4.037027699999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 12:30 PM, 1:30 – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-rahoui-draa-ben-khedda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:16:42.618Z"
+}

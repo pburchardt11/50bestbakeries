@@ -1,0 +1,43 @@
+{
+  "slug": "kukotava-riga",
+  "name": "Kukotava",
+  "curatedName": "Kukotava",
+  "city": "Rīga",
+  "country": "Latvia",
+  "placeId": "ChIJHzEvj83P7kYRQ1OUvBB8QKk",
+  "googleName": "Kūkotava",
+  "formattedAddress": "Tērbatas iela 10/12, Centra rajons, Rīga, LV-1050, Latvia",
+  "phone": "67 283 808",
+  "internationalPhone": "+371 67 283 808",
+  "website": "https://www.kukotava.eu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12195884202244461379",
+  "rating": 4.5,
+  "reviewCount": 1995,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    56.9533485,
+    24.120662
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kukotava-riga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:45.514Z"
+}

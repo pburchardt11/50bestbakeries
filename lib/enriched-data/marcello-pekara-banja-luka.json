@@ -1,0 +1,32 @@
+{
+  "slug": "marcello-pekara-banja-luka",
+  "name": "Marcello pekara",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJo7BZOn8BXkcRU3yGLt8urQw",
+  "googleName": "MARCELLO PEKARA",
+  "formattedAddress": "Put srpskih branilaca 117, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": "051 926-788",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=913437835519229011",
+  "rating": 3.6,
+  "reviewCount": 58,
+  "coords": [
+    44.8305503,
+    17.2180052
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marcello-pekara-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:17:06.864Z"
+}

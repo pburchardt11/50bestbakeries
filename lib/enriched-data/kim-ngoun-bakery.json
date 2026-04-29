@@ -1,0 +1,32 @@
+{
+  "slug": "kim-ngoun-bakery",
+  "name": "Kim Ngoun Bakery",
+  "city": "បាត់ដំបង",
+  "country": "Cambodia",
+  "placeId": "ChIJuQNdMWA3BTERZfGsE6VXYTY",
+  "googleName": "Kim Ngoun Bakery",
+  "formattedAddress": "No.51 NR57, Krong Battambang, Cambodia",
+  "phone": "092 910 799",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3918509517300363621",
+  "rating": 4.4,
+  "reviewCount": 8,
+  "coords": [
+    13.1024087,
+    103.1921441
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kim-ngoun-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:32:59.463Z"
+}

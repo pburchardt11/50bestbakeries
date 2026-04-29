@@ -1,0 +1,44 @@
+{
+  "slug": "the-bakers-cake-shop-nashik",
+  "name": "The Bakers Cake Shop",
+  "curatedName": "The Bakers Cake Shop",
+  "city": "Nashik",
+  "country": "India",
+  "placeId": "ChIJlRPAXKfq3TsRxlk1C0ga2WA",
+  "googleName": "The Bakers Cake Shop",
+  "formattedAddress": "Shop No.1, Tarle Chambers, Model Colony Stop, Jail Rd, Savarkar Nagar, Nashik Road, Nashik, Maharashtra 422101, India",
+  "phone": "080076 54300",
+  "internationalPhone": "+91 80076 54300",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6978637994315307462",
+  "rating": 4.8,
+  "reviewCount": 168,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.9759558,
+    73.8412364
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakers-cake-shop-nashik/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:58.502Z"
+}

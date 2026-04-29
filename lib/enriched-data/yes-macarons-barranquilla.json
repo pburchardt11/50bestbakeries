@@ -1,0 +1,43 @@
+{
+  "slug": "yes-macarons-barranquilla",
+  "name": "Yes Macarons",
+  "curatedName": "Yes Macarons",
+  "city": "Barranquilla",
+  "country": "Colombia",
+  "placeId": "ChIJMUWBKqIt9I4RzLR3sc3naf0",
+  "googleName": "Yes Macarons",
+  "formattedAddress": "Centro comercial Le Meridiem Golf Centro comercial Buena Vista, Cra. 59b #81-158, El Golf, Barranquilla, Atlántico, Colombia",
+  "phone": "305 3561691",
+  "internationalPhone": "+57 305 3561691",
+  "website": "https://instagram.com/yesmacarons?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=18260381034782110924",
+  "rating": 4.8,
+  "reviewCount": 37,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    11.011087,
+    -74.8096395
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yes-macarons-barranquilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:37.278Z"
+}

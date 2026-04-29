@@ -1,0 +1,44 @@
+{
+  "slug": "pasteleria-limon-rosa-aguascalientes",
+  "name": "Pastelería Limón Rosa",
+  "curatedName": "Pastelería Limón Rosa",
+  "city": "Aguascalientes",
+  "country": "Mexico",
+  "placeId": "ChIJg_mU3vDxKYQRTkm-oIHV1go",
+  "googleName": "Pastelería Limón Rosa",
+  "formattedAddress": "Av. Gral. Mariano Escobedo 560, Misión de Sta Lucía, 20298 Aguascalientes, Ags., Mexico",
+  "phone": "449 111 1177",
+  "internationalPhone": "+52 449 111 1177",
+  "website": "https://limonrosa.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=781046338119682382",
+  "rating": 4.9,
+  "reviewCount": 353,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.8490003,
+    -102.2709202
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:30 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-limon-rosa-aguascalientes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:36.908Z"
+}

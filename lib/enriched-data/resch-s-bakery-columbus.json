@@ -1,0 +1,43 @@
+{
+  "slug": "resch-s-bakery-columbus",
+  "name": "Resch's Bakery",
+  "curatedName": "Resch's Bakery",
+  "city": "Columbus",
+  "country": "United States",
+  "placeId": "ChIJR5v5qb9iOIgRAelB8BptgNQ",
+  "googleName": "Resch's Bakery",
+  "formattedAddress": "150 N Hamilton Rd, Gahanna, OH 43230, USA",
+  "phone": "(614) 237-7421",
+  "internationalPhone": "+1 614-237-7421",
+  "website": "https://reschbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15312358695527115009",
+  "rating": 4.7,
+  "reviewCount": 3499,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.0207878,
+    -82.86479659999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Old-school outfit serving cakes, pies, breads, donuts & desserts in a quaint storefront setting.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/resch-s-bakery-columbus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:10:35.067Z"
+}

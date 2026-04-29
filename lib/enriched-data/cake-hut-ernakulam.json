@@ -1,0 +1,43 @@
+{
+  "slug": "cake-hut-ernakulam",
+  "name": "Cake Hut",
+  "curatedName": "Cake Hut",
+  "city": "Ernakulam",
+  "country": "India",
+  "placeId": "ChIJwbXiCgQNCDsRsH8Kbc_N_V0",
+  "googleName": "Cake Hut Banerji Road",
+  "formattedAddress": "Madhava Pharmacy junction, Banerji Rd, Kacheripady, Kochi, Kerala 682018, India",
+  "phone": "080860 00403",
+  "internationalPhone": "+91 80860 00403",
+  "website": "https://www.cakehut.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6772795705406422960",
+  "rating": 4.9,
+  "reviewCount": 1381,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    9.985743699999999,
+    76.2804871
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-hut-ernakulam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:38.514Z"
+}

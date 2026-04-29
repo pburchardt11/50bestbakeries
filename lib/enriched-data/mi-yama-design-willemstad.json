@@ -1,0 +1,32 @@
+{
+  "slug": "mi-yama-design-willemstad",
+  "name": "Mi yama design",
+  "city": "Willemstad",
+  "country": "Curaçao",
+  "placeId": "ChIJe8V13piDhI4RUKB03MHFMVA",
+  "googleName": "Mi Familia",
+  "formattedAddress": "5 Nieuwestraat, Willemstad, Curaçao",
+  "phone": "9 520 3687",
+  "website": "https://www.mifamiliacuracao.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5778617233311047760",
+  "rating": 4.3,
+  "reviewCount": 839,
+  "coords": [
+    12.1033469,
+    -68.92843789999999
+  ],
+  "openingHours": [
+    "Monday: 5:00 PM – 12:00 AM",
+    "Tuesday: 5:00 PM – 12:00 AM",
+    "Wednesday: 5:00 PM – 12:00 AM",
+    "Thursday: 5:00 PM – 12:00 AM",
+    "Friday: 5:00 PM – 12:00 AM",
+    "Saturday: 5:00 PM – 12:00 AM",
+    "Sunday: 5:00 PM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mi-yama-design-willemstad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:33.189Z"
+}

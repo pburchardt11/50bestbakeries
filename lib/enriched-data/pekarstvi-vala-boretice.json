@@ -1,0 +1,32 @@
+{
+  "slug": "pekarstvi-vala-boretice",
+  "name": "Pekařství Vala",
+  "city": "Bořetice",
+  "country": "Czech Republic",
+  "placeId": "ChIJr2fknc7QEkcR6xg1NXrCXig",
+  "googleName": "Pekařství Vala",
+  "formattedAddress": "Bořetice 479, 691 08 Bořetice, Czechia",
+  "phone": "519 430 122",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2908976239462389995",
+  "rating": 4.6,
+  "reviewCount": 106,
+  "coords": [
+    48.913978,
+    16.8540449
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 – 10:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarstvi-vala-boretice/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:51.744Z"
+}

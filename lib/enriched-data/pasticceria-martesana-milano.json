@@ -1,0 +1,44 @@
+{
+  "slug": "pasticceria-martesana-milano",
+  "name": "Pasticceria Martesana",
+  "curatedName": "Pasticceria Martesana",
+  "city": "Milano",
+  "country": "Italy",
+  "placeId": "ChIJ87zdNCjHhkcR2CJUO4Q_Zs0",
+  "googleName": "Pasticceria Martesana",
+  "formattedAddress": "Via Giovanni Cagliero, 14, 20125 Milano MI, Italy",
+  "phone": "02 6698 6634",
+  "internationalPhone": "+39 02 6698 6634",
+  "website": "http://www.martesanamilano.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14800587062563316440",
+  "rating": 4.2,
+  "reviewCount": 3238,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4958791,
+    9.203031
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-martesana-milano/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:39.975Z"
+}

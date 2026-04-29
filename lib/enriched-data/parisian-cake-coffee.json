@@ -1,0 +1,43 @@
+{
+  "slug": "parisian-cake-coffee",
+  "name": "Parisian Cake & Coffee",
+  "curatedName": "Parisian Cake & Coffee",
+  "city": "ရန်ကုန်",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJQ4nk2BXrwTARQtLTCmZhJu8",
+  "googleName": "Parisian Cake & Coffee",
+  "formattedAddress": "446 Lower Kyeemyindaing Rd, Yangon, Myanmar (Burma)",
+  "phone": "01 230 1512",
+  "internationalPhone": "+95 1 230 1512",
+  "website": "https://www.facebook.com/parisiancakeandcoffee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17232568115075994178",
+  "rating": 4.2,
+  "reviewCount": 1337,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    16.7957614,
+    96.12635619999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:30 PM",
+    "Tuesday: 6:30 AM – 9:30 PM",
+    "Wednesday: 6:30 AM – 9:30 PM",
+    "Thursday: 6:30 AM – 9:30 PM",
+    "Friday: 6:30 AM – 9:30 PM",
+    "Saturday: 6:30 AM – 9:30 PM",
+    "Sunday: 6:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/parisian-cake-coffee/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:37:47.297Z"
+}

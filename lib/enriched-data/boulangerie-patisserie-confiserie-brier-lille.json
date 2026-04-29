@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-patisserie-confiserie-brier-lille",
+  "name": "Boulangerie Patisserie Confiserie Brier",
+  "curatedName": "Boulangerie Patisserie Confiserie Brier",
+  "city": "Lille",
+  "country": "France",
+  "placeId": "ChIJDTOEZofVwkcRy7MGdzdMGng",
+  "googleName": "Boulangerie - Pâtisserie - Confiserie \"Brier\"",
+  "formattedAddress": "118 Rue Esquermoise, 59800 Lille, France",
+  "phone": "03 20 55 35 55",
+  "internationalPhone": "+33 3 20 55 35 55",
+  "website": "https://www.facebook.com/BoulangerieBrier/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8654313435049669579",
+  "rating": 4.3,
+  "reviewCount": 1036,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.6388466,
+    3.0590926
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Breakfast waffles, lunchtime sandwiches & traditional pain au chocolat at a lively bakery & tearoom.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-confiserie-brier-lille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:39.405Z"
+}

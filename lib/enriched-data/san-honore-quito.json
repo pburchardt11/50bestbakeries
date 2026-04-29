@@ -1,0 +1,44 @@
+{
+  "slug": "san-honore-quito",
+  "name": "San Honoré",
+  "curatedName": "San Honoré",
+  "city": "Quito",
+  "country": "Ecuador",
+  "placeId": "ChIJjXwpn12a1ZERwBXTW62eaQ4",
+  "googleName": "San Honoré",
+  "formattedAddress": "Fray Gaspar de Carvajal N29-86, 170302 Quito, Ecuador",
+  "phone": "(02) 222-1079",
+  "internationalPhone": "+593 2-222-1079",
+  "website": "http://www.sanhonore.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1038535656492701120",
+  "rating": 4.5,
+  "reviewCount": 932,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -0.1898311,
+    -78.4991828
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:00 PM",
+    "Tuesday: 8:30 AM – 8:00 PM",
+    "Wednesday: 8:30 AM – 8:00 PM",
+    "Thursday: 8:30 AM – 8:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/san-honore-quito/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:23.827Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "campbell-s-bakery-jackson",
+  "name": "Campbell's Bakery",
+  "curatedName": "Campbell's Bakery",
+  "city": "Jackson",
+  "country": "United States",
+  "placeId": "ChIJpyVZ3sIyKIYRxQ5i06HAtr8",
+  "googleName": "Campbell's Bakery",
+  "formattedAddress": "3013 N State St, Jackson, MS 39216, USA",
+  "phone": "(601) 362-4628",
+  "internationalPhone": "+1 601-362-4628",
+  "website": "https://www.campbellsbakes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13814440708274261701",
+  "rating": 4.3,
+  "reviewCount": 217,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "home_goods_store",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.3358455,
+    -90.17676949999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 12:00 – 5:00 PM"
+  ],
+  "editorialSummary": "Cakes, cookies, brownies & other sweets made from scratch in a long-running bakery dating to 1962.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/campbell-s-bakery-jackson/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:42.917Z"
+}

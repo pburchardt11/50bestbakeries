@@ -1,0 +1,44 @@
+{
+  "slug": "bakeboy-bakery-coffee-nha-trang",
+  "name": "Bakeboy - Bakery & Coffee",
+  "curatedName": "Bakeboy - Bakery & Coffee",
+  "city": "Nha Trang",
+  "country": "Vietnam",
+  "placeId": "ChIJ42GdAwBncDERnmVR2oqSX3w",
+  "googleName": "Bakeboy - Bakery & Coffee",
+  "formattedAddress": "Kiot 04 ,06, toà OC1A , Mường Thanh Viễn Triều, 05 Phạm Văn Đồng, Vĩnh Phước, Bắc Nha Trang, Khánh Hòa 650000, Vietnam",
+  "phone": "0981 948 694",
+  "internationalPhone": "+84 981 948 694",
+  "website": "http://bakeboy.vn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8962042908556486046",
+  "rating": 4.6,
+  "reviewCount": 663,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.2742871,
+    109.2020634
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakeboy-bakery-coffee-nha-trang/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:18:17.007Z"
+}

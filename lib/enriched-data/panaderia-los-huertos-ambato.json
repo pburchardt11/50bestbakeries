@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-los-huertos-ambato",
+  "name": "Panaderia Los Huertos",
+  "city": "Ambato",
+  "country": "Ecuador",
+  "placeId": "ChIJO_6KlcCB05ERuGUYng-3Yzk",
+  "googleName": "Panaderia Los Huertos",
+  "formattedAddress": "Q957+MW5, Granadillas, 180101 Ambato, Ecuador",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4135350160561038776",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    -1.240873,
+    -78.63514769999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-los-huertos-ambato/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:00:25.424Z"
+}

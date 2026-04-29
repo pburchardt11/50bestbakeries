@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-panini-divinopolis",
+  "name": "Padaria Panini",
+  "curatedName": "Padaria Panini",
+  "city": "Divinópolis",
+  "country": "Brazil",
+  "placeId": "ChIJm2gIzYaloAARy73oONMbweY",
+  "googleName": "Panificadora Pane di Caetani - Loja 01",
+  "formattedAddress": "R. Mato Grosso, 1400 - Sidil, Divinópolis - MG, 35500-027, Brazil",
+  "phone": "(37) 3222-2352",
+  "internationalPhone": "+55 37 3222-2352",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16627601893235408331",
+  "rating": 4.5,
+  "reviewCount": 1570,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.1379127,
+    -44.8932305
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-panini-divinopolis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:33.730Z"
+}

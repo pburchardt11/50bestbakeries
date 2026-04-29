@@ -1,0 +1,43 @@
+{
+  "slug": "cake-bloom",
+  "name": "Cake Bloom",
+  "curatedName": "Cake Bloom",
+  "city": "دبي",
+  "country": "UAE",
+  "placeId": "ChIJNahX0E5rXz4R-AHRPHqPHcI",
+  "googleName": "Cake Bloom",
+  "formattedAddress": "Umm Suqeim 1, Jumeirah Road Next to Al Masraf Bank Jumeirah Branch - أم سقيم الأولى - Jumeirah 3 - دبي - United Arab Emirates",
+  "phone": "04 344 6786",
+  "internationalPhone": "+971 4 344 6786",
+  "website": "https://www.instagram.com/cakebloomuae/?hl=en",
+  "googleMapsUrl": "https://maps.google.com/?cid=13987493772851741176",
+  "rating": 4.7,
+  "reviewCount": 724,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.1649845,
+    55.2117985
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-bloom/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:40.253Z"
+}

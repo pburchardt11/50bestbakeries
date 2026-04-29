@@ -1,0 +1,43 @@
+{
+  "slug": "tiem-banh-cake-house-quan-ninh-kieu",
+  "name": "Tiệm Bánh Cake House",
+  "curatedName": "Tiệm Bánh Cake House",
+  "city": "Quận Ninh Kiều",
+  "country": "Vietnam",
+  "placeId": "ChIJN0Mqr_aJoDER2QyFqDbFWa8",
+  "googleName": "Tiệm Bánh Cake House",
+  "formattedAddress": "76 Nguyễn Văn Trỗi, Xuân Khánh, Ninh Kiều, Cần Thơ, Vietnam",
+  "phone": "0907 765 321",
+  "internationalPhone": "+84 907 765 321",
+  "website": "https://www.facebook.com/CakeHouse.ct/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12635347068110834905",
+  "rating": 4.7,
+  "reviewCount": 26,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.0368428,
+    105.7701186
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:00 PM",
+    "Tuesday: 8:30 AM – 10:00 PM",
+    "Wednesday: 8:30 AM – 10:00 PM",
+    "Thursday: 8:30 AM – 10:00 PM",
+    "Friday: 8:30 AM – 10:00 PM",
+    "Saturday: 8:30 AM – 10:00 PM",
+    "Sunday: 8:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiem-banh-cake-house-quan-ninh-kieu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:18:06.355Z"
+}

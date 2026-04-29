@@ -1,0 +1,32 @@
+{
+  "slug": "camellia-cakes",
+  "name": "Camellia Cakes",
+  "city": "Գյումրի",
+  "country": "Armenia",
+  "placeId": "ChIJkbYtvfH7QUARnFzqfMfeKms",
+  "googleName": "Camellia Cakes",
+  "formattedAddress": "14/4 Alek Manukyan, Gyumri, Armenia",
+  "phone": "(0312) 43766",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7722229459455728796",
+  "rating": 4.4,
+  "reviewCount": 28,
+  "coords": [
+    40.792661,
+    43.837877
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/camellia-cakes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:22:08.545Z"
+}

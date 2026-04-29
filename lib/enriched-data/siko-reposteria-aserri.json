@@ -1,0 +1,30 @@
+{
+  "slug": "siko-reposteria-aserri",
+  "name": "Siko reposteria",
+  "city": "Aserri",
+  "country": "Costa Rica",
+  "placeId": "ChIJZe1xGmfjoI8RjZ_CD8Ih7Ww",
+  "googleName": "Siko reposteria",
+  "formattedAddress": "VW79+V23, San José, Aserri, Barrio Santa Teresita, Costa Rica",
+  "phone": "8783 7103",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7848966842948427661",
+  "rating": 3,
+  "reviewCount": 2,
+  "coords": [
+    9.8646317,
+    -84.08246400000002
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 AM",
+    "Tuesday: 7:00 AM – 5:00 AM",
+    "Wednesday: 7:00 AM – 5:00 AM",
+    "Thursday: 7:00 AM – 5:00 AM",
+    "Friday: 7:00 AM – 5:00 AM",
+    "Saturday: 7:00 AM – 5:00 AM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:48:25.900Z"
+}

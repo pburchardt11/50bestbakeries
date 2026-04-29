@@ -1,0 +1,32 @@
+{
+  "slug": "dockyard-bakery-nelson-s-dockyard",
+  "name": "Dockyard Bakery",
+  "city": "Nelson's Dockyard",
+  "country": "Antigua & Barbuda",
+  "placeId": "ChIJjYt--AvrEowR4hJIqSbNUTU",
+  "googleName": "Dockyard Bakery",
+  "formattedAddress": "Dockyard Drive, Antigua and Barbuda",
+  "phone": "(268) 460-1474",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3842077523056268002",
+  "rating": 4.8,
+  "reviewCount": 19,
+  "coords": [
+    17.0078128,
+    -61.7653755
+  ],
+  "openingHours": [
+    "Monday: 8:45 AM – 4:30 AM",
+    "Tuesday: 8:45 AM – 4:30 AM",
+    "Wednesday: 8:45 AM – 4:30 AM",
+    "Thursday: 8:45 AM – 4:30 AM",
+    "Friday: 8:45 AM – 4:30 AM",
+    "Saturday: 8:45 AM – 4:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dockyard-bakery-nelson-s-dockyard/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:20:05.169Z"
+}

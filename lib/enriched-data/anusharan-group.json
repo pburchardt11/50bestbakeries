@@ -1,0 +1,32 @@
+{
+  "slug": "anusharan-group",
+  "name": "Anusharan Group",
+  "city": "Գյումրի",
+  "country": "Armenia",
+  "placeId": "ChIJgRCFzVb7QUAR7xV1PowruOs",
+  "googleName": "Cafe Anusharan",
+  "formattedAddress": "1/9 Satay-Nova, Gyumri 3110, Armenia",
+  "phone": "077 272013",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16985373875971102191",
+  "rating": 4.4,
+  "reviewCount": 21,
+  "coords": [
+    40.7929026,
+    43.8464971
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/anusharan-group/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:22:17.246Z"
+}

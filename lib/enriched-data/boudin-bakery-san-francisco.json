@@ -1,0 +1,45 @@
+{
+  "slug": "boudin-bakery-san-francisco",
+  "name": "Boudin Bakery",
+  "curatedName": "Boudin Bakery",
+  "city": "San Francisco",
+  "country": "United States",
+  "placeId": "ChIJuTDWD-OAhYARHdAhflk13Sc",
+  "googleName": "Boudin Bakery",
+  "formattedAddress": "160 Jefferson St, San Francisco, CA 94133, USA",
+  "phone": "(415) 351-5561",
+  "internationalPhone": "+1 415-351-5561",
+  "website": "https://www.bistroboudin.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2872510795816751133",
+  "rating": 4.4,
+  "reviewCount": 18056,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.808506,
+    -122.41492
+  ],
+  "openingHours": [
+    "Monday: 11:30 AM – 9:00 PM",
+    "Tuesday: 11:30 AM – 9:00 PM",
+    "Wednesday: 11:30 AM – 9:00 PM",
+    "Thursday: 11:30 AM – 9:00 PM",
+    "Friday: 11:30 AM – 10:00 PM",
+    "Saturday: 11:30 AM – 10:00 PM",
+    "Sunday: 11:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Famed for sourdough since 1849, this California bakery/cafe chain also offers light American bites.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boudin-bakery-san-francisco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:09:38.814Z"
+}

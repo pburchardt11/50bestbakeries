@@ -1,0 +1,32 @@
+{
+  "slug": "embassy-bakery",
+  "name": "embassy_bakery",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJZ4FOtqHP20YRdY9QogcmrEs",
+  "googleName": "Coffee Embassy",
+  "formattedAddress": "vul. Rumiancava 11, Minsk, Minskaja voblasć, Belarus",
+  "phone": "8 029 563-44-55",
+  "website": "https://embassy.by/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5452775063068643189",
+  "rating": 4.7,
+  "reviewCount": 326,
+  "coords": [
+    53.90781279999999,
+    27.577148
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/embassy-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:00:02.614Z"
+}

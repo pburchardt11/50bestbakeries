@@ -1,0 +1,43 @@
+{
+  "slug": "kexerei-dresden",
+  "name": "Kexerei",
+  "curatedName": "Kexerei",
+  "city": "Dresden",
+  "country": "Germany",
+  "placeId": "ChIJe19Mgy_PCUcRcwjSDwCYWVc",
+  "googleName": "KeXerei",
+  "formattedAddress": "Sporergasse 5, 01067 Dresden, Germany",
+  "phone": "0351 48109726",
+  "internationalPhone": "+49 351 48109726",
+  "website": "https://kexerei.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6294229080259823731",
+  "rating": 4.6,
+  "reviewCount": 680,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.0518837,
+    13.7381038
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kexerei-dresden/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:45.284Z"
+}

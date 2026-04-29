@@ -1,0 +1,44 @@
+{
+  "slug": "valhallabageriet-stockholm",
+  "name": "Valhallabageriet",
+  "curatedName": "Valhallabageriet",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "placeId": "ChIJhYAcGUydX0YRc2sNb3sCKY0",
+  "googleName": "Valhallabageriet",
+  "formattedAddress": "Valhallavägen 174, 115 27 Stockholm, Sweden",
+  "phone": "08-662 97 63",
+  "internationalPhone": "+46 8 662 97 63",
+  "website": "https://www.valhallabageriet.se/?utm_source=google",
+  "googleMapsUrl": "https://maps.google.com/?cid=10171663962560359283",
+  "rating": 4.6,
+  "reviewCount": 721,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.33889139999999,
+    18.0973986
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/valhallabageriet-stockholm/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:53.197Z"
+}

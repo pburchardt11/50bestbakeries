@@ -1,0 +1,43 @@
+{
+  "slug": "the-bakery-antwerpen",
+  "name": "The bakery",
+  "curatedName": "The bakery",
+  "city": "Antwerpen",
+  "country": "Belgium",
+  "placeId": "ChIJ0-j0QSD3w0cR4ddOMiWRBrc",
+  "googleName": "The Bakery",
+  "formattedAddress": "Boomgaardstraat 1/3, 2018 Antwerpen, Belgium",
+  "phone": "03 230 12 01",
+  "internationalPhone": "+32 3 230 12 01",
+  "website": "http://www.thebakeryantwerpen.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13188388147744921569",
+  "rating": 4.4,
+  "reviewCount": 165,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.199375,
+    4.4158385
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 1:00 PM",
+    "Sunday: 7:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakery-antwerpen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:09.782Z"
+}

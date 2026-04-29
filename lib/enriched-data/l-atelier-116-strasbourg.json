@@ -1,0 +1,45 @@
+{
+  "slug": "l-atelier-116-strasbourg",
+  "name": "L'Atelier 116",
+  "curatedName": "L'Atelier 116",
+  "city": "Strasbourg",
+  "country": "France",
+  "placeId": "ChIJe2qNBE3IlkcRl4qBr8Vz8R8",
+  "googleName": "L'Atelier 116",
+  "formattedAddress": "116 Grand'Rue, 67000 Strasbourg, France",
+  "phone": "03 90 41 73 08",
+  "internationalPhone": "+33 3 90 41 73 08",
+  "website": "https://www.facebook.com/monatelier116/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2301748177453288087",
+  "rating": 4.4,
+  "reviewCount": 3897,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.5814169,
+    7.7442273
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Sandwiches, pastries & light fare are provided in this snug venue offering outdoor seating.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-116-strasbourg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:52.555Z"
+}

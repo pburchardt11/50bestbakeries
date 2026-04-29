@@ -1,0 +1,44 @@
+{
+  "slug": "fermented-artisan-bakery-and-cafe-santa-maria",
+  "name": "Fermented Artisan Bakery and Cafe",
+  "curatedName": "Fermented Artisan Bakery and Cafe",
+  "city": "Santa Maria",
+  "country": "Brazil",
+  "placeId": "ChIJDVGVp1_LA5UR6uCXqiIdUVY",
+  "googleName": "Fermented Artisan Bakery and Cafe",
+  "formattedAddress": "Alameda Buenos Aires - Av. Nossa Sra. das Dores, 348 - Nossa Sra. das Dores, Santa Maria - RS, 97050-545, Brazil",
+  "phone": "(55) 3029-4995",
+  "internationalPhone": "+55 55 3029-4995",
+  "website": "http://fermentadosbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6219784595103539434",
+  "rating": 4.6,
+  "reviewCount": 540,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.6934673,
+    -53.7941453
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:30 PM",
+    "Tuesday: 11:00 AM – 7:30 PM",
+    "Wednesday: 11:00 AM – 7:30 PM",
+    "Thursday: 11:00 AM – 7:30 PM",
+    "Friday: 11:00 AM – 7:30 PM",
+    "Saturday: 11:00 AM – 7:30 PM",
+    "Sunday: 2:00 – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fermented-artisan-bakery-and-cafe-santa-maria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:09.009Z"
+}

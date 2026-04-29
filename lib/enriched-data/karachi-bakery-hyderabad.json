@@ -1,0 +1,44 @@
+{
+  "slug": "karachi-bakery-hyderabad",
+  "name": "Karachi Bakery",
+  "curatedName": "Karachi Bakery",
+  "city": "Hyderabad",
+  "country": "India",
+  "placeId": "ChIJJ0byODSXyzsRvxfwBSTHJos",
+  "googleName": "Karachi Bakery - Banjara Hills",
+  "formattedAddress": "Unit No. 30, Khanchand Towers, Inner Ring Rd, Shyam Rao Nagar, Banjara Hills, Hyderabad, Telangana 500034, India",
+  "phone": "091009 90873",
+  "internationalPhone": "+91 91009 90873",
+  "website": "http://www.karachibakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10026920577919358911",
+  "rating": 4.4,
+  "reviewCount": 14350,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    17.4106391,
+    78.4499804
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:30 PM",
+    "Tuesday: 9:00 AM – 10:30 PM",
+    "Wednesday: 9:00 AM – 10:30 PM",
+    "Thursday: 9:00 AM – 10:30 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Sweets, cakes and artisan breads from an enduring chain bakeshop established in 1953.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karachi-bakery-hyderabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:59.768Z"
+}

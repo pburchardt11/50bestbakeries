@@ -1,0 +1,46 @@
+{
+  "slug": "terrapin-bakery-cleveland",
+  "name": "Terrapin Bakery",
+  "curatedName": "Terrapin Bakery",
+  "city": "Cleveland",
+  "country": "United States",
+  "placeId": "ChIJ9_Ulo9vxMIgRmCIKoqL_4lM",
+  "googleName": "Terrapin Bakery",
+  "formattedAddress": "3146 W 14th St, Cleveland, OH 44109, USA",
+  "phone": "(216) 256-7915",
+  "internationalPhone": "+1 216-256-7915",
+  "website": "https://www.terrapinbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6044674723852984984",
+  "rating": 4.9,
+  "reviewCount": 430,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.46876839999999,
+    -81.6914276
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 1:00 PM",
+    "Tuesday: 6:30 AM – 1:00 PM",
+    "Wednesday: 6:30 AM – 1:00 PM",
+    "Thursday: 6:30 AM – 1:00 PM",
+    "Friday: 6:30 AM – 1:00 PM",
+    "Saturday: 6:30 AM – 1:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/terrapin-bakery-cleveland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:05.562Z"
+}

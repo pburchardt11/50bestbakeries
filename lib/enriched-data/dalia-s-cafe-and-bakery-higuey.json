@@ -1,0 +1,32 @@
+{
+  "slug": "dalia-s-cafe-and-bakery-higuey",
+  "name": "Dalia's Cafe and Bakery",
+  "city": "Higüey",
+  "country": "Dominican Republic",
+  "placeId": "ChIJJ7MyU4XsqI4RXzvvYQUuaGs",
+  "googleName": "Dalia's Cafe & Bakery",
+  "formattedAddress": "Plaza Turquesa, Los Corales, Punta Cana 23000, Dominican Republic",
+  "phone": "(809) 552-0394",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7739486560288979807",
+  "rating": 4.2,
+  "reviewCount": 816,
+  "coords": [
+    18.6847007,
+    -68.41785279999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:00 PM",
+    "Tuesday: 7:30 AM – 11:00 PM",
+    "Wednesday: 7:30 AM – 11:00 PM",
+    "Thursday: 7:30 AM – 11:00 PM",
+    "Friday: 7:30 AM – 11:00 PM",
+    "Saturday: 7:30 AM – 11:00 PM",
+    "Sunday: 7:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dalia-s-cafe-and-bakery-higuey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:23.510Z"
+}

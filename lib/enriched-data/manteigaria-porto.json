@@ -1,0 +1,43 @@
+{
+  "slug": "manteigaria-porto",
+  "name": "Manteigaria",
+  "curatedName": "Manteigaria",
+  "city": "Porto",
+  "country": "Portugal",
+  "placeId": "ChIJEZ6T3_5lJA0RK-OYoZM1awA",
+  "googleName": "Manteigaria",
+  "formattedAddress": "Rua dos Clérigos nº37, 4050-205 Porto, Portugal",
+  "phone": "22 208 2582",
+  "internationalPhone": "+351 22 208 2582",
+  "website": "https://manteigaria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=30176730695656235",
+  "rating": 4.8,
+  "reviewCount": 4450,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1458333,
+    -8.6129704
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/manteigaria-porto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:38.215Z"
+}

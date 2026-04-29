@@ -1,0 +1,43 @@
+{
+  "slug": "lenore-patisserie-tepebas",
+  "name": "Lenore Patisserie",
+  "curatedName": "Lenore Patisserie",
+  "city": "Tepebaşı",
+  "country": "Türkiye",
+  "placeId": "ChIJWed2Ls4VzBQRDRZ1LPyi0KQ",
+  "googleName": "Lenore Patisserie",
+  "formattedAddress": "Grande Arte Hotel, Eskibağlar, Ulugün Sk. No:4, 26170 Tepebaşı/Eskişehir, Türkiye",
+  "phone": "0546 262 22 94",
+  "internationalPhone": "+90 546 262 22 94",
+  "website": "https://business.google.com/dashboard/l/08024605947616976782",
+  "googleMapsUrl": "https://maps.google.com/?cid=11876171421337327117",
+  "rating": 4.3,
+  "reviewCount": 560,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.7816042,
+    30.5126534
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 9:00 PM",
+    "Tuesday: 12:00 – 9:00 PM",
+    "Wednesday: 12:00 – 9:00 PM",
+    "Thursday: 12:00 – 9:00 PM",
+    "Friday: 12:00 – 9:00 PM",
+    "Saturday: 12:00 – 9:00 PM",
+    "Sunday: 12:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lenore-patisserie-tepebas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:04:16.582Z"
+}

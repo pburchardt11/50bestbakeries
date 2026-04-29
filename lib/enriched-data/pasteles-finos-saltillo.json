@@ -1,0 +1,43 @@
+{
+  "slug": "pasteles-finos-saltillo",
+  "name": "Pasteles Finos",
+  "curatedName": "Pasteles Finos",
+  "city": "Saltillo",
+  "country": "Mexico",
+  "placeId": "ChIJEXGaR6ZyiIYREoRKE4PKGuY",
+  "googleName": "Pasteles Finos",
+  "formattedAddress": "Chihuahua 240, República Oriente, 25280 Saltillo, Coah., Mexico",
+  "phone": "844 416 2767",
+  "internationalPhone": "+52 844 416 2767",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16580787642431079442",
+  "rating": 4.5,
+  "reviewCount": 143,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.4342716,
+    -100.9934667
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteles-finos-saltillo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:40.039Z"
+}

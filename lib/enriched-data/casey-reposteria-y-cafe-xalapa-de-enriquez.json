@@ -1,0 +1,44 @@
+{
+  "slug": "casey-reposteria-y-cafe-xalapa-de-enriquez",
+  "name": "Casey Repostería y café",
+  "curatedName": "Casey Repostería y café",
+  "city": "Xalapa de Enríquez",
+  "country": "Mexico",
+  "placeId": "ChIJ7W_Dk5kt24URoDgn1QVKI7A",
+  "googleName": "Casey Repostería y Café",
+  "formattedAddress": "VER 11 km 2.7, La Pitaya, 91070 Xalapa-Enríquez, Ver., Mexico",
+  "phone": "228 546 2283",
+  "internationalPhone": "+52 228 546 2283",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12692069563771599008",
+  "rating": 4.6,
+  "reviewCount": 147,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.5108258,
+    -96.9472057
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casey-reposteria-y-cafe-xalapa-de-enriquez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:58.929Z"
+}

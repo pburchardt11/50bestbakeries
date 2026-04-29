@@ -1,0 +1,44 @@
+{
+  "slug": "flour-fairy-bakery-cafe-amritsar",
+  "name": "Flour Fairy Bakery & Cafe",
+  "curatedName": "Flour Fairy Bakery & Cafe",
+  "city": "Amritsar",
+  "country": "India",
+  "placeId": "ChIJ30eOsgljGTkRthKNsOnlef0",
+  "googleName": "Flour Fairy Bakery & Cafe",
+  "formattedAddress": "8, Circular Rd, adjoining Khanna Surgical, Medical Enclave, Amritsar, Punjab 143001, India",
+  "phone": "098333 68888",
+  "internationalPhone": "+91 98333 68888",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18264882555629933238",
+  "rating": 4.8,
+  "reviewCount": 587,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.6450024,
+    74.8841453
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flour-fairy-bakery-cafe-amritsar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:33.062Z"
+}

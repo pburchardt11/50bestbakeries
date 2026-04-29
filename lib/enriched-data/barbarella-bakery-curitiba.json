@@ -1,0 +1,44 @@
+{
+  "slug": "barbarella-bakery-curitiba",
+  "name": "Barbarella Bakery",
+  "curatedName": "Barbarella Bakery",
+  "city": "Curitiba",
+  "country": "Brazil",
+  "placeId": "ChIJvQ9f-VTl3JQR2ScGuSe6228",
+  "googleName": "Barbarella Bakery",
+  "formattedAddress": "R. Comendador Araújo, 795 - Centro, Curitiba - PR, 80420-000, Brazil",
+  "phone": "(41) 3076-0167",
+  "internationalPhone": "+55 41 3076-0167",
+  "website": "https://barbarellabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8060240637880313817",
+  "rating": 4.8,
+  "reviewCount": 15549,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.4389206,
+    -49.2819325
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 7:30 AM – 10:00 PM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/barbarella-bakery-curitiba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:07.126Z"
+}

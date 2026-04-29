@@ -1,0 +1,32 @@
+{
+  "slug": "mon-amour-nassau",
+  "name": "Mon Amour",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJW0xzJgB9L4kR19CoJEohDcA",
+  "googleName": "Mon Amour",
+  "formattedAddress": "2MF2+V8P, Nassau, The Bahamas",
+  "phone": "(242) 828-6212",
+  "website": "https://agent.jotform.com/019694f59b607a20b7daaf446597e019b4a2",
+  "googleMapsUrl": "https://maps.google.com/?cid=13838753832305742039",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    25.0254473,
+    -77.3482461
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:30 PM",
+    "Wednesday: 11:00 AM – 6:30 PM",
+    "Thursday: 11:00 AM – 6:30 PM",
+    "Friday: 11:00 AM – 6:30 PM",
+    "Saturday: 11:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mon-amour-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:42:34.733Z"
+}

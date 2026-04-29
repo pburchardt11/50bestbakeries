@@ -1,0 +1,32 @@
+{
+  "slug": "seven-o-clock",
+  "name": "Seven O'Clock",
+  "city": "Балчик",
+  "country": "Bulgaria",
+  "placeId": "ChIJiziA7WPjpEAROQumtxdxrJg",
+  "googleName": "\"Dvoretsa\" Architectural Park",
+  "formattedAddress": "Dvoretsa, ул. Akademik Даки Йорданов 1, 9600 Balchik, Bulgaria",
+  "phone": "057 976 854",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11001292336438577977",
+  "rating": 4.5,
+  "reviewCount": 21473,
+  "coords": [
+    43.4065587,
+    28.1481546
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 5:00 PM",
+    "Sunday: 8:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Festivals, exhibitions & arts education offered in a historic palace complex with lodgings & dining.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/seven-o-clock/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:23:28.397Z"
+}

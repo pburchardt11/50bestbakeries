@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-el-almendro-ambato",
+  "name": "Panadería El Almendro",
+  "city": "Ambato",
+  "country": "Ecuador",
+  "placeId": "ChIJa65sW5-B05ERJpntUZLFRng",
+  "googleName": "Panadería y Pastelería El Almendro",
+  "formattedAddress": "Av Atahualpa, Ambato, Ecuador",
+  "phone": "098 341 1660",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8666831765151521062",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    -1.2499924,
+    -78.6322976
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-el-almendro-ambato/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:00:08.370Z"
+}

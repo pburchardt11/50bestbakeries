@@ -1,0 +1,32 @@
+{
+  "slug": "tiramisu-thimphu",
+  "name": "Tiramisu",
+  "city": "Thimphu",
+  "country": "Bhutan",
+  "placeId": "ChIJj097BACV4TkRI6RrvHx92Gs",
+  "googleName": "Tiramisu",
+  "formattedAddress": "GJ6Q+QGW, Thimphu, Bhutan",
+  "phone": "17 29 34 00",
+  "website": "https://www.facebook.com/profile.php?id=100069253007155&mibextid=ZbWKwL",
+  "googleMapsUrl": "https://maps.google.com/?cid=7771099131718378531",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    27.5119938,
+    89.63884259999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 – 10:00 AM, 12:00 PM – 6:00 AM",
+    "Tuesday: 9:00 – 10:00 AM, 12:00 PM – 6:00 AM",
+    "Wednesday: 9:00 – 10:00 AM, 12:00 PM – 6:00 AM",
+    "Thursday: 9:00 – 10:00 AM, 12:00 PM – 6:00 AM",
+    "Friday: 9:00 – 10:00 AM, 12:00 PM – 6:00 AM",
+    "Saturday: 9:00 – 10:00 AM, 12:00 PM – 6:00 AM",
+    "Sunday: 9:00 – 10:00 AM, 12:00 PM – 6:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiramisu-thimphu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:10:08.266Z"
+}

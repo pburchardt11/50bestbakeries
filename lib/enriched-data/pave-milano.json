@@ -1,0 +1,43 @@
+{
+  "slug": "pave-milano",
+  "name": "Pavé",
+  "curatedName": "Pavé",
+  "city": "Milano",
+  "country": "Italy",
+  "placeId": "ChIJR3Kw9PDHhkcRMEZH5KMCt_o",
+  "googleName": "Pavé",
+  "formattedAddress": "Via Felice Casati, 27, 20124 Milano MI, Italy",
+  "phone": "02 3790 5491",
+  "internationalPhone": "+39 02 3790 5491",
+  "website": "http://www.pavemilano.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18065911333152835120",
+  "rating": 4.4,
+  "reviewCount": 2936,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.47913700000001,
+    9.202568699999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pave-milano/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:36.295Z"
+}

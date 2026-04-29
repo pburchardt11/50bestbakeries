@@ -1,0 +1,44 @@
+{
+  "slug": "chanmia-bakery-quan-ba-inh",
+  "name": "ChanMia Bakery",
+  "curatedName": "ChanMia Bakery",
+  "city": "Quận Ba Đình",
+  "country": "Vietnam",
+  "placeId": "ChIJQ6iUoZyrNTERW5iyqL9UH2w",
+  "googleName": "ChanMia Bakery",
+  "formattedAddress": "17 P. Khúc Hạo, Điện Biên, Ba Đình, Hà Nội, Vietnam",
+  "phone": "0936 493 535",
+  "internationalPhone": "+84 936 493 535",
+  "website": "https://www.tiembanhmia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7791039062520010843",
+  "rating": 4.5,
+  "reviewCount": 168,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0328401,
+    105.8375384
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chanmia-bakery-quan-ba-inh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:19:05.250Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "graine-de-vanille-marseille",
+  "name": "Graine de vanille",
+  "curatedName": "Graine de vanille",
+  "city": "Marseille",
+  "country": "France",
+  "placeId": "ChIJr1jA-iHByRIRUReReADN0mk",
+  "googleName": "Graine de vanille",
+  "formattedAddress": "94 Bd Vauban, 13006 Marseille, France",
+  "phone": "06 50 96 66 27",
+  "internationalPhone": "+33 6 50 96 66 27",
+  "website": "https://grainedevanille.eatbu.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7625382520998139729",
+  "rating": 4.8,
+  "reviewCount": 419,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.28307780000001,
+    5.3743566
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 12:00 PM, 1:00 – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/graine-de-vanille-marseille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:20.511Z"
+}

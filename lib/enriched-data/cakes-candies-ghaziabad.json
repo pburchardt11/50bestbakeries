@@ -1,0 +1,43 @@
+{
+  "slug": "cakes-candies-ghaziabad",
+  "name": "Cakes & Candies",
+  "curatedName": "Cakes & Candies",
+  "city": "Ghaziabad",
+  "country": "India",
+  "placeId": "ChIJsdX-_pbxDDkRonrjaR2G82k",
+  "googleName": "Donald's Pastry Shop",
+  "formattedAddress": "12, Rajkunj, Raj Kunj, Raj Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+  "phone": "0120 282 0091",
+  "internationalPhone": "+91 120 282 0091",
+  "website": "https://donaldspastryshop.com/order/donalds-pastry-shop-raj-kunjraj-nagar-ghaziabad?itemid=39804096",
+  "googleMapsUrl": "https://maps.google.com/?cid=7634593254211812002",
+  "rating": 4.3,
+  "reviewCount": 5933,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.6767164,
+    77.4504778
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-candies-ghaziabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:32.403Z"
+}

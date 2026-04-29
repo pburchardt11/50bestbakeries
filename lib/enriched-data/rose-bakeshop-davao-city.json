@@ -1,0 +1,43 @@
+{
+  "slug": "rose-bakeshop-davao-city",
+  "name": "Rose Bakeshop",
+  "curatedName": "Rose Bakeshop",
+  "city": "Davao City",
+  "country": "Philippines",
+  "placeId": "ChIJpYlMd_dt-TIRzhMSwhB3etY",
+  "googleName": "Rose Bakeshop",
+  "formattedAddress": "Near, Seda, Abreeza, J.P. Laurel Ave, Bajada, Davao City, 8000 Davao del Sur, Philippines",
+  "phone": "(082) 222 5071",
+  "internationalPhone": "+63 82 222 5071",
+  "website": "http://rosebakeshops.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15454795985134425038",
+  "rating": 4.4,
+  "reviewCount": 78,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    7.0893153,
+    125.6102516
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rose-bakeshop-davao-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:04.924Z"
+}

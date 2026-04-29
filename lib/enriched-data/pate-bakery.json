@@ -1,0 +1,32 @@
+{
+  "slug": "pate-bakery",
+  "name": "Pate Bakery",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJJ1I7mwjR20YR1AMakvNohdU",
+  "googleName": "Pate Bakery",
+  "formattedAddress": "Дзержинского, 123 Минск Республика Беларусь, Minsk, Minsk Region 220045, Belarus",
+  "phone": "8 029 622-13-13",
+  "website": "http://patebakery.by/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15385819097318687700",
+  "rating": 3.2,
+  "reviewCount": 72,
+  "coords": [
+    53.8481414,
+    27.4772559
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pate-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:59:49.053Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "viva-bakery-americana",
+  "name": "Viva Bakery",
+  "curatedName": "Viva Bakery",
+  "city": "Americana",
+  "country": "Brazil",
+  "placeId": "ChIJc0kmor6ZyJQRNzmYuzPgGr0",
+  "googleName": "Viva Bakery",
+  "formattedAddress": "R. dos Bambus, 1399 - Jardim Gloria, Americana - SP, 13468-120, Brazil",
+  "phone": "(19) 98334-9032",
+  "internationalPhone": "+55 19 98334-9032",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13626450135358126391",
+  "rating": 4.8,
+  "reviewCount": 1090,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.7579832,
+    -47.345248
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/viva-bakery-americana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:37.717Z"
+}

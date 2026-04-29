@@ -1,0 +1,32 @@
+{
+  "slug": "edelweis-aalst",
+  "name": "Edelweis",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJBfkUjl-9w0cR4K41dPnAV9w",
+  "googleName": "Tea-room Edelweiss",
+  "formattedAddress": "Hoveniersstraat 25, 9300 Aalst, Belgium",
+  "phone": "053 77 26 49",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15877371188947037920",
+  "rating": 4.5,
+  "reviewCount": 68,
+  "coords": [
+    50.9418016,
+    4.0460237
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/edelweis-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:04:25.582Z"
+}

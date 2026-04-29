@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-baguette-mar-del-plata",
+  "name": "Panadería Baguette",
+  "curatedName": "Panadería Baguette",
+  "city": "Mar del Plata",
+  "country": "Argentina",
+  "placeId": "ChIJu4_eUSXchJURx17HpN8K9FE",
+  "googleName": "Panadería Baguette",
+  "formattedAddress": "Leandro N. Alem 3397, B7602DAE Mar del Plata, Provincia de Buenos Aires, Argentina",
+  "phone": "0223 451-0030",
+  "internationalPhone": "+54 223 451-0030",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5905356967048076999",
+  "rating": 4.3,
+  "reviewCount": 1820,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -38.0249866,
+    -57.5339674
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-baguette-mar-del-plata/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:55.142Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "cafe-de-nata-london",
+  "name": "Cafe de Nata",
+  "curatedName": "Cafe de Nata",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJb9u02J4FdkgRIyszCw9-LPM",
+  "googleName": "Cafe de Nata",
+  "formattedAddress": "25 Old Compton St, London W1D 5JN, UK",
+  "phone": "020 7734 1279",
+  "internationalPhone": "+44 20 7734 1279",
+  "website": "https://orders.embargoapp.com/cafedenata/home",
+  "googleMapsUrl": "https://maps.google.com/?cid=17522518853269269283",
+  "rating": 4.6,
+  "reviewCount": 1560,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.51309670000001,
+    -0.1312969
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-de-nata-london/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:34.381Z"
+}

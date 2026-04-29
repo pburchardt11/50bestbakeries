@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-belo-horizonte-serra",
+  "name": "Padaria Belo Horizonte",
+  "curatedName": "Padaria Belo Horizonte",
+  "city": "Serra",
+  "country": "Brazil",
+  "placeId": "ChIJxRJSE1b1twAREq7oXBokgdU",
+  "googleName": "Padaria Belo Horizonte",
+  "formattedAddress": "R. São Domingos, 456 - São Domingos, Serra - ES, 29177-520, Brazil",
+  "phone": "(27) 99928-4592",
+  "internationalPhone": "+55 27 99928-4592",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15384617497720827410",
+  "rating": 4.8,
+  "reviewCount": 54,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.1223007,
+    -40.3050042
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 8:00 PM",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 5:30 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-belo-horizonte-serra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:01.013Z"
+}

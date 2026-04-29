@@ -1,0 +1,32 @@
+{
+  "slug": "cake-haven-kweneng",
+  "name": "Cake Haven",
+  "city": "Kweneng",
+  "country": "Botswana",
+  "placeId": "ChIJhddMIK6ZFW0RsLTFAa_svlk",
+  "googleName": "Cake Haven",
+  "formattedAddress": "71 Camberwell Road, Hāwera 4610, New Zealand",
+  "phone": "027 891 0763",
+  "website": "https://m.facebook.com/Cake-Haven-245000188936550/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6466866351343776944",
+  "rating": 4.9,
+  "reviewCount": 9,
+  "coords": [
+    -39.5823899,
+    174.2784022
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-haven-kweneng/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:19:15.363Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-gosie-willemstad",
+  "name": "Panaderia Gosie",
+  "city": "Willemstad",
+  "country": "Curaçao",
+  "placeId": "ChIJXXiGCeOChI4RRgrdLymBHz4",
+  "googleName": "Panaderia ISA",
+  "formattedAddress": "4392+R25, Weg Naar Welgelegen, Willemstad, Curaçao",
+  "phone": "9 462 3666",
+  "website": "http://www.facebook.com/PanaderiaIsa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4476438568526219846",
+  "rating": 4.1,
+  "reviewCount": 255,
+  "coords": [
+    12.1195156,
+    -68.94988380000001
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:30 PM",
+    "Tuesday: 6:30 AM – 6:30 PM",
+    "Wednesday: 6:30 AM – 6:30 PM",
+    "Thursday: 6:30 AM – 6:30 PM",
+    "Friday: 6:30 AM – 6:30 PM",
+    "Saturday: 6:30 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-gosie-willemstad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:37.390Z"
+}

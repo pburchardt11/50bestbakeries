@@ -1,0 +1,43 @@
+{
+  "slug": "backstube-wunsche",
+  "name": "Backstube Wünsche",
+  "curatedName": "Backstube Wünsche",
+  "city": "Мюнхен",
+  "country": "Germany",
+  "placeId": "ChIJXUZnTpd1nkcRrOwQV2s3f_k",
+  "googleName": "Backstube Wünsche",
+  "formattedAddress": "Sendlinger Str. 10, 80331 München, Germany",
+  "phone": "089 24212230",
+  "internationalPhone": "+49 89 24212230",
+  "website": "https://www.backstube-wuensche.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17978149171648064684",
+  "rating": 2.4,
+  "reviewCount": 70,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.1362084,
+    11.5712686
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backstube-wunsche/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:21:29.445Z"
+}

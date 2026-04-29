@@ -1,0 +1,32 @@
+{
+  "slug": "khafayef",
+  "name": "Khafayef",
+  "city": "الساية",
+  "country": "Bahrain",
+  "placeId": "ChIJU83snj2mST4RcRhQiJo79mE",
+  "googleName": "خفايف KHAFAYEF",
+  "formattedAddress": "Shop 4, Building, Alsayah Square, 2245 Road 2833, Muharraq, Bahrain",
+  "phone": "7777 6262",
+  "website": "http://www.khafayef.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7058895000847784049",
+  "rating": 4.4,
+  "reviewCount": 44,
+  "coords": [
+    26.2654119,
+    50.5987472
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/khafayef/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:47:27.058Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "fournos-the-grove-tshwane",
+  "name": "Fournos The Grove",
+  "curatedName": "Fournos The Grove",
+  "city": "Tshwane",
+  "country": "South Africa",
+  "placeId": "ChIJHefCTUdelR4Re6ed6jcDAdg",
+  "googleName": "Fournos The Grove",
+  "formattedAddress": "Shop L83, The Grove Mall, Lynnwood Rd, Equestria, Pretoria, 0184, South Africa",
+  "phone": "012 807 5919",
+  "internationalPhone": "+27 12 807 5919",
+  "website": "https://www.fournos.co.za/find-us/?utm_source=google_maps&utm_medium=organic&utm_campaign=the-grove",
+  "googleMapsUrl": "https://maps.google.com/?cid=15564725325863430011",
+  "rating": 4.1,
+  "reviewCount": 1153,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.7655364,
+    28.3236566
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fournos-the-grove-tshwane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:56:12.836Z"
+}

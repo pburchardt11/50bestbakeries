@@ -1,0 +1,32 @@
+{
+  "slug": "coppens-willy-aalst",
+  "name": "Coppens Willy",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJmTxIz3S9w0cR-IDvDQNrgTY",
+  "googleName": "Coppens / Willy",
+  "formattedAddress": "Hogeweg 72, 9320 Aalst, Belgium",
+  "phone": "053 77 98 98",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3927538010906657016",
+  "rating": 4.6,
+  "reviewCount": 90,
+  "coords": [
+    50.9213971,
+    4.0651855
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coppens-willy-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:03:58.240Z"
+}

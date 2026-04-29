@@ -1,0 +1,32 @@
+{
+  "slug": "yallacake",
+  "name": "yallaCake",
+  "city": "الجنبية",
+  "country": "Bahrain",
+  "placeId": "ChIJ8zvwEvqxST4R19M3dq9fMTY",
+  "googleName": "yallaCake",
+  "formattedAddress": "Building 2142 Road 7529 Block 575، Janabiyah, Bahrain",
+  "phone": "3457 0355",
+  "website": "http://order.yallacake.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3905007559114216407",
+  "rating": 4.8,
+  "reviewCount": 283,
+  "coords": [
+    26.1859696,
+    50.47569679999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yallacake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:45:54.388Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "purity-bakery-ltd-nassau",
+  "name": "Purity Bakery Ltd.",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJAfq0Sh19L4kRyhEnRW3jPws",
+  "googleName": "Purity Bakery Ltd.",
+  "formattedAddress": "3MC4+MCH, Market St, Nassau, The Bahamas",
+  "phone": "(242) 302-3000",
+  "website": "http://bacardirumcakes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=810616516401107402",
+  "rating": 4.2,
+  "reviewCount": 441,
+  "coords": [
+    25.0716891,
+    -77.3438767
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/purity-bakery-ltd-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:43:09.663Z"
+}

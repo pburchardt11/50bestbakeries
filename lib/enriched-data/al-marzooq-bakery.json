@@ -1,0 +1,32 @@
+{
+  "slug": "al-marzooq-bakery",
+  "name": "Al Marzooq Bakery",
+  "city": "المنامة",
+  "country": "Bahrain",
+  "placeId": "ChIJf1BjoJ2vST4RiUH3ZqR8ex0",
+  "googleName": "Al Marzooq Bakery مخبز المرزوق",
+  "formattedAddress": "6HHH+9W8, Manama, Bahrain",
+  "phone": "1726 3634",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2124428694779281801",
+  "rating": 4.2,
+  "reviewCount": 26,
+  "coords": [
+    26.2283746,
+    50.57983609999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-marzooq-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:49:02.168Z"
+}

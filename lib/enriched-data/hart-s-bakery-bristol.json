@@ -1,0 +1,43 @@
+{
+  "slug": "hart-s-bakery-bristol",
+  "name": "Hart's Bakery",
+  "curatedName": "Hart's Bakery",
+  "city": "Bristol",
+  "country": "United Kingdom",
+  "placeId": "ChIJwU8nRGOOcUgRtm-Pdm86PAA",
+  "googleName": "Hart's Bakery",
+  "formattedAddress": "Arch 35 Lower Approach Rd, Redcliffe, Bristol BS1 6QS, UK",
+  "phone": "0117 992 4488",
+  "internationalPhone": "+44 117 992 4488",
+  "website": "http://www.hartsbakery.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16952749007531958",
+  "rating": 4.8,
+  "reviewCount": 1553,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.4489404,
+    -2.5818877
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Artisan bakers' workshop with a rustic cafe space selling homemade pastries, pies and cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hart-s-bakery-bristol/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:14.278Z"
+}

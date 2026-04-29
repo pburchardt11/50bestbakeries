@@ -1,0 +1,43 @@
+{
+  "slug": "passage-a-paris-valencia",
+  "name": "Passage à Paris",
+  "curatedName": "Passage à Paris",
+  "city": "València",
+  "country": "Spain",
+  "placeId": "ChIJy-HCy-FJYA0RaDoU7QowFrQ",
+  "googleName": "Passage à Paris",
+  "formattedAddress": "Carrer del Dr. Sumsi, 29, L'Eixample, 46005 València, Valencia, Spain",
+  "phone": "658 51 84 71",
+  "internationalPhone": "+34 658 51 84 71",
+  "website": "https://passageaparis.es/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12976612199799994984",
+  "rating": 4.9,
+  "reviewCount": 641,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.4611461,
+    -0.3675917
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:30 AM – 2:00 PM",
+    "Sunday: 9:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/passage-a-paris-valencia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:41.484Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "pastelerias-castel-cakes-tampico",
+  "name": "Pastelerias Castel Cakes",
+  "curatedName": "Pastelerias Castel Cakes",
+  "city": "Tampico",
+  "country": "Mexico",
+  "placeId": "ChIJI44TPsL514UR1JC0027_9Nk",
+  "googleName": "Pastelerías Castel Cakes",
+  "formattedAddress": "C. 8 122, Los Pinos, 89138 Tampico, Tamps., Mexico",
+  "phone": "833 140 2712",
+  "internationalPhone": "+52 833 140 2712",
+  "website": "https://www.facebook.com/castlecakes.mc/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15705458652011073748",
+  "rating": 5,
+  "reviewCount": 17,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.265097,
+    -97.8583649
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:30 PM",
+    "Wednesday: 11:00 AM – 6:30 PM",
+    "Thursday: 11:00 AM – 6:30 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelerias-castel-cakes-tampico/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:36.374Z"
+}

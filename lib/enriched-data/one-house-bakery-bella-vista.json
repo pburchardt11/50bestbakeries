@@ -1,0 +1,32 @@
+{
+  "slug": "one-house-bakery-bella-vista",
+  "name": "One House Bakery",
+  "city": "Bella Vista",
+  "country": "Belize",
+  "placeId": "ChIJlTn2A_exYI8RkvLX2UZa6_4",
+  "googleName": "One House Bakery - Belize",
+  "formattedAddress": "Bella Vista, Belize",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18368874765509718674",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    16.5111197,
+    -88.5360747
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/one-house-bakery-bella-vista/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:06:21.034Z"
+}

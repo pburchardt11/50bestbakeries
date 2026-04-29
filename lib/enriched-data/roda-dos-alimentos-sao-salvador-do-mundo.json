@@ -1,0 +1,32 @@
+{
+  "slug": "roda-dos-alimentos-sao-salvador-do-mundo",
+  "name": "Roda Dos Alimentos",
+  "city": "São Salvador do Mundo",
+  "country": "Cape Verde",
+  "placeId": "ChIJ6ac8caKPNQkRZulX0_TmwJ8",
+  "googleName": "Roda Dos Alimentos, Padaria, Frutaria",
+  "formattedAddress": "Picos, Cabo Verde",
+  "phone": "988 71 69",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11511454586751150438",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    15.0826745,
+    -23.6323762
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:30 PM",
+    "Tuesday: 6:00 AM – 8:30 PM",
+    "Wednesday: 6:00 AM – 8:30 PM",
+    "Thursday: 6:00 AM – 8:30 PM",
+    "Friday: 6:00 AM – 8:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roda-dos-alimentos-sao-salvador-do-mundo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:40:42.212Z"
+}

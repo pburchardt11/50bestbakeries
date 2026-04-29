@@ -1,0 +1,43 @@
+{
+  "slug": "sizuya",
+  "name": "Sizuya",
+  "curatedName": "Sizuya",
+  "city": "京都市南区",
+  "country": "Japan",
+  "placeId": "ChIJCSndz60IAWARhnA9zVKJf84",
+  "googleName": "Sizuya - Kyoto Station",
+  "formattedAddress": "Japan, 〒600-8215 Kyoto, Shimogyo Ward, Higashishiokōji Takakurachō, ８−３ 京都駅八条口 アスティロード内",
+  "phone": "075-692-2452",
+  "internationalPhone": "+81 75-692-2452",
+  "website": "http://www.sizuya.co.jp/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14879762682579087494",
+  "rating": 4.1,
+  "reviewCount": 889,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.984535,
+    135.75862
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sizuya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:22:03.239Z"
+}

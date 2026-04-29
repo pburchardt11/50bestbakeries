@@ -1,0 +1,43 @@
+{
+  "slug": "la-french-taste-edmonton",
+  "name": "La French Taste",
+  "curatedName": "La French Taste",
+  "city": "Edmonton",
+  "country": "Canada",
+  "placeId": "ChIJC5gW00EfoFMR14bAU-7FS_k",
+  "googleName": "La French Taste",
+  "formattedAddress": "11401 95 St, Edmonton, AB T5G 1L3, Canada",
+  "phone": "(825) 523-8278",
+  "internationalPhone": "+1 825-523-8278",
+  "website": "https://www.lafrenchtaste.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17963669166095369943",
+  "rating": 4.8,
+  "reviewCount": 275,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.5644108,
+    -113.4869977
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-french-taste-edmonton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:39.777Z"
+}

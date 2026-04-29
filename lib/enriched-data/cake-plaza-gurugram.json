@@ -1,0 +1,43 @@
+{
+  "slug": "cake-plaza-gurugram",
+  "name": "Cake Plaza",
+  "curatedName": "Cake Plaza",
+  "city": "Gurugram",
+  "country": "India",
+  "placeId": "ChIJWyZZt8UjDTkRIx0H7PgUViw",
+  "googleName": "Cake Plaza",
+  "formattedAddress": "Shop no 11, behind JMD MEGAPOLIS, Tikri, Sector 48, Gurugram, Haryana 122018, India",
+  "phone": "098737 39058",
+  "internationalPhone": "+91 98737 39058",
+  "website": "http://www.cakeplaza.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3194764045010279715",
+  "rating": 4.8,
+  "reviewCount": 1071,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.4217853,
+    77.0383147
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-plaza-gurugram/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:56.631Z"
+}

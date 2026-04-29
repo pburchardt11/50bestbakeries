@@ -1,0 +1,32 @@
+{
+  "slug": "alnusam-srl-cochabamba",
+  "name": "Alnusam Srl",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJKTYr3dV145MRVbJQVB3eRcI",
+  "googleName": "ALNUSAM SRL",
+  "formattedAddress": "Cochabamba, Bolivia",
+  "phone": "71457450",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13998839234301047381",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -17.3820901,
+    -66.1694215
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 8:00 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alnusam-srl-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:14:42.460Z"
+}

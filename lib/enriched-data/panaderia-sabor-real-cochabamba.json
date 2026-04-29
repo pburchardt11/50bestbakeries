@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-sabor-real-cochabamba",
+  "name": "Panadería Sabor Real",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJY3pQAqdx45MR1EyqzExDE2o",
+  "googleName": "Panadería Sabor Real",
+  "formattedAddress": "Av. Petrolera Km 3.5, Cochabamba, Bolivia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7643526989708152020",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -17.439957,
+    -66.13556489999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 5:00 AM – 6:30 PM",
+    "Sunday: 5:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-sabor-real-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:12:58.830Z"
+}

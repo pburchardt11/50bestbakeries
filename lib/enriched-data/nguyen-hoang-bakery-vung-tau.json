@@ -1,0 +1,43 @@
+{
+  "slug": "nguyen-hoang-bakery-vung-tau",
+  "name": "Nguyen Hoang Bakery",
+  "curatedName": "Nguyen Hoang Bakery",
+  "city": "Vũng Tàu",
+  "country": "Vietnam",
+  "placeId": "ChIJZcClcu5vdTERrefHtTTzux0",
+  "googleName": "Nguyễn Hoàng Bakery",
+  "formattedAddress": "67 Nam Kỳ Khởi Nghĩa, Phường 3, Vũng Tàu, Hồ Chí Minh, Vietnam",
+  "phone": "0254 3511 286",
+  "internationalPhone": "+84 254 3511 286",
+  "website": "http://nguyenhoangbakery.vn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2142573455458428845",
+  "rating": 4.7,
+  "reviewCount": 1240,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.3459396,
+    107.083846
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nguyen-hoang-bakery-vung-tau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:38.520Z"
+}

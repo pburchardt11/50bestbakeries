@@ -1,0 +1,32 @@
+{
+  "slug": "mie-doree-bertoua",
+  "name": "Mie Dorée",
+  "city": "Bertoua",
+  "country": "Cameroon",
+  "placeId": "ChIJj0p7pYyYkhARJjaWlqMOoNc",
+  "googleName": "La mie dorée",
+  "formattedAddress": "HMFG+WFQ, N1, Bertoua, Cameroon",
+  "phone": "6 99 25 97 34",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15537434810197095974",
+  "rating": 3.4,
+  "reviewCount": 531,
+  "coords": [
+    4.5748371,
+    13.6762223
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mie-doree-bertoua/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:35:56.218Z"
+}

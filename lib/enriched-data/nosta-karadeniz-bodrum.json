@@ -1,0 +1,43 @@
+{
+  "slug": "nosta-karadeniz-bodrum",
+  "name": "Nosta Karadeniz",
+  "curatedName": "Nosta Karadeniz",
+  "city": "Bodrum",
+  "country": "Türkiye",
+  "placeId": "ChIJ36QZm25tvhQR6unZmcCxNlY",
+  "googleName": "Nosta karadeniz",
+  "formattedAddress": "Kumbahçe, Atatürk Cd. No:69, 48400 Bodrum/Muğla, Türkiye",
+  "phone": "0541 349 13 93",
+  "internationalPhone": "+90 541 349 13 93",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6212348176777210346",
+  "rating": 4.5,
+  "reviewCount": 183,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.0333516,
+    27.4374532
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 1:30 AM",
+    "Tuesday: 6:00 AM – 1:30 AM",
+    "Wednesday: 6:00 AM – 1:30 AM",
+    "Thursday: 6:00 AM – 1:30 AM",
+    "Friday: 6:00 AM – 1:30 AM",
+    "Saturday: 6:00 AM – 1:30 AM",
+    "Sunday: 6:00 AM – 1:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nosta-karadeniz-bodrum/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:04:38.263Z"
+}

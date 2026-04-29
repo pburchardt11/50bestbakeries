@@ -1,0 +1,43 @@
+{
+  "slug": "boris-boulangerie-paris",
+  "name": "Boris Boulangerie",
+  "curatedName": "Boris Boulangerie",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJfQSZYVBu5kcRgpsxuzAxDIY",
+  "googleName": "Boris - Boulangerie",
+  "formattedAddress": "48 Rue Caulaincourt, 75018 Paris, France",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://instagram.com/boris_lume",
+  "googleMapsUrl": "https://maps.google.com/?cid=9659149386171652994",
+  "rating": 4.6,
+  "reviewCount": 2225,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8889874,
+    2.334805
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boris-boulangerie-paris/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:04.373Z"
+}

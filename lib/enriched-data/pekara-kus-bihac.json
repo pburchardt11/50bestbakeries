@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-kus-bihac",
+  "name": "Pekara Kus",
+  "city": "Bihać",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJ4-7FSF1AYUcR_BehVAudvXw",
+  "googleName": "Pekara \"Kus\"",
+  "formattedAddress": "77000, Saliha Mušanovića, Bihać 77000, Bosnia and Herzegovina",
+  "phone": "062 467 969",
+  "website": "https://www.facebook.com/PekarnaKus/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8988513103291422716",
+  "rating": 3.9,
+  "reviewCount": 24,
+  "coords": [
+    44.8197356,
+    15.8669744
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-kus-bihac/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:17:24.615Z"
+}

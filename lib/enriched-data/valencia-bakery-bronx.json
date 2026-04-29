@@ -1,0 +1,43 @@
+{
+  "slug": "valencia-bakery-bronx",
+  "name": "Valencia Bakery",
+  "curatedName": "Valencia Bakery",
+  "city": "Bronx",
+  "country": "United States",
+  "placeId": "ChIJmxJvfwH1wokRsrY4uBL-ZMc",
+  "googleName": "Valencia Bakery",
+  "formattedAddress": "801 Edgewater Rd, Bronx, NY 10474, USA",
+  "phone": "(718) 991-6400",
+  "internationalPhone": "+1 718-991-6400",
+  "website": "http://www.valenciabakeryny.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14367888067572315826",
+  "rating": 4.6,
+  "reviewCount": 1174,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.817576,
+    -73.8837721
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Longtime outfit specializing in custom cakes with a variety of fillings plus ready-made options.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/valencia-bakery-bronx/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:15:46.168Z"
+}

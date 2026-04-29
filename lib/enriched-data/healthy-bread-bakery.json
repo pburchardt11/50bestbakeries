@@ -1,0 +1,32 @@
+{
+  "slug": "healthy-bread-bakery",
+  "name": "Healthy Bread Bakery",
+  "city": "الساية",
+  "country": "Bahrain",
+  "placeId": "ChIJQTQXsCGtST4R53_cffes0-U",
+  "googleName": "Healthy Bread Bakery",
+  "formattedAddress": "4HJ3+6MR Al sayh, البسيتين، Bahrain",
+  "phone": "3612 7173",
+  "website": "https://healthybread-bh.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16560770433739948007",
+  "rating": 4.4,
+  "reviewCount": 51,
+  "coords": [
+    26.2808807,
+    50.5985149
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 11:00 PM",
+    "Tuesday: 11:00 AM – 11:00 PM",
+    "Wednesday: 11:00 AM – 11:00 PM",
+    "Thursday: 11:00 AM – 11:00 PM",
+    "Friday: 11:00 AM – 11:00 PM",
+    "Saturday: 11:00 AM – 11:00 PM",
+    "Sunday: 11:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/healthy-bread-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:47:23.446Z"
+}

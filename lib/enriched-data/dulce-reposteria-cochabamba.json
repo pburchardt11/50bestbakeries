@@ -1,0 +1,32 @@
+{
+  "slug": "dulce-reposteria-cochabamba",
+  "name": "Dulce Reposteria",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJqz5hKXFz45MRtx73ar4_RS8",
+  "googleName": "Reposteria fina",
+  "formattedAddress": "000, Cochabamba, Bolivia",
+  "phone": "70643110",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3406198780246564535",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -17.3759201,
+    -66.1903394
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dulce-reposteria-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:14:36.724Z"
+}

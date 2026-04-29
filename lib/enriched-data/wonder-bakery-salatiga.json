@@ -1,0 +1,43 @@
+{
+  "slug": "wonder-bakery-salatiga",
+  "name": "Wonder Bakery",
+  "curatedName": "Wonder Bakery",
+  "city": "Salatiga",
+  "country": "Indonesia",
+  "placeId": "ChIJ57AK_MV5ei4RXRjkqC_Kfwo",
+  "googleName": "Wonder Roti Salatiga",
+  "formattedAddress": "Jl. Semeru No.11, Kalicacing, Kec. Sidomukti, Kota Salatiga, Jawa Tengah 50724, Indonesia",
+  "phone": "(0298) 326970",
+  "internationalPhone": "+62 298 326970",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=756545568467327069",
+  "rating": 4.6,
+  "reviewCount": 2619,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.332464099999999,
+    110.5035006
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:30 PM",
+    "Sunday: 7:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wonder-bakery-salatiga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:36.602Z"
+}

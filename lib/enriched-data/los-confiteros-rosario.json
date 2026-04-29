@@ -1,0 +1,44 @@
+{
+  "slug": "los-confiteros-rosario",
+  "name": "Los Confiteros",
+  "curatedName": "Los Confiteros",
+  "city": "Rosario",
+  "country": "Argentina",
+  "placeId": "ChIJsQQAcxCrt5URWCfqFV_zmls",
+  "googleName": "Los Confiteros",
+  "formattedAddress": "3 de Febrero 1166, S2000 BKX, Santa Fe, Argentina",
+  "phone": "0341 411-1365",
+  "internationalPhone": "+54 341 411-1365",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6600855793579992920",
+  "rating": 4.5,
+  "reviewCount": 5593,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -32.9525416,
+    -60.64071819999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/los-confiteros-rosario/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:37.907Z"
+}

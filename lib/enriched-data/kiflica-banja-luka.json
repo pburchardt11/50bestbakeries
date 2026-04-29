@@ -1,0 +1,32 @@
+{
+  "slug": "kiflica-banja-luka",
+  "name": "Kiflica",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJe2nrxIkDXkcRFu70nmgFWs8",
+  "googleName": "KIFLICA",
+  "formattedAddress": "Bulevar vojvode Stepe Stepanovića 175a, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": "066 010-015",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14941260660656631318",
+  "rating": 4.5,
+  "reviewCount": 35,
+  "coords": [
+    44.7660065,
+    17.2052741
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kiflica-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:16:57.372Z"
+}

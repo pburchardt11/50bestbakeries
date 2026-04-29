@@ -1,0 +1,43 @@
+{
+  "slug": "pasticceria-bonifacio-venezia",
+  "name": "Pasticceria Bonifacio",
+  "curatedName": "Pasticceria Bonifacio",
+  "city": "Venezia",
+  "country": "Italy",
+  "placeId": "ChIJhX3KG9ixfkcRvvQitmlQF-Y",
+  "googleName": "Pasticceria Bonifacio",
+  "formattedAddress": "C. degli Albanesi, 4237, 30122 Venezia VE, Italy",
+  "phone": "041 522 7507",
+  "internationalPhone": "+39 041 522 7507",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16579808968145302718",
+  "rating": 4.7,
+  "reviewCount": 488,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4349238,
+    12.3415297
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:30 PM",
+    "Tuesday: 6:00 AM – 5:30 PM",
+    "Wednesday: 6:00 AM – 5:30 PM",
+    "Thursday: Closed",
+    "Friday: 6:00 AM – 5:30 PM",
+    "Saturday: 6:00 AM – 5:30 PM",
+    "Sunday: 6:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-bonifacio-venezia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:13.865Z"
+}

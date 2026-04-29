@@ -1,0 +1,43 @@
+{
+  "slug": "hleb-kifle",
+  "name": "Hleb & kifle",
+  "curatedName": "Hleb & kifle",
+  "city": "Београд",
+  "country": "Serbia",
+  "placeId": "ChIJM4opS3VwWkcRE2Ilgz98E_4",
+  "googleName": "Hleb & Kifle",
+  "formattedAddress": "Njegoševa 67, Beograd 11000, Serbia",
+  "phone": "064 8956258",
+  "internationalPhone": "+381 64 8956258",
+  "website": "http://www.hlebikifle.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18308113522416247315",
+  "rating": 4.1,
+  "reviewCount": 331,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.8013334,
+    20.4729017
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hleb-kifle/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:00.958Z"
+}

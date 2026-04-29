@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-maletic-banja-luka",
+  "name": "Pekara Maletić",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJK7CzhskDXkcRTSX5GFWxYHk",
+  "googleName": "Maletić",
+  "formattedAddress": "Knjaza Miloša 124, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": "063 391 526",
+  "website": "http://pekaramaletic.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8746185455402820941",
+  "rating": 4.4,
+  "reviewCount": 544,
+  "coords": [
+    44.8038811,
+    17.2088606
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-maletic-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:17:12.788Z"
+}

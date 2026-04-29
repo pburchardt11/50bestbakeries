@@ -1,0 +1,44 @@
+{
+  "slug": "volkan-ozgur-patisserie-kag-thane",
+  "name": "Volkan Özgür Patisserie",
+  "curatedName": "Volkan Özgür Patisserie",
+  "city": "Kağıthane",
+  "country": "Türkiye",
+  "placeId": "ChIJa-VqaR-3yhQR1A8Sxol3kMM",
+  "googleName": "VOLKAN ÖZGÜR PATİSSERİE",
+  "formattedAddress": "Gürsel, Şevket Paşa Cd. no:6, 34000 Kağıthane/İstanbul, Türkiye",
+  "phone": "(0212) 320 50 55",
+  "internationalPhone": "+90 212 320 50 55",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14091894667659579348",
+  "rating": 4.6,
+  "reviewCount": 202,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0711295,
+    28.9780166
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 10:00 PM",
+    "Tuesday: 9:30 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:30 AM – 10:00 PM",
+    "Friday: 9:30 AM – 10:00 PM",
+    "Saturday: 9:30 AM – 10:00 PM",
+    "Sunday: 9:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/volkan-ozgur-patisserie-kag-thane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:03:40.444Z"
+}

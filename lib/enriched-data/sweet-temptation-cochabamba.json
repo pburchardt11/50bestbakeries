@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-temptation-cochabamba",
+  "name": "Sweet Temptation Cochabamba",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJI-u3IsVz45MRiBcu8PXdZz8",
+  "googleName": "Sweet Temptation",
+  "formattedAddress": "Parque Demetrio Canelas, Cochabamba, Bolivia",
+  "phone": "60780562",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4568864395356936072",
+  "rating": 5,
+  "reviewCount": 7,
+  "coords": [
+    -17.3795656,
+    -66.17952129999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 2:00 – 9:00 PM",
+    "Wednesday: 2:00 – 9:00 PM",
+    "Thursday: 2:00 – 9:00 PM",
+    "Friday: 2:00 – 9:00 PM",
+    "Saturday: 2:00 – 9:00 PM",
+    "Sunday: 2:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-temptation-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:14:22.662Z"
+}

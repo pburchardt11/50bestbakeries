@@ -1,0 +1,43 @@
+{
+  "slug": "formosa-bakeshop-quezon-city",
+  "name": "Formosa Bakeshop",
+  "curatedName": "Formosa Bakeshop",
+  "city": "Quezon City",
+  "country": "Philippines",
+  "placeId": "ChIJc1Gr7Wy2lzMR1lXyIVLawd0",
+  "googleName": "Formosa Bakeshop",
+  "formattedAddress": "518 Banawe St, Quezon City, 1114 Metro Manila, Philippines",
+  "phone": "(02) 8826 4899",
+  "internationalPhone": "+63 2 8826 4899",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15979292999178933718",
+  "rating": 4.4,
+  "reviewCount": 122,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.6298595,
+    121.0032235
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/formosa-bakeshop-quezon-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:51.199Z"
+}

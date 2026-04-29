@@ -1,0 +1,32 @@
+{
+  "slug": "pie-pie-pie",
+  "name": "Pie Pie Pie",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJT0DPyQ69akAR2PGUgRD37jc",
+  "googleName": "Pie Pie Pie",
+  "formattedAddress": "33 Moskovyan pokhoc, Yerevan 0010, Armenia",
+  "phone": "041 213135",
+  "website": "http://piepiepie.am/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4030430366808732120",
+  "rating": 4.6,
+  "reviewCount": 19,
+  "coords": [
+    40.18798719999999,
+    44.5128647
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pie-pie-pie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:27:01.027Z"
+}

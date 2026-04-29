@@ -1,0 +1,46 @@
+{
+  "slug": "impero-caprarie-bologna",
+  "name": "Impero Caprarie",
+  "curatedName": "Impero Caprarie",
+  "city": "Bologna",
+  "country": "Italy",
+  "placeId": "ChIJwffn9b7Uf0cRYlUeCe-8o4o",
+  "googleName": "Impero Caprarie",
+  "formattedAddress": "Via Caprarie, 4/e, 40124 Bologna BO, Italy",
+  "phone": "051 296 0323",
+  "internationalPhone": "+39 051 296 0323",
+  "website": "https://www.pasticceriaimpero.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9990036133274080610",
+  "rating": 4.1,
+  "reviewCount": 2799,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.4938933,
+    11.3462893
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:30 PM",
+    "Tuesday: 7:30 AM – 9:30 PM",
+    "Wednesday: 7:30 AM – 9:30 PM",
+    "Thursday: 7:30 AM – 9:30 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 7:30 AM – 10:30 PM",
+    "Sunday: 8:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": "Modern pastry shop & cafe for brioches, cakes & light lunches, plus evening cocktails & snacks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/impero-caprarie-bologna/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:04.031Z"
+}

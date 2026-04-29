@@ -1,0 +1,43 @@
+{
+  "slug": "garden-bakery-south-common-edmonton",
+  "name": "Garden Bakery South Common",
+  "curatedName": "Garden Bakery South Common",
+  "city": "Edmonton",
+  "country": "Canada",
+  "placeId": "ChIJyyHARREfoFMRhyex6T7t5Xo",
+  "googleName": "Garden Bakery South Common",
+  "formattedAddress": "1731 102 St NW, Edmonton, AB T6N 0B1, Canada",
+  "phone": "(587) 401-3440",
+  "internationalPhone": "+1 587-401-3440",
+  "website": "https://www.gardenbakery.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8855745096758404999",
+  "rating": 4.7,
+  "reviewCount": 320,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.4453271,
+    -113.489363
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/garden-bakery-south-common-edmonton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:32.404Z"
+}

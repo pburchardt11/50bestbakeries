@@ -1,0 +1,44 @@
+{
+  "slug": "fournos-artisan-bakery-uskudar",
+  "name": "Fournos Artisan Bakery",
+  "curatedName": "Fournos Artisan Bakery",
+  "city": "Üsküdar",
+  "country": "Türkiye",
+  "placeId": "ChIJvxqh_ifJyhQR_Ljcxcr5Ggc",
+  "googleName": "Fournos Artisan Bakery",
+  "formattedAddress": "Selimiye, Selimiye Hamam Sk. No:43/B, 34668 Üsküdar/İstanbul, Türkiye",
+  "phone": "0543 532 19 84",
+  "internationalPhone": "+90 543 532 19 84",
+  "website": "http://fournos.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=511996156958259452",
+  "rating": 4.8,
+  "reviewCount": 95,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0108219,
+    29.0165487
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fournos-artisan-bakery-uskudar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:02:13.477Z"
+}

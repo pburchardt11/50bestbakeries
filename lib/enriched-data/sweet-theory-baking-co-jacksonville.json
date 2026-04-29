@@ -1,0 +1,45 @@
+{
+  "slug": "sweet-theory-baking-co-jacksonville",
+  "name": "Sweet Theory Baking Co.",
+  "curatedName": "Sweet Theory Baking Co.",
+  "city": "Jacksonville",
+  "country": "United States",
+  "placeId": "ChIJq_it5tS55YgR7_i5gZDjth4",
+  "googleName": "Sweet Theory Baking Co.",
+  "formattedAddress": "1243 King St, Jacksonville, FL 32204, USA",
+  "phone": "(904) 387-1001",
+  "internationalPhone": "+1 904-387-1001",
+  "website": "http://www.sweettheorybakingco.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2213206476690421999",
+  "rating": 4.7,
+  "reviewCount": 1315,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.3118154,
+    -81.6942842
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 4:00 PM",
+    "Wednesday: 8:30 AM – 4:00 PM",
+    "Thursday: 8:30 AM – 4:00 PM",
+    "Friday: 8:30 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Retro bakery crafting organic donuts, custom cakes & cookies, plus gluten-free options & egg creams.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-theory-baking-co-jacksonville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:23.733Z"
+}

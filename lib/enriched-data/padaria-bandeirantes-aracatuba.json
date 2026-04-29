@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-bandeirantes-aracatuba",
+  "name": "Padaria Bandeirantes",
+  "curatedName": "Padaria Bandeirantes",
+  "city": "Araçatuba",
+  "country": "Brazil",
+  "placeId": "ChIJKzRhheNDlpQRgx5Hu0xtCtA",
+  "googleName": "Padaria Bandeirante",
+  "formattedAddress": "R. Bandeirantes, 729 - Centro, Araçatuba - SP, 16010-090, Brazil",
+  "phone": "(18) 3623-5314",
+  "internationalPhone": "+55 18 3623-5314",
+  "website": "https://www.padariabandeirante.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14990914485983059587",
+  "rating": 4.6,
+  "reviewCount": 7101,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -21.2079726,
+    -50.4352612
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:30 PM",
+    "Saturday: 6:00 AM – 11:30 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-bandeirantes-aracatuba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:05.216Z"
+}

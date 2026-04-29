@@ -1,0 +1,44 @@
+{
+  "slug": "twelve-triangles-edinburgh",
+  "name": "Twelve Triangles",
+  "curatedName": "Twelve Triangles",
+  "city": "Edinburgh",
+  "country": "United Kingdom",
+  "placeId": "ChIJyeeQw4rHh0gRJuD5cDjFWLw",
+  "googleName": "Twelve Triangles",
+  "formattedAddress": "90 Brunswick St, Edinburgh EH7 5HU, UK",
+  "phone": "0131 629 4664",
+  "internationalPhone": "+44 131 629 4664",
+  "website": "https://twelvetriangles.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13571814323285254182",
+  "rating": 4.6,
+  "reviewCount": 476,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    55.9606895,
+    -3.1809829
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Tiny café in a cheerful atmosphere offering espresso drinks & donuts, plus sweet & savoury pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/twelve-triangles-edinburgh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:07:14.105Z"
+}

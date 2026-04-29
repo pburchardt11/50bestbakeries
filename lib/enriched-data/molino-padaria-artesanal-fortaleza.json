@@ -1,0 +1,45 @@
+{
+  "slug": "molino-padaria-artesanal-fortaleza",
+  "name": "Molino Padaria Artesanal",
+  "curatedName": "Molino Padaria Artesanal",
+  "city": "Fortaleza",
+  "country": "Brazil",
+  "placeId": "ChIJL-c085dJxwcR7h5Q7SUM70c",
+  "googleName": "Molino Padaria Artesanal",
+  "formattedAddress": "R. Torres Câmara, 314 - loja 2 - Aldeota, Fortaleza - CE, 60150-060, Brazil",
+  "phone": "(85) 98217-1522",
+  "internationalPhone": "+55 85 98217-1522",
+  "website": "https://instagram.com/molinopadariaartesanal?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=5183375053161504494",
+  "rating": 4.5,
+  "reviewCount": 1124,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -3.7353063,
+    -38.5083752
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/molino-padaria-artesanal-fortaleza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:14.380Z"
+}

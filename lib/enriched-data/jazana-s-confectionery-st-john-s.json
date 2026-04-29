@@ -1,0 +1,32 @@
+{
+  "slug": "jazana-s-confectionery-st-john-s",
+  "name": "Jazana's Confectionery",
+  "city": "St. John's",
+  "country": "Antigua & Barbuda",
+  "placeId": "ChIJrVIR_jSTEowRzUIlmZwmsTc",
+  "googleName": "Jazana's Confectionery",
+  "formattedAddress": "Fiennes Street, Ottos, Antigua and Barbuda",
+  "phone": "(268) 728-0137",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4013031196989932237",
+  "rating": 4.7,
+  "reviewCount": 6,
+  "coords": [
+    17.1135793,
+    -61.8388042
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 5:00 PM",
+    "Tuesday: 11:00 AM – 5:00 PM",
+    "Wednesday: 11:00 AM – 5:00 PM",
+    "Thursday: 11:00 AM – 5:00 PM",
+    "Friday: 11:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jazana-s-confectionery-st-john-s/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:20:10.113Z"
+}

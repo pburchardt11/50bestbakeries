@@ -1,0 +1,32 @@
+{
+  "slug": "pasticeri-coba-kurbin",
+  "name": "Pastiçeri Çoba",
+  "city": "Kurbin",
+  "country": "Albania",
+  "placeId": "ChIJn5Mb0fnaURMRua2m9wLAaeY",
+  "googleName": "Pastiçeri Çoba",
+  "formattedAddress": "JPP7+WRV, Rruga Kurbini, Laç, Albania",
+  "phone": "068 288 8889",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16603012620255407545",
+  "rating": 4.4,
+  "reviewCount": 15,
+  "coords": [
+    41.637375,
+    19.7145538
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticeri-coba-kurbin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:15:10.211Z"
+}

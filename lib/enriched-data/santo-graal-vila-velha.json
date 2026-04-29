@@ -1,0 +1,44 @@
+{
+  "slug": "santo-graal-vila-velha",
+  "name": "Santo Graal",
+  "curatedName": "Santo Graal",
+  "city": "Vila Velha",
+  "country": "Brazil",
+  "placeId": "ChIJvfD4FTgWuAARKGtYu3PRe4Q",
+  "googleName": "Santo Graal",
+  "formattedAddress": "R. Quinze de Novembro, 960 - Centro de Vila Velha, Vila Velha - ES, 29101-055, Brazil",
+  "phone": "(27) 99238-2204",
+  "internationalPhone": "+55 27 99238-2204",
+  "website": "https://www.instagram.com/santograalvv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9546454130136476456",
+  "rating": 4.5,
+  "reviewCount": 1418,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.3343679,
+    -40.289708
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santo-graal-vila-velha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:38.063Z"
+}

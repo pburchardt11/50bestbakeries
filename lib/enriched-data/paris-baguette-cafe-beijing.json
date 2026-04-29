@@ -1,0 +1,24 @@
+{
+  "slug": "paris-baguette-cafe-beijing",
+  "name": "Paris Baguette Cafe",
+  "city": "Beijing",
+  "country": "China",
+  "placeId": "ChIJU6jnf8xS8DUR6-FaGEU_zD4",
+  "googleName": "Paris Baguette",
+  "formattedAddress": "China, Bei Jing Shi, Dong Cheng Qu, 东长安街1号东方广场地铁层bb05b 邮政编码: 100006",
+  "phone": "010 8518 5266",
+  "website": "https://www.pbchina.cn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4525061291594408427",
+  "rating": 3.6,
+  "reviewCount": 5,
+  "coords": [
+    39.9088524,
+    116.4126182
+  ],
+  "openingHours": null,
+  "editorialSummary": "Cafe & bakery chain serving French pastries, bread, cakes & sandwiches, plus tea & coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-cafe-beijing/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:44:07.755Z"
+}

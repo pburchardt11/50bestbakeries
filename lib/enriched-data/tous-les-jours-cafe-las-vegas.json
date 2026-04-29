@@ -1,0 +1,44 @@
+{
+  "slug": "tous-les-jours-cafe-las-vegas",
+  "name": "Tous Les Jours Cafe",
+  "curatedName": "Tous Les Jours Cafe",
+  "city": "Las Vegas",
+  "country": "United States",
+  "placeId": "ChIJVyU3LYHHyIARUABVOPPcIrU",
+  "googleName": "Tous Les Jours Cafe",
+  "formattedAddress": "4731 Spring Mountain Rd ste b, Las Vegas, NV 89102, USA",
+  "phone": "(702) 830-2360",
+  "internationalPhone": "+1 702-830-2360",
+  "website": "http://tljus.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13052237607253377104",
+  "rating": 4.9,
+  "reviewCount": 2295,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.1250697,
+    -115.2055964
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:00 AM",
+    "Tuesday: 7:30 AM – 12:00 AM",
+    "Wednesday: 7:30 AM – 12:00 AM",
+    "Thursday: 7:30 AM – 12:00 AM",
+    "Friday: 7:30 AM – 12:00 AM",
+    "Saturday: 7:30 AM – 12:00 AM",
+    "Sunday: 7:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-cafe-las-vegas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:29.100Z"
+}

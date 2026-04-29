@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-don-pepe-guadalupe",
+  "name": "Panadería Don Pepe",
+  "curatedName": "Panadería Don Pepe",
+  "city": "Guadalupe",
+  "country": "Mexico",
+  "placeId": "ChIJZzISoJvqYoYRfxTbVlSPTM8",
+  "googleName": "Panadería Don Pepe",
+  "formattedAddress": "Tixtla, Vicente Guerrero, 67160 Guadalupe, N.L., Mexico",
+  "phone": "81 8367 8913",
+  "internationalPhone": "+52 81 8367 8913",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14937471656478315647",
+  "rating": 4.7,
+  "reviewCount": 335,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.6884167,
+    -100.2291942
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-don-pepe-guadalupe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:32.742Z"
+}

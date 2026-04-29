@@ -1,0 +1,43 @@
+{
+  "slug": "underground-bakery-otley",
+  "name": "Underground Bakery",
+  "curatedName": "Underground Bakery",
+  "city": "Otley",
+  "country": "United Kingdom",
+  "placeId": "ChIJmWW45Zr9e0gRvWz8sB8ZXwU",
+  "googleName": "Underground Bakery",
+  "formattedAddress": "10-10A Boroughgate, Otley LS21 3AL, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.theundergroundbakery.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=387055716881165501",
+  "rating": 4.9,
+  "reviewCount": 117,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.9057773,
+    -1.6929136
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/underground-bakery-otley/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:21.814Z"
+}

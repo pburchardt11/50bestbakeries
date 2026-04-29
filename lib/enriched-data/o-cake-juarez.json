@@ -1,0 +1,43 @@
+{
+  "slug": "o-cake-juarez",
+  "name": "O'Cake",
+  "curatedName": "O'Cake",
+  "city": "Juárez",
+  "country": "Mexico",
+  "placeId": "ChIJKy1_Tg1c54YR2uTMSdx5xFI",
+  "googleName": "O'Cake",
+  "formattedAddress": "Blvd. Manuel Gómez Morín 7439, Rincones de San Marcos, 32450 Juárez, Chih., Mexico",
+  "phone": "656 618 2306",
+  "internationalPhone": "+52 656 618 2306",
+  "website": "http://www.ocake.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5964025793583310042",
+  "rating": 4.3,
+  "reviewCount": 248,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.7216775,
+    -106.4173453
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 10:30 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/o-cake-juarez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:41.655Z"
+}

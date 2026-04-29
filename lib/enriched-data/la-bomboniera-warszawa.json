@@ -1,0 +1,44 @@
+{
+  "slug": "la-bomboniera-warszawa",
+  "name": "La Bomboniera",
+  "curatedName": "La Bomboniera",
+  "city": "Warszawa",
+  "country": "Poland",
+  "placeId": "ChIJsWGdu33MHkcRLcYJwpOrlus",
+  "googleName": "La Bomboniera",
+  "formattedAddress": "Al. Solidarności 82, 00-145 Warszawa, Poland",
+  "phone": "516 069 903",
+  "internationalPhone": "+48 516 069 903",
+  "website": "http://labomboniera.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16975944496523626029",
+  "rating": 4.8,
+  "reviewCount": 2023,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.2426675,
+    20.993842
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-bomboniera-warszawa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:58:09.343Z"
+}

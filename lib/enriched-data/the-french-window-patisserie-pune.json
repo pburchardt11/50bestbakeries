@@ -1,0 +1,45 @@
+{
+  "slug": "the-french-window-patisserie-pune",
+  "name": "The French Window Patisserie",
+  "curatedName": "The French Window Patisserie",
+  "city": "Pune",
+  "country": "India",
+  "placeId": "ChIJE4OEVQbBwjsRlB1PY4DXeF0",
+  "googleName": "The French Window Patisserie",
+  "formattedAddress": "Lane Number 5, next to Malaka Spice, Ganga Fortune Society, Meera Nagar, Koregaon Park, Pune, Maharashtra 411001, India",
+  "phone": "097666 44202",
+  "internationalPhone": "+91 97666 44202",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6735370189154491796",
+  "rating": 4.3,
+  "reviewCount": 1687,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.5377073,
+    73.8978451
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Elegant bakehouse & patisserie with a charming atmosphere & open-air seating.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-french-window-patisserie-pune/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:21.816Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "quality-bakery-ecatepec-de-morelos",
+  "name": "Quality Bakery",
+  "curatedName": "Quality Bakery",
+  "city": "Ecatepec de Morelos",
+  "country": "Mexico",
+  "placeId": "ChIJS_Wcme760YURl3Z34r2lj6o",
+  "googleName": "Quality Bakery",
+  "formattedAddress": "Av. Carlos Hank González 149, Valle de Aragon 3ra Secc, 55280 Ecatepec de Morelos, Méx., Mexico",
+  "phone": "55 5711 8855",
+  "internationalPhone": "+52 55 5711 8855",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12290224143084254871",
+  "rating": 4.3,
+  "reviewCount": 896,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.5023602,
+    -99.042217
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/quality-bakery-ecatepec-de-morelos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:57.917Z"
+}

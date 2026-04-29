@@ -1,0 +1,32 @@
+{
+  "slug": "bake-shop",
+  "name": "Bake Shop",
+  "city": "Бургас",
+  "country": "Bulgaria",
+  "placeId": "ChIJ_5lN-KSVpkAR4xgoz48QGDE",
+  "googleName": "BAKERY by Thaka",
+  "formattedAddress": "Burgas Center, ul. \"Slivnitsa\" 6, 8000 Burgas, Bulgaria",
+  "phone": "089 793 2878",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3537595717141403875",
+  "rating": 4.9,
+  "reviewCount": 121,
+  "coords": [
+    42.4960771,
+    27.4703893
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-shop/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:26:43.759Z"
+}

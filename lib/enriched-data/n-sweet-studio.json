@@ -1,0 +1,32 @@
+{
+  "slug": "n-sweet-studio",
+  "name": "N Sweet Studio",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJl9z7kf29akARxBNrOm_d5Uc",
+  "googleName": "N Sweet Studio",
+  "formattedAddress": "36 Mesrop Mashtoc pokhota, Yerevan 0002, Armenia",
+  "phone": "098 055590",
+  "website": "https://www.facebook.com/nsweetstudio/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5180790416150827972",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    40.1834187,
+    44.5111338
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/n-sweet-studio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:25:55.789Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pekarnica-petra-cestica",
+  "name": "Pekarnica Petra",
+  "city": "Cestica",
+  "country": "Croatia",
+  "placeId": "ChIJecirQpJZb0cRMDYsuGM32jc",
+  "googleName": "Pekarnica Petra",
+  "formattedAddress": "Varaždinska ul. 48, 42208, Babinec, Croatia",
+  "phone": "042 208 693",
+  "website": "http://www.pekarnica-petra.hr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4024590118440154672",
+  "rating": 4.4,
+  "reviewCount": 141,
+  "coords": [
+    46.3713421,
+    16.1126195
+  ],
+  "openingHours": [
+    "Monday: 4:45 AM – 7:00 PM",
+    "Tuesday: 4:45 AM – 7:00 PM",
+    "Wednesday: 4:45 AM – 7:00 PM",
+    "Thursday: 4:45 AM – 7:00 PM",
+    "Friday: 4:45 AM – 7:00 PM",
+    "Saturday: 4:45 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarnica-petra-cestica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:49:47.506Z"
+}

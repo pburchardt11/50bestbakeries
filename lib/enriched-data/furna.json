@@ -1,0 +1,44 @@
+{
+  "slug": "furna",
+  "name": "Furna",
+  "curatedName": "Furna",
+  "city": "София",
+  "country": "Bulgaria",
+  "placeId": "ChIJCymhyGmFqkAR9HVvJ7Lrx5w",
+  "googleName": "Furna",
+  "formattedAddress": "Old City Center, bul.\"Stefan Stambolov\" 3, 1000 Sofia, Bulgaria",
+  "phone": "089 449 6659",
+  "internationalPhone": "+359 89 449 6659",
+  "website": "http://www.furna.bg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11297257340680500724",
+  "rating": 4.6,
+  "reviewCount": 1812,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.6991902,
+    23.3161194
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/furna/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:31.931Z"
+}

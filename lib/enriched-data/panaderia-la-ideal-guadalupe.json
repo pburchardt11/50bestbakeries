@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-la-ideal-guadalupe",
+  "name": "Panaderia La IDEAL",
+  "curatedName": "Panaderia La IDEAL",
+  "city": "Guadalupe",
+  "country": "Mexico",
+  "placeId": "ChIJVy_Bsi7AYoYRu6Mh4wu7Pno",
+  "googleName": "Panadería La Ideal",
+  "formattedAddress": "3190 Calle, Benito Juárez, Agua Nueva, 67185 Guadalupe, Nuevo León, Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8808683580912935867",
+  "rating": 4.5,
+  "reviewCount": 216,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.6756603,
+    -100.2215254
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:35 PM",
+    "Tuesday: 8:00 AM – 10:35 PM",
+    "Wednesday: 8:00 AM – 10:35 PM",
+    "Thursday: 8:00 AM – 10:35 PM",
+    "Friday: 8:00 AM – 10:35 PM",
+    "Saturday: 8:00 AM – 10:35 PM",
+    "Sunday: 8:00 AM – 10:35 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-ideal-guadalupe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:37.659Z"
+}

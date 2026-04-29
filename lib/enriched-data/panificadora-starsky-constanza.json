@@ -1,0 +1,32 @@
+{
+  "slug": "panificadora-starsky-constanza",
+  "name": "Panificadora Starsky",
+  "city": "Constanza",
+  "country": "Dominican Republic",
+  "placeId": "ChIJq4e0yYgVsI4R7rtcwGOFkTY",
+  "googleName": "Panificadora starsky",
+  "formattedAddress": "Av. Gral. Luperón, Constanza 41000, Dominican Republic",
+  "phone": "(809) 539-1732",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3932070613146713070",
+  "rating": 4.7,
+  "reviewCount": 105,
+  "coords": [
+    18.910621,
+    -70.7507961
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-starsky-constanza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:57:51.969Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "vercenik-pastanesi-alanya",
+  "name": "Verçenik Pastanesi Alanya",
+  "curatedName": "Verçenik Pastanesi Alanya",
+  "city": "Alanya",
+  "country": "Türkiye",
+  "placeId": "ChIJUUBhdXyY3BQRj1YCRmZS6Ao",
+  "googleName": "Verçenik Pastanesi Alanya",
+  "formattedAddress": "Şekerhane, Şevket Tokuş Cd. 26/B, 07400 Alanya/Antalya, Türkiye",
+  "phone": "(0242) 512 37 70",
+  "internationalPhone": "+90 242 512 37 70",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=785968734190851727",
+  "rating": 4.4,
+  "reviewCount": 461,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.5473297,
+    32.0021965
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:30 PM",
+    "Tuesday: 7:30 AM – 11:30 PM",
+    "Wednesday: 7:30 AM – 11:30 PM",
+    "Thursday: 7:30 AM – 11:30 PM",
+    "Friday: 7:30 AM – 11:30 PM",
+    "Saturday: 7:30 AM – 11:30 PM",
+    "Sunday: 7:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vercenik-pastanesi-alanya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:01.242Z"
+}

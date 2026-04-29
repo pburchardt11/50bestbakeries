@@ -1,0 +1,43 @@
+{
+  "slug": "chaleur-atelier-patisserie-johor-bahru",
+  "name": "Chaleur Atelier Patisserie",
+  "curatedName": "Chaleur Atelier Patisserie",
+  "city": "Johor Bahru",
+  "country": "Malaysia",
+  "placeId": "ChIJ87ybAllt2jERom-Ymhd4zoE",
+  "googleName": "Chaleur Atelier Patisserie",
+  "formattedAddress": "01-03, Zennith Suites Service Apartments, Jalan Kebun Teh 2, Larkin, 80250 Johor Bahru, Johor Darul Ta'zim, Malaysia",
+  "phone": "014-665 0928",
+  "internationalPhone": "+60 14-665 0928",
+  "website": "https://www.chaleurpatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9353545518868361122",
+  "rating": 4.9,
+  "reviewCount": 256,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.4856989,
+    103.753505
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chaleur-atelier-patisserie-johor-bahru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:57.188Z"
+}

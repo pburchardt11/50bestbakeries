@@ -1,0 +1,43 @@
+{
+  "slug": "chez-loulou-saint-paul",
+  "name": "Chez Loulou",
+  "curatedName": "Chez Loulou",
+  "city": "Saint-Paul",
+  "country": "Réunion",
+  "placeId": "ChIJR9udWx2SgiERGoKthSSuWCg",
+  "googleName": "Chez Loulou",
+  "formattedAddress": "15-23 Rue De La Poste, Saint-Paul 97460, Réunion",
+  "phone": "0262 24 40 41",
+  "internationalPhone": "+262 262 24 40 41",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2907265031352451610",
+  "rating": 4.3,
+  "reviewCount": 1152,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -21.0516381,
+    55.2253073
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 PM, 3:00 – 7:00 PM",
+    "Tuesday: 7:00 AM – 1:00 PM, 3:00 – 7:00 PM",
+    "Wednesday: 7:00 AM – 1:00 PM, 3:00 – 7:00 PM",
+    "Thursday: 7:00 AM – 1:00 PM, 3:00 – 7:00 PM",
+    "Friday: 7:00 AM – 1:00 PM, 3:00 – 7:00 PM",
+    "Saturday: 7:00 AM – 1:00 PM, 3:00 – 7:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chez-loulou-saint-paul/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:24:16.782Z"
+}

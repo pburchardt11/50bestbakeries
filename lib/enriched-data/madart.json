@@ -1,0 +1,43 @@
+{
+  "slug": "madart",
+  "name": "Madart",
+  "curatedName": "Madart",
+  "city": "თბილისი",
+  "country": "Georgia",
+  "placeId": "ChIJsd6JANlyREARtmUpLDJLCs8",
+  "googleName": "Madart",
+  "formattedAddress": "პეკინის 17, T'bilisi, Georgia",
+  "phone": "032 219 29 19",
+  "internationalPhone": "+995 32 219 29 19",
+  "website": "http://madart.ge/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14918819394479547830",
+  "rating": 4.6,
+  "reviewCount": 2229,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.7231767,
+    44.7731324
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:30 PM",
+    "Tuesday: 8:30 AM – 10:30 PM",
+    "Wednesday: 8:30 AM – 10:30 PM",
+    "Thursday: 8:30 AM – 10:30 PM",
+    "Friday: 8:30 AM – 10:30 PM",
+    "Saturday: 8:30 AM – 10:30 PM",
+    "Sunday: 8:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/madart/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:50.995Z"
+}

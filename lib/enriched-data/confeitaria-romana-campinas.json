@@ -1,0 +1,45 @@
+{
+  "slug": "confeitaria-romana-campinas",
+  "name": "Confeitaria Romana",
+  "curatedName": "Confeitaria Romana",
+  "city": "Campinas",
+  "country": "Brazil",
+  "placeId": "ChIJlaiRrO-1yJQRlpAXdXDRNyA",
+  "googleName": "Confeitaria Romana",
+  "formattedAddress": "Av. Cel. Silva Telles, 463 - Cambuí, Campinas - SP, 13024-000, Brazil",
+  "phone": "(19) 3252-7000",
+  "internationalPhone": "+55 19 3252-7000",
+  "website": "http://www.cafeebonsmomentos.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2321554413863800982",
+  "rating": 4.3,
+  "reviewCount": 8384,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.8938978,
+    -47.053175
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-romana-campinas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:54.344Z"
+}

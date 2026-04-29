@@ -1,0 +1,43 @@
+{
+  "slug": "mike-s-pastry-boston",
+  "name": "Mike's Pastry",
+  "curatedName": "Mike's Pastry",
+  "city": "Boston",
+  "country": "United States",
+  "placeId": "ChIJs0kxSjWo4okR6109vVboQ64",
+  "googleName": "Mike's Pastry",
+  "formattedAddress": "300 Hanover St, Boston, MA 02113, USA",
+  "phone": "(617) 742-3050",
+  "internationalPhone": "+1 617-742-3050",
+  "website": "http://www.mikespastry.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12557135645278821867",
+  "rating": 4.3,
+  "reviewCount": 6130,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.3641693,
+    -71.0542126
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Outpost of an Italian bakery famous for its pastries like cannoli & lobster tails since 1946.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mike-s-pastry-boston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:13.649Z"
+}

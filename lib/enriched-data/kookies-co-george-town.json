@@ -1,0 +1,32 @@
+{
+  "slug": "kookies-co-george-town",
+  "name": "Kookies & Co.",
+  "city": "George Town",
+  "country": "Cayman Islands",
+  "placeId": "ChIJuf7UdvSHJY8R5wEYygnSwfM",
+  "googleName": "Brookie's Cookies",
+  "formattedAddress": "Unit A12, Grand Cayman, 878 W Bay Rd, KY1-1105, Cayman Islands",
+  "phone": "(345) 928-3313",
+  "website": "http://brookiescookies.ky/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17564550961208754663",
+  "rating": 4.9,
+  "reviewCount": 16,
+  "coords": [
+    19.331107,
+    -81.3805734
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 8:00 PM",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kookies-co-george-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:41:43.042Z"
+}

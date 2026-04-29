@@ -1,0 +1,45 @@
+{
+  "slug": "lukas-backer-leipzig",
+  "name": "LUKAS Bäcker",
+  "curatedName": "LUKAS Bäcker",
+  "city": "Leipzig",
+  "country": "Germany",
+  "placeId": "ChIJMZdxYyP4pkcRd2W2-P7yb7k",
+  "googleName": "LUKAS Bäcker",
+  "formattedAddress": "Königsbau, Grimmaische Str. 29, 04109 Leipzig, Germany",
+  "phone": "0341 2157780",
+  "internationalPhone": "+49 341 2157780",
+  "website": "http://lukas-baecker.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13362165796339869047",
+  "rating": 4.2,
+  "reviewCount": 1927,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.3395637,
+    12.3796177
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lukas-backer-leipzig/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:16.475Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "pastry-bakery-chocolatte-munchen",
+  "name": "Pastry bakery Chocolatte",
+  "curatedName": "Pastry bakery Chocolatte",
+  "city": "München",
+  "country": "Germany",
+  "placeId": "ChIJAXkyU3p1nkcRbEV9H83USqc",
+  "googleName": "Pastry bakery Chocolatte",
+  "formattedAddress": "Prinzregentenstraße 111, 81677 München, Germany",
+  "phone": "089 89054269",
+  "internationalPhone": "+49 89 89054269",
+  "website": "http://www.chocolatte.website/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12054681330072241516",
+  "rating": 4.7,
+  "reviewCount": 1103,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.1386027,
+    11.6112103
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 6:00 AM – 2:00 PM",
+    "Thursday: 6:00 AM – 2:00 PM",
+    "Friday: 6:00 AM – 2:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastry-bakery-chocolatte-munchen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:38.693Z"
+}

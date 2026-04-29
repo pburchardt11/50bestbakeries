@@ -1,0 +1,43 @@
+{
+  "slug": "baker-s-hut-pimpri-chinchwad",
+  "name": "Baker's Hut",
+  "curatedName": "Baker's Hut",
+  "city": "Pimpri-Chinchwad",
+  "country": "India",
+  "placeId": "ChIJG2vh7-C5wjsRJq1zvQiiySE",
+  "googleName": "Baker's Hut",
+  "formattedAddress": "Sindhu Nagar, Kundan Arcade, Kashinath Kadam Rd, LIG Colony, Pradhikaran, Nigdi, Pimpri-Chinchwad, Maharashtra 411044, India",
+  "phone": "098908 74727",
+  "internationalPhone": "+91 98908 74727",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2434655231992376614",
+  "rating": 4.5,
+  "reviewCount": 2248,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.6570108,
+    73.769774
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-s-hut-pimpri-chinchwad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:43.530Z"
+}

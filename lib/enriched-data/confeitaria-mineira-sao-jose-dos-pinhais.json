@@ -1,0 +1,43 @@
+{
+  "slug": "confeitaria-mineira-sao-jose-dos-pinhais",
+  "name": "Confeitaria Mineira",
+  "curatedName": "Confeitaria Mineira",
+  "city": "São José dos Pinhais",
+  "country": "Brazil",
+  "placeId": "ChIJGRs3Jwj73JQRc4j9bbA72Aw",
+  "googleName": "Confeitaria Mineira",
+  "formattedAddress": "R. Lílian Viana de Araújo, 345 - Cidade Jardim, São José dos Pinhais - PR, 83035-120, Brazil",
+  "phone": "(41) 4111-2915",
+  "internationalPhone": "+55 41 4111-2915",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=925555352370251891",
+  "rating": 4.7,
+  "reviewCount": 833,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.5277859,
+    -49.2071501
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:40 PM",
+    "Tuesday: 7:00 AM – 7:40 PM",
+    "Wednesday: 7:00 AM – 7:40 PM",
+    "Thursday: 7:00 AM – 7:40 PM",
+    "Friday: 7:00 AM – 7:40 PM",
+    "Saturday: 7:00 AM – 7:40 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-mineira-sao-jose-dos-pinhais/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:53.162Z"
+}

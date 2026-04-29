@@ -1,0 +1,43 @@
+{
+  "slug": "blond-bakery-essen",
+  "name": "blond bakery",
+  "curatedName": "blond bakery",
+  "city": "Essen",
+  "country": "Germany",
+  "placeId": "ChIJDTp8qirDuEcRHsuKhI6aENQ",
+  "googleName": "blond bakery",
+  "formattedAddress": "Rüttenscheider Str. 119, 45130 Essen, Germany",
+  "phone": "0201 87786990",
+  "internationalPhone": "+49 201 87786990",
+  "website": "http://www.blondbakery.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15280883472567814942",
+  "rating": 4.8,
+  "reviewCount": 203,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.4362854,
+    7.0053993
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blond-bakery-essen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:33.324Z"
+}

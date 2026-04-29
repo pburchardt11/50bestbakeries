@@ -1,0 +1,43 @@
+{
+  "slug": "es-ruiz-la-pasteleria-ciudad-de-buenos-aires",
+  "name": "Es Ruiz La Pasteleria",
+  "curatedName": "Es Ruiz La Pasteleria",
+  "city": "Ciudad de Buenos Aires",
+  "country": "Argentina",
+  "placeId": "ChIJcT7U5jfKvJURggOA4hoVWQk",
+  "googleName": "Es Ruiz La Pastelería",
+  "formattedAddress": "Del Barco Centenera 534, C1424AML Cdad. Autónoma de Buenos Aires, Argentina",
+  "phone": "011 3964-3926",
+  "internationalPhone": "+54 11 3964-3926",
+  "website": "https://esruiz.com.ar/",
+  "googleMapsUrl": "https://maps.google.com/?cid=673592824481973122",
+  "rating": 4.6,
+  "reviewCount": 3952,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.6254625,
+    -58.44043869999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 2:00 PM, 3:00 – 8:00 PM",
+    "Wednesday: 9:00 AM – 2:00 PM, 3:00 – 8:00 PM",
+    "Thursday: 9:00 AM – 2:00 PM, 3:00 – 8:00 PM",
+    "Friday: 9:00 AM – 2:00 PM, 3:00 – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/es-ruiz-la-pasteleria-ciudad-de-buenos-aires/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:26.557Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "clover-bakery-cafe-san-jose",
+  "name": "Clover Bakery & Cafe",
+  "curatedName": "Clover Bakery & Cafe",
+  "city": "San Jose",
+  "country": "United States",
+  "placeId": "ChIJo2QB4pbKj4ARNlH-w4iAn0g",
+  "googleName": "Clover Bakery & Cafe",
+  "formattedAddress": "4342 Moorpark Ave, San Jose, CA 95129, USA",
+  "phone": "(408) 257-3412",
+  "internationalPhone": "+1 408-257-3412",
+  "website": "http://www.cloverbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5233042616919937334",
+  "rating": 4.7,
+  "reviewCount": 567,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.3155768,
+    -121.9781566
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Cozy bakeshop & eatery specializing in Japanese-style buns & pastries, plus custom cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/clover-bakery-cafe-san-jose/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:30.909Z"
+}

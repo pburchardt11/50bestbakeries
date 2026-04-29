@@ -1,0 +1,32 @@
+{
+  "slug": "bread-s-house-himare",
+  "name": "Bread's House Himare",
+  "city": "Himarë",
+  "country": "Albania",
+  "placeId": "ChIJJRMPlIgvWxMR35d6_SwYMQs",
+  "googleName": "Bread's House Himare",
+  "formattedAddress": "SH8 25, Himarë, Albania",
+  "phone": "069 556 0317",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=806452389786327007",
+  "rating": 3.2,
+  "reviewCount": 32,
+  "coords": [
+    40.1019626,
+    19.7467782
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 11:00 PM",
+    "Tuesday: 5:00 AM – 11:00 PM",
+    "Wednesday: 5:00 AM – 11:00 PM",
+    "Thursday: 5:00 AM – 11:00 PM",
+    "Friday: 5:00 AM – 11:00 PM",
+    "Saturday: 5:00 AM – 11:00 PM",
+    "Sunday: 5:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-s-house-himare/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:40.130Z"
+}

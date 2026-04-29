@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-san-nicolas-arani",
+  "name": "Panadería San Nicolas",
+  "city": "Arani",
+  "country": "Bolivia",
+  "placeId": "ChIJcTHAhlmf5JMRgQ2kuhR2IgY",
+  "googleName": "Panadería San Nicolas",
+  "formattedAddress": "Cochabamba, Arani, Bolivia",
+  "phone": "67550779",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=442045544838466945",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -17.5733312,
+    -65.7709121
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:30 PM",
+    "Tuesday: 6:00 AM – 8:30 PM",
+    "Wednesday: 6:00 AM – 8:30 PM",
+    "Thursday: 6:00 AM – 8:30 PM",
+    "Friday: 6:00 AM – 8:30 PM",
+    "Saturday: 6:00 AM – 8:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-san-nicolas-arani/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:11:31.070Z"
+}

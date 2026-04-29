@@ -1,0 +1,43 @@
+{
+  "slug": "bakery-street-piekarnia-kawiarnia-wroc-aw",
+  "name": "Bakery Street Piekarnia - Kawiarnia",
+  "curatedName": "Bakery Street Piekarnia - Kawiarnia",
+  "city": "Wrocław",
+  "country": "Poland",
+  "placeId": "ChIJoR7svIjDD0cRrxjaRxORvwo",
+  "googleName": "Bakery Street Piekarnia - Kawiarnia",
+  "formattedAddress": "plac Jana Pawła II 19b, 50-136 Wrocław, Poland",
+  "phone": "575 623 310",
+  "internationalPhone": "+48 575 623 310",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=774497172926896303",
+  "rating": 4.5,
+  "reviewCount": 291,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.1126782,
+    17.0248839
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-street-piekarnia-kawiarnia-wroc-aw/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:42.840Z"
+}

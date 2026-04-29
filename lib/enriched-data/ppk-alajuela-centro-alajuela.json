@@ -1,0 +1,30 @@
+{
+  "slug": "ppk-alajuela-centro-alajuela",
+  "name": "PPK Alajuela Centro",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJo0urxcX5oI8RTu8IGyGBpqo",
+  "googleName": "Pan Por Kilo",
+  "formattedAddress": "El Mesón Calle 6, Provincia de Alajuela, Alajuela, El Carmen, Costa Rica",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12296657811769192270",
+  "rating": 4.3,
+  "reviewCount": 213,
+  "coords": [
+    10.0146405,
+    -84.2155368
+  ],
+  "openingHours": [
+    "Monday: 5:00 – 7:00 AM",
+    "Tuesday: 5:00 – 7:00 AM",
+    "Wednesday: 5:00 – 7:00 AM",
+    "Thursday: 5:00 – 7:00 AM",
+    "Friday: 5:00 – 7:00 AM",
+    "Saturday: 5:00 – 7:00 AM",
+    "Sunday: 5:00 – 7:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:47:21.491Z"
+}

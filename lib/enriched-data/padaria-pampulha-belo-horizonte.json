@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-pampulha-belo-horizonte",
+  "name": "Padaria Pampulha",
+  "curatedName": "Padaria Pampulha",
+  "city": "Belo Horizonte",
+  "country": "Brazil",
+  "placeId": "ChIJQ7Wx2DeQpgARXp5qMcI1PRY",
+  "googleName": "Padaria Pampulha",
+  "formattedAddress": "Av. Min. Guilhermino de Oliveira, 381 - Santa Amelia, Belo Horizonte - MG, 31560-100, Brazil",
+  "phone": "(31) 3492-1291",
+  "internationalPhone": "+55 31 3492-1291",
+  "website": "http://www.padariapampulha.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1602496150582763102",
+  "rating": 4.7,
+  "reviewCount": 11413,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.8433707,
+    -43.9737957
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Breads, coffee & wide selection of pastries & pies in an informal setting with wine & cookie store.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-pampulha-belo-horizonte/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:20.524Z"
+}

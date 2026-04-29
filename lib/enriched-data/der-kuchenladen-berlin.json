@@ -1,0 +1,44 @@
+{
+  "slug": "der-kuchenladen-berlin",
+  "name": "Der Kuchenladen",
+  "curatedName": "Der Kuchenladen",
+  "city": "Berlin",
+  "country": "Germany",
+  "placeId": "ChIJhdWZCeNQqEcR8K2MO39EE6g",
+  "googleName": "Der Kuchenladen",
+  "formattedAddress": "Kantstraße 138, 10623 Berlin, Germany",
+  "phone": "030 31018424",
+  "internationalPhone": "+49 30 31018424",
+  "website": "https://derkuchenladen.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12111099136180006384",
+  "rating": 4.7,
+  "reviewCount": 1202,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.5057974,
+    13.31828
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Playful space for classic pastries, elaborate, multi-tiered cakes & coffees with milk foam art.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/der-kuchenladen-berlin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:19.972Z"
+}

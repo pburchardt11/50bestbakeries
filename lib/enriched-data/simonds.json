@@ -1,0 +1,44 @@
+{
+  "slug": "simonds",
+  "name": "Simonds",
+  "curatedName": "Simonds",
+  "city": "القاهرة",
+  "country": "Egypt",
+  "placeId": "ChIJL8THquFAWBQRbjlwI38x2QU",
+  "googleName": "Simonds",
+  "formattedAddress": "112 26th of July Corridor, Omar Al Khayam, Zamalek, Cairo Governorate 4270141, Egypt",
+  "phone": "02 27359436",
+  "internationalPhone": "+20 2 27359436",
+  "website": "http://www.simonds1898.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=421422462261016942",
+  "rating": 4.4,
+  "reviewCount": 2414,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.0597015,
+    31.2223717
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simonds/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:23.471Z"
+}

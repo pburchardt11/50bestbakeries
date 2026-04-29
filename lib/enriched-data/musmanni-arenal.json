@@ -1,0 +1,32 @@
+{
+  "slug": "musmanni-arenal",
+  "name": "Musmanni Arenal",
+  "city": "Arenal",
+  "country": "Costa Rica",
+  "placeId": "ChIJmYBrrfAAoI8RA_flO1dVL1Q",
+  "googleName": "Musmanni Arenal",
+  "formattedAddress": "G4W4+4QJ, Unnamed Road, Provincia de Guanacaste, Nuevo Arenal, Costa Rica",
+  "phone": "2694 4303",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6066161056246789891",
+  "rating": 4.2,
+  "reviewCount": 19,
+  "coords": [
+    10.545333,
+    -84.8931018
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:00 PM",
+    "Tuesday: 5:00 AM – 7:00 PM",
+    "Wednesday: 5:00 AM – 7:00 PM",
+    "Thursday: 5:00 AM – 7:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 5:00 AM – 7:00 PM",
+    "Sunday: 5:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/musmanni-arenal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:48:23.648Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "aca-belgrade",
+  "name": "Aca",
+  "curatedName": "Aca",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJDzW_oLp6WkcRvQgTIn-uilk",
+  "googleName": "ACA",
+  "formattedAddress": "Svetogorska 25, Beograd 11000, Serbia",
+  "phone": "011 3234673",
+  "internationalPhone": "+381 11 3234673",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6452161277217409213",
+  "rating": 4.7,
+  "reviewCount": 747,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.813885,
+    20.468364
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aca-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:20.673Z"
+}

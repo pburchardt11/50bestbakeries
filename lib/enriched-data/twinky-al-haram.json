@@ -1,0 +1,32 @@
+{
+  "slug": "twinky-al-haram",
+  "name": "Twinky",
+  "city": "Al Haram",
+  "country": "Egypt",
+  "placeId": "ChIJQT7QIYtGWBQRtY3M4uaNtJc",
+  "googleName": "Twinky Patisserie - Nasser El Thawra",
+  "formattedAddress": "334 Al Haram, Al Omraneyah Al Gharbeyah, El Omraniya, Giza Governorate 12111, Egypt",
+  "phone": "02 35864735",
+  "website": "https://www.facebook.com/208010160088066",
+  "googleMapsUrl": "https://maps.google.com/?cid=10931518218322087349",
+  "rating": 4.3,
+  "reviewCount": 2978,
+  "coords": [
+    30.0052343,
+    31.189631
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 AM",
+    "Tuesday: 8:00 AM – 2:00 AM",
+    "Wednesday: 8:00 AM – 2:00 AM",
+    "Thursday: 8:00 AM – 2:00 AM",
+    "Friday: 8:00 AM – 2:00 AM",
+    "Saturday: 8:00 AM – 2:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/twinky-al-haram/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:01:07.696Z"
+}

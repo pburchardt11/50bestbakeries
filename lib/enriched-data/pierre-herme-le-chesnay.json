@@ -1,0 +1,42 @@
+{
+  "slug": "pierre-herme-le-chesnay",
+  "name": "Pierre Hermé",
+  "curatedName": "Pierre Hermé",
+  "city": "Le Chesnay",
+  "country": "France",
+  "placeId": "ChIJveu0-HJ95kcRPToHMm7pYcE",
+  "googleName": "Pierre Hermé",
+  "formattedAddress": "2 Av. Charles de Gaulle, 78150 Le Chesnay-Rocquencourt, France",
+  "phone": "01 77 35 91 75",
+  "internationalPhone": "+33 1 77 35 91 75",
+  "website": "https://www.pierreherme.com/?utm_source=google&utm_medium=gmb&utm_campaign=202500018-google_my_business",
+  "googleMapsUrl": "https://maps.google.com/?cid=13934675381556034109",
+  "rating": 4,
+  "reviewCount": 106,
+  "priceLevel": 3,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8272014,
+    2.1162459
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 8:00 PM",
+    "Tuesday: 10:30 AM – 8:00 PM",
+    "Wednesday: 10:30 AM – 8:00 PM",
+    "Thursday: 10:30 AM – 8:00 PM",
+    "Friday: 10:30 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pierre-herme-le-chesnay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:10.419Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "colette-bread-and-bakeshop-atlanta",
+  "name": "Colette Bread and Bakeshop",
+  "curatedName": "Colette Bread and Bakeshop",
+  "city": "Atlanta",
+  "country": "United States",
+  "placeId": "ChIJRazEe-QH9YgR_scyleOGTPc",
+  "googleName": "Colette Bread and Bakeshop",
+  "formattedAddress": "636 N Highland Ave NE, Atlanta, GA 30306, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.coletteatl.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17819766137617041406",
+  "rating": 4.7,
+  "reviewCount": 180,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.771725,
+    -84.3527696
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 2:00 PM",
+    "Wednesday: 8:00 AM – 2:00 PM",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/colette-bread-and-bakeshop-atlanta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:11:45.934Z"
+}

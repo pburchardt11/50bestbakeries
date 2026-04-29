@@ -1,0 +1,43 @@
+{
+  "slug": "bakingo-gurugram",
+  "name": "Bakingo",
+  "curatedName": "Bakingo",
+  "city": "Gurugram",
+  "country": "India",
+  "placeId": "ChIJo3fel7IZDTkRg2mRlJr7OmM",
+  "googleName": "Bakingo",
+  "formattedAddress": "M-27, Ground Floor, Block M, Old DLF Colony, Sector 14, Gurugram, Haryana 122007, India",
+  "phone": "088825 53333",
+  "internationalPhone": "+91 88825 53333",
+  "website": "https://www.bakingo.com/cakes/gurgaon?utm_source=google&utm_medium=local&utm_campaign=old_dlf_colony__sector_14",
+  "googleMapsUrl": "https://maps.google.com/?cid=7150303999740176771",
+  "rating": 4.5,
+  "reviewCount": 3167,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.4704753,
+    77.0444789
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakingo-gurugram/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:54.480Z"
+}

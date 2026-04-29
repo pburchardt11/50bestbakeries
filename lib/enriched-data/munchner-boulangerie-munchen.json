@@ -1,0 +1,43 @@
+{
+  "slug": "munchner-boulangerie-munchen",
+  "name": "Münchner Boulangerie",
+  "curatedName": "Münchner Boulangerie",
+  "city": "München",
+  "country": "Germany",
+  "placeId": "ChIJ_xRtmMN1nkcR7Zb0_VRP0AI",
+  "googleName": "Münchner Boulangerie",
+  "formattedAddress": "Bauerstraße 1, 80796 München, Germany",
+  "phone": "089 37416722",
+  "internationalPhone": "+49 89 37416722",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=202749209688184557",
+  "rating": 4.6,
+  "reviewCount": 285,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.15867309999999,
+    11.5745955
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: 8:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/munchner-boulangerie-munchen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:08.166Z"
+}

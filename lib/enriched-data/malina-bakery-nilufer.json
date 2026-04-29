@@ -1,0 +1,43 @@
+{
+  "slug": "malina-bakery-nilufer",
+  "name": "Malina Bakery",
+  "curatedName": "Malina Bakery",
+  "city": "Nilüfer",
+  "country": "Türkiye",
+  "placeId": "ChIJ5UrI1o0XyhQRS_jKZdIh5Yk",
+  "googleName": "Malina Bakery",
+  "formattedAddress": "Konak, Beşevler Cd. No: 29/A, 16110 Ni̇lüfer/Bursa, Türkiye",
+  "phone": "0543 936 81 04",
+  "internationalPhone": "+90 543 936 81 04",
+  "website": "https://www.instagram.com/malinabakeryyy/?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=9936385340397516875",
+  "rating": 4.8,
+  "reviewCount": 183,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.2064698,
+    28.9853175
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/malina-bakery-nilufer/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:35.947Z"
+}

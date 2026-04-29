@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-acevedo-hato-mayor",
+  "name": "Panaderia Acevedo",
+  "city": "Hato Mayor",
+  "country": "Dominican Republic",
+  "placeId": "ChIJsfgVfJE_r44RP0VNk_0IH0Q",
+  "googleName": "Acevedo Bakery",
+  "formattedAddress": "C. Manuel de Jesús Silverio, Hato Mayor del Rey 25000, Dominican Republic",
+  "phone": "(829) 426-6817",
+  "website": "https://www.facebook.com/PanaderiaAcevedo",
+  "googleMapsUrl": "https://maps.google.com/?cid=4908652004048192831",
+  "rating": 4.5,
+  "reviewCount": 119,
+  "coords": [
+    18.7643386,
+    -69.2576511
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-acevedo-hato-mayor/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:03.747Z"
+}

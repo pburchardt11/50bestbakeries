@@ -1,0 +1,32 @@
+{
+  "slug": "holey-artisan-bakery-dhaka",
+  "name": "Holey Artisan Bakery",
+  "city": "Dhaka",
+  "country": "Bangladesh",
+  "placeId": "ChIJWy2zMKnHVTcRiyxigXevgaY",
+  "googleName": "Oro Bakery",
+  "formattedAddress": "1st Floor, 153/A Felani Ave, Dhaka 1212, Bangladesh",
+  "phone": "01969-200200",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11998063810098375819",
+  "rating": 4.4,
+  "reviewCount": 1000,
+  "coords": [
+    23.7959676,
+    90.4132913
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/holey-artisan-bakery-dhaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:50:46.688Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "marisse-patisserie-cebu-city",
+  "name": "Marisse Patisserie",
+  "curatedName": "Marisse Patisserie",
+  "city": "Cebu City",
+  "country": "Philippines",
+  "placeId": "ChIJdUXm7SiZqTMR51DVclfopUk",
+  "googleName": "Marisse Patisserie",
+  "formattedAddress": "Cebu Transcentral Hwy, Cebu City, 6000 Cebu, Philippines",
+  "phone": "0920 988 1664",
+  "internationalPhone": "+63 920 988 1664",
+  "website": "https://marissepatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5306903198212378855",
+  "rating": 4.6,
+  "reviewCount": 94,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.3696817,
+    123.8733716
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 2:00 – 10:00 PM",
+    "Thursday: 2:00 – 10:00 PM",
+    "Friday: 2:00 – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marisse-patisserie-cebu-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:19.670Z"
+}

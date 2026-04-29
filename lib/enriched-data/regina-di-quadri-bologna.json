@@ -1,0 +1,43 @@
+{
+  "slug": "regina-di-quadri-bologna",
+  "name": "Regina di Quadri",
+  "curatedName": "Regina di Quadri",
+  "city": "Bologna",
+  "country": "Italy",
+  "placeId": "ChIJl4C4hMbUf0cR97hwyiP7cH8",
+  "googleName": "Regina di Quadri",
+  "formattedAddress": "Via Castiglione, 73/a, 40124 Bologna BO, Italy",
+  "phone": "051 644 6201",
+  "internationalPhone": "+39 051 644 6201",
+  "website": "http://www.pasticceriareginadiquadri.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9183115771347253495",
+  "rating": 4.2,
+  "reviewCount": 1567,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.4861316,
+    11.3481694
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:45 AM – 8:30 PM",
+    "Wednesday: 6:45 AM – 8:30 PM",
+    "Thursday: 6:45 AM – 8:30 PM",
+    "Friday: 6:45 AM – 8:30 PM",
+    "Saturday: 6:45 AM – 8:30 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Inventive pastries from Europe & beyond are prepared in-store each day at this artisanal bakery.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/regina-di-quadri-bologna/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:08.540Z"
+}

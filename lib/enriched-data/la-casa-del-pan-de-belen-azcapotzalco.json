@@ -1,0 +1,43 @@
+{
+  "slug": "la-casa-del-pan-de-belen-azcapotzalco",
+  "name": "La Casa del Pan de Belén",
+  "curatedName": "La Casa del Pan de Belén",
+  "city": "Azcapotzalco",
+  "country": "Mexico",
+  "placeId": "ChIJmUsbH5QC0oUR4QLQnia-w94",
+  "googleName": "La Casa del Pan de Belén",
+  "formattedAddress": "Manuel Salazar 258, Hacienda del Rosario, Ex el Rosario, Azcapotzalco, 02420 Ciudad de México, CDMX, Mexico",
+  "phone": "55 7030 8864",
+  "internationalPhone": "+52 55 7030 8864",
+  "website": "https://wa.me/c/5215570308864",
+  "googleMapsUrl": "https://maps.google.com/?cid=16051882569961046753",
+  "rating": 4.4,
+  "reviewCount": 342,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.495829,
+    -99.20678579999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-casa-del-pan-de-belen-azcapotzalco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:35.853Z"
+}

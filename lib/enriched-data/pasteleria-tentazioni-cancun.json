@@ -1,0 +1,44 @@
+{
+  "slug": "pasteleria-tentazioni-cancun",
+  "name": "Pasteleria Tentazioni",
+  "curatedName": "Pasteleria Tentazioni",
+  "city": "Cancún",
+  "country": "Mexico",
+  "placeId": "ChIJNbEPw48rTI8RrvOg41W5h4U",
+  "googleName": "Pastelería Tentazioni",
+  "formattedAddress": "Plaza Italia Av Kohunlich, quintana roo, Interior Sur 5, Riviera, 77533 Cancún, Q.R., Mexico",
+  "phone": "998 361 1311",
+  "internationalPhone": "+52 998 361 1311",
+  "website": "http://pasteleriatentazioni.blogspot.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9621862907442688942",
+  "rating": 4.5,
+  "reviewCount": 1561,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1489544,
+    -86.8507152
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-tentazioni-cancun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:47.195Z"
+}

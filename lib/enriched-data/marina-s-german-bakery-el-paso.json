@@ -1,0 +1,42 @@
+{
+  "slug": "marina-s-german-bakery-el-paso",
+  "name": "Marina's German Bakery",
+  "curatedName": "Marina's German Bakery",
+  "city": "El Paso",
+  "country": "United States",
+  "placeId": "ChIJlSlKZMdE54YR-wSkpKCULV4",
+  "googleName": "Marina's German Bakery",
+  "formattedAddress": "2033 Trawood Dr, El Paso, TX 79935, USA",
+  "phone": "(915) 257-1452",
+  "internationalPhone": "+1 915-257-1452",
+  "website": "http://marinas-bakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6786243631195096315",
+  "rating": 4.6,
+  "reviewCount": 646,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.7659722,
+    -106.3305889
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Black forest cake & other European-style treats offered in a down-to-earth environment.",
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T04:08:38.432Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-glace-9-de-julio",
+  "name": "Panaderia Glacé",
+  "city": "9 de Julio",
+  "country": "Argentina",
+  "placeId": "ChIJDYpfEOgNv5URw12yd6u-xq0",
+  "googleName": "Panaderia Glacé",
+  "formattedAddress": "Av. Vedia 166, B6500 9 de Julio, Provincia de Buenos Aires, Argentina",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12521905457607105987",
+  "rating": 4.6,
+  "reviewCount": 26,
+  "coords": [
+    -35.4524747,
+    -60.87814599999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 1:00 PM, 3:30 – 8:30 PM",
+    "Wednesday: 7:30 AM – 1:00 PM, 3:30 – 8:30 PM",
+    "Thursday: 7:30 AM – 1:00 PM, 3:30 – 8:30 PM",
+    "Friday: 7:30 AM – 1:00 PM, 3:30 – 8:30 PM",
+    "Saturday: 7:30 AM – 1:00 PM, 3:30 – 8:30 PM",
+    "Sunday: 8:00 AM – 1:00 PM, 3:30 – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-glace-9-de-julio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:21:15.544Z"
+}

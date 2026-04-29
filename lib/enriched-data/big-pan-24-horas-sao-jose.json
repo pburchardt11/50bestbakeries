@@ -1,0 +1,46 @@
+{
+  "slug": "big-pan-24-horas-sao-jose",
+  "name": "Big Pan 24 Horas",
+  "curatedName": "Big Pan 24 Horas",
+  "city": "São José",
+  "country": "Brazil",
+  "placeId": "ChIJSWbBFSc2J5URDmyc7txu5eY",
+  "googleName": "Big Pan 24 Horas",
+  "formattedAddress": "R. Elizeu di Bernardi, 773 - Campinas, São José - SC, 88101-050, Brazil",
+  "phone": "(48) 3241-0308",
+  "internationalPhone": "+55 48 3241-0308",
+  "website": "http://www.bigpan.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16637826293565254670",
+  "rating": 4.3,
+  "reviewCount": 5468,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "convenience_store",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.5953945,
+    -48.6126485
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "Sandwiches, coffee, tarts & pastries, plus a breakfast buffet, at a cafe & grocery store.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/big-pan-24-horas-sao-jose/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:20.308Z"
+}

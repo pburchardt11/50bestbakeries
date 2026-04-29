@@ -1,0 +1,43 @@
+{
+  "slug": "idim-diy-bakery-mandaluyong",
+  "name": "IDIM DIY Bakery",
+  "curatedName": "IDIM DIY Bakery",
+  "city": "Mandaluyong",
+  "country": "Philippines",
+  "placeId": "ChIJ98lAiE_JlzMR5um0kSoq8VI",
+  "googleName": "IDIM DIY Bakery",
+  "formattedAddress": "4/F Mega Atrium, SM Megamall, Ortigas Center, Mandaluyong City, Metro Manila, Philippines",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.facebook.com/IDIM.PH/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5976604542818904550",
+  "rating": 4.5,
+  "reviewCount": 128,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5846851,
+    121.0573023
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/idim-diy-bakery-mandaluyong/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:43.220Z"
+}

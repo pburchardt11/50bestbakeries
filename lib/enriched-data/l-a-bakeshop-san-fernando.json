@@ -1,0 +1,43 @@
+{
+  "slug": "l-a-bakeshop-san-fernando",
+  "name": "L.A. Bakeshop",
+  "curatedName": "L.A. Bakeshop",
+  "city": "San Fernando",
+  "country": "Philippines",
+  "placeId": "ChIJ461PhRr3ljMRDAqwMH3MCWg",
+  "googleName": "L.A. Bakeshop Dolores",
+  "formattedAddress": "Valencia Bldg, 2MRG+MPH, MacArthur Hwy, San Fernando, Pampanga, Philippines",
+  "phone": "0915 074 4294",
+  "internationalPhone": "+63 915 074 4294",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7496747892794722828",
+  "rating": 4.5,
+  "reviewCount": 764,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    15.0416764,
+    120.6768546
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-a-bakeshop-san-fernando/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:08.306Z"
+}

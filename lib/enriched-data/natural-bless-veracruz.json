@@ -1,0 +1,43 @@
+{
+  "slug": "natural-bless-veracruz",
+  "name": "Natural Bless",
+  "curatedName": "Natural Bless",
+  "city": "Veracruz",
+  "country": "Mexico",
+  "placeId": "ChIJjzX8ZzZBw4URLZQW53ohTaQ",
+  "googleName": "Natural Bless",
+  "formattedAddress": "C. 2 de Abril 1007, Reforma, 91910 Veracruz, Ver., Mexico",
+  "phone": "229 937 9662",
+  "internationalPhone": "+52 229 937 9662",
+  "website": "https://pastelerianaturalbless.weebly.com/sucursales.html",
+  "googleMapsUrl": "https://maps.google.com/?cid=11839155807173645357",
+  "rating": 4.3,
+  "reviewCount": 400,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.1737011,
+    -96.12937600000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/natural-bless-veracruz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:40.719Z"
+}

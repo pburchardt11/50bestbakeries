@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-mafati-ouagadougou",
+  "name": "Boulangerie Mafati",
+  "city": "Ouagadougou",
+  "country": "Burkina Faso",
+  "placeId": "ChIJXzfN0jG_Lg4R7hK6Vbw_g7g",
+  "googleName": "P'tit Paris koulouba",
+  "formattedAddress": "9F7M+482, Avenue de l´ UEMOA, Koulouba, Ouagadougou, Burkina Faso",
+  "phone": "06 17 17 17",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13295540603052495598",
+  "rating": 4.2,
+  "reviewCount": 447,
+  "coords": [
+    12.3618476,
+    -1.5165173
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:30 PM",
+    "Tuesday: 6:30 AM – 10:30 PM",
+    "Wednesday: 6:30 AM – 10:30 PM",
+    "Thursday: 6:30 AM – 10:30 PM",
+    "Friday: 6:30 AM – 11:30 PM",
+    "Saturday: 6:30 AM – 11:30 PM",
+    "Sunday: 6:30 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-mafati-ouagadougou/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:28:17.756Z"
+}

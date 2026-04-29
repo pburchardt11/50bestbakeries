@@ -1,0 +1,32 @@
+{
+  "slug": "steven-sons-bakery-nu-uuli",
+  "name": "Steven & Sons Bakery",
+  "city": "Nu'uuli",
+  "country": "American Samoa",
+  "placeId": "ChIJEbJck96bpnERqjZCaHI7emk",
+  "googleName": "Steven & Sons",
+  "formattedAddress": "Nu'uuli, Western District 96799, American Samoa",
+  "phone": "(684) 699-6121",
+  "website": "http://stevenandsons684.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7600452683702613674",
+  "rating": 4.5,
+  "reviewCount": 20,
+  "coords": [
+    -14.3167958,
+    -170.7177775
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 3:00 PM",
+    "Tuesday: 5:00 AM – 3:00 PM",
+    "Wednesday: 5:00 AM – 3:00 PM",
+    "Thursday: 5:00 AM – 3:00 PM",
+    "Friday: 5:00 AM – 3:00 PM",
+    "Saturday: 5:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/steven-sons-bakery-nu-uuli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:16:49.088Z"
+}

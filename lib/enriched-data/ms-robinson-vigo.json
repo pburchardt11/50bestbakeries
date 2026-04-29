@@ -1,0 +1,44 @@
+{
+  "slug": "ms-robinson-vigo",
+  "name": "Ms. Robinson",
+  "curatedName": "Ms. Robinson",
+  "city": "Vigo",
+  "country": "Spain",
+  "placeId": "ChIJm9AkCPNjLw0R1o9fsFYrLvs",
+  "googleName": "Ms. Robinson",
+  "formattedAddress": "Rúa de Ramón y Cajal, 15, bajo, Freixeiro, 36203 Vigo, Pontevedra, Spain",
+  "phone": "630 63 96 82",
+  "internationalPhone": "+34 630 63 96 82",
+  "website": "http://msrobinson.es/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18099451603774836694",
+  "rating": 4.7,
+  "reviewCount": 206,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.2281749,
+    -8.7207961
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 2:00 PM",
+    "Wednesday: 10:00 AM – 2:00 PM",
+    "Thursday: 10:00 AM – 2:00 PM",
+    "Friday: 10:00 AM – 2:00 PM",
+    "Saturday: 10:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ms-robinson-vigo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:15.307Z"
+}

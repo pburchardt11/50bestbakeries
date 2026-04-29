@@ -1,0 +1,43 @@
+{
+  "slug": "padeirinha-doce-porto",
+  "name": "Padeirinha Doce",
+  "curatedName": "Padeirinha Doce",
+  "city": "Porto",
+  "country": "Portugal",
+  "placeId": "ChIJBcBYYuZkJA0RF_Q9vl9lRYU",
+  "googleName": "Padeirinha Doce",
+  "formattedAddress": "R. de Augusto Rosa 46, 4000-098 Porto, Portugal",
+  "phone": "22 332 4653",
+  "internationalPhone": "+351 22 332 4653",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9603193242325480471",
+  "rating": 4.5,
+  "reviewCount": 1430,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1436365,
+    -8.6077204
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padeirinha-doce-porto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:55.610Z"
+}

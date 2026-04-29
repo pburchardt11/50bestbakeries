@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-el-mana-cabrera",
+  "name": "Panaderia El Maná",
+  "city": "Cabrera",
+  "country": "Dominican Republic",
+  "placeId": "ChIJ_-AghdZoro4RDVOIoWilMOc",
+  "googleName": "Panaderia El Maná",
+  "formattedAddress": "J3MW+MGJ, Cabrera 33000, Dominican Republic",
+  "phone": "(829) 232-4083",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16658996890448712461",
+  "rating": 4,
+  "reviewCount": 3,
+  "coords": [
+    19.6342246,
+    -69.9037427
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-el-mana-cabrera/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:57:34.152Z"
+}

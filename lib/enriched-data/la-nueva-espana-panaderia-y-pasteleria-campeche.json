@@ -1,0 +1,43 @@
+{
+  "slug": "la-nueva-espana-panaderia-y-pasteleria-campeche",
+  "name": "La Nueva España Panadería y Pastelería",
+  "curatedName": "La Nueva España Panadería y Pastelería",
+  "city": "Campeche",
+  "country": "Mexico",
+  "placeId": "ChIJs3X1iP4z-IUR6BAcyfu3pi8",
+  "googleName": "La Nueva España Panaderia y Pasteleria",
+  "formattedAddress": "C. 10 164, Guadalupe, Barrio de Guadalupe, 24010 San Francisco de Campeche, Camp., Mexico",
+  "phone": "981 145 6353",
+  "internationalPhone": "+52 981 145 6353",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3433634057955315944",
+  "rating": 4.1,
+  "reviewCount": 114,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.8495699,
+    -90.52890239999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-nueva-espana-panaderia-y-pasteleria-campeche/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:46.273Z"
+}

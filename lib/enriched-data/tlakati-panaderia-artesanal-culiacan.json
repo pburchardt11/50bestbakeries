@@ -1,0 +1,44 @@
+{
+  "slug": "tlakati-panaderia-artesanal-culiacan",
+  "name": "Tlakati Panaderia Artesanal",
+  "curatedName": "Tlakati Panaderia Artesanal",
+  "city": "Culiacán",
+  "country": "Mexico",
+  "placeId": "ChIJB5uCM6nQvIYRTzNd-hJ47sY",
+  "googleName": "Tlakati Panadería Artesanal",
+  "formattedAddress": "Av Jesús Andrade 564, Primer Cuadro, Centro, 80000 Culiacán Rosales, Sin., Mexico",
+  "phone": "667 712 0288",
+  "internationalPhone": "+52 667 712 0288",
+  "website": "https://www.facebook.com/Tlakati/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14334526686872023887",
+  "rating": 4.7,
+  "reviewCount": 590,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.8096867,
+    -107.3926093
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tlakati-panaderia-artesanal-culiacan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:35.165Z"
+}

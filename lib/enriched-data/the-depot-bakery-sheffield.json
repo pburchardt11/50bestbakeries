@@ -1,0 +1,44 @@
+{
+  "slug": "the-depot-bakery-sheffield",
+  "name": "The Depot Bakery",
+  "curatedName": "The Depot Bakery",
+  "city": "Sheffield",
+  "country": "United Kingdom",
+  "placeId": "ChIJfSN7rWJ4eUgRq-YKx1BNm9c",
+  "googleName": "The Depot Bakery",
+  "formattedAddress": "92 Burton Rd, Neepsend, Sheffield S3 8BX, UK",
+  "phone": "0114 308 4470",
+  "internationalPhone": "+44 114 308 4470",
+  "website": "https://thedepotbakery.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15536096348876760747",
+  "rating": 4.6,
+  "reviewCount": 746,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.3928361,
+    -1.4764163
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 3:00 PM",
+    "Tuesday: 9:00 AM – 3:00 PM",
+    "Wednesday: 9:00 AM – 3:00 PM",
+    "Thursday: 9:00 AM – 3:00 PM",
+    "Friday: 9:00 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-depot-bakery-sheffield/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:07:46.339Z"
+}

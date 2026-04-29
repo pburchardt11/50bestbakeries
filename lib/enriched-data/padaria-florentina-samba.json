@@ -1,0 +1,32 @@
+{
+  "slug": "padaria-florentina-samba",
+  "name": "Padaria Florentina",
+  "city": "Samba",
+  "country": "Angola",
+  "placeId": "ChIJt8jGemL1URoRAfylnx5uNpk",
+  "googleName": "Restaurante À Florentina",
+  "formattedAddress": "Talatona Bairro Militar Rua 3 Casa Nº 23, Luanda, Angola",
+  "phone": "938 171 789",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11040132614351879169",
+  "rating": 4.6,
+  "reviewCount": 7,
+  "coords": [
+    -8.9098149,
+    13.2121985
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-florentina-samba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:18:50.697Z"
+}

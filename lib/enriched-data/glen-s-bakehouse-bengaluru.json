@@ -1,0 +1,43 @@
+{
+  "slug": "glen-s-bakehouse-bengaluru",
+  "name": "Glen’s Bakehouse",
+  "curatedName": "Glen’s Bakehouse",
+  "city": "Bengaluru",
+  "country": "India",
+  "placeId": "ChIJCxJ6aj4VrjsRQ6td7afRgJo",
+  "googleName": "Glens BakeHouse",
+  "formattedAddress": "616, 80 Feet Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+  "phone": "080 4377 9059",
+  "internationalPhone": "+91 80 4377 9059",
+  "website": "https://www.glensbakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11133128798031948611",
+  "rating": 4.3,
+  "reviewCount": 4952,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.9377995,
+    77.6262315
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": "Unfussy cafe specialising in bespoke cakes, baked goods & sweet treats, plus global fare & coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/glen-s-bakehouse-bengaluru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:34.199Z"
+}

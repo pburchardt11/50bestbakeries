@@ -1,0 +1,43 @@
+{
+  "slug": "brown-bear-bakery-cincinnati",
+  "name": "Brown Bear Bakery",
+  "curatedName": "Brown Bear Bakery",
+  "city": "Cincinnati",
+  "country": "United States",
+  "placeId": "ChIJOyeOOP2zQYgRYqNKfx79uGU",
+  "googleName": "Brown Bear Bakery",
+  "formattedAddress": "116 E 13th St, Cincinnati, OH 45202, USA",
+  "phone": "(513) 975-2142",
+  "internationalPhone": "+1 513-975-2142",
+  "website": "https://www.brownbearbakes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7329886700971926370",
+  "rating": 4.8,
+  "reviewCount": 710,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.109922,
+    -84.51256719999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Laid-back bakery for artisanal sweet & savory pastries & desserts, plus coffee, in chic digs.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brown-bear-bakery-cincinnati/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:52.719Z"
+}

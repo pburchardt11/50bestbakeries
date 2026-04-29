@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-trigo-miel-alajuela",
+  "name": "Panadería Trigo Miel",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJW7bzAQD5oI8RCFQmaBUQrVU",
+  "googleName": "Panadería Trigo Miel",
+  "formattedAddress": "2Q8M+5FF, Alajuela Province, Alajuela, El Carmen, Costa Rica",
+  "phone": "4080 7428",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6173608348322518024",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    10.0155045,
+    -84.2163684
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-trigo-miel-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:46:56.734Z"
+}

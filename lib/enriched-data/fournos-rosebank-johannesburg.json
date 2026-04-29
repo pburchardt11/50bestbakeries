@@ -1,0 +1,45 @@
+{
+  "slug": "fournos-rosebank-johannesburg",
+  "name": "Fournos Rosebank",
+  "curatedName": "Fournos Rosebank",
+  "city": "Johannesburg",
+  "country": "South Africa",
+  "placeId": "ChIJU4dHofMMlR4Rk6GsmLp99u0",
+  "googleName": "Fournos Rosebank",
+  "formattedAddress": "Shop 11 & 12, Baker Square, 28 Baker St, Rosebank, Johannesburg, 2196, South Africa",
+  "phone": "011 447 3392",
+  "internationalPhone": "+27 11 447 3392",
+  "website": "https://www.fournos.co.za/find-us/?utm_source=google_maps&utm_medium=organic&utm_campaign=rosebank",
+  "googleMapsUrl": "https://maps.google.com/?cid=17147030871638581651",
+  "rating": 4.2,
+  "reviewCount": 1223,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.1469479,
+    28.0430093
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: 6:00 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fournos-rosebank-johannesburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:57.747Z"
+}

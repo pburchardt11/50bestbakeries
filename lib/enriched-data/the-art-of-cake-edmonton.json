@@ -1,0 +1,45 @@
+{
+  "slug": "the-art-of-cake-edmonton",
+  "name": "The Art of Cake",
+  "curatedName": "The Art of Cake",
+  "city": "Edmonton",
+  "country": "Canada",
+  "placeId": "ChIJu6_AVU8ioFMR3btgTiGGzag",
+  "googleName": "The Art of Cake",
+  "formattedAddress": "11811 105 Ave NW, Edmonton, AB T5H 0L9, Canada",
+  "phone": "(780) 441-1339",
+  "internationalPhone": "+1 780-441-1339",
+  "website": "http://www.theartofcake.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12163525646204582877",
+  "rating": 4.7,
+  "reviewCount": 671,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.548077,
+    -113.5257712
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "High-end cakes, cookies & pastries, plus custom-made creations, offered in a stylish, vintage setup.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-art-of-cake-edmonton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:29.694Z"
+}

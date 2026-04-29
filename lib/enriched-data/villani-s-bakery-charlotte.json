@@ -1,0 +1,43 @@
+{
+  "slug": "villani-s-bakery-charlotte",
+  "name": "Villani's Bakery",
+  "curatedName": "Villani's Bakery",
+  "city": "Charlotte",
+  "country": "United States",
+  "placeId": "ChIJq6qW_QGgVogRLcvaYJ7-O6M",
+  "googleName": "Villani's Bakery",
+  "formattedAddress": "901 Pecan Ave, Charlotte, NC 28205, USA",
+  "phone": "(704) 334-0550",
+  "internationalPhone": "+1 704-334-0550",
+  "website": "http://villanisbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11762274807991421741",
+  "rating": 4.5,
+  "reviewCount": 1412,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.2167714,
+    -80.8151781
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/villani-s-bakery-charlotte/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:15.673Z"
+}

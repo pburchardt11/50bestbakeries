@@ -1,0 +1,43 @@
+{
+  "slug": "flavor-art-jaguari",
+  "name": "Flavor & Art",
+  "curatedName": "Flavor & Art",
+  "city": "Jaguari",
+  "country": "Brazil",
+  "placeId": "ChIJ9bsfAH7OAZURGhEXXZg0hWM",
+  "googleName": "Flavor & Art",
+  "formattedAddress": "R. Assis Brasil, 243 - Jaguari, RS, 97760-000, Brazil",
+  "phone": "(55) 99937-0753",
+  "internationalPhone": "+55 55 99937-0753",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7171195810658849050",
+  "rating": 4.5,
+  "reviewCount": 98,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.4965498,
+    -54.6918673
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flavor-art-jaguari/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:16:21.580Z"
+}

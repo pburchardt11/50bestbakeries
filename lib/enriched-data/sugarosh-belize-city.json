@@ -1,0 +1,32 @@
+{
+  "slug": "sugarosh-belize-city",
+  "name": "SugaRosh",
+  "city": "Belize City",
+  "country": "Belize",
+  "placeId": "ChIJM47j8URYXI8Ro0ZAHTviV_A",
+  "googleName": "Sugarfix Bakery",
+  "formattedAddress": "#8 Heusner Crescent, Belize City, Belize",
+  "phone": "223-7640",
+  "website": "http://www.facebook.com/sugarfixbelize",
+  "googleMapsUrl": "https://maps.google.com/?cid=17318559635598231203",
+  "rating": 4.4,
+  "reviewCount": 409,
+  "coords": [
+    17.5046209,
+    -88.1939228
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugarosh-belize-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:05:42.692Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "steffi-s-cafe-abfaltersbach",
+  "name": "Steffi's Cafe",
+  "city": "Abfaltersbach",
+  "country": "Austria",
+  "placeId": "ChIJSQ3figrZeUcRxIGm3ZD-Hgs",
+  "googleName": "Steffi’s Cafe",
+  "formattedAddress": "Abfaltersbach 177, 9913 Abfaltersbach, Austria",
+  "phone": "0680 1509537",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=801357681865949636",
+  "rating": 4.9,
+  "reviewCount": 16,
+  "coords": [
+    46.7566199,
+    12.5269038
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:30 PM",
+    "Tuesday: 6:30 AM – 7:30 PM",
+    "Wednesday: 6:30 AM – 7:30 PM",
+    "Thursday: 6:30 AM – 7:30 PM",
+    "Friday: 6:30 AM – 7:30 PM",
+    "Saturday: 6:30 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/steffi-s-cafe-abfaltersbach/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:30:19.201Z"
+}

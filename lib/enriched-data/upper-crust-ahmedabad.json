@@ -1,0 +1,44 @@
+{
+  "slug": "upper-crust-ahmedabad",
+  "name": "Upper Crust",
+  "curatedName": "Upper Crust",
+  "city": "Ahmedabad",
+  "country": "India",
+  "placeId": "ChIJC2AXQJSEXjkR0WdH26ep08s",
+  "googleName": "Upper Crust",
+  "formattedAddress": "Vijay Cross Rd, opp. Maharaja Palace, University Area, Ahmedabad, Gujarat 380009, India",
+  "phone": "098252 32895",
+  "internationalPhone": "+91 98252 32895",
+  "website": "https://cafeuppercrust.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14687269348188841937",
+  "rating": 4.4,
+  "reviewCount": 3621,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.0412391,
+    72.54860339999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Traditional Indian dishes are served alongside pizzas, cakes & sandwiches at this bright cafe.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/upper-crust-ahmedabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:47.404Z"
+}

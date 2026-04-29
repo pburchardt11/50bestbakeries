@@ -1,0 +1,43 @@
+{
+  "slug": "saldanha-bakery-kolkata",
+  "name": "Saldanha Bakery",
+  "curatedName": "Saldanha Bakery",
+  "city": "Kolkata",
+  "country": "India",
+  "placeId": "ChIJE6cXAgJ3AjoR2cU_9wAsONE",
+  "googleName": "Saldanha Bakery",
+  "formattedAddress": "19, Nawab Aetfbdur Rahman St, Haji Md. Mohsin Square, Esplanade, Taltala, Kolkata, West Bengal 700016, India",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://saldanhabakery.info/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15075848135282509273",
+  "rating": 4.5,
+  "reviewCount": 1623,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.5556533,
+    88.35815629999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/saldanha-bakery-kolkata/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:54.383Z"
+}

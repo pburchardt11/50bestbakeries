@@ -1,0 +1,43 @@
+{
+  "slug": "bread-house-korean-bakery-apodaca",
+  "name": "Bread House Korean Bakery",
+  "curatedName": "Bread House Korean Bakery",
+  "city": "Apodaca",
+  "country": "Mexico",
+  "placeId": "ChIJ7dPlr3rrYoYRKxyxvVrnrGM",
+  "googleName": "Bread House Korean Bakery",
+  "formattedAddress": "Ojo de Agua 501-Local 016, Privadas Borneo, 66632 Cdad. Apodaca, N.L., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/breadhousekb/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7182369882664672299",
+  "rating": 4.9,
+  "reviewCount": 50,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.7709331,
+    -100.2151202
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-house-korean-bakery-apodaca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:13.993Z"
+}

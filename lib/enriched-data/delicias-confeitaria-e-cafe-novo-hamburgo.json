@@ -1,0 +1,45 @@
+{
+  "slug": "delicias-confeitaria-e-cafe-novo-hamburgo",
+  "name": "Delícias Confeitaria e Café",
+  "curatedName": "Delícias Confeitaria e Café",
+  "city": "Novo Hamburgo",
+  "country": "Brazil",
+  "placeId": "ChIJ6a9_BaFDGZURdosnxfcGs2o",
+  "googleName": "Delícias Confeitaria e Café",
+  "formattedAddress": "R. Vinte e Quatro de Maio, 741 - Vila Rosa, Novo Hamburgo - RS, 93315-125, Brazil",
+  "phone": "(51) 3035-3253",
+  "internationalPhone": "+55 51 3035-3253",
+  "website": "https://www.facebook.com/503299356446720/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7688496650085960566",
+  "rating": 4.6,
+  "reviewCount": 1332,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.6784413,
+    -51.134413
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 7:30 PM",
+    "Sunday: 2:30 – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delicias-confeitaria-e-cafe-novo-hamburgo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:23.989Z"
+}

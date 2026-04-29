@@ -1,0 +1,43 @@
+{
+  "slug": "boulan-ciudad-de-buenos-aires",
+  "name": "Boulan",
+  "curatedName": "Boulan",
+  "city": "Ciudad de Buenos Aires",
+  "country": "Argentina",
+  "placeId": "ChIJAeENUXm1vJUROwrZoXa3wIg",
+  "googleName": "Boûlan",
+  "formattedAddress": "Ugarteche 3045, C1425EVE Cdad. Autónoma de Buenos Aires, Argentina",
+  "phone": "011 5835-6748",
+  "internationalPhone": "+54 11 5835-6748",
+  "website": "http://www.boulan.com.ar/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9854077704836024891",
+  "rating": 4.4,
+  "reviewCount": 1116,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.5808944,
+    -58.41198850000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulan-ciudad-de-buenos-aires/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:29.132Z"
+}

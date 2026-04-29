@@ -1,0 +1,43 @@
+{
+  "slug": "breadtaking-fatih",
+  "name": "Breadtaking",
+  "curatedName": "Breadtaking",
+  "city": "Fatih",
+  "country": "Türkiye",
+  "placeId": "ChIJbZQ1sJrLyhQRtYEXatwc70U",
+  "googleName": "Breadtaking",
+  "formattedAddress": "Emirgan, Boyacı Köyü Ykş. Sk., 34467 Sarıyer/İstanbul, Türkiye",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5039278241049182645",
+  "rating": 4.8,
+  "reviewCount": 63,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0997348,
+    29.0518187
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadtaking-fatih/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:03:08.434Z"
+}

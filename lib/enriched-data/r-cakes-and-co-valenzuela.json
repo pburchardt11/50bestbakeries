@@ -1,0 +1,43 @@
+{
+  "slug": "r-cakes-and-co-valenzuela",
+  "name": "R Cakes and Co",
+  "curatedName": "R Cakes and Co",
+  "city": "Valenzuela",
+  "country": "Philippines",
+  "placeId": "ChIJr5GuYMOzlzMR03ovi7x0G2g",
+  "googleName": "R Cakes and Co",
+  "formattedAddress": "1234 Trinidad, Lingunan, Valenzuela, 1446 Metro Manila, Philippines",
+  "phone": "0966 226 9396",
+  "internationalPhone": "+63 966 226 9396",
+  "website": "https://www.facebook.com/rcakesandco/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7501717957453511379",
+  "rating": 4.8,
+  "reviewCount": 24,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.7191029,
+    120.9762243
+  ],
+  "openingHours": [
+    "Monday: 2:00 – 10:00 PM",
+    "Tuesday: 2:00 – 10:00 PM",
+    "Wednesday: 2:00 – 10:00 PM",
+    "Thursday: 2:00 – 10:00 PM",
+    "Friday: 2:00 – 10:00 PM",
+    "Saturday: 2:00 – 10:00 PM",
+    "Sunday: 2:00 – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/r-cakes-and-co-valenzuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:05.647Z"
+}

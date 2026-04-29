@@ -1,0 +1,43 @@
+{
+  "slug": "cake-world-bakery-las-vegas",
+  "name": "Cake World Bakery",
+  "curatedName": "Cake World Bakery",
+  "city": "Las Vegas",
+  "country": "United States",
+  "placeId": "ChIJ1Q13i3HDyIAR8sB4154p8uw",
+  "googleName": "Cake World Bakery",
+  "formattedAddress": "220 N Maryland Pkwy, Las Vegas, NV 89101, USA",
+  "phone": "(702) 471-7111",
+  "internationalPhone": "+1 702-471-7111",
+  "website": "http://www.cakeworld1.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17073754899511558386",
+  "rating": 4.5,
+  "reviewCount": 248,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.1676916,
+    -115.1312538
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Bakery creating an array of special occasion cakes, plus pastries, cookies & other sweet treats.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-world-bakery-las-vegas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:10:15.001Z"
+}

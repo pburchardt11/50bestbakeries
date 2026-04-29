@@ -1,0 +1,43 @@
+{
+  "slug": "amer-bakery-hut-bhopal",
+  "name": "Amer Bakery Hut",
+  "curatedName": "Amer Bakery Hut",
+  "city": "Bhopal",
+  "country": "India",
+  "placeId": "ChIJK0vRBVdCfDkR81vFlSmUcww",
+  "googleName": "Amer Bakery Hut",
+  "formattedAddress": "Bittan Market, Sivay Complex, Opposite Habibganj Police Station, E-5, Arera Colony, Bhopal, Madhya Pradesh 462016, India",
+  "phone": "084484 40914",
+  "internationalPhone": "+91 84484 40914",
+  "website": "http://amerbakeryhut.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=897223657104169971",
+  "rating": 4.1,
+  "reviewCount": 2208,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.2172222,
+    77.4275
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 10:30 PM",
+    "Tuesday: 11:00 AM – 10:30 PM",
+    "Wednesday: 11:00 AM – 10:30 PM",
+    "Thursday: 11:00 AM – 10:30 PM",
+    "Friday: 11:00 AM – 10:30 PM",
+    "Saturday: 11:00 AM – 10:30 PM",
+    "Sunday: 11:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amer-bakery-hut-bhopal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:31.081Z"
+}

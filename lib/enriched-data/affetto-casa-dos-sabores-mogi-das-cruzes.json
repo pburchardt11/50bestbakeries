@@ -1,0 +1,43 @@
+{
+  "slug": "affetto-casa-dos-sabores-mogi-das-cruzes",
+  "name": "AFFETTO Casa dos Sabores",
+  "curatedName": "AFFETTO Casa dos Sabores",
+  "city": "Mogi das Cruzes",
+  "country": "Brazil",
+  "placeId": "ChIJpyURFKHZzZQRwDMDuYwP5AA",
+  "googleName": "AFFETTO Casa dos Sabores",
+  "formattedAddress": "R. Maj. Pinheiro Franco, 414 - Centro, Mogi das Cruzes - SP, 08710-220, Brazil",
+  "phone": "(11) 4796-2586",
+  "internationalPhone": "+55 11 4796-2586",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=64193391763862464",
+  "rating": 4.5,
+  "reviewCount": 494,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.520248,
+    -46.1889477
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/affetto-casa-dos-sabores-mogi-das-cruzes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:18.679Z"
+}

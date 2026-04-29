@@ -1,0 +1,44 @@
+{
+  "slug": "sugar-shane-s-atlanta",
+  "name": "Sugar Shane's",
+  "curatedName": "Sugar Shane's",
+  "city": "Atlanta",
+  "country": "United States",
+  "placeId": "ChIJ6_mpfNwF9YgRLtjthgGTwmM",
+  "googleName": "Sugar Shane's",
+  "formattedAddress": "398 14th St NW suite a-1, Atlanta, GA 30318, USA",
+  "phone": "(678) 332-1391",
+  "internationalPhone": "+1 678-332-1391",
+  "website": "https://sugarshanes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7188469590004717614",
+  "rating": 4.8,
+  "reviewCount": 1463,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.7859273,
+    -84.4001838
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 11:00 PM",
+    "Tuesday: 11:00 AM – 11:00 PM",
+    "Wednesday: 11:00 AM – 11:00 PM",
+    "Thursday: 11:00 AM – 11:00 PM",
+    "Friday: 11:00 AM – 12:00 AM",
+    "Saturday: 11:00 AM – 12:00 AM",
+    "Sunday: 11:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-shane-s-atlanta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:05.965Z"
+}

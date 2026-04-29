@@ -1,0 +1,43 @@
+{
+  "slug": "weirdough-bakery-deli-somerset-west",
+  "name": "Weirdough Bakery & Deli",
+  "curatedName": "Weirdough Bakery & Deli",
+  "city": "Somerset West",
+  "country": "South Africa",
+  "placeId": "ChIJA4o9CSO1zR0RObtZBkuiaKU",
+  "googleName": "Weirdough Bakery & Deli",
+  "formattedAddress": "Lions Square Cnr Huising, and, Main Street, Lionviham, Cape Town, 7130, South Africa",
+  "phone": "079 270 2633",
+  "internationalPhone": "+27 79 270 2633",
+  "website": "http://www.weirdough.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11918954856948808505",
+  "rating": 4.8,
+  "reviewCount": 239,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.0812912,
+    18.8496112
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/weirdough-bakery-deli-somerset-west/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:53.885Z"
+}

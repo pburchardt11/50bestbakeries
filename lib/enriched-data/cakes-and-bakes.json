@@ -1,0 +1,32 @@
+{
+  "slug": "cakes-and-bakes",
+  "name": "Cakes and Bakes",
+  "city": "الرفاع البحير",
+  "country": "Bahrain",
+  "placeId": "ChIJk-9iyvCtST4R_MZEwDZ4VC0",
+  "googleName": "Koko Cakes & Bakes",
+  "formattedAddress": "Riffa, Bukowarah, 634 Road 1311، Riffa, Bahrain",
+  "phone": "3505 3812",
+  "website": "https://kokocakesbh.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3266367806299752188",
+  "rating": 4.9,
+  "reviewCount": 1090,
+  "coords": [
+    26.1326334,
+    50.5547189
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-and-bakes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:45:59.944Z"
+}

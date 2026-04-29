@@ -1,0 +1,43 @@
+{
+  "slug": "mis-angeles-reynosa",
+  "name": "Mis Ángeles",
+  "curatedName": "Mis Ángeles",
+  "city": "Reynosa",
+  "country": "Mexico",
+  "placeId": "ChIJ0WiF3S0EZYYRXQwBpAX-NqI",
+  "googleName": "Mis Ángeles",
+  "formattedAddress": "Calle 18, Av Vista Hermosa 544 Esquina, Vista Hermosa, 88710 Reynosa, Tamps., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11688809183066524765",
+  "rating": 4.6,
+  "reviewCount": 325,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.0770455,
+    -98.35844159999999
+  ],
+  "openingHours": [
+    "Monday: 5:00 – 8:00 PM",
+    "Tuesday: 5:00 – 8:00 PM",
+    "Wednesday: 5:00 – 8:00 PM",
+    "Thursday: 5:00 – 8:00 PM",
+    "Friday: 5:00 – 8:00 PM",
+    "Saturday: 5:00 – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mis-angeles-reynosa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:01.210Z"
+}

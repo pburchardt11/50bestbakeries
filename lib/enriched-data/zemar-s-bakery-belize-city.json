@@ -1,0 +1,32 @@
+{
+  "slug": "zemar-s-bakery-belize-city",
+  "name": "Zemar's Bakery",
+  "city": "Belize City",
+  "country": "Belize",
+  "placeId": "ChIJJSOxedqbXI8RnkCdsGRNGC8",
+  "googleName": "Charmaine's Cafe and Dessert Shop",
+  "formattedAddress": "corner of Angel and Pelican (Upstairs, Pelican St, San Pedro, Belize",
+  "phone": "226-2924",
+  "website": "http://www.charmainescafe.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3393547414078832798",
+  "rating": 5,
+  "reviewCount": 303,
+  "coords": [
+    17.9208588,
+    -87.9622698
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Tuesday: 8:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Wednesday: 8:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Thursday: Closed",
+    "Friday: 8:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM, 5:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zemar-s-bakery-belize-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:05:47.403Z"
+}

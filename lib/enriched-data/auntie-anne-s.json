@@ -1,0 +1,42 @@
+{
+  "slug": "auntie-anne-s",
+  "name": "Auntie Anne's",
+  "curatedName": "Auntie Anne's",
+  "city": "الرياض",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJmZhQZoH9Lj4RDBY4u6zTmCE",
+  "googleName": "Auntie Anne’s",
+  "formattedAddress": "RP85+86G, Imam Muhammad Ibn Saud Islamic University, Riyadh 13318, Saudi Arabia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2420917538540492300",
+  "rating": 3.8,
+  "reviewCount": 15,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.8157038,
+    46.7085879
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 11:00 PM",
+    "Tuesday: 9:30 AM – 11:00 PM",
+    "Wednesday: 9:30 AM – 11:00 PM",
+    "Thursday: 9:30 AM – 11:00 PM",
+    "Friday: Closed",
+    "Saturday: Closed",
+    "Sunday: 9:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Global chain of counters dispensing sweet & savory soft pretzels with a variety of toppings & dips.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/auntie-anne-s/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:22:49.333Z"
+}

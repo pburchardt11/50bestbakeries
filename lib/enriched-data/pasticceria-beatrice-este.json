@@ -1,0 +1,43 @@
+{
+  "slug": "pasticceria-beatrice-este",
+  "name": "Pasticceria Beatrice",
+  "curatedName": "Pasticceria Beatrice",
+  "city": "Este",
+  "country": "Italy",
+  "placeId": "ChIJOyKZTvwdf0cRAKUa9Bdvw5s",
+  "googleName": "Pasticceria Beatrice",
+  "formattedAddress": "Via S. Girolamo, 15, 35042 Este PD, Italy",
+  "phone": "0429 602296",
+  "internationalPhone": "+39 0429 602296",
+  "website": "https://www.facebook.com/pasticceriabea/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11223936845007725824",
+  "rating": 4.3,
+  "reviewCount": 88,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.2281833,
+    11.6578772
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 1:00 PM, 4:00 – 7:30 PM",
+    "Tuesday: 7:30 AM – 1:00 PM, 4:00 – 7:30 PM",
+    "Wednesday: 7:30 AM – 1:00 PM, 4:00 – 7:30 PM",
+    "Thursday: 7:30 AM – 1:00 PM, 4:00 – 7:30 PM",
+    "Friday: 7:30 AM – 1:00 PM, 4:00 – 7:30 PM",
+    "Saturday: 7:30 AM – 1:00 PM, 4:00 – 7:30 PM",
+    "Sunday: 7:30 AM – 1:00 PM, 3:30 – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-beatrice-este/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:52.465Z"
+}

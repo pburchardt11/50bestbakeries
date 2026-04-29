@@ -1,0 +1,32 @@
+{
+  "slug": "le-plaisir-ganclik-bak",
+  "name": "Le Plaisir Ganclik",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJc8KfCCF9MEARBp3z0HibX7E",
+  "googleName": "Le Plaisir Ganclik",
+  "formattedAddress": "Ceyhunbəy Hacıbəyli, Bakı 1010, Azerbaijan",
+  "phone": "050 378 00 33",
+  "website": "http://www.leplaisir.az/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12781105210704764166",
+  "rating": 4.1,
+  "reviewCount": 17,
+  "coords": [
+    40.3906114,
+    49.8459874
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-plaisir-ganclik-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:36:54.108Z"
+}

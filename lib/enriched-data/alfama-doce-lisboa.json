@@ -1,0 +1,43 @@
+{
+  "slug": "alfama-doce-lisboa",
+  "name": "Alfama Doce",
+  "curatedName": "Alfama Doce",
+  "city": "Lisboa",
+  "country": "Portugal",
+  "placeId": "ChIJe78DzXU0GQ0RTbMYUmecROo",
+  "googleName": "Alfama Doce",
+  "formattedAddress": "R. da Regueira 39, 1100-435 Lisboa, Portugal",
+  "phone": "933 143 460",
+  "internationalPhone": "+351 933 143 460",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16880789270864376653",
+  "rating": 4.9,
+  "reviewCount": 2015,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.7120776,
+    -9.1287743
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alfama-doce-lisboa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:45.014Z"
+}

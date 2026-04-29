@@ -1,0 +1,43 @@
+{
+  "slug": "sm-bakery-campinas",
+  "name": "SM Bakery",
+  "curatedName": "SM Bakery",
+  "city": "Campinas",
+  "country": "Brazil",
+  "placeId": "ChIJM-GO7RzJyJQRyyjDMdSGqlU",
+  "googleName": "SM Bakery",
+  "formattedAddress": "End: - Av. São José dos Campos, 2500 - Lot. Parque São Martinho, Campinas - SP, 13040-735, Brazil",
+  "phone": "(19) 3225-6718",
+  "internationalPhone": "+55 19 3225-6718",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6172894485190748363",
+  "rating": 4.6,
+  "reviewCount": 273,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.9535561,
+    -47.0592283
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sm-bakery-campinas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:59.053Z"
+}

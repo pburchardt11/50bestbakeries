@@ -1,0 +1,43 @@
+{
+  "slug": "backerei-balkhausen-gmbh-koln",
+  "name": "Bäckerei Balkhausen GmbH",
+  "curatedName": "Bäckerei Balkhausen GmbH",
+  "city": "Köln",
+  "country": "Germany",
+  "placeId": "ChIJvyHlxKklv0cR3assDecsa9A",
+  "googleName": "Bäckerei Balkhausen GmbH",
+  "formattedAddress": "Apostelnstraße 27, 50667 Köln, Germany",
+  "phone": "0221 2570264",
+  "internationalPhone": "+49 221 2570264",
+  "website": "https://m.facebook.com/pages/B%C3%A4ckerei-Balkhausen/179427248769800",
+  "googleMapsUrl": "https://maps.google.com/?cid=15018146753267149789",
+  "rating": 4.8,
+  "reviewCount": 844,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.9383096,
+    6.944890300000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-balkhausen-gmbh-koln/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:48.941Z"
+}

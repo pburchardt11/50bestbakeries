@@ -1,0 +1,32 @@
+{
+  "slug": "xonca-bakery-baku",
+  "name": "Xonca Bakery",
+  "city": "Baku",
+  "country": "Azerbaijan",
+  "placeId": "ChIJF_6Ojjh9MEAR5rUKDcAixGU",
+  "googleName": "Xonça Patisserie & chocolate",
+  "formattedAddress": "11B Rəsul Rza, Bakı 1005, Azerbaijan",
+  "phone": "099 209 85 01",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7333024301513881062",
+  "rating": 4.4,
+  "reviewCount": 13,
+  "coords": [
+    40.370967,
+    49.8404537
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/xonca-bakery-baku/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:34:48.260Z"
+}

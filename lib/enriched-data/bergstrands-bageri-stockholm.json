@@ -1,0 +1,43 @@
+{
+  "slug": "bergstrands-bageri-stockholm",
+  "name": "Bergstrands Bageri",
+  "curatedName": "Bergstrands Bageri",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "placeId": "ChIJDUEPkHedX0YREld0MhF0GxQ",
+  "googleName": "Bergstrands Bageri",
+  "formattedAddress": "Frejgatan 46a, 113 26 Stockholm, Sweden",
+  "phone": "070-888 27 42",
+  "internationalPhone": "+46 70 888 27 42",
+  "website": "http://bergstrandsbageri.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1448879322339497746",
+  "rating": 4.8,
+  "reviewCount": 514,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.34428759999999,
+    18.0446986
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bergstrands-bageri-stockholm/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:59.573Z"
+}

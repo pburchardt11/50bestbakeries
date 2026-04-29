@@ -1,0 +1,32 @@
+{
+  "slug": "la-boulangerie-patisserie-du-lu-cotonou",
+  "name": "La boulangerie pâtisserie du LU",
+  "city": "Cotonou",
+  "country": "Benin",
+  "placeId": "ChIJ84xqgn5VIxARFw7EJ385iiQ",
+  "googleName": "Pâtisserie \"Le Nôtre\"",
+  "formattedAddress": "99QP+78J, Rue 2650, Cotonou, Benin",
+  "phone": "01 66 19 01 51",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2632980150442266135",
+  "rating": 3.9,
+  "reviewCount": 360,
+  "coords": [
+    6.388211,
+    2.385781
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boulangerie-patisserie-du-lu-cotonou/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:08:51.932Z"
+}

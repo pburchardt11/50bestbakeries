@@ -1,0 +1,43 @@
+{
+  "slug": "pasam-pastanesi-selcuklu",
+  "name": "Pasam Pastanesi",
+  "curatedName": "Pasam Pastanesi",
+  "city": "Selçuklu",
+  "country": "Türkiye",
+  "placeId": "ChIJDVDhh6GF0BQRfjVdM2sfAlM",
+  "googleName": "Pasam Pastanesi",
+  "formattedAddress": "Nişantaş, Dr. Mehmet Hulusi Baybal Cd. No:42, 42060 Selçuklu/Konya, Türkiye",
+  "phone": "0542 138 42 42",
+  "internationalPhone": "+90 542 138 42 42",
+  "website": "https://www.pasampastanesi.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5981377800385148286",
+  "rating": 4.2,
+  "reviewCount": 3469,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.8827778,
+    32.4863889
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:30 AM",
+    "Tuesday: 6:30 AM – 12:30 AM",
+    "Wednesday: 6:30 AM – 12:30 AM",
+    "Thursday: 6:30 AM – 12:30 AM",
+    "Friday: 6:30 AM – 12:30 AM",
+    "Saturday: 6:30 AM – 12:30 AM",
+    "Sunday: 6:30 AM – 12:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasam-pastanesi-selcuklu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:52.207Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-vita-cerna",
+  "name": "Pekarna Vita",
+  "city": "Cerna",
+  "country": "Croatia",
+  "placeId": "ChIJmzbwRxd4ZkcRt2TT6PWsIEI",
+  "googleName": "bakery VITA",
+  "formattedAddress": "Ulica Poljanice I 4, 10040, Zagreb, Croatia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4764998577931117751",
+  "rating": 4.5,
+  "reviewCount": 440,
+  "coords": [
+    45.829276,
+    16.0692543
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 8:00 PM",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 5:30 AM – 7:00 PM",
+    "Sunday: 6:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-vita-cerna/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:49:41.481Z"
+}

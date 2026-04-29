@@ -1,0 +1,45 @@
+{
+  "slug": "bastian-s-koln",
+  "name": "Bastian's",
+  "curatedName": "Bastian's",
+  "city": "Köln",
+  "country": "Germany",
+  "placeId": "ChIJQUBX-Kglv0cR1vLNfQQBAjc",
+  "googleName": "Bastian’s",
+  "formattedAddress": "Auf dem Berlich 3-5, 50667 Köln, Germany",
+  "phone": "0221 25083412",
+  "internationalPhone": "+49 221 25083412",
+  "website": "https://bastians-baecker.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3963731740841603798",
+  "rating": 4.4,
+  "reviewCount": 2866,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.9393955,
+    6.947635399999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Tarts & cakes, plus global breakfasts & light meals at a wood-lined cafe with a terrace.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bastian-s-koln/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:29.264Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "padaria-brasileira-santo-andre",
+  "name": "Padaria Brasileira",
+  "curatedName": "Padaria Brasileira",
+  "city": "Santo André",
+  "country": "Brazil",
+  "placeId": "ChIJnVpvmmJCzpQRKnLcYDecNZc",
+  "googleName": "Padaria Brasileira",
+  "formattedAddress": "R. Santo André, 232 - Vila Assunção, Santo André - SP, 09020-230, Brazil",
+  "phone": "(11) 3757-2277",
+  "internationalPhone": "+55 11 3757-2277",
+  "website": "http://www.padariabrasileira.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10895786635154977322",
+  "rating": 4.5,
+  "reviewCount": 9204,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.6639694,
+    -46.5276
+  ],
+  "openingHours": [
+    "Monday: 6:40 AM – 10:20 PM",
+    "Tuesday: 6:40 AM – 10:20 PM",
+    "Wednesday: 6:40 AM – 10:20 PM",
+    "Thursday: 6:40 AM – 10:20 PM",
+    "Friday: 6:40 AM – 10:20 PM",
+    "Saturday: 6:40 AM – 10:20 PM",
+    "Sunday: 6:40 AM – 10:20 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-brasileira-santo-andre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:41:32.480Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "misterpan-barranquilla",
+  "name": "Misterpan Barranquilla",
+  "curatedName": "Misterpan Barranquilla",
+  "city": "Barranquilla",
+  "country": "Colombia",
+  "placeId": "ChIJ9QhcMAwt9I4RraPXJ8NTVm4",
+  "googleName": "Misterpan Barranquilla®️",
+  "formattedAddress": "Av. 20 de Julio #72-208, ciudad, Barranquilla, Atlántico, Colombia",
+  "phone": "304 3661797",
+  "internationalPhone": "+57 304 3661797",
+  "website": "https://misterpanbarranquilla.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7950634289821361069",
+  "rating": 4.5,
+  "reviewCount": 917,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.992711,
+    -74.8087997
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/misterpan-barranquilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:02.909Z"
+}

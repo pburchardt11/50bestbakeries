@@ -1,0 +1,46 @@
+{
+  "slug": "banh-mi-gach-o-quan-phu-nhuan",
+  "name": "Bánh Mì Gạch Đỏ",
+  "curatedName": "Bánh Mì Gạch Đỏ",
+  "city": "Quận Phú Nhuận",
+  "country": "Vietnam",
+  "placeId": "ChIJT6hPcLlncDER5wvqSRqhwwA",
+  "googleName": "Red Brick Bakery & Coffee",
+  "formattedAddress": "22 Đ. Ng. Đức Kế, Tân Lập, Nha Trang, Khánh Hòa 650000, Vietnam",
+  "phone": "0817 986 828",
+  "internationalPhone": "+84 817 986 828",
+  "website": "https://www.facebook.com/Gachdobakerycoffee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=55064754739874791",
+  "rating": 4.6,
+  "reviewCount": 2385,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.2402702,
+    109.1901795
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-mi-gach-o-quan-phu-nhuan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:18:13.421Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-rosetta-puebla-cuauhtemoc",
+  "name": "Panadería Rosetta Puebla",
+  "curatedName": "Panadería Rosetta Puebla",
+  "city": "Cuauhtémoc",
+  "country": "Mexico",
+  "placeId": "ChIJc1as3Tf_0YURtmnpbLAK_Vw",
+  "googleName": "Panadería Rosetta Puebla",
+  "formattedAddress": "Puebla 242, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+  "phone": "55 5925 7836",
+  "internationalPhone": "+52 55 5925 7836",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6700523573454924214",
+  "rating": 4.4,
+  "reviewCount": 1733,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4215093,
+    -99.16733110000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-rosetta-puebla-cuauhtemoc/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:22.638Z"
+}

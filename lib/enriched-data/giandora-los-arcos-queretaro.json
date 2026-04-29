@@ -1,0 +1,44 @@
+{
+  "slug": "giandora-los-arcos-queretaro",
+  "name": "Giandora Los Arcos",
+  "curatedName": "Giandora Los Arcos",
+  "city": "Querétaro",
+  "country": "Mexico",
+  "placeId": "ChIJgWnJAUlb04UR2mWNl0HCVv0",
+  "googleName": "Giandora Los Arcos",
+  "formattedAddress": "Av. de los Arcos #173A PLAZA CALLAO \"Donde comienzan los arcos, poco antes de bajada de Loma Dorada, Villa Los Arcos, Los Arcos, 76060 Santiago de Querétaro, Qro., Mexico",
+  "phone": "442 234 7885",
+  "internationalPhone": "+52 442 234 7885",
+  "website": "http://www.giandora.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18254991726564173274",
+  "rating": 4.7,
+  "reviewCount": 1346,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.599189,
+    -100.369252
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/giandora-los-arcos-queretaro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:37.727Z"
+}

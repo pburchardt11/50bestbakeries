@@ -1,0 +1,43 @@
+{
+  "slug": "cookie-co-philippines-bacoor",
+  "name": "Cookie Co. Philippines",
+  "curatedName": "Cookie Co. Philippines",
+  "city": "Bacoor",
+  "country": "Philippines",
+  "placeId": "ChIJh_HGX6LRlzMRQcbox76LphA",
+  "googleName": "Cookie Co. Philippines",
+  "formattedAddress": "Block 25 Lot 1 Dao Street Corner Kalantas Street, Phase 3 Central Camella Springville, Molino III, Bacoor, 4102 Cavite, Philippines",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.facebook.com/CookieCo.Phl",
+  "googleMapsUrl": "https://maps.google.com/?cid=1199800002254784065",
+  "rating": 5,
+  "reviewCount": 6,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.3877473,
+    120.9886807
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 6:00 PM",
+    "Tuesday: 12:00 – 6:00 PM",
+    "Wednesday: 12:00 – 6:00 PM",
+    "Thursday: 12:00 – 6:00 PM",
+    "Friday: 12:00 – 6:00 PM",
+    "Saturday: 12:00 – 6:00 PM",
+    "Sunday: 12:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cookie-co-philippines-bacoor/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:03.752Z"
+}

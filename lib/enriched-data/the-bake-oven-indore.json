@@ -1,0 +1,43 @@
+{
+  "slug": "the-bake-oven-indore",
+  "name": "The Bake Oven",
+  "curatedName": "The Bake Oven",
+  "city": "Indore",
+  "country": "India",
+  "placeId": "ChIJX0DOcz39YjkRSHubYCDb5bM",
+  "googleName": "THE BAKE OVEN",
+  "formattedAddress": "198, Tilak Nagar Main Rd, Savindnagar, Tilak Nagar, Indore, Madhya Pradesh 452018, India",
+  "phone": "062322 63342",
+  "internationalPhone": "+91 62322 63342",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12963008034562079560",
+  "rating": 4.9,
+  "reviewCount": 205,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.7191624,
+    75.89683500000001
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 11:00 PM",
+    "Tuesday: 11:00 AM – 11:00 PM",
+    "Wednesday: 11:00 AM – 11:00 PM",
+    "Thursday: 11:00 AM – 11:00 PM",
+    "Friday: 11:00 AM – 11:00 PM",
+    "Saturday: 11:00 AM – 11:00 PM",
+    "Sunday: 11:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bake-oven-indore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:08.567Z"
+}

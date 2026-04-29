@@ -1,0 +1,43 @@
+{
+  "slug": "delicatessen-joana-angelica-salvador",
+  "name": "Delicatessen Joana Angélica",
+  "curatedName": "Delicatessen Joana Angélica",
+  "city": "Salvador",
+  "country": "Brazil",
+  "placeId": "ChIJd6Fa6AoFFgcRJMC6J6jdyJ0",
+  "googleName": "Delicatessen Joana Angélica",
+  "formattedAddress": "Av. Joana Angélica, 67 - Tororó, Salvador - BA, 40050-002, Brazil",
+  "phone": "(71) 3242-0089",
+  "internationalPhone": "+55 71 3242-0089",
+  "website": "https://instagram.com/panjoanaangelica?utm_medium=copy_link",
+  "googleMapsUrl": "https://maps.google.com/?cid=11369580973587611684",
+  "rating": 4.3,
+  "reviewCount": 723,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -12.9804557,
+    -38.5092585
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:30 PM",
+    "Tuesday: 6:00 AM – 7:30 PM",
+    "Wednesday: 6:00 AM – 7:30 PM",
+    "Thursday: 6:00 AM – 7:30 PM",
+    "Friday: 6:00 AM – 7:30 PM",
+    "Saturday: 6:00 AM – 7:30 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delicatessen-joana-angelica-salvador/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:17.974Z"
+}

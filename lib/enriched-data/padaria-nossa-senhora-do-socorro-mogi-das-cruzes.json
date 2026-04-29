@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-nossa-senhora-do-socorro-mogi-das-cruzes",
+  "name": "Padaria Nossa Senhora do Socorro",
+  "curatedName": "Padaria Nossa Senhora do Socorro",
+  "city": "Mogi das Cruzes",
+  "country": "Brazil",
+  "placeId": "ChIJMTeatTXYzZQRUgiwiAHUGPU",
+  "googleName": "Padaria Nossa Senhora do Socorro",
+  "formattedAddress": "Av. Ver. Narciso Yague Guimarães, 10 - Jardim Armenia, Mogi das Cruzes - SP, 08780-200, Brazil",
+  "phone": "(11) 4799-6737",
+  "internationalPhone": "+55 11 4799-6737",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17661099041786693714",
+  "rating": 4.4,
+  "reviewCount": 2073,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5172571,
+    -46.1776141
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 11:50 PM",
+    "Tuesday: 6:00 AM – 11:50 PM",
+    "Wednesday: 6:00 AM – 11:50 PM",
+    "Thursday: 6:00 AM – 11:50 PM",
+    "Friday: 6:00 AM – 11:50 PM",
+    "Saturday: 6:00 AM – 11:50 PM",
+    "Sunday: 6:00 AM – 11:50 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-nossa-senhora-do-socorro-mogi-das-cruzes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:21.013Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "cake-roasters-surat",
+  "name": "Cake Roasters",
+  "curatedName": "Cake Roasters",
+  "city": "Surat",
+  "country": "India",
+  "placeId": "ChIJFcq0xHRO4DsRqdwf_nb142o",
+  "googleName": "Cake Roasters",
+  "formattedAddress": "4, Shukan Bunglows, opposite shridhar row house, Krishnadham Society, Piplod, Surat, Gujarat 395007, India",
+  "phone": "088668 88678",
+  "internationalPhone": "+91 88668 88678",
+  "website": "https://cakeroasters.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7702269679152127145",
+  "rating": 5,
+  "reviewCount": 74,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1555315,
+    72.77581850000001
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-roasters-surat/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:16.017Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "fitzbillies-cambridge",
+  "name": "Fitzbillies",
+  "curatedName": "Fitzbillies",
+  "city": "Cambridge",
+  "country": "United Kingdom",
+  "placeId": "ChIJy1CXLb1w2EcRSX2aXp6iRG0",
+  "googleName": "Fitzbillies",
+  "formattedAddress": "51-53 Trumpington St, Cambridge CB2 1RG, UK",
+  "phone": "01223 352500",
+  "internationalPhone": "+44 1223 352500",
+  "website": "http://www.fitzbillies.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7873596849626185033",
+  "rating": 4.1,
+  "reviewCount": 2645,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.2020571,
+    0.1181075
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: 8:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Old-school bakery and cafe serving traditional pastries with artisan coffee and East Anglian fare.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fitzbillies-cambridge/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:24:25.034Z"
+}

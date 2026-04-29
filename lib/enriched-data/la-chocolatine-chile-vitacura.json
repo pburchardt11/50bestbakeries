@@ -1,0 +1,45 @@
+{
+  "slug": "la-chocolatine-chile-vitacura",
+  "name": "La Chocolatine Chile",
+  "curatedName": "La Chocolatine Chile",
+  "city": "Vitacura",
+  "country": "Chile",
+  "placeId": "ChIJ3yF0dC3JYpYRcha0fxL6Ar8",
+  "googleName": "La Chocolatine Chile",
+  "formattedAddress": "Av Vitacura 7269, 8150215 Vitacura, Región Metropolitana, Chile",
+  "phone": "9 8529 8165",
+  "internationalPhone": "+56 9 8529 8165",
+  "website": "http://www.chocolatine.cl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13763838368556521074",
+  "rating": 4.5,
+  "reviewCount": 903,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.3863904,
+    -70.5633141
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-chocolatine-chile-vitacura/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:36.631Z"
+}

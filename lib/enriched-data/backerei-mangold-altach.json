@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-mangold-altach",
+  "name": "Bäckerei Mangold",
+  "city": "Altach",
+  "country": "Austria",
+  "placeId": "ChIJi4VWASc-m0cRjOK7F2eYmaI",
+  "googleName": "Bäckerei Mangold",
+  "formattedAddress": "Schweizerstraße 2, 6844 Altach, Austria",
+  "phone": "05576 72600",
+  "website": "https://www.bäckerei-mangold.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11716563474128298636",
+  "rating": 4.4,
+  "reviewCount": 253,
+  "coords": [
+    47.3547916,
+    9.651846299999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-mangold-altach/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:33:28.159Z"
+}

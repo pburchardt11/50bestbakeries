@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-nove-de-julho-sao-jose-dos-campos",
+  "name": "Padaria Nove de Julho",
+  "curatedName": "Padaria Nove de Julho",
+  "city": "São José dos Campos",
+  "country": "Brazil",
+  "placeId": "ChIJW5OUS21KzJQRZaIKxXVs9dk",
+  "googleName": "Padaria Nove de Julho",
+  "formattedAddress": "Av. Nove de Julho, 275 - Vila Adyana, São José dos Campos - SP, 12243-000, Brazil",
+  "phone": "(12) 3921-2131",
+  "internationalPhone": "+55 12 3921-2131",
+  "website": "https://m.facebook.com/padarianovedejulhosjc/?locale2=pt_BR",
+  "googleMapsUrl": "https://maps.google.com/?cid=15705578528597254757",
+  "rating": 4.4,
+  "reviewCount": 7661,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.1952874,
+    -45.89348529999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "Spacious, popular locale open 24/7, offering baked goods, grocery items & seating for casual meals.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-nove-de-julho-sao-jose-dos-campos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:28.148Z"
+}

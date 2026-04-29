@@ -1,0 +1,43 @@
+{
+  "slug": "chimney-cake-bakery-krakow",
+  "name": "Chimney Cake Bakery",
+  "curatedName": "Chimney Cake Bakery",
+  "city": "Kraków",
+  "country": "Poland",
+  "placeId": "ChIJB4Y4bxBbFkcRBh_4HVMCO3c",
+  "googleName": "Chimney Cake Bakery",
+  "formattedAddress": "Basztowa 26A, 31-156 Kraków, Poland",
+  "phone": "666 709 480",
+  "internationalPhone": "+48 666 709 480",
+  "website": "http://www.chimneycakebakery.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8591463270147694342",
+  "rating": 4.7,
+  "reviewCount": 1805,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.0648643,
+    19.9437823
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chimney-cake-bakery-krakow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:34.929Z"
+}

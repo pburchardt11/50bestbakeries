@@ -1,0 +1,43 @@
+{
+  "slug": "magnolia-bakery-turkiye-nisantas-sisli",
+  "name": "Magnolia Bakery Türkiye - Nişantaşı",
+  "curatedName": "Magnolia Bakery Türkiye - Nişantaşı",
+  "city": "Şişli",
+  "country": "Türkiye",
+  "placeId": "ChIJERQR36C3yhQRdwANxvbEuIk",
+  "googleName": "Magnolia Bakery Türkiye - Nişantaşı",
+  "formattedAddress": "Teşvikiye, Akkavak Sok. No:32 D:9001, 34360 Şişli/İstanbul, Türkiye",
+  "phone": "0531 650 91 71",
+  "internationalPhone": "+90 531 650 91 71",
+  "website": "https://magnoliabakery.com.tr/tr",
+  "googleMapsUrl": "https://maps.google.com/?cid=9923898343074627703",
+  "rating": 4.5,
+  "reviewCount": 138,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0519138,
+    28.9924675
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magnolia-bakery-turkiye-nisantas-sisli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:01:37.291Z"
+}

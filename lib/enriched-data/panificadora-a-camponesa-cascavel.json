@@ -1,0 +1,44 @@
+{
+  "slug": "panificadora-a-camponesa-cascavel",
+  "name": "Panificadora A Camponesa",
+  "curatedName": "Panificadora A Camponesa",
+  "city": "Cascavel",
+  "country": "Brazil",
+  "placeId": "ChIJC6XtUT3U85QRGHCQykXW92w",
+  "googleName": "Panificadora A Camponesa",
+  "formattedAddress": "R. Cuiabá, 2989 - Neva, Cascavel - PR, 85802-030, Brazil",
+  "phone": "(45) 3224-8008",
+  "internationalPhone": "+55 45 3224-8008",
+  "website": "http://www.panificadoraacamponesa.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7851980070583300120",
+  "rating": 4.6,
+  "reviewCount": 2141,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -24.9663998,
+    -53.46613809999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM, 2:30 – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-a-camponesa-cascavel/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:22.917Z"
+}

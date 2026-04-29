@@ -1,0 +1,32 @@
+{
+  "slug": "planet-donut-bakery-sitra",
+  "name": "Planet Donut & Bakery",
+  "city": "Sitra",
+  "country": "Bahrain",
+  "placeId": "ChIJ81CqQuWrST4ROiQeUgP-WbI",
+  "googleName": "Planet Donut & Bakery",
+  "formattedAddress": "5J45+V6P, Shaikh Jaber A. Al Subah Hwy, Sitra, Bahrain",
+  "phone": "1773 5917",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12851582301894485050",
+  "rating": 4.1,
+  "reviewCount": 166,
+  "coords": [
+    26.1572227,
+    50.6080827
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:30 PM",
+    "Tuesday: 6:30 AM – 9:30 PM",
+    "Wednesday: 6:30 AM – 9:30 PM",
+    "Thursday: 6:30 AM – 9:30 PM",
+    "Friday: 6:30 AM – 9:30 PM",
+    "Saturday: 6:30 AM – 9:30 PM",
+    "Sunday: 6:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/planet-donut-bakery-sitra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:44:34.671Z"
+}

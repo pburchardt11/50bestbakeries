@@ -1,0 +1,32 @@
+{
+  "slug": "bob-the-baker-boy-yishun",
+  "name": "Bob the Baker Boy",
+  "curatedName": "Bob the Baker Boy",
+  "city": "Yishun",
+  "country": "Singapore",
+  "placeId": "ChIJ8b6TOmYV2jERw6JHTRiMC5c",
+  "googleName": "Bob the Baker Boy",
+  "formattedAddress": "524 Miltonia Cl, Singapore",
+  "phone": "9021 8370",
+  "internationalPhone": "+65 9021 8370",
+  "website": "http://bobthebakerboy.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10883946960474579651",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    1.417803,
+    103.84769
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T04:55:21.345Z"
+}

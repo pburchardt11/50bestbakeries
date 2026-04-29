@@ -1,0 +1,44 @@
+{
+  "slug": "casa-sao-bento-padaria-guarulhos",
+  "name": "Casa São Bento Padaria",
+  "curatedName": "Casa São Bento Padaria",
+  "city": "Guarulhos",
+  "country": "Brazil",
+  "placeId": "ChIJu4PyLFJfzpQRYbpq09vqeFI",
+  "googleName": "Casa São Bento Padaria",
+  "formattedAddress": "Av. Guarulhos, 1823 - Vila Augusta, Guarulhos - SP, 07022-020, Brazil",
+  "phone": "(11) 3820-1010",
+  "internationalPhone": "+55 11 3820-1010",
+  "website": "http://www.padariasaobento.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5942757938181093985",
+  "rating": 4.6,
+  "reviewCount": 10023,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.4838284,
+    -46.542132
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:45 PM",
+    "Tuesday: 6:00 AM – 9:45 PM",
+    "Wednesday: 6:00 AM – 9:45 PM",
+    "Thursday: 6:00 AM – 9:45 PM",
+    "Friday: 6:00 AM – 9:45 PM",
+    "Saturday: 6:00 AM – 9:45 PM",
+    "Sunday: 6:00 AM – 9:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-sao-bento-padaria-guarulhos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:49.817Z"
+}

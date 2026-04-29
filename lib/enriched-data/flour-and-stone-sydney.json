@@ -1,0 +1,43 @@
+{
+  "slug": "flour-and-stone-sydney",
+  "name": "Flour and Stone",
+  "curatedName": "Flour and Stone",
+  "city": "Sydney",
+  "country": "Australia",
+  "placeId": "ChIJmxHxbxSuEmsRO46iD58uWdU",
+  "googleName": "Flour and Stone",
+  "formattedAddress": "53 Riley St, Woolloomooloo NSW 2011, Australia",
+  "phone": "(02) 8068 8818",
+  "internationalPhone": "+61 2 8068 8818",
+  "website": "https://flourandstone.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15373370063702887995",
+  "rating": 4.6,
+  "reviewCount": 1315,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.873561,
+    151.2154123
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Classic bakery serving coffee, pastries & cakes, plus sandwiches, sausage rolls & savoury pies.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flour-and-stone-sydney/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:04.500Z"
+}

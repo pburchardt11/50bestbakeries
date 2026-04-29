@@ -1,0 +1,43 @@
+{
+  "slug": "banh-nhu-y-bakery-quan-cau-giay",
+  "name": "Bánh Như Ý Bakery",
+  "curatedName": "Bánh Như Ý Bakery",
+  "city": "Quận Cầu Giấy",
+  "country": "Vietnam",
+  "placeId": "ChIJqzMhElCrNTERcpODKnqiv7g",
+  "googleName": "Bánh Như Ý Bakery",
+  "formattedAddress": "187 P. Yên Hòa, Yên Hòa, Hà Nội, Vietnam",
+  "phone": "0912 311 321",
+  "internationalPhone": "+84 912 311 321",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13312537669113451378",
+  "rating": 4.4,
+  "reviewCount": 103,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0233548,
+    105.7932734
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:30 PM",
+    "Tuesday: 6:00 AM – 11:30 PM",
+    "Wednesday: 6:00 AM – 11:30 PM",
+    "Thursday: 6:00 AM – 11:30 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:30 PM",
+    "Sunday: 6:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banh-nhu-y-bakery-quan-cau-giay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:18:23.951Z"
+}

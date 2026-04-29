@@ -1,0 +1,43 @@
+{
+  "slug": "santo-antonio-anadia",
+  "name": "Santo António",
+  "curatedName": "Santo António",
+  "city": "Anadia",
+  "country": "Portugal",
+  "placeId": "ChIJiYogaLwHIw0Ry9ybJmvXsPU",
+  "googleName": "Pastelaria Santo António",
+  "formattedAddress": "Rua de Canha 47 R/C, 3780-320 Anadia, Portugal",
+  "phone": "231 511 975",
+  "internationalPhone": "+351 231 511 975",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17703886990402641099",
+  "rating": 4.3,
+  "reviewCount": 317,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.4601408,
+    -8.458186999999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:30 PM",
+    "Tuesday: 6:00 AM – 8:30 PM",
+    "Wednesday: 6:00 AM – 8:30 PM",
+    "Thursday: 6:00 AM – 8:30 PM",
+    "Friday: 6:00 AM – 8:30 PM",
+    "Saturday: 6:00 AM – 8:30 PM",
+    "Sunday: 7:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santo-antonio-anadia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:49.016Z"
+}

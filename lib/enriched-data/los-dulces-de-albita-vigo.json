@@ -1,0 +1,44 @@
+{
+  "slug": "los-dulces-de-albita-vigo",
+  "name": "Los Dulces de Albita",
+  "curatedName": "Los Dulces de Albita",
+  "city": "Vigo",
+  "country": "Spain",
+  "placeId": "ChIJUUnpt0FiLw0RlDao3sQzeDI",
+  "googleName": "Los Dulces de Albita",
+  "formattedAddress": "R. de Luis Taboada, 14, 36201 Vigo, Pontevedra, Spain",
+  "phone": "986 07 58 71",
+  "internationalPhone": "+34 986 07 58 71",
+  "website": "https://losdulcesdealbita.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3636713619743848084",
+  "rating": 4.5,
+  "reviewCount": 363,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.2399014,
+    -8.7226909
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 1:30 PM",
+    "Wednesday: 10:00 AM – 1:30 PM, 5:30 – 9:00 PM",
+    "Thursday: 10:00 AM – 1:30 PM, 5:30 – 9:00 PM",
+    "Friday: 10:00 AM – 1:30 PM, 5:30 – 9:00 PM",
+    "Saturday: 10:30 AM – 2:00 PM, 5:30 – 9:00 PM",
+    "Sunday: 10:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/los-dulces-de-albita-vigo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:22.778Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "nakre-artisan-bakery-nilufer",
+  "name": "Nakre Artisan Bakery",
+  "curatedName": "Nakre Artisan Bakery",
+  "city": "Nilüfer",
+  "country": "Türkiye",
+  "placeId": "ChIJc0ciNgETyhQRXFuqncEwIDM",
+  "googleName": "Nakre Artisan Bakery",
+  "formattedAddress": "akaydın luxury life, Balat, Bağ Sk. sitesi no:12, 16225 Ni̇lüfer/Bursa, Türkiye",
+  "phone": "0541 112 30 16",
+  "internationalPhone": "+90 541 112 30 16",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3683998103321074524",
+  "rating": 4.9,
+  "reviewCount": 48,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.2668545,
+    28.9358979
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 9:00 PM",
+    "Saturday: 8:30 AM – 9:00 PM",
+    "Sunday: 8:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nakre-artisan-bakery-nilufer/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:58.045Z"
+}

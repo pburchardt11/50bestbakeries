@@ -1,0 +1,32 @@
+{
+  "slug": "hacioglu-bak",
+  "name": "Hacioglu",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJl1nbbLNFO0ARdgdwVCDiAYg",
+  "googleName": "Hacıoğlu Restoran",
+  "formattedAddress": "HWW3+6HM, Unnamed Road, Salyan, Azerbaijan",
+  "phone": "050 299 57 44",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9800362892618368886",
+  "rating": 4.4,
+  "reviewCount": 607,
+  "coords": [
+    39.5955926,
+    48.9039127
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hacioglu-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:36:19.928Z"
+}

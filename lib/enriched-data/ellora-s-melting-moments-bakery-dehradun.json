@@ -1,0 +1,43 @@
+{
+  "slug": "ellora-s-melting-moments-bakery-dehradun",
+  "name": "Ellora's Melting Moments Bakery",
+  "curatedName": "Ellora's Melting Moments Bakery",
+  "city": "Dehradun",
+  "country": "India",
+  "placeId": "ChIJ87L_kMMpCTkRHvpwLlt_fZg",
+  "googleName": "Ellora's Melting Moments Bakery",
+  "formattedAddress": "29, Rajpur Rd, Dobhalwala, Chukkuwala, Dehradun, Uttarakhand 248001, India",
+  "phone": "097199 91953",
+  "internationalPhone": "+91 97199 91953",
+  "website": "http://www.elloras.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10988078695451785758",
+  "rating": 4.4,
+  "reviewCount": 9302,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.3298052,
+    78.0470058
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ellora-s-melting-moments-bakery-dehradun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:26.724Z"
+}

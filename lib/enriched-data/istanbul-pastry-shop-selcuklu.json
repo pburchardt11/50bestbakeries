@@ -1,0 +1,43 @@
+{
+  "slug": "istanbul-pastry-shop-selcuklu",
+  "name": "Istanbul pastry shop",
+  "curatedName": "Istanbul pastry shop",
+  "city": "Selçuklu",
+  "country": "Türkiye",
+  "placeId": "ChIJC0rRb1eO0BQRH5wAD13OsLs",
+  "googleName": "Istanbul pastry shop",
+  "formattedAddress": "No:, Şeyh Şamil, Doç. Dr. Halil Ürün Cd. No:27/A, 42250 Selçuklu/Konya, Türkiye",
+  "phone": "(0332) 265 44 55",
+  "internationalPhone": "+90 332 265 44 55",
+  "website": "http://www.istanbul-pastanesi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13524536580072578079",
+  "rating": 4.2,
+  "reviewCount": 2743,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.9477903,
+    32.4952351
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 AM",
+    "Tuesday: 7:00 AM – 1:00 AM",
+    "Wednesday: 7:00 AM – 1:00 AM",
+    "Thursday: 7:00 AM – 1:00 AM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 7:00 AM – 1:00 AM",
+    "Sunday: 7:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/istanbul-pastry-shop-selcuklu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:42.742Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "maria-dos-paes-padaria-e-confeitaria-osasco",
+  "name": "Maria dos Pães Padaria e Confeitaria",
+  "curatedName": "Maria dos Pães Padaria e Confeitaria",
+  "city": "Osasco",
+  "country": "Brazil",
+  "placeId": "ChIJWVvsfyD_zpQRW1erPnQIBa4",
+  "googleName": "Maria dos Pães Padaria e Confeitaria",
+  "formattedAddress": "R. João Antônio Prado, 114 - Jardim das Flores, Osasco - SP, 06112-000, Brazil",
+  "phone": "(11) 2620-5560",
+  "internationalPhone": "+55 11 2620-5560",
+  "website": "https://www.lojalocal.com/amstel/31327960000194",
+  "googleMapsUrl": "https://maps.google.com/?cid=12539438032843659099",
+  "rating": 4.7,
+  "reviewCount": 3397,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5410721,
+    -46.7949456
+  ],
+  "openingHours": [
+    "Monday: 5:40 AM – 10:00 PM",
+    "Tuesday: 5:40 AM – 10:00 PM",
+    "Wednesday: 5:40 AM – 10:00 PM",
+    "Thursday: 5:40 AM – 10:00 PM",
+    "Friday: 5:40 AM – 10:00 PM",
+    "Saturday: 5:40 AM – 10:00 PM",
+    "Sunday: 5:40 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maria-dos-paes-padaria-e-confeitaria-osasco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:10.518Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bakers-club-botswana-gaborone",
+  "name": "Bakers'Club Botswana",
+  "city": "Gaborone",
+  "country": "Botswana",
+  "placeId": "ChIJXdDQD4tbux4RfhDzNP1LX9k",
+  "googleName": "Gaborone Club",
+  "formattedAddress": "Okwa, Gaborone, Botswana",
+  "phone": "74 212 519",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15663321579905028222",
+  "rating": 4.2,
+  "reviewCount": 132,
+  "coords": [
+    -24.6668359,
+    25.9437877
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-club-botswana-gaborone/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:19:00.412Z"
+}

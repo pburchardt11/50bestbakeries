@@ -1,0 +1,43 @@
+{
+  "slug": "lebrel-panaderia-la-plata",
+  "name": "Lebrel Panaderia",
+  "curatedName": "Lebrel Panaderia",
+  "city": "La Plata",
+  "country": "Argentina",
+  "placeId": "ChIJuSJW4uTnopUR3qabMNQBeRg",
+  "googleName": "Lebrel Panaderia",
+  "formattedAddress": "C. 11 1250, B1900 La Plata, Provincia de Buenos Aires, Argentina",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://instagram.com/lebrel.panaderia",
+  "googleMapsUrl": "https://maps.google.com/?cid=1763442739952461534",
+  "rating": 4.4,
+  "reviewCount": 1155,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.9228617,
+    -57.94789
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 9:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lebrel-panaderia-la-plata/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:48.675Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "monginis-al-abbasiyah",
+  "name": "Monginis",
+  "city": "Al ‘Abbāsīyah",
+  "country": "Egypt",
+  "placeId": "ChIJraz2wH1GWBQRwy5oeyitZH4",
+  "googleName": "Monginis Egypt",
+  "formattedAddress": "King Faisal St, Kafr Tohormos /B, Boulaq Al Dakrour, Giza Governorate 3710486, Egypt",
+  "phone": "02 37804088",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9107594735830707907",
+  "rating": 4.2,
+  "reviewCount": 848,
+  "coords": [
+    30.0109854,
+    31.18544099999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 1:45 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/monginis-al-abbasiyah/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:01:23.933Z"
+}

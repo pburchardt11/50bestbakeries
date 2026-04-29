@@ -1,0 +1,43 @@
+{
+  "slug": "pastelerias-esperanza-guadalajara",
+  "name": "Pastelerias Esperanza",
+  "curatedName": "Pastelerias Esperanza",
+  "city": "Guadalajara",
+  "country": "Mexico",
+  "placeId": "ChIJK0egWfqxKIQRlO1WBhGglZM",
+  "googleName": "Pastelerías Esperanza",
+  "formattedAddress": "Av. 16 de Septiembre 555, Mexicaltzingo, 44180 Guadalajara, Jal., Mexico",
+  "phone": "55 6285 0400 ext. 9311",
+  "internationalPhone": "+52 55 6285 0400 ext. 9311",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10634582090086542740",
+  "rating": 4.5,
+  "reviewCount": 2514,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.6677551,
+    -103.3478824
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelerias-esperanza-guadalajara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:29.955Z"
+}

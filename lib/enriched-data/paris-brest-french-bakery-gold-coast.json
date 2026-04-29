@@ -1,0 +1,44 @@
+{
+  "slug": "paris-brest-french-bakery-gold-coast",
+  "name": "Paris Brest French Bakery",
+  "curatedName": "Paris Brest French Bakery",
+  "city": "Gold Coast",
+  "country": "Australia",
+  "placeId": "ChIJkyEcqYEDkWsR1V7fTQ14DU4",
+  "googleName": "Paris Brest French Bakery",
+  "formattedAddress": "1073 Gold Coast Hwy, Palm Beach QLD 4221, Australia",
+  "phone": "0415 775 743",
+  "internationalPhone": "+61 415 775 743",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5624283508192009941",
+  "rating": 4.8,
+  "reviewCount": 315,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -28.1200599,
+    153.4723219
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 PM",
+    "Tuesday: 6:00 AM – 2:00 PM",
+    "Wednesday: 6:00 AM – 2:00 PM",
+    "Thursday: 6:00 AM – 2:00 PM",
+    "Friday: 6:00 AM – 2:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: 6:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-brest-french-bakery-gold-coast/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:22.491Z"
+}

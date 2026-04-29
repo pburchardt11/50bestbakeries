@@ -1,0 +1,43 @@
+{
+  "slug": "mother-dough-bakery-singapore",
+  "name": "Mother Dough Bakery",
+  "curatedName": "Mother Dough Bakery",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJm8vUOWEZ2jERpqmzPCIfbEE",
+  "googleName": "Mother Dough Bakery",
+  "formattedAddress": "3 Jln Kledek, Singapore 199259",
+  "phone": "6909 6604",
+  "internationalPhone": "+65 6909 6604",
+  "website": "https://www.motherdough.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4714177141857823142",
+  "rating": 4.5,
+  "reviewCount": 632,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.3034304,
+    103.8589605
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mother-dough-bakery-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:30.216Z"
+}

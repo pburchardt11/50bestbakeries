@@ -1,0 +1,45 @@
+{
+  "slug": "backer-gortz-bad-durkheim",
+  "name": "Bäcker Görtz",
+  "curatedName": "Bäcker Görtz",
+  "city": "Bad Dürkheim",
+  "country": "Germany",
+  "placeId": "ChIJsTZ2bpU3lkcRaTGjFsAgK7Q",
+  "googleName": "Bäcker Görtz",
+  "formattedAddress": "Sankt-Michaels-Allee 10, 67098 Bad Dürkheim, Germany",
+  "phone": "06322 9897037",
+  "internationalPhone": "+49 6322 9897037",
+  "website": "https://www.baeckergoertz.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12982506360211190121",
+  "rating": 4.3,
+  "reviewCount": 944,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.464895,
+    8.1698577
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: 5:30 AM – 7:00 PM",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: 5:30 AM – 7:00 PM",
+    "Saturday: 5:30 AM – 7:00 PM",
+    "Sunday: 7:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backer-gortz-bad-durkheim/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:21:44.291Z"
+}

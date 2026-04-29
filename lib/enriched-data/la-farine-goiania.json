@@ -1,0 +1,43 @@
+{
+  "slug": "la-farine-goiania",
+  "name": "La Farine",
+  "curatedName": "La Farine",
+  "city": "Goiânia",
+  "country": "Brazil",
+  "placeId": "ChIJkebd4w3xXpMRh_b0N83fYwk",
+  "googleName": "La Farine",
+  "formattedAddress": "R. 115, 1296 - St. Sul, Goiânia - GO, 74085-310, Brazil",
+  "phone": "(62) 3432-6294",
+  "internationalPhone": "+55 62 3432-6294",
+  "website": "https://www.instagram.com/lafarine.go/",
+  "googleMapsUrl": "https://maps.google.com/?cid=676630441535796871",
+  "rating": 4.7,
+  "reviewCount": 194,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -16.6977161,
+    -49.2468048
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-farine-goiania/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:28.162Z"
+}

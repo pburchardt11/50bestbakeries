@@ -1,0 +1,32 @@
+{
+  "slug": "madona-banja-luka",
+  "name": "Madona",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJWxkoHQADXkcRgs56C0RPJkI",
+  "googleName": "Pekara Madona",
+  "formattedAddress": "Q57R+55Q, Cara Lazara 26, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4766584409287216770",
+  "rating": 3.7,
+  "reviewCount": 13,
+  "coords": [
+    44.7629509,
+    17.1904568
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/madona-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:17:04.582Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "obelia-oslo",
+  "name": "Obelia",
+  "curatedName": "Obelia",
+  "city": "Oslo",
+  "country": "Norway",
+  "placeId": "ChIJlzWKPLhvQUYR6SYFoqRuhmE",
+  "googleName": "Obelia",
+  "formattedAddress": "Åkebergveien 42, 0650 Oslo, Norway",
+  "phone": "48 68 55 24",
+  "internationalPhone": "+47 48 68 55 24",
+  "website": "https://www.obelia.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7027425921930176233",
+  "rating": 5,
+  "reviewCount": 109,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.90959429999999,
+    10.7763713
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/obelia-oslo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:34.100Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "len-bakeries-bw-gaborone",
+  "name": "Len Bakeries BW",
+  "city": "Gaborone",
+  "country": "Botswana",
+  "placeId": "ChIJicwOLRhbux4RpP_YPsxRzRI",
+  "googleName": "LEN BAKERIES",
+  "formattedAddress": "Plot 4773, Gabane, Botswana",
+  "phone": "72 479 887",
+  "website": "https://www.youtube.com/channel/UCJ-p6C_PXaQR1GnTGull-tw",
+  "googleMapsUrl": "https://maps.google.com/?cid=1354829000577974180",
+  "rating": 4.9,
+  "reviewCount": 46,
+  "coords": [
+    -24.6517371,
+    25.8070465
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 4:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/len-bakeries-bw-gaborone/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:18:43.924Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-caprice-bouira",
+  "name": "Patisserie Caprice",
+  "city": "Bouira",
+  "country": "Algeria",
+  "placeId": "ChIJF0wJCPQvjBIRjybBwjSBb_o",
+  "googleName": "Pâtisserie Caprice",
+  "formattedAddress": "Bouira, Algeria",
+  "phone": "0561 65 20 58",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18045784295502587535",
+  "rating": 4.5,
+  "reviewCount": 21,
+  "coords": [
+    36.37837469999999,
+    3.8897698
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 5:00 AM – 8:00 PM",
+    "Sunday: 5:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-caprice-bouira/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:16:14.643Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-alvorada-praia-grande",
+  "name": "Padaria Alvorada",
+  "curatedName": "Padaria Alvorada",
+  "city": "Praia Grande",
+  "country": "Brazil",
+  "placeId": "ChIJdx-VQbEdzpQRrA0FvaBIAGo",
+  "googleName": "Padaria Alvorada",
+  "formattedAddress": "Av. Pres. Costa e Silva, 367 - Boqueirão, Praia Grande - SP, 11701-000, Brazil",
+  "phone": "(13) 3491-1411",
+  "internationalPhone": "+55 13 3491-1411",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7638184823223553452",
+  "rating": 4.5,
+  "reviewCount": 2821,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -24.0100612,
+    -46.41443659999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-alvorada-praia-grande/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:57.427Z"
+}

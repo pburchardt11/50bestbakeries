@@ -1,0 +1,32 @@
+{
+  "slug": "delicias-da-casa-sao-vicente",
+  "name": "Delícias da Casa",
+  "city": "São Vicente",
+  "country": "Cape Verde",
+  "placeId": "ChIJ7Uqg0_QfTwkROJIJzWs8IuM",
+  "googleName": "Delícias da Casa",
+  "formattedAddress": "rua 4 a esquerda, Escola primária de Ribeira de Craquinha, Mindelo, Cabo Verde",
+  "phone": "953 56 87",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16366710429516927544",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    16.8704523,
+    -24.977635
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:30 PM",
+    "Tuesday: 8:00 AM – 11:30 PM",
+    "Wednesday: 8:00 AM – 11:30 PM",
+    "Thursday: 8:00 AM – 11:30 PM",
+    "Friday: 8:00 AM – 11:30 PM",
+    "Saturday: 8:00 AM – 11:30 PM",
+    "Sunday: 8:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delicias-da-casa-sao-vicente/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:40:44.979Z"
+}

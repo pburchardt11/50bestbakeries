@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-luigi-crikvenica",
+  "name": "Pekara Luigi",
+  "city": "Crikvenica",
+  "country": "Croatia",
+  "placeId": "ChIJ3S9JU917Y0cRula2B3_vz34",
+  "googleName": "Pekara Luigi",
+  "formattedAddress": "Trg Palih Boraca 25, 51266, Selce, Croatia",
+  "phone": "051 764 605",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9137785497827301050",
+  "rating": 3.5,
+  "reviewCount": 203,
+  "coords": [
+    45.15749479999999,
+    14.7197151
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-luigi-crikvenica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:49:59.808Z"
+}

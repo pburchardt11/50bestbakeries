@@ -1,0 +1,45 @@
+{
+  "slug": "toastic-bakery-riyadh",
+  "name": "Toastic Bakery",
+  "curatedName": "Toastic Bakery",
+  "city": "Riyadh",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJJ-F0_5f9Lj4RIFJFUlKntlI",
+  "googleName": "توستيك بيكري Toastic Bakery",
+  "formattedAddress": "3928 Omar Al Tamimi, At Taawun, Riyadh 12476, Saudi Arabia",
+  "phone": "053 527 7577",
+  "internationalPhone": "+966 53 527 7577",
+  "website": "https://instagram.com/toasticsa?igshid=wflzx412kv8q",
+  "googleMapsUrl": "https://maps.google.com/?cid=5960135128880861728",
+  "rating": 4.2,
+  "reviewCount": 2057,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.771151,
+    46.7058836
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:00 AM",
+    "Tuesday: 6:30 AM – 12:00 AM",
+    "Wednesday: 6:30 AM – 12:00 AM",
+    "Thursday: 6:30 AM – 12:00 AM",
+    "Friday: 12:30 PM – 12:00 AM",
+    "Saturday: 6:30 AM – 12:00 AM",
+    "Sunday: 6:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/toastic-bakery-riyadh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:14.466Z"
+}

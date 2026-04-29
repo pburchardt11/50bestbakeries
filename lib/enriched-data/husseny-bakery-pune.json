@@ -1,0 +1,43 @@
+{
+  "slug": "husseny-bakery-pune",
+  "name": "Husseny Bakery",
+  "curatedName": "Husseny Bakery",
+  "city": "Pune",
+  "country": "India",
+  "placeId": "ChIJJcpTQk_AwjsRU4KPB3O3924",
+  "googleName": "Husseny Bakery",
+  "formattedAddress": "662, Taboot St, Opp. Cakes 'n' Coffee, Camp, Pune, Maharashtra 411001, India",
+  "phone": "081492 35933",
+  "internationalPhone": "+91 81492 35933",
+  "website": "https://www.hussenybakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7996061368095572563",
+  "rating": 4.3,
+  "reviewCount": 923,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.5150529,
+    73.8778531
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:30 PM",
+    "Tuesday: 6:00 AM – 11:30 PM",
+    "Wednesday: 6:00 AM – 11:30 PM",
+    "Thursday: 6:00 AM – 11:30 PM",
+    "Friday: 6:00 AM – 11:30 PM",
+    "Saturday: 6:00 AM – 11:30 PM",
+    "Sunday: 6:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/husseny-bakery-pune/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:26.729Z"
+}

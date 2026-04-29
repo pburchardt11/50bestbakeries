@@ -1,0 +1,32 @@
+{
+  "slug": "megainglesas-alangasi",
+  "name": "Megainglesas",
+  "city": "Alangasí",
+  "country": "Ecuador",
+  "placeId": "ChIJJcXjaWK91ZERuvLXmi2zmgw",
+  "googleName": "Megainglesas (Panaderia)",
+  "formattedAddress": "Antonio José de Sucre 835, Quito, Ecuador",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=908235283321320122",
+  "rating": 4.1,
+  "reviewCount": 7,
+  "coords": [
+    -0.308591,
+    -78.41520469999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:30 PM",
+    "Tuesday: 6:30 AM – 9:30 PM",
+    "Wednesday: 6:30 AM – 9:30 PM",
+    "Thursday: 6:30 AM – 9:30 PM",
+    "Friday: 6:30 AM – 9:30 PM",
+    "Saturday: 6:30 AM – 9:30 PM",
+    "Sunday: 6:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/megainglesas-alangasi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:59:26.954Z"
+}

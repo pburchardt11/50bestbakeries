@@ -1,0 +1,43 @@
+{
+  "slug": "creme-caramel-pastry-santiago",
+  "name": "Creme Caramel Pastry",
+  "curatedName": "Creme Caramel Pastry",
+  "city": "Santiago",
+  "country": "Chile",
+  "placeId": "ChIJl3CbX6vFYpYR-XSKWNR2oWI",
+  "googleName": "Creme Caramel Pastry",
+  "formattedAddress": "Av. Ricardo Cumming 109, 8340507 Santiago, Región Metropolitana, Chile",
+  "phone": "(2) 2609 2248",
+  "internationalPhone": "+56 2 2609 2248",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7107092341357966585",
+  "rating": 4.7,
+  "reviewCount": 242,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.4435759,
+    -70.6677448
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/creme-caramel-pastry-santiago/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:35.137Z"
+}

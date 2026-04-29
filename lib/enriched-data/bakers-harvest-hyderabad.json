@@ -1,0 +1,43 @@
+{
+  "slug": "bakers-harvest-hyderabad",
+  "name": "Bakers Harvest",
+  "curatedName": "Bakers Harvest",
+  "city": "Hyderabad",
+  "country": "India",
+  "placeId": "ChIJ3avEdsKTyzsRF5mzPDYPU1A",
+  "googleName": "Bakers Harvest",
+  "formattedAddress": "1 & 2, Meenakshi Bamboo's, Commercial Complex, near Ramky Tower's, Bamboos, Phase 2, Gachibowli, Hyderabad, Telangana 500032, India",
+  "phone": "070368 44444",
+  "internationalPhone": "+91 70368 44444",
+  "website": "https://bakersharvest.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5787986671722273047",
+  "rating": 4.2,
+  "reviewCount": 3778,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    17.4436166,
+    78.3683262
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-harvest-hyderabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:03.696Z"
+}

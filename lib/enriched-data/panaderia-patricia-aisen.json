@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-patricia-aisen",
+  "name": "Panaderia Patricia",
+  "city": "Aisén",
+  "country": "Chile",
+  "placeId": "ChIJZ6oivZjQjL0RPQ-lWMpJYjM",
+  "googleName": "Panaderia Patricia",
+  "formattedAddress": "Eleuterio Ramírez 1478, 6000566 Puerto Aysen, Aysén, Chile",
+  "phone": "(67) 233 3306",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3702602977071402813",
+  "rating": 4,
+  "reviewCount": 47,
+  "coords": [
+    -45.4007825,
+    -72.6881327
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-patricia-aisen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:42:41.118Z"
+}

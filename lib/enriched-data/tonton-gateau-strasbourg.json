@@ -1,0 +1,45 @@
+{
+  "slug": "tonton-gateau-strasbourg",
+  "name": "Tonton Gateau",
+  "curatedName": "Tonton Gateau",
+  "city": "Strasbourg",
+  "country": "France",
+  "placeId": "ChIJx-uG0kHJlkcRS8uYDpetUTE",
+  "googleName": "Tonton Gâteau",
+  "formattedAddress": "11 Rue des Bouchers, 67000 Strasbourg, France",
+  "phone": "03 67 97 19 67",
+  "internationalPhone": "+33 3 67 97 19 67",
+  "website": "https://www.tontongateau.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3553812445268593483",
+  "rating": 4.7,
+  "reviewCount": 1146,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.5783861,
+    7.751338
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Relaxed cafe with refined sweets, plus lunch & brunch dishes like salads & homemade granola.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tonton-gateau-strasbourg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:59.151Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "sweetc-hut-quan-thanh-xuan",
+  "name": "Sweetc Hut",
+  "curatedName": "Sweetc Hut",
+  "city": "Quận Thanh Xuân",
+  "country": "Vietnam",
+  "placeId": "ChIJS-SIeVytNTERMaIgwnlkpqA",
+  "googleName": "Sweetc Hut",
+  "formattedAddress": "49 Ng. 93 P. Vương Thừa Vũ, Khương Trung, Phương Liệt, Hà Nội, Vietnam",
+  "phone": "0988 707 401",
+  "internationalPhone": "+84 988 707 401",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11576050366313177649",
+  "rating": 4.3,
+  "reviewCount": 348,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.9987041,
+    105.8229633
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweetc-hut-quan-thanh-xuan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:19:47.592Z"
+}

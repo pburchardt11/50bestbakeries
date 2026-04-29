@@ -1,0 +1,32 @@
+{
+  "slug": "paix-plus-bafoussam",
+  "name": "Paix Plus",
+  "city": "Bafoussam",
+  "country": "Cameroon",
+  "placeId": "ChIJCX18PQqQXxARqCzhOSdUsMA",
+  "googleName": "Paix Plus",
+  "formattedAddress": "FC9C+PR6, Ave Pachong Adolf, Bafoussam, Cameroon",
+  "phone": null,
+  "website": "https://boulangerielapaix.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13884690178634755240",
+  "rating": 3.5,
+  "reviewCount": 149,
+  "coords": [
+    5.4692802,
+    10.4220284
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paix-plus-bafoussam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:34:32.901Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "art-is-in-bakery-ottawa",
+  "name": "Art Is In Bakery",
+  "curatedName": "Art Is In Bakery",
+  "city": "Ottawa",
+  "country": "Canada",
+  "placeId": "ChIJL2UZT0YEzkwRpi0VedtOC98",
+  "googleName": "Art-Is-In Bakery",
+  "formattedAddress": "250 City Centre Ave #112, Ottawa, ON K1R 6K7, Canada",
+  "phone": "(613) 695-1226",
+  "internationalPhone": "+1 613-695-1226",
+  "website": "http://www.artisinbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16072026399737982374",
+  "rating": 4.2,
+  "reviewCount": 3353,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4079638,
+    -75.7185664
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 2:00 PM",
+    "Tuesday: 8:30 AM – 2:00 PM",
+    "Wednesday: 8:30 AM – 2:00 PM",
+    "Thursday: 8:30 AM – 8:30 PM",
+    "Friday: 8:30 AM – 8:30 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Stylish, contemporary bakery-cafe offering bread, pastries & baguettes, plus breakfast & sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/art-is-in-bakery-ottawa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:12.245Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "roma-confeitaria-e-cafe-jundiai",
+  "name": "Romã Confeitaria e Café",
+  "curatedName": "Romã Confeitaria e Café",
+  "city": "Jundiaí",
+  "country": "Brazil",
+  "placeId": "ChIJCRYmdOAnz5QRuqqPzSRVR0g",
+  "googleName": "Romã Confeitaria e Café",
+  "formattedAddress": "R. Profa. Elza Facca Martins Bonilha, 70 - Vila Maria Luiza, Jundiaí - SP, 13209-300, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://instagram.com/roma_confeitaria?igshid=MzRlODBiNWFlZA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=5208225110633196218",
+  "rating": 4.9,
+  "reviewCount": 256,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.1801713,
+    -46.90291999999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: 8:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roma-confeitaria-e-cafe-jundiai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:44.967Z"
+}

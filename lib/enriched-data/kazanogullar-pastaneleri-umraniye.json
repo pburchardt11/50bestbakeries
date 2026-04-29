@@ -1,0 +1,43 @@
+{
+  "slug": "kazanogullar-pastaneleri-umraniye",
+  "name": "Kazanoğulları Pastaneleri",
+  "curatedName": "Kazanoğulları Pastaneleri",
+  "city": "Ümraniye",
+  "country": "Türkiye",
+  "placeId": "ChIJl_u6m_DIyhQRCmd9O-Gdx0s",
+  "googleName": "Kazanoğulları Pastaneleri",
+  "formattedAddress": "Yamanevler, Küçüksu Cd. No:14, 34768 Ümraniye/İstanbul, Türkiye",
+  "phone": "(0216) 632 92 34",
+  "internationalPhone": "+90 216 632 92 34",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5460506663901292298",
+  "rating": 4,
+  "reviewCount": 411,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0256653,
+    29.1012674
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kazanogullar-pastaneleri-umraniye/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:01:22.753Z"
+}

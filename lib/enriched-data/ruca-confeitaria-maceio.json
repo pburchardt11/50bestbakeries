@@ -1,0 +1,43 @@
+{
+  "slug": "ruca-confeitaria-maceio",
+  "name": "Ruca Confeitaria",
+  "curatedName": "Ruca Confeitaria",
+  "city": "Maceió",
+  "country": "Brazil",
+  "placeId": "ChIJqVAPcqlFAQcRvbXb1m6IXPU",
+  "googleName": "Ruca Confeitaria",
+  "formattedAddress": "R. Desportista Humberto Guimarães, 403 - Ponta Verde, Maceió - AL, 57035-030, Brazil",
+  "phone": "(82) 3313-2126",
+  "internationalPhone": "+55 82 3313-2126",
+  "website": "http://instagram.com/rucaconfeitaria",
+  "googleMapsUrl": "https://maps.google.com/?cid=17680156246782227901",
+  "rating": 4.7,
+  "reviewCount": 2429,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -9.6626155,
+    -35.7028875
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ruca-confeitaria-maceio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:37.341Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "trigalle-pao-e-cafe-uberaba",
+  "name": "Trigalle Pão e Café",
+  "curatedName": "Trigalle Pão e Café",
+  "city": "Uberaba",
+  "country": "Brazil",
+  "placeId": "ChIJmyzW1DTQupQRbRlMXO3fTpo",
+  "googleName": "Trigalle Pão e Café",
+  "formattedAddress": "Av. Santos Dumont, 155 - Centro, Uberaba - MG, 38010-370, Brazil",
+  "phone": "(34) 3333-5239",
+  "internationalPhone": "+55 34 3333-5239",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11119070740573067629",
+  "rating": 4.5,
+  "reviewCount": 2047,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.7473091,
+    -47.93898110000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/trigalle-pao-e-cafe-uberaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:55.761Z"
+}

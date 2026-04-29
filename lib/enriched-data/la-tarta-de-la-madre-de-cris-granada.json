@@ -1,0 +1,43 @@
+{
+  "slug": "la-tarta-de-la-madre-de-cris-granada",
+  "name": "La Tarta de la Madre de Cris",
+  "curatedName": "La Tarta de la Madre de Cris",
+  "city": "Granada",
+  "country": "Spain",
+  "placeId": "ChIJQzNtM778cQ0RKKqYq5el8Fw",
+  "googleName": "La tarta de la madre de Cris",
+  "formattedAddress": "Pl. Pescadería, 7, Centro, 18001 Granada, Spain",
+  "phone": "640 60 72 58",
+  "internationalPhone": "+34 640 60 72 58",
+  "website": "https://www.latartadelamadredecris.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6697034716737481256",
+  "rating": 4.7,
+  "reviewCount": 1387,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.1756817,
+    -3.6006551
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-tarta-de-la-madre-de-cris-granada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:27.815Z"
+}

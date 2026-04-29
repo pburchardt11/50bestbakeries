@@ -1,0 +1,45 @@
+{
+  "slug": "guillaume-montreal",
+  "name": "Guillaume",
+  "curatedName": "Guillaume",
+  "city": "Montréal",
+  "country": "Canada",
+  "placeId": "ChIJDabv4X0ZyUwRJrv2lBqRwuQ",
+  "googleName": "Guillaume",
+  "formattedAddress": "5170 Boul. Saint-Laurent, Montréal, QC H2T 1R8, Canada",
+  "phone": "(514) 507-3199",
+  "internationalPhone": "+1 514-507-3199",
+  "website": "https://www.guillau.me/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16483897129483811622",
+  "rating": 4.6,
+  "reviewCount": 1818,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5235046,
+    -73.5942927
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Throwback bakery offering traditional French breads, plus sandwiches & tea, in a sleek space.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/guillaume-montreal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:55.485Z"
+}

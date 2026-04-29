@@ -1,0 +1,45 @@
+{
+  "slug": "la-panaderia-bakery-cafe-san-antonio",
+  "name": "La Panadería Bakery Cafe",
+  "curatedName": "La Panadería Bakery Cafe",
+  "city": "San Antonio",
+  "country": "United States",
+  "placeId": "ChIJr5bioFRfXIYRS_8NX9QuLnc",
+  "googleName": "La Panadería Bakery Café",
+  "formattedAddress": "301 E Houston St, San Antonio, TX 78205, USA",
+  "phone": "(210) 592-6264",
+  "internationalPhone": "+1 210-592-6264",
+  "website": "http://www.lapanaderia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8587853029104811851",
+  "rating": 4.7,
+  "reviewCount": 6552,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.42658179999999,
+    -98.4895669
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Specialty bakery focusing on long-fermented Latin American breads, plus coffee & other light fare.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-panaderia-bakery-cafe-san-antonio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:55.692Z"
+}

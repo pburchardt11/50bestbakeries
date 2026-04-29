@@ -1,0 +1,32 @@
+{
+  "slug": "mandy-s-french-bakery-nassau",
+  "name": "Mandy's French Bakery",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJEQSEvKVpXz4RAbrKkzpMfYA",
+  "googleName": "Mandy's Bakery",
+  "formattedAddress": "21 Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+  "phone": "04 572 9433",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9258640223414958593",
+  "rating": 4.7,
+  "reviewCount": 250,
+  "coords": [
+    25.1945552,
+    55.2816646
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 1:00 AM",
+    "Tuesday: 8:00 AM – 1:00 AM",
+    "Wednesday: 8:00 AM – 1:00 AM",
+    "Thursday: 8:00 AM – 1:00 AM",
+    "Friday: 8:00 AM – 1:30 AM",
+    "Saturday: 8:00 AM – 1:30 AM",
+    "Sunday: 8:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mandy-s-french-bakery-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:41:02.368Z"
+}

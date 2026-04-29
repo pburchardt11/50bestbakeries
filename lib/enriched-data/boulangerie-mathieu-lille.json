@@ -1,0 +1,44 @@
+{
+  "slug": "boulangerie-mathieu-lille",
+  "name": "Boulangerie Mathieu",
+  "curatedName": "Boulangerie Mathieu",
+  "city": "Lille",
+  "country": "France",
+  "placeId": "ChIJ5fwYaY_VwkcR2Q9NYwjKWrg",
+  "googleName": "Boulangerie Mathieu",
+  "formattedAddress": "82 Rue du Molinel, 59800 Lille, France",
+  "phone": "03 20 55 66 57",
+  "internationalPhone": "+33 3 20 55 66 57",
+  "website": "https://laboulangeriemathieu.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13284152188257243097",
+  "rating": 4.4,
+  "reviewCount": 1300,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.634136,
+    3.0667803
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-mathieu-lille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:20.731Z"
+}

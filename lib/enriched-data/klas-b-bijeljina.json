@@ -1,0 +1,32 @@
+{
+  "slug": "klas-b-bijeljina",
+  "name": "Klas B",
+  "city": "Bijeljina",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJ8aHXjiLpW0cRom09OfgiCgQ",
+  "googleName": "Pekara Klas b",
+  "formattedAddress": "P6W2+2H9, 27. Marta, Bijeljina 76300, Bosnia and Herzegovina",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=291083575426379170",
+  "rating": 4.5,
+  "reviewCount": 54,
+  "coords": [
+    44.7450487,
+    19.201481
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/klas-b-bijeljina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:17:56.527Z"
+}

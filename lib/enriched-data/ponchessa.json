@@ -1,0 +1,32 @@
+{
+  "slug": "ponchessa",
+  "name": "Ponchessa",
+  "city": "Гродна",
+  "country": "Belarus",
+  "placeId": "ChIJaUveoKTX30YRJgmGzwPUdiA",
+  "googleName": "Ponchessa",
+  "formattedAddress": "3 этаж, проспект Янки Купалы 87, Hrodna, Hrodna Region 230026, Belarus",
+  "phone": "8 029 222-15-24",
+  "website": "https://ponchessa.foodpicasso.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2339290169297209638",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    53.6495047,
+    23.8547228
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 9:30 PM",
+    "Tuesday: 10:30 AM – 9:30 PM",
+    "Wednesday: 10:30 AM – 9:30 PM",
+    "Thursday: 10:30 AM – 9:30 PM",
+    "Friday: 10:30 AM – 9:30 PM",
+    "Saturday: 10:30 AM – 9:30 PM",
+    "Sunday: 10:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ponchessa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:59:36.026Z"
+}

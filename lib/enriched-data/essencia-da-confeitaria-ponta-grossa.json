@@ -1,0 +1,45 @@
+{
+  "slug": "essencia-da-confeitaria-ponta-grossa",
+  "name": "Essência da Confeitaria",
+  "curatedName": "Essência da Confeitaria",
+  "city": "Ponta Grossa",
+  "country": "Brazil",
+  "placeId": "ChIJyS93d-sb6JQRfhYX9Le3bKw",
+  "googleName": "Essência da Confeitaria",
+  "formattedAddress": "R. Alm. Barroso, 1770 - Uvaranas, Ponta Grossa - PR, 84020-030, Brazil",
+  "phone": "(42) 98424-4337",
+  "internationalPhone": "+55 42 98424-4337",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12424507472710407806",
+  "rating": 4.6,
+  "reviewCount": 1087,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.0773722,
+    -50.1274788
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/essencia-da-confeitaria-ponta-grossa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:05.906Z"
+}

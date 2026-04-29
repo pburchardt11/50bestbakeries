@@ -1,0 +1,32 @@
+{
+  "slug": "chez-sophie",
+  "name": "Chez Sophie",
+  "city": "أمواج",
+  "country": "Bahrain",
+  "placeId": "ChIJg5iUGpOnST4Rc74XAcOkydQ",
+  "googleName": "Chez Sophie",
+  "formattedAddress": "Rd No 5715, Muharraq, Bahrain",
+  "phone": "1603 0912",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15332967563803475571",
+  "rating": 4.1,
+  "reviewCount": 280,
+  "coords": [
+    26.2858779,
+    50.66591620000001
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chez-sophie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:45:45.355Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "levain-bakery-brooklyn",
+  "name": "Levain Bakery",
+  "curatedName": "Levain Bakery",
+  "city": "Brooklyn",
+  "country": "United States",
+  "placeId": "ChIJqxHvrMRZwokRatsjuumbEtQ",
+  "googleName": "Levain Bakery",
+  "formattedAddress": "164 N 4th St, Brooklyn, NY 11211, USA",
+  "phone": "(917) 464-3785",
+  "internationalPhone": "+1 917-464-3785",
+  "website": "https://levainbakery.com/pages/williamsburg",
+  "googleMapsUrl": "https://maps.google.com/?cid=15281447913774111594",
+  "rating": 4.8,
+  "reviewCount": 1471,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7157809,
+    -73.9590537
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "A variety of sizeable cookies, homemade bread & baked treats are the draw at this cozy offshoot.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/levain-bakery-brooklyn/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:08:52.655Z"
+}

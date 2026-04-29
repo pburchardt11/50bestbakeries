@@ -1,0 +1,43 @@
+{
+  "slug": "dubone-panaderia-y-pasteleria-artesanal-zapopan",
+  "name": "Dubone Panadería y Pastelería Artesanal",
+  "curatedName": "Dubone Panadería y Pastelería Artesanal",
+  "city": "Zapopan",
+  "country": "Mexico",
+  "placeId": "ChIJ7zwgIfSvKIQRE-VjXoZnh1I",
+  "googleName": "Duboné Panadería y Pastelería Artesanal",
+  "formattedAddress": "Av. Valle de Atemajac, Rcda. del Valle 1949, Residencial del Valle, 45136 Zapopan, Jal., Mexico",
+  "phone": "33 2921 0745",
+  "internationalPhone": "+52 33 2921 0745",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5946835659772912915",
+  "rating": 4.8,
+  "reviewCount": 61,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.7409248,
+    -103.4281706
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dubone-panaderia-y-pasteleria-artesanal-zapopan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:52.235Z"
+}

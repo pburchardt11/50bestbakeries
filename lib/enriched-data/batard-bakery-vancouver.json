@@ -1,0 +1,43 @@
+{
+  "slug": "batard-bakery-vancouver",
+  "name": "Bâtard Bakery",
+  "curatedName": "Bâtard Bakery",
+  "city": "Vancouver",
+  "country": "Canada",
+  "placeId": "ChIJgcSxO_9zhlQReTqaev6s05Q",
+  "googleName": "Bâtard Bakery",
+  "formattedAddress": "3958 Fraser St, Vancouver, BC V5V 4E4, Canada",
+  "phone": "(604) 506-3958",
+  "internationalPhone": "+1 604-506-3958",
+  "website": "http://batardbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10724105346677881465",
+  "rating": 4.6,
+  "reviewCount": 1142,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.2495565,
+    -123.0898996
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Breads, pastries & light fare with local ingredients offered in a cozy space with gourmet groceries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/batard-bakery-vancouver/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:48.168Z"
+}

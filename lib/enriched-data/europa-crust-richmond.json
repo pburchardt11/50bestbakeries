@@ -1,0 +1,43 @@
+{
+  "slug": "europa-crust-richmond",
+  "name": "Europa Crust",
+  "curatedName": "Europa Crust",
+  "city": "Richmond",
+  "country": "United States",
+  "placeId": "ChIJ8yJbHmYRsYkRTTeAMBpNF7A",
+  "googleName": "Europa Crust",
+  "formattedAddress": "1321 1/2 E Main St Ste 111, Richmond, VA 23219, USA",
+  "phone": "(804) 912-5859",
+  "internationalPhone": "+1 804-912-5859",
+  "website": "http://www.europacrust.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12688695250017859405",
+  "rating": 4.9,
+  "reviewCount": 175,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.5355725,
+    -77.43224409999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 5:00 PM",
+    "Wednesday: 11:00 AM – 5:00 PM",
+    "Thursday: 11:00 AM – 5:00 PM",
+    "Friday: 11:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/europa-crust-richmond/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:13:01.344Z"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "musmanni-san-jose",
+  "name": "Musmanni",
+  "curatedName": "Musmanni",
+  "city": "San Jose",
+  "country": "Costa Rica",
+  "placeId": "ChIJk6MdAjvjoI8RAxn2N9uRUdI",
+  "googleName": "Musmanni",
+  "formattedAddress": "San José, Musmanni, Costa Rica",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15155054591801170179",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "businessStatus": null,
+  "coords": [
+    9.9082031,
+    -84.0877539
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T04:11:02.326Z"
+}

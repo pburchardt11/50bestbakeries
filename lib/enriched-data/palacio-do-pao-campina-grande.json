@@ -1,0 +1,45 @@
+{
+  "slug": "palacio-do-pao-campina-grande",
+  "name": "Palácio do Pão",
+  "curatedName": "Palácio do Pão",
+  "city": "Campina Grande",
+  "country": "Brazil",
+  "placeId": "ChIJBXIxCCdozpQR2Tr7EDCDEX8",
+  "googleName": "Palácio do Pão",
+  "formattedAddress": "Av. Itamarati, 1001 - Vila Curuçá, Santo André - SP, 09290-730, Brazil",
+  "phone": "(11) 4479-3574",
+  "internationalPhone": "+55 11 4479-3574",
+  "website": "http://www.palaciodopao.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9156243759887497945",
+  "rating": 4.5,
+  "reviewCount": 10862,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.6467459,
+    -46.514523
+  ],
+  "openingHours": [
+    "Monday: 6:20 AM – 10:00 PM",
+    "Tuesday: 6:20 AM – 10:00 PM",
+    "Wednesday: 6:20 AM – 10:00 PM",
+    "Thursday: 6:20 AM – 10:00 PM",
+    "Friday: 6:20 AM – 10:00 PM",
+    "Saturday: 6:20 AM – 10:00 PM",
+    "Sunday: 6:20 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Breakfast, soups & cakes are served in this spacious, enduring coffee shop with an informal vibe.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/palacio-do-pao-campina-grande/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:16:52.275Z"
+}

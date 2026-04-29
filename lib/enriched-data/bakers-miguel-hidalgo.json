@@ -1,0 +1,43 @@
+{
+  "slug": "bakers-miguel-hidalgo",
+  "name": "Bakers",
+  "curatedName": "Bakers",
+  "city": "Miguel Hidalgo",
+  "country": "Mexico",
+  "placeId": "ChIJUyWV2xX_0YUR9rY52qiqSqY",
+  "googleName": "Bakers",
+  "formattedAddress": "Polanco 8, Polanco, Polanco V Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX, Mexico",
+  "phone": "55 8939 3111",
+  "internationalPhone": "+52 55 8939 3111",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11982577400765069046",
+  "rating": 4.2,
+  "reviewCount": 802,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4301035,
+    -99.18675800000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 8:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-miguel-hidalgo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:54.138Z"
+}

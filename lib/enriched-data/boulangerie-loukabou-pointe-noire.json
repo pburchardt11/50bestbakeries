@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-loukabou-pointe-noire",
+  "name": "Boulangerie Loukabou",
+  "city": "Pointe Noire",
+  "country": "Congo - Brazzaville",
+  "placeId": "ChIJKY-d5hK7YBoRvLLEkbZf87g",
+  "googleName": "Boulangerie Loukabou",
+  "formattedAddress": "Av. Moé Kaat Matou, Pointe-Noire, Republic of the Congo",
+  "phone": "06 762 0000",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13327100960053703356",
+  "rating": 4.9,
+  "reviewCount": 24,
+  "coords": [
+    -4.789327,
+    11.8634409
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:30 PM",
+    "Tuesday: 6:00 AM – 11:30 PM",
+    "Wednesday: 6:00 AM – 11:30 PM",
+    "Thursday: 6:00 AM – 11:30 PM",
+    "Friday: 6:00 AM – 11:30 PM",
+    "Saturday: 6:00 AM – 11:30 PM",
+    "Sunday: 6:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-loukabou-pointe-noire/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:46:28.795Z"
+}

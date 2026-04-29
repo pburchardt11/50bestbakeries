@@ -1,0 +1,32 @@
+{
+  "slug": "bakkerij-bellekes-aalst",
+  "name": "Bakkerij Bellekes",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJAwlitDCWw0cR2d_xsu4-ETw",
+  "googleName": "Bellekes Bakkerij bvba",
+  "formattedAddress": "Kattenbroekstraat 45, 9310 Aalst, Belgium",
+  "phone": "053 21 45 07",
+  "website": "https://bakkersonline.be/bakkerijbellekes",
+  "googleMapsUrl": "https://maps.google.com/?cid=4328309911805091801",
+  "rating": 4.7,
+  "reviewCount": 93,
+  "coords": [
+    50.9566461,
+    4.087595299999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 – 11:00 AM",
+    "Tuesday: Closed",
+    "Wednesday: 6:00 – 11:00 AM",
+    "Thursday: 6:00 – 11:00 AM",
+    "Friday: 6:00 – 11:00 AM",
+    "Saturday: 6:00 – 11:00 AM",
+    "Sunday: 6:00 – 11:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-bellekes-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:03:27.005Z"
+}

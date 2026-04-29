@@ -1,0 +1,44 @@
+{
+  "slug": "panificadora-mana-goiania",
+  "name": "Panificadora Maná",
+  "curatedName": "Panificadora Maná",
+  "city": "Goiânia",
+  "country": "Brazil",
+  "placeId": "ChIJUUdCqtnwXpMR0d5QplfsC0M",
+  "googleName": "Panificadora Maná",
+  "formattedAddress": "R. C-264, 119 - Nova Suiça, Goiânia - GO, 74280-270, Brazil",
+  "phone": "(62) 3259-1317",
+  "internationalPhone": "+55 62 3259-1317",
+  "website": "http://panificadoramana.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4831214886481616593",
+  "rating": 4.6,
+  "reviewCount": 6287,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -16.7180596,
+    -49.2726157
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": "Breakfasts, breads, pineapple pies & steamed buns to eat in or takeout at a popular cafe/bakery.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-mana-goiania/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:48.914Z"
+}

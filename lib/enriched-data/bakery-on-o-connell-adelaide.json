@@ -1,0 +1,45 @@
+{
+  "slug": "bakery-on-o-connell-adelaide",
+  "name": "Bakery on O'Connell",
+  "curatedName": "Bakery on O'Connell",
+  "city": "Adelaide",
+  "country": "Australia",
+  "placeId": "ChIJ74Txm9fIsGoRyQ2na3fQj7k",
+  "googleName": "Bakery on O'Connell",
+  "formattedAddress": "128-130 O'Connell St, North Adelaide SA 5006, Australia",
+  "phone": "(08) 8361 7377",
+  "internationalPhone": "+61 8 8361 7377",
+  "website": "http://www.bakeryonoconnell.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13371135030012087753",
+  "rating": 4.6,
+  "reviewCount": 1447,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.9050088,
+    138.595866
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-on-o-connell-adelaide/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:15.475Z"
+}

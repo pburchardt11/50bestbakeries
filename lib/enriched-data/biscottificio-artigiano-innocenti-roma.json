@@ -1,0 +1,43 @@
+{
+  "slug": "biscottificio-artigiano-innocenti-roma",
+  "name": "Biscottificio Artigiano Innocenti",
+  "curatedName": "Biscottificio Artigiano Innocenti",
+  "city": "Roma",
+  "country": "Italy",
+  "placeId": "ChIJ87YzzTdgLxMRFGW_k_2WK-w",
+  "googleName": "Biscottificio Artigiano Innocenti",
+  "formattedAddress": "Via della Luce, 21, 00153 Roma RM, Italy",
+  "phone": "06 580 3926",
+  "internationalPhone": "+39 06 580 3926",
+  "website": "http://biscottificioartigianoinnocenti.wordpress.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17017861632799237396",
+  "rating": 4.8,
+  "reviewCount": 1044,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.8885463,
+    12.4752795
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:30 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Housemade panettone, cookies, tarts & pastries at a long-standing, family-run patisserie.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/biscottificio-artigiano-innocenti-roma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:31.919Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "grain-trip-bakery-bucuresti",
+  "name": "Grain Trip Bakery",
+  "curatedName": "Grain Trip Bakery",
+  "city": "București",
+  "country": "Romania",
+  "placeId": "ChIJJfdBCx3_sUARb-tAQ6vVRTk",
+  "googleName": "Grain Trip Bakery",
+  "formattedAddress": "Strada Nerva Traian 16, 031046 București, Romania",
+  "phone": "0741 180 092",
+  "internationalPhone": "+40 741 180 092",
+  "website": "https://www.graintrip.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4126939565099379567",
+  "rating": 4.6,
+  "reviewCount": 1407,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.41945279999999,
+    26.1149285
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:30 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:30 AM – 4:00 PM",
+    "Sunday: 8:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grain-trip-bakery-bucuresti/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:59:30.874Z"
+}

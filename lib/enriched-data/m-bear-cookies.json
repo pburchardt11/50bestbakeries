@@ -1,0 +1,32 @@
+{
+  "slug": "m-bear-cookies",
+  "name": "M'Bear Cookies",
+  "city": "Գյումրի",
+  "country": "Armenia",
+  "placeId": "ChIJuYzmxub7QUARvO5ss6JpzQ8",
+  "googleName": "M'bear Cookies",
+  "formattedAddress": "RR2Q+F73, Nerses IV Shnorhali St, Gyumri, Armenia",
+  "phone": null,
+  "website": "https://www.facebook.com/profile.php?id=100012308263512",
+  "googleMapsUrl": "https://maps.google.com/?cid=1138682428310482620",
+  "rating": 4.6,
+  "reviewCount": 9,
+  "coords": [
+    40.8011486,
+    43.8381791
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/m-bear-cookies/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:22:10.807Z"
+}

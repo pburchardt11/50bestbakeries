@@ -1,0 +1,43 @@
+{
+  "slug": "pastelinos-morelia",
+  "name": "Pastelinos",
+  "curatedName": "Pastelinos",
+  "city": "Morelia",
+  "country": "Mexico",
+  "placeId": "ChIJbfwTuGcOLYQRUg37xpw2WYg",
+  "googleName": "Pastelinos",
+  "formattedAddress": "Av. Guadalupe Victoria 1270, Prados Verdes, 58110 Morelia, Mich., Mexico",
+  "phone": "443 317 0908",
+  "internationalPhone": "+52 443 317 0908",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9824944109066587474",
+  "rating": 4.5,
+  "reviewCount": 3027,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.7143303,
+    -101.1971655
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelinos-morelia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:35.169Z"
+}

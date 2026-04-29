@@ -1,0 +1,43 @@
+{
+  "slug": "freeport-bakery-sacramento",
+  "name": "Freeport Bakery",
+  "curatedName": "Freeport Bakery",
+  "city": "Sacramento",
+  "country": "United States",
+  "placeId": "ChIJT2dlUv7QmoAR02z8JsyoL4o",
+  "googleName": "Freeport Bakery",
+  "formattedAddress": "2966 Freeport Blvd, Sacramento, CA 95818, USA",
+  "phone": "(916) 442-4256",
+  "internationalPhone": "+1 916-442-4256",
+  "website": "http://www.freeportbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9957362895920327891",
+  "rating": 4.6,
+  "reviewCount": 1512,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.5509893,
+    -121.4891251
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Longtime scratch bakeshop turning out custom & ready-made cakes, cookies, bread & pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/freeport-bakery-sacramento/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:40.488Z"
+}

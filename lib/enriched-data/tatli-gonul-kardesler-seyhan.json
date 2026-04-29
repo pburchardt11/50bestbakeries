@@ -1,0 +1,43 @@
+{
+  "slug": "tatli-gonul-kardesler-seyhan",
+  "name": "Tatli Gonul Kardesler",
+  "curatedName": "Tatli Gonul Kardesler",
+  "city": "Seyhan",
+  "country": "Türkiye",
+  "placeId": "ChIJ3XKaWmePKBURFkUfJKbJ9Is",
+  "googleName": "Tatli Gonul Kardesler",
+  "formattedAddress": "Tepebağ, Kuruköprü Sk. No:25, 01010 Seyhan/Adana, Türkiye",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10084907180997166358",
+  "rating": 4.3,
+  "reviewCount": 2151,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.9879391,
+    35.3252906
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tatli-gonul-kardesler-seyhan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:30.499Z"
+}

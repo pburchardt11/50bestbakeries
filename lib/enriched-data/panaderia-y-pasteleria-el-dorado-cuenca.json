@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-y-pasteleria-el-dorado-cuenca",
+  "name": "Panadería y Pastelería El Dorado",
+  "curatedName": "Panadería y Pastelería El Dorado",
+  "city": "Cuenca",
+  "country": "Ecuador",
+  "placeId": "ChIJ8T4U4BAYzZERcj-zUZIIGnU",
+  "googleName": "Panadería y Pastelería El Dorado",
+  "formattedAddress": "C. Gran Colombia y Sagrario S/N, 010101 Cuenca, Ecuador",
+  "phone": "(07) 283-1663",
+  "internationalPhone": "+593 7-283-1663",
+  "website": "http://www.eldoradohotel.com.ec/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8438066276360994674",
+  "rating": 4.6,
+  "reviewCount": 48,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -2.8959549,
+    -79.0038721
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-pasteleria-el-dorado-cuenca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:39.586Z"
+}

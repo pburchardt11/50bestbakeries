@@ -1,0 +1,44 @@
+{
+  "slug": "moisan-boulangerie-creole-caracas",
+  "name": "Moisan Boulangerie Creole",
+  "curatedName": "Moisan Boulangerie Creole",
+  "city": "Caracas",
+  "country": "Venezuela",
+  "placeId": "ChIJG9_yvzRZKowRXHa3JZ5en-c",
+  "googleName": "Moisan / Boulangerie Creole",
+  "formattedAddress": "Av José Félix Ribas con Cristobal Mendoza, Edif. Atlantico, Caracas 1010, Distrito Capital, Venezuela",
+  "phone": "0412-4853145",
+  "internationalPhone": "+58 412-4853145",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16690162777388971612",
+  "rating": 4.2,
+  "reviewCount": 1104,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.5138253,
+    -66.9020465
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moisan-boulangerie-creole-caracas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:17:39.550Z"
+}

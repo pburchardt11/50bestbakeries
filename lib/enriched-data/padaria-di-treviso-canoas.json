@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-di-treviso-canoas",
+  "name": "Padaria Di Treviso",
+  "curatedName": "Padaria Di Treviso",
+  "city": "Canoas",
+  "country": "Brazil",
+  "placeId": "ChIJUdFUZFFxGZUR_sLGHQqJWaA",
+  "googleName": "Padaria Di Treviso",
+  "formattedAddress": "R. Xingu, 556 - Igara, Canoas - RS, 92410-720, Brazil",
+  "phone": "(51) 3939-6999",
+  "internationalPhone": "+55 51 3939-6999",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11554416995537961726",
+  "rating": 4.7,
+  "reviewCount": 1755,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.900876,
+    -51.1610268
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-di-treviso-canoas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:59.252Z"
+}

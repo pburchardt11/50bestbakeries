@@ -1,0 +1,32 @@
+{
+  "slug": "selection-byjoe-cotonou",
+  "name": "Sélection byjoé",
+  "city": "Cotonou",
+  "country": "Benin",
+  "placeId": "ChIJYTGqdwCrPBAR58ohWhan0hU",
+  "googleName": "sélection byjoé",
+  "formattedAddress": "Rue 1703 Akpakpa, Sinapostel, Cotonou, Benin",
+  "phone": "01 96 05 03 05",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1572502934349007591",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    6.3719945,
+    2.4617598
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/selection-byjoe-cotonou/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:09:34.836Z"
+}

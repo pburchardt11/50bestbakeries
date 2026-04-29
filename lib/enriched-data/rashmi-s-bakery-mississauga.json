@@ -1,0 +1,43 @@
+{
+  "slug": "rashmi-s-bakery-mississauga",
+  "name": "Rashmi's Bakery",
+  "curatedName": "Rashmi's Bakery",
+  "city": "Mississauga",
+  "country": "Canada",
+  "placeId": "ChIJw72dUc1GK4gRmgbab2RS60g",
+  "googleName": "Rashmi's Bakery",
+  "formattedAddress": "3611 Mavis Rd #9, Mississauga, ON L5C 1T7, Canada",
+  "phone": "(905) 270-7676",
+  "internationalPhone": "+1 905-270-7676",
+  "website": "https://www.rashmisbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5254383981584582298",
+  "rating": 4.7,
+  "reviewCount": 3102,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.57889600000001,
+    -79.6490702
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: 11:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rashmi-s-bakery-mississauga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:10.844Z"
+}

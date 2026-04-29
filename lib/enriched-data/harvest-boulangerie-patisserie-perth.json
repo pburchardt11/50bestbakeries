@@ -1,0 +1,45 @@
+{
+  "slug": "harvest-boulangerie-patisserie-perth",
+  "name": "Harvest Boulangerie Patisserie",
+  "curatedName": "Harvest Boulangerie Patisserie",
+  "city": "Perth",
+  "country": "Australia",
+  "placeId": "ChIJA5T0eC-vMioRdAfQDm47cSc",
+  "googleName": "Harvest Boulangerie Patisserie",
+  "formattedAddress": "Under the Ramada Hôtel and Next to Dominos Pizza, Tenancy 2/22 Scarborough Beach Rd, Scarborough WA 6019, Australia",
+  "phone": "0412 665 493",
+  "internationalPhone": "+61 412 665 493",
+  "website": "https://www.harvestboulangerie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2842118183728449396",
+  "rating": 4.7,
+  "reviewCount": 851,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -31.894171,
+    115.7590534
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 3:00 PM",
+    "Tuesday: 6:00 AM – 3:00 PM",
+    "Wednesday: 6:00 AM – 3:00 PM",
+    "Thursday: 6:00 AM – 3:00 PM",
+    "Friday: 6:00 AM – 3:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/harvest-boulangerie-patisserie-perth/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:44.015Z"
+}

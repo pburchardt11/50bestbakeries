@@ -1,0 +1,44 @@
+{
+  "slug": "karmele-guadalajara",
+  "name": "Karmele",
+  "curatedName": "Karmele",
+  "city": "Guadalajara",
+  "country": "Mexico",
+  "placeId": "ChIJfw1Zj-avKIQRNYnKh-4AG3I",
+  "googleName": "Karmele",
+  "formattedAddress": "Av. José María Morelos 2279A, Arcos Vallarta, 44650 Guadalajara, Jal., Mexico",
+  "phone": "33 1071 5823",
+  "internationalPhone": "+52 33 1071 5823",
+  "website": "https://karmele.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8222166569175386421",
+  "rating": 4.6,
+  "reviewCount": 3357,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.6754111,
+    -103.3834685
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karmele-guadalajara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:37:31.748Z"
+}

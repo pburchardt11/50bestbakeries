@@ -1,0 +1,44 @@
+{
+  "slug": "ceres-artisan-bakery-bornova",
+  "name": "Ceres Artisan Bakery",
+  "curatedName": "Ceres Artisan Bakery",
+  "city": "Bornova",
+  "country": "Türkiye",
+  "placeId": "ChIJwScRThRjuRQRvyLFsY03T1k",
+  "googleName": "Ceres Artisan Bakery",
+  "formattedAddress": "Kazımdirik, 372/17. Sk. No:24, 35100 Bornova/İzmir, Türkiye",
+  "phone": "0506 715 21 09",
+  "internationalPhone": "+90 506 715 21 09",
+  "website": "http://ceresartisanbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6435423474248131263",
+  "rating": 4.6,
+  "reviewCount": 266,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.447511,
+    27.211498
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ceres-artisan-bakery-bornova/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:07.366Z"
+}

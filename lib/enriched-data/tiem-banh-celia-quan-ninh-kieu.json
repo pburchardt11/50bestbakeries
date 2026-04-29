@@ -1,0 +1,43 @@
+{
+  "slug": "tiem-banh-celia-quan-ninh-kieu",
+  "name": "Tiệm bánh Célia",
+  "curatedName": "Tiệm bánh Célia",
+  "city": "Quận Ninh Kiều",
+  "country": "Vietnam",
+  "placeId": "ChIJp-ivvVSJoDER4XgU05HIrj8",
+  "googleName": "Tiệm bánh Célia",
+  "formattedAddress": "309 Đ. Nguyễn Văn Cừ, An Hoà, Cái Khế, Cần Thơ, Vietnam",
+  "phone": "0832 633 888",
+  "internationalPhone": "+84 832 633 888",
+  "website": "https://www.facebook.com/Celia.Macaron.and.more",
+  "googleMapsUrl": "https://maps.google.com/?cid=4588825598974261473",
+  "rating": 4.9,
+  "reviewCount": 105,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.0461987,
+    105.7680667
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:30 PM",
+    "Tuesday: 8:30 AM – 10:30 PM",
+    "Wednesday: 8:30 AM – 10:30 PM",
+    "Thursday: 8:30 AM – 10:30 PM",
+    "Friday: 8:30 AM – 10:30 PM",
+    "Saturday: 8:30 AM – 10:30 PM",
+    "Sunday: 12:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiem-banh-celia-quan-ninh-kieu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:08.856Z"
+}

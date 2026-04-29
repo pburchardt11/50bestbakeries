@@ -1,0 +1,32 @@
+{
+  "slug": "srb-feinbackerei-partyservice-aflenz",
+  "name": "SRB Feinbäckerei & Partyservice",
+  "city": "Aflenz",
+  "country": "Austria",
+  "placeId": "ChIJ1f3D9En9cUcR3grEhd_m6W0",
+  "googleName": "Bäckerei SRB",
+  "formattedAddress": "Mariazeller Str. 9-426, 8623 Aflenz Kurort, Austria",
+  "phone": "03861 2236",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7920115267404040926",
+  "rating": 4.6,
+  "reviewCount": 26,
+  "coords": [
+    47.5443539,
+    15.2392438
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 5:30 AM – 12:00 PM",
+    "Wednesday: 5:30 AM – 12:00 PM",
+    "Thursday: 5:30 AM – 12:00 PM",
+    "Friday: 5:30 AM – 12:00 PM",
+    "Saturday: 5:30 AM – 12:00 PM",
+    "Sunday: 6:00 – 9:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/srb-feinbackerei-partyservice-aflenz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:31:55.763Z"
+}

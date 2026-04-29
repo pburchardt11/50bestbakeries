@@ -1,0 +1,44 @@
+{
+  "slug": "tauer-bakery-torino",
+  "name": "Tauer Bakery",
+  "curatedName": "Tauer Bakery",
+  "city": "Torino",
+  "country": "Italy",
+  "placeId": "ChIJ--tzmL5tiEcRCUc8kENl45s",
+  "googleName": "Tauer Bakery",
+  "formattedAddress": "Via Madama Cristina, 22, 10125 Torino TO, Italy",
+  "phone": "366 126 9001",
+  "internationalPhone": "+39 366 126 9001",
+  "website": "https://www.tauer-to.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11232933236449232649",
+  "rating": 4.6,
+  "reviewCount": 1165,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.0572489,
+    7.6824208
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:30 AM – 6:00 PM",
+    "Wednesday: 9:30 AM – 6:00 PM",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 6:00 PM",
+    "Sunday: 9:30 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tauer-bakery-torino/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:47.124Z"
+}

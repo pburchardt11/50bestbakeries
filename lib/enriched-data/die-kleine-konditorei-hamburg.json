@@ -1,0 +1,43 @@
+{
+  "slug": "die-kleine-konditorei-hamburg",
+  "name": "die kleine konditorei",
+  "curatedName": "die kleine konditorei",
+  "city": "Hamburg",
+  "country": "Germany",
+  "placeId": "ChIJC4YK2P6FsUcRC8MLQJL0-eg",
+  "googleName": "die kleine konditorei",
+  "formattedAddress": "Osterstraße 176, 20255 Hamburg, Germany",
+  "phone": "040 60039090",
+  "internationalPhone": "+49 40 60039090",
+  "website": "http://www.kleine-konditorei.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16787717994977149707",
+  "rating": 4.5,
+  "reviewCount": 1158,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.57940010000001,
+    9.9462765
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/die-kleine-konditorei-hamburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:49.101Z"
+}

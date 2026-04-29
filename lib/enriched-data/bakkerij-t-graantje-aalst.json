@@ -1,0 +1,24 @@
+{
+  "slug": "bakkerij-t-graantje-aalst",
+  "name": "Bakkerij 't Graantje",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJ-9njkNiXw0cRrGwufGEMNK4",
+  "googleName": "'t Graantje",
+  "formattedAddress": "Moorselbaan 225, 9300 Aalst, Belgium",
+  "phone": "053 41 75 01",
+  "website": "http://tgraantje.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12552671674223193260",
+  "rating": 4.6,
+  "reviewCount": 18,
+  "coords": [
+    50.94283919999999,
+    4.0564794
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-t-graantje-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:03:36.840Z"
+}

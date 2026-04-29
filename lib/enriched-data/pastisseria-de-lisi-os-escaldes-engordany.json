@@ -1,0 +1,32 @@
+{
+  "slug": "pastisseria-de-lisi-os-escaldes-engordany",
+  "name": "Pastisseria De Lisi Ós",
+  "city": "Escaldes-Engordany",
+  "country": "Andorra",
+  "placeId": "ChIJtw-rBeiKpRIRVlUi_Z03ct4",
+  "googleName": "PASTISSERIA De Lisi Ós",
+  "formattedAddress": "Av. de les Escoles, 30, AD700 Escaldes-Engordany, Andorra",
+  "phone": "844 422",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16028935175461295446",
+  "rating": 3.7,
+  "reviewCount": 30,
+  "coords": [
+    42.5117314,
+    1.5407203
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Tuesday: 8:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Wednesday: 8:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Thursday: 8:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Friday: 8:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Saturday: 8:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastisseria-de-lisi-os-escaldes-engordany/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:17:03.205Z"
+}

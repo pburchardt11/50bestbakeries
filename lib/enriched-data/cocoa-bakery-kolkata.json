@@ -1,0 +1,43 @@
+{
+  "slug": "cocoa-bakery-kolkata",
+  "name": "Cocoa Bakery",
+  "curatedName": "Cocoa Bakery",
+  "city": "Kolkata",
+  "country": "India",
+  "placeId": "ChIJm2krdS13AjoRb8gI_3xtHhE",
+  "googleName": "Cocoa Bakery",
+  "formattedAddress": "3 B, Sir UN Brahmachari Sarani, Mullick Bazar, Park Street area, Kolkata, West Bengal 700017, India",
+  "phone": "083348 47373",
+  "internationalPhone": "+91 83348 47373",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1233543731568232559",
+  "rating": 4.4,
+  "reviewCount": 491,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.546812,
+    88.3572906
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:30 PM",
+    "Tuesday: 8:00 AM – 11:30 PM",
+    "Wednesday: 8:00 AM – 11:30 PM",
+    "Thursday: 8:00 AM – 11:30 PM",
+    "Friday: 8:00 AM – 1:00 AM",
+    "Saturday: 8:00 AM – 1:00 AM",
+    "Sunday: 8:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cocoa-bakery-kolkata/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:01.389Z"
+}

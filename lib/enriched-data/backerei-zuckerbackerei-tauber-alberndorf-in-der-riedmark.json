@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-zuckerbackerei-tauber-alberndorf-in-der-riedmark",
+  "name": "Bäckerei & Zuckerbäckerei TAUBER",
+  "city": "Alberndorf in der Riedmark",
+  "country": "Austria",
+  "placeId": "ChIJTftEm7ehc0cRnRoDQowKmqI",
+  "googleName": "Bäckerei & Zuckerbäckerei Tauber",
+  "formattedAddress": "Hauptstraße 30, 4211 Alberndorf in der Riedmark, Austria",
+  "phone": "07235 7380",
+  "website": "http://baeckerei-tauber.at/standorte/alberndorf/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11716688978076965533",
+  "rating": 4.7,
+  "reviewCount": 24,
+  "coords": [
+    48.40673959999999,
+    14.41869
+  ],
+  "openingHours": [
+    "Monday: 5:45 AM – 12:00 PM, 3:00 – 6:00 PM",
+    "Tuesday: 5:45 AM – 12:00 PM, 3:00 – 6:00 PM",
+    "Wednesday: 5:45 AM – 12:00 PM, 3:00 – 6:00 PM",
+    "Thursday: 5:45 AM – 12:00 PM, 3:00 – 6:00 PM",
+    "Friday: 5:45 AM – 12:00 PM, 3:00 – 6:00 PM",
+    "Saturday: 5:45 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-zuckerbackerei-tauber-alberndorf-in-der-riedmark/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:32:06.011Z"
+}

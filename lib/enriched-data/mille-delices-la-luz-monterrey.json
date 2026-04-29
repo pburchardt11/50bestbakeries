@@ -1,0 +1,45 @@
+{
+  "slug": "mille-delices-la-luz-monterrey",
+  "name": "Mille Delices La Luz",
+  "curatedName": "Mille Delices La Luz",
+  "city": "Monterrey",
+  "country": "Mexico",
+  "placeId": "ChIJoZCq_aXAYoYRPyGfiJu_SNU",
+  "googleName": "Mille Delices La Luz",
+  "formattedAddress": "Av. la Luz 100, Pedregal del Vergel, 64988 Monterrey, N.L., Mexico",
+  "phone": "81 1099 0689",
+  "internationalPhone": "+52 81 1099 0689",
+  "website": "http://milledelices.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15368744403134783807",
+  "rating": 4.8,
+  "reviewCount": 1124,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.5974838,
+    -100.2534463
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mille-delices-la-luz-monterrey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:54.342Z"
+}

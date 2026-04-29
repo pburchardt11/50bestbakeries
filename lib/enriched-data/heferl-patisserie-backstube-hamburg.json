@@ -1,0 +1,44 @@
+{
+  "slug": "heferl-patisserie-backstube-hamburg",
+  "name": "HEFERL Patisserie & Backstube",
+  "curatedName": "HEFERL Patisserie & Backstube",
+  "city": "Hamburg",
+  "country": "Germany",
+  "placeId": "ChIJXY8kR2ePsUcRbLcJQS6tNfQ",
+  "googleName": "HEFERL Patisserie & Backstube",
+  "formattedAddress": "Alter Steinweg 11, 20459 Hamburg, Germany",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.heferl.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17597161533191337836",
+  "rating": 4.9,
+  "reviewCount": 178,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.5502321,
+    9.9820043
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/heferl-patisserie-backstube-hamburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:45.766Z"
+}

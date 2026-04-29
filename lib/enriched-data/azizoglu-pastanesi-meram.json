@@ -1,0 +1,43 @@
+{
+  "slug": "azizoglu-pastanesi-meram",
+  "name": "Azizoglu Pastanesi",
+  "curatedName": "Azizoglu Pastanesi",
+  "city": "Meram",
+  "country": "Türkiye",
+  "placeId": "ChIJPXfW-kCE0BQRLKD1skuFo-0",
+  "googleName": "Azizoglu Pastanesi",
+  "formattedAddress": "Yenişehir MH Gazze CD no 13/ n, Yenişehir, 42090 Meram/Konya, Türkiye",
+  "phone": "0536 432 03 79",
+  "internationalPhone": "+90 536 432 03 79",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17123676768364240940",
+  "rating": 4.4,
+  "reviewCount": 122,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.854359,
+    32.4716953
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 7:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/azizoglu-pastanesi-meram/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:52.332Z"
+}

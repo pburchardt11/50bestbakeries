@@ -1,0 +1,43 @@
+{
+  "slug": "bake-house-manila-taguig-city",
+  "name": "Bake House Manila",
+  "curatedName": "Bake House Manila",
+  "city": "Taguig City",
+  "country": "Philippines",
+  "placeId": "ChIJQcpGVM_JlzMRS1Gzwe9Dh5U",
+  "googleName": "Bake House Manila",
+  "formattedAddress": "30th Street, corner 5th Ave, Taguig, 1634 Metro Manila, Philippines",
+  "phone": "(02) 8820 0888",
+  "internationalPhone": "+63 2 8820 0888",
+  "website": "https://www.shangri-la.com/manila/shangrilaatthefort/dining/restaurants/bake-house/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10774655330533200203",
+  "rating": 4.4,
+  "reviewCount": 372,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5526543,
+    121.0471503
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-house-manila-taguig-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:40.607Z"
+}

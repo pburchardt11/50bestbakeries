@@ -1,0 +1,43 @@
+{
+  "slug": "animo-bakery-depok",
+  "name": "Animo Bakery Depok",
+  "curatedName": "Animo Bakery Depok",
+  "city": "Depok",
+  "country": "Indonesia",
+  "placeId": "ChIJ_Q_Ek43raS4Rex4Re37PlKQ",
+  "googleName": "Animo Bakery Depok",
+  "formattedAddress": "Jl. Margonda Raya No.177d, Kemiri Muka, Kecamatan Beji, Kota Depok, Jawa Barat 16423, Indonesia",
+  "phone": "0812-9560-8573",
+  "internationalPhone": "+62 812-9560-8573",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11859331860910907003",
+  "rating": 4.6,
+  "reviewCount": 269,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.3866697,
+    106.8276285
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/animo-bakery-depok/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:42.322Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "artesanos-bakery-mazatlan",
+  "name": "Artesanos Bakery",
+  "curatedName": "Artesanos Bakery",
+  "city": "Mazatlán",
+  "country": "Mexico",
+  "placeId": "ChIJHyXKPwdTn4YRapUMTrz-95g",
+  "googleName": "Artesanos Bakery",
+  "formattedAddress": "Calle Guillermo Nelson Nte. 1813, Centro, 82000 Mazatlán, Sin., Mexico",
+  "phone": "669 941 7313",
+  "internationalPhone": "+52 669 941 7313",
+  "website": "http://www.instagram.com/amapola.bistro",
+  "googleMapsUrl": "https://maps.google.com/?cid=11022558697729332586",
+  "rating": 4.9,
+  "reviewCount": 210,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.2021984,
+    -106.4224671
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 7:30 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artesanos-bakery-mazatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:15.989Z"
+}

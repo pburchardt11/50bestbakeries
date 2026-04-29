@@ -1,0 +1,43 @@
+{
+  "slug": "the-cake-bake-gurugram",
+  "name": "The Cake Bake",
+  "curatedName": "The Cake Bake",
+  "city": "Gurugram",
+  "country": "India",
+  "placeId": "ChIJk61Rcp0ZDTkRicFZhrqx1CY",
+  "googleName": "The Cake Bake",
+  "formattedAddress": "101L, Circular Rd, near ghaba ki kothi, New Colony, Sector 7, Gurugram, Haryana 122001, India",
+  "phone": "099998 32424",
+  "internationalPhone": "+91 99998 32424",
+  "website": "https://thecakebake.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2798056683179983241",
+  "rating": 4.6,
+  "reviewCount": 1369,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.468428,
+    77.0144626
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:30 PM",
+    "Tuesday: 9:00 AM – 10:30 PM",
+    "Wednesday: 9:00 AM – 10:30 PM",
+    "Thursday: 9:00 AM – 10:30 PM",
+    "Friday: 9:00 AM – 10:30 PM",
+    "Saturday: 9:00 AM – 10:30 PM",
+    "Sunday: 9:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-bake-gurugram/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:01.163Z"
+}

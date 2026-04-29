@@ -1,0 +1,44 @@
+{
+  "slug": "padoca-les-roches-fortaleza",
+  "name": "Padoca Les Roches",
+  "curatedName": "Padoca Les Roches",
+  "city": "Fortaleza",
+  "country": "Brazil",
+  "placeId": "ChIJa94Ew4hFxwcRlNODXA0ao-I",
+  "googleName": "Padoca Les Roches",
+  "formattedAddress": "R. Antenor Rocha Alexandre - 650Parque Manibura, Fortaleza - CE, 60810-350, Brazil",
+  "phone": "(85) 3037-4810",
+  "internationalPhone": "+55 85 3037-4810",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16330925318464590740",
+  "rating": 4.5,
+  "reviewCount": 787,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -3.792181499999999,
+    -38.480977
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padoca-les-roches-fortaleza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:26.826Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "gun-bakery-besiktas",
+  "name": "Gun Bakery",
+  "curatedName": "Gun Bakery",
+  "city": "Beşiktaş",
+  "country": "Türkiye",
+  "placeId": "ChIJk8R_NnC3yhQRXhUGw0M9Fg4",
+  "googleName": "GÜN BAKERY",
+  "formattedAddress": "No:34, Sinanpaşa, Şair Nedim Cd., 34353 Beşiktaş/İstanbul, Türkiye",
+  "phone": "(0212) 260 70 78",
+  "internationalPhone": "+90 212 260 70 78",
+  "website": "http://www.gunbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1015066127262684510",
+  "rating": 4.3,
+  "reviewCount": 474,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.044081,
+    29.00161799999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gun-bakery-besiktas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:14.107Z"
+}

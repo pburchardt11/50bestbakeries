@@ -1,0 +1,43 @@
+{
+  "slug": "dea-bakery-pekanbaru",
+  "name": "Dea Bakery Pekanbaru",
+  "curatedName": "Dea Bakery Pekanbaru",
+  "city": "Pekanbaru",
+  "country": "Indonesia",
+  "placeId": "ChIJkQ8Rx66p1TERWKDwUbpLGb8",
+  "googleName": "Dea Bakery Pekanbaru",
+  "formattedAddress": "Jl. Delima No.26 A-B, Delima, Kec. Tampan, Kota Pekanbaru, Riau 28292, Indonesia",
+  "phone": "0811-3055-8996",
+  "internationalPhone": "+62 811-3055-8996",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13770120599272726616",
+  "rating": 4.7,
+  "reviewCount": 66,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    0.4775876000000001,
+    101.406804
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dea-bakery-pekanbaru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:08.384Z"
+}

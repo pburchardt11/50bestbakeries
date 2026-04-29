@@ -1,0 +1,43 @@
+{
+  "slug": "mrs-fields",
+  "name": "Mrs. Fields",
+  "curatedName": "Mrs. Fields",
+  "city": "台北市",
+  "country": "Taiwan",
+  "placeId": "ChIJNW_Fit6rQjQRQ85W0kJT6Jo",
+  "googleName": "Mrs.Fields 美國菲爾斯太太餅乾",
+  "formattedAddress": "No. 162號, Section 3, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+  "phone": "02 2711 1099",
+  "internationalPhone": "+886 2 2711 1099",
+  "website": "https://www.mrsfields.com.tw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11162263222899625539",
+  "rating": 4,
+  "reviewCount": 500,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.0415267,
+    121.538544
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:00 PM",
+    "Tuesday: 11:00 AM – 9:00 PM",
+    "Wednesday: 11:00 AM – 9:00 PM",
+    "Thursday: 11:00 AM – 9:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mrs-fields/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:10.346Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "jordy-s-bakery-rotterdam",
+  "name": "Jordy's Bakery",
+  "curatedName": "Jordy's Bakery",
+  "city": "Rotterdam",
+  "country": "Netherlands",
+  "placeId": "ChIJmYgncaI0xEcRM_v15BI3bR0",
+  "googleName": "Jordy's Bakery",
+  "formattedAddress": "Nieuwe Binnenweg 97A, 3014 GG Rotterdam, Netherlands",
+  "phone": "010 225 0952",
+  "internationalPhone": "+31 10 225 0952",
+  "website": "http://jordysbakery.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2120411553851636531",
+  "rating": 4.5,
+  "reviewCount": 663,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.9160899,
+    4.4681505
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jordy-s-bakery-rotterdam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:54.715Z"
+}

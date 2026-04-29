@@ -1,0 +1,44 @@
+{
+  "slug": "la-boutique-french-bakery-brasilia",
+  "name": "La Boutique French Bakery",
+  "curatedName": "La Boutique French Bakery",
+  "city": "Brasília",
+  "country": "Brazil",
+  "placeId": "ChIJRdSltxw7WpMRqwY6pr-JX1g",
+  "googleName": "La Boutique French Bakery",
+  "formattedAddress": "CLN Quadra 413 - Loja 20 - Térreo - Asa Norte, Brasília - DF, 70876-510, Brazil",
+  "phone": "(61) 3036-4888",
+  "internationalPhone": "+55 61 3036-4888",
+  "website": "https://www.facebook.com/LaBoutiquePadariaFrancesa",
+  "googleMapsUrl": "https://maps.google.com/?cid=6367959854345750187",
+  "rating": 4.5,
+  "reviewCount": 2354,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -15.7475,
+    -47.8844863
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:30 PM",
+    "Tuesday: 7:30 AM – 8:30 PM",
+    "Wednesday: 7:30 AM – 8:30 PM",
+    "Thursday: 7:30 AM – 8:30 PM",
+    "Friday: 7:30 AM – 8:30 PM",
+    "Saturday: 7:30 AM – 8:30 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Pastry store offering traditional French puff pastries, breads & wine in an elegant setting.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boutique-french-bakery-brasilia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:15.208Z"
+}

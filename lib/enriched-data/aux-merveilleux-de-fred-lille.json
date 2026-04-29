@@ -1,0 +1,43 @@
+{
+  "slug": "aux-merveilleux-de-fred-lille",
+  "name": "Aux Merveilleux de Fred",
+  "curatedName": "Aux Merveilleux de Fred",
+  "city": "Lille",
+  "country": "France",
+  "placeId": "ChIJ3wUrNngqw0cRhkMfSBwntF8",
+  "googleName": "Aux Merveilleux de Fred",
+  "formattedAddress": "67 Rue de la Monnaie, 59800 Lille, France",
+  "phone": "03 20 51 99 59",
+  "internationalPhone": "+33 3 20 51 99 59",
+  "website": "https://www.auxmerveilleux.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6896179931833648006",
+  "rating": 4.6,
+  "reviewCount": 2890,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.641309,
+    3.062161
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:45 PM",
+    "Tuesday: 7:30 AM – 7:45 PM",
+    "Wednesday: 7:30 AM – 7:45 PM",
+    "Thursday: 7:30 AM – 7:45 PM",
+    "Friday: 7:30 AM – 7:45 PM",
+    "Saturday: 7:30 AM – 7:45 PM",
+    "Sunday: 7:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aux-merveilleux-de-fred-lille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:36.986Z"
+}

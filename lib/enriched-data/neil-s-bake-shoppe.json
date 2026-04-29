@@ -1,0 +1,43 @@
+{
+  "slug": "neil-s-bake-shoppe",
+  "name": "Neil's Bake Shoppe",
+  "curatedName": "Neil's Bake Shoppe",
+  "city": "กรุงเทพมหานคร",
+  "country": "Thailand",
+  "placeId": "ChIJwdLPXSyf4jAR7GWiw-x9JDs",
+  "googleName": "Neil’s Bake Shoppe",
+  "formattedAddress": "58 Soi Ruam Rudi 4, Khwaeng Lumphini, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+  "phone": "02 256 6874",
+  "internationalPhone": "+66 2 256 6874",
+  "website": "https://neil.co.th/bake-shoppe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4261669603247285740",
+  "rating": 4.8,
+  "reviewCount": 957,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.7347389,
+    100.547221
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:00 PM",
+    "Tuesday: 8:30 AM – 8:00 PM",
+    "Wednesday: 8:30 AM – 8:00 PM",
+    "Thursday: 8:30 AM – 8:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/neil-s-bake-shoppe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:39.220Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "spoto-bakery-voglia-di-pane-torino",
+  "name": "Spoto Bakery - Voglia di Pane",
+  "curatedName": "Spoto Bakery - Voglia di Pane",
+  "city": "Torino",
+  "country": "Italy",
+  "placeId": "ChIJ14qvGb9tiEcR2TGRCg_fZFc",
+  "googleName": "Spoto Bakery - Voglia di Pane",
+  "formattedAddress": "Via Chiesa della Salute, 23, 10147 Torino TO, Italy",
+  "phone": "011 570 8415",
+  "internationalPhone": "+39 011 570 8415",
+  "website": "http://www.alessandrospoto.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6297403434665587161",
+  "rating": 4.6,
+  "reviewCount": 995,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.0956594,
+    7.6788754
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:30 PM",
+    "Tuesday: 6:00 AM – 7:30 PM",
+    "Wednesday: 6:00 AM – 7:30 PM",
+    "Thursday: 6:00 AM – 7:30 PM",
+    "Friday: 6:00 AM – 7:30 PM",
+    "Saturday: 6:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/spoto-bakery-voglia-di-pane-torino/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:11.124Z"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "la-poire-adh-dheraa-al-bahri",
+  "name": "La Poire",
+  "curatedName": "La Poire",
+  "city": "ADH Dheraa Al Bahri",
+  "country": "Egypt",
+  "placeId": "ChIJlWefauSA9RQR7qnzYEZi7l4",
+  "googleName": "La Poire",
+  "formattedAddress": "Marakia Touristic Village, Marakia, WFPJ+43, Km 51 Matrouh Governorate desert Rd, منطقة الساحل الشمالى، الساحل الشمالى، محافظة مطروح 5231305, Egypt",
+  "phone": "010 03959596",
+  "internationalPhone": "+20 10 03959596",
+  "website": "https://lapoire-group.com/brands/la-poire-patisserie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6840512938436176366",
+  "rating": 3.3,
+  "reviewCount": 9,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.9352679,
+    29.4802152
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T04:11:03.055Z"
+}

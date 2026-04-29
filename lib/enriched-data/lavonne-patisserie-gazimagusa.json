@@ -1,0 +1,32 @@
+{
+  "slug": "lavonne-patisserie-gazimagusa",
+  "name": "Lavonne Patisserie",
+  "city": "Gazimağusa",
+  "country": "Cyprus",
+  "placeId": "ChIJ1dMCyXPJ3xQR36fcUY6WcLQ",
+  "googleName": "FORNO",
+  "formattedAddress": "İsmet İnönü Blv, Gazimağusa 99450",
+  "phone": "0542 882 28 32",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13002057662221559775",
+  "rating": 4.8,
+  "reviewCount": 10,
+  "coords": [
+    35.1292416,
+    33.9291387
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:30 PM",
+    "Tuesday: 8:00 AM – 11:30 PM",
+    "Wednesday: 8:00 AM – 11:30 PM",
+    "Thursday: 8:00 AM – 11:30 PM",
+    "Friday: 8:00 AM – 11:30 PM",
+    "Saturday: 8:00 AM – 11:30 PM",
+    "Sunday: 8:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lavonne-patisserie-gazimagusa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:52:36.167Z"
+}

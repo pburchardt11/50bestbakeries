@@ -1,0 +1,43 @@
+{
+  "slug": "la-pana-bakery-y-cafe-louisville",
+  "name": "La Pana Bakery y Cafe",
+  "curatedName": "La Pana Bakery y Cafe",
+  "city": "Louisville",
+  "country": "United States",
+  "placeId": "ChIJzVfBFUQNaYgR0Si_a68OG8U",
+  "googleName": "La Pana Bakery y Cafe",
+  "formattedAddress": "991 Logan St, Louisville, KY 40204, USA",
+  "phone": "(502) 510-4281",
+  "internationalPhone": "+1 502-510-4281",
+  "website": "http://lapana.square.site/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14202961996432746705",
+  "rating": 4.9,
+  "reviewCount": 167,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.23648499999999,
+    -85.73923719999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 PM",
+    "Tuesday: 7:00 AM – 1:00 PM",
+    "Wednesday: 7:00 AM – 1:00 PM",
+    "Thursday: 7:00 AM – 1:00 PM",
+    "Friday: 7:00 AM – 1:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-pana-bakery-y-cafe-louisville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:14:31.428Z"
+}

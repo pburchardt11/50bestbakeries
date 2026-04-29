@@ -1,0 +1,45 @@
+{
+  "slug": "euro-bakery-mazatlan",
+  "name": "Euro Bakery",
+  "curatedName": "Euro Bakery",
+  "city": "Mazatlán",
+  "country": "Mexico",
+  "placeId": "ChIJbd98k7tVn4YRvuVcVqB0GGo",
+  "googleName": "Euro Bakery",
+  "formattedAddress": "Campeador 600, Ejidal Francisco Villa, 82110 Mazatlán, Sin., Mexico",
+  "phone": "669 143 4910",
+  "internationalPhone": "+52 669 143 4910",
+  "website": "https://www.instagram.com/eurobakery_mzt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7644988599453935038",
+  "rating": 4.6,
+  "reviewCount": 920,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.2581358,
+    -106.4420584
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/euro-bakery-mazatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:18.119Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "bake-store",
+  "name": "BAKE STORE",
+  "curatedName": "BAKE STORE",
+  "city": "世田谷区",
+  "country": "Japan",
+  "placeId": "ChIJs310TMvzGGARzucIYCFv5w4",
+  "googleName": "BAKE STORE",
+  "formattedAddress": "1-chōme-15-10 Umegaoka, Setagaya City, Tokyo 154-0022, Japan",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://bakestore-hanegi.stores.jp/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1073949225286952910",
+  "rating": 4.6,
+  "reviewCount": 62,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.6547838,
+    139.6540871
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 6:00 PM",
+    "Tuesday: 11:00 AM – 4:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: 11:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-store/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:22.681Z"
+}

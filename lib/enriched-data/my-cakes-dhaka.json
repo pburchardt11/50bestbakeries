@@ -1,0 +1,32 @@
+{
+  "slug": "my-cakes-dhaka",
+  "name": "My cakes",
+  "city": "Dhaka",
+  "country": "Bangladesh",
+  "placeId": "ChIJ2SaA_4q4VTcR6Yx04unjrHY",
+  "googleName": "Swiss Bakery",
+  "formattedAddress": "53 Shiddeshwari Lane, Dhaka 1217, Bangladesh",
+  "phone": "01977-045118",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8551460386135903465",
+  "rating": 4.3,
+  "reviewCount": 1140,
+  "coords": [
+    23.7416801,
+    90.4102688
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/my-cakes-dhaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:51:46.598Z"
+}

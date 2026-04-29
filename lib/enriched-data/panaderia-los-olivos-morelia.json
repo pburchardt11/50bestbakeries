@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-los-olivos-morelia",
+  "name": "Panaderia Los Olivos",
+  "curatedName": "Panaderia Los Olivos",
+  "city": "Morelia",
+  "country": "Mexico",
+  "placeId": "ChIJ7REjliAMLYQRai6YFlyIx68",
+  "googleName": "Panadería Los Olivos",
+  "formattedAddress": "Remigio Yarza 22, Agustín Arriaga Rivera, 58190 Morelia, Mich., Mexico",
+  "phone": "443 359 0141",
+  "internationalPhone": "+52 443 359 0141",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12666242406100250218",
+  "rating": 4.4,
+  "reviewCount": 734,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.6901767,
+    -101.2255169
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:30 PM",
+    "Tuesday: 6:00 AM – 10:30 PM",
+    "Wednesday: 6:00 AM – 10:30 PM",
+    "Thursday: 6:00 AM – 10:30 PM",
+    "Friday: 6:00 AM – 10:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-los-olivos-morelia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:33.942Z"
+}

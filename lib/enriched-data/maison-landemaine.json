@@ -1,0 +1,43 @@
+{
+  "slug": "maison-landemaine",
+  "name": "maison landemaine",
+  "curatedName": "maison landemaine",
+  "city": "新宿区",
+  "country": "Japan",
+  "placeId": "ChIJdwm48wKNGGARVkQpgUqRwU4",
+  "googleName": "Maison Landemaine",
+  "formattedAddress": "3-chōme-14-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+  "phone": "03-3352-1111",
+  "internationalPhone": "+81 3-3352-1111",
+  "website": "https://www.maisonlandemainejapon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5674976754644108374",
+  "rating": 4,
+  "reviewCount": 26,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.6915602,
+    139.7043881
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-landemaine/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:22:12.772Z"
+}

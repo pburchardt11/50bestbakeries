@@ -1,0 +1,45 @@
+{
+  "slug": "jan-bussing-rotterdam",
+  "name": "Jan Bussing",
+  "curatedName": "Jan Bussing",
+  "city": "Rotterdam",
+  "country": "Netherlands",
+  "placeId": "ChIJYY4vKWIzxEcRPYD_-PKjxIM",
+  "googleName": "Jan Bussing",
+  "formattedAddress": "Van Vollenhovenstraat 25, 3016 BG Rotterdam, Netherlands",
+  "phone": "010 230 7219",
+  "internationalPhone": "+31 10 230 7219",
+  "website": "http://bakkerijbussing.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9494894178358755389",
+  "rating": 4.7,
+  "reviewCount": 380,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.9096266,
+    4.4780716
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jan-bussing-rotterdam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:02.703Z"
+}

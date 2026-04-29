@@ -1,0 +1,32 @@
+{
+  "slug": "dixie-bakery-donuts-oranjestad",
+  "name": "Dixie Bakery & Donuts",
+  "city": "Oranjestad",
+  "country": "Aruba",
+  "placeId": "ChIJq-xQiaQ5hY4RWqMHJVaqAn8",
+  "googleName": "Dixie Bakery & Donuts",
+  "formattedAddress": "Sero Patrishi 59 a, Oranjestad, Aruba",
+  "phone": "740 0735",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9152064679735436122",
+  "rating": 4.9,
+  "reviewCount": 52,
+  "coords": [
+    12.5316856,
+    -70.0134467
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dixie-bakery-donuts-oranjestad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:28:50.932Z"
+}

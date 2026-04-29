@@ -1,0 +1,32 @@
+{
+  "slug": "babic-bakery-dubrovnik",
+  "name": "Babić Bakery",
+  "city": "Dubrovnik",
+  "country": "Croatia",
+  "placeId": "ChIJK_hxqYALTBMRqcC_l_MWvoM",
+  "googleName": "Babić Bakery",
+  "formattedAddress": "Ul. od Puča 11, 20000, Dubrovnik, Croatia",
+  "phone": "091 489 4004",
+  "website": "https://babicpekara.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9493050300022374569",
+  "rating": 2.9,
+  "reviewCount": 125,
+  "coords": [
+    42.6407145,
+    18.1087173
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/babic-bakery-dubrovnik/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:50:20.487Z"
+}

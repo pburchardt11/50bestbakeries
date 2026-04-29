@@ -1,0 +1,47 @@
+{
+  "slug": "publix-clarksville",
+  "name": "Publix",
+  "curatedName": "Publix",
+  "city": "Clarksville",
+  "country": "United States",
+  "placeId": "ChIJQZAqZTjZZIgR2HDtZO7-y04",
+  "googleName": "Publix Super Market at Shoppes at Peachers Mill",
+  "formattedAddress": "1490 Tiny Town Rd, Clarksville, TN 37042, USA",
+  "phone": "(931) 503-2551",
+  "internationalPhone": "+1 931-503-2551",
+  "website": "https://www.publix.com/?setstorenumber=1425&utm_medium=maps&utm_source=extendednetwork&utm_content=psm_website_url",
+  "googleMapsUrl": "https://maps.google.com/?cid=5677912055079596248",
+  "rating": 4.6,
+  "reviewCount": 2605,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "florist",
+    "food",
+    "grocery_or_supermarket",
+    "liquor_store",
+    "point_of_interest",
+    "store",
+    "supermarket"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.6252372,
+    -87.37256029999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Supermarket chain with a wide selection of groceries, plus deli & bakery departments.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/publix-clarksville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:59.197Z"
+}

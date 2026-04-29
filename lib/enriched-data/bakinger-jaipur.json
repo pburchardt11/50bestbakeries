@@ -1,0 +1,43 @@
+{
+  "slug": "bakinger-jaipur",
+  "name": "Bakinger",
+  "curatedName": "Bakinger",
+  "city": "Jaipur",
+  "country": "India",
+  "placeId": "ChIJ5_HbzGC1bTkR--4F5AB4704",
+  "googleName": "Bakinger",
+  "formattedAddress": "Plot No. 18, Sundar Vihar, Durgapura, Jaipur, Rajasthan 302018, India",
+  "phone": "095092 48197",
+  "internationalPhone": "+91 95092 48197",
+  "website": "https://www.instagram.com/bakinger__/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5687896799613153019",
+  "rating": 5,
+  "reviewCount": 206,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.8458736,
+    75.7940575
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakinger-jaipur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:32.043Z"
+}

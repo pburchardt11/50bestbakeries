@@ -1,0 +1,43 @@
+{
+  "slug": "perola-do-atlantico-matosinhos",
+  "name": "Pérola Do Atlântico",
+  "curatedName": "Pérola Do Atlântico",
+  "city": "Matosinhos",
+  "country": "Portugal",
+  "placeId": "ChIJ-SxEnjtvJA0RPwtAR-lMuKU",
+  "googleName": "Pérola Do Atlântico",
+  "formattedAddress": "R. Roberto Ivens 941, 4450-077 Matosinhos, Portugal",
+  "phone": "22 494 9537",
+  "internationalPhone": "+351 22 494 9537",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11941378976779340607",
+  "rating": 4.3,
+  "reviewCount": 1063,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1792277,
+    -8.6902078
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/perola-do-atlantico-matosinhos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:54:43.135Z"
+}

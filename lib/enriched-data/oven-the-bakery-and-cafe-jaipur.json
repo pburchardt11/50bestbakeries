@@ -1,0 +1,44 @@
+{
+  "slug": "oven-the-bakery-and-cafe-jaipur",
+  "name": "Oven The Bakery and Cafe",
+  "curatedName": "Oven The Bakery and Cafe",
+  "city": "Jaipur",
+  "country": "India",
+  "placeId": "ChIJLYboHQK0bTkRzbIe5MnYcsQ",
+  "googleName": "Oven The Bakery And Café",
+  "formattedAddress": "Oven the bakery shop no -2 infront of mahaveer college, Mahavir Marg, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001, India",
+  "phone": "091191 13269",
+  "internationalPhone": "+91 91191 13269",
+  "website": "http://www.facebook.com/oventhebakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=14155614940406133453",
+  "rating": 4.3,
+  "reviewCount": 809,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.909039,
+    75.8101193
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 11:30 PM",
+    "Tuesday: 12:00 – 11:30 PM",
+    "Wednesday: 12:00 – 11:30 PM",
+    "Thursday: 12:00 – 11:30 PM",
+    "Friday: 12:00 – 11:30 PM",
+    "Saturday: 12:00 – 11:30 PM",
+    "Sunday: 12:00 – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oven-the-bakery-and-cafe-jaipur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:34.410Z"
+}

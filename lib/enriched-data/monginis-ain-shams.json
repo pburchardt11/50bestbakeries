@@ -1,0 +1,32 @@
+{
+  "slug": "monginis-ain-shams",
+  "name": "Monginis",
+  "city": "Ain Shams",
+  "country": "Egypt",
+  "placeId": "ChIJeXHbkbEVWBQRpfKNLtR_VMo",
+  "googleName": "Monginis - مونجيني‎",
+  "formattedAddress": "Ain Shams Sharkeya, Ain Shams, Cairo Governorate 4543001, Egypt",
+  "phone": "02 37693557",
+  "website": "https://www.monginisbakery.com/market",
+  "googleMapsUrl": "https://maps.google.com/?cid=14579418442995987109",
+  "rating": 4.1,
+  "reviewCount": 446,
+  "coords": [
+    30.12945419999999,
+    31.3219822
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": "Outlet for bakery chain offering creative cakes, pastries, sweet gifts and flowers.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/monginis-ain-shams/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:00:57.929Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "massive-bakery-cafe-cairo",
+  "name": "Massive Bakery Café",
+  "city": "Cairo",
+  "country": "Egypt",
+  "placeId": "ChIJB2Phulg_WBQRn7l1iu9p_GA",
+  "googleName": "Massive Café & Bakery",
+  "formattedAddress": "3858+MW4, Dr Abd El-Aziz El-Shennawy, Gameat Al Azhar, Nasr City, Cairo Governorate 4434110, Egypt",
+  "phone": null,
+  "website": "https://www.facebook.com/Massive.bakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6988577199313238431",
+  "rating": 4.2,
+  "reviewCount": 435,
+  "coords": [
+    30.0591328,
+    31.317336
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/massive-bakery-cafe-cairo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:02:04.484Z"
+}

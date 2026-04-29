@@ -1,0 +1,32 @@
+{
+  "slug": "biscuit-sylvie-aalst",
+  "name": "Biscuit Sylvie",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJJy0jAVKVw0cRiA-r4Gczy_w",
+  "googleName": "Biscuit Sylvie",
+  "formattedAddress": "Europastraat, 9310 Aalst, Belgium",
+  "phone": "0476 37 06 65",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18215709639074058120",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    50.9462225,
+    4.140645
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 8:00 AM – 12:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/biscuit-sylvie-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:03:13.598Z"
+}

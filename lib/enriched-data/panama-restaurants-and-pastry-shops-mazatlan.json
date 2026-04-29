@@ -1,0 +1,44 @@
+{
+  "slug": "panama-restaurants-and-pastry-shops-mazatlan",
+  "name": "Panamá Restaurants and Pastry Shops",
+  "curatedName": "Panamá Restaurants and Pastry Shops",
+  "city": "Mazatlán",
+  "country": "Mexico",
+  "placeId": "ChIJswFy_kBTn4YR5RFDBpe4NVM",
+  "googleName": "Panamá Restaurants and Pastry Shops",
+  "formattedAddress": "Av. Ejército Mexicano 700, Lomas del Mar, 82120 Mazatlán, Sin., Mexico",
+  "phone": "669 985 2096",
+  "internationalPhone": "+52 669 985 2096",
+  "website": "https://www.panama.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5995901437698314725",
+  "rating": 4.7,
+  "reviewCount": 11574,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.2160081,
+    -106.416074
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:30 PM",
+    "Tuesday: 7:00 AM – 10:30 PM",
+    "Wednesday: 7:00 AM – 10:30 PM",
+    "Thursday: 7:00 AM – 10:30 PM",
+    "Friday: 7:00 AM – 10:30 PM",
+    "Saturday: 7:00 AM – 10:30 PM",
+    "Sunday: 7:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panama-restaurants-and-pastry-shops-mazatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:16.677Z"
+}

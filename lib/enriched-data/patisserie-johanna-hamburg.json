@@ -1,0 +1,43 @@
+{
+  "slug": "patisserie-johanna-hamburg",
+  "name": "Pâtisserie Johanna",
+  "curatedName": "Pâtisserie Johanna",
+  "city": "Hamburg",
+  "country": "Germany",
+  "placeId": "ChIJIamFu4CPsUcRmnQ6Tyfnfpc",
+  "googleName": "Pâtisserie Johanna",
+  "formattedAddress": "Am Sandtorkai 24, 20457 Hamburg, Germany",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.patisserie-johanna.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10916416702811632794",
+  "rating": 4.6,
+  "reviewCount": 994,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.5434259,
+    9.9930142
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: 11:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-johanna-hamburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:21.511Z"
+}

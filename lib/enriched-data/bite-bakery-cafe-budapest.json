@@ -1,0 +1,45 @@
+{
+  "slug": "bite-bakery-cafe-budapest",
+  "name": "BITE bakery café",
+  "curatedName": "BITE bakery café",
+  "city": "Budapest",
+  "country": "Hungary",
+  "placeId": "ChIJUZdHFQ3cQUcRtB_5wGWEBbs",
+  "googleName": "BITE bakery café",
+  "formattedAddress": "Budapest, Teréz krt. 62, 1066 Hungary",
+  "phone": "06 30 690 2185",
+  "internationalPhone": "+36 30 690 2185",
+  "website": "http://www.bitebakerycafe.hu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13476323032540192692",
+  "rating": 4.5,
+  "reviewCount": 2353,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.509716,
+    19.0566272
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bite-bakery-cafe-budapest/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:23.240Z"
+}

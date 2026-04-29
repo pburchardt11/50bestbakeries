@@ -1,0 +1,43 @@
+{
+  "slug": "cake-tella-petaling-jaya",
+  "name": "Cake Tella",
+  "curatedName": "Cake Tella",
+  "city": "Petaling Jaya",
+  "country": "Malaysia",
+  "placeId": "ChIJdWYRcq5OzDERQ-qOLE4eoHg",
+  "googleName": "Cake Tella",
+  "formattedAddress": "35, Jalan SS 26/15, Taman Mayang Jaya, 47301 Petaling Jaya, Selangor, Malaysia",
+  "phone": "010-397 6687",
+  "internationalPhone": "+60 10-397 6687",
+  "website": "https://www.caketella.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8691980601928903235",
+  "rating": 4.8,
+  "reviewCount": 3169,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.1169718,
+    101.6025881
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:30 AM – 5:30 PM",
+    "Wednesday: 10:30 AM – 5:30 PM",
+    "Thursday: 10:30 AM – 5:30 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-tella-petaling-jaya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:52.646Z"
+}

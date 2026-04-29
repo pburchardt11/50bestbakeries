@@ -1,0 +1,45 @@
+{
+  "slug": "merveilleux-patisserie-kad-koy",
+  "name": "Merveilleux Patisserie",
+  "curatedName": "Merveilleux Patisserie",
+  "city": "Kadıköy",
+  "country": "Türkiye",
+  "placeId": "ChIJf__1X4C5yhQRg8ai7jobopo",
+  "googleName": "Merveilleux Patisserie",
+  "formattedAddress": "Feneryolu, Hamdibey Sok. 16/2 A, 34724 Kadıköy/İstanbul, Türkiye",
+  "phone": "0542 205 81 82",
+  "internationalPhone": "+90 542 205 81 82",
+  "website": "http://www.merveilleuxpatisserie.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11142498367993726595",
+  "rating": 4.7,
+  "reviewCount": 291,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.9862974,
+    29.0455363
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/merveilleux-patisserie-kad-koy/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:00:00.534Z"
+}

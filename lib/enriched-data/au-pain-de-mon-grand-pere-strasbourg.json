@@ -1,0 +1,43 @@
+{
+  "slug": "au-pain-de-mon-grand-pere-strasbourg",
+  "name": "Au Pain de mon Grand Père",
+  "curatedName": "Au Pain de mon Grand Père",
+  "city": "Strasbourg",
+  "country": "France",
+  "placeId": "ChIJLWMVXVXIlkcRAQTGmF_812o",
+  "googleName": "Au Pain de Mon Grand Père",
+  "formattedAddress": "58 Rue de la Krutenau, 67000 Strasbourg, France",
+  "phone": "03 88 36 59 66",
+  "internationalPhone": "+33 3 88 36 59 66",
+  "website": "http://www.aupaindemongrandpere.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7698899575528358913",
+  "rating": 4.2,
+  "reviewCount": 916,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.5797329,
+    7.757844599999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-pain-de-mon-grand-pere-strasbourg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:01.600Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "hopscotch-bakery-and-cafe",
+  "name": "Hopscotch Bakery and Cafe",
+  "city": "المرخ",
+  "country": "Bahrain",
+  "placeId": "ChIJBT6aUnmwST4RMa0L7KBQexg",
+  "googleName": "Hopscotch Bakery & Cafe",
+  "formattedAddress": "Rd No 3371, Saar, Bahrain",
+  "phone": "1769 1124",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1764092331130858801",
+  "rating": 4,
+  "reviewCount": 485,
+  "coords": [
+    26.1984993,
+    50.4772475
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hopscotch-bakery-and-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:47:41.430Z"
+}

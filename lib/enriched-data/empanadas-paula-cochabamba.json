@@ -1,0 +1,32 @@
+{
+  "slug": "empanadas-paula-cochabamba",
+  "name": "Empanadas Paula",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJjQST3sFz45MR73ITZOkptyc",
+  "googleName": "Empanadas Paula",
+  "formattedAddress": "C. Lanza 0629, Cochabamba, Bolivia",
+  "phone": "77927000",
+  "website": "https://www.facebook.com/empanadaspaulabolivia?mibextid=ZbWKwL",
+  "googleMapsUrl": "https://maps.google.com/?cid=2861802170600354543",
+  "rating": 4.7,
+  "reviewCount": 9,
+  "coords": [
+    -17.3971336,
+    -66.15235679999999
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 6:30 PM",
+    "Tuesday: 9:30 AM – 6:30 PM",
+    "Wednesday: 9:30 AM – 6:30 PM",
+    "Thursday: 9:30 AM – 6:30 PM",
+    "Friday: 9:30 AM – 6:30 PM",
+    "Saturday: 9:30 AM – 6:30 PM",
+    "Sunday: 9:30 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/empanadas-paula-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:15:11.956Z"
+}

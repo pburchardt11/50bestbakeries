@@ -1,0 +1,43 @@
+{
+  "slug": "antico-forno-della-casana-genova",
+  "name": "Antico Forno della Casana",
+  "curatedName": "Antico Forno della Casana",
+  "city": "Genova",
+  "country": "Italy",
+  "placeId": "ChIJvSpjFCRD0xIRH-iGJtrmpG8",
+  "googleName": "Antico Forno della Casana",
+  "formattedAddress": "Vico della Casana, 17R, 16123 Genova GE, Italy",
+  "phone": "010 251 5032",
+  "internationalPhone": "+39 010 251 5032",
+  "website": "http://anticofornodellacasanagenova.myadj.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8044808659014182943",
+  "rating": 4.6,
+  "reviewCount": 661,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.40898019999999,
+    8.932923299999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM, 4:00 – 7:30 PM",
+    "Tuesday: 8:00 AM – 2:00 PM, 4:00 – 7:30 PM",
+    "Wednesday: 8:00 AM – 2:00 PM, 4:00 – 7:30 PM",
+    "Thursday: 8:00 AM – 2:00 PM, 4:00 – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 9:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antico-forno-della-casana-genova/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:19.997Z"
+}

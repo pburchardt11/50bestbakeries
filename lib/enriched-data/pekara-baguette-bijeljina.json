@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-baguette-bijeljina",
+  "name": "Pekara Baguette",
+  "city": "Bijeljina",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJ_Ws62JrpW0cR8FG-if92dEw",
+  "googleName": "Pekara Baguette (PEKOTEKA)",
+  "formattedAddress": "Srpske dobrovoljačke garde 3, Bijeljina 76300, Bosnia and Herzegovina",
+  "phone": "065 227-711",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5509159084080648688",
+  "rating": 4.5,
+  "reviewCount": 63,
+  "coords": [
+    44.7606624,
+    19.2231309
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 10:00 PM",
+    "Tuesday: 5:30 AM – 10:00 PM",
+    "Wednesday: 5:30 AM – 10:00 PM",
+    "Thursday: 5:30 AM – 10:00 PM",
+    "Friday: 5:30 AM – 10:00 PM",
+    "Saturday: 5:30 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-baguette-bijeljina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:17:52.447Z"
+}

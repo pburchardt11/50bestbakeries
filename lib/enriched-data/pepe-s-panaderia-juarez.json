@@ -1,0 +1,43 @@
+{
+  "slug": "pepe-s-panaderia-juarez",
+  "name": "Pepe's Panaderia",
+  "curatedName": "Pepe's Panaderia",
+  "city": "Juárez",
+  "country": "Mexico",
+  "placeId": "ChIJnQ2Kmthn54YRd3sUEVI6yXk",
+  "googleName": "Pepe's Panadería",
+  "formattedAddress": "Priv. Jaime Bermúdez Cuarón 7718, 32587 Juárez, Chih., Mexico",
+  "phone": "656 764 7158",
+  "internationalPhone": "+52 656 764 7158",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8775609473056406391",
+  "rating": 4.5,
+  "reviewCount": 60,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.6381441,
+    -106.3995553
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pepe-s-panaderia-juarez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:43.703Z"
+}

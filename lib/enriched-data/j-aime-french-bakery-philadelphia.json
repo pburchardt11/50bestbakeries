@@ -1,0 +1,44 @@
+{
+  "slug": "j-aime-french-bakery-philadelphia",
+  "name": "J'aime French Bakery",
+  "curatedName": "J'aime French Bakery",
+  "city": "Philadelphia",
+  "country": "United States",
+  "placeId": "ChIJg_6N5CXGxokRrQ3gJ0AkSoA",
+  "googleName": "J'aime French Bakery",
+  "formattedAddress": "212 S 12th St, Philadelphia, PA 19107, USA",
+  "phone": "(215) 833-9374",
+  "internationalPhone": "+1 215-833-9374",
+  "website": "http://jaimefrenchbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9244241043096866221",
+  "rating": 4.7,
+  "reviewCount": 872,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.9480647,
+    -75.1608294
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Airy counter-serve bakery & cafe serving French pastries, sandwiches, crepes & coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/j-aime-french-bakery-philadelphia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:12.798Z"
+}

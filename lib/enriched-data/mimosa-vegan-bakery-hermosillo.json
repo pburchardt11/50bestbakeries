@@ -1,0 +1,43 @@
+{
+  "slug": "mimosa-vegan-bakery-hermosillo",
+  "name": "Mimosa Vegan Bakery",
+  "curatedName": "Mimosa Vegan Bakery",
+  "city": "Hermosillo",
+  "country": "Mexico",
+  "placeId": "ChIJoaXrhFaFzoYRi6SXgze5dpE",
+  "googleName": "Mimosa Vegan Bakery",
+  "formattedAddress": "C. Olivares 70-local 6, Valle Grande, 83205 Hermosillo, Son., Mexico",
+  "phone": "662 135 9523",
+  "internationalPhone": "+52 662 135 9523",
+  "website": "http://www.mimosabakery.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10481768830833501323",
+  "rating": 4.7,
+  "reviewCount": 144,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.0865561,
+    -110.976766
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:30 PM",
+    "Tuesday: 9:00 AM – 7:30 PM",
+    "Wednesday: 9:00 AM – 7:30 PM",
+    "Thursday: 9:00 AM – 7:30 PM",
+    "Friday: 9:00 AM – 7:30 PM",
+    "Saturday: 9:00 AM – 7:30 PM",
+    "Sunday: 10:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mimosa-vegan-bakery-hermosillo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:29.516Z"
+}

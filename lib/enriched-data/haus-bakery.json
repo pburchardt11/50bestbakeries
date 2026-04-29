@@ -1,0 +1,32 @@
+{
+  "slug": "haus-bakery",
+  "name": "Haus Bakery",
+  "city": "المنامة",
+  "country": "Bahrain",
+  "placeId": "ChIJoV4cXMKvST4RMHlrDONpJ_8",
+  "googleName": "Haus Restaurant & Lounge",
+  "formattedAddress": "Building 772, Road 3826, Adliya Adliya، Adliya، Manama 338, Bahrain",
+  "phone": "1766 3232",
+  "website": "http://www.hausphilosophy.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18385780427650201904",
+  "rating": 4.1,
+  "reviewCount": 984,
+  "coords": [
+    26.2140288,
+    50.5919456
+  ],
+  "openingHours": [
+    "Monday: 12:00 PM – 2:00 AM",
+    "Tuesday: 12:00 PM – 2:00 AM",
+    "Wednesday: 12:00 PM – 2:30 AM",
+    "Thursday: 12:00 PM – 2:30 AM",
+    "Friday: 12:00 PM – 2:30 AM",
+    "Saturday: 12:00 PM – 2:30 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/haus-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:49:14.389Z"
+}

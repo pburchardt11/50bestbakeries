@@ -1,0 +1,43 @@
+{
+  "slug": "sfogliate-e-sfogliatelle-napoli",
+  "name": "Sfogliate e Sfogliatelle",
+  "curatedName": "Sfogliate e Sfogliatelle",
+  "city": "Napoli",
+  "country": "Italy",
+  "placeId": "ChIJR6GDmUEIOxMRscDkCopE-NA",
+  "googleName": "Sfogliate e Sfogliatelle",
+  "formattedAddress": "Via S. Gregorio Armeno, 24, 80138 Napoli NA, Italy",
+  "phone": "081 790 1009",
+  "internationalPhone": "+39 081 790 1009",
+  "website": "https://sfogliateesfogliatelle.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15057860713792192689",
+  "rating": 4.8,
+  "reviewCount": 1978,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.84989849999999,
+    14.2579366
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sfogliate-e-sfogliatelle-napoli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:46.218Z"
+}

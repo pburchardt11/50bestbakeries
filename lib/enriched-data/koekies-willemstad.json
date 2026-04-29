@@ -1,0 +1,32 @@
+{
+  "slug": "koekies-willemstad",
+  "name": "Koekies+",
+  "city": "Willemstad",
+  "country": "Curaçao",
+  "placeId": "ChIJJdnhRfGdhI4RwPtoljEj3RQ",
+  "googleName": "Koekiesplus",
+  "formattedAddress": "Jan Noorduynweg 24, 1 unit, Willemstad, Curaçao",
+  "phone": "9 844 3344",
+  "website": "http://www.koekiesplus.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1503396546495445952",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    12.1592426,
+    -68.9496688
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 2:00 – 6:00 PM",
+    "Wednesday: 2:00 – 6:00 PM",
+    "Thursday: 2:00 – 6:00 PM",
+    "Friday: 2:00 – 6:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/koekies-willemstad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:30.017Z"
+}

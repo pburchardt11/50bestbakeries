@@ -1,0 +1,44 @@
+{
+  "slug": "bakes-phu-my-hung-quan-7",
+  "name": "Bakes Phú Mỹ Hưng",
+  "curatedName": "Bakes Phú Mỹ Hưng",
+  "city": "Quận 7",
+  "country": "Vietnam",
+  "placeId": "ChIJB_XH1QIvdTERAMu1ycQNvN8",
+  "googleName": "Bakes Phú Mỹ Hưng",
+  "formattedAddress": "169 Nguyễn Đức Cảnh, Tân Phong, Tân Hưng, Hồ Chí Minh 10000, Vietnam",
+  "phone": "0904 104 590",
+  "internationalPhone": "+84 904 104 590",
+  "website": "https://bakes-saigon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16121775904928418560",
+  "rating": 4.9,
+  "reviewCount": 1198,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7216667,
+    106.7114687
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 7:30 AM – 10:00 PM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakes-phu-my-hung-quan-7/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:32:57.366Z"
+}

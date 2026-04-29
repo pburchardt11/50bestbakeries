@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-la-superior-monterrey",
+  "name": "Panaderia La Superior",
+  "curatedName": "Panaderia La Superior",
+  "city": "Monterrey",
+  "country": "Mexico",
+  "placeId": "ChIJe1NUKii-YoYR7ieoKrVa0T4",
+  "googleName": "Panaderia La Superior",
+  "formattedAddress": "Vicente Guerrero 220, Centro, 64000 Monterrey, N.L., Mexico",
+  "phone": "81 8343 5152",
+  "internationalPhone": "+52 81 8343 5152",
+  "website": "https://www.facebook.com/Panaderialasuperiormonterrey/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4526498834635302894",
+  "rating": 4.4,
+  "reviewCount": 1183,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.6769672,
+    -100.3132814
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:00 PM",
+    "Tuesday: 5:00 AM – 7:00 PM",
+    "Wednesday: 5:00 AM – 7:00 PM",
+    "Thursday: 5:00 AM – 7:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 5:00 AM – 7:30 PM",
+    "Sunday: 5:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-superior-monterrey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:03.146Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "vanan-bakery-samba",
+  "name": "Vanan Bakery",
+  "city": "Samba",
+  "country": "Angola",
+  "placeId": "ChIJy1mp8t_0URoR7xtYd3ZwmsI",
+  "googleName": "Vanan Bakery",
+  "formattedAddress": "35RW+X7X, Via S15, Luanda, Angola",
+  "phone": "930 886 436",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14022644043882175471",
+  "rating": 4.1,
+  "reviewCount": 1209,
+  "coords": [
+    -8.907504099999999,
+    13.1957264
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vanan-bakery-samba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:18:52.667Z"
+}

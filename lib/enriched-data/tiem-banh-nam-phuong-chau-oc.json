@@ -1,0 +1,43 @@
+{
+  "slug": "tiem-banh-nam-phuong-chau-oc",
+  "name": "Tiệm bánh Nam Phương.",
+  "curatedName": "Tiệm bánh Nam Phương.",
+  "city": "Châu Đốc",
+  "country": "Vietnam",
+  "placeId": "ChIJ09QEGQMkCjERRbXl_HcrMdU",
+  "googleName": "Tiệm bánh Nam Phương.",
+  "formattedAddress": "144 Đ. Lê Lợi, Châu Phú B, Châu Đốc, An Giang, Vietnam",
+  "phone": "0986 944 144",
+  "internationalPhone": "+84 986 944 144",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15362107598281487685",
+  "rating": 3.9,
+  "reviewCount": 15,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7057841,
+    105.1291982
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:30 PM",
+    "Tuesday: 7:30 AM – 8:30 PM",
+    "Wednesday: 7:30 AM – 8:30 PM",
+    "Thursday: 7:30 AM – 8:30 PM",
+    "Friday: 7:30 AM – 8:30 PM",
+    "Saturday: 7:30 AM – 8:30 PM",
+    "Sunday: 7:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiem-banh-nam-phuong-chau-oc/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:11.561Z"
+}

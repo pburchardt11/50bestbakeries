@@ -1,0 +1,43 @@
+{
+  "slug": "cookie-craft-ludhiana",
+  "name": "Cookie Craft",
+  "curatedName": "Cookie Craft",
+  "city": "Ludhiana",
+  "country": "India",
+  "placeId": "ChIJ1X3KohWDGjkRC7xxuIpRwmA",
+  "googleName": "Cookie Craft",
+  "formattedAddress": "155 a, Rani Jhansi Rd, Mall Enclave, Ghumar Mandi, Ludhiana, Punjab 141001, India",
+  "phone": "098768 22777",
+  "internationalPhone": "+91 98768 22777",
+  "website": "http://www.cookiecraft.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6972224829364747275",
+  "rating": 4.5,
+  "reviewCount": 427,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.9097576,
+    75.83702079999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:30 PM",
+    "Tuesday: 7:30 AM – 10:30 PM",
+    "Wednesday: 7:30 AM – 10:30 PM",
+    "Thursday: 7:30 AM – 10:30 PM",
+    "Friday: 7:30 AM – 10:30 PM",
+    "Saturday: 7:30 AM – 10:30 PM",
+    "Sunday: 7:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cookie-craft-ludhiana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:05.597Z"
+}

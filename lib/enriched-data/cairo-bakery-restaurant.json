@@ -1,0 +1,32 @@
+{
+  "slug": "cairo-bakery-restaurant",
+  "name": "Cairo Bakery & restaurant",
+  "city": "المنامة",
+  "country": "Bahrain",
+  "placeId": "ChIJj_idODevST4RMa9MtHyRQYA",
+  "googleName": "Cairo Restaurant - مطعم القاهرة",
+  "formattedAddress": "Road No 2721, Manama, Bahrain",
+  "phone": "1771 6602",
+  "website": "https://instagram.com/cairo.restaurant?igshid=1g5da0lzdoccx",
+  "googleMapsUrl": "https://maps.google.com/?cid=9241827875127865137",
+  "rating": 3.9,
+  "reviewCount": 975,
+  "coords": [
+    26.2146282,
+    50.5874286
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 3:00 AM",
+    "Tuesday: 9:00 AM – 3:00 AM",
+    "Wednesday: 9:00 AM – 3:00 AM",
+    "Thursday: 9:00 AM – 3:00 AM",
+    "Friday: 9:00 AM – 3:00 AM",
+    "Saturday: 9:00 AM – 3:00 AM",
+    "Sunday: 9:00 AM – 3:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cairo-bakery-restaurant/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:49:16.322Z"
+}

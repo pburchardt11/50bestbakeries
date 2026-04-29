@@ -1,0 +1,44 @@
+{
+  "slug": "the-slow-bakery-rio-de-janeiro",
+  "name": "The Slow Bakery",
+  "curatedName": "The Slow Bakery",
+  "city": "Rio de Janeiro",
+  "country": "Brazil",
+  "placeId": "ChIJPf8rZOF_mQARbfuA749vbDo",
+  "googleName": "The Slow Bakery",
+  "formattedAddress": "R. General Polidoro, 25 - Botafogo, Rio de Janeiro - RJ, 22280-004, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.theslowbakery.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4209862415673785197",
+  "rating": 4.5,
+  "reviewCount": 2353,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.9527396,
+    -43.1829308
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Artisanal bakery for sourdoughs, grilled cheese sandwiches & sweet treats, plus cold brew coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-slow-bakery-rio-de-janeiro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:12.208Z"
+}

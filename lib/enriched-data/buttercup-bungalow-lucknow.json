@@ -1,0 +1,45 @@
+{
+  "slug": "buttercup-bungalow-lucknow",
+  "name": "Buttercup Bungalow",
+  "curatedName": "Buttercup Bungalow",
+  "city": "Lucknow",
+  "country": "India",
+  "placeId": "ChIJK9jyFpbjmzkRkrlUSWuhgFQ",
+  "googleName": "Buttercup Bungalow",
+  "formattedAddress": "2/86, Baldev Singh Arya Marg, next to Manoj Pandey, Vijay Khand, Ujariyaon, Vijay Khand 2, Chowraha, Lucknow, Uttar Pradesh 226010, India",
+  "phone": "078001 11114",
+  "internationalPhone": "+91 78001 11114",
+  "website": "http://www.buttercupbungalow.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6089044178368772498",
+  "rating": 4.4,
+  "reviewCount": 2331,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.8561792,
+    80.994996
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:30 PM",
+    "Tuesday: 10:00 AM – 11:30 PM",
+    "Wednesday: 10:00 AM – 11:30 PM",
+    "Thursday: 10:00 AM – 11:30 PM",
+    "Friday: 10:00 AM – 11:30 PM",
+    "Saturday: 10:00 AM – 11:30 PM",
+    "Sunday: 10:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": "Antique-filled boutiquey cafe serving hot drinks, baking and a range of light international dishes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/buttercup-bungalow-lucknow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:49:45.839Z"
+}

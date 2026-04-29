@@ -1,0 +1,32 @@
+{
+  "slug": "el-coco-bakery-coffee-shop-higuey",
+  "name": "El Coco Bakery & Coffee Shop.",
+  "city": "Higüey",
+  "country": "Dominican Republic",
+  "placeId": "ChIJn8KC56LsqI4RyOqrVKoXpo0",
+  "googleName": "Cake Bakery & Coffee Shop El Coco",
+  "formattedAddress": "Avenida Real Sur, Punta Cana 23000, Dominican Republic",
+  "phone": "(849) 916-6363",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10206871625814239944",
+  "rating": 4.6,
+  "reviewCount": 80,
+  "coords": [
+    18.6716479,
+    -68.4188293
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-coco-bakery-coffee-shop-higuey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:26.488Z"
+}

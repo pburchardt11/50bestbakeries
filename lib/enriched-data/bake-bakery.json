@@ -1,0 +1,32 @@
+{
+  "slug": "bake-bakery",
+  "name": "Bake Bakery",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJOyLylEW9akARY0f7Rh7Dx8k",
+  "googleName": "Bake Bakery",
+  "formattedAddress": "35 Pushkin St, Yerevan 0002, Armenia",
+  "phone": "093 424297",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14539804456796243811",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    40.1834823,
+    44.5113233
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:30 PM",
+    "Tuesday: 8:30 AM – 10:30 PM",
+    "Wednesday: 8:30 AM – 10:30 PM",
+    "Thursday: 8:30 AM – 10:30 PM",
+    "Friday: 8:30 AM – 10:30 PM",
+    "Saturday: 8:30 AM – 10:30 PM",
+    "Sunday: 8:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:26:56.182Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "snoul-bakery",
+  "name": "Snoul Bakery",
+  "city": "ខេត្តក្រចេះ",
+  "country": "Cambodia",
+  "placeId": "ChIJ1Q3temjPDDERW9ATqueS-VI",
+  "googleName": "Snoul Bakery - ហាង នំបុ័ងស្នួល",
+  "formattedAddress": "3CGF+W63, Snuol, Cambodia",
+  "phone": "097 700 9698",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5978971503999570011",
+  "rating": 4.5,
+  "reviewCount": 6,
+  "coords": [
+    12.0774465,
+    106.4231969
+  ],
+  "openingHours": [
+    "Monday: 4:30 – 11:30 AM",
+    "Tuesday: 4:30 – 11:30 AM",
+    "Wednesday: 4:30 – 11:30 AM",
+    "Thursday: 4:30 – 11:30 AM",
+    "Friday: 4:30 – 11:30 AM",
+    "Saturday: 4:30 – 11:30 AM",
+    "Sunday: 4:30 – 11:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/snoul-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:31:23.613Z"
+}

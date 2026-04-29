@@ -1,0 +1,32 @@
+{
+  "slug": "candied-dhaka",
+  "name": "Candied",
+  "city": "Dhaka",
+  "country": "Bangladesh",
+  "placeId": "ChIJSZ7rxhzHVTcRKUTQKq9H1js",
+  "googleName": "Candy Stop",
+  "formattedAddress": "Vatara, Dhaka 1229, Bangladesh",
+  "phone": "01715-037178",
+  "website": "https://candystopbd.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4311712510916969513",
+  "rating": 4,
+  "reviewCount": 6,
+  "coords": [
+    23.7956471,
+    90.4370071
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/candied-dhaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:51:50.657Z"
+}

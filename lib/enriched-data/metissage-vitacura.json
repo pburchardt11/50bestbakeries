@@ -1,0 +1,44 @@
+{
+  "slug": "metissage-vitacura",
+  "name": "Metissage",
+  "curatedName": "Metissage",
+  "city": "Vitacura",
+  "country": "Chile",
+  "placeId": "ChIJM4bglUfPYpYRObq-GQPVG-0",
+  "googleName": "Metissage",
+  "formattedAddress": "Av Vitacura 3187, Vitacura, Región Metropolitana, Chile",
+  "phone": "9 5400 7845",
+  "internationalPhone": "+56 9 5400 7845",
+  "website": "https://tienda.metissage.cl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17085483820653656633",
+  "rating": 4.5,
+  "reviewCount": 1261,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.4072594,
+    -70.5993273
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/metissage-vitacura/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:59.210Z"
+}

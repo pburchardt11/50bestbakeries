@@ -1,0 +1,43 @@
+{
+  "slug": "happiness-bakery-amritsar",
+  "name": "Happiness Bakery",
+  "curatedName": "Happiness Bakery",
+  "city": "Amritsar",
+  "country": "India",
+  "placeId": "ChIJy9RPWJ9lGTkRggd3eRYkljY",
+  "googleName": "HAPPINESS BAKERY",
+  "formattedAddress": "Happiness Bakery, 2071-A, Gali-3, Rattan Singh Chowk, New Abadi Faizpura, Ranjit Avenue, Amritsar, Punjab 143001, India",
+  "phone": "082838 44805",
+  "internationalPhone": "+91 82838 44805",
+  "website": "https://youtube.com/@happinessbakery?si=rzqZQy7SOij0I7HG",
+  "googleMapsUrl": "https://maps.google.com/?cid=3933371003500431234",
+  "rating": 5,
+  "reviewCount": 1695,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.6562384,
+    74.8707292
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/happiness-bakery-amritsar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:30.877Z"
+}

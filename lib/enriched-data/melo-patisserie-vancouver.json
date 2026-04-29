@@ -1,0 +1,43 @@
+{
+  "slug": "melo-patisserie-vancouver",
+  "name": "Melo Patisserie",
+  "curatedName": "Melo Patisserie",
+  "city": "Vancouver",
+  "country": "Canada",
+  "placeId": "ChIJ5yY5tMhzhlQR52Fu7Qo95Ms",
+  "googleName": "Melo Patisserie",
+  "formattedAddress": "154 E 8th Ave, Vancouver, BC V5T 1R7, Canada",
+  "phone": "(604) 423-4520",
+  "internationalPhone": "+1 604-423-4520",
+  "website": "https://www.melopatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14691935001531802087",
+  "rating": 4.7,
+  "reviewCount": 1005,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.263594,
+    -123.101553
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 9:00 PM",
+    "Saturday: 8:30 AM – 9:00 PM",
+    "Sunday: 8:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/melo-patisserie-vancouver/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:40.998Z"
+}

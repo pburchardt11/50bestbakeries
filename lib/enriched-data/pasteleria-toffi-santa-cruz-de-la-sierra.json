@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-toffi-santa-cruz-de-la-sierra",
+  "name": "Pastelería TOFFI",
+  "curatedName": "Pastelería TOFFI",
+  "city": "Santa Cruz de la Sierra",
+  "country": "Bolivia",
+  "placeId": "ChIJFxlCONrn8ZMRWop0JdiCiUA",
+  "googleName": "Pastelería TOFFI",
+  "formattedAddress": "Av. Alemana No. 2155, Santa Cruz de la Sierra, Bolivia",
+  "phone": "3 3400800",
+  "internationalPhone": "+591 3 3400800",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4650391955089689178",
+  "rating": 4.3,
+  "reviewCount": 292,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -17.766508,
+    -63.169845
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-toffi-santa-cruz-de-la-sierra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:36.825Z"
+}

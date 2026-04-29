@@ -1,0 +1,32 @@
+{
+  "slug": "kanafany",
+  "name": "Kanafany",
+  "city": "المنامة",
+  "country": "Bahrain",
+  "placeId": "ChIJrxnOBT6vST4RztRJkqz66zE",
+  "googleName": "Kanafany",
+  "formattedAddress": "Rd No 3221, Manama, Bahrain",
+  "phone": "1733 1723",
+  "website": "http://www.alkanafany.com.sa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3597244346481104078",
+  "rating": 4.4,
+  "reviewCount": 627,
+  "coords": [
+    26.2108178,
+    50.5767682
+  ],
+  "openingHours": [
+    "Monday: 12:00 PM – 12:00 AM",
+    "Tuesday: 12:00 PM – 12:00 AM",
+    "Wednesday: 12:00 PM – 12:00 AM",
+    "Thursday: 12:00 PM – 12:00 AM",
+    "Friday: 12:00 PM – 12:00 AM",
+    "Saturday: 12:00 PM – 12:00 AM",
+    "Sunday: 12:00 PM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kanafany/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:48:52.086Z"
+}

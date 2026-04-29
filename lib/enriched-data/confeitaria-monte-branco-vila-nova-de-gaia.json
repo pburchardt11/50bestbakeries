@@ -1,0 +1,43 @@
+{
+  "slug": "confeitaria-monte-branco-vila-nova-de-gaia",
+  "name": "Confeitaria Monte Branco",
+  "curatedName": "Confeitaria Monte Branco",
+  "city": "Vila Nova de Gaia",
+  "country": "Portugal",
+  "placeId": "ChIJX06qty17JA0REjiyOqv7jy4",
+  "googleName": "Confeitaria Monte Branco",
+  "formattedAddress": "R. de Soares dos Reis 790, 4400-314 Vila Nova de Gaia, Portugal",
+  "phone": "22 375 9685",
+  "internationalPhone": "+351 22 375 9685",
+  "website": "https://confeitariamontebranco.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3355176960257046546",
+  "rating": 4.4,
+  "reviewCount": 2759,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1159061,
+    -8.60721
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-monte-branco-vila-nova-de-gaia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:59:16.252Z"
+}

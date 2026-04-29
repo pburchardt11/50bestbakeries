@@ -1,0 +1,43 @@
+{
+  "slug": "odisha-bakery-house-soro",
+  "name": "Odisha Bakery House",
+  "curatedName": "Odisha Bakery House",
+  "city": "Soro",
+  "country": "India",
+  "placeId": "ChIJp6sM8B1vHDoR_U6QjY-9mKc",
+  "googleName": "Odisha Bakery House",
+  "formattedAddress": "7MJC+753, near U.N College, Soro, Odisha 756045, India",
+  "phone": "083277 34053",
+  "internationalPhone": "+91 83277 34053",
+  "website": "https://odishabakeryhouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12076610825047002877",
+  "rating": 4.6,
+  "reviewCount": 104,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.2838615,
+    86.6753428
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/odisha-bakery-house-soro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:00.545Z"
+}

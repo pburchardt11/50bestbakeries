@@ -1,0 +1,43 @@
+{
+  "slug": "la-petite-patisserie-alanya",
+  "name": "La Petite Patisserie",
+  "curatedName": "La Petite Patisserie",
+  "city": "Alanya",
+  "country": "Türkiye",
+  "placeId": "ChIJyfXsOwqj3BQRKO7ItVvIGp4",
+  "googleName": "La Petite Patisserie",
+  "formattedAddress": "Saray, Türker Sk. No:4, 07400 Alanya/Antalya, Türkiye",
+  "phone": "0507 676 62 83",
+  "internationalPhone": "+90 507 676 62 83",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11392638503604514344",
+  "rating": 4.8,
+  "reviewCount": 58,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.5485719,
+    31.9884086
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 6:00 PM",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-petite-patisserie-alanya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:03:48.141Z"
+}

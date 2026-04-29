@@ -1,0 +1,44 @@
+{
+  "slug": "theobroma-delhi",
+  "name": "Theobroma",
+  "curatedName": "Theobroma",
+  "city": "Delhi",
+  "country": "India",
+  "placeId": "ChIJL5M1azf9DDkRtybjLzaFlBA",
+  "googleName": "Theobroma",
+  "formattedAddress": "Mezzanine, D-28, Ground Floor, D-27, Rd Number 6, D Block, Connaught Place, New Delhi, Delhi 110001, India",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://order.theobroma.in/order/theobroma-connaught-place-new-delhi",
+  "googleMapsUrl": "https://maps.google.com/?cid=1194726268938167991",
+  "rating": 4.2,
+  "reviewCount": 3167,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.6338441,
+    77.2214158
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/theobroma-delhi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:44.951Z"
+}

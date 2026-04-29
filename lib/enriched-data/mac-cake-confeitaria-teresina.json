@@ -1,0 +1,43 @@
+{
+  "slug": "mac-cake-confeitaria-teresina",
+  "name": "Mac Cake Confeitaria",
+  "curatedName": "Mac Cake Confeitaria",
+  "city": "Teresina",
+  "country": "Brazil",
+  "placeId": "ChIJrSHgDjU3jgcRakjg5Yji3mk",
+  "googleName": "Mac Cake Confeitaria",
+  "formattedAddress": "Av. Barão de Castelo Branco, 458 A - Cidade Nova, Teresina - PI, 64016-410, Brazil",
+  "phone": "(86) 99997-1580",
+  "internationalPhone": "+55 86 99997-1580",
+  "website": "https://www.instagram.com/mac.cake",
+  "googleMapsUrl": "https://maps.google.com/?cid=7628783896412309610",
+  "rating": 4.7,
+  "reviewCount": 22,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -5.110333199999999,
+    -42.7933455
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: 12:00 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mac-cake-confeitaria-teresina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:21.868Z"
+}

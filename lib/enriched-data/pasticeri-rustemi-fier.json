@@ -1,0 +1,32 @@
+{
+  "slug": "pasticeri-rustemi-fier",
+  "name": "Pastiçeri Rustemi",
+  "city": "Fier",
+  "country": "Albania",
+  "placeId": "ChIJO0B8yMhSRRMRuVyzfAvhspE",
+  "googleName": "Pastiçeri Rustemi",
+  "formattedAddress": "Rr. Muharrem Agalliu, Fier, Albania",
+  "phone": "069 559 1254",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10498701120807066809",
+  "rating": 4.1,
+  "reviewCount": 147,
+  "coords": [
+    40.7276682,
+    19.5584626
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:30 PM",
+    "Tuesday: 7:30 AM – 10:30 PM",
+    "Wednesday: 7:30 AM – 10:30 PM",
+    "Thursday: 7:30 AM – 10:30 PM",
+    "Friday: 7:30 AM – 10:30 PM",
+    "Saturday: 7:30 AM – 10:30 PM",
+    "Sunday: 7:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticeri-rustemi-fier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:23.226Z"
+}

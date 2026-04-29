@@ -1,0 +1,32 @@
+{
+  "slug": "bimshire-kitchen-saint-philip",
+  "name": "Bimshire Kitchen",
+  "city": "Saint Philip",
+  "country": "Barbados",
+  "placeId": "ChIJ12JB1UiNQ4wRtFp616ENfYw",
+  "googleName": "Bimshire Kitchen",
+  "formattedAddress": "Ruby Park, 185 Mangrove Dr, Ruby, Saint Philip Barbados",
+  "phone": "(246) 830-7485",
+  "website": "http://www.instagram.com/BimshireKitchen",
+  "googleMapsUrl": "https://maps.google.com/?cid=10123262526154758836",
+  "rating": 4.5,
+  "reviewCount": 28,
+  "coords": [
+    13.1254776,
+    -59.4441052
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bimshire-kitchen-saint-philip/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:58:09.232Z"
+}

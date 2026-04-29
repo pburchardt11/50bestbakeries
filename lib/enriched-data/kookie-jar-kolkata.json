@@ -1,0 +1,43 @@
+{
+  "slug": "kookie-jar-kolkata",
+  "name": "Kookie Jar",
+  "curatedName": "Kookie Jar",
+  "city": "Kolkata",
+  "country": "India",
+  "placeId": "ChIJEa2Z0x53AjoRCzN7jhSr4Ec",
+  "googleName": "Kookie Jar",
+  "formattedAddress": "Ground Floor Express Tower 42A, Auckland Road, Shakespeare Sarani, Elgin, Kolkata, West Bengal 700017, India",
+  "phone": "033 2281 6589",
+  "internationalPhone": "+91 33 2281 6589",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5179327676254204683",
+  "rating": 4.4,
+  "reviewCount": 1947,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.5435428,
+    88.35819029999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:30 PM",
+    "Tuesday: 8:00 AM – 9:30 PM",
+    "Wednesday: 8:00 AM – 9:30 PM",
+    "Thursday: 8:00 AM – 9:30 PM",
+    "Friday: 8:00 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: 8:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kookie-jar-kolkata/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:53.151Z"
+}

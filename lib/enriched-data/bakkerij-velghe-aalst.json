@@ -1,0 +1,32 @@
+{
+  "slug": "bakkerij-velghe-aalst",
+  "name": "Bakkerij velghe",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJQ-MxJeCXw0cRSclk-1qgn-g",
+  "googleName": "Velghe Bakery",
+  "formattedAddress": "Hoveniersstraat 62, 9300 Aalst, Belgium",
+  "phone": "053 70 11 08",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16762292650721462601",
+  "rating": 4.6,
+  "reviewCount": 189,
+  "coords": [
+    50.9430325,
+    4.0458873
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-velghe-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:03:39.910Z"
+}

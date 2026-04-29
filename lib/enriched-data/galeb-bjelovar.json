@@ -1,0 +1,32 @@
+{
+  "slug": "galeb-bjelovar",
+  "name": "Galeb",
+  "city": "Bjelovar",
+  "country": "Croatia",
+  "placeId": "ChIJC5P0NQk2ZkcRDHPLMkBT5so",
+  "googleName": "Pekara Galeb | Bjelovar",
+  "formattedAddress": "Ul. Krste Frankopana 4, 43000, Bjelovar, Croatia",
+  "phone": "099 413 7114",
+  "website": "https://www.instagram.com/pekaragaleb/?hl=hr",
+  "googleMapsUrl": "https://maps.google.com/?cid=14620464775500100364",
+  "rating": 4.5,
+  "reviewCount": 209,
+  "coords": [
+    45.8960769,
+    16.8388834
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 8:00 PM",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/galeb-bjelovar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:49:17.375Z"
+}

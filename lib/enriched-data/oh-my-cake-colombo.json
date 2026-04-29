@@ -1,0 +1,43 @@
+{
+  "slug": "oh-my-cake-colombo",
+  "name": "Oh My Cake",
+  "curatedName": "Oh My Cake",
+  "city": "Colombo",
+  "country": "Sri Lanka",
+  "placeId": "ChIJb24G1gpb4joRX8H5OfKVCUk",
+  "googleName": "Oh My Cake!",
+  "formattedAddress": "56 Stratford Ave, Colombo 6, Sri Lanka",
+  "phone": "077 725 5727",
+  "internationalPhone": "+94 77 725 5727",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5262902507146428767",
+  "rating": 4.8,
+  "reviewCount": 150,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    6.877060900000001,
+    79.8731743
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oh-my-cake-colombo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:47.676Z"
+}

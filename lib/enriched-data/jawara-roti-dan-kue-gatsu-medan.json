@@ -1,0 +1,44 @@
+{
+  "slug": "jawara-roti-dan-kue-gatsu-medan",
+  "name": "Jawara Roti dan Kue Gatsu",
+  "curatedName": "Jawara Roti dan Kue Gatsu",
+  "city": "Medan",
+  "country": "Indonesia",
+  "placeId": "ChIJ_enbZkUuMTAR1YwMrwemOk4",
+  "googleName": "Jawara Roti dan Kue Gatsu",
+  "formattedAddress": "Jl. Gatot Subroto No.254, Sei Sikambing C. II, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20123, Indonesia",
+  "phone": "0811-271-778",
+  "internationalPhone": "+62 811-271-778",
+  "website": "https://jawararoti.co.id/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5637000435539414229",
+  "rating": 4.8,
+  "reviewCount": 1339,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.591517,
+    98.63021909999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jawara-roti-dan-kue-gatsu-medan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:06.370Z"
+}

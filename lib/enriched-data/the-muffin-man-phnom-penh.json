@@ -1,0 +1,44 @@
+{
+  "slug": "the-muffin-man-phnom-penh",
+  "name": "The muffin man Phnom Penh",
+  "curatedName": "The muffin man Phnom Penh",
+  "city": "ភ្នំពេញ",
+  "country": "Cambodia",
+  "placeId": "ChIJt-dyQQBRCTERnYJct0tRu68",
+  "googleName": "The muffin man Phnom Penh",
+  "formattedAddress": "St 155 St 155, and St 476, Phnom Penh 120109, Cambodia",
+  "phone": "089 612 976",
+  "internationalPhone": "+855 89 612 976",
+  "website": "https://linktr.ee/muffinmankh",
+  "googleMapsUrl": "https://maps.google.com/?cid=12662804162922971805",
+  "rating": 4.8,
+  "reviewCount": 249,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    11.5355773,
+    104.9152032
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-muffin-man-phnom-penh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:13.966Z"
+}

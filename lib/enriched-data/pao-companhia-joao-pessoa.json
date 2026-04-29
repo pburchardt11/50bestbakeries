@@ -1,0 +1,43 @@
+{
+  "slug": "pao-companhia-joao-pessoa",
+  "name": "Pão & Companhia",
+  "curatedName": "Pão & Companhia",
+  "city": "João Pessoa",
+  "country": "Brazil",
+  "placeId": "ChIJczrNgw3drAcReYDYYL-6aYw",
+  "googleName": "Pão & Companhia",
+  "formattedAddress": "R. Jaime Carvalho Tavares de Melo, 1.638 - Manaíra, João Pessoa - PB, 58038-260, Brazil",
+  "phone": "(83) 3246-2831",
+  "internationalPhone": "+55 83 3246-2831",
+  "website": "http://paoecia.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10117823368990851193",
+  "rating": 4.5,
+  "reviewCount": 1453,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.098090600000001,
+    -34.8372842
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pao-companhia-joao-pessoa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:53.408Z"
+}

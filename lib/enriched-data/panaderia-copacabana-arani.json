@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-copacabana-arani",
+  "name": "Panadería Copacabana",
+  "city": "Arani",
+  "country": "Bolivia",
+  "placeId": "ChIJ_ZZPDZyf5JMRmYk9cgeJzts",
+  "googleName": "PANADERIA \"COPACABANA\"",
+  "formattedAddress": "Arani, Bolivia",
+  "phone": "77974220",
+  "website": "https://www.facebook.com/Panaderia-Copacabana-Arani-Cbba-107636150612365/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15838747604583025049",
+  "rating": 4,
+  "reviewCount": 1,
+  "coords": [
+    -17.5729327,
+    -65.7717596
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-copacabana-arani/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:11:29.126Z"
+}

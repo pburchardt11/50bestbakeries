@@ -1,0 +1,43 @@
+{
+  "slug": "alsancak-pastanesi-selcuklu",
+  "name": "Alsancak Pastanesi",
+  "curatedName": "Alsancak Pastanesi",
+  "city": "Selçuklu",
+  "country": "Türkiye",
+  "placeId": "ChIJjYAVw6OF0BQRSNcF9a_wPeA",
+  "googleName": "ALSANCAK PASTANESİ",
+  "formattedAddress": "Nişantaşı Mh.dr.m.hulusi Baybay Cd. Kutluay Sit. No:32/k, Nişantaş, 42060 Selçuklu/Konya, Türkiye",
+  "phone": "(0332) 237 74 55",
+  "internationalPhone": "+90 332 237 74 55",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16158335676595951432",
+  "rating": 5,
+  "reviewCount": 11,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.8816296,
+    32.4855271
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:30 PM",
+    "Tuesday: 7:00 AM – 11:30 PM",
+    "Wednesday: 7:00 AM – 11:30 PM",
+    "Thursday: 7:00 AM – 11:30 PM",
+    "Friday: 7:00 AM – 11:30 PM",
+    "Saturday: 7:00 AM – 11:30 PM",
+    "Sunday: 7:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alsancak-pastanesi-selcuklu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:00:36.220Z"
+}

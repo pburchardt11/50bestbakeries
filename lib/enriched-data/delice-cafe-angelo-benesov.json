@@ -1,0 +1,32 @@
+{
+  "slug": "delice-cafe-angelo-benesov",
+  "name": "Délice Café Angelo",
+  "city": "Benešov",
+  "country": "Czech Republic",
+  "placeId": "ChIJU6j-JqF_DEcRCiB2YbE7yWg",
+  "googleName": "Čas na kávu",
+  "formattedAddress": "Pasáž Stone Park, Karla Nového 2363, 256 01 Benešov-Benešov u Prahy, Czechia",
+  "phone": "737 797 422",
+  "website": "http://www.casnakavu.eu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7550631883293728778",
+  "rating": 4.6,
+  "reviewCount": 481,
+  "coords": [
+    49.78258899999999,
+    14.6858725
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 1:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delice-cafe-angelo-benesov/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:53:57.066Z"
+}

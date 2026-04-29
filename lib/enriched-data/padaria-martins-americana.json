@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-martins-americana",
+  "name": "Padaria Martins",
+  "curatedName": "Padaria Martins",
+  "city": "Americana",
+  "country": "Brazil",
+  "placeId": "ChIJw1FgLxOayJQRBTJn1EC4agw",
+  "googleName": "Padaria Martins",
+  "formattedAddress": "R. Francisco Garbo, 853 - Campo Verde, Americana - SP, 13473-370, Brazil",
+  "phone": "(19) 3468-7824",
+  "internationalPhone": "+55 19 3468-7824",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=894730064567415301",
+  "rating": 4.7,
+  "reviewCount": 390,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.7228848,
+    -47.3051368
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: 5:30 AM – 7:00 PM",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: 5:30 AM – 7:00 PM",
+    "Saturday: 5:30 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-martins-americana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:21:54.087Z"
+}

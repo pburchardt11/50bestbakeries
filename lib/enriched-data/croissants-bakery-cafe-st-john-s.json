@@ -1,0 +1,32 @@
+{
+  "slug": "croissants-bakery-cafe-st-john-s",
+  "name": "Croissants Bakery & Cafe",
+  "city": "St. John's",
+  "country": "Antigua & Barbuda",
+  "placeId": "ChIJ61myLDGTEowRhpyE71-go9E",
+  "googleName": "Croissants Bakery & Cafe",
+  "formattedAddress": "Grays Farm Main Road AG, Five Islands village, Antigua and Barbuda",
+  "phone": "(268) 788-4712",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15106093909031558278",
+  "rating": 4.3,
+  "reviewCount": 25,
+  "coords": [
+    17.118305,
+    -61.8822486
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:00 PM",
+    "Tuesday: 11:00 AM – 9:00 PM",
+    "Wednesday: 11:00 AM – 9:00 PM",
+    "Thursday: 11:00 AM – 9:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/croissants-bakery-cafe-st-john-s/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:20:17.058Z"
+}

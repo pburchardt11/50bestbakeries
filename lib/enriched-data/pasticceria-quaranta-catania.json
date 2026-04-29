@@ -1,0 +1,44 @@
+{
+  "slug": "pasticceria-quaranta-catania",
+  "name": "Pasticceria Quaranta",
+  "curatedName": "Pasticceria Quaranta",
+  "city": "Catania",
+  "country": "Italy",
+  "placeId": "ChIJ68dHBZf8ExMRNiV8R1tMKbI",
+  "googleName": "Pasticceria Quaranta",
+  "formattedAddress": "Piazza Mancini Battaglia, 17/20, 95126 Catania CT, Italy",
+  "phone": "095 712 4893",
+  "internationalPhone": "+39 095 712 4893",
+  "website": "http://www.pasticceriaquaranta.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12837876167721362742",
+  "rating": 4.4,
+  "reviewCount": 7330,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.5306228,
+    15.1117947
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:30 AM",
+    "Tuesday: 7:30 AM – 12:30 AM",
+    "Wednesday: 7:30 AM – 12:30 AM",
+    "Thursday: 7:30 AM – 12:30 AM",
+    "Friday: 7:30 AM – 12:30 AM",
+    "Saturday: 7:30 AM – 1:30 AM",
+    "Sunday: 7:30 AM – 12:30 AM"
+  ],
+  "editorialSummary": "Pastries, pralines, lavish cakes & artisanal gelato, plus savory snacks, at a busy patisserie/cafe.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-quaranta-catania/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:28.436Z"
+}

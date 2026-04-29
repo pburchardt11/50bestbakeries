@@ -1,0 +1,44 @@
+{
+  "slug": "holandesa-confeitaria-londrina",
+  "name": "Holandesa Confeitaria",
+  "curatedName": "Holandesa Confeitaria",
+  "city": "Londrina",
+  "country": "Brazil",
+  "placeId": "ChIJj11m-FpD65QRVIOaFp-wnyU",
+  "googleName": "Holandesa Confeitaria",
+  "formattedAddress": "Av. Higienópolis, 1295 - Centro, Londrina - PR, 86015-010, Brazil",
+  "phone": "(43) 3024-0505",
+  "internationalPhone": "+55 43 3024-0505",
+  "website": "http://www.holandesaconfeitaria.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2711079698025841492",
+  "rating": 4.2,
+  "reviewCount": 3783,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.3212674,
+    -51.1665846
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/holandesa-confeitaria-londrina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:59.040Z"
+}

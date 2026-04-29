@@ -1,0 +1,43 @@
+{
+  "slug": "himschoot-gent",
+  "name": "Himschoot",
+  "curatedName": "Himschoot",
+  "city": "Gent",
+  "country": "Belgium",
+  "placeId": "ChIJ7-jZJEdxw0cROJhN6g37Q14",
+  "googleName": "Himschoot",
+  "formattedAddress": "Groentenmarkt 1, 9000 Gent, Belgium",
+  "phone": "0491 52 83 31",
+  "internationalPhone": "+32 491 52 83 31",
+  "website": "http://www.bakkerijhimschoot.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6792548700188940344",
+  "rating": 4.3,
+  "reviewCount": 431,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.0557366,
+    3.7225282
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/himschoot-gent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:29.259Z"
+}

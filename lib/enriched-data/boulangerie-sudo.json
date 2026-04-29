@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-sudo",
+  "name": "Boulangerie Sudo",
+  "curatedName": "Boulangerie Sudo",
+  "city": "世田谷区",
+  "country": "Japan",
+  "placeId": "ChIJOaGph37zGGARFlWxcB4GS4Q",
+  "googleName": "Boulangerie Sudo",
+  "formattedAddress": "4-chōme-3-14 Setagaya, Setagaya City, Tokyo 154-0017, Japan",
+  "phone": "03-5426-0175",
+  "internationalPhone": "+81 3-5426-0175",
+  "website": "https://www.facebook.com/BoulangerieSudo/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9532719764069242134",
+  "rating": 4.2,
+  "reviewCount": 684,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.6437788,
+    139.6548963
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Wood-lined shop known for its Danish pastries, also making a variety of breads & sweets.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-sudo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:15.551Z"
+}

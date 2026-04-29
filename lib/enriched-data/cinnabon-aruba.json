@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-aruba",
+  "name": "Cinnabon",
+  "city": "Aruba",
+  "country": "Aruba",
+  "placeId": "ChIJ46OqJCk5hY4RHiCnl-bdLDI",
+  "googleName": "Cinnabon Aruba",
+  "formattedAddress": "Store 6, Unit 1, L.G. Smith Boulevard 126, Oranjestad, Aruba",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3615508583328194590",
+  "rating": 3.6,
+  "reviewCount": 28,
+  "coords": [
+    12.526267,
+    -70.04667479999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 – 9:00 PM",
+    "Tuesday: 7:00 – 9:00 PM",
+    "Wednesday: 7:00 – 9:00 PM",
+    "Thursday: 7:00 – 9:00 PM",
+    "Friday: 7:00 – 9:00 PM",
+    "Saturday: 7:00 – 9:00 PM",
+    "Sunday: 7:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnabon-aruba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:28:30.003Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "thank-you-store-jain-bakes-mysore-mysuru",
+  "name": "Thank You Store - Jain Bakes Mysore",
+  "curatedName": "Thank You Store - Jain Bakes Mysore",
+  "city": "Mysuru",
+  "country": "India",
+  "placeId": "ChIJi70oiRhxrzsRHb4YMGvNLVg",
+  "googleName": "Thank You Store - Jain Bakes Mysore",
+  "formattedAddress": "225, L Ground, ashoka road, near Cutchi Memon Jamath Masjid, Lashkar Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001, India",
+  "phone": "0821 424 1515",
+  "internationalPhone": "+91 821 424 1515",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6353960509541760541",
+  "rating": 4.8,
+  "reviewCount": 90,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.3157727,
+    76.6569363
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:45 PM",
+    "Tuesday: 10:00 AM – 9:45 PM",
+    "Wednesday: 10:00 AM – 9:45 PM",
+    "Thursday: 10:00 AM – 9:45 PM",
+    "Friday: 10:00 AM – 9:45 PM",
+    "Saturday: 10:00 AM – 9:45 PM",
+    "Sunday: 10:00 AM – 9:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thank-you-store-jain-bakes-mysore-mysuru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:38:33.025Z"
+}

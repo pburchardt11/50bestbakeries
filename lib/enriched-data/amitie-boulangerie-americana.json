@@ -1,0 +1,45 @@
+{
+  "slug": "amitie-boulangerie-americana",
+  "name": "Amitié Boulangerie",
+  "curatedName": "Amitié Boulangerie",
+  "city": "Americana",
+  "country": "Brazil",
+  "placeId": "ChIJIw-1QBibyJQR2QZnCg50uy0",
+  "googleName": "Amitié Boulangerie",
+  "formattedAddress": "R. São Salvador, 965 - Parque Res. Nardini, Americana - SP, 13468-280, Brazil",
+  "phone": "(19) 99369-2000",
+  "internationalPhone": "+55 19 99369-2000",
+  "website": "http://linktr.ee/amitieboulangerie",
+  "googleMapsUrl": "https://maps.google.com/?cid=3295355156004538073",
+  "rating": 4.4,
+  "reviewCount": 1016,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.7538036,
+    -47.3480021
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amitie-boulangerie-americana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:37.953Z"
+}

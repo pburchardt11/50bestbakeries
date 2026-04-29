@@ -1,0 +1,43 @@
+{
+  "slug": "patcy-cake-sorocaba",
+  "name": "Patcy Cake",
+  "curatedName": "Patcy Cake",
+  "city": "Sorocaba",
+  "country": "Brazil",
+  "placeId": "ChIJyU4JVeuLxZQR6cB0Pwt4BIY",
+  "googleName": "Patcy Cake",
+  "formattedAddress": "Rua: Aclimação, 481 - Jardim Paulistano, Sorocaba - SP, 18040-690, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9656975490693775593",
+  "rating": 4.4,
+  "reviewCount": 181,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5129518,
+    -47.4678992
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patcy-cake-sorocaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:16:46.060Z"
+}

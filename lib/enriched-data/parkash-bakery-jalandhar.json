@@ -1,0 +1,43 @@
+{
+  "slug": "parkash-bakery-jalandhar",
+  "name": "Parkash Bakery",
+  "curatedName": "Parkash Bakery",
+  "city": "Jalandhar",
+  "country": "India",
+  "placeId": "ChIJxaLWdKtbGjkRfUv48kmK8bI",
+  "googleName": "Parkash Bakery",
+  "formattedAddress": "13-A, market, Model Town, Jalandhar, Punjab 144001, India",
+  "phone": "091154 96007",
+  "internationalPhone": "+91 91154 96007",
+  "website": "http://www.parkashbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12894239258352044925",
+  "rating": 4.3,
+  "reviewCount": 2675,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.3062216,
+    75.57870360000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Custom cakes, desserts, fast food & beverages offered in a casual, family-friendly setting.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/parkash-bakery-jalandhar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:41.275Z"
+}

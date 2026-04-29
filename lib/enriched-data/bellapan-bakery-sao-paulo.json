@@ -1,0 +1,44 @@
+{
+  "slug": "bellapan-bakery-sao-paulo",
+  "name": "Bellapan Bakery",
+  "curatedName": "Bellapan Bakery",
+  "city": "São Paulo",
+  "country": "Brazil",
+  "placeId": "ChIJ7zlkpGBYzpQRmpqNo-GjYlo",
+  "googleName": "Bellapan Bakery",
+  "formattedAddress": "Rua Prates, 563 - Bom Retiro, São Paulo - SP, 01121-000, Brazil",
+  "phone": "(11) 3227-1694",
+  "internationalPhone": "+55 11 3227-1694",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6512948200638093978",
+  "rating": 4.6,
+  "reviewCount": 1864,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5290613,
+    -46.6358806
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 6:30 PM",
+    "Sunday: 10:00 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bellapan-bakery-sao-paulo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:52.256Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "dulce-s-bakery-more-torreon",
+  "name": "Dulce’s Bakery & more",
+  "curatedName": "Dulce’s Bakery & more",
+  "city": "Torreón",
+  "country": "Mexico",
+  "placeId": "ChIJO0e9HQXbj4YRhb-CpHfy-KM",
+  "googleName": "Dulce’s Bakery & more",
+  "formattedAddress": "Calz Cuauhtemoc 1536, Tercero de Cobián Centro, 27000 Torreón, Coah., Mexico",
+  "phone": "871 450 7265",
+  "internationalPhone": "+52 871 450 7265",
+  "website": "https://www.facebook.com/Dulcesbakeryandmore?mibextid=LQQJ4d",
+  "googleMapsUrl": "https://maps.google.com/?cid=11815460218081558405",
+  "rating": 4.4,
+  "reviewCount": 27,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.5558738,
+    -103.4337641
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:45 PM",
+    "Tuesday: 9:00 AM – 8:45 PM",
+    "Wednesday: 9:00 AM – 8:45 PM",
+    "Thursday: 9:00 AM – 8:45 PM",
+    "Friday: 9:00 AM – 8:45 PM",
+    "Saturday: 9:00 AM – 8:45 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dulce-s-bakery-more-torreon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:10.888Z"
+}

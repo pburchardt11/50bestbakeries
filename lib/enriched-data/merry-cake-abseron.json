@@ -1,0 +1,32 @@
+{
+  "slug": "merry-cake-abseron",
+  "name": "Merry Cake",
+  "city": "Abşeron",
+  "country": "Azerbaijan",
+  "placeId": "ChIJp3RZkpeHMEARcUoUOMcarTw",
+  "googleName": "Merry Cake Tort Sifarişi",
+  "formattedAddress": "Baku 0101, Azerbaijan",
+  "phone": "051 667 67 76",
+  "website": "https://www.instagram.com/merrycake.az/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4372180256188287601",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    40.4570677,
+    49.7393334
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/merry-cake-abseron/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:33:43.628Z"
+}

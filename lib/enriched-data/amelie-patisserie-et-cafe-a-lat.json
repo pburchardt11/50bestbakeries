@@ -1,0 +1,43 @@
+{
+  "slug": "amelie-patisserie-et-cafe-a-lat",
+  "name": "Amélie Pâtisserie et Café",
+  "curatedName": "Amélie Pâtisserie et Café",
+  "city": "Đà Lạt",
+  "country": "Vietnam",
+  "placeId": "ChIJLzoDFO0TcTER0VUtiQPSUn8",
+  "googleName": "Amélie Pâtisserie et Café",
+  "formattedAddress": "90 Đ. Nguyễn Chí Thanh, Phường 1, Xuân Hương - Đà Lạt, Lâm Đồng 670000, Vietnam",
+  "phone": "0902 732 505",
+  "internationalPhone": "+84 902 732 505",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9174626303535306193",
+  "rating": 4.6,
+  "reviewCount": 337,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    11.9400077,
+    108.4341715
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amelie-patisserie-et-cafe-a-lat/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:32.672Z"
+}

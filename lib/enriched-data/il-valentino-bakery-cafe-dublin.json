@@ -1,0 +1,44 @@
+{
+  "slug": "il-valentino-bakery-cafe-dublin",
+  "name": "Il Valentino Bakery & Cafe",
+  "curatedName": "Il Valentino Bakery & Cafe",
+  "city": "Dublin",
+  "country": "Ireland",
+  "placeId": "ChIJL1QDtuwOZ0gRfJVnkJJTu9k",
+  "googleName": "il Valentino Bakery & Cafe",
+  "formattedAddress": "5, Gallery Quay, Grand Canal Dock, Dublin 2, D02 N265, Ireland",
+  "phone": "(01) 633 1100",
+  "internationalPhone": "+353 1 633 1100",
+  "website": "http://www.ilvalentino.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15689225615828292988",
+  "rating": 4.4,
+  "reviewCount": 1406,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.3426175,
+    -6.239008900000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Relaxed destination for Italian breads, pastries and puds to take away or enjoy onsite with coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/il-valentino-bakery-cafe-dublin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:25.326Z"
+}

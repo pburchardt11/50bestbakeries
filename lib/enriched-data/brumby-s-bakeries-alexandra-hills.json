@@ -1,0 +1,33 @@
+{
+  "slug": "brumby-s-bakeries-alexandra-hills",
+  "name": "Brumby's Bakeries",
+  "curatedName": "Brumby's Bakeries",
+  "city": "Alexandra Hills",
+  "country": "Australia",
+  "placeId": "ChIJITm9-AxnkWsRd9sTZHxOmSY",
+  "googleName": "Brumby's Alexandra Hills",
+  "formattedAddress": "Shop 8 Alexandra Hills Shopping Centre Cnr Finucane Road & Cambridge Drive, Alexandra Hills QLD 4161, Australia",
+  "phone": "(07) 3824 3234",
+  "internationalPhone": "+61 7 3824 3234",
+  "website": "http://www.brumbys.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2781340541039926135",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    -27.5258301,
+    153.2230226
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T05:20:38.795Z"
+}

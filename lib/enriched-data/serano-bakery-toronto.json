@@ -1,0 +1,44 @@
+{
+  "slug": "serano-bakery-toronto",
+  "name": "Serano Bakery",
+  "curatedName": "Serano Bakery",
+  "city": "Toronto",
+  "country": "Canada",
+  "placeId": "ChIJt-luTYXM1IkR-TDKF-n_Ikc",
+  "googleName": "Serano Bakery",
+  "formattedAddress": "830 Pape Ave, East York, ON M4K 3T5, Canada",
+  "phone": "(416) 462-2735",
+  "internationalPhone": "+1 416-462-2735",
+  "website": "https://seranobakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5125940702492635385",
+  "rating": 4.6,
+  "reviewCount": 4635,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.68287979999999,
+    -79.346769
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "This huge counter-serve bakery prepares sweet & savoury items, as well as custom options.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/serano-bakery-toronto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:50.547Z"
+}

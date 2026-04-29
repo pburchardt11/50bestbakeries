@@ -1,0 +1,44 @@
+{
+  "slug": "marilen-atelier-patisserie-konak",
+  "name": "Marilen Atelier Pâtisserie",
+  "curatedName": "Marilen Atelier Pâtisserie",
+  "city": "Konak",
+  "country": "Türkiye",
+  "placeId": "ChIJ4eJFnJnZuxQR7OsxdJdQWaQ",
+  "googleName": "Marilen Atelier Pâtisserie",
+  "formattedAddress": "Kültür, 1387 Ümran Baradan Sokak No: 1 / E, 35220 Konak/İzmir, Türkiye",
+  "phone": "0532 541 40 66",
+  "internationalPhone": "+90 532 541 40 66",
+  "website": "http://www.marilenpatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11842585306567142380",
+  "rating": 4.7,
+  "reviewCount": 283,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.4323609,
+    27.1396157
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:30 AM – 7:30 PM",
+    "Wednesday: 9:30 AM – 7:30 PM",
+    "Thursday: 9:30 AM – 7:30 PM",
+    "Friday: 9:30 AM – 7:30 PM",
+    "Saturday: 9:30 AM – 7:30 PM",
+    "Sunday: 9:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marilen-atelier-patisserie-konak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:03.030Z"
+}

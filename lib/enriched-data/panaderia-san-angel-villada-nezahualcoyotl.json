@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-san-angel-villada-nezahualcoyotl",
+  "name": "Panaderia San Angel Villada",
+  "curatedName": "Panaderia San Angel Villada",
+  "city": "Nezahualcóyotl",
+  "country": "Mexico",
+  "placeId": "ChIJ8yNbX9Xi0YURvPnlwT_5X9Q",
+  "googleName": "Panaderia San Angel Villada",
+  "formattedAddress": "Av. Pantitlán 448, Gral Vicente Villada, 57760 Cdad. Nezahualcóyotl, Méx., Mexico",
+  "phone": "55 5792 2410",
+  "internationalPhone": "+52 55 5792 2410",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15303224111059564988",
+  "rating": 4.1,
+  "reviewCount": 3924,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.3924044,
+    -99.0117618
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-san-angel-villada-nezahualcoyotl/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:21.034Z"
+}

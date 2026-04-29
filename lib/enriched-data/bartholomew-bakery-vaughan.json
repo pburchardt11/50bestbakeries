@@ -1,0 +1,44 @@
+{
+  "slug": "bartholomew-bakery-vaughan",
+  "name": "Bartholomew Bakery",
+  "curatedName": "Bartholomew Bakery",
+  "city": "Vaughan",
+  "country": "Canada",
+  "placeId": "ChIJA_IgzRgvK4gRtD7ozEvzq7A",
+  "googleName": "Bartholomew Bakery",
+  "formattedAddress": "467 Edgeley Blvd #14, Vaughan, ON L4K 4E9, Canada",
+  "phone": "(905) 761-3363",
+  "internationalPhone": "+1 905-761-3363",
+  "website": "https://www.bartholomewbakery.com/?utm_source=google&utm_medium=organic&utm_campaign=local",
+  "googleMapsUrl": "https://maps.google.com/?cid=12730536278578708148",
+  "rating": 4.8,
+  "reviewCount": 1628,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.8047216,
+    -79.5349687
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bartholomew-bakery-vaughan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:30.045Z"
+}

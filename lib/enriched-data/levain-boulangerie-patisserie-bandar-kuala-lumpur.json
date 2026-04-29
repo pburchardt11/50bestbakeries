@@ -1,0 +1,45 @@
+{
+  "slug": "levain-boulangerie-patisserie-bandar-kuala-lumpur",
+  "name": "Levain Boulangerie & Patisserie",
+  "curatedName": "Levain Boulangerie & Patisserie",
+  "city": "Bandar Kuala Lumpur",
+  "country": "Malaysia",
+  "placeId": "ChIJUQ5KhjE2zDERSI4cz_Nxgm8",
+  "googleName": "Levain Boulangerie & Patisserie",
+  "formattedAddress": "7, Jalan Delima, Imbi, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "phone": "03-2142 6611",
+  "internationalPhone": "+60 3-2142 6611",
+  "website": "http://www.levain.com.my/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8035109977148132936",
+  "rating": 4.2,
+  "reviewCount": 3010,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.1461472,
+    101.7203639
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:30 PM",
+    "Tuesday: 7:30 AM – 5:30 PM",
+    "Wednesday: 7:30 AM – 5:30 PM",
+    "Thursday: 7:30 AM – 5:30 PM",
+    "Friday: 7:30 AM – 5:30 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/levain-boulangerie-patisserie-bandar-kuala-lumpur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:22.192Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "trigo-cia-foz-do-iguacu",
+  "name": "Trigo & Cia",
+  "curatedName": "Trigo & Cia",
+  "city": "Foz do Iguaçu",
+  "country": "Brazil",
+  "placeId": "ChIJh_fwpVqQ9pQRST3nixm8xlw",
+  "googleName": "Trigo & Cia",
+  "formattedAddress": "R. Padre Bernardo Plate, 1750 - Polo Centro, Foz do Iguaçu - PR, 85852-000, Brazil",
+  "phone": "(45) 3025-3800",
+  "internationalPhone": "+55 45 3025-3800",
+  "website": "https://www.instagram.com/trigoeciafoz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6685237514785471817",
+  "rating": 4.1,
+  "reviewCount": 5440,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.5176511,
+    -54.5742462
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/trigo-cia-foz-do-iguacu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:10.068Z"
+}

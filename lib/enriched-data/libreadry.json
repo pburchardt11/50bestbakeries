@@ -1,0 +1,43 @@
+{
+  "slug": "libreadry",
+  "name": "Libreadry",
+  "curatedName": "Libreadry",
+  "city": "台北市",
+  "country": "Taiwan",
+  "placeId": "ChIJCQHIXlOrQjQRAT3bGo_PBkQ",
+  "googleName": "Libreadry",
+  "formattedAddress": "No. 28號, Alley 4, Lane 345, Section 4, Ren'ai Rd, Da’an District, Taipei City, Taiwan 106",
+  "phone": "02 8771 0339",
+  "internationalPhone": "+886 2 8771 0339",
+  "website": "https://www.libreadry.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4901833457977212161",
+  "rating": 4.4,
+  "reviewCount": 1614,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.0388239,
+    121.5520863
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 7:00 PM",
+    "Tuesday: 12:00 – 7:00 PM",
+    "Wednesday: 12:00 – 7:00 PM",
+    "Thursday: 12:00 – 7:00 PM",
+    "Friday: 12:00 – 7:00 PM",
+    "Saturday: 12:00 – 7:00 PM",
+    "Sunday: 12:00 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/libreadry/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:55.471Z"
+}

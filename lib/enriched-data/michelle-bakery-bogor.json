@@ -1,0 +1,43 @@
+{
+  "slug": "michelle-bakery-bogor",
+  "name": "Michelle Bakery",
+  "curatedName": "Michelle Bakery",
+  "city": "Bogor",
+  "country": "Indonesia",
+  "placeId": "ChIJbVZjI-fFaS4Rv67xVmerM_M",
+  "googleName": "Michelle Bakery",
+  "formattedAddress": "Jl. Raya Pajajaran No.14, RT.02/RW.04, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143, Indonesia",
+  "phone": "0811-1133-910",
+  "internationalPhone": "+62 811-1133-910",
+  "website": "https://linktr.ee/michellebakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=17524539035357392575",
+  "rating": 4.7,
+  "reviewCount": 9061,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.608987300000001,
+    106.8102016
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/michelle-bakery-bogor/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:12.500Z"
+}

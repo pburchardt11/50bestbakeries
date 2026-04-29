@@ -1,0 +1,43 @@
+{
+  "slug": "anand-bakery-nagpur",
+  "name": "Anand Bakery",
+  "curatedName": "Anand Bakery",
+  "city": "Nagpur",
+  "country": "India",
+  "placeId": "ChIJNxiLrerA1DsRjekIQXRo6hU",
+  "googleName": "Anand Bakery",
+  "formattedAddress": "Main Rd, Baba Farid Nagar, Sitabuldi, Nagpur, Maharashtra 440012, India",
+  "phone": "088065 11330",
+  "internationalPhone": "+91 88065 11330",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1579189467863378317",
+  "rating": 4,
+  "reviewCount": 975,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1452151,
+    79.08667419999999
+  ],
+  "openingHours": [
+    "Monday: 11:30 AM – 10:30 PM",
+    "Tuesday: 11:30 AM – 10:30 PM",
+    "Wednesday: 11:30 AM – 10:30 PM",
+    "Thursday: 11:30 AM – 10:30 PM",
+    "Friday: 11:30 AM – 10:30 PM",
+    "Saturday: 11:30 AM – 10:30 PM",
+    "Sunday: 11:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/anand-bakery-nagpur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:53.775Z"
+}

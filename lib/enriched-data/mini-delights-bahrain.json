@@ -1,0 +1,32 @@
+{
+  "slug": "mini-delights-bahrain",
+  "name": "Mini Delights Bahrain",
+  "city": "أبو صيبع",
+  "country": "Bahrain",
+  "placeId": "ChIJiz5LYwCxST4Rq3VBH2P41Hk",
+  "googleName": "Mini Bites",
+  "formattedAddress": "6F3Q+GX5, Maqabah, Bahrain",
+  "phone": "7790 0209",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8778914678261773739",
+  "rating": 4.7,
+  "reviewCount": 19,
+  "coords": [
+    26.2037551,
+    50.4899789
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mini-delights-bahrain/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:45:42.741Z"
+}

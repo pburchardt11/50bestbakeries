@@ -1,0 +1,43 @@
+{
+  "slug": "conde-duque-bakery-tijuana",
+  "name": "Conde Duque Bakery",
+  "curatedName": "Conde Duque Bakery",
+  "city": "Tijuana",
+  "country": "Mexico",
+  "placeId": "ChIJ72HoTVRJ2YARsalJ100acRk",
+  "googleName": "Conde Duque Bakery",
+  "formattedAddress": "Av. Rio Bravo 9920, Revolucion, 22015 Tijuana, B.C., Mexico",
+  "phone": "664 971 0629",
+  "internationalPhone": "+52 664 971 0629",
+  "website": "https://www.instagram.com/panaderiacondeduquemx?igsh=bmplb245OW96d2lk",
+  "googleMapsUrl": "https://maps.google.com/?cid=1833275444943235505",
+  "rating": 4.6,
+  "reviewCount": 372,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.5200207,
+    -117.0185136
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/conde-duque-bakery-tijuana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:05.131Z"
+}

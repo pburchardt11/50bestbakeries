@@ -1,0 +1,44 @@
+{
+  "slug": "balfours-adelaide",
+  "name": "Balfours",
+  "curatedName": "Balfours",
+  "city": "Adelaide",
+  "country": "Australia",
+  "placeId": "ChIJp0xNV9bOsGoRllQRAZaegk4",
+  "googleName": "Balfours Café at City Cross",
+  "formattedAddress": "5/32 Grenfell St, Adelaide SA 5000, Australia",
+  "phone": "0452 562 883",
+  "internationalPhone": "+61 452 562 883",
+  "website": "https://balfours.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5657258449030960278",
+  "rating": 4,
+  "reviewCount": 92,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.9239558,
+    138.6013367
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 5:00 PM",
+    "Tuesday: 6:30 AM – 5:00 PM",
+    "Wednesday: 6:30 AM – 5:00 PM",
+    "Thursday: 6:30 AM – 5:00 PM",
+    "Friday: 6:30 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/balfours-adelaide/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:20:19.580Z"
+}

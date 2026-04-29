@@ -1,0 +1,43 @@
+{
+  "slug": "french-bakery-bistro-palembang",
+  "name": "French Bakery & Bistro",
+  "curatedName": "French Bakery & Bistro",
+  "city": "Palembang",
+  "country": "Indonesia",
+  "placeId": "ChIJw2ReuQ52Oy4R7DC3u_jmQeY",
+  "googleName": "French Bakery & Bistro",
+  "formattedAddress": "Jl. Kolonel Atmo No.481, 17 Ilir, Kec. Ilir Tim. I, Kota Palembang, Sumatera Selatan 30125, Indonesia",
+  "phone": "(0711) 353707",
+  "internationalPhone": "+62 711 353707",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16591796458185240812",
+  "rating": 4.5,
+  "reviewCount": 815,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -2.9820169,
+    104.7589647
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/french-bakery-bistro-palembang/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:17.754Z"
+}

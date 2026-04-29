@@ -1,0 +1,43 @@
+{
+  "slug": "odette-miguel-hidalgo",
+  "name": "Odette",
+  "curatedName": "Odette",
+  "city": "Miguel Hidalgo",
+  "country": "Mexico",
+  "placeId": "ChIJJ9bl1J4B0oURLASx5ZaSaQs",
+  "googleName": "ODETTE",
+  "formattedAddress": "Monte Líbano 915-local 18 B, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México, CDMX, Mexico",
+  "phone": "55 4398 3028",
+  "internationalPhone": "+52 55 4398 3028",
+  "website": "http://www.odette.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=822349583768159276",
+  "rating": 4.5,
+  "reviewCount": 696,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4155871,
+    -99.225923
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:30 PM",
+    "Tuesday: 8:30 AM – 7:30 PM",
+    "Wednesday: 8:30 AM – 7:30 PM",
+    "Thursday: 8:30 AM – 7:30 PM",
+    "Friday: 8:30 AM – 7:30 PM",
+    "Saturday: 8:30 AM – 7:30 PM",
+    "Sunday: 8:30 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/odette-miguel-hidalgo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:00.499Z"
+}

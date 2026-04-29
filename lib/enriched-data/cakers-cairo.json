@@ -1,0 +1,32 @@
+{
+  "slug": "cakers-cairo",
+  "name": "Cakers",
+  "city": "Cairo",
+  "country": "Egypt",
+  "placeId": "ChIJpUQgjcBFWBQRHwOpCM3c4tI",
+  "googleName": "Cakers | Luxury Wedding Cakes in Egypt",
+  "formattedAddress": "Al Haram, Oula Al Haram, El Talbia, Giza Governorate 3531304, Egypt",
+  "phone": "010 24998891",
+  "website": "https://www.instagram.com/cakerseg",
+  "googleMapsUrl": "https://maps.google.com/?cid=15195950865873175327",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    29.996758,
+    31.1611794
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 1:00 AM",
+    "Tuesday: 10:00 AM – 1:00 AM",
+    "Wednesday: 10:00 AM – 1:00 AM",
+    "Thursday: 10:00 AM – 1:00 AM",
+    "Friday: 10:00 AM – 1:00 AM",
+    "Saturday: 10:00 AM – 1:00 AM",
+    "Sunday: 10:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakers-cairo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:02:02.523Z"
+}

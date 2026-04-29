@@ -1,0 +1,44 @@
+{
+  "slug": "amarenatte-confeitaria-artesanal-vitoria",
+  "name": "Amarenatte confeitaria artesanal",
+  "curatedName": "Amarenatte confeitaria artesanal",
+  "city": "Vitória",
+  "country": "Brazil",
+  "placeId": "ChIJpwgWtYwZuAARDEi6h7Pk4iU",
+  "googleName": "Amarenatte confeitaria artesanal",
+  "formattedAddress": "R. Vera Dúlce de Campos Barros, 145 - Morada de Camburí, Vitória - ES, 29062-550, Brazil",
+  "phone": "(27) 99796-2346",
+  "internationalPhone": "+55 27 99796-2346",
+  "website": "https://www.instagram.com/amarenatteconfeitariaartesanal",
+  "googleMapsUrl": "https://maps.google.com/?cid=2729995783867353100",
+  "rating": 5,
+  "reviewCount": 50,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.2703948,
+    -40.2970079
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 12:00 – 5:45 PM",
+    "Friday: 12:00 – 6:00 PM",
+    "Saturday: 12:00 – 6:00 PM",
+    "Sunday: 12:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amarenatte-confeitaria-artesanal-vitoria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:14.374Z"
+}

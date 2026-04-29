@@ -1,0 +1,32 @@
+{
+  "slug": "mc-konditoren-aalborg",
+  "name": "MC Konditoren",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJeYYDlsstSUYR0wwFCkGfWVw",
+  "googleName": "Aalborg MC Aps",
+  "formattedAddress": "Hjørringvej 125, 9400 Nørresundby, Denmark",
+  "phone": "72 30 04 33",
+  "website": "http://just-ride.nu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6654525026106412243",
+  "rating": 4.1,
+  "reviewCount": 23,
+  "coords": [
+    57.0766733,
+    9.953814099999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: 10:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mc-konditoren-aalborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:23.085Z"
+}

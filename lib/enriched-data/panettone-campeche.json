@@ -1,0 +1,44 @@
+{
+  "slug": "panettone-campeche",
+  "name": "Panettone",
+  "curatedName": "Panettone",
+  "city": "Campeche",
+  "country": "Mexico",
+  "placeId": "ChIJSdMhUhSxUBERipsdvDzUrVQ",
+  "googleName": "PANETTONE",
+  "formattedAddress": "Av. Agustín Melgar Local 63, Villas Universidad, 24030 San Francisco de Campeche, Camp., Mexico",
+  "phone": "981 811 1515",
+  "internationalPhone": "+52 981 811 1515",
+  "website": "https://m.facebook.com/panettone.pasteleria/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6101766427476073354",
+  "rating": 4.3,
+  "reviewCount": 33,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.8264196,
+    -90.553275
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panettone-campeche/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:44.121Z"
+}

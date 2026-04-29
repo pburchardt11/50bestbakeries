@@ -1,0 +1,43 @@
+{
+  "slug": "chu-bakery-perth",
+  "name": "Chu Bakery",
+  "curatedName": "Chu Bakery",
+  "city": "Perth",
+  "country": "Australia",
+  "placeId": "ChIJqd677sW6MioRVCrf49nWH_o",
+  "googleName": "Chu Bakery",
+  "formattedAddress": "498 William St, Highgate WA 6003, Australia",
+  "phone": "0422 248 674",
+  "internationalPhone": "+61 422 248 674",
+  "website": "https://instagram.com/chubakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18023360465079315028",
+  "rating": 4.6,
+  "reviewCount": 1962,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -31.9393967,
+    115.8648493
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chu-bakery-perth/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:11.241Z"
+}

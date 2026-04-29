@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-curacao",
+  "name": "Cinnabon",
+  "city": "Curacao",
+  "country": "Curaçao",
+  "placeId": "ChIJi2yNIKSDhI4RYSATttmM3_I",
+  "googleName": "Zeven Oven & Cups",
+  "formattedAddress": "17A Seru Loraweg, JANWE, Curaçao",
+  "phone": "9 666 1725",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17500861543675535457",
+  "rating": 4.5,
+  "reviewCount": 28,
+  "coords": [
+    12.1095029,
+    -68.8965412
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnabon-curacao/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:08.422Z"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "bakkerij-koekenbak-aalst",
+  "name": "Bakkerij Koekenbak",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJW3x2z8Ciw0cRLgZOMnZjyqY",
+  "googleName": "Bakkerij Koekenbak",
+  "formattedAddress": "Bremtstraat 4, 9320 Aalst, Belgium",
+  "phone": "053 83 36 92",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12018527914892854830",
+  "rating": 4.5,
+  "reviewCount": 13,
+  "coords": [
+    50.9199472,
+    3.9985251
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:04:04.591Z"
+}

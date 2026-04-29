@@ -1,0 +1,43 @@
+{
+  "slug": "the-mandarin-cake-shop-hong-kong",
+  "name": "The Mandarin Cake Shop",
+  "curatedName": "The Mandarin Cake Shop",
+  "city": "Hong Kong",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJVUEjF2QABDQR88baldklWYg",
+  "googleName": "The Mandarin Cake Shop",
+  "formattedAddress": "M/F, Mandarin Oriental Hong Kong, 5 Connaught Rd Central, Central, Hong Kong",
+  "phone": "2825 4008",
+  "internationalPhone": "+852 2825 4008",
+  "website": "https://www.mandarinoriental.com/en/hong-kong/victoria-harbour/dine/the-mandarin-cake-shop?src=loc.yext.mohkg.ggl",
+  "googleMapsUrl": "https://maps.google.com/?cid=9824925678537721587",
+  "rating": 4.4,
+  "reviewCount": 395,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.281959,
+    114.159416
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-mandarin-cake-shop-hong-kong/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:04.071Z"
+}

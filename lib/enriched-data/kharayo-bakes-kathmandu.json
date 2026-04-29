@@ -1,0 +1,45 @@
+{
+  "slug": "kharayo-bakes-kathmandu",
+  "name": "Kharayo Bakes",
+  "curatedName": "Kharayo Bakes",
+  "city": "Kathmandu",
+  "country": "Nepal",
+  "placeId": "ChIJE6B3X-kZ6zkRApl8rtqZ_Uo",
+  "googleName": "Kharayo Bakes",
+  "formattedAddress": "Makhan Tole, Kathmandu 44700, Nepal",
+  "phone": "985-1132172",
+  "internationalPhone": "+977 985-1132172",
+  "website": "http://www.kharayobakes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5403644292423784706",
+  "rating": 4.7,
+  "reviewCount": 2650,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    27.7053724,
+    85.3080152
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kharayo-bakes-kathmandu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:00.778Z"
+}

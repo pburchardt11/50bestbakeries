@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-pasteleria-maipore-acacias",
+  "name": "Panadería y Pastelería Maipore",
+  "city": "Acacías",
+  "country": "Colombia",
+  "placeId": "ChIJYyZjpUw5Po4RGrj7g9Z5QOo",
+  "googleName": "Panaderia Maipore",
+  "formattedAddress": "Cl. 14, Acacías, Meta, Colombia",
+  "phone": "311 4828520",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16879625365628893210",
+  "rating": 4.4,
+  "reviewCount": 456,
+  "coords": [
+    3.9869989,
+    -73.7648356
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-pasteleria-maipore-acacias/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:45:25.471Z"
+}

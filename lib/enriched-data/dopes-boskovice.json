@@ -1,0 +1,32 @@
+{
+  "slug": "dopes-boskovice",
+  "name": "Dopes",
+  "city": "Boskovice",
+  "country": "Czech Republic",
+  "placeId": "ChIJ0UrTD41iEkcR5-ivv9izuFc",
+  "googleName": "DOPES, s.r.o. (prodejna Boskovice)",
+  "formattedAddress": "17. listopadu 2192, 680 01 Boskovice, Czechia",
+  "phone": "733 738 962",
+  "website": "http://dopes.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6320999820524775655",
+  "rating": 4.5,
+  "reviewCount": 94,
+  "coords": [
+    49.48876449999999,
+    16.6624314
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 4:30 PM",
+    "Tuesday: 5:30 AM – 4:30 PM",
+    "Wednesday: 5:30 AM – 4:30 PM",
+    "Thursday: 5:30 AM – 4:30 PM",
+    "Friday: 5:30 AM – 4:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dopes-boskovice/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:46.727Z"
+}

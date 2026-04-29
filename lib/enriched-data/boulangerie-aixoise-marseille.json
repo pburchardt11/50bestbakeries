@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-aixoise-marseille",
+  "name": "Boulangerie Aixoise",
+  "curatedName": "Boulangerie Aixoise",
+  "city": "Marseille",
+  "country": "France",
+  "placeId": "ChIJ0e8QDrnAyRIR3Q4AwY3U1C0",
+  "googleName": "Boulangerie Aixoise",
+  "formattedAddress": "45 Rue Francis Davso, 13001 Marseille, France",
+  "phone": "04 91 33 93 85",
+  "internationalPhone": "+33 4 91 33 93 85",
+  "website": "http://www.biscuiteriemarseillaise.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3302498132062899933",
+  "rating": 4.1,
+  "reviewCount": 929,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.29310479999999,
+    5.3765686
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:30 PM",
+    "Tuesday: 6:30 AM – 7:30 PM",
+    "Wednesday: 6:30 AM – 7:30 PM",
+    "Thursday: 6:30 AM – 7:30 PM",
+    "Friday: 6:30 AM – 7:30 PM",
+    "Saturday: 6:30 AM – 7:30 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Tarts, biscuits, pastries & artisanal breads, plus coffee, at a century-old bakery & patisserie.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-aixoise-marseille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:26.179Z"
+}

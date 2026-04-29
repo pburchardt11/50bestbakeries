@@ -1,0 +1,45 @@
+{
+  "slug": "d-andrews-bakery-cafe-nashville",
+  "name": "D'Andrews Bakery & Cafe",
+  "curatedName": "D'Andrews Bakery & Cafe",
+  "city": "Nashville",
+  "country": "United States",
+  "placeId": "ChIJcWepMWlnZIgRXpt0Aqr9lPg",
+  "googleName": "D’Andrews Bakery & Cafe",
+  "formattedAddress": "555 Church St, Nashville, TN 37219, USA",
+  "phone": "(615) 375-4934",
+  "internationalPhone": "+1 615-375-4934",
+  "website": "http://www.dandrewsbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17912220524586769246",
+  "rating": 4.7,
+  "reviewCount": 708,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.1626592,
+    -86.78098469999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Relaxed hangout serving coffees, pastries & sandwiches, plus handcrafted desserts & fancy cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/d-andrews-bakery-cafe-nashville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:58.819Z"
+}

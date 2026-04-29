@@ -1,0 +1,43 @@
+{
+  "slug": "backerei-markwort-bremen",
+  "name": "Bäckerei Markwort",
+  "curatedName": "Bäckerei Markwort",
+  "city": "Bremen",
+  "country": "Germany",
+  "placeId": "ChIJ3c7aSeLXsEcRwLq-gV5Q0Z0",
+  "googleName": "Bäckerei Markwort",
+  "formattedAddress": "Kornstraße 121, 28201 Bremen, Germany",
+  "phone": "0421 532311",
+  "internationalPhone": "+49 421 532311",
+  "website": "https://baeckerei-markwort-grolland.mozello.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11371958900921121472",
+  "rating": 4.7,
+  "reviewCount": 304,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.06275669999999,
+    8.8032562
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 12:30 PM",
+    "Sunday: 8:00 – 11:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-markwort-bremen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:30.840Z"
+}

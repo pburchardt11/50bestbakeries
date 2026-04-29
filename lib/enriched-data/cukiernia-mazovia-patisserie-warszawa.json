@@ -1,0 +1,43 @@
+{
+  "slug": "cukiernia-mazovia-patisserie-warszawa",
+  "name": "Cukiernia Mazovia Patisserie",
+  "curatedName": "Cukiernia Mazovia Patisserie",
+  "city": "Warszawa",
+  "country": "Poland",
+  "placeId": "ChIJQQSwgMjNHkcRw5vNpQCw7aA",
+  "googleName": "Cukiernia Mazovia Patisserie",
+  "formattedAddress": "Grzybowska 63, 00-844 Warszawa, Poland",
+  "phone": "690 114 008",
+  "internationalPhone": "+48 690 114 008",
+  "website": "http://mazovia.waw.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11596118132377099203",
+  "rating": 4.4,
+  "reviewCount": 918,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.23365099999999,
+    20.9858893
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cukiernia-mazovia-patisserie-warszawa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:20.158Z"
+}

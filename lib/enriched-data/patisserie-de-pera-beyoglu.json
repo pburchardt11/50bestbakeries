@@ -1,0 +1,43 @@
+{
+  "slug": "patisserie-de-pera-beyoglu",
+  "name": "Patisserie De Pera",
+  "curatedName": "Patisserie De Pera",
+  "city": "Beyoğlu",
+  "country": "Türkiye",
+  "placeId": "ChIJ7f-DueG5yhQR5i3kwKmk2xU",
+  "googleName": "Patisserie De Pera",
+  "formattedAddress": "Pera Palace Hotel, Evliya Çelebi, Meşrutiyet Cd. No:52, 34430 Beyoğlu/İstanbul, Türkiye",
+  "phone": "(0212) 377 40 00",
+  "internationalPhone": "+90 212 377 40 00",
+  "website": "https://patisseriedepera.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1575033543688728038",
+  "rating": 4.2,
+  "reviewCount": 537,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0308484,
+    28.9734872
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-de-pera-beyoglu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:25.235Z"
+}

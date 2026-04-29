@@ -1,0 +1,44 @@
+{
+  "slug": "sucre-sale-den-haag",
+  "name": "Sucré Salé",
+  "curatedName": "Sucré Salé",
+  "city": "Den Haag",
+  "country": "Netherlands",
+  "placeId": "ChIJj-vdHtCwxUcRPqlAiSlVInM",
+  "googleName": "Sucré Salé",
+  "formattedAddress": "Reinkenstraat 18, 2517 CV Den Haag, Netherlands",
+  "phone": "070 887 0031",
+  "internationalPhone": "+31 70 887 0031",
+  "website": "http://www.sucresale.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8296287100454611262",
+  "rating": 4.5,
+  "reviewCount": 265,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.081461,
+    4.283393999999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sucre-sale-den-haag/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:07.475Z"
+}

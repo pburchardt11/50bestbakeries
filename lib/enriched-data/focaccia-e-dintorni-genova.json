@@ -1,0 +1,43 @@
+{
+  "slug": "focaccia-e-dintorni-genova",
+  "name": "Focaccia e Dintorni",
+  "curatedName": "Focaccia e Dintorni",
+  "city": "Genova",
+  "country": "Italy",
+  "placeId": "ChIJOUoQsuBD0xIRBrS4kJi-cLU",
+  "googleName": "Focaccia e Dintorni",
+  "formattedAddress": "Via di Canneto Il Curto, 54, 16123 Genova GE, Italy",
+  "phone": "010 247 2154",
+  "internationalPhone": "+39 010 247 2154",
+  "website": "https://focacciaedintorni.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13074159280728880134",
+  "rating": 4.5,
+  "reviewCount": 2557,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.4083739,
+    8.9296592
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/focaccia-e-dintorni-genova/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:52.869Z"
+}

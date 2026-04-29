@@ -1,0 +1,44 @@
+{
+  "slug": "dumouchel-patisserie-leeds",
+  "name": "Dumouchel Patisserie",
+  "curatedName": "Dumouchel Patisserie",
+  "city": "Leeds",
+  "country": "United Kingdom",
+  "placeId": "ChIJO5QaBLtDeUgRdJIeYwJtcKQ",
+  "googleName": "Dumouchel Patisserie",
+  "formattedAddress": "1 Ninelands Ln, Garforth, Leeds LS25 1NX, UK",
+  "phone": "0113 287 0055",
+  "internationalPhone": "+44 113 287 0055",
+  "website": "http://www.dumouchel.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11849090476632085108",
+  "rating": 4.9,
+  "reviewCount": 119,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "school",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.7920111,
+    -1.3761
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 8:30 AM – 1:00 PM",
+    "Friday: 8:30 AM – 1:00 PM",
+    "Saturday: 8:30 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dumouchel-patisserie-leeds/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:07:22.761Z"
+}

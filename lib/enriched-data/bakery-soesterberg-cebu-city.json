@@ -1,0 +1,43 @@
+{
+  "slug": "bakery-soesterberg-cebu-city",
+  "name": "Bakery Soesterberg",
+  "curatedName": "Bakery Soesterberg",
+  "city": "Cebu City",
+  "country": "Philippines",
+  "placeId": "ChIJpY1ovFqZqTMRZ-czPAUUeLk",
+  "googleName": "Bakery Soesterberg",
+  "formattedAddress": "Streetscape, Cebu City, 6000 Cebu, Philippines",
+  "phone": "0906 212 0488",
+  "internationalPhone": "+63 906 212 0488",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13364453906939373415",
+  "rating": 4.8,
+  "reviewCount": 100,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.3449834,
+    123.9090174
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-soesterberg-cebu-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:50.989Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "buka-k-benhavn",
+  "name": "BUKA",
+  "curatedName": "BUKA",
+  "city": "København",
+  "country": "Denmark",
+  "placeId": "ChIJp_-9Tq9TUkYRFYwS5ZP56_g",
+  "googleName": "BUKA",
+  "formattedAddress": "Store Kongensgade 18, 1264 København, Denmark",
+  "phone": "53 78 85 86",
+  "internationalPhone": "+45 53 78 85 86",
+  "website": "http://buka-bakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17936704354531838997",
+  "rating": 4.4,
+  "reviewCount": 2017,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    55.68197170000001,
+    12.5858709
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Relaxed eatery featuring an all-day menu & classic baked goods, plus espresso, wine & beer.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/buka-k-benhavn/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:16.444Z"
+}

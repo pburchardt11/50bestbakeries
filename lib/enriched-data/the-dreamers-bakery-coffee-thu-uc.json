@@ -1,0 +1,44 @@
+{
+  "slug": "the-dreamers-bakery-coffee-thu-uc",
+  "name": "The Dreamers Bakery & Coffee",
+  "curatedName": "The Dreamers Bakery & Coffee",
+  "city": "Thủ Đức",
+  "country": "Vietnam",
+  "placeId": "ChIJD90YUXUndTERdpcGAOF7czI",
+  "googleName": "The Dreamers Bakery & Coffee",
+  "formattedAddress": "11 Thảo Điền, An Khánh, Hồ Chí Minh 700000, Vietnam",
+  "phone": "0358 718 788",
+  "internationalPhone": "+84 358 718 788",
+  "website": "https://www.facebook.com/thedreamersbakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=3635385530516412278",
+  "rating": 4.7,
+  "reviewCount": 328,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.802275,
+    106.7380574
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 7:00 PM",
+    "Sunday: 6:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-dreamers-bakery-coffee-thu-uc/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:52.032Z"
+}

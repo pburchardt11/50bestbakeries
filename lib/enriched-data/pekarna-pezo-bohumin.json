@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-pezo-bohumin",
+  "name": "pekárna pezo",
+  "city": "Bohumín",
+  "country": "Czech Republic",
+  "placeId": "ChIJtxLfcItXEUcReYTIH7oFrfs",
+  "googleName": "Pekárna Na Růžku",
+  "formattedAddress": "tř. Dr. E. Beneše 194, 735 81 Bohumín-Bohumín 1, Czechia",
+  "phone": "558 848 118",
+  "website": "http://www.lahudky-hvezda.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18135157571446146169",
+  "rating": 3.6,
+  "reviewCount": 44,
+  "coords": [
+    49.9032566,
+    18.3556878
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:00 PM",
+    "Tuesday: 5:30 AM – 6:00 PM",
+    "Wednesday: 5:30 AM – 6:00 PM",
+    "Thursday: 5:30 AM – 6:00 PM",
+    "Friday: 5:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-pezo-bohumin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:36.284Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "gorilla-backerei-berlin",
+  "name": "Gorilla Bäckerei",
+  "curatedName": "Gorilla Bäckerei",
+  "city": "Berlin",
+  "country": "Germany",
+  "placeId": "ChIJvYHk0ZBRqEcRewp8rsboeO4",
+  "googleName": "Gorilla Bäckerei",
+  "formattedAddress": "EUREF-Campus 1, 10829 Berlin, Germany",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.gorilla-baeckerei.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17183740318260660859",
+  "rating": 4.5,
+  "reviewCount": 592,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.48008369999999,
+    13.353824
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gorilla-backerei-berlin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:03.553Z"
+}

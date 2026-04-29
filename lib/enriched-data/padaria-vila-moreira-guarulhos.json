@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-vila-moreira-guarulhos",
+  "name": "Padaria Vila Moreira",
+  "curatedName": "Padaria Vila Moreira",
+  "city": "Guarulhos",
+  "country": "Brazil",
+  "placeId": "ChIJ_S5Hzo31zpQRoUVulaIAi1Q",
+  "googleName": "Padaria Vila Moreira",
+  "formattedAddress": "R. Silvestre Vasconcelos Calmon, 137 - Vila Pedro Moreira, Guarulhos - SP, 07020-001, Brazil",
+  "phone": "(11) 2409-3731",
+  "internationalPhone": "+55 11 2409-3731",
+  "website": "https://www.facebook.com/profile.php?id=100094679965036",
+  "googleMapsUrl": "https://maps.google.com/?cid=6091963619240461729",
+  "rating": 4.5,
+  "reviewCount": 459,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.4730788,
+    -46.5347333
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 10:00 PM",
+    "Tuesday: 5:00 AM – 10:00 PM",
+    "Wednesday: 5:00 AM – 10:00 PM",
+    "Thursday: 5:00 AM – 10:00 PM",
+    "Friday: 5:00 AM – 10:00 PM",
+    "Saturday: 5:00 AM – 10:00 PM",
+    "Sunday: 5:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-vila-moreira-guarulhos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:22.195Z"
+}

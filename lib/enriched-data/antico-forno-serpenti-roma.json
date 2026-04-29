@@ -1,0 +1,45 @@
+{
+  "slug": "antico-forno-serpenti-roma",
+  "name": "Antico Forno Serpenti",
+  "curatedName": "Antico Forno Serpenti",
+  "city": "Roma",
+  "country": "Italy",
+  "placeId": "ChIJQ_gIjbFhLxMRhuNMGoMoWGU",
+  "googleName": "Antico Forno Serpenti",
+  "formattedAddress": "Via dei Serpenti, 122/123, 00184 Roma RM, Italy",
+  "phone": "06 4542 7920",
+  "internationalPhone": "+39 06 4542 7920",
+  "website": "http://www.anticofornoaiserpenti.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7302631339328332678",
+  "rating": 4.6,
+  "reviewCount": 3351,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.8962461,
+    12.4902668
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Cozy, modern bakery for classic Italian pastries, pizza & bread, plus lunch & dinner menus.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antico-forno-serpenti-roma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:29.399Z"
+}

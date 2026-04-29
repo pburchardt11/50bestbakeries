@@ -1,0 +1,44 @@
+{
+  "slug": "castalia-bakery-and-cafe-brasilia",
+  "name": "Castalia Bakery and Cafe",
+  "curatedName": "Castalia Bakery and Cafe",
+  "city": "Brasília",
+  "country": "Brazil",
+  "placeId": "ChIJz_2pR_46WpMRUg18Vi3f17o",
+  "googleName": "Castalia Bakery and Cafe",
+  "formattedAddress": "Bloco D - Lojas 64/74 - Asa Norte, Brasília - DF, 70722-540, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/castalia.102",
+  "googleMapsUrl": "https://maps.google.com/?cid=13463474996864879954",
+  "rating": 4.6,
+  "reviewCount": 2247,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -15.7831687,
+    -47.8836151
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/castalia-bakery-and-cafe-brasilia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:34.334Z"
+}

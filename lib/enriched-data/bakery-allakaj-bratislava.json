@@ -1,0 +1,43 @@
+{
+  "slug": "bakery-allakaj-bratislava",
+  "name": "Bakery Allakaj",
+  "curatedName": "Bakery Allakaj",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJ39nkm3OJbEcRqcEc25vUnwU",
+  "googleName": "Bakery Allakaj",
+  "formattedAddress": "Sasinkova 2633/1, 811 08 Bratislava-Staré Mesto, Slovakia",
+  "phone": "0903 788 585",
+  "internationalPhone": "+421 903 788 585",
+  "website": "https://www.facebook.com/BakeryAllakaj/",
+  "googleMapsUrl": "https://maps.google.com/?cid=405276257347748265",
+  "rating": 4.6,
+  "reviewCount": 384,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.1516019,
+    17.1202461
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-allakaj-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:35.939Z"
+}

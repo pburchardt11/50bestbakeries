@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-pastry-alipan-alto-vista",
+  "name": "Bakery & Pastry AliPan",
+  "city": "Alto Vista",
+  "country": "Aruba",
+  "placeId": "ChIJB8Lk0so5hY4R8znmz-d14BA",
+  "googleName": "Bakery & Pastry AliPan",
+  "formattedAddress": "Sabana Liber 24, Noord, Aruba",
+  "phone": "740 6907",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1216101537875900915",
+  "rating": 4.3,
+  "reviewCount": 41,
+  "coords": [
+    12.5592858,
+    -70.0231798
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-pastry-alipan-alto-vista/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:27:22.099Z"
+}

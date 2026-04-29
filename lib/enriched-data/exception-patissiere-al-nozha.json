@@ -1,0 +1,32 @@
+{
+  "slug": "exception-patissiere-al-nozha",
+  "name": "Exception Patissiere",
+  "city": "Al Nozha",
+  "country": "Egypt",
+  "placeId": "ChIJOy5WAYk-WBQR4uBtBlVMRw0",
+  "googleName": "Exception Patisserie - Nasr City Branch",
+  "formattedAddress": "Zakr Hussein, Al Hadiqah Ad Dawleyah, Nasr City, Cairo Governorate 4441281, Egypt",
+  "phone": "010 11116184",
+  "website": "https://www.exception-group.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=956817373903315170",
+  "rating": 4.3,
+  "reviewCount": 1477,
+  "coords": [
+    30.0444517,
+    31.3395126
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 AM",
+    "Tuesday: 7:00 AM – 1:00 AM",
+    "Wednesday: 7:00 AM – 1:00 AM",
+    "Thursday: 7:00 AM – 1:00 AM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 7:00 AM – 1:00 AM",
+    "Sunday: 7:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/exception-patissiere-al-nozha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:01:21.270Z"
+}

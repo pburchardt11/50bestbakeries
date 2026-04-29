@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-p-s-bakery-alajuela",
+  "name": "Sweet P's Bakery",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJGWhytY35oI8RsvKpQi_ypNk",
+  "googleName": "Sweet P’s Bakery",
+  "formattedAddress": "2Q7Q+M6M, C. 1 Gral. Eloy Alfaro, Provincia de Alajuela, Alajuela, Arroyo, Costa Rica",
+  "phone": "8640 9444",
+  "website": "https://www.instagram.com/sweetpsbakerycr?igsh=MWJ4N2tiaGwxZjg5ag%3D%3D&utm_source=qr",
+  "googleMapsUrl": "https://maps.google.com/?cid=15682926087206728370",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    10.0142027,
+    -84.21195999999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-p-s-bakery-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:04.389Z"
+}

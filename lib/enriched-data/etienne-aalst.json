@@ -1,0 +1,32 @@
+{
+  "slug": "etienne-aalst",
+  "name": "Etienne",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJD1b-ZA29w0cRg_3TgjsMFok",
+  "googleName": "Etienne",
+  "formattedAddress": "Erembodegem-Dorp 50, 9320 Aalst, Belgium",
+  "phone": "053 70 77 97",
+  "website": "http://www.patisserie-etienne.be/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+  "googleMapsUrl": "https://maps.google.com/?cid=9878096282421296515",
+  "rating": 4.4,
+  "reviewCount": 71,
+  "coords": [
+    50.9193051,
+    4.0577558
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 5:30 PM",
+    "Wednesday: 7:00 AM – 5:30 PM",
+    "Thursday: 7:00 AM – 5:30 PM",
+    "Friday: 7:00 AM – 5:30 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/etienne-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:03:50.867Z"
+}

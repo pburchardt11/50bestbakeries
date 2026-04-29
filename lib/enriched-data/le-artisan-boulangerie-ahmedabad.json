@@ -1,0 +1,44 @@
+{
+  "slug": "le-artisan-boulangerie-ahmedabad",
+  "name": "Le artisan Boulangerie",
+  "curatedName": "Le artisan Boulangerie",
+  "city": "Ahmedabad",
+  "country": "India",
+  "placeId": "ChIJcwGp3F2bXjkRVuEfaMjisJY",
+  "googleName": "Le artisan Boulangerie",
+  "formattedAddress": "GF,B/S Avalon hotel, Sanblue Trade Link Pvt Ltd ( Veer Group), 9, Be Alive Media Rd, Bodakdev, Ahmedabad, Gujarat 380059, India",
+  "phone": "097232 31177",
+  "internationalPhone": "+91 97232 31177",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10858428051958522198",
+  "rating": 4.5,
+  "reviewCount": 596,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.045406,
+    72.50708999999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 1:00 – 11:00 PM",
+    "Sunday: 1:00 – 11:00 PM"
+  ],
+  "editorialSummary": "Quaint, light-filled spot offering classic pastries & global eats in a laid-back atmosphere.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-artisan-boulangerie-ahmedabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:49:47.684Z"
+}

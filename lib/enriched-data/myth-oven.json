@@ -1,0 +1,43 @@
+{
+  "slug": "myth-oven",
+  "name": "Myth Oven",
+  "curatedName": "Myth Oven",
+  "city": "เชียงใหม่",
+  "country": "Thailand",
+  "placeId": "ChIJtx1Jcjo72jARymCF7swh3Fk",
+  "googleName": "Myth Oven",
+  "formattedAddress": "64 Rattanakosin Rd, Tambon Wat Ket, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000, Thailand",
+  "phone": "082 653 6645",
+  "internationalPhone": "+66 82 653 6645",
+  "website": "http://facebook.com/mythoven",
+  "googleMapsUrl": "https://maps.google.com/?cid=6475087528310694090",
+  "rating": 4.8,
+  "reviewCount": 157,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.8016173,
+    99.01125069999999
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 5:00 PM",
+    "Tuesday: 9:30 AM – 5:00 PM",
+    "Wednesday: 9:30 AM – 5:00 PM",
+    "Thursday: 9:30 AM – 5:00 PM",
+    "Friday: 9:30 AM – 5:00 PM",
+    "Saturday: 9:30 AM – 5:00 PM",
+    "Sunday: 9:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/myth-oven/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:51.155Z"
+}

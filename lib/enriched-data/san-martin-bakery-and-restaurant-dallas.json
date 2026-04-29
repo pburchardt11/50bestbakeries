@@ -1,0 +1,45 @@
+{
+  "slug": "san-martin-bakery-and-restaurant-dallas",
+  "name": "San Martin Bakery and Restaurant",
+  "curatedName": "San Martin Bakery and Restaurant",
+  "city": "Dallas",
+  "country": "United States",
+  "placeId": "ChIJD_FuypuZToYRZozFS2YA67w",
+  "googleName": "San Martin Bakery and Restaurant",
+  "formattedAddress": "3120 McKinney Ave, Dallas, TX 75204, USA",
+  "phone": "(469) 802-6652",
+  "internationalPhone": "+1 469-802-6652",
+  "website": "http://sanmartinbakery.us/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13612974738015358054",
+  "rating": 4.5,
+  "reviewCount": 4157,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.8021821,
+    -96.79992070000002
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Bright, airy, plant-filled Guatemalan import for casual coffee or meal, plus large take-out bakery.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/san-martin-bakery-and-restaurant-dallas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:22.873Z"
+}

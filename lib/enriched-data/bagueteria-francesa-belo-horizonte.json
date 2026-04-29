@@ -1,0 +1,43 @@
+{
+  "slug": "bagueteria-francesa-belo-horizonte",
+  "name": "Bagueteria Francesa",
+  "curatedName": "Bagueteria Francesa",
+  "city": "Belo Horizonte",
+  "country": "Brazil",
+  "placeId": "ChIJN9w-JPqZpgAR5n1J8s6a9G8",
+  "googleName": "Bagueteria Francesa",
+  "formattedAddress": "Entra pela Santos Dumont pista do Move trtra - Av. Santos Dumont, 201 - Centro, Belo Horizonte - MG, 30111-040, Brazil",
+  "phone": "(31) 3226-3822",
+  "internationalPhone": "+55 31 3226-3822",
+  "website": "https://www.facebook.com/bagueteriafrancesabh/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8067243046146244070",
+  "rating": 4.8,
+  "reviewCount": 1532,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.9166654,
+    -43.9358264
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bagueteria-francesa-belo-horizonte/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:12.343Z"
+}

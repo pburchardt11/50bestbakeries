@@ -1,0 +1,32 @@
+{
+  "slug": "the-cupcake-garden-oranjestad",
+  "name": "The Cupcake Garden",
+  "city": "Oranjestad",
+  "country": "Aruba",
+  "placeId": "ChIJ53zrNZ45hY4RgU0IhQtzL-c",
+  "googleName": "The Cupcake Garden",
+  "formattedAddress": "Wilhelminastraat 47, Oranjestad, Aruba",
+  "phone": "583 0450",
+  "website": "https://m.facebook.com/gncupcakegardenaruba/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16658660039980502401",
+  "rating": 4.6,
+  "reviewCount": 20,
+  "coords": [
+    12.5185238,
+    -70.0330784
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 5:30 PM",
+    "Tuesday: 9:30 AM – 5:30 PM",
+    "Wednesday: 9:30 AM – 5:30 PM",
+    "Thursday: 9:30 AM – 5:30 PM",
+    "Friday: 9:30 AM – 5:30 PM",
+    "Saturday: 9:30 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cupcake-garden-oranjestad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:29:04.796Z"
+}

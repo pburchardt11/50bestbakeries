@@ -1,0 +1,43 @@
+{
+  "slug": "cigdem-patisserie-fatih",
+  "name": "Cigdem Patisserie",
+  "curatedName": "Cigdem Patisserie",
+  "city": "Fatih",
+  "country": "Türkiye",
+  "placeId": "ChIJ8zWVFZa5yhQRVJHEIQ2QE7U",
+  "googleName": "Cigdem Patisserie",
+  "formattedAddress": "Alemdar, Divan Yolu Cd. No:62, 34110 Fatih/İstanbul, Türkiye",
+  "phone": "(0212) 526 88 59",
+  "internationalPhone": "+90 212 526 88 59",
+  "website": "http://www.cigdempastanesi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13047930931497963860",
+  "rating": 4.5,
+  "reviewCount": 1651,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0082394,
+    28.9744717
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cigdem-patisserie-fatih/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:32:48.252Z"
+}

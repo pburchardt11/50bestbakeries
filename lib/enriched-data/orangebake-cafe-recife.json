@@ -1,0 +1,44 @@
+{
+  "slug": "orangebake-cafe-recife",
+  "name": "OrangeBake Café",
+  "curatedName": "OrangeBake Café",
+  "city": "Recife",
+  "country": "Brazil",
+  "placeId": "ChIJ4VpscCIfqwcRLRlRGZnWR8s",
+  "googleName": "OrangeBake Café",
+  "formattedAddress": "R. Padre Giordano, 310 - Boa Viagem, Recife - PE, 51021-490, Brazil",
+  "phone": "(81) 97111-8889",
+  "internationalPhone": "+55 81 97111-8889",
+  "website": "http://orange.goomer.app/menu",
+  "googleMapsUrl": "https://maps.google.com/?cid=14647912266088913197",
+  "rating": 4.9,
+  "reviewCount": 3062,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -8.1282234,
+    -34.905789
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 8:30 AM – 9:00 PM",
+    "Sunday: 8:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orangebake-cafe-recife/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:38.220Z"
+}

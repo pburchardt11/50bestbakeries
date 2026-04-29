@@ -1,0 +1,43 @@
+{
+  "slug": "levain-and-cherry-birmingham",
+  "name": "Levain and Cherry",
+  "curatedName": "Levain and Cherry",
+  "city": "Birmingham",
+  "country": "United Kingdom",
+  "placeId": "ChIJL4OEpqy9cEgRSW8ftAf5KGk",
+  "googleName": "Levain and Cherry",
+  "formattedAddress": "High St, King's Heath, Birmingham B14 7JZ, UK",
+  "phone": "07377 460827",
+  "internationalPhone": "+44 7377 460827",
+  "website": "http://www.levainandcherry.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7577580184532905801",
+  "rating": 4.8,
+  "reviewCount": 179,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.4351999,
+    -1.893042
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 11:00 AM – 3:00 PM",
+    "Thursday: 11:00 AM – 3:00 PM",
+    "Friday: 11:00 AM – 3:00 PM",
+    "Saturday: 11:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/levain-and-cherry-birmingham/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:01.610Z"
+}

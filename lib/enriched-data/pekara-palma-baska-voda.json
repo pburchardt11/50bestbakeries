@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-palma-baska-voda",
+  "name": "Pekara Palma",
+  "city": "Baška Voda",
+  "country": "Croatia",
+  "placeId": "ChIJUYj6xnzrShMRWiRvR0F8u0o",
+  "googleName": "Pekara Palma",
+  "formattedAddress": "Podspiline ul. 52, 21320, Baška Voda, Croatia",
+  "phone": "099 314 6172",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5385034399264744538",
+  "rating": 4.2,
+  "reviewCount": 424,
+  "coords": [
+    43.3575518,
+    16.9486445
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-palma-baska-voda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:48:42.386Z"
+}

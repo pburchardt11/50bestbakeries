@@ -1,0 +1,43 @@
+{
+  "slug": "bread-land",
+  "name": "Bread Land",
+  "curatedName": "Bread Land",
+  "city": "София",
+  "country": "Bulgaria",
+  "placeId": "ChIJB5wGs96EqkARjZuJ-y54NPQ",
+  "googleName": "Bread Land",
+  "formattedAddress": "ж.к. Красно село, bul. \"Gotse Delchev\" 32, 1680 Sofia, Bulgaria",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.facebook.com/BreadLand",
+  "googleMapsUrl": "https://maps.google.com/?cid=17596821787227298701",
+  "rating": 4.6,
+  "reviewCount": 1767,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.6760667,
+    23.2882573
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-land/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:11.400Z"
+}

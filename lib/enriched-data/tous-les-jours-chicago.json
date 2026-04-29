@@ -1,0 +1,43 @@
+{
+  "slug": "tous-les-jours-chicago",
+  "name": "Tous Les Jours",
+  "curatedName": "Tous Les Jours",
+  "city": "Chicago",
+  "country": "United States",
+  "placeId": "ChIJ229v-dYtDogR_kICU8yJrl0",
+  "googleName": "Tous Les Jours",
+  "formattedAddress": "2144 S Archer Ave unit a, Chicago, IL 60616, USA",
+  "phone": "(312) 225-8488",
+  "internationalPhone": "+1 312-225-8488",
+  "website": "http://www.tljus.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6750484402133943038",
+  "rating": 4.4,
+  "reviewCount": 1137,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.8537901,
+    -87.63394690000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-chicago/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:08:42.254Z"
+}

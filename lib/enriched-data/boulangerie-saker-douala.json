@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-saker-douala",
+  "name": "Boulangerie saker",
+  "city": "Douala",
+  "country": "Cameroon",
+  "placeId": "ChIJ5-wt-ZwNYRARGGligCWWLS8",
+  "googleName": "Boulangerie SAKER",
+  "formattedAddress": "2QP5+WQH, Unnamed Road, Douala, Cameroon",
+  "phone": "6 92 07 13 54",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3399538381546481944",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    4.037313699999999,
+    9.759488500000002
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-saker-douala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:37:31.851Z"
+}

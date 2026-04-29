@@ -1,0 +1,44 @@
+{
+  "slug": "cuarto-creciente-san-nicolas-de-los-garza",
+  "name": "Cuarto Creciente",
+  "curatedName": "Cuarto Creciente",
+  "city": "San Nicolás de los Garza",
+  "country": "Mexico",
+  "placeId": "ChIJz_B1TJuUYoYRkJ4qifzugCs",
+  "googleName": "Cuarto Creciente",
+  "formattedAddress": "Plaza Andenes Universidad Local A-110, Av. Universidad 1250, Sin Nombre de Col 6, 66400 San Nicolás de los Garza, N.L., Mexico",
+  "phone": "81 2558 5543",
+  "internationalPhone": "+52 81 2558 5543",
+  "website": "http://www.cuartocrecientemx.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3134768109050306192",
+  "rating": 4.5,
+  "reviewCount": 1266,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.7631943,
+    -100.2931726
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Sandwiches, breakfast & cakes are served in this laid-back coffee shop with a cool vibe & a terrace.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cuarto-creciente-san-nicolas-de-los-garza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:50.198Z"
+}

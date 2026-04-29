@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-mlinar-dubrovnik",
+  "name": "Pekara Mlinar",
+  "city": "Dubrovnik",
+  "country": "Croatia",
+  "placeId": "ChIJ2VrFjzILTBMRNPgO8Jnpqo4",
+  "googleName": "Mlinar",
+  "formattedAddress": "Čubranovićeva ul. 1, 20000, Dubrovnik, Croatia",
+  "phone": "091 238 8660",
+  "website": "https://mlinar.hr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10280285946793359412",
+  "rating": 3.7,
+  "reviewCount": 533,
+  "coords": [
+    42.6414518,
+    18.1080779
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-mlinar-dubrovnik/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:50:15.161Z"
+}

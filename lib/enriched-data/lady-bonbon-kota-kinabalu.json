@@ -1,0 +1,43 @@
+{
+  "slug": "lady-bonbon-kota-kinabalu",
+  "name": "Lady BonBon",
+  "curatedName": "Lady BonBon",
+  "city": "Kota Kinabalu",
+  "country": "Malaysia",
+  "placeId": "ChIJZ2NdB1ZoOzIRS8zFxHJxPcs",
+  "googleName": "Lady BonBon",
+  "formattedAddress": "No. 24-0, Lorong Lintas Plaza 3, Lintas Plaza, 88300 Kota Kinabalu, Sabah, Malaysia",
+  "phone": "014-667 1679",
+  "internationalPhone": "+60 14-667 1679",
+  "website": "https://www.ladybonbon.com.my/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14644986301020228683",
+  "rating": 4.4,
+  "reviewCount": 309,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    5.946710599999999,
+    116.0880468
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lady-bonbon-kota-kinabalu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:18.693Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "domaci-pekarna-blatna",
+  "name": "Domácí pekárna Blatná",
+  "city": "Blatná",
+  "country": "Czech Republic",
+  "placeId": "ChIJgYjeGFw7C0cRMj3VUOubO2s",
+  "googleName": "Domácí pekárna Blatná",
+  "formattedAddress": "náměstí J. A. Komenského 1077, 388 01 Blatná, Czechia",
+  "phone": "724 773 949",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7726941020659989810",
+  "rating": 4.8,
+  "reviewCount": 20,
+  "coords": [
+    49.4259308,
+    13.8831159
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:00 PM",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 6:30 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/domaci-pekarna-blatna/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:34.643Z"
+}

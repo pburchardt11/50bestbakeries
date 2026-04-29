@@ -1,0 +1,44 @@
+{
+  "slug": "dr-bakery-surat",
+  "name": "DR Bakery",
+  "curatedName": "DR Bakery",
+  "city": "Surat",
+  "country": "India",
+  "placeId": "ChIJzVcRpNxP4DsRVNpI1cZzCeg",
+  "googleName": "DR Bakery",
+  "formattedAddress": "Library Char Rasta, nr. Nanpura, opp. Hill's Nursery School, Kharwawad, Nanpura, Surat, Gujarat 395001, India",
+  "phone": "087806 92425",
+  "internationalPhone": "+91 87806 92425",
+  "website": "https://www.instagram.com/dr_bakery07?igsh=MWtubHRxYjQ2ZWF6ZA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=16720022389408717396",
+  "rating": 5,
+  "reviewCount": 1295,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "home_goods_store",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1897504,
+    72.8131386
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 10:30 PM",
+    "Tuesday: 9:30 AM – 10:30 PM",
+    "Wednesday: 9:30 AM – 10:30 PM",
+    "Thursday: 9:30 AM – 10:30 PM",
+    "Friday: 9:30 AM – 10:30 PM",
+    "Saturday: 9:30 AM – 10:30 PM",
+    "Sunday: 9:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dr-bakery-surat/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:06.580Z"
+}

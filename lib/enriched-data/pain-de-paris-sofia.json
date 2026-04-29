@@ -1,0 +1,32 @@
+{
+  "slug": "pain-de-paris-sofia",
+  "name": "Pain de Paris",
+  "city": "Sofia",
+  "country": "Bulgaria",
+  "placeId": "ChIJByoGdK2FqkARf31pbY_JemI",
+  "googleName": "Pain De Paris",
+  "formattedAddress": "g.k. Lozenets, ul. \"Zlatovrah\" 34, 1164 Sofia, Bulgaria",
+  "phone": "02 862 4609",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7096205780728774015",
+  "rating": 4.5,
+  "reviewCount": 17,
+  "coords": [
+    42.672413,
+    23.333085
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pain-de-paris-sofia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:23:13.238Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "cakes-pastries-by-george-cincinnati",
+  "name": "Cakes & Pastries by George",
+  "curatedName": "Cakes & Pastries by George",
+  "city": "Cincinnati",
+  "country": "United States",
+  "placeId": "ChIJy7dgr2zKQYgRIvjHIeSzVfs",
+  "googleName": "Cakes & Pastries By George",
+  "formattedAddress": "3674 Muddy Creek Rd, Cincinnati, OH 45238, USA",
+  "phone": "(513) 451-0700",
+  "internationalPhone": "+1 513-451-0700",
+  "website": "https://www.facebook.com/profile.php?id=100063805232510",
+  "googleMapsUrl": "https://maps.google.com/?cid=18110579268940986402",
+  "rating": 4.8,
+  "reviewCount": 236,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.135128,
+    -84.621335
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 2:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-pastries-by-george-cincinnati/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:13:49.305Z"
+}

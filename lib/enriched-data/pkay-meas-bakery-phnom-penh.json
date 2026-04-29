@@ -1,0 +1,32 @@
+{
+  "slug": "pkay-meas-bakery-phnom-penh",
+  "name": "Pkay Meas Bakery",
+  "city": "Phnom Penh",
+  "country": "Cambodia",
+  "placeId": "ChIJIxZ0GpQJCDERNZXnAU12yyU",
+  "googleName": "Bake & Bake Bakery",
+  "formattedAddress": "No. 1A&B Street 450, Phnom Penh 12351, Cambodia",
+  "phone": "096 952 0388",
+  "website": "https://www.facebook.com/BakeandBakecambodia?mibextid=dGKdO6",
+  "googleMapsUrl": "https://maps.google.com/?cid=2723400472792110389",
+  "rating": 4.7,
+  "reviewCount": 63,
+  "coords": [
+    11.540105,
+    104.911358
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:30 PM",
+    "Tuesday: 10:00 AM – 9:30 PM",
+    "Wednesday: 10:00 AM – 9:30 PM",
+    "Thursday: 10:00 AM – 9:30 PM",
+    "Friday: 10:00 AM – 9:30 PM",
+    "Saturday: 10:00 AM – 9:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pkay-meas-bakery-phnom-penh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:29:27.638Z"
+}

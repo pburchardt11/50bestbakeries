@@ -1,0 +1,44 @@
+{
+  "slug": "tatl-spot-sar-yer",
+  "name": "Tatlıspot",
+  "curatedName": "Tatlıspot",
+  "city": "Sarıyer",
+  "country": "Türkiye",
+  "placeId": "ChIJ1yA6wAjhn0ARInlbKowcvRo",
+  "googleName": "tatlıspot",
+  "formattedAddress": "Zekeriyaköy Mah, Prof.Dr. Oktay, Sinanoğlu Cad No:6 B Blok Kapı No:10, 34450 Sarıyer/İstanbul, Türkiye",
+  "phone": "(0212) 202 62 72",
+  "internationalPhone": "+90 212 202 62 72",
+  "website": "http://www.tatlispot.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1926727603916077346",
+  "rating": 4.6,
+  "reviewCount": 47,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.2024414,
+    29.0343993
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tatl-spot-sar-yer/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:03:11.343Z"
+}

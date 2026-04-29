@@ -1,0 +1,32 @@
+{
+  "slug": "auntie-anne-s-aruba",
+  "name": "Auntie Anne's Aruba",
+  "city": "Aruba",
+  "country": "Aruba",
+  "placeId": "ChIJr9LODABHhY4R8ztBHVsYHO4",
+  "googleName": "Auntie Anne's",
+  "formattedAddress": "GWRQ+3J7, Aruba",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17157615459986652147",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    12.540171,
+    -70.0609679
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/auntie-anne-s-aruba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:28:32.325Z"
+}

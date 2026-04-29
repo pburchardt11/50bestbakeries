@@ -1,0 +1,43 @@
+{
+  "slug": "paodia-confeitaria-vila-nova-de-gaia",
+  "name": "Pãodia Confeitaria",
+  "curatedName": "Pãodia Confeitaria",
+  "city": "Vila Nova de Gaia",
+  "country": "Portugal",
+  "placeId": "ChIJl26TOixlJA0Rmj922QsdHro",
+  "googleName": "Pãodia Confeitaria",
+  "formattedAddress": "R. Dom Henrique de Cernache 441, 4400-625 Vila Nova de Gaia, Portugal",
+  "phone": "22 408 0801",
+  "internationalPhone": "+351 22 408 0801",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13411188677086166938",
+  "rating": 4.3,
+  "reviewCount": 878,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1224227,
+    -8.6234418
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paodia-confeitaria-vila-nova-de-gaia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:54:01.342Z"
+}

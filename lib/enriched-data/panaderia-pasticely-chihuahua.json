@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-pasticely-chihuahua",
+  "name": "Panadería Pasticely",
+  "curatedName": "Panadería Pasticely",
+  "city": "Chihuahua",
+  "country": "Mexico",
+  "placeId": "ChIJiyV2eXJD6oYRjZxQnB0pO1E",
+  "googleName": "Panadería Pasticely",
+  "formattedAddress": "San Jorge, 31100 Chihuahua, Chih., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5853317347851410573",
+  "rating": 4.7,
+  "reviewCount": 323,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.6704449,
+    -106.1037852
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-pasticely-chihuahua/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:16.352Z"
+}

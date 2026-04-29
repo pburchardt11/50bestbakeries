@@ -1,0 +1,43 @@
+{
+  "slug": "dulce-mexicana-bakery-cuernavaca",
+  "name": "Dulce Mexicana Bakery",
+  "curatedName": "Dulce Mexicana Bakery",
+  "city": "Cuernavaca",
+  "country": "Mexico",
+  "placeId": "ChIJ50ORksPfzYURJw06CSZNR3c",
+  "googleName": "Dulce Mexicana Bakery",
+  "formattedAddress": "Calle 10 de Abril, Col. Satelite, Vicente Estrada Cajigal, 62460 Cuernavaca, Mor., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8594923239618776359",
+  "rating": 4.5,
+  "reviewCount": 138,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.9180951,
+    -99.2002995
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:30 PM",
+    "Tuesday: 8:30 AM – 8:30 PM",
+    "Wednesday: 8:30 AM – 8:30 PM",
+    "Thursday: 8:30 AM – 8:30 PM",
+    "Friday: 8:30 AM – 8:30 PM",
+    "Saturday: 8:30 AM – 8:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dulce-mexicana-bakery-cuernavaca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:26.097Z"
+}

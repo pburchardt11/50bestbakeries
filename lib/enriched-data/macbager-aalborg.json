@@ -1,0 +1,30 @@
+{
+  "slug": "macbager-aalborg",
+  "name": "MacBager",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJjf3XII0ySUYRl88bPPkJpgo",
+  "googleName": "MAC Cosmetics",
+  "formattedAddress": "Salling, Salling Stormagasin, Nytorv 8, 9000 Aalborg, Denmark",
+  "phone": "89 87 22 63",
+  "website": "http://www.maccosmetics.dk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=767311752573210519",
+  "rating": 3.7,
+  "reviewCount": 10,
+  "coords": [
+    57.048295,
+    9.922438999999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:56:33.224Z"
+}

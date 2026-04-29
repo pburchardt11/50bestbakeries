@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-internacional-9-de-julio",
+  "name": "Panaderia La Internacional",
+  "city": "9 de Julio",
+  "country": "Argentina",
+  "placeId": "ChIJjfsJsGQNv5URLHcpsY2zwWU",
+  "googleName": "Panadería La Internacional",
+  "formattedAddress": "B6500 9 de Julio, Buenos Aires Province, Argentina",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7332339089479923500",
+  "rating": 4.4,
+  "reviewCount": 20,
+  "coords": [
+    -35.4467976,
+    -60.8991644
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-internacional-9-de-julio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:21:27.787Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sugar-fairies-bakeshop-nassau",
+  "name": "Sugar Fairies Bakeshop",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJGf25Trp9L4kRyAVP3fjba8M",
+  "googleName": "I Dream of Sugar",
+  "formattedAddress": "Bay Street, and Market Street, Nassau, The Bahamas",
+  "phone": "(242) 603-2790",
+  "website": "http://idreamofsugar.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14081590521815303624",
+  "rating": 4.6,
+  "reviewCount": 163,
+  "coords": [
+    25.0781076,
+    -77.3436514
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-fairies-bakeshop-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:42:43.441Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "sugar-sisters-kozhikode",
+  "name": "Sugar Sisters",
+  "curatedName": "Sugar Sisters",
+  "city": "Kozhikode",
+  "country": "India",
+  "placeId": "ChIJhW4NWgBZpjsRzv-SADdx1hM",
+  "googleName": "Sugar Sisters",
+  "formattedAddress": "Convent Kandamkulam Cross Road, near Calicut beach, Mananchira, Kozhikode, Kerala 673032, India",
+  "phone": "099952 60096",
+  "internationalPhone": "+91 99952 60096",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1429454412783484878",
+  "rating": 4.5,
+  "reviewCount": 1313,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    11.2543928,
+    75.7732123
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 2:00 AM",
+    "Tuesday: 11:00 AM – 2:00 AM",
+    "Wednesday: 11:00 AM – 2:00 AM",
+    "Thursday: 11:00 AM – 2:00 AM",
+    "Friday: 11:00 AM – 2:00 AM",
+    "Saturday: 11:00 AM – 2:00 AM",
+    "Sunday: 11:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-sisters-kozhikode/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:35.229Z"
+}

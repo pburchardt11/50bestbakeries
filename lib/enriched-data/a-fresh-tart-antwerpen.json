@@ -1,0 +1,43 @@
+{
+  "slug": "a-fresh-tart-antwerpen",
+  "name": "A Fresh Tart",
+  "curatedName": "A Fresh Tart",
+  "city": "Antwerpen",
+  "country": "Belgium",
+  "placeId": "ChIJvWlsl7L3w0cRNjIGsAB6yL0",
+  "googleName": "A Fresh Tart",
+  "formattedAddress": "Sint-Katelijnevest 41, 2000 Antwerpen, Belgium",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.afreshtart.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13675314411882295862",
+  "rating": 4.8,
+  "reviewCount": 318,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.22013579999999,
+    4.4054213
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 3:00 PM",
+    "Wednesday: 8:30 AM – 3:00 PM",
+    "Thursday: 8:30 AM – 3:00 PM",
+    "Friday: 8:30 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-fresh-tart-antwerpen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:43.505Z"
+}

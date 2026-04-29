@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-narumi-cochabamba",
+  "name": "Panadería Narumi",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJl-P0xhV045MRo8qehocl9Co",
+  "googleName": "Panaderia Pasteleria el Hornerito",
+  "formattedAddress": "Tupac Amaru, Cochabamba, Bolivia",
+  "phone": "4 4500612",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3095140107919739555",
+  "rating": 3.8,
+  "reviewCount": 40,
+  "coords": [
+    -17.3710266,
+    -66.16062389999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-narumi-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:13:13.048Z"
+}

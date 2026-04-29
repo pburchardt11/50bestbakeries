@@ -1,0 +1,44 @@
+{
+  "slug": "la-felic-alacant",
+  "name": "La Feliç",
+  "curatedName": "La Feliç",
+  "city": "Alacant",
+  "country": "Spain",
+  "placeId": "ChIJ-wBUyFE2Yg0RNG09ndt8XG0",
+  "googleName": "La Feliç",
+  "formattedAddress": "Carrer Pintor Gisbert, 10, 03005 Alacant, Alicante, Spain",
+  "phone": "966 04 16 14",
+  "internationalPhone": "+34 966 04 16 14",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7880310730669255988",
+  "rating": 4.8,
+  "reviewCount": 1105,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.3482423,
+    -0.4945677999999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Wednesday: 7:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Thursday: 7:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Friday: 7:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Saturday: 8:00 AM – 1:30 PM",
+    "Sunday: 8:00 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-felic-alacant/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:51.177Z"
+}

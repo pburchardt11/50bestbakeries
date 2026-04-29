@@ -1,0 +1,30 @@
+{
+  "slug": "degusta-sabores-algarrobo",
+  "name": "Degusta sabores",
+  "city": "Algarrobo",
+  "country": "Chile",
+  "placeId": "ChIJ_w8sTvoRYpYRVBgtnPHt0UA",
+  "googleName": "Degusta sabores",
+  "formattedAddress": "Los Tilos 870, 2710000 Algarrobo, Valparaíso, Chile",
+  "phone": "9 6338 0249",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4670775910523017300",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -33.3735623,
+    -71.67635039999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:43:16.153Z"
+}

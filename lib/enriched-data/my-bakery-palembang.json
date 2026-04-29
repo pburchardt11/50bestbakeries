@@ -1,0 +1,44 @@
+{
+  "slug": "my-bakery-palembang",
+  "name": "MY Bakery Palembang",
+  "curatedName": "MY Bakery Palembang",
+  "city": "Palembang",
+  "country": "Indonesia",
+  "placeId": "ChIJrcvr7yaeOy4RRaZazN_ZrbE",
+  "googleName": "My Bakery Palembang",
+  "formattedAddress": "Jl. Tj. Rawo No.21, RT.53, Bukit Lama, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30139, Indonesia",
+  "phone": "0813-6865-8272",
+  "internationalPhone": "+62 813-6865-8272",
+  "website": "http://www.mybakery.id/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12803128870913615429",
+  "rating": 4.5,
+  "reviewCount": 507,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -2.9995215,
+    104.7203084
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/my-bakery-palembang/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:14.612Z"
+}

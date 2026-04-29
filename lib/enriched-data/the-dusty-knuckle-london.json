@@ -1,0 +1,43 @@
+{
+  "slug": "the-dusty-knuckle-london",
+  "name": "The Dusty Knuckle",
+  "curatedName": "The Dusty Knuckle",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJOVkn7o0cdkgRByZ9dlIWeUA",
+  "googleName": "The Dusty Knuckle Bakery",
+  "formattedAddress": "Abbot St, London E8 3DP, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.thedustyknuckle.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4645769034040419847",
+  "rating": 4.6,
+  "reviewCount": 1547,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5470859,
+    -0.074094
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:30 PM",
+    "Tuesday: 8:00 AM – 3:30 PM",
+    "Wednesday: 8:00 AM – 3:30 PM",
+    "Thursday: 8:00 AM – 3:30 PM",
+    "Friday: 8:00 AM – 3:30 PM",
+    "Saturday: 8:00 AM – 3:30 PM",
+    "Sunday: 8:00 AM – 3:30 PM"
+  ],
+  "editorialSummary": "Light cafe fare such as creative sandwiches & salads with coffee drinks & fresh breads to-go.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-dusty-knuckle-london/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:15.859Z"
+}

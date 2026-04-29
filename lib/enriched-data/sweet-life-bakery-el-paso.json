@@ -1,0 +1,43 @@
+{
+  "slug": "sweet-life-bakery-el-paso",
+  "name": "Sweet Life Bakery",
+  "curatedName": "Sweet Life Bakery",
+  "city": "El Paso",
+  "country": "United States",
+  "placeId": "ChIJvzthJv5Z54YROjZ_R_kewYk",
+  "googleName": "Sweet Life Bakery",
+  "formattedAddress": "4500 Dyer St, El Paso, TX 79930, USA",
+  "phone": "(915) 565-0634",
+  "internationalPhone": "+1 915-565-0634",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9926249109696493114",
+  "rating": 4.6,
+  "reviewCount": 167,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.816634,
+    -106.444499
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-life-bakery-el-paso/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:15:11.966Z"
+}

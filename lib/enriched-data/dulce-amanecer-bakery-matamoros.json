@@ -1,0 +1,43 @@
+{
+  "slug": "dulce-amanecer-bakery-matamoros",
+  "name": "Dulce Amanecer Bakery",
+  "curatedName": "Dulce Amanecer Bakery",
+  "city": "Matamoros",
+  "country": "Mexico",
+  "placeId": "ChIJlaLlHOGVb4YRCPSW991TS-k",
+  "googleName": "DULCE AMANECER BAKERY",
+  "formattedAddress": "CALLE 14, Toledo ESQUINA, Buena Vista, 87350 Heroica Matamoros, Tamps., Mexico",
+  "phone": "868 304 3526",
+  "internationalPhone": "+52 868 304 3526",
+  "website": "https://www.instagram.com/dulce_amanecer_bakery?igsh=MWc1YjNrNWtta3E3bQ==",
+  "googleMapsUrl": "https://maps.google.com/?cid=16810622246897251336",
+  "rating": 4.6,
+  "reviewCount": 63,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.864612,
+    -97.5102027
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: 8:30 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dulce-amanecer-bakery-matamoros/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:55:38.343Z"
+}

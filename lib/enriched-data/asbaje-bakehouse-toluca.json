@@ -1,0 +1,43 @@
+{
+  "slug": "asbaje-bakehouse-toluca",
+  "name": "Asbaje Bakehouse",
+  "curatedName": "Asbaje Bakehouse",
+  "city": "Toluca",
+  "country": "Mexico",
+  "placeId": "ChIJzVAYikeJzYURqrvd3rqzDEw",
+  "googleName": "Asbaje Bakehouse",
+  "formattedAddress": "Av. Primero de Mayo 412-A, Santa Clara, 50090 Toluca de Lerdo, Méx., Mexico",
+  "phone": "722 884 3333",
+  "internationalPhone": "+52 722 884 3333",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5479952461787413418",
+  "rating": 4.5,
+  "reviewCount": 167,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.290734,
+    -99.64913179999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/asbaje-bakehouse-toluca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:21.729Z"
+}

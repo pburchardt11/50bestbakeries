@@ -1,0 +1,43 @@
+{
+  "slug": "vission-bakery-hong-kong",
+  "name": "Vission Bakery",
+  "curatedName": "Vission Bakery",
+  "city": "Hong Kong",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJh9EX2k0BBDQRGAB9rwDzJAk",
+  "googleName": "Vission Bakery",
+  "formattedAddress": "LGF, 7 Staunton St, Central, Hong Kong",
+  "phone": "5545 6787",
+  "internationalPhone": "+852 5545 6787",
+  "website": "https://www.vissionbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=658918629772689432",
+  "rating": 4.4,
+  "reviewCount": 945,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.2818843,
+    114.1531348
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vission-bakery-hong-kong/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:57.730Z"
+}

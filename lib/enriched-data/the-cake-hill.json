@@ -1,0 +1,32 @@
+{
+  "slug": "the-cake-hill",
+  "name": "The Cake Hill",
+  "city": "المنامة",
+  "country": "Bahrain",
+  "placeId": "ChIJE4Jp7BevST4RbGg08VOu9h4",
+  "googleName": "Cakewalk",
+  "formattedAddress": "Ammar Bin Yasser Ave, Manama, Bahrain",
+  "phone": "1704 4555",
+  "website": "https://cakewalkbh.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2231162340960921708",
+  "rating": 4.1,
+  "reviewCount": 97,
+  "coords": [
+    26.2279719,
+    50.58112740000001
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 12:00 AM",
+    "Tuesday: 10:00 AM – 12:00 AM",
+    "Wednesday: 10:00 AM – 12:00 AM",
+    "Thursday: 10:00 AM – 12:00 AM",
+    "Friday: 10:00 AM – 12:00 AM",
+    "Saturday: 10:00 AM – 12:00 AM",
+    "Sunday: 10:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-hill/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:49:05.364Z"
+}

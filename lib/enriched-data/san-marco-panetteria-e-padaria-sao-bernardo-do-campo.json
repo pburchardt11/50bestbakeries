@@ -1,0 +1,43 @@
+{
+  "slug": "san-marco-panetteria-e-padaria-sao-bernardo-do-campo",
+  "name": "San Marco Panetteria e Padaria",
+  "curatedName": "San Marco Panetteria e Padaria",
+  "city": "São Bernardo do Campo",
+  "country": "Brazil",
+  "placeId": "ChIJy29k_i9CzpQRfN4nPSnEFBo",
+  "googleName": "SAN MARCO PANETTERIA E PADARIA",
+  "formattedAddress": "Av. Armando Ítalo Setti, 520 - Baeta Neves, São Bernardo do Campo - SP, 09760-280, Brazil",
+  "phone": "(11) 4330-4266",
+  "internationalPhone": "+55 11 4330-4266",
+  "website": "https://sanmarcopanetteria.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1879342625919065724",
+  "rating": 4.5,
+  "reviewCount": 989,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.6983822,
+    -46.5454026
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 9:50 PM",
+    "Sunday: 6:00 AM – 9:50 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/san-marco-panetteria-e-padaria-sao-bernardo-do-campo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:05.823Z"
+}

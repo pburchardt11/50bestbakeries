@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-zahina-calama-cochabamba",
+  "name": "Panadería Zahína Calama",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJc9KgVLVz45MR16_e7vTjppI",
+  "googleName": "Panadería Zahína \"Calama\"",
+  "formattedAddress": "000, Cochabamba, Bolivia",
+  "phone": "79969623",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10567384216790544343",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -17.3905482,
+    -66.1483344
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-zahina-calama-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:15:10.361Z"
+}

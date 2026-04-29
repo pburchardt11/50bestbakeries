@@ -1,0 +1,32 @@
+{
+  "slug": "gama-bakery-furre-buke-elbasan",
+  "name": "GAMA bakery - Furre Buke",
+  "city": "Elbasan",
+  "country": "Albania",
+  "placeId": "ChIJR4vyBABDUBMRFANdau2SeTE",
+  "googleName": "Gama Bakery",
+  "formattedAddress": "Rruga 28 Nentori, Elbasan 3001, Albania",
+  "phone": "069 227 4384",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3565042128429843220",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    41.1133995,
+    20.0852528
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gama-bakery-furre-buke-elbasan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:10.021Z"
+}

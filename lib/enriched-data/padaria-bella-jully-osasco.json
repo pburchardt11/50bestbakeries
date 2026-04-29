@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-bella-jully-osasco",
+  "name": "Padaria Bella Jully",
+  "curatedName": "Padaria Bella Jully",
+  "city": "Osasco",
+  "country": "Brazil",
+  "placeId": "ChIJ47Be7iH_zpQR6oKS0AAQ34o",
+  "googleName": "Padaria Bella Jully",
+  "formattedAddress": "R. Profᵃ José Azevedo Minhoto, 99 - Vila Quintana, Osasco - SP, 06194-060, Brazil",
+  "phone": "(11) 3682-5977",
+  "internationalPhone": "+55 11 3682-5977",
+  "website": "https://instagram.com/padariabellajully?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=10006734492725838570",
+  "rating": 4.5,
+  "reviewCount": 7251,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5277497,
+    -46.7942502
+  ],
+  "openingHours": [
+    "Monday: 5:40 AM – 10:30 PM",
+    "Tuesday: 5:40 AM – 10:30 PM",
+    "Wednesday: 5:40 AM – 10:30 PM",
+    "Thursday: 5:40 AM – 11:00 PM",
+    "Friday: 5:40 AM – 11:00 PM",
+    "Saturday: 5:40 AM – 11:00 PM",
+    "Sunday: 5:40 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-bella-jully-osasco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:41:42.051Z"
+}

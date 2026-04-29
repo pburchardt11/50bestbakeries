@@ -1,0 +1,43 @@
+{
+  "slug": "alecrim-padaria-artesanal-pelotas",
+  "name": "Alecrim Padaria Artesanal",
+  "curatedName": "Alecrim Padaria Artesanal",
+  "city": "Pelotas",
+  "country": "Brazil",
+  "placeId": "ChIJK9kg1561EZURqslL0LD6VBU",
+  "googleName": "Alecrim Padaria Artesanal",
+  "formattedAddress": "Av. Domingos de Almeida, 1517 - Areal, Pelotas - RS, 96085-470, Brazil",
+  "phone": "(53) 99169-3034",
+  "internationalPhone": "+55 53 99169-3034",
+  "website": "http://www.alecrimpadaria.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1537129010155997610",
+  "rating": 4.5,
+  "reviewCount": 488,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -31.7550141,
+    -52.320023
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alecrim-padaria-artesanal-pelotas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:41:15.963Z"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "amelie-s-french-bakery-cafe-charlotte",
+  "name": "Amelie's French Bakery & Cafe",
+  "curatedName": "Amelie's French Bakery & Cafe",
+  "city": "Charlotte",
+  "country": "United States",
+  "placeId": "ChIJY_5TrnWgVogRHbnVtqGvxm8",
+  "googleName": "Amélie's French Bakery & Café",
+  "formattedAddress": "136 E 36th St, Charlotte, NC 28205, USA",
+  "phone": "(704) 376-1781",
+  "internationalPhone": "+1 704-376-1781",
+  "website": "http://www.ameliesfrenchbakery.com/?utm_source=local&utm_medium=organic",
+  "googleMapsUrl": "https://maps.google.com/?cid=8054318092690766109",
+  "rating": 4.6,
+  "reviewCount": 7075,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.251701,
+    -80.80789709999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "This charming gathering place draws a crowd for its pastries, light fare & coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amelie-s-french-bakery-cafe-charlotte/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:13.715Z"
+}

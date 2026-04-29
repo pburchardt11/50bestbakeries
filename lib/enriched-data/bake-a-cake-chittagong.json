@@ -1,0 +1,32 @@
+{
+  "slug": "bake-a-cake-chittagong",
+  "name": "Bake A Cake",
+  "city": "Chittagong",
+  "country": "Bangladesh",
+  "placeId": "ChIJoXQ68SDZrDARHhixWseuPJA",
+  "googleName": "Le Bakehouse",
+  "formattedAddress": "Bayazid Bostami Rd, Chittagong 4000, Bangladesh",
+  "phone": "01940-001122",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10393374211307542558",
+  "rating": 3.8,
+  "reviewCount": 47,
+  "coords": [
+    22.364853,
+    91.8247145
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-a-cake-chittagong/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:50:29.406Z"
+}

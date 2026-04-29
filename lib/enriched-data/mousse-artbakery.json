@@ -1,0 +1,32 @@
+{
+  "slug": "mousse-artbakery",
+  "name": "mousse_artbakery",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJwZtwsGzP20YRkXztSgnPvvE",
+  "googleName": "Mousse Art Bakery",
+  "formattedAddress": "vulica Bialinskaha 23, Minsk, Minskaja voblasć, Belarus",
+  "phone": "8 029 388-09-88",
+  "website": "http://mousse.by/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17419588047534390417",
+  "rating": 4,
+  "reviewCount": 155,
+  "coords": [
+    53.9368247,
+    27.5941333
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mousse-artbakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:00:05.417Z"
+}

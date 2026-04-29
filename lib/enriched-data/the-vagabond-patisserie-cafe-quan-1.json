@@ -1,0 +1,44 @@
+{
+  "slug": "the-vagabond-patisserie-cafe-quan-1",
+  "name": "The Vagabond Pâtisserie & Café",
+  "curatedName": "The Vagabond Pâtisserie & Café",
+  "city": "Quận 1",
+  "country": "Vietnam",
+  "placeId": "ChIJA63tdc0odTERulUJgBZZWKo",
+  "googleName": "The Vagabond Pâtisserie & Café",
+  "formattedAddress": "9 Trần Cao Vân, Đa Kao, Sài Gòn, Hồ Chí Minh, Vietnam",
+  "phone": "0931 224 334",
+  "internationalPhone": "+84 931 224 334",
+  "website": "http://www.thevagabondpatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12274658737570534842",
+  "rating": 4.7,
+  "reviewCount": 2558,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7847961,
+    106.6981835
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:30 PM",
+    "Tuesday: 7:30 AM – 9:30 PM",
+    "Wednesday: 7:30 AM – 9:30 PM",
+    "Thursday: 7:30 AM – 9:30 PM",
+    "Friday: 7:30 AM – 9:30 PM",
+    "Saturday: 7:30 AM – 9:30 PM",
+    "Sunday: 7:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-vagabond-patisserie-cafe-quan-1/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:17.505Z"
+}

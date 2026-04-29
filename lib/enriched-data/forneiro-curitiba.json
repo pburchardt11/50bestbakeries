@@ -1,0 +1,45 @@
+{
+  "slug": "forneiro-curitiba",
+  "name": "Forneiro",
+  "curatedName": "Forneiro",
+  "city": "Curitiba",
+  "country": "Brazil",
+  "placeId": "ChIJr5l2rHjk3JQR1ijr0i2L_s8",
+  "googleName": "Forneiro",
+  "formattedAddress": "Av. Pres. Getúlio Vargas, 2564 - Água Verde, Curitiba - PR, 80240-040, Brazil",
+  "phone": "(41) 3532-5047",
+  "internationalPhone": "+55 41 3532-5047",
+  "website": "https://www.instagram.com/p/DAn9hwlR_Z2/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14987569638864005334",
+  "rating": 4.7,
+  "reviewCount": 881,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.4493498,
+    -49.2839311
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forneiro-curitiba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:10.338Z"
+}

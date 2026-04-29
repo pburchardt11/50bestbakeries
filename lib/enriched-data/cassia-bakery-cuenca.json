@@ -1,0 +1,35 @@
+{
+  "slug": "cassia-bakery-cuenca",
+  "name": "Cassia Bakery",
+  "curatedName": "Cassia Bakery",
+  "city": "Cuenca",
+  "country": "Ecuador",
+  "placeId": "ChIJLQjHwhEYzZERTvvhZg7gt9A",
+  "googleName": "Cassia Bakery",
+  "formattedAddress": "Mariscal Sucre 11-24, 010101 Cuenca, Ecuador",
+  "phone": "099 882 6902",
+  "internationalPhone": "+593 99 882 6902",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15039735833087310670",
+  "rating": 5,
+  "reviewCount": 18,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -2.8971023,
+    -79.0071597
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cassia-bakery-cuenca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:21.192Z"
+}

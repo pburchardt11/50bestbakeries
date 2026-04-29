@@ -1,0 +1,43 @@
+{
+  "slug": "dynamic-bakery-jakarta-utara",
+  "name": "Dynamic Bakery",
+  "curatedName": "Dynamic Bakery",
+  "city": "Jakarta Utara",
+  "country": "Indonesia",
+  "placeId": "ChIJm_MKCy_1aS4RCrBdoZonDGs",
+  "googleName": "Dynamic Bakery",
+  "formattedAddress": "Jalan Kelapa Gading Boulevard, Blok TT2 No. 23-24, RT.10/RW.15, Klp. Gading Tim., Jakarta Utara, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240, Indonesia",
+  "phone": "(021) 4508643",
+  "internationalPhone": "+62 21 4508643",
+  "website": "http://www.dynamicnatural.co.id/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7713583806864535562",
+  "rating": 4.5,
+  "reviewCount": 914,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.1673616,
+    106.9007985
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dynamic-bakery-jakarta-utara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:02.102Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "moscavo-bakery-goiania",
+  "name": "Moscavo Bakery",
+  "curatedName": "Moscavo Bakery",
+  "city": "Goiânia",
+  "country": "Brazil",
+  "placeId": "ChIJJdnvUujxXpMR3K2o0vPP4Bs",
+  "googleName": "Moscavo Bakery",
+  "formattedAddress": "R. T-38, 61 - St. Bueno, Goiânia - GO, 74223-042, Brazil",
+  "phone": "(62) 98482-6875",
+  "internationalPhone": "+55 62 98482-6875",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2008834079925513692",
+  "rating": 4.4,
+  "reviewCount": 706,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -16.7070217,
+    -49.2681702
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moscavo-bakery-goiania/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:30.350Z"
+}

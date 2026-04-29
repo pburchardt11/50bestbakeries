@@ -1,0 +1,43 @@
+{
+  "slug": "french-bakers-hoshiarpur",
+  "name": "French Bakers",
+  "curatedName": "French Bakers",
+  "city": "Hoshiarpur",
+  "country": "India",
+  "placeId": "ChIJDenJnMjjGjkRnZ5jMFltlWw",
+  "googleName": "French Bakers",
+  "formattedAddress": "GWMC+426, SH22, Una Rd, near Shimla Pahari Chowk, Ish Nagar, Shakti Nagar, Hoshiarpur, Punjab 146001, India",
+  "phone": "085580 66186",
+  "internationalPhone": "+91 85580 66186",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7824280157457456797",
+  "rating": 4.3,
+  "reviewCount": 716,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.5328398,
+    75.9198337
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/french-bakers-hoshiarpur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:49:43.570Z"
+}

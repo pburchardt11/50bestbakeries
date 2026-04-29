@@ -1,0 +1,44 @@
+{
+  "slug": "truscott-italian-bakery-delicatessen-mississauga",
+  "name": "Truscott Italian Bakery & Delicatessen",
+  "curatedName": "Truscott Italian Bakery & Delicatessen",
+  "city": "Mississauga",
+  "country": "Canada",
+  "placeId": "ChIJawGffoBEK4gRbjtvTD79W2A",
+  "googleName": "Truscott Italian Bakery & Delicatessen",
+  "formattedAddress": "2425 Truscott Dr unit 28, Mississauga, ON L5J 2B4, Canada",
+  "phone": "(905) 403-9550",
+  "internationalPhone": "+1 905-403-9550",
+  "website": "http://truscottbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6943421694533909358",
+  "rating": 4.6,
+  "reviewCount": 1743,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.512581,
+    -79.64776599999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Family-run shop offering Italian breads, pastries, espresso drinks, deli items & hot prepared food.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/truscott-italian-bakery-delicatessen-mississauga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:14.587Z"
+}

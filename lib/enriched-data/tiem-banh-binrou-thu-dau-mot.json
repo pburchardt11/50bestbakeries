@@ -1,0 +1,43 @@
+{
+  "slug": "tiem-banh-binrou-thu-dau-mot",
+  "name": "Tiệm Bánh Binrou",
+  "curatedName": "Tiệm Bánh Binrou",
+  "city": "Thủ Dầu Một",
+  "country": "Vietnam",
+  "placeId": "ChIJZ3-sNBjRdDERMQ49GsTywOI",
+  "googleName": "Tiệm Bánh Binrou",
+  "formattedAddress": "155 Lê Hồng Phong, Road, Phú Lợi, Hồ Chí Minh, Vietnam",
+  "phone": "0908 582 024",
+  "internationalPhone": "+84 908 582 024",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16339326372167880241",
+  "rating": 4.5,
+  "reviewCount": 348,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.9864306,
+    106.6787827
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiem-banh-binrou-thu-dau-mot/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:43.445Z"
+}

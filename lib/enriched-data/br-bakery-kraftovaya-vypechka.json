@@ -1,0 +1,32 @@
+{
+  "slug": "br-bakery-kraftovaya-vypechka",
+  "name": "Brø Bakery Kraftovaya Vypechka",
+  "city": "Бабруйск",
+  "country": "Belarus",
+  "placeId": "ChIJo7mZJF4x10YRoQiPCstpV-4",
+  "googleName": "Brø bakery Крафтовая Выпечка",
+  "formattedAddress": "vulica Puškina дом 138, Babrujsk, Mogilev Region 213826, Belarus",
+  "phone": "8 029 138-00-33",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17174312024777099425",
+  "rating": 4.6,
+  "reviewCount": 41,
+  "coords": [
+    53.1349009,
+    29.2231763
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/br-bakery-kraftovaya-vypechka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:58:28.052Z"
+}

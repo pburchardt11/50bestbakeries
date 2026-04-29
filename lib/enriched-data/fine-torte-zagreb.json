@@ -1,0 +1,43 @@
+{
+  "slug": "fine-torte-zagreb",
+  "name": "Fine Torte",
+  "curatedName": "Fine Torte",
+  "city": "Zagreb",
+  "country": "Croatia",
+  "placeId": "ChIJeWo-1gHXZUcREziNWUSHRl0",
+  "googleName": "Fine Torte",
+  "formattedAddress": "Vlaška ul. 31, 10000, Zagreb, Croatia",
+  "phone": "099 220 0021",
+  "internationalPhone": "+385 99 220 0021",
+  "website": "http://finetorte.hr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6721208221526997011",
+  "rating": 4.6,
+  "reviewCount": 190,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.813895,
+    15.9816974
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fine-torte-zagreb/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:47.543Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-ange",
+  "name": "Boulangerie Ange",
+  "curatedName": "Boulangerie Ange",
+  "city": "札幌市中央区",
+  "country": "Japan",
+  "placeId": "ChIJ6xmZgwUqC18RNCpGHtqwgkI",
+  "googleName": "boulangerie ange",
+  "formattedAddress": "14-chōme-2-7 Minami 19 Jōnishi, Chuo Ward, Sapporo, Hokkaido 064-0919, Japan",
+  "phone": "011-563-0083",
+  "internationalPhone": "+81 11-563-0083",
+  "website": "http://boulangerieange.web.fc2.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4792587404332902964",
+  "rating": 4.2,
+  "reviewCount": 145,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.0331302,
+    141.338807
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-ange/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:22:15.000Z"
+}

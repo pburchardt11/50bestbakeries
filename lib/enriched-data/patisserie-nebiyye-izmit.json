@@ -1,0 +1,43 @@
+{
+  "slug": "patisserie-nebiyye-izmit",
+  "name": "Patisserie Nebiyye",
+  "curatedName": "Patisserie Nebiyye",
+  "city": "İzmit",
+  "country": "Türkiye",
+  "placeId": "ChIJmURddtJPyxQRwJngyAQAUe4",
+  "googleName": "Patisserie Nebiyye",
+  "formattedAddress": "Yenişehir, Çınar Sk. no:19/A, 41050 İzmit/Kocaeli, Türkiye",
+  "phone": "0533 969 91 93",
+  "internationalPhone": "+90 533 969 91 93",
+  "website": "http://www.instagram.com/patisserie_nebiyye",
+  "googleMapsUrl": "https://maps.google.com/?cid=17172506874690443712",
+  "rating": 4.2,
+  "reviewCount": 152,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7637137,
+    29.9616384
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-nebiyye-izmit/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:04:41.438Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "mert-matamoros",
+  "name": "MERT",
+  "curatedName": "MERT",
+  "city": "Matamoros",
+  "country": "Mexico",
+  "placeId": "ChIJGQ8RSACVb4YRn8lbgR5jEls",
+  "googleName": "MERT",
+  "formattedAddress": "González 96, Centro Historico, 87300 Heroica Matamoros, Tamps., Mexico",
+  "phone": "868 349 0491",
+  "internationalPhone": "+52 868 349 0491",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6562416589702678943",
+  "rating": 4.6,
+  "reviewCount": 103,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.8806972,
+    -97.5031372
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mert-matamoros/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:55:41.041Z"
+}

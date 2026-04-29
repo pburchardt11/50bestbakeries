@@ -1,0 +1,32 @@
+{
+  "slug": "slotsbageren-aalborg",
+  "name": "Slotsbageren",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJza6CtPIySUYRvGZDwO-VHvM",
+  "googleName": "Slotsbageren",
+  "formattedAddress": "Boulevarden 5, 9000 Aalborg, Denmark",
+  "phone": "42 57 53 45",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17518604457473173180",
+  "rating": 4.5,
+  "reviewCount": 191,
+  "coords": [
+    57.0469099,
+    9.920145699999999
+  ],
+  "openingHours": [
+    "Monday: 12:45 – 7:30 PM",
+    "Tuesday: 12:45 – 7:30 PM",
+    "Wednesday: 12:45 – 7:30 PM",
+    "Thursday: 12:45 – 8:00 PM",
+    "Friday: 12:45 – 8:00 PM",
+    "Saturday: 12:45 – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/slotsbageren-aalborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:27.140Z"
+}

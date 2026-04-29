@@ -1,0 +1,44 @@
+{
+  "slug": "pushkin-s-bakery-sacramento",
+  "name": "Pushkin's Bakery",
+  "curatedName": "Pushkin's Bakery",
+  "city": "Sacramento",
+  "country": "United States",
+  "placeId": "ChIJKVxTlu3QmoARnj4CO8vVGQg",
+  "googleName": "Pushkin's Bakery",
+  "formattedAddress": "1820 29th St, Sacramento, CA 95816, USA",
+  "phone": "(916) 376-7752",
+  "internationalPhone": "+1 916-376-7752",
+  "website": "http://www.pushkinsbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=583732695566270110",
+  "rating": 4.6,
+  "reviewCount": 1125,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.5640135,
+    -121.4722707
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Family-owned cafe offering baked goods without wheat, gluten or dairy products, plus hot sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pushkin-s-bakery-sacramento/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:17:14.868Z"
+}

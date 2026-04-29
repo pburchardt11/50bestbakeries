@@ -1,0 +1,43 @@
+{
+  "slug": "palji-bakery-ludhiana",
+  "name": "Palji Bakery",
+  "curatedName": "Palji Bakery",
+  "city": "Ludhiana",
+  "country": "India",
+  "placeId": "ChIJzVqSCZqDGjkRJ2p4kPxiE8I",
+  "googleName": "Palji bakery",
+  "formattedAddress": "Brar Eye Center, 5A, Sat Paul Mittal Rd, A - Block, Sarabha Nagar, Ludhiana, Punjab 141001, India",
+  "phone": "079019 00039",
+  "internationalPhone": "+91 79019 00039",
+  "website": "http://www.paljibakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13984630104810613287",
+  "rating": 4.4,
+  "reviewCount": 1332,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.8914311,
+    75.82737329999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:30 PM",
+    "Tuesday: 10:00 AM – 10:30 PM",
+    "Wednesday: 10:00 AM – 10:30 PM",
+    "Thursday: 10:00 AM – 10:30 PM",
+    "Friday: 10:00 AM – 10:30 PM",
+    "Saturday: 10:00 AM – 10:30 PM",
+    "Sunday: 10:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/palji-bakery-ludhiana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:05.604Z"
+}

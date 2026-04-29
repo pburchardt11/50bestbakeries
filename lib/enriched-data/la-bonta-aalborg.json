@@ -1,0 +1,24 @@
+{
+  "slug": "la-bonta-aalborg",
+  "name": "La Bontá",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJ9ZQ0XIsySUYRWepmWkesc9Y",
+  "googleName": "La Bontá",
+  "formattedAddress": "Gravensgade 1B, 9000 Aalborg, Denmark",
+  "phone": "98 10 25 24",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15452884168897653337",
+  "rating": 4.3,
+  "reviewCount": 236,
+  "coords": [
+    57.0491915,
+    9.9177042
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-bonta-aalborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:17.880Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sugarfix-on-the-go-belize-city",
+  "name": "SugarFix On The Go",
+  "city": "Belize City",
+  "country": "Belize",
+  "placeId": "ChIJ6SuOZoJZXI8RiWPznJObaxo",
+  "googleName": "SugarFix On The Go",
+  "formattedAddress": "55 Chetumal St, Belize City, Belize",
+  "phone": "607-1700",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1903786325789860745",
+  "rating": 4.4,
+  "reviewCount": 55,
+  "coords": [
+    17.5109405,
+    -88.2212423
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugarfix-on-the-go-belize-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:05:28.660Z"
+}

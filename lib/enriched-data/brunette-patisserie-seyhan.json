@@ -1,0 +1,43 @@
+{
+  "slug": "brunette-patisserie-seyhan",
+  "name": "Brunette Patisserie",
+  "curatedName": "Brunette Patisserie",
+  "city": "Seyhan",
+  "country": "Türkiye",
+  "placeId": "ChIJZZEniWqPKBURgzNJnAOgBMo",
+  "googleName": "Brunette Patisserie",
+  "formattedAddress": "Reşatbey, Vali Yolu Cd. 10/A, 01120 Seyhan/Adana, Türkiye",
+  "phone": "(0322) 459 38 37",
+  "internationalPhone": "+90 322 459 38 37",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14556935832935674755",
+  "rating": 4.4,
+  "reviewCount": 90,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.9991001,
+    35.3256798
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 9:00 PM",
+    "Tuesday: 8:30 AM – 9:00 PM",
+    "Wednesday: 8:30 AM – 9:00 PM",
+    "Thursday: 8:30 AM – 9:00 PM",
+    "Friday: 8:30 AM – 9:00 PM",
+    "Saturday: 8:30 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brunette-patisserie-seyhan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:33.783Z"
+}

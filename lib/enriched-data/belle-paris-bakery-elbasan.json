@@ -1,0 +1,32 @@
+{
+  "slug": "belle-paris-bakery-elbasan",
+  "name": "Belle Paris Bakery",
+  "city": "Elbasan",
+  "country": "Albania",
+  "placeId": "ChIJE6AlJcJDUBMR9wgTWf3pI28",
+  "googleName": "Belle Paris Bakery",
+  "formattedAddress": "Rruga Janaq Kilica, Elbasan 3001, Albania",
+  "phone": "069 205 5462",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8008501836725291255",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    41.1149344,
+    20.0785356
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:30 PM",
+    "Tuesday: 7:00 AM – 10:30 PM",
+    "Wednesday: 7:00 AM – 10:30 PM",
+    "Thursday: 7:00 AM – 10:30 PM",
+    "Friday: 7:00 AM – 10:30 PM",
+    "Saturday: 7:00 AM – 10:30 PM",
+    "Sunday: 7:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/belle-paris-bakery-elbasan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:14.392Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "souka-bakeshop-subang-jaya",
+  "name": "Souka Bakeshop",
+  "curatedName": "Souka Bakeshop",
+  "city": "Subang Jaya",
+  "country": "Malaysia",
+  "placeId": "ChIJk1s-_JlNzDERrvGZe-r2iak",
+  "googleName": "Souka Bakeshop",
+  "formattedAddress": "53, Jalan SS 15/5a, Ss 15, 47500 Subang Jaya, Selangor, Malaysia",
+  "phone": "019-480 6033",
+  "internationalPhone": "+60 19-480 6033",
+  "website": "http://souka.com.my/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12216566951175647662",
+  "rating": 4.5,
+  "reviewCount": 551,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.0805285,
+    101.5926815
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/souka-bakeshop-subang-jaya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:55.003Z"
+}

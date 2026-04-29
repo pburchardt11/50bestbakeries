@@ -1,0 +1,43 @@
+{
+  "slug": "eric-kayser",
+  "name": "Eric Kayser",
+  "curatedName": "Eric Kayser",
+  "city": "تونس",
+  "country": "Tunisia",
+  "placeId": "ChIJh5bX34w1_RIR6vqlDILxR_M",
+  "googleName": "Eric kayser - Mohamed V",
+  "formattedAddress": "R59M+798, Ave Mohamed V, Tunis, Tunisia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17530245615423191786",
+  "rating": 3.5,
+  "reviewCount": 121,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.8181704,
+    10.1834591
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eric-kayser/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:27.385Z"
+}

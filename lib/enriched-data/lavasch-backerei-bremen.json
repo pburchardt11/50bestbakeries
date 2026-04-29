@@ -1,0 +1,43 @@
+{
+  "slug": "lavasch-backerei-bremen",
+  "name": "Lavasch Bäckerei",
+  "curatedName": "Lavasch Bäckerei",
+  "city": "Bremen",
+  "country": "Germany",
+  "placeId": "ChIJ8y2nRE4osUcRhpHzT0SUpCc",
+  "googleName": "LAVASCH BÄCKEREI",
+  "formattedAddress": "Elisabethstraße 28, 28217 Bremen, Germany",
+  "phone": "0421 5210296",
+  "internationalPhone": "+49 421 5210296",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2856571084779786630",
+  "rating": 4.7,
+  "reviewCount": 349,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.0968751,
+    8.7854878
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 8:00 PM",
+    "Tuesday: 5:00 AM – 8:00 PM",
+    "Wednesday: 5:00 AM – 8:00 PM",
+    "Thursday: 5:00 AM – 8:00 PM",
+    "Friday: 5:00 AM – 8:00 PM",
+    "Saturday: 5:00 AM – 8:00 PM",
+    "Sunday: 5:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lavasch-backerei-bremen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:08.096Z"
+}

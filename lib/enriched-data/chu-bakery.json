@@ -1,0 +1,43 @@
+{
+  "slug": "chu-bakery",
+  "name": "CHU Bakery",
+  "curatedName": "CHU Bakery",
+  "city": "新仁里",
+  "country": "Taiwan",
+  "placeId": "ChIJe4sYpXSrQjQRRG9Qp9tZk5k",
+  "googleName": "初 CHU Bakery",
+  "formattedAddress": "No. 10號, Alley 16, Lane 553, Section 4, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+  "phone": "02 2765 5115",
+  "internationalPhone": "+886 2 2765 5115",
+  "website": "https://www.instagram.com/onefifteen_chu_bakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11066287509319216964",
+  "rating": 4.6,
+  "reviewCount": 112,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.0426387,
+    121.5635832
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chu-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:23.817Z"
+}

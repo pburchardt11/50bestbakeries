@@ -1,0 +1,43 @@
+{
+  "slug": "kayani-bakery-pune",
+  "name": "Kayani Bakery",
+  "curatedName": "Kayani Bakery",
+  "city": "Pune",
+  "country": "India",
+  "placeId": "ChIJRY2XKk_AwjsRrAHXBh7uazg",
+  "googleName": "Kayani Bakery",
+  "formattedAddress": "6, East St, Hulshur, Camp, Pune, Maharashtra 411001, India",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.kayanibakerypune.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4065604901363188140",
+  "rating": 4.5,
+  "reviewCount": 21040,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.5148369,
+    73.8799832
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 1:00 PM, 3:30 – 7:00 PM",
+    "Tuesday: 7:30 AM – 1:00 PM, 3:30 – 7:00 PM",
+    "Wednesday: 7:30 AM – 1:00 PM, 3:30 – 7:00 PM",
+    "Thursday: 7:30 AM – 1:00 PM, 3:30 – 7:00 PM",
+    "Friday: 7:30 AM – 1:00 PM, 3:30 – 7:00 PM",
+    "Saturday: 7:30 AM – 1:00 PM, 3:30 – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Simple, long-running bakeshop known for many varieties of biscuit, cakes, bread & cookies.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kayani-bakery-pune/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:49:41.378Z"
+}

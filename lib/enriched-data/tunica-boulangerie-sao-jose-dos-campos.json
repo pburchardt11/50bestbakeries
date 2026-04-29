@@ -1,0 +1,43 @@
+{
+  "slug": "tunica-boulangerie-sao-jose-dos-campos",
+  "name": "Tunica Boulangerie",
+  "curatedName": "Tunica Boulangerie",
+  "city": "São José dos Campos",
+  "country": "Brazil",
+  "placeId": "ChIJt74M9RRLzJQRY5FAXbluG7U",
+  "googleName": "Tunica Boulangerie",
+  "formattedAddress": "Av. Barão do Rio Branco, 295 - Jardim Esplanada, São José dos Campos - SP, 12242-800, Brazil",
+  "phone": "(12) 99133-1234",
+  "internationalPhone": "+55 12 99133-1234",
+  "website": "https://instagram.com/tunicaboulangeriesjc",
+  "googleMapsUrl": "https://maps.google.com/?cid=13050146087648661859",
+  "rating": 4.2,
+  "reviewCount": 298,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.1952206,
+    -45.9024462
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tunica-boulangerie-sao-jose-dos-campos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:35.714Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "nord-s-bread-hub-quezon-city",
+  "name": "Nord's Bread Hub",
+  "curatedName": "Nord's Bread Hub",
+  "city": "Quezon City",
+  "country": "Philippines",
+  "placeId": "ChIJTWrXv-K2lzMRK2InwKHIDkg",
+  "googleName": "Nord's Bread Hub",
+  "formattedAddress": "SM North Edsa Access Road, Bago Bantay, Quezon City, Metro Manila, Philippines",
+  "phone": "0995 181 1489",
+  "internationalPhone": "+63 995 181 1489",
+  "website": "https://www.facebook.com/nordsphilippines",
+  "googleMapsUrl": "https://maps.google.com/?cid=5192308017443856939",
+  "rating": 4.8,
+  "reviewCount": 725,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.6561908,
+    121.0322157
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nord-s-bread-hub-quezon-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:49.290Z"
+}

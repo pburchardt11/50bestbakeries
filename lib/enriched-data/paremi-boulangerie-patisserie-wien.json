@@ -1,0 +1,45 @@
+{
+  "slug": "paremi-boulangerie-patisserie-wien",
+  "name": "Parémi Boulangerie Pâtisserie",
+  "curatedName": "Parémi Boulangerie Pâtisserie",
+  "city": "Wien",
+  "country": "Austria",
+  "placeId": "ChIJ-ezVmp8HbUcRG2GABbA51Vg",
+  "googleName": "PARÉMI Boulangerie – Pâtisserie",
+  "formattedAddress": "Bäckerstraße 10, 1010 Wien, Austria",
+  "phone": "01 9974148",
+  "internationalPhone": "+43 1 9974148",
+  "website": "http://paremi.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6401085873546354971",
+  "rating": 4.6,
+  "reviewCount": 3238,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.2091211,
+    16.3760002
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Quaint French bakery known for croissants, pastries & baguettes, plus light fare & coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paremi-boulangerie-patisserie-wien/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:27.436Z"
+}

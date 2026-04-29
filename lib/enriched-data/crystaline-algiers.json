@@ -1,0 +1,32 @@
+{
+  "slug": "crystaline-algiers",
+  "name": "Crystaline",
+  "city": "Algiers",
+  "country": "Algeria",
+  "placeId": "ChIJ9XiBkv2zjxIRWZj3jiR8GHo",
+  "googleName": "Crystal Boutique",
+  "formattedAddress": "Q3Q6+V3J, Av. Mohamed Boubella, Bab El Oued 16000, Algeria",
+  "phone": "0541 11 59 40",
+  "website": "https://www.facebook.com/lotfiijoker/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8797918368527521881",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    36.7897134,
+    3.0601433
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: Closed",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crystaline-algiers/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:15:21.129Z"
+}

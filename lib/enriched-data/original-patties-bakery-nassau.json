@@ -1,0 +1,32 @@
+{
+  "slug": "original-patties-bakery-nassau",
+  "name": "Original Patties Bakery",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJdRaeIr58L4kR77eDodr2Kv0",
+  "googleName": "Original Patties Bakery",
+  "formattedAddress": "2JVV+GJ2, Tonique Williams-Darling Hwy, Nassau, The Bahamas",
+  "phone": "(242) 341-1871",
+  "website": "http://www.originalpatties.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18242664659490682863",
+  "rating": 4,
+  "reviewCount": 601,
+  "coords": [
+    25.0437501,
+    -77.3559899
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/original-patties-bakery-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:42:51.221Z"
+}

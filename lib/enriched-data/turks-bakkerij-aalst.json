@@ -1,0 +1,32 @@
+{
+  "slug": "turks-bakkerij-aalst",
+  "name": "turks bakkerij aalst",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJcW7QxYy9w0cRRhUTt3EB2E4",
+  "googleName": "Hazar Bakkerij - Patisserie",
+  "formattedAddress": "Dendermondse Steenweg 7, 9300 Aalst, Belgium",
+  "phone": "053 78 44 01",
+  "website": "https://instagram.com/hazarbakkerij_aalst?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=5681292517842294086",
+  "rating": 4.6,
+  "reviewCount": 65,
+  "coords": [
+    50.94245799999999,
+    4.035176
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/turks-bakkerij-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:03:42.675Z"
+}

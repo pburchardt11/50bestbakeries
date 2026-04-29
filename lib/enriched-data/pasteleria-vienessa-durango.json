@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-vienessa-durango",
+  "name": "Pasteleria Vienessa",
+  "curatedName": "Pasteleria Vienessa",
+  "city": "Durango",
+  "country": "Mexico",
+  "placeId": "ChIJc3JlUx7Im4YRcP7pJiEYOIw",
+  "googleName": "pastelería vienessa",
+  "formattedAddress": "C. Antonio Norman Fuentes 329, Zona Centro, 34000 Durango, Dgo., Mexico",
+  "phone": "618 811 8472",
+  "internationalPhone": "+52 618 811 8472",
+  "website": "http://www.facebook.com/pasteleria.vienessa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10103852294671564400",
+  "rating": 4.8,
+  "reviewCount": 29,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.0217835,
+    -104.6612938
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+    "Tuesday: 10:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+    "Wednesday: 10:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+    "Thursday: 10:00 AM – 2:00 AM",
+    "Friday: 10:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 AM",
+    "Sunday: 12:00 – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-vienessa-durango/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:09.282Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "bakers-delight",
+  "name": "Bakers Delight",
+  "curatedName": "Bakers Delight",
+  "city": "Джелонг",
+  "country": "Australia",
+  "placeId": "ChIJRbJaFQAU1GoRtOvEcnLJOWg",
+  "googleName": "Bakers Delight Geelong West",
+  "formattedAddress": "159 Pakington St, Geelong West VIC 3218, Australia",
+  "phone": "0461 379 612",
+  "internationalPhone": "+61 461 379 612",
+  "website": "https://www.bakersdelight.com.au/pages/bakeries/geelong-west-bakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=7510255347005975476",
+  "rating": 3.8,
+  "reviewCount": 52,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -38.1414432,
+    144.3479867
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:15 PM",
+    "Tuesday: 5:00 AM – 6:15 PM",
+    "Wednesday: 5:00 AM – 6:15 PM",
+    "Thursday: 5:00 AM – 6:15 PM",
+    "Friday: 5:00 AM – 6:15 PM",
+    "Saturday: 5:00 AM – 5:00 PM",
+    "Sunday: 6:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-delight/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:20:22.313Z"
+}

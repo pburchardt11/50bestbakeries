@@ -1,0 +1,43 @@
+{
+  "slug": "cunda-eklercisi-yenisehir",
+  "name": "Cunda Eklercisi",
+  "curatedName": "Cunda Eklercisi",
+  "city": "Yenişehir",
+  "country": "Türkiye",
+  "placeId": "ChIJ1WTDTS-lyxQRdlA1lt65lw4",
+  "googleName": "Cunda Eklercisi",
+  "formattedAddress": "Yenigün, Atatürk Cd. no:21/A, 16900 Yeni̇şehi̇r/Bursa, Türkiye",
+  "phone": "0541 355 37 24",
+  "internationalPhone": "+90 541 355 37 24",
+  "website": "http://cundaeklercisi.com/www.cundaeklercisi.com/index.html",
+  "googleMapsUrl": "https://maps.google.com/?cid=1051513403668254838",
+  "rating": 4.6,
+  "reviewCount": 31,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.2680859,
+    29.6519096
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cunda-eklercisi-yenisehir/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:03:56.362Z"
+}

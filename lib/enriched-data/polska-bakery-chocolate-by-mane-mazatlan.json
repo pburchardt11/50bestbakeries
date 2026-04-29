@@ -1,0 +1,44 @@
+{
+  "slug": "polska-bakery-chocolate-by-mane-mazatlan",
+  "name": "Polska Bakery & Chocolate by Mané",
+  "curatedName": "Polska Bakery & Chocolate by Mané",
+  "city": "Mazatlán",
+  "country": "Mexico",
+  "placeId": "ChIJnT0lr4GrmIYRuNYu0v__GAI",
+  "googleName": "Polska Bakery & Chocolate by Mané",
+  "formattedAddress": "Av. Carlos Canseco 6037-Local -2, Mediterráneo, 82103 Mazatlán, Sin., Mexico",
+  "phone": "669 179 5813",
+  "internationalPhone": "+52 669 179 5813",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=151152061724939960",
+  "rating": 4.5,
+  "reviewCount": 23,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.2719808,
+    -106.4454173
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/polska-bakery-chocolate-by-mane-mazatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:21.800Z"
+}

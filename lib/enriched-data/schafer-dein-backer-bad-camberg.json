@@ -1,0 +1,44 @@
+{
+  "slug": "schafer-dein-backer-bad-camberg",
+  "name": "Schäfer Dein Bäcker",
+  "curatedName": "Schäfer Dein Bäcker",
+  "city": "Bad Camberg",
+  "country": "Germany",
+  "placeId": "ChIJm2Ue2IW2vUcRvEQfILDGY5A",
+  "googleName": "Schäfer Dein Bäcker GmbH",
+  "formattedAddress": "Beuerbacher Landstraße 1, 65520 Bad Camberg, Germany",
+  "phone": "06434 4029361",
+  "internationalPhone": "+49 6434 4029361",
+  "website": "http://www.schaefer-dein-baecker.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10404378023911441596",
+  "rating": 4.1,
+  "reviewCount": 302,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.2945329,
+    8.2539765
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:00 PM",
+    "Tuesday: 5:00 AM – 6:00 PM",
+    "Wednesday: 5:00 AM – 6:00 PM",
+    "Thursday: 5:00 AM – 6:00 PM",
+    "Friday: 5:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/schafer-dein-backer-bad-camberg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:21:37.662Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "jenny-s-bakery-adelaide",
+  "name": "Jenny's Bakery",
+  "curatedName": "Jenny's Bakery",
+  "city": "Adelaide",
+  "country": "Australia",
+  "placeId": "ChIJEa8XM77OsGoRFsGUcG4brY8",
+  "googleName": "Jenny's Bakery",
+  "formattedAddress": "81 Glen Osmond Rd, Eastwood SA 5063, Australia",
+  "phone": "(08) 8272 9699",
+  "internationalPhone": "+61 8 8272 9699",
+  "website": "https://www.jennysbakery.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10352961279543787798",
+  "rating": 4.4,
+  "reviewCount": 895,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.9438938,
+    138.6214907
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jenny-s-bakery-adelaide/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:55.805Z"
+}

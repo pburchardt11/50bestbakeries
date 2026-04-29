@@ -1,0 +1,43 @@
+{
+  "slug": "ijysheng",
+  "name": "Ijysheng",
+  "curatedName": "Ijysheng",
+  "city": "大同區",
+  "country": "Taiwan",
+  "placeId": "ChIJd1p1VWmpQjQRvQrQ7m1jReg",
+  "googleName": "Ijysheng Nanxi",
+  "formattedAddress": "103, Taiwan, Taipei City, Datong District, Nanjing W Rd, 35號中山捷運站4號出口",
+  "phone": "02 2552 1313",
+  "internationalPhone": "+886 2 2552 1313",
+  "website": "https://www.ijysheng.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16736892914001513149",
+  "rating": 4.2,
+  "reviewCount": 339,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.0529232,
+    121.5199509
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ijysheng/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:13.897Z"
+}

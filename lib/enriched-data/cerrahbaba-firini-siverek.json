@@ -1,0 +1,35 @@
+{
+  "slug": "cerrahbaba-firini-siverek",
+  "name": "Cerrahbaba Firini",
+  "curatedName": "Cerrahbaba Firini",
+  "city": "Siverek",
+  "country": "Türkiye",
+  "placeId": "ChIJ3cZeAVyAdUARhJOKD9-2OgM",
+  "googleName": "Cerrahbaba Firini",
+  "formattedAddress": "Kale, Gerger Cd. No:115, 63600 Siverek/Şanlıurfa, Türkiye",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=232699399917704068",
+  "rating": 5,
+  "reviewCount": 5,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.7535917,
+    39.3071574
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cerrahbaba-firini-siverek/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:09.767Z"
+}

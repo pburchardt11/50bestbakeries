@@ -1,0 +1,45 @@
+{
+  "slug": "flour-la-cookiserie-montpellier",
+  "name": "Flour - La Cookiserie",
+  "curatedName": "Flour - La Cookiserie",
+  "city": "Montpellier",
+  "country": "France",
+  "placeId": "ChIJk0P7qHKvthIRNTPyhbmrRMY",
+  "googleName": "Flour - La Cookiserie",
+  "formattedAddress": "8 Rue du Faubourg du Courreau, 34000 Montpellier, France",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.flourcookies.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14286732731230597941",
+  "rating": 4.9,
+  "reviewCount": 4575,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6084292,
+    3.8721123
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 6:30 PM",
+    "Tuesday: 9:30 AM – 6:30 PM",
+    "Wednesday: 9:30 AM – 6:30 PM",
+    "Thursday: 9:30 AM – 6:30 PM",
+    "Friday: 9:30 AM – 6:30 PM",
+    "Saturday: 9:30 AM – 6:30 PM",
+    "Sunday: 9:30 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flour-la-cookiserie-montpellier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:04.319Z"
+}

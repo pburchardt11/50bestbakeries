@@ -1,0 +1,43 @@
+{
+  "slug": "the-cake-house-casa-del-pastel-west-columbia",
+  "name": "The Cake House Casa del Pastel",
+  "curatedName": "The Cake House Casa del Pastel",
+  "city": "West Columbia",
+  "country": "United States",
+  "placeId": "ChIJK1prhiW7-IgRJML1qKTr8F8",
+  "googleName": "The Cake House Casa del Pastel",
+  "formattedAddress": "323 9th St Unit B, West Columbia, SC 29169, USA",
+  "phone": "(803) 708-1459",
+  "internationalPhone": "+1 803-708-1459",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6913284520455553572",
+  "rating": 4.9,
+  "reviewCount": 95,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.9963765,
+    -81.0689625
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 12:00 – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-house-casa-del-pastel-west-columbia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:16:34.129Z"
+}

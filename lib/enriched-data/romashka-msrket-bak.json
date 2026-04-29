@@ -1,0 +1,32 @@
+{
+  "slug": "romashka-msrket-bak",
+  "name": "Romashka Msrket",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJl0BoCAiaO0ARhJnZKAHiol4",
+  "googleName": "Romashka MarkeT",
+  "formattedAddress": "saatli heyder eliyev p, azerbaycan Saatli 4900, Azerbaijan",
+  "phone": "050 759 91 93",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6819261280400546180",
+  "rating": 3.7,
+  "reviewCount": 3,
+  "coords": [
+    39.943736,
+    48.393821
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/romashka-msrket-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:38:19.615Z"
+}

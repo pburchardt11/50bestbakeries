@@ -1,0 +1,45 @@
+{
+  "slug": "claus-bakery-cheesecake-factory-malaga",
+  "name": "Claus Bakery Cheesecake Factory",
+  "curatedName": "Claus Bakery Cheesecake Factory",
+  "city": "Málaga",
+  "country": "Spain",
+  "placeId": "ChIJMcX2rtv3cg0RAI0Rp2zFf88",
+  "googleName": "Claus Bakery Cheesecake Factory",
+  "formattedAddress": "C. Atarazanas, 11, Distrito Centro, 29005 Málaga, Spain",
+  "phone": "667 32 63 95",
+  "internationalPhone": "+34 667 32 63 95",
+  "website": "https://clausbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14951886358343421184",
+  "rating": 4.7,
+  "reviewCount": 740,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.7180943,
+    -4.4238002
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/claus-bakery-cheesecake-factory-malaga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:56:41.808Z"
+}

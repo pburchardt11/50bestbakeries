@@ -1,0 +1,44 @@
+{
+  "slug": "meli-cafe-bakery-helsinki",
+  "name": "Meli Cafe & Bakery",
+  "curatedName": "Meli Cafe & Bakery",
+  "city": "Helsinki",
+  "country": "Finland",
+  "placeId": "ChIJB7FFte0JkkYRB3en1yC7R44",
+  "googleName": "Meli Cafe & Bakery",
+  "formattedAddress": "Helsinginkatu 11, 00520 Helsinki, Finland",
+  "phone": "050 4408228",
+  "internationalPhone": "+358 50 4408228",
+  "website": "https://facebook.com/CafeMeliHesari/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10252368826463647495",
+  "rating": 4.6,
+  "reviewCount": 711,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    60.18744449999999,
+    24.9566141
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/meli-cafe-bakery-helsinki/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:59.898Z"
+}

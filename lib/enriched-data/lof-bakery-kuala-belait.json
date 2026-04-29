@@ -1,0 +1,32 @@
+{
+  "slug": "lof-bakery-kuala-belait",
+  "name": "Lof Bakery",
+  "city": "Kuala Belait",
+  "country": "Brunei",
+  "placeId": "ChIJbxfVfv-qGDIRhVNhRHtwwus",
+  "googleName": "Lof Bakery",
+  "formattedAddress": "H5JR+RFC, Jalan Tepi, Kuala Belait, Brunei",
+  "phone": "865 8204",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16988264419125449605",
+  "rating": 4,
+  "reviewCount": 10,
+  "coords": [
+    4.582056,
+    114.1911304
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lof-bakery-kuala-belait/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:22:40.979Z"
+}

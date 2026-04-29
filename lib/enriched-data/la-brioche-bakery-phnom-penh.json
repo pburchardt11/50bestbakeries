@@ -1,0 +1,32 @@
+{
+  "slug": "la-brioche-bakery-phnom-penh",
+  "name": "La Brioche Bakery",
+  "city": "Phnom Penh",
+  "country": "Cambodia",
+  "placeId": "ChIJ84puI4RRCTERBa2M5PyqMaU",
+  "googleName": "La Brioche Bakery by Hotel Cambodiana",
+  "formattedAddress": "313 Prey, Preah Sisowath Quay, Phnom Penh, Cambodia",
+  "phone": "078 444 099",
+  "website": "https://hotelcambodiana.com.kh/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11903483293259836677",
+  "rating": 4,
+  "reviewCount": 6,
+  "coords": [
+    11.5597187,
+    104.9363001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-brioche-bakery-phnom-penh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:29:41.418Z"
+}

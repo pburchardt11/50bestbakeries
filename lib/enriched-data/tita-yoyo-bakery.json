@@ -1,0 +1,44 @@
+{
+  "slug": "tita-yoyo-bakery",
+  "name": "Tita & Yoyo Bakery",
+  "curatedName": "Tita & Yoyo Bakery",
+  "city": "София",
+  "country": "Bulgaria",
+  "placeId": "ChIJraQyFACFqkAR1u6PM_RT0MY",
+  "googleName": "Tita & Yoyo Bakery",
+  "formattedAddress": "Old City Center, ul. \"Tsar Shishman\" 2, 1000 Sofia, Bulgaria",
+  "phone": "088 950 2550",
+  "internationalPhone": "+359 88 950 2550",
+  "website": "https://titayoyo.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14326042722967744214",
+  "rating": 4.8,
+  "reviewCount": 208,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.6930255,
+    23.3315227
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tita-yoyo-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:06.695Z"
+}

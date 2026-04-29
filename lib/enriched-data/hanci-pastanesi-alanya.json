@@ -1,0 +1,46 @@
+{
+  "slug": "hanci-pastanesi-alanya",
+  "name": "Hanci Pastanesi",
+  "curatedName": "Hanci Pastanesi",
+  "city": "Alanya",
+  "country": "Türkiye",
+  "placeId": "ChIJUacWaHqY3BQRaaeHk0hd0Tg",
+  "googleName": "Hanci Pastanesi",
+  "formattedAddress": "Şekerhane, 9. Sk., 07400 Alanya/Antalya, Türkiye",
+  "phone": "0532 673 82 49",
+  "internationalPhone": "+90 532 673 82 49",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4094156102550660969",
+  "rating": 4.2,
+  "reviewCount": 2133,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.5434249,
+    32.0006998
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 AM",
+    "Tuesday: 6:00 AM – 2:00 AM",
+    "Wednesday: 6:00 AM – 2:00 AM",
+    "Thursday: 6:00 AM – 2:00 AM",
+    "Friday: 6:00 AM – 2:00 AM",
+    "Saturday: 6:00 AM – 2:00 AM",
+    "Sunday: 6:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hanci-pastanesi-alanya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:03:50.991Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "infinita-panaderia-rosario",
+  "name": "Infinita Panadería",
+  "curatedName": "Infinita Panadería",
+  "city": "Rosario",
+  "country": "Argentina",
+  "placeId": "ChIJ16QU1oqrt5UR66gOETenr48",
+  "googleName": "Infinita Panadería",
+  "formattedAddress": "Santiago 217, S2000 Rosario, Santa Fe, Argentina",
+  "phone": "0341 15-718-6363",
+  "internationalPhone": "+54 9 341 718-6363",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10353677923299272939",
+  "rating": 4.3,
+  "reviewCount": 2327,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -32.9365664,
+    -60.6542274
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 8:00 PM",
+    "Wednesday: 8:30 AM – 8:00 PM",
+    "Thursday: 8:30 AM – 8:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/infinita-panaderia-rosario/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:39.823Z"
+}

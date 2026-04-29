@@ -1,0 +1,44 @@
+{
+  "slug": "artisan-bakery-quan-7",
+  "name": "Artisan Bakery",
+  "curatedName": "Artisan Bakery",
+  "city": "Quận 7",
+  "country": "Vietnam",
+  "placeId": "ChIJMc9uXZIvdTEROVbvOThhHgs",
+  "googleName": "Artisan Bakery",
+  "formattedAddress": "11 Nguyễn Bính, Tân Phong, Tân Hưng, Hồ Chí Minh, Vietnam",
+  "phone": "028 5412 5156",
+  "internationalPhone": "+84 28 5412 5156",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=801184677836576313",
+  "rating": 4.4,
+  "reviewCount": 795,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7260234,
+    106.7105486
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artisan-bakery-quan-7/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:19:22.506Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "thu-phuong-bakery-quan-hoang-mai",
+  "name": "Thu Phuong Bakery",
+  "curatedName": "Thu Phuong Bakery",
+  "city": "Quận Hoàng Mai",
+  "country": "Vietnam",
+  "placeId": "ChIJJf-iz0WsNTEReHgim8jkvG4",
+  "googleName": "Bánh Sinh Nhật Thu Phương",
+  "formattedAddress": "19 P. Giáp Nhị, Thịnh Liệt, Hoàng Mai, Hà Nội, Vietnam",
+  "phone": "0986 252 185",
+  "internationalPhone": "+84 986 252 185",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7979504190040995960",
+  "rating": 4.9,
+  "reviewCount": 17,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.97542,
+    105.8457269
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thu-phuong-bakery-quan-hoang-mai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:19:44.840Z"
+}

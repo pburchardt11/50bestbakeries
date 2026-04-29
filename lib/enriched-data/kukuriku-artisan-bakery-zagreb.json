@@ -1,0 +1,43 @@
+{
+  "slug": "kukuriku-artisan-bakery-zagreb",
+  "name": "Kukuriku Artisan Bakery",
+  "curatedName": "Kukuriku Artisan Bakery",
+  "city": "Zagreb",
+  "country": "Croatia",
+  "placeId": "ChIJketMpoTXZUcRupryO9kQAns",
+  "googleName": "Kukuriku Artisan Bakery",
+  "formattedAddress": "Savska cesta 156, 10000, Zagreb, Croatia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8863665541818260154",
+  "rating": 4.8,
+  "reviewCount": 298,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.79046049999999,
+    15.9559915
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kukuriku-artisan-bakery-zagreb/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:10.792Z"
+}

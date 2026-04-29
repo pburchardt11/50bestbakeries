@@ -1,0 +1,45 @@
+{
+  "slug": "de-bakkerswinkel-rotterdam",
+  "name": "De Bakkerswinkel",
+  "curatedName": "De Bakkerswinkel",
+  "city": "Rotterdam",
+  "country": "Netherlands",
+  "placeId": "ChIJZzpa0l8zxEcRodtn9NLZn1o",
+  "googleName": "De Bakkerswinkel",
+  "formattedAddress": "Schiedamse Vest 99a, 3012 BH Rotterdam, Netherlands",
+  "phone": "010 842 1257",
+  "internationalPhone": "+31 10 842 1257",
+  "website": "http://www.bakkerswinkelrotterdam.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6530177484777315233",
+  "rating": 4.6,
+  "reviewCount": 596,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.9156287,
+    4.4796645
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 4:30 PM",
+    "Wednesday: 8:00 AM – 4:30 PM",
+    "Thursday: 8:00 AM – 4:30 PM",
+    "Friday: 8:00 AM – 4:30 PM",
+    "Saturday: 8:00 AM – 4:30 PM",
+    "Sunday: 8:00 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-bakkerswinkel-rotterdam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:00.296Z"
+}

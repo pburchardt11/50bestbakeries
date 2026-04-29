@@ -1,0 +1,43 @@
+{
+  "slug": "sucre-table-tampa",
+  "name": "Sucre Table",
+  "curatedName": "Sucre Table",
+  "city": "Tampa",
+  "country": "United States",
+  "placeId": "ChIJURkn5v7DwogR5XfGAWpOE74",
+  "googleName": "Sucré Table",
+  "formattedAddress": "4048 W Kennedy Blvd, Tampa, FL 33609, USA",
+  "phone": "(813) 374-5643",
+  "internationalPhone": "+1 813-374-5643",
+  "website": "http://sucretable.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13696377108967094245",
+  "rating": 4.5,
+  "reviewCount": 651,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    27.9444151,
+    -82.5116072
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 5:30 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sucre-table-tampa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:12:54.898Z"
+}

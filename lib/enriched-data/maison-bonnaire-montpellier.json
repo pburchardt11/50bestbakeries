@@ -1,0 +1,45 @@
+{
+  "slug": "maison-bonnaire-montpellier",
+  "name": "Maison Bonnaire",
+  "curatedName": "Maison Bonnaire",
+  "city": "Montpellier",
+  "country": "France",
+  "placeId": "ChIJm1NxWt6vthIR0RyfWvJsbhs",
+  "googleName": "Maison Bonnaire",
+  "formattedAddress": "45 Rue Saint-Guilhem, 34000 Montpellier, France",
+  "phone": "04 67 58 82 73",
+  "internationalPhone": "+33 4 67 58 82 73",
+  "website": "http://www.maison-bonnaire.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1976637074620488913",
+  "rating": 4.4,
+  "reviewCount": 964,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.608611,
+    3.873385
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-bonnaire-montpellier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:10.076Z"
+}

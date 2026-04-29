@@ -1,0 +1,44 @@
+{
+  "slug": "confeitaria-dona-hilda-blumenau",
+  "name": "Confeitaria Dona Hilda",
+  "curatedName": "Confeitaria Dona Hilda",
+  "city": "Blumenau",
+  "country": "Brazil",
+  "placeId": "ChIJye6gOtUY35QRJYtC0ZX0m3o",
+  "googleName": "Confeitaria Dona Hilda",
+  "formattedAddress": "R. Antônio da Veiga, 440 - Itoupava Seca, Blumenau - SC, 89030-103, Brazil",
+  "phone": "(47) 3322-6986",
+  "internationalPhone": "+55 47 3322-6986",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8834924018315463461",
+  "rating": 4.6,
+  "reviewCount": 1641,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.9075797,
+    -49.0799797
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:30 AM – 6:30 PM",
+    "Wednesday: 9:30 AM – 6:30 PM",
+    "Thursday: 9:30 AM – 6:30 PM",
+    "Friday: 9:30 AM – 6:30 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-dona-hilda-blumenau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:06.532Z"
+}

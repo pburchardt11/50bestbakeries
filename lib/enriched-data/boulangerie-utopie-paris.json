@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-utopie-paris",
+  "name": "Boulangerie Utopie",
+  "curatedName": "Boulangerie Utopie",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJBxU8T_1t5kcRerSFrur9xN0",
+  "googleName": "Boulangerie Utopie",
+  "formattedAddress": "20 Rue Jean-Pierre Timbaud, 75011 Paris, France",
+  "phone": "09 82 50 74 48",
+  "internationalPhone": "+33 9 82 50 74 48",
+  "website": "https://boulangerieutopie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15980176562209535098",
+  "rating": 4.4,
+  "reviewCount": 4093,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8653767,
+    2.3687572
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Cream eclairs, apple pastries & classic French loaves from a small, popular neighborhood bakery.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-utopie-paris/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:33.157Z"
+}

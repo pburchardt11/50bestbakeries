@@ -1,0 +1,44 @@
+{
+  "slug": "della-nonna-breads-pastries-blumenau",
+  "name": "Della Nonna Breads & Pastries",
+  "curatedName": "Della Nonna Breads & Pastries",
+  "city": "Blumenau",
+  "country": "Brazil",
+  "placeId": "ChIJDd4tZ6gY35QRIemB6rzq2cM",
+  "googleName": "Della Nonna Breads & Pastries",
+  "formattedAddress": "R. São Bento, 566 - Vorstadt, Blumenau - SC, 89015-300, Brazil",
+  "phone": "(47) 3322-8906",
+  "internationalPhone": "+55 47 3322-8906",
+  "website": "http://www.dellanonna.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14112569004451293473",
+  "rating": 4.6,
+  "reviewCount": 2551,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.9029226,
+    -49.0434803
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:30 PM",
+    "Tuesday: 6:30 AM – 8:30 PM",
+    "Wednesday: 6:30 AM – 8:30 PM",
+    "Thursday: 6:30 AM – 8:30 PM",
+    "Friday: 6:30 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/della-nonna-breads-pastries-blumenau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:58.799Z"
+}

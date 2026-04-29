@@ -1,0 +1,43 @@
+{
+  "slug": "pretty-baked-jaipur",
+  "name": "Pretty Baked",
+  "curatedName": "Pretty Baked",
+  "city": "Jaipur",
+  "country": "India",
+  "placeId": "ChIJR7nRrgmzbTkRyJ2jdc7TCps",
+  "googleName": "Pretty Baked",
+  "formattedAddress": "23 Kailash Path, Amrapali Marg, Nand Vihar Colony, Nemi Nagar Extension, Block A, Vaishali Nagar, Jaipur, Rajasthan 302021, India",
+  "phone": "081144 21121",
+  "internationalPhone": "+91 81144 21121",
+  "website": "https://instagram.com/prettybakedjpr?utm_medium=copy_link",
+  "googleMapsUrl": "https://maps.google.com/?cid=11171974709336317384",
+  "rating": 5,
+  "reviewCount": 253,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.91305,
+    75.730812
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pretty-baked-jaipur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:29.673Z"
+}

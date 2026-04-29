@@ -1,0 +1,32 @@
+{
+  "slug": "elisa-s-cakes-cupcakes-orange-walk",
+  "name": "Elisa's Cakes & Cupcakes",
+  "city": "Orange Walk",
+  "country": "Belize",
+  "placeId": "ChIJV5t2CXz2W48R65JlP79-V7g",
+  "googleName": "Maria's Bakeshop & Coffeehouse",
+  "formattedAddress": "Progress St, Orange Walk, Belize",
+  "phone": "620-5527",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13283224985820041963",
+  "rating": 4.7,
+  "reviewCount": 115,
+  "coords": [
+    18.0839014,
+    -88.5618305
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elisa-s-cakes-cupcakes-orange-walk/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:08:42.905Z"
+}

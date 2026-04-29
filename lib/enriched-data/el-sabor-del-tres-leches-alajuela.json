@@ -1,0 +1,32 @@
+{
+  "slug": "el-sabor-del-tres-leches-alajuela",
+  "name": "El Sabor del Tres Leches",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJ9aSPaf75oI8RHvEWZb4a16E",
+  "googleName": "El Sabor del Tres Leches",
+  "formattedAddress": "De la puerta principal del Instituto de Alajuela, 175m oeste, Provincia de Alajuela, Alajuela, 20101, Costa Rica",
+  "phone": "6473 8872",
+  "website": "https://www.facebook.com/share/15Vyi2Fzyq/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11661819165141299486",
+  "rating": 4,
+  "reviewCount": 8,
+  "coords": [
+    10.0200146,
+    -84.2122795
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-sabor-del-tres-leches-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:49.260Z"
+}

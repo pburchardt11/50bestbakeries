@@ -1,0 +1,43 @@
+{
+  "slug": "sind-bakery-secunderabad",
+  "name": "Sind Bakery",
+  "curatedName": "Sind Bakery",
+  "city": "Secunderabad",
+  "country": "India",
+  "placeId": "ChIJE-0sZheayzsR0tE2APDF-Cw",
+  "googleName": "Sind Bakery",
+  "formattedAddress": "Vasavi Towers, 1-1-40, Sarojini Devi Rd, Krishna Complex, Kalasiguda, Hyderabad, Secunderabad, Telangana 500003, India",
+  "phone": "091001 95800",
+  "internationalPhone": "+91 91001 95800",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3240557566479487442",
+  "rating": 4.1,
+  "reviewCount": 1538,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    17.4410224,
+    78.4937209
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sind-bakery-secunderabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:56.707Z"
+}

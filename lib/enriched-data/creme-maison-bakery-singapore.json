@@ -1,0 +1,43 @@
+{
+  "slug": "creme-maison-bakery-singapore",
+  "name": "Creme Maison Bakery",
+  "curatedName": "Creme Maison Bakery",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJW1E0lrwZ2jERCDCcxGTE-iw",
+  "googleName": "Creme Maison Bakery",
+  "formattedAddress": "25 Playfair Rd, #04-01, Singapore 367990",
+  "phone": "8281 7688",
+  "internationalPhone": "+65 8281 7688",
+  "website": "http://crememaison.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3241118818920837128",
+  "rating": 4.8,
+  "reviewCount": 2252,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.3343132,
+    103.8860864
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/creme-maison-bakery-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:59:41.417Z"
+}

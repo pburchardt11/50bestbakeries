@@ -1,0 +1,44 @@
+{
+  "slug": "medicine-bakery-birmingham",
+  "name": "Medicine Bakery",
+  "curatedName": "Medicine Bakery",
+  "city": "Birmingham",
+  "country": "United Kingdom",
+  "placeId": "ChIJ1YvydIy8cEgRD7Ne2aRUvl8",
+  "googleName": "Medicine Bakery",
+  "formattedAddress": "69a New St, Birmingham B2 4DU, UK",
+  "phone": "0121 643 1188",
+  "internationalPhone": "+44 121 643 1188",
+  "website": "https://medicinebakery.co.uk/new-street-birmingham",
+  "googleMapsUrl": "https://maps.google.com/?cid=6899044746176410383",
+  "rating": 4.1,
+  "reviewCount": 1711,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.4795069,
+    -1.9016548
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 5:00 PM",
+    "Sunday: 8:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/medicine-bakery-birmingham/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:09.327Z"
+}

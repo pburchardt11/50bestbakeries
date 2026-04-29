@@ -1,0 +1,43 @@
+{
+  "slug": "hampstead-bakery-and-cafe",
+  "name": "Hampstead Bakery and Cafe",
+  "curatedName": "Hampstead Bakery and Cafe",
+  "city": "دبي",
+  "country": "UAE",
+  "placeId": "ChIJawtHeNBpXz4R7HN88Y8c3-8",
+  "googleName": "Hampstead Bakery and Cafe",
+  "formattedAddress": "Downtown Kitchens Shop No FV-BF-FH-26, Ground Floor - Fountain Views - بوليفارد الشيخ محمد بن راشد - برج خليفة - وسط مدينة دبي - دبي - United Arab Emirates",
+  "phone": "050 583 0155",
+  "internationalPhone": "+971 50 583 0155",
+  "website": "https://www.thehampsteadbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17284565299428619244",
+  "rating": 4.3,
+  "reviewCount": 747,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.1940387,
+    55.2811268
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 11:30 PM",
+    "Tuesday: 8:30 AM – 11:30 PM",
+    "Wednesday: 8:30 AM – 11:30 PM",
+    "Thursday: 8:30 AM – 11:30 PM",
+    "Friday: 8:30 AM – 11:30 PM",
+    "Saturday: 8:30 AM – 11:30 PM",
+    "Sunday: 8:30 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hampstead-bakery-and-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:43.035Z"
+}

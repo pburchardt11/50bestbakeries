@@ -1,0 +1,45 @@
+{
+  "slug": "french-corner-patisserie-mississauga",
+  "name": "French Corner Patisserie",
+  "curatedName": "French Corner Patisserie",
+  "city": "Mississauga",
+  "country": "Canada",
+  "placeId": "ChIJebyDp6tGK4gRfH6uBFuxMW4",
+  "googleName": "French Corner Patisserie",
+  "formattedAddress": "1224 Dundas St W #114, Mississauga, ON L5C 4G7, Canada",
+  "phone": "(905) 566-1919",
+  "internationalPhone": "+1 905-566-1919",
+  "website": "https://frenchcornerpatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7940322622509579900",
+  "rating": 4.4,
+  "reviewCount": 1676,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.5539454,
+    -79.64534189999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "All the bread is created in-house over 48 hours at this bakery also preparing French bakery treats.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/french-corner-patisserie-mississauga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:17.186Z"
+}

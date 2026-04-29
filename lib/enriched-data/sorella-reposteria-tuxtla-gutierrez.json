@@ -1,0 +1,43 @@
+{
+  "slug": "sorella-reposteria-tuxtla-gutierrez",
+  "name": "Sorella Repostería",
+  "curatedName": "Sorella Repostería",
+  "city": "Tuxtla Gutiérrez",
+  "country": "Mexico",
+  "placeId": "ChIJj6-HC4bZ7IUREYL3vXKbhyE",
+  "googleName": "Sorella Repostería",
+  "formattedAddress": "Taxco 115, Fraccionamiento Residencial Hacienda, 29030 Tuxtla Gutiérrez, Chis., Mexico",
+  "phone": "961 316 3887",
+  "internationalPhone": "+52 961 316 3887",
+  "website": "https://instagram.com/sorellareposteria?igshid=OGQ5ZDc2ODk2ZA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=2416070642223251985",
+  "rating": 5,
+  "reviewCount": 30,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    16.7621759,
+    -93.1331531
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 12:00 – 5:00 PM",
+    "Sunday: 12:00 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sorella-reposteria-tuxtla-gutierrez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:08.537Z"
+}

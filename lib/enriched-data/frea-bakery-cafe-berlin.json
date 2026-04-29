@@ -1,0 +1,45 @@
+{
+  "slug": "frea-bakery-cafe-berlin",
+  "name": "FREA Bakery & Cafe",
+  "curatedName": "FREA Bakery & Cafe",
+  "city": "Berlin",
+  "country": "Germany",
+  "placeId": "ChIJ85onOJ1RqEcRqIvn3fGOa-0",
+  "googleName": "FREA Bakery & Cafe",
+  "formattedAddress": "Gartenstraße 9, 10115 Berlin, Germany",
+  "phone": "030 13897068",
+  "internationalPhone": "+49 30 13897068",
+  "website": "http://www.freabakery.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17107924778958162856",
+  "rating": 4.5,
+  "reviewCount": 1059,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.5302132,
+    13.3919477
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Relaxed operation with an understated vibe, serving sourdough sandwiches, brioche & croissants.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/frea-bakery-cafe-berlin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:56.496Z"
+}

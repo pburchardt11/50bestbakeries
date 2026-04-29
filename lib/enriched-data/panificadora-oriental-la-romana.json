@@ -1,0 +1,32 @@
+{
+  "slug": "panificadora-oriental-la-romana",
+  "name": "Panificadora Oriental",
+  "city": "La Romana",
+  "country": "Dominican Republic",
+  "placeId": "ChIJmZjyNxFUr44RiTgSM5T1kkc",
+  "googleName": "Panificadora Oriental, Yacilis",
+  "formattedAddress": "Calle E, frente a la, Av. Gregorio Luperón, La Romana 22000, Dominican Republic",
+  "phone": "(809) 550-9794",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5157454540153436297",
+  "rating": 4.3,
+  "reviewCount": 587,
+  "coords": [
+    18.4311332,
+    -68.9853426
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-oriental-la-romana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:48.399Z"
+}

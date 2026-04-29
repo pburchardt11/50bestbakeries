@@ -1,0 +1,43 @@
+{
+  "slug": "lacoste-bakery-san-antonio",
+  "name": "Lacoste Bakery",
+  "curatedName": "Lacoste Bakery",
+  "city": "San Antonio",
+  "country": "United States",
+  "placeId": "ChIJy31HLwBnXIYRh2o-uG0d1xU",
+  "googleName": "Lacoste Bakery",
+  "formattedAddress": "4421 De Zavala Rd, San Antonio, TX 78249, USA",
+  "phone": "(210) 758-4007",
+  "internationalPhone": "+1 210-758-4007",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1573758951869016711",
+  "rating": 4.7,
+  "reviewCount": 228,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.5717265,
+    -98.573346
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 3:30 PM",
+    "Tuesday: Closed",
+    "Wednesday: 6:30 AM – 3:30 PM",
+    "Thursday: 6:30 AM – 3:30 PM",
+    "Friday: 6:30 AM – 3:30 PM",
+    "Saturday: 6:30 AM – 3:30 PM",
+    "Sunday: 6:30 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lacoste-bakery-san-antonio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:09:59.077Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "bakery-santa-rosalia-sorocaba",
+  "name": "Bakery Santa Rosalia",
+  "curatedName": "Bakery Santa Rosalia",
+  "city": "Sorocaba",
+  "country": "Brazil",
+  "placeId": "ChIJ6VNYM6-KxZQRoH-iRj8lZwE",
+  "googleName": "Bakery Santa Rosalia",
+  "formattedAddress": "R. Aparecida, 322 - Jardim Santa Rosália, Sorocaba - SP, 18095-000, Brazil",
+  "phone": "(15) 3331-2200",
+  "internationalPhone": "+55 15 3331-2200",
+  "website": "https://facebook.com/padariasantarosalia",
+  "googleMapsUrl": "https://maps.google.com/?cid=101090470337347488",
+  "rating": 4.4,
+  "reviewCount": 4972,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.490841,
+    -47.4539019
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-santa-rosalia-sorocaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:16:49.337Z"
+}

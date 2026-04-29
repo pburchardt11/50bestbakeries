@@ -1,0 +1,43 @@
+{
+  "slug": "out-of-the-bubble-bakery-springfield",
+  "name": "Out of the Bubble Bakery",
+  "curatedName": "Out of the Bubble Bakery",
+  "city": "Springfield",
+  "country": "United States",
+  "placeId": "ChIJ0Stkef9StokR-VfJWkeoqLA",
+  "googleName": "Out of the Bubble Bakery",
+  "formattedAddress": "6230-A Rolling Rd, Springfield, VA 22152, USA",
+  "phone": "(571) 336-2280",
+  "internationalPhone": "+1 571-336-2280",
+  "website": "http://www.obubblebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12729609371181996025",
+  "rating": 4.8,
+  "reviewCount": 189,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.78052,
+    -77.2365398
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/out-of-the-bubble-bakery-springfield/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:16:20.778Z"
+}

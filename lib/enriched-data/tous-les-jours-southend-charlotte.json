@@ -1,0 +1,43 @@
+{
+  "slug": "tous-les-jours-southend-charlotte",
+  "name": "Tous Les Jours Southend",
+  "curatedName": "Tous Les Jours Southend",
+  "city": "Charlotte",
+  "country": "United States",
+  "placeId": "ChIJzUkXAFKfVogRmG5VxgEakc8",
+  "googleName": "Tous Les Jours Southend",
+  "formattedAddress": "2041 South Blvd, Charlotte, NC 28203, USA",
+  "phone": "(704) 910-4320",
+  "internationalPhone": "+1 704-910-4320",
+  "website": "https://www.tljus.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14956764432398904984",
+  "rating": 4.3,
+  "reviewCount": 207,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.2085937,
+    -80.8596598
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-southend-charlotte/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:12:10.205Z"
+}

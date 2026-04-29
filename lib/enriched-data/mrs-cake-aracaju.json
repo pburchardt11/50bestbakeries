@@ -1,0 +1,43 @@
+{
+  "slug": "mrs-cake-aracaju",
+  "name": "Mrs. Cake",
+  "curatedName": "Mrs. Cake",
+  "city": "Aracaju",
+  "country": "Brazil",
+  "placeId": "ChIJC9BQ6AyzGgcRXVghOBHUuuc",
+  "googleName": "mrs cake",
+  "formattedAddress": "Rua Américo Curvelo, 34 - Salgado Filho, Aracaju - SE, 49020-470, Brazil",
+  "phone": "(79) 99112-2111",
+  "internationalPhone": "+55 79 99112-2111",
+  "website": "https://mrscake.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16697891738850777181",
+  "rating": 4.8,
+  "reviewCount": 346,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -10.9267837,
+    -37.0559522
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 4:44 PM",
+    "Wednesday: 8:00 AM – 4:44 PM",
+    "Thursday: 8:00 AM – 4:44 PM",
+    "Friday: 8:00 AM – 4:44 PM",
+    "Saturday: 8:00 AM – 4:44 PM",
+    "Sunday: 8:00 – 11:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mrs-cake-aracaju/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:25.267Z"
+}

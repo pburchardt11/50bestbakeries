@@ -1,0 +1,43 @@
+{
+  "slug": "doces-bidi-pelotas",
+  "name": "Doces Bidi",
+  "curatedName": "Doces Bidi",
+  "city": "Pelotas",
+  "country": "Brazil",
+  "placeId": "ChIJXd7TFKPKEZURqa4pfuBBH80",
+  "googleName": "Doces Bidi",
+  "formattedAddress": "R. Dr. Arnaldo da Silva Ferreira, 55 - Fragata, Pelotas - RS, 96040-050, Brazil",
+  "phone": "(53) 3274-5047",
+  "internationalPhone": "+55 53 3274-5047",
+  "website": "http://www.docesbidi.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14780604934498397865",
+  "rating": 4.8,
+  "reviewCount": 2295,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -31.7437606,
+    -52.3701265
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: 8:30 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/doces-bidi-pelotas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:16:08.145Z"
+}

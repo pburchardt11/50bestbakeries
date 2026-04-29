@@ -1,0 +1,44 @@
+{
+  "slug": "sirin-firin-bakery-beyoglu",
+  "name": "Sirin Firin Bakery",
+  "curatedName": "Sirin Firin Bakery",
+  "city": "Beyoğlu",
+  "country": "Türkiye",
+  "placeId": "ChIJSyPsAue5yhQRerB1kjwjZdA",
+  "googleName": "Sirin Firin Bakery",
+  "formattedAddress": "Şahkulu, Büyük Hendek Cd. No:16/A, 34420 Beyoğlu/İstanbul, Türkiye",
+  "phone": "(0212) 243 98 29",
+  "internationalPhone": "+90 212 243 98 29",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15016447275598983290",
+  "rating": 4.3,
+  "reviewCount": 1833,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0263511,
+    28.9734052
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sirin-firin-bakery-beyoglu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:14.395Z"
+}

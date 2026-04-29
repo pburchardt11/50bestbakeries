@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-schmid-admont",
+  "name": "Bäckerei Schmid",
+  "city": "Admont",
+  "country": "Austria",
+  "placeId": "ChIJz9vvkgedcUcRWzbPKoUNioQ",
+  "googleName": "Bäckerei Schmid",
+  "formattedAddress": "Hall 165, 8911 Hall, Austria",
+  "phone": "03613 2573",
+  "website": "http://www.baeckerei-schmid.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9550460825392592475",
+  "rating": 4.9,
+  "reviewCount": 33,
+  "coords": [
+    47.6028317,
+    14.4579707
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 PM, 3:00 – 6:00 PM",
+    "Tuesday: 6:00 AM – 12:00 PM, 3:00 – 6:00 PM",
+    "Wednesday: 6:00 AM – 12:00 PM, 3:00 – 6:00 PM",
+    "Thursday: 6:00 AM – 12:00 PM, 3:00 – 6:00 PM",
+    "Friday: 6:00 AM – 12:00 PM, 3:00 – 6:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-schmid-admont/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:31:53.316Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "huyen-ngan-bakery-thanh-hoa",
+  "name": "Huyền Ngân Bakery",
+  "curatedName": "Huyền Ngân Bakery",
+  "city": "Thanh Hóa",
+  "country": "Vietnam",
+  "placeId": "ChIJxQAhF_73NjERj20IWFwe7Xs",
+  "googleName": "Huyền Ngân Bakery",
+  "formattedAddress": "17 Đinh Công Tráng, P. Lam Sơn, Hạc Thành, Thanh Hóa, Vietnam",
+  "phone": "0917 551 111",
+  "internationalPhone": "+84 917 551 111",
+  "website": "http://www.huyennganbakery.vn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8929827018108333455",
+  "rating": 4.3,
+  "reviewCount": 416,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.8018731,
+    105.7777661
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/huyen-ngan-bakery-thanh-hoa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:56.157Z"
+}

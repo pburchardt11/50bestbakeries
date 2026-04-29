@@ -1,0 +1,44 @@
+{
+  "slug": "bakery-santa-cruz-rio-de-janeiro",
+  "name": "Bakery Santa Cruz",
+  "curatedName": "Bakery Santa Cruz",
+  "city": "Rio de Janeiro",
+  "country": "Brazil",
+  "placeId": "ChIJSWWrd15_mQAR2sYl5o7xsoE",
+  "googleName": "Confeitaria Colombo",
+  "formattedAddress": "R. Gonçalves Dias, 32 - Centro, Rio de Janeiro - RJ, 20050-030, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.confeitariacolombo.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9345797772796085978",
+  "rating": 4.4,
+  "reviewCount": 39006,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.9051966,
+    -43.1787459
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 6:00 PM",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "A century-old café with huge built-in mirrors & classic pastry-store snacks & sweets.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-santa-cruz-rio-de-janeiro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:12.393Z"
+}

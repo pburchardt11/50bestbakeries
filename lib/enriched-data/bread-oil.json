@@ -1,0 +1,32 @@
+{
+  "slug": "bread-oil",
+  "name": "Bread & Oil",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJR_WfXyzJ20YRtgySvFzqDCk",
+  "googleName": "Bread & Oil",
+  "formattedAddress": "vulica Lieanarda da Vinčy 1, Kopišča, Kopišča, Minskaja voblasć, Belarus",
+  "phone": "8 044 525-52-55",
+  "website": "http://bread.by/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2957996739297152182",
+  "rating": 4.5,
+  "reviewCount": 189,
+  "coords": [
+    53.95243499999999,
+    27.6670825
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:00 PM",
+    "Tuesday: 8:30 AM – 10:00 PM",
+    "Wednesday: 8:30 AM – 10:00 PM",
+    "Thursday: 8:30 AM – 10:00 PM",
+    "Friday: 8:30 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-oil/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:02:52.806Z"
+}

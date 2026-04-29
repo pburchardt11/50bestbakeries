@@ -1,0 +1,43 @@
+{
+  "slug": "blue-moon-bakehouse-christchurch",
+  "name": "Blue Moon Bakehouse",
+  "curatedName": "Blue Moon Bakehouse",
+  "city": "Christchurch",
+  "country": "New Zealand",
+  "placeId": "ChIJVVNuL_qLMW0RR4e9r_9-Vc0",
+  "googleName": "Blue Moon Bakehouse",
+  "formattedAddress": "70 Riccarton Road, Riccarton, Christchurch 8011, New Zealand",
+  "phone": "022 302 2197",
+  "internationalPhone": "+64 22 302 2197",
+  "website": "https://www.bluemoonbake.house/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14795871787425826631",
+  "rating": 4.6,
+  "reviewCount": 240,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -43.5291851,
+    172.6038964
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 8:30 AM – 7:00 PM",
+    "Sunday: 8:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blue-moon-bakehouse-christchurch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:18.125Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "dopes-blansko",
+  "name": "DOPES",
+  "city": "Blansko",
+  "country": "Czech Republic",
+  "placeId": "ChIJ9aSXAZqOEkcRFKFVMrWJ0OY",
+  "googleName": "DOPES, s.r.o. (prodejna Blansko)",
+  "formattedAddress": "Rožmitálova 36/36/2, 678 01 Blansko-Blansko 1, Czechia",
+  "phone": "606 460 890",
+  "website": "http://www.dopes.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16631944835205800212",
+  "rating": 4.8,
+  "reviewCount": 34,
+  "coords": [
+    49.3628662,
+    16.6438341
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 8:00 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dopes-blansko/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:17.762Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "gato-bakeshop-winnipeg",
+  "name": "Gâto Bakeshop",
+  "curatedName": "Gâto Bakeshop",
+  "city": "Winnipeg",
+  "country": "Canada",
+  "placeId": "ChIJgzhfOixz6lIRy-S1uOPNi-U",
+  "googleName": "Gâto Bakeshop",
+  "formattedAddress": "819 Sargent Ave, Winnipeg, MB R3E 0B9, Canada",
+  "phone": "(204) 583-4981",
+  "internationalPhone": "+1 204-583-4981",
+  "website": "https://www.gâtowpg.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16540540434388477131",
+  "rating": 4.6,
+  "reviewCount": 288,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.897094,
+    -97.169409
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gato-bakeshop-winnipeg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:27.621Z"
+}

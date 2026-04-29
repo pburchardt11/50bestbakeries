@@ -1,0 +1,44 @@
+{
+  "slug": "panarte-boutique-de-pan-bucaramanga",
+  "name": "PANARTE Boutique de Pan",
+  "curatedName": "PANARTE Boutique de Pan",
+  "city": "Bucaramanga",
+  "country": "Colombia",
+  "placeId": "ChIJZ4fCQuE_aI4Rnij0-2Awbmo",
+  "googleName": "PANARTE Boutique de Pan",
+  "formattedAddress": "Cra. 40 #48-58, Cabecera del llano, Bucaramanga, Santander, Colombia",
+  "phone": "302 4662690",
+  "internationalPhone": "+57 302 4662690",
+  "website": "https://panarteboutiquedepan.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7669120408560609438",
+  "rating": 4.5,
+  "reviewCount": 643,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    7.1165159,
+    -73.10628249999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panarte-boutique-de-pan-bucaramanga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:56.184Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "la-boulangerie-stuttgart",
+  "name": "La Boulangerie",
+  "curatedName": "La Boulangerie",
+  "city": "Stuttgart",
+  "country": "Germany",
+  "placeId": "ChIJA83H1DPbmUcR2PKrIoa4o6w",
+  "googleName": "La Boulangerie",
+  "formattedAddress": "Schwabstraße 127, 70193 Stuttgart, Germany",
+  "phone": "0172 7317311",
+  "internationalPhone": "+49 172 7317311",
+  "website": "http://laboulangerie-stuttgart.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12439989481974264536",
+  "rating": 4.8,
+  "reviewCount": 430,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.7779348,
+    9.1556102
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boulangerie-stuttgart/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:58.316Z"
+}

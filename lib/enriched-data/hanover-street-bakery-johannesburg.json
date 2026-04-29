@@ -1,0 +1,43 @@
+{
+  "slug": "hanover-street-bakery-johannesburg",
+  "name": "Hanover Street Bakery",
+  "curatedName": "Hanover Street Bakery",
+  "city": "Johannesburg",
+  "country": "South Africa",
+  "placeId": "ChIJFRVulFQJlR4RrmqS8ZIIdvM",
+  "googleName": "Hanover Street Bakery",
+  "formattedAddress": "10 Hanover St, Mayfair, Johannesburg, 2108, South Africa",
+  "phone": "011 839 3355",
+  "internationalPhone": "+27 11 839 3355",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17543218825679497902",
+  "rating": 4.2,
+  "reviewCount": 1878,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.2085969,
+    28.0168176
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hanover-street-bakery-johannesburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:02.717Z"
+}

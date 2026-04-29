@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-la-especial-veracruz",
+  "name": "Panadería La Especial",
+  "curatedName": "Panadería La Especial",
+  "city": "Veracruz",
+  "country": "Mexico",
+  "placeId": "ChIJyayD_bNGw4URA6fIG9e1bZ4",
+  "googleName": "Panadería La Especial",
+  "formattedAddress": "Esquina Campero, Av Miguel Alemán #331, Zona Centro, 91700 Veracruz, Ver., Mexico",
+  "phone": "229 931 8285",
+  "internationalPhone": "+52 229 931 8285",
+  "website": "http://www.facebook.com/panaderialaespecial",
+  "googleMapsUrl": "https://maps.google.com/?cid=11415980565942806275",
+  "rating": 4.5,
+  "reviewCount": 3546,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.1866321,
+    -96.13719429999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-especial-veracruz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:55:20.198Z"
+}

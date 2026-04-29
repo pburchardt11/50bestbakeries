@@ -1,0 +1,43 @@
+{
+  "slug": "pu-uwai-aloha-bakery-honolulu",
+  "name": "Pu'uwai Aloha Bakery",
+  "curatedName": "Pu'uwai Aloha Bakery",
+  "city": "Honolulu",
+  "country": "United States",
+  "placeId": "ChIJd1X9hcptAHwRkRpfoG1tMjc",
+  "googleName": "Pu'uwai Aloha Bakery",
+  "formattedAddress": "918 Smith St a, Honolulu, HI 96817, USA",
+  "phone": "(808) 631-7105",
+  "internationalPhone": "+1 808-631-7105",
+  "website": "http://puuwaialohabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3977361738531019409",
+  "rating": 4.8,
+  "reviewCount": 253,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.3108693,
+    -157.8642661
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pu-uwai-aloha-bakery-honolulu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:13:24.577Z"
+}

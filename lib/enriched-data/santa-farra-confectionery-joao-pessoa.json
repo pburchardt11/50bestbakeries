@@ -1,0 +1,45 @@
+{
+  "slug": "santa-farra-confectionery-joao-pessoa",
+  "name": "Santa Farra Confectionery",
+  "curatedName": "Santa Farra Confectionery",
+  "city": "João Pessoa",
+  "country": "Brazil",
+  "placeId": "ChIJn2Td7jfdrAcReoHKGppU7hI",
+  "googleName": "Santa Farra Confectionery",
+  "formattedAddress": "Rua Hevangelina Francisca Diniz, 62 - Brisamar, João Pessoa - PB, 58033-000, Brazil",
+  "phone": "(83) 99367-4965",
+  "internationalPhone": "+55 83 99367-4965",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1364120757991014778",
+  "rating": 4.6,
+  "reviewCount": 1940,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.1172707,
+    -34.8394841
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 8:00 PM",
+    "Tuesday: 12:00 – 8:00 PM",
+    "Wednesday: 12:00 – 8:00 PM",
+    "Thursday: 12:00 – 8:00 PM",
+    "Friday: 12:00 – 8:00 PM",
+    "Saturday: 12:00 – 8:00 PM",
+    "Sunday: 12:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santa-farra-confectionery-joao-pessoa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:41:56.858Z"
+}

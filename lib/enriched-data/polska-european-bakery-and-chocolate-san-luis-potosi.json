@@ -1,0 +1,44 @@
+{
+  "slug": "polska-european-bakery-and-chocolate-san-luis-potosi",
+  "name": "Polska European Bakery and Chocolate",
+  "curatedName": "Polska European Bakery and Chocolate",
+  "city": "San Luis Potosí",
+  "country": "Mexico",
+  "placeId": "ChIJ5YR2WyiZKoQRncOnsd_jZsg",
+  "googleName": "Polska European Bakery and Chocolate",
+  "formattedAddress": "Av. Cordillera de los Himalaya 319, Lomas 3ra Secc, 78216 San Luis Potosí, S.L.P., Mexico",
+  "phone": "444 825 2051",
+  "internationalPhone": "+52 444 825 2051",
+  "website": "https://polskaeuropeanbakeryandchocolate.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14440479805107848093",
+  "rating": 4.5,
+  "reviewCount": 1042,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.1392204,
+    -101.0282203
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/polska-european-bakery-and-chocolate-san-luis-potosi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:37.483Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "pasteleria-baklava-murcia",
+  "name": "Pastelería BAKLAVA",
+  "curatedName": "Pastelería BAKLAVA",
+  "city": "Murcia",
+  "country": "Spain",
+  "placeId": "ChIJDUcL7PqDYw0R66-Q_RDP81c",
+  "googleName": "Pastelería BAKLAVA",
+  "formattedAddress": "C. Ceballos, 5, 30003 Murcia, Spain",
+  "phone": "632 26 88 31",
+  "internationalPhone": "+34 632 26 88 31",
+  "website": "http://www.pasteleriabaklava.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6337636772520964075",
+  "rating": 5,
+  "reviewCount": 423,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.982979,
+    -1.1273458
+  ],
+  "openingHours": [
+    "Monday: 4:30 – 10:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 4:30 – 10:00 PM",
+    "Thursday: 4:30 – 10:00 PM",
+    "Friday: 4:30 – 10:00 PM",
+    "Saturday: 4:30 – 10:00 PM",
+    "Sunday: 4:30 – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-baklava-murcia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:57:59.232Z"
+}

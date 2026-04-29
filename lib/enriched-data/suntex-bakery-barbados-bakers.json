@@ -1,0 +1,32 @@
+{
+  "slug": "suntex-bakery-barbados-bakers",
+  "name": "Suntex Bakery Barbados",
+  "city": "Bakers",
+  "country": "Barbados",
+  "placeId": "ChIJNeKisIv3Q4wRz8iK1_sN8sM",
+  "googleName": "La Baguette",
+  "formattedAddress": "3CF9+56X, Highway 7, Bridgetown, Christ Church Barbados",
+  "phone": "(246) 850-2462",
+  "website": "https://www.labaguettebarbados.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14119363157064075471",
+  "rating": 4.8,
+  "reviewCount": 48,
+  "coords": [
+    13.0731615,
+    -59.5815017
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 1:30 PM",
+    "Thursday: 8:00 AM – 1:30 PM",
+    "Friday: 8:00 AM – 1:30 PM",
+    "Saturday: 8:00 AM – 1:30 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/suntex-bakery-barbados-bakers/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:53:43.009Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "zak-the-baker-miami",
+  "name": "Zak the Baker",
+  "curatedName": "Zak the Baker",
+  "city": "Miami",
+  "country": "United States",
+  "placeId": "ChIJMVmQ-LK22YgRXCFmM480oqw",
+  "googleName": "Zak the Baker",
+  "formattedAddress": "295 NW 26th St, Miami, FL 33127, USA",
+  "phone": "(786) 294-0876",
+  "internationalPhone": "+1 786-294-0876",
+  "website": "http://zakthebaker.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12439562910398030172",
+  "rating": 4.4,
+  "reviewCount": 2910,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.8016024,
+    -80.20096029999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Well-known, laid-back cafe with a hip vibe specializing in gourmet house-baked goods & light fare.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zak-the-baker-miami/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:08.230Z"
+}

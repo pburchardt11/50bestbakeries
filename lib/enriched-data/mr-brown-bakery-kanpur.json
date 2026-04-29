@@ -1,0 +1,43 @@
+{
+  "slug": "mr-brown-bakery-kanpur",
+  "name": "Mr. Brown Bakery",
+  "curatedName": "Mr. Brown Bakery",
+  "city": "Kanpur",
+  "country": "India",
+  "placeId": "ChIJB0e04as4nDkRFBZL6K9Wh2I",
+  "googleName": "Mr. Brown Bakery",
+  "formattedAddress": "No.16/12, near Mehfil Restaurant, Civil Lines, Kanpur, Uttar Pradesh 208001, India",
+  "phone": "0512 230 5603",
+  "internationalPhone": "+91 512 230 5603",
+  "website": "https://www.mrbrownbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7099738651089376788",
+  "rating": 4.2,
+  "reviewCount": 6921,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.4749395,
+    80.3604043
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mr-brown-bakery-kanpur/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:24.794Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "predela-veliko-tarnovo",
+  "name": "Predela",
+  "city": "Veliko Tarnovo",
+  "country": "Bulgaria",
+  "placeId": "ChIJy5S04x8mqUARs6Oi0wsVqfM",
+  "googleName": "Trapezitsa Fortress",
+  "formattedAddress": "Trapezitsa, ul. \"Trapezitsa\", 5000 Veliko Tarnovo, Bulgaria",
+  "phone": "088 843 0180",
+  "website": "https://www.museumvt.com/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3/%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D0%BE-%D0%BC%D1%83%D0%B7%D0%B5%D0%B5%D0%BD-%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%B0%D1%82--%D1%82%D1%80%D0%B0%D0%BF%D0%B5%D0%B7%D0%B8%D1%86%D0%B0-",
+  "googleMapsUrl": "https://maps.google.com/?cid=17557587762820064179",
+  "rating": 4.6,
+  "reviewCount": 2439,
+  "coords": [
+    43.0864198,
+    25.6465483
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Hilltop medieval fort featuring ruins, a tower & church with frescoes, plus a sound & light show.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/predela-veliko-tarnovo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:23:22.395Z"
+}

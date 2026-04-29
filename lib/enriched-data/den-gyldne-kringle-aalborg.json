@@ -1,0 +1,32 @@
+{
+  "slug": "den-gyldne-kringle-aalborg",
+  "name": "Den Gyldne Kringle",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJz7nTd3cySUYR8aNmr9KxR9w",
+  "googleName": "Den Gyldne Kringle",
+  "formattedAddress": "Thistedvej 85C, 9400 Nørresundby, Denmark",
+  "phone": "98 17 25 31",
+  "website": "http://www.dengyldnekringle.dk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15872850930134590449",
+  "rating": 4.5,
+  "reviewCount": 350,
+  "coords": [
+    57.0689351,
+    9.899297599999999
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 4:30 PM",
+    "Tuesday: 5:30 AM – 4:30 PM",
+    "Wednesday: 5:30 AM – 4:30 PM",
+    "Thursday: 5:30 AM – 4:30 PM",
+    "Friday: 5:30 AM – 4:30 PM",
+    "Saturday: 6:00 AM – 3:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/den-gyldne-kringle-aalborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:55:58.202Z"
+}

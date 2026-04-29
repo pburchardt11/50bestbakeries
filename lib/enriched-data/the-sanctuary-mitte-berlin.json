@@ -1,0 +1,43 @@
+{
+  "slug": "the-sanctuary-mitte-berlin",
+  "name": "The Sanctuary - Mitte",
+  "curatedName": "The Sanctuary - Mitte",
+  "city": "Berlin",
+  "country": "Germany",
+  "placeId": "ChIJWch6Ll5RqEcR37T0ArvNj3I",
+  "googleName": "The Sanctuary - Mitte",
+  "formattedAddress": "Torstraße 175, 10115 Berlin, Germany",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://thesanctuaryberlin.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8255042845085578463",
+  "rating": 4.5,
+  "reviewCount": 933,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.5289539,
+    13.3945684
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 7:00 PM",
+    "Tuesday: 9:30 AM – 7:00 PM",
+    "Wednesday: 9:30 AM – 7:00 PM",
+    "Thursday: 9:30 AM – 7:00 PM",
+    "Friday: 9:30 AM – 7:00 PM",
+    "Saturday: 9:30 AM – 7:00 PM",
+    "Sunday: 9:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-sanctuary-mitte-berlin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:05.662Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "jute-backerei-berlin",
+  "name": "Jute Bäckerei",
+  "curatedName": "Jute Bäckerei",
+  "city": "Berlin",
+  "country": "Germany",
+  "placeId": "ChIJi7MxzgFSqEcRAwCsUdZb988",
+  "googleName": "Jute Bäckerei",
+  "formattedAddress": "Schönhauser Allee 52A, 10437 Berlin, Germany",
+  "phone": "030 68006558",
+  "internationalPhone": "+49 30 68006558",
+  "website": "http://www.jute-bäckerei.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14985547261149970435",
+  "rating": 4.4,
+  "reviewCount": 769,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.5430114,
+    13.4127993
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: 8:30 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Tiny bakery & cafe offering rustic, gluten-free organic breads, muffins & brownies, plus sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jute-backerei-berlin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:01.072Z"
+}

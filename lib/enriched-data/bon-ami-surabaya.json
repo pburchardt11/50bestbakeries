@@ -1,0 +1,42 @@
+{
+  "slug": "bon-ami-surabaya",
+  "name": "Bon Ami",
+  "curatedName": "Bon Ami",
+  "city": "Surabaya",
+  "country": "Indonesia",
+  "placeId": "ChIJk_ID-Lb71y0RNAXocH8IJIw",
+  "googleName": "Bon Ami Restaurant - Dharmahusada",
+  "formattedAddress": "Jl. Raya Dharma Husada Indah No.104 Blok AA19, Mojo, Kec. Gubeng, Surabaya, Jawa Timur 60285, Indonesia",
+  "phone": "0889-9108-5165",
+  "internationalPhone": "+62 889-9108-5165",
+  "website": "http://bonamigroup.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10098205607919617332",
+  "rating": 4.6,
+  "reviewCount": 749,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.2770603,
+    112.7723166
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bon-ami-surabaya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:38:48.949Z"
+}

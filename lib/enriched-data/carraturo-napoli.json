@@ -1,0 +1,44 @@
+{
+  "slug": "carraturo-napoli",
+  "name": "Carraturo",
+  "curatedName": "Carraturo",
+  "city": "Napoli",
+  "country": "Italy",
+  "placeId": "ChIJV8FmDRQIOxMRMRKO0SS7_k8",
+  "googleName": "Carraturo",
+  "formattedAddress": "Via Casanova, 97, 80139 Napoli NA, Italy",
+  "phone": "081 554 5364",
+  "internationalPhone": "+39 081 554 5364",
+  "website": "http://www.carraturo.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5764250339889779249",
+  "rating": 4.3,
+  "reviewCount": 984,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.8551066,
+    14.2673261
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Storied bakery crafting traditional Italian pastries, cookies & confections since 1837.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/carraturo-napoli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:49.673Z"
+}

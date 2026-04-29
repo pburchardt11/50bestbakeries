@@ -1,0 +1,43 @@
+{
+  "slug": "le-d-or",
+  "name": "Le d'Or",
+  "curatedName": "Le d'Or",
+  "city": "ঢাকা",
+  "country": "Bangladesh",
+  "placeId": "ChIJXyubXADHVTcR7L3K22n1i1Q",
+  "googleName": "Le d'Or",
+  "formattedAddress": "Plot No: 118, Road No: Rangs Z Square, Gulshan Ave, Dhaka 1212, Bangladesh",
+  "phone": "01302-055511",
+  "internationalPhone": "+880 1302-055511",
+  "website": "https://ledor.club/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6092232755956596204",
+  "rating": 4.3,
+  "reviewCount": 301,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.7895703,
+    90.41654869999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 AM",
+    "Tuesday: 8:00 AM – 2:00 AM",
+    "Wednesday: 8:00 AM – 2:00 AM",
+    "Thursday: 8:00 AM – 2:00 AM",
+    "Friday: 8:00 AM – 2:00 AM",
+    "Saturday: 8:00 AM – 2:00 AM",
+    "Sunday: 8:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-d-or/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:23.086Z"
+}

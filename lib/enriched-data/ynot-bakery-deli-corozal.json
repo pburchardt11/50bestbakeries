@@ -1,0 +1,32 @@
+{
+  "slug": "ynot-bakery-deli-corozal",
+  "name": "Ynot Bakery & Deli",
+  "city": "Corozal",
+  "country": "Belize",
+  "placeId": "ChIJqcRi0UGWW48R7ibSU9TFsfk",
+  "googleName": "Y not Bakery",
+  "formattedAddress": "9JV9+G96, Corozal, Belize",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17992379502051862254",
+  "rating": 4.6,
+  "reviewCount": 101,
+  "coords": [
+    18.3937915,
+    -88.38159979999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ynot-bakery-deli-corozal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:08:01.526Z"
+}

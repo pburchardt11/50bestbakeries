@@ -1,0 +1,44 @@
+{
+  "slug": "emporio-firenze-jundiai",
+  "name": "Empório Firenze",
+  "curatedName": "Empório Firenze",
+  "city": "Jundiaí",
+  "country": "Brazil",
+  "placeId": "ChIJiR30Ibsnz5QRCCQWfNxPAcs",
+  "googleName": "Empório Firenze",
+  "formattedAddress": "R. João Chiaramonte, 161 - Caxambu, Jundiaí - SP, 13218-670, Brazil",
+  "phone": "(11) 4584-0202",
+  "internationalPhone": "+55 11 4584-0202",
+  "website": "https://www.facebook.com/emporiofirenze/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14628060873069306888",
+  "rating": 4.6,
+  "reviewCount": 807,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.153902,
+    -46.8516849
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/emporio-firenze-jundiai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:51.427Z"
+}

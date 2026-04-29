@@ -1,0 +1,43 @@
+{
+  "slug": "panificadora-la-providencia-xalapa-de-enriquez",
+  "name": "Panificadora la Providencia",
+  "curatedName": "Panificadora la Providencia",
+  "city": "Xalapa de Enríquez",
+  "country": "Mexico",
+  "placeId": "ChIJ63ELPxIu24UR2bwn8UypT1s",
+  "googleName": "Panificadora la Providencia",
+  "formattedAddress": "Mártires del 28 de Agosto 907, Francisco Ferrer Guardia, 91026 Xalapa-Enríquez, Ver., Mexico",
+  "phone": "228 814 3383",
+  "internationalPhone": "+52 228 814 3383",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6579663728540105945",
+  "rating": 4.5,
+  "reviewCount": 4407,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.5441584,
+    -96.93821129999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-la-providencia-xalapa-de-enriquez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:55:01.378Z"
+}

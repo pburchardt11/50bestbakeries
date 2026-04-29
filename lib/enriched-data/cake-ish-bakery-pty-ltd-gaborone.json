@@ -1,0 +1,32 @@
+{
+  "slug": "cake-ish-bakery-pty-ltd-gaborone",
+  "name": "Cake'ish bakery Pty Ltd",
+  "city": "Gaborone",
+  "country": "Botswana",
+  "placeId": "ChIJT9V6pgxbux4R-S3cDpmJB8k",
+  "googleName": "Cake'ish bakery",
+  "formattedAddress": "Broadhurst, Gaborone, Botswana",
+  "phone": "75 424 188",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14485698016932802041",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -24.6263953,
+    25.9352822
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 6:00 PM",
+    "Tuesday: 9:30 AM – 6:00 PM",
+    "Wednesday: 9:30 AM – 6:00 PM",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-ish-bakery-pty-ltd-gaborone/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:18:56.421Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "lord-stow-s-bakery",
+  "name": "Lord Stow's Bakery",
+  "curatedName": "Lord Stow's Bakery",
+  "city": "大阪市中央区",
+  "country": "Japan",
+  "placeId": "ChIJ4S_zokznAGARW4lIfS5IPAs",
+  "googleName": "Lord Stow’s Bakery (Ken’s Papa Marron)",
+  "formattedAddress": "1-chōme-10-6 Dōtonbori, Chuo Ward, Osaka, 542-0077, Japan",
+  "phone": "06-6214-3699",
+  "internationalPhone": "+81 6-6214-3699",
+  "website": "https://www.eggtart.jp/",
+  "googleMapsUrl": "https://maps.google.com/?cid=809601397527447899",
+  "rating": 4.5,
+  "reviewCount": 512,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_TEMPORARILY",
+  "coords": [
+    34.6687797,
+    135.5007553
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lord-stow-s-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:22:08.422Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "kringle-danish-bakery-limited-sheffield",
+  "name": "Kringle Danish Bakery limited",
+  "curatedName": "Kringle Danish Bakery limited",
+  "city": "Sheffield",
+  "country": "United Kingdom",
+  "placeId": "ChIJLQfQZAmBeUgRc9LuipVjgiA",
+  "googleName": "Kringle Danish Bakery limited",
+  "formattedAddress": "Ringinglow Rd, Bents Green, Sheffield S11 7PU, UK",
+  "phone": "0114 698 2861",
+  "internationalPhone": "+44 114 698 2861",
+  "website": "http://www.kringle.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2342544250118263411",
+  "rating": 4.9,
+  "reviewCount": 244,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.3550252,
+    -1.5266289
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:30 AM – 4:00 PM",
+    "Wednesday: 6:30 AM – 4:00 PM",
+    "Thursday: 6:30 AM – 4:00 PM",
+    "Friday: 6:30 AM – 4:00 PM",
+    "Saturday: 6:30 AM – 2:00 PM",
+    "Sunday: 6:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kringle-danish-bakery-limited-sheffield/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:37.522Z"
+}

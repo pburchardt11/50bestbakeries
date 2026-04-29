@@ -1,0 +1,32 @@
+{
+  "slug": "deseo-s-pavlova-cochabamba",
+  "name": "Deseo's Pavlova",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJbTS3B6Fz45MRILNQDsuOckA",
+  "googleName": "Deseo's Pavlova",
+  "formattedAddress": "General Achá #535, C. Falsuri y, Cochabamba, Bolivia",
+  "phone": "77985204",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4643931168542077728",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -17.3943116,
+    -66.1633635
+  ],
+  "openingHours": [
+    "Monday: 2:00 – 11:30 PM",
+    "Tuesday: 2:00 – 11:30 PM",
+    "Wednesday: 2:00 – 11:30 PM",
+    "Thursday: 2:00 – 11:30 PM",
+    "Friday: 2:00 – 11:30 PM",
+    "Saturday: 2:00 – 11:30 PM",
+    "Sunday: 2:00 – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/deseo-s-pavlova-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:14:19.271Z"
+}

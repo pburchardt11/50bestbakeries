@@ -1,0 +1,43 @@
+{
+  "slug": "confeitaria-do-bbzao-duque-de-caxias",
+  "name": "Confeitaria do Bbzão",
+  "curatedName": "Confeitaria do Bbzão",
+  "city": "Duque de Caxias",
+  "country": "Brazil",
+  "placeId": "ChIJJ1PZK197mQAR60iSbyCC8C8",
+  "googleName": "Confeitaria do Bbzão",
+  "formattedAddress": "R Professor José de Souza Herdy, 532 - Loja A - 25 de Agosto, Duque de Caxias - RJ, 25075-142, Brazil",
+  "phone": "(21) 98277-9203",
+  "internationalPhone": "+55 21 98277-9203",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3454403990015592683",
+  "rating": 4.9,
+  "reviewCount": 143,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.7921464,
+    -43.300449
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-do-bbzao-duque-de-caxias/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:25.712Z"
+}

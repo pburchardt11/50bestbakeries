@@ -1,0 +1,46 @@
+{
+  "slug": "the-bakers-rio-de-janeiro",
+  "name": "The Bakers",
+  "curatedName": "The Bakers",
+  "city": "Rio de Janeiro",
+  "country": "Brazil",
+  "placeId": "ChIJC51wwkTVmwARj-Oe5Sj7icA",
+  "googleName": "The Bakers",
+  "formattedAddress": "R. Santa Clara, 86 - Loja B - Copacabana, Rio de Janeiro - RJ, 22041-010, Brazil",
+  "phone": "(21) 3209-1212",
+  "internationalPhone": "+55 21 3209-1212",
+  "website": "https://thebakers.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13873896280161182607",
+  "rating": 4.5,
+  "reviewCount": 7346,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.9708782,
+    -43.1875661
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "A New York-style deli that offers event catering & serves breakfast, sandwiches & a variety of pies.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakers-rio-de-janeiro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:05.098Z"
+}

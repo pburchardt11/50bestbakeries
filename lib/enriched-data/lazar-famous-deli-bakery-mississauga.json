@@ -1,0 +1,45 @@
+{
+  "slug": "lazar-famous-deli-bakery-mississauga",
+  "name": "Lazar Famous Deli & Bakery",
+  "curatedName": "Lazar Famous Deli & Bakery",
+  "city": "Mississauga",
+  "country": "Canada",
+  "placeId": "ChIJdwEoidlGK4gRmXErmr4jV9g",
+  "googleName": "Lazar Famous Deli & Bakery",
+  "formattedAddress": "325 Central Pkwy W Unit 12, Mississauga, ON L5B 3X9, Canada",
+  "phone": "(905) 896-1040",
+  "internationalPhone": "+1 905-896-1040",
+  "website": "http://www.lazarbakery.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15588967936703558041",
+  "rating": 4.5,
+  "reviewCount": 3067,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.5828084,
+    -79.6376252
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Specializing in Portuguese and Italian bread & pastries, this shop & cafe also carries groceries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lazar-famous-deli-bakery-mississauga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:07.216Z"
+}

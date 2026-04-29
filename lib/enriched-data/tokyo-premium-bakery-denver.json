@@ -1,0 +1,43 @@
+{
+  "slug": "tokyo-premium-bakery-denver",
+  "name": "Tokyo Premium Bakery",
+  "curatedName": "Tokyo Premium Bakery",
+  "city": "Denver",
+  "country": "United States",
+  "placeId": "ChIJQagSc6J_bIcRhHDLKaylxlA",
+  "googleName": "Tokyo Premium Bakery",
+  "formattedAddress": "1540 S Pearl St, Denver, CO 80210, USA",
+  "phone": "(720) 531-3784",
+  "internationalPhone": "+1 720-531-3784",
+  "website": "http://tokyopremiumbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5820521727277101188",
+  "rating": 4.8,
+  "reviewCount": 1031,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.6886075,
+    -104.9802243
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: 6:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tokyo-premium-bakery-denver/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:01.655Z"
+}

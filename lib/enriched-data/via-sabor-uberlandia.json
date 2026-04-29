@@ -1,0 +1,45 @@
+{
+  "slug": "via-sabor-uberlandia",
+  "name": "Via Sabor",
+  "curatedName": "Via Sabor",
+  "city": "Uberlândia",
+  "country": "Brazil",
+  "placeId": "ChIJm8iLDBpFpJQRLocucaRRO1M",
+  "googleName": "Via Sabor",
+  "formattedAddress": "R. São Francisco de Assis, 118 - Vigilato Pereira, Uberlândia - MG, 38408-608, Brazil",
+  "phone": "(34) 3224-0633",
+  "internationalPhone": "+55 34 3224-0633",
+  "website": "http://www.viasabor.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5997477095489308462",
+  "rating": 4.4,
+  "reviewCount": 2303,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -18.9316207,
+    -48.2698514
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/via-sabor-uberlandia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:16:19.949Z"
+}

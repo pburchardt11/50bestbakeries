@@ -1,0 +1,43 @@
+{
+  "slug": "la-buena-tradicion-alvaro-obregon",
+  "name": "La Buena Tradición",
+  "curatedName": "La Buena Tradición",
+  "city": "Álvaro Obregón",
+  "country": "Mexico",
+  "placeId": "ChIJ1zGETVYA0oURpjAz1QTg_9U",
+  "googleName": "La Buena Tradición",
+  "formattedAddress": "Av. Puerto Mazatlán 183, Piloto Adolfo López Mateos, Álvaro Obregón, 01290 Ciudad de México, CDMX, Mexico",
+  "phone": "55 1285 3718",
+  "internationalPhone": "+52 55 1285 3718",
+  "website": "http://www.labuenatradicion.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15420289960501260454",
+  "rating": 4.5,
+  "reviewCount": 1084,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.3696138,
+    -99.23285600000001
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 9:00 PM",
+    "Tuesday: 10:30 AM – 9:00 PM",
+    "Wednesday: 10:30 AM – 9:00 PM",
+    "Thursday: 10:30 AM – 9:00 PM",
+    "Friday: 10:30 AM – 9:00 PM",
+    "Saturday: 10:30 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-buena-tradicion-alvaro-obregon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:55:04.000Z"
+}

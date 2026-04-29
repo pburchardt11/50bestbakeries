@@ -1,0 +1,44 @@
+{
+  "slug": "anna-caprices-pastelerias-cancun",
+  "name": "Anna caprices PASTELERIAS",
+  "curatedName": "Anna caprices PASTELERIAS",
+  "city": "Cancún",
+  "country": "Mexico",
+  "placeId": "ChIJb_4y73ssTI8RmOwJ3YFiPQo",
+  "googleName": "Anna caprices PASTELERIAS",
+  "formattedAddress": "Av. Kabah manzana 7, 77517 Cancún, Q.R., Mexico",
+  "phone": "998 840 3130",
+  "internationalPhone": "+52 998 840 3130",
+  "website": "https://www.instagram.com/caprichosdeannamx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=737854223857347736",
+  "rating": 4.4,
+  "reviewCount": 756,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1668473,
+    -86.8563301
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/anna-caprices-pastelerias-cancun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:14.227Z"
+}

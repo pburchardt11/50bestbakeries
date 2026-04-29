@@ -1,0 +1,32 @@
+{
+  "slug": "la-petrofina-9-de-julio",
+  "name": "La Petrofina",
+  "city": "9 de Julio",
+  "country": "Argentina",
+  "placeId": "ChIJ_2u9FcgNv5URaGpYXoung-0",
+  "googleName": "La Petrofina",
+  "formattedAddress": "Ramón N. Poratti 1132, B6500 9 de Julio, Provincia de Buenos Aires, Argentina",
+  "phone": "02317 57-5559",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17114707225963162216",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    -35.4408714,
+    -60.8858485
+  ],
+  "openingHours": [
+    "Monday: 4:00 – 8:00 PM",
+    "Tuesday: 4:00 – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 4:00 – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-petrofina-9-de-julio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:21:30.019Z"
+}

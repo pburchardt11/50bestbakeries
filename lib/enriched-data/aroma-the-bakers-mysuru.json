@@ -1,0 +1,43 @@
+{
+  "slug": "aroma-the-bakers-mysuru",
+  "name": "Aroma The Bakers",
+  "curatedName": "Aroma The Bakers",
+  "city": "Mysuru",
+  "country": "India",
+  "placeId": "ChIJbUdHxcB6rzsR0aDmlUDwwmE",
+  "googleName": "Aroma The Bakers",
+  "formattedAddress": "# 130/1-A-1, Near AIISH, Telecom Layout, Bogadi Rd, Gangothri Layout, Mysuru, Karnataka 570009, India",
+  "phone": "0821 424 4442",
+  "internationalPhone": "+91 821 424 4442",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7044456927344369873",
+  "rating": 4.1,
+  "reviewCount": 3554,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.3069171,
+    76.6160737
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 2:00 AM",
+    "Tuesday: 9:00 AM – 2:00 AM",
+    "Wednesday: 9:00 AM – 2:00 AM",
+    "Thursday: 9:00 AM – 2:00 AM",
+    "Friday: 9:00 AM – 2:00 AM",
+    "Saturday: 9:00 AM – 2:00 AM",
+    "Sunday: 9:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aroma-the-bakers-mysuru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:38:29.162Z"
+}

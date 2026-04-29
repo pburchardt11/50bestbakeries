@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-yerevan",
+  "name": "Cinnabon",
+  "city": "Yerevan",
+  "country": "Armenia",
+  "placeId": "ChIJ8SfXUeO8akARFuuz-Zi9yB4",
+  "googleName": "Cinnabon",
+  "formattedAddress": "1/3 Abovyan Street Ереван, Армения Abovyan, 36 str, Yerevan 0001, Armenia",
+  "phone": "093 545903",
+  "website": "http://www.cinnabon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2218231281201965846",
+  "rating": 4,
+  "reviewCount": 284,
+  "coords": [
+    40.1799799,
+    44.5141581
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 10:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": "Counter-serve chain serving cinnamon rolls plus other baked goods & specialty frozen beverages.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnabon-yerevan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:21:47.039Z"
+}

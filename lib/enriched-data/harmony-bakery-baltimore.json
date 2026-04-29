@@ -1,0 +1,43 @@
+{
+  "slug": "harmony-bakery-baltimore",
+  "name": "Harmony Bakery",
+  "curatedName": "Harmony Bakery",
+  "city": "Baltimore",
+  "country": "United States",
+  "placeId": "ChIJOYwyHdgEyIkRj0SyUB0lYZw",
+  "googleName": "Harmony Bakery",
+  "formattedAddress": "3446 Chestnut Ave, Baltimore, MD 21211, USA",
+  "phone": "(410) 235-3870",
+  "internationalPhone": "+1 410-235-3870",
+  "website": "http://harmonybakery.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11268328550495831183",
+  "rating": 4.8,
+  "reviewCount": 517,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.329825,
+    -76.629588
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 2:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Compact spot with a few outdoor tables & menu of gluten-free desserts, pastries & light bites.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/harmony-bakery-baltimore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:13:37.963Z"
+}

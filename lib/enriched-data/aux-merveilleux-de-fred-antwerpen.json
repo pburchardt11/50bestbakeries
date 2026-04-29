@@ -1,0 +1,35 @@
+{
+  "slug": "aux-merveilleux-de-fred-antwerpen",
+  "name": "Aux Merveilleux de Fred",
+  "curatedName": "Aux Merveilleux de Fred",
+  "city": "Antwerpen",
+  "country": "Belgium",
+  "placeId": "ChIJpyleHqH3w0cRIM1Mtvcc2gk",
+  "googleName": "Aux Merveilleux de Fred",
+  "formattedAddress": "Huidevettersstraat 26, 2000 Antwerpen, Belgium",
+  "phone": "03 887 74 66",
+  "internationalPhone": "+32 3 887 74 66",
+  "website": "http://www.auxmerveilleux.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=709911741505260832",
+  "rating": 4.6,
+  "reviewCount": 117,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    51.21749399999999,
+    4.405284600000001
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aux-merveilleux-de-fred-antwerpen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:51.975Z"
+}

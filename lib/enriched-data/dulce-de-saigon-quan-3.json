@@ -1,0 +1,45 @@
+{
+  "slug": "dulce-de-saigon-quan-3",
+  "name": "Dulce de Saigon",
+  "curatedName": "Dulce de Saigon",
+  "city": "Quận 3",
+  "country": "Vietnam",
+  "placeId": "ChIJSaRb1CYvdTERU8axGNdAFxE",
+  "googleName": "Dulce de Saigon",
+  "formattedAddress": "382/15 Nguyễn Thị Minh Khai, Phường 05, Bàn Cờ, Hồ Chí Minh, Vietnam",
+  "phone": "0903 305 993",
+  "internationalPhone": "+84 903 305 993",
+  "website": "https://dulcedesaigon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1231524315685570131",
+  "rating": 4.7,
+  "reviewCount": 585,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7722513,
+    106.6873497
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dulce-de-saigon-quan-3/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:30.411Z"
+}

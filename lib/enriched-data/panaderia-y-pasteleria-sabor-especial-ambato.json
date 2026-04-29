@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-pasteleria-sabor-especial-ambato",
+  "name": "Panadería y Pastelería Sabor Especial",
+  "city": "Ambato",
+  "country": "Ecuador",
+  "placeId": "ChIJ-3D-sCCC05ER6b3alQmo5Qo",
+  "googleName": "Panadería & Pastelería Sabor Especial",
+  "formattedAddress": "Víctor Hugo, 180103 Ambato, Ecuador",
+  "phone": "099 897 6352",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=785218469168332265",
+  "rating": 4.5,
+  "reviewCount": 17,
+  "coords": [
+    -1.2645694,
+    -78.6291047
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:30 PM",
+    "Tuesday: 6:30 AM – 10:30 PM",
+    "Wednesday: 6:30 AM – 10:30 PM",
+    "Thursday: 6:30 AM – 10:30 PM",
+    "Friday: 6:30 AM – 10:30 PM",
+    "Saturday: 7:00 AM – 10:30 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-pasteleria-sabor-especial-ambato/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:59:50.671Z"
+}

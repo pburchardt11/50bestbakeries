@@ -1,0 +1,32 @@
+{
+  "slug": "bugaca-greke-korce",
+  "name": "Bugaca Greke",
+  "city": "Korçë",
+  "country": "Albania",
+  "placeId": "ChIJd2C8-AMLWhMRsKAQZHrPnm4",
+  "googleName": "Bugaca Greke",
+  "formattedAddress": "JQFJ+53W Pranë Zaharait, Bulevardi Gjergj Kastrioti, Korçë 7001, Albania",
+  "phone": "069 424 3120",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7971036515064127664",
+  "rating": 5,
+  "reviewCount": 7,
+  "coords": [
+    40.6228844,
+    20.7800734
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 3:30 PM",
+    "Tuesday: 6:30 AM – 3:30 PM",
+    "Wednesday: 6:30 AM – 3:30 PM",
+    "Thursday: 6:30 AM – 3:30 PM",
+    "Friday: 6:30 AM – 3:30 PM",
+    "Saturday: 6:30 AM – 3:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bugaca-greke-korce/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:52.008Z"
+}

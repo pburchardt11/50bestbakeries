@@ -1,0 +1,32 @@
+{
+  "slug": "byens-br-d-og-kager-aalborg",
+  "name": "Byens brød og kager",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJl1xyA5sySUYRAi_uY1a1h8E",
+  "googleName": "Byens Brød og Kager",
+  "formattedAddress": "Østergade 57, 9400 Nørresundby, Denmark",
+  "phone": "98 17 14 54",
+  "website": "https://m.facebook.com/Byensbroedogkager/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13945314153824399106",
+  "rating": 4.5,
+  "reviewCount": 459,
+  "coords": [
+    57.0607268,
+    9.9345494
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:30 AM – 4:00 PM",
+    "Sunday: 6:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/byens-br-d-og-kager-aalborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:38.445Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "bakers-reynosa",
+  "name": "Bakers Reynosa",
+  "curatedName": "Bakers Reynosa",
+  "city": "Reynosa",
+  "country": "Mexico",
+  "placeId": "ChIJd7J_VwAPZYYRG4wmE2enD5w",
+  "googleName": "Bakers reynosa",
+  "formattedAddress": "Blvd. Hidalgo 111, Fuentes del Valle, 88746 Reynosa, Tamps., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/bakers_reynosa?igsh=MTg1Z3J6MXEybDkweg==",
+  "googleMapsUrl": "https://maps.google.com/?cid=11245390855712181275",
+  "rating": 4.6,
+  "reviewCount": 47,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.0673129,
+    -98.3378673
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-reynosa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:37.426Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "the-little-tart-bakeshop-atlanta",
+  "name": "The Little Tart Bakeshop",
+  "curatedName": "The Little Tart Bakeshop",
+  "city": "Atlanta",
+  "country": "United States",
+  "placeId": "ChIJST77ee0D9YgRW_bpabTN9V8",
+  "googleName": "The Little Tart Bakeshop",
+  "formattedAddress": "437 Memorial Dr SE, Atlanta, GA 30312, USA",
+  "phone": "(404) 348-4797",
+  "internationalPhone": "+1 404-348-4797",
+  "website": "http://www.littletartatl.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6914658977652012635",
+  "rating": 4.6,
+  "reviewCount": 719,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.7462314,
+    -84.3728158
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM, 5:00 – 9:00 PM"
+  ],
+  "editorialSummary": "French-inspired pastry shop offering handmade eats & treats from crème fraiche quiche to tarts.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-little-tart-bakeshop-atlanta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:11:56.855Z"
+}

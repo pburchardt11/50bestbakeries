@@ -1,0 +1,43 @@
+{
+  "slug": "elina-patisserie-ottawa",
+  "name": "Elina Patisserie",
+  "curatedName": "Elina Patisserie",
+  "city": "Ottawa",
+  "country": "Canada",
+  "placeId": "ChIJhysx3xMFzkwRoYJl726zaGU",
+  "googleName": "Elina Patisserie",
+  "formattedAddress": "443a Sussex Dr, Ottawa, ON K1N 6Z4, Canada",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://elinapatisserie.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7307287684452811425",
+  "rating": 4.7,
+  "reviewCount": 421,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4285751,
+    -75.6958178
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: 11:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elina-patisserie-ottawa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:05.630Z"
+}

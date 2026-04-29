@@ -1,0 +1,43 @@
+{
+  "slug": "birds-bakery-burton-on-trent",
+  "name": "Birds Bakery",
+  "curatedName": "Birds Bakery",
+  "city": "Burton on Trent",
+  "country": "United Kingdom",
+  "placeId": "ChIJx9wyJ-0CekgR2bX5zOqfBjY",
+  "googleName": "Birds Bakery in Burton",
+  "formattedAddress": "196 Station St, Burton upon Trent, Burton-on-Trent DE14 1AN, UK",
+  "phone": "01283 540764",
+  "internationalPhone": "+44 1283 540764",
+  "website": "http://birdsbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3892974758718453209",
+  "rating": 4.6,
+  "reviewCount": 145,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.8030899,
+    -1.6306601
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Specialist chain for bread, cakes & savoury pastries, plus takeaway sandwiches & lunchtime snacks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/birds-bakery-burton-on-trent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:30.645Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "cakes-and-memories-bakeshop-bacoor",
+  "name": "Cakes and Memories Bakeshop",
+  "curatedName": "Cakes and Memories Bakeshop",
+  "city": "Bacoor",
+  "country": "Philippines",
+  "placeId": "ChIJcxWa7tHTlzMRK8a_dsAXJpg",
+  "googleName": "Cakes and Memories Bakeshop",
+  "formattedAddress": "Avenida Rizal, Beside Iglesia ni Cristo Chapel, Infront of Mcdonalds Bahayang Pag-asa Subdivision, Molino III, Bacoor, 4126 Cavite, Philippines",
+  "phone": "(046) 571 2340",
+  "internationalPhone": "+63 46 571 2340",
+  "website": "https://www.facebook.com/cakesandmemoriesmolino/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10963476458273490475",
+  "rating": 4.4,
+  "reviewCount": 31,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.3983397,
+    120.9770755
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-and-memories-bakeshop-bacoor/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:00.529Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "acukape-restaurante-e-cafe-maringa",
+  "name": "Açukapê Restaurante e Café",
+  "curatedName": "Açukapê Restaurante e Café",
+  "city": "Maringá",
+  "country": "Brazil",
+  "placeId": "ChIJRR9JM_bQ7JQRI4XA9N7ygqA",
+  "googleName": "Açukapê Restaurante e Café",
+  "formattedAddress": "R. Santos Dumont, 2543 - Zona 01, Maringá - PR, 87013-050, Brazil",
+  "phone": "(44) 99991-3597",
+  "internationalPhone": "+55 44 99991-3597",
+  "website": "https://www.facebook.com/Acukape",
+  "googleMapsUrl": "https://maps.google.com/?cid=11566073832443774243",
+  "rating": 4.6,
+  "reviewCount": 1882,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.4220141,
+    -51.9375203
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/acukape-restaurante-e-cafe-maringa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:19.771Z"
+}

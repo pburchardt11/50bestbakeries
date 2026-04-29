@@ -1,0 +1,24 @@
+{
+  "slug": "the-project-house-bakery-hopkins",
+  "name": "The Project House Bakery",
+  "city": "Hopkins",
+  "country": "Belize",
+  "placeId": "ChIJA2kTt5OZXY8RGQYjj17CQck",
+  "googleName": "The Project House Bakery",
+  "formattedAddress": "Belen Street, Belmopan, Belize",
+  "phone": "626-5564",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14502085986493859353",
+  "rating": 4.8,
+  "reviewCount": 17,
+  "coords": [
+    17.2486353,
+    -88.7492933
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-project-house-bakery-hopkins/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:08:22.016Z"
+}

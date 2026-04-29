@@ -1,0 +1,32 @@
+{
+  "slug": "bourne-sweet-bahamas-nassau",
+  "name": "Bourne Sweet Bahamas",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJC7W9ZLZ9L4kRSdVAkq4wH7s",
+  "googleName": "Bourne Sweet Bahamas",
+  "formattedAddress": "High Vista Dr, Nassau, The Bahamas",
+  "phone": "(242) 427-9338",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13483549335706719561",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    25.0554605,
+    -77.2956476
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bourne-sweet-bahamas-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:41:21.616Z"
+}

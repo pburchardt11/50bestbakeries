@@ -1,0 +1,43 @@
+{
+  "slug": "ham-bakery-odunpazar",
+  "name": "Ham Bakery",
+  "curatedName": "Ham Bakery",
+  "city": "Odunpazarı",
+  "country": "Türkiye",
+  "placeId": "ChIJbWBlqpYXzBQR7-2o1Df5hPs",
+  "googleName": "Ham Bakery",
+  "formattedAddress": "Akarbaşı, Atatürk Blv. No:209 D:1B, 26020 Odunpazarı/Eskişehir, Türkiye",
+  "phone": "0507 032 65 15",
+  "internationalPhone": "+90 507 032 65 15",
+  "website": "https://hambakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18123884818632076783",
+  "rating": 4.9,
+  "reviewCount": 85,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.7609472,
+    30.4990349
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:30 PM",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ham-bakery-odunpazar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:55.593Z"
+}

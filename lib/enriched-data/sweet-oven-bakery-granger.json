@@ -1,0 +1,43 @@
+{
+  "slug": "sweet-oven-bakery-granger",
+  "name": "Sweet Oven Bakery",
+  "curatedName": "Sweet Oven Bakery",
+  "city": "Granger",
+  "country": "United States",
+  "placeId": "ChIJQ4CDoOXaFogRPMPnxLiz6V8",
+  "googleName": "Sweet Oven Bakery",
+  "formattedAddress": "53252 Ash Rd, Granger, IN 46530, USA",
+  "phone": "(574) 304-7148",
+  "internationalPhone": "+1 574-304-7148",
+  "website": "http://sweetovenbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6911252709335614268",
+  "rating": 4.6,
+  "reviewCount": 15,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.7207151,
+    -86.0617564
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-oven-bakery-granger/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:17:21.670Z"
+}

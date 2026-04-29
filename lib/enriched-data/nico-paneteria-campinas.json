@@ -1,0 +1,45 @@
+{
+  "slug": "nico-paneteria-campinas",
+  "name": "Nico Paneteria",
+  "curatedName": "Nico Paneteria",
+  "city": "Campinas",
+  "country": "Brazil",
+  "placeId": "ChIJa-iVxxjGyJQR0Mf0YyAi3Jo",
+  "googleName": "Nico Paneteria",
+  "formattedAddress": "Av. Andrade Neves, 2286 - Jardim Chapadão, Campinas - SP, 13070-143, Brazil",
+  "phone": "(19) 3243-1542",
+  "internationalPhone": "+55 19 3243-1542",
+  "website": "http://nicopaneteria.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11158831499228530640",
+  "rating": 4.5,
+  "reviewCount": 14346,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.8895471,
+    -47.0765783
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nico-paneteria-campinas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:32.610Z"
+}

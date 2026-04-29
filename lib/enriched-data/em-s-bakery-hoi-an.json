@@ -1,0 +1,43 @@
+{
+  "slug": "em-s-bakery-hoi-an",
+  "name": "EM's Bakery",
+  "curatedName": "EM's Bakery",
+  "city": "Hội An",
+  "country": "Vietnam",
+  "placeId": "ChIJD2ElRdoNQjERenMJFK9IB1M",
+  "googleName": "EM’s Bakery",
+  "formattedAddress": "313 Nguyễn Duy Hiệu, Cẩm Châu, Hội An, Đà Nẵng, Vietnam",
+  "phone": "0703 121 240",
+  "internationalPhone": "+84 703 121 240",
+  "website": "http://emsbakeryhoian.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5982830546777633658",
+  "rating": 4.7,
+  "reviewCount": 635,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    15.8778794,
+    108.3341941
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/em-s-bakery-hoi-an/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:19:29.680Z"
+}

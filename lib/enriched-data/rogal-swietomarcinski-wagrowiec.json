@@ -1,0 +1,43 @@
+{
+  "slug": "rogal-swietomarcinski-wagrowiec",
+  "name": "Rogal Świętomarciński",
+  "curatedName": "Rogal Świętomarciński",
+  "city": "Wągrowiec",
+  "country": "Poland",
+  "placeId": "ChIJi8DexuZbBEcRn5LKFlYwOCc",
+  "googleName": "ROGAL Świętomarciński",
+  "formattedAddress": "Stary Rynek 11/17, 61-772 Poznań, Poland",
+  "phone": "573 465 226",
+  "internationalPhone": "+48 573 465 226",
+  "website": "https://www.facebook.com/profile.php?id=61567721699995",
+  "googleMapsUrl": "https://maps.google.com/?cid=2826061912482681503",
+  "rating": 4.6,
+  "reviewCount": 588,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.4080622,
+    16.9340946
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rogal-swietomarcinski-wagrowiec/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:37.186Z"
+}

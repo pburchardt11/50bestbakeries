@@ -1,0 +1,35 @@
+{
+  "slug": "la-galette-patisserie-torreon",
+  "name": "La Galette Patisserie",
+  "curatedName": "La Galette Patisserie",
+  "city": "Torreón",
+  "country": "Mexico",
+  "placeId": "ChIJlax3JXDbj4YR65Ta8OsqPiE",
+  "googleName": "La Galette Patisserie",
+  "formattedAddress": "Calz División del Nte 274, Residencial la Hacienda, 27266 Torreón, Coah., Mexico",
+  "phone": "871 399 2633",
+  "internationalPhone": "+52 871 399 2633",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2395399244654220523",
+  "rating": 4.9,
+  "reviewCount": 12,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    25.5212682,
+    -103.3938286
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-galette-patisserie-torreon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:41.508Z"
+}

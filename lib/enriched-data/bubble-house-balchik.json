@@ -1,0 +1,32 @@
+{
+  "slug": "bubble-house-balchik",
+  "name": "Bubble House Balchik",
+  "city": "Балчик",
+  "country": "Bulgaria",
+  "placeId": "ChIJbYeCETnjpEARSSoga4xw674",
+  "googleName": "Bubble House Balchik / Бъбъл Хаус Балчик",
+  "formattedAddress": "ж.к. Балик, ul. \"Balik\" 4, 9601 Balchik, Bulgaria",
+  "phone": "088 507 7075",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13757213235128314441",
+  "rating": 4.1,
+  "reviewCount": 8,
+  "coords": [
+    43.4206168,
+    28.16155
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bubble-house-balchik/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:23:32.559Z"
+}

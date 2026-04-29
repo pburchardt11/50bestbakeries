@@ -1,0 +1,44 @@
+{
+  "slug": "talho-capixaba-rio-de-janeiro",
+  "name": "Talho Capixaba",
+  "curatedName": "Talho Capixaba",
+  "city": "Rio de Janeiro",
+  "country": "Brazil",
+  "placeId": "ChIJS_AE2bLVmwARJjAjWArqkEY",
+  "googleName": "Talho Capixaba",
+  "formattedAddress": "Av. Ataulfo de Paiva, 1022 - Leblon, Rio de Janeiro - RJ, 22440-035, Brazil",
+  "phone": "(21) 2512-8760",
+  "internationalPhone": "+55 21 2512-8760",
+  "website": "http://www.talhocapixaba.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5084821309450563622",
+  "rating": 4.6,
+  "reviewCount": 3712,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.9848149,
+    -43.2256388
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Artisanal breads, homemade pastries & a deli, in a cozy setting for breakfast or brunch.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/talho-capixaba-rio-de-janeiro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:41.802Z"
+}

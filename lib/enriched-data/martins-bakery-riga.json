@@ -1,0 +1,43 @@
+{
+  "slug": "martins-bakery-riga",
+  "name": "Martins' Bakery",
+  "curatedName": "Martins' Bakery",
+  "city": "Rīga",
+  "country": "Latvia",
+  "placeId": "ChIJZZEumsvP7kYRU5Kpz0uF9I0",
+  "googleName": "Martins' Bakery",
+  "formattedAddress": "Brīvības iela 80, Centra rajons, Rīga, LV-1001, Latvia",
+  "phone": "67 316 535",
+  "internationalPhone": "+371 67 316 535",
+  "website": "http://www.bekereja.lv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10228947214318277203",
+  "rating": 4.5,
+  "reviewCount": 1511,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    56.9589557,
+    24.1268246
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/martins-bakery-riga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:47.637Z"
+}

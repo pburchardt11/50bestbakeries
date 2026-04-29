@@ -1,0 +1,32 @@
+{
+  "slug": "shreen-mahal-kabul",
+  "name": "Shreen Mahal",
+  "city": "Kabul",
+  "country": "Afghanistan",
+  "placeId": "ChIJTzgQy4IV0TgRdueNdNJP9TI",
+  "googleName": "Shereen Mahal Kabul",
+  "formattedAddress": "G8CC+5XJ, Kabul 101203, Afghanistan",
+  "phone": "078 355 0005",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3671928836507690870",
+  "rating": 4,
+  "reviewCount": 15,
+  "coords": [
+    34.5204703,
+    69.3224055
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shreen-mahal-kabul/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:12:40.001Z"
+}

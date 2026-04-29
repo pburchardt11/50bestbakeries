@@ -1,0 +1,32 @@
+{
+  "slug": "the-french-guy-cafe-microbakery",
+  "name": "The French Guy Café-Microbakery",
+  "city": "Банско",
+  "country": "Bulgaria",
+  "placeId": "ChIJg0aZGPqvqxQRvnChs7DttJo",
+  "googleName": "The French Guy Café-Microbakery",
+  "formattedAddress": "кв. Новия град, ul. \"Otets Paisiy\" 25, 2770 Bansko, Bulgaria",
+  "phone": "089 827 5150",
+  "website": "https://www.instagram.com/thefrenchguybakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11147796320832549054",
+  "rating": 4.9,
+  "reviewCount": 238,
+  "coords": [
+    41.8354706,
+    23.4848417
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 4:00 – 10:00 PM",
+    "Thursday: 4:00 – 10:00 PM",
+    "Friday: 4:00 – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-french-guy-cafe-microbakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:23:44.168Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "violette-bakehouse-austin",
+  "name": "Violette Bakehouse",
+  "curatedName": "Violette Bakehouse",
+  "city": "Austin",
+  "country": "United States",
+  "placeId": "ChIJu7bSZU61RIYRddhLdzviqCo",
+  "googleName": "Violette Bakehouse",
+  "formattedAddress": "2901 Medical Arts St #300, Austin, TX 78705, USA",
+  "phone": "(512) 284-9862",
+  "internationalPhone": "+1 512-284-9862",
+  "website": "http://violettebakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3073955490712770677",
+  "rating": 4.9,
+  "reviewCount": 266,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.2885621,
+    -97.72851460000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/violette-bakehouse-austin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:46.888Z"
+}

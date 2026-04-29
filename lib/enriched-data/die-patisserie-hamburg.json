@@ -1,0 +1,44 @@
+{
+  "slug": "die-patisserie-hamburg",
+  "name": "Die Pâtisserie",
+  "curatedName": "Die Pâtisserie",
+  "city": "Hamburg",
+  "country": "Germany",
+  "placeId": "ChIJcQqSjeqFsUcREj-TZ9SRs6Y",
+  "googleName": "Die Pâtisserie",
+  "formattedAddress": "Bahrenfelder Str. 231, 22765 Hamburg, Germany",
+  "phone": "040 30391516",
+  "internationalPhone": "+49 40 30391516",
+  "website": "http://www.die-patisserie.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12012104972584042258",
+  "rating": 4.5,
+  "reviewCount": 678,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.5567125,
+    9.927922899999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Croissants & brioche with coffee & hot chocolate at a popular French-influenced patisserie/cafe.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/die-patisserie-hamburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:15.289Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "breaking-bread-krakow",
+  "name": "Breaking Bread",
+  "curatedName": "Breaking Bread",
+  "city": "Kraków",
+  "country": "Poland",
+  "placeId": "ChIJ0a_ecidbFkcRC7l8OPO8GWc",
+  "googleName": "Breaking Bread",
+  "formattedAddress": "Marka Stachowskiego 4, 31-559 Kraków, Poland",
+  "phone": "608 457 892",
+  "internationalPhone": "+48 608 457 892",
+  "website": "https://breakingbread.dodla.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7429176813135116555",
+  "rating": 4.8,
+  "reviewCount": 399,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.0543576,
+    19.9645016
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 3:30 PM",
+    "Sunday: 8:00 AM – 3:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breaking-bread-krakow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:31.350Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "chocolatta-san-miguel-de-tucuman",
+  "name": "Chocolatta",
+  "curatedName": "Chocolatta",
+  "city": "San Miguel de Tucumán",
+  "country": "Argentina",
+  "placeId": "ChIJLZr0YWlcIpQRvH0KgpEkcu0",
+  "googleName": "Chocolatta",
+  "formattedAddress": "Miguel Lillo 35, T4000 San Miguel de Tucumán, Tucumán, Argentina",
+  "phone": "0381 432-8071",
+  "internationalPhone": "+54 381 432-8071",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17109778141704519100",
+  "rating": 4.7,
+  "reviewCount": 153,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.8283304,
+    -65.2204545
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 2:00 PM, 4:00 – 9:00 PM",
+    "Tuesday: 7:30 AM – 2:00 PM, 4:00 – 9:00 PM",
+    "Wednesday: 7:30 AM – 2:00 PM, 4:00 – 9:00 PM",
+    "Thursday: 7:30 AM – 2:00 PM, 4:00 – 9:00 PM",
+    "Friday: 7:30 AM – 2:00 PM, 4:00 – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chocolatta-san-miguel-de-tucuman/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:02.836Z"
+}

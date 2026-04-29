@@ -1,0 +1,45 @@
+{
+  "slug": "bakery-roscioli-pietro-roma",
+  "name": "Bakery Roscioli Pietro",
+  "curatedName": "Bakery Roscioli Pietro",
+  "city": "Roma",
+  "country": "Italy",
+  "placeId": "ChIJ-2Mn8rxhLxMRZb0P-vrijho",
+  "googleName": "Bakery Roscioli Pietro",
+  "formattedAddress": "Via Buonarroti, 46/48, 00185 Roma RM, Italy",
+  "phone": "06 446 7146",
+  "internationalPhone": "+39 06 446 7146",
+  "website": "https://www.fornoroscioliesquilino.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1913716459244076389",
+  "rating": 4.5,
+  "reviewCount": 2398,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.89409149999999,
+    12.5026697
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Cozy nook for homemade bread, pizza & pastries, plus sandwiches & seasonal treats like panettone.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-roscioli-pietro-roma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:35.261Z"
+}

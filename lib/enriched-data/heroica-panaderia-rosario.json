@@ -1,0 +1,45 @@
+{
+  "slug": "heroica-panaderia-rosario",
+  "name": "Heroica Panadería",
+  "curatedName": "Heroica Panadería",
+  "city": "Rosario",
+  "country": "Argentina",
+  "placeId": "ChIJyV2dRKCrt5URoTlrYLkkdEw",
+  "googleName": "Heroica Panadería",
+  "formattedAddress": "Güemes 2472, S2000 Rosario, Santa Fe, Argentina",
+  "phone": "0341 213-4850",
+  "internationalPhone": "+54 341 213-4850",
+  "website": "https://instagram.com/heroicapanaderia?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=5509068622786148769",
+  "rating": 4.2,
+  "reviewCount": 2098,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -32.9324055,
+    -60.6542786
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/heroica-panaderia-rosario/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:42.604Z"
+}

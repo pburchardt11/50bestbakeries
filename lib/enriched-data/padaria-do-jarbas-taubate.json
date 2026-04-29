@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-do-jarbas-taubate",
+  "name": "Padaria do Jarbas",
+  "curatedName": "Padaria do Jarbas",
+  "city": "Taubaté",
+  "country": "Brazil",
+  "placeId": "ChIJt8IKHhv5zJQRU1bA7TQkfsk",
+  "googleName": "Padaria do Jarbas",
+  "formattedAddress": "Praça Barão do Rio Branco, 65 - Centro, Taubaté - SP, 12010-100, Brazil",
+  "phone": "(12) 3632-2686",
+  "internationalPhone": "+55 12 3632-2686",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14519082058434762323",
+  "rating": 4.6,
+  "reviewCount": 2348,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.028475,
+    -45.55770099999999
+  ],
+  "openingHours": [
+    "Monday: 6:15 AM – 8:00 PM",
+    "Tuesday: 6:15 AM – 8:00 PM",
+    "Wednesday: 6:15 AM – 8:00 PM",
+    "Thursday: 6:15 AM – 8:00 PM",
+    "Friday: 6:15 AM – 8:00 PM",
+    "Saturday: 6:15 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-do-jarbas-taubate/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:20:05.291Z"
+}

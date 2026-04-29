@@ -1,0 +1,44 @@
+{
+  "slug": "asterisque",
+  "name": "Asterisque",
+  "curatedName": "Asterisque",
+  "city": "Αθήνα",
+  "country": "Greece",
+  "placeId": "ChIJZy2gjci9oRQR_qcqZxgNr30",
+  "googleName": "Asterisque",
+  "formattedAddress": "Charvouri 2, Athina 116 36, Greece",
+  "phone": "21 0924 1137",
+  "internationalPhone": "+30 21 0924 1137",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9056471774126581758",
+  "rating": 4.7,
+  "reviewCount": 348,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.9659693,
+    23.7355111
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: Closed",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/asterisque/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:42.999Z"
+}

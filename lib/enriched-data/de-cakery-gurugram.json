@@ -1,0 +1,44 @@
+{
+  "slug": "de-cakery-gurugram",
+  "name": "De Cakery",
+  "curatedName": "De Cakery",
+  "city": "Gurugram",
+  "country": "India",
+  "placeId": "ChIJHyro7KYZDTkRBa7PICK2gow",
+  "googleName": "De Cakery",
+  "formattedAddress": "Shop 201, De Cakery, South point mall, Golf Course Rd, DLF Phase 5, Sector 53, Gurugram, Haryana 122011, India",
+  "phone": "088003 39207",
+  "internationalPhone": "+91 88003 39207",
+  "website": "http://www.decakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10124855169977921029",
+  "rating": 4.7,
+  "reviewCount": 328,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.4482162,
+    77.09899109999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-cakery-gurugram/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:58.694Z"
+}

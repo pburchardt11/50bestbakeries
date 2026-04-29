@@ -1,0 +1,43 @@
+{
+  "slug": "paname-zapopan",
+  "name": "Panâme",
+  "curatedName": "Panâme",
+  "city": "Zapopan",
+  "country": "Mexico",
+  "placeId": "ChIJv4On4OqvKIQRRim10wRD1nY",
+  "googleName": "Panâme",
+  "formattedAddress": "Johannes Brahms 510, La Estancia, 45037 Zapopan, Jal., Mexico",
+  "phone": "33 2538 4324",
+  "internationalPhone": "+52 33 2538 4324",
+  "website": "http://www.mnu.bio/paname",
+  "googleMapsUrl": "https://maps.google.com/?cid=8563105429502372166",
+  "rating": 4.6,
+  "reviewCount": 280,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.6669672,
+    -103.4343569
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paname-zapopan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:10.568Z"
+}

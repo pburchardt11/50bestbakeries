@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-borova",
+  "name": "Pekárna Borová",
+  "city": "Borová",
+  "country": "Czech Republic",
+  "placeId": "ChIJgfOjpMyQDUcRb53f0FdQjBQ",
+  "googleName": "Pekárna Borová",
+  "formattedAddress": "Borová u Policky 103, 569 82 Borová-Borová u Poličky, Czechia",
+  "phone": "461 743 141",
+  "website": "https://www.facebook.com/profile.php?id=100067121957634",
+  "googleMapsUrl": "https://maps.google.com/?cid=1480646715594743151",
+  "rating": 4.6,
+  "reviewCount": 58,
+  "coords": [
+    49.7366015,
+    16.1643112
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 7:00 – 10:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-borova/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:44.782Z"
+}

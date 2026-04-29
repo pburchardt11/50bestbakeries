@@ -1,0 +1,45 @@
+{
+  "slug": "isabella-glutenfreie-patisserie-aachen",
+  "name": "Isabella Glutenfreie Pâtisserie",
+  "curatedName": "Isabella Glutenfreie Pâtisserie",
+  "city": "Aachen",
+  "country": "Germany",
+  "placeId": "ChIJ8Q_qyHyZwEcRp4t8LaeG5as",
+  "googleName": "Isabella Glutenfreie Pâtisserie",
+  "formattedAddress": "Münsterpl. 13, 52062 Aachen, Germany",
+  "phone": "0241 40006944",
+  "internationalPhone": "+49 241 40006944",
+  "website": "http://www.isabella-patisserie.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12386454402733214631",
+  "rating": 4.6,
+  "reviewCount": 506,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.7742371,
+    6.083929899999999
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 6:00 PM",
+    "Tuesday: 9:30 AM – 6:00 PM",
+    "Wednesday: 9:30 AM – 6:00 PM",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/isabella-glutenfreie-patisserie-aachen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:10.600Z"
+}

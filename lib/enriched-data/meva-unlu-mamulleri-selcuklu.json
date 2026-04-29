@@ -1,0 +1,43 @@
+{
+  "slug": "meva-unlu-mamulleri-selcuklu",
+  "name": "Meva Unlu Mamülleri",
+  "curatedName": "Meva Unlu Mamülleri",
+  "city": "Selçuklu",
+  "country": "Türkiye",
+  "placeId": "ChIJTabFw32F0BQROzWh3dEPmaM",
+  "googleName": "Meva Unlu Mamülleri",
+  "formattedAddress": "Hacıkaymak, Şair Seyfi Sk. no:9, 42000 Selçuklu/Konya, Türkiye",
+  "phone": "0539 920 63 21",
+  "internationalPhone": "+90 539 920 63 21",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11788470893659895099",
+  "rating": 3.9,
+  "reviewCount": 97,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.8868602,
+    32.4800732
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 1:00 AM",
+    "Tuesday: 5:00 AM – 1:00 AM",
+    "Wednesday: 5:00 AM – 1:00 AM",
+    "Thursday: 5:00 AM – 1:00 AM",
+    "Friday: 5:00 AM – 1:00 AM",
+    "Saturday: 5:00 AM – 1:00 AM",
+    "Sunday: 5:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/meva-unlu-mamulleri-selcuklu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:00:41.437Z"
+}

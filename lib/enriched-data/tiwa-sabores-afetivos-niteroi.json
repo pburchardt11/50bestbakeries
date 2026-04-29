@@ -1,0 +1,44 @@
+{
+  "slug": "tiwa-sabores-afetivos-niteroi",
+  "name": "Tiwa Sabores Afetivos",
+  "curatedName": "Tiwa Sabores Afetivos",
+  "city": "Niterói",
+  "country": "Brazil",
+  "placeId": "ChIJuwH2QyyDmQAR33B41hGZkOc",
+  "googleName": "Tiwa Sabores Afetivos",
+  "formattedAddress": "Mercado Municipal de Niterói - Av. Felíciano Sodré, 488 - Loja 84 - Centro, Niterói - RJ, 24030-011, Brazil",
+  "phone": "(21) 99444-9549",
+  "internationalPhone": "+55 21 99444-9549",
+  "website": "http://www.tiwasabores.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16686004921299398879",
+  "rating": 5,
+  "reviewCount": 32,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.8822989,
+    -43.1134956
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiwa-sabores-afetivos-niteroi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:20:45.165Z"
+}

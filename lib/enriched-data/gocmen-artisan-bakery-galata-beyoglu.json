@@ -1,0 +1,45 @@
+{
+  "slug": "gocmen-artisan-bakery-galata-beyoglu",
+  "name": "Göçmen Artisan Bakery Galata",
+  "curatedName": "Göçmen Artisan Bakery Galata",
+  "city": "Beyoğlu",
+  "country": "Türkiye",
+  "placeId": "ChIJjwW6lhO5yhQRGC40Nqkgvq0",
+  "googleName": "Göçmen Artisan Bakery Galata",
+  "formattedAddress": "Bereketzade, Galata Kulesi Sk. :2/a, 34421 Beyoğlu/İstanbul, Türkiye",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://gocmen.co/tr",
+  "googleMapsUrl": "https://maps.google.com/?cid=12519479925267508760",
+  "rating": 4.5,
+  "reviewCount": 1881,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0255429,
+    28.9739555
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gocmen-artisan-bakery-galata-beyoglu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:22.050Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "delicious-cake-house",
+  "name": "Delicious Cake House",
+  "city": "المحرق",
+  "country": "Bahrain",
+  "placeId": "ChIJEXNqKD2mST4RT2A9KpAryE4",
+  "googleName": "Yummylicious",
+  "formattedAddress": "Shop D81, Avenue 1 , Block 202، +973 39300564 / 77700888، Muharraq, Bahrain",
+  "phone": "3930 0564",
+  "website": "https://www.instagram.com/yummylicious_cafe/?hl=en",
+  "googleMapsUrl": "https://maps.google.com/?cid=5676835228484460623",
+  "rating": 4.3,
+  "reviewCount": 326,
+  "coords": [
+    26.2597997,
+    50.61965559999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delicious-cake-house/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:47:38.117Z"
+}

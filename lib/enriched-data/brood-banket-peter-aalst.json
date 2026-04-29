@@ -1,0 +1,32 @@
+{
+  "slug": "brood-banket-peter-aalst",
+  "name": "Brood & Banket Peter",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJKxhb_6qiw0cRQADw5FRSeAs",
+  "googleName": "Peter",
+  "formattedAddress": "Welvaartstraat 48/50, 9300 Aalst, Belgium",
+  "phone": "053 21 27 89",
+  "website": "http://www.broodenbanketpeter.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=826501056194150464",
+  "rating": 4.7,
+  "reviewCount": 133,
+  "coords": [
+    50.94096070000001,
+    4.0197376
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 4:00 PM",
+    "Tuesday: 5:30 AM – 4:00 PM",
+    "Wednesday: 5:30 AM – 4:00 PM",
+    "Thursday: 5:30 AM – 4:00 PM",
+    "Friday: 5:30 AM – 4:00 PM",
+    "Saturday: 5:30 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brood-banket-peter-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:04:21.766Z"
+}

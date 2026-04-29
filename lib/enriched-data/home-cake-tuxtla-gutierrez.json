@@ -1,0 +1,43 @@
+{
+  "slug": "home-cake-tuxtla-gutierrez",
+  "name": "Home Cake",
+  "curatedName": "Home Cake",
+  "city": "Tuxtla Gutiérrez",
+  "country": "Mexico",
+  "placeId": "ChIJ35mVY2_Z7IUR3xTAQFS8S68",
+  "googleName": "HOME CAKE",
+  "formattedAddress": "Avenida, Av. Central Ote. 227, Terán, 29050 Tuxtla Gutiérrez, Chis., Mexico",
+  "phone": "961 233 2735",
+  "internationalPhone": "+52 961 233 2735",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12631396649940292831",
+  "rating": 4.6,
+  "reviewCount": 105,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    16.7525134,
+    -93.16367330000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/home-cake-tuxtla-gutierrez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:13.067Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "kinza",
+  "name": "KINZA",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJ2xpprtjP20YRH_MEjqeWLPg",
+  "googleName": "Kinza",
+  "formattedAddress": "vulica Piatra Mscislaŭca 11, Minsk, Minskaja voblasć, Belarus",
+  "phone": "8 029 623-58-01",
+  "website": "https://www.instagram.com/kinza_belarus/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17882833866767790879",
+  "rating": 3.5,
+  "reviewCount": 62,
+  "coords": [
+    53.9336638,
+    27.6527812
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kinza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:00:07.001Z"
+}

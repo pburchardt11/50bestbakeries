@@ -1,0 +1,24 @@
+{
+  "slug": "cafe-mr-smith-gemikonag",
+  "name": "Cafe Mr.Smith",
+  "city": "Gemikonağı",
+  "country": "Cyprus",
+  "placeId": "ChIJx1wy8tlZ5xQRyh_Vo1QXP3I",
+  "googleName": "Mimi's Coffee @Mariam Herbs",
+  "formattedAddress": "Suphi sokak, Lefke 99770",
+  "phone": "0533 883 93 59",
+  "website": "https://www.instagram.com/mariam.herbs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8232324296149901258",
+  "rating": 5,
+  "reviewCount": 7,
+  "coords": [
+    35.1128573,
+    32.8498909
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-mr-smith-gemikonag/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:52:46.304Z"
+}

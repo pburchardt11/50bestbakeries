@@ -1,0 +1,45 @@
+{
+  "slug": "padaria-ribeiro-matosinhos",
+  "name": "Padaria Ribeiro",
+  "curatedName": "Padaria Ribeiro",
+  "city": "Matosinhos",
+  "country": "Portugal",
+  "placeId": "ChIJS9hpCjhvJA0RH-j2m8S6enE",
+  "googleName": "Padaria Ribeiro",
+  "formattedAddress": "R. 1º de Maio 196, 4450-230 Matosinhos, Portugal",
+  "phone": "22 938 2207",
+  "internationalPhone": "+351 22 938 2207",
+  "website": "https://www.padariaribeiro.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8177053427037562911",
+  "rating": 4.3,
+  "reviewCount": 903,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1827207,
+    -8.682074499999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-ribeiro-matosinhos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:54:45.592Z"
+}

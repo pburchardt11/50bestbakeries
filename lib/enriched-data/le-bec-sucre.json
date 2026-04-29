@@ -1,0 +1,43 @@
+{
+  "slug": "le-bec-sucre",
+  "name": "Le Bec Sucre",
+  "curatedName": "Le Bec Sucre",
+  "city": "القاهرة",
+  "country": "Egypt",
+  "placeId": "ChIJ77ACquNAWBQROaJh46g41ZI",
+  "googleName": "Le Bec Sucré",
+  "formattedAddress": "Inside the President Hotel، 22 Taha Hussein, Abu Al Feda, Zamalek, Cairo Governorate 4271150, Egypt",
+  "phone": "010 66212015",
+  "internationalPhone": "+20 10 66212015",
+  "website": "https://www.thepresidentcairo.com/dining",
+  "googleMapsUrl": "https://maps.google.com/?cid=10580425197597336121",
+  "rating": 4.9,
+  "reviewCount": 88,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.0674986,
+    31.2195872
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-bec-sucre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:53.917Z"
+}

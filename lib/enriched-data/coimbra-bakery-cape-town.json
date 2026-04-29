@@ -1,0 +1,43 @@
+{
+  "slug": "coimbra-bakery-cape-town",
+  "name": "Coimbra Bakery",
+  "curatedName": "Coimbra Bakery",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "placeId": "ChIJ4yJrIqhDzB0RgPlK_PgF2wc",
+  "googleName": "Coimbra Bakery",
+  "formattedAddress": "152 Imam Haron Rd, Claremont, Cape Town, 7780, South Africa",
+  "phone": "021 683 3083",
+  "internationalPhone": "+27 21 683 3083",
+  "website": "https://www.coimbrabakery.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=566052745107929472",
+  "rating": 4.6,
+  "reviewCount": 297,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.9838945,
+    18.4804476
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coimbra-bakery-cape-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:59:57.725Z"
+}

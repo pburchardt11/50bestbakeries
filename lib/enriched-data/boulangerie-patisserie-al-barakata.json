@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-patisserie-al-barakata",
+  "name": "Boulangerie Pâtisserie Al Barakata",
+  "curatedName": "Boulangerie Pâtisserie Al Barakata",
+  "city": "الدار البيضاء",
+  "country": "Morocco",
+  "placeId": "ChIJX0-emWPNpw0RNDrK6O0q0xc",
+  "googleName": "Boulangerie Pâtisserie Al Barakata",
+  "formattedAddress": "20 Rue Faidi Khalifa، Dar-el-Beida 20000, Morocco",
+  "phone": "06 77 72 34 49",
+  "internationalPhone": "+212 6 77 72 34 49",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1716763084259473972",
+  "rating": 4.3,
+  "reviewCount": 1032,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.5922468,
+    -7.6059018
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Bakery & patisserie specializing in breads, pastries & special occasions, open since 1985.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-al-barakata/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:51.867Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "moko-snack-corner-aruba",
+  "name": "Moko Snack Corner",
+  "city": "Aruba",
+  "country": "Aruba",
+  "placeId": "ChIJX-eqWL45hY4RXjhciiUdjCM",
+  "googleName": "Moko Snack Corner",
+  "formattedAddress": "Catiri 48, Noord, Aruba",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2561454335139264606",
+  "rating": 4.8,
+  "reviewCount": 78,
+  "coords": [
+    12.5479832,
+    -70.0120269
+  ],
+  "openingHours": [
+    "Monday: 5:00 – 11:00 AM",
+    "Tuesday: 5:00 – 11:00 AM",
+    "Wednesday: 5:00 – 11:00 AM",
+    "Thursday: 5:00 – 11:00 AM",
+    "Friday: 5:00 – 11:00 AM",
+    "Saturday: 5:00 – 11:00 AM",
+    "Sunday: 5:00 – 11:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moko-snack-corner-aruba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:27:32.131Z"
+}

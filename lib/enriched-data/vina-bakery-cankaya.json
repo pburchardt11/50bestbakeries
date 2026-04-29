@@ -1,0 +1,43 @@
+{
+  "slug": "vina-bakery-cankaya",
+  "name": "Vinå Bakery",
+  "curatedName": "Vinå Bakery",
+  "city": "Çankaya",
+  "country": "Türkiye",
+  "placeId": "ChIJg-RoHQBP0xQRlRRcI6jcCG0",
+  "googleName": "Vinå Bakery",
+  "formattedAddress": "Çankaya, Cinnah Cd. No:29, 06690 Çankaya/Ankara, Türkiye",
+  "phone": "0546 933 65 90",
+  "internationalPhone": "+90 546 933 65 90",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7856772164653683861",
+  "rating": 4.9,
+  "reviewCount": 314,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.896103,
+    32.8577816
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vina-bakery-cankaya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:38.179Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "guanajuato-bakery-fort-worth",
+  "name": "Guanajuato Bakery",
+  "curatedName": "Guanajuato Bakery",
+  "city": "Fort Worth",
+  "country": "United States",
+  "placeId": "ChIJK7oBHtNwToYRokBIO7OcQSI",
+  "googleName": "Guanajuato Bakery",
+  "formattedAddress": "3301 E Belknap St, Fort Worth, TX 76111, USA",
+  "phone": "(817) 831-6066",
+  "internationalPhone": "+1 817-831-6066",
+  "website": "http://www.guanajuatobakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2468426364383412386",
+  "rating": 4.5,
+  "reviewCount": 2595,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.7744118,
+    -97.30043529999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/guanajuato-bakery-fort-worth/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:50.194Z"
+}

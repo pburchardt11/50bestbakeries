@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-lapad-dubrovnik",
+  "name": "Pekara Lapad",
+  "city": "Dubrovnik",
+  "country": "Croatia",
+  "placeId": "ChIJSVhkHr11TBMRTMwCx67LjXo",
+  "googleName": "Pekarnica Lapad (Bakery)",
+  "formattedAddress": "Ul. Iva Vojnovića 41A, 20000, Dubrovnik, Croatia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8830938395867008076",
+  "rating": 4.2,
+  "reviewCount": 97,
+  "coords": [
+    42.6503847,
+    18.0829204
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-lapad-dubrovnik/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:50:22.433Z"
+}

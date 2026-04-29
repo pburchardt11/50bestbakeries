@@ -1,0 +1,45 @@
+{
+  "slug": "mamatte-boulangerie-cafe-lille",
+  "name": "Mamatte Boulangerie Café",
+  "curatedName": "Mamatte Boulangerie Café",
+  "city": "Lille",
+  "country": "France",
+  "placeId": "ChIJ67Mt93rVwkcRrA-Qsbp0RsA",
+  "googleName": "Mamatte Boulangerie Café",
+  "formattedAddress": "35 Pl. Rihour, 59800 Lille, France",
+  "phone": "03 20 40 05 70",
+  "internationalPhone": "+33 3 20 40 05 70",
+  "website": "https://boutiques.mamatte.fr/lille-rihour/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+  "googleMapsUrl": "https://maps.google.com/?cid=13854889648843657132",
+  "rating": 4.4,
+  "reviewCount": 3568,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.6355504,
+    3.0633342
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mamatte-boulangerie-cafe-lille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:24.262Z"
+}

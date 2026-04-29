@@ -1,0 +1,44 @@
+{
+  "slug": "lamour-bakehouse-dehradun",
+  "name": "Lamour Bakehouse",
+  "curatedName": "Lamour Bakehouse",
+  "city": "Dehradun",
+  "country": "India",
+  "placeId": "ChIJXxRftfwrCTkRp8iweSAKdUo",
+  "googleName": "Lamour Bakehouse",
+  "formattedAddress": "122, opposite Asian School, Vasant Vihar, Indra Nagar Colony, Dehradun, Uttarakhand 248006, India",
+  "phone": "063994 44511",
+  "internationalPhone": "+91 63994 44511",
+  "website": "http://www.lamourbakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5365205665678674087",
+  "rating": 4.2,
+  "reviewCount": 447,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.3229935,
+    78.0051568
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 9:30 PM",
+    "Tuesday: 9:30 AM – 9:30 PM",
+    "Wednesday: 9:30 AM – 9:30 PM",
+    "Thursday: 9:30 AM – 9:30 PM",
+    "Friday: 9:30 AM – 9:30 PM",
+    "Saturday: 9:30 AM – 9:30 PM",
+    "Sunday: 9:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lamour-bakehouse-dehradun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:07.807Z"
+}

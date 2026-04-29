@@ -1,0 +1,44 @@
+{
+  "slug": "sfogliatelle-attanasio-napoli",
+  "name": "Sfogliatelle Attanasio",
+  "curatedName": "Sfogliatelle Attanasio",
+  "city": "Napoli",
+  "country": "Italy",
+  "placeId": "ChIJExwRghYIOxMRILrsRk6eXG0",
+  "googleName": "Sfogliatelle Attanasio",
+  "formattedAddress": "Vico Ferrovia, 1, 80142 Napoli NA, Italy",
+  "phone": "081 285675",
+  "internationalPhone": "+39 081 285675",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7880347507026082336",
+  "rating": 4.6,
+  "reviewCount": 7272,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.8532124,
+    14.2689761
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:30 AM – 7:30 PM",
+    "Wednesday: 6:00 AM – 7:30 PM",
+    "Thursday: 6:00 AM – 7:30 PM",
+    "Friday: 6:00 AM – 7:30 PM",
+    "Saturday: 6:00 AM – 7:30 PM",
+    "Sunday: 6:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": "Customers line up at this low-key bakery for its cheese & custard-filled sfogliatelle puff pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sfogliatelle-attanasio-napoli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:40.915Z"
+}

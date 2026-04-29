@@ -1,0 +1,43 @@
+{
+  "slug": "ananda",
+  "name": "Ananda",
+  "curatedName": "Ananda",
+  "city": "София",
+  "country": "Bulgaria",
+  "placeId": "ChIJkSpqQj2FqkAR0YRDou3817U",
+  "googleName": "Ananda",
+  "formattedAddress": "Kriva Reka, ul. \"Felix Kanitz\" 14-16, 1606 Sofia, Bulgaria",
+  "phone": "087 895 0922",
+  "internationalPhone": "+359 87 895 0922",
+  "website": "https://www.anandabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13103219738417530065",
+  "rating": 4.8,
+  "reviewCount": 796,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.6871083,
+    23.3035432
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:30 PM",
+    "Tuesday: 8:30 AM – 6:30 PM",
+    "Wednesday: 8:30 AM – 6:30 PM",
+    "Thursday: 8:30 AM – 6:30 PM",
+    "Friday: 8:30 AM – 6:30 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ananda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:03.859Z"
+}

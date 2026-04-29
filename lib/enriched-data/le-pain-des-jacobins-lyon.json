@@ -1,0 +1,43 @@
+{
+  "slug": "le-pain-des-jacobins-lyon",
+  "name": "Le Pain des Jacobins",
+  "curatedName": "Le Pain des Jacobins",
+  "city": "Lyon",
+  "country": "France",
+  "placeId": "ChIJ67LiQ4Dr9EcRF_E9GeWuTVM",
+  "googleName": "Le Pain des Jacobins",
+  "formattedAddress": "3 Rue de l'Ancienne Préfecture, 69002 Lyon, France",
+  "phone": "09 54 38 96 23",
+  "internationalPhone": "+33 9 54 38 96 23",
+  "website": "https://www.instagram.com/lepaindesjacobins/?hl=en",
+  "googleMapsUrl": "https://maps.google.com/?cid=6002646177348972823",
+  "rating": 4.2,
+  "reviewCount": 422,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.76120170000001,
+    4.832370699999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 7:30 PM",
+    "Sunday: 8:00 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-pain-des-jacobins-lyon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:39.083Z"
+}

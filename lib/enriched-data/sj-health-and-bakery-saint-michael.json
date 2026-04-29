@@ -1,0 +1,32 @@
+{
+  "slug": "sj-health-and-bakery-saint-michael",
+  "name": "SJ Health and Bakery",
+  "city": "Saint Michael",
+  "country": "Barbados",
+  "placeId": "ChIJscSqqjL3Q4wRfsHAT0M3ToQ",
+  "googleName": "SJ Health & Bakery Ltd.",
+  "formattedAddress": "Clevedale Rd, Bridgetown, Saint Michael BB12032Barbados",
+  "phone": "(246) 424-5264",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9533618223430287742",
+  "rating": 4.1,
+  "reviewCount": 282,
+  "coords": [
+    13.1264912,
+    -59.62191319999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 4:30 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sj-health-and-bakery-saint-michael/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:56:55.730Z"
+}

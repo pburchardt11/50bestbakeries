@@ -1,0 +1,46 @@
+{
+  "slug": "padaria-vo-maria-contagem",
+  "name": "Padaria Vó Maria",
+  "curatedName": "Padaria Vó Maria",
+  "city": "Contagem",
+  "country": "Brazil",
+  "placeId": "ChIJl72-EyyVpgARtlMfkYNlGhw",
+  "googleName": "Padaria Vó Maria",
+  "formattedAddress": "R. do Registro, 800 - Santa Luzia, Contagem - MG, 32017-390, Brazil",
+  "phone": "(31) 2559-8977",
+  "internationalPhone": "+55 31 2559-8977",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2025042598206329782",
+  "rating": 4.4,
+  "reviewCount": 1948,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.9060635,
+    -44.0919458
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-vo-maria-contagem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:01.631Z"
+}

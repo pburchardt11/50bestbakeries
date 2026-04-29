@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-nuestro-pan-alausi",
+  "name": "Panadería Nuestro pan",
+  "city": "Alausí",
+  "country": "Ecuador",
+  "placeId": "ChIJ4XvEZgCR0pERlFvi4KDE6UM",
+  "googleName": "Panadería Nuestro pan",
+  "formattedAddress": "Q5W2+CPQ, Alausi, Ecuador",
+  "phone": "099 752 8255",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4893658665361496980",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    -2.203784,
+    -78.84803169999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-nuestro-pan-alausi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:59:28.766Z"
+}

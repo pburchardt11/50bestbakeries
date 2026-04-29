@@ -1,0 +1,43 @@
+{
+  "slug": "kumori-pasay-city",
+  "name": "Kumori",
+  "curatedName": "Kumori",
+  "city": "Pasay City",
+  "country": "Philippines",
+  "placeId": "ChIJe-yghfvLlzMRol9D-9YlWzY",
+  "googleName": "Kumori",
+  "formattedAddress": "Ground Level, SM Mall of Asia, GXMJ+XF9, Seaside Blvd, Pasay City, Metro Manila, Philippines",
+  "phone": "0905 325 4143",
+  "internationalPhone": "+63 905 325 4143",
+  "website": "http://www.kumori.com.ph/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3916765906197503906",
+  "rating": 4.4,
+  "reviewCount": 102,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5349157,
+    120.9812388
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kumori-pasay-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:17.532Z"
+}

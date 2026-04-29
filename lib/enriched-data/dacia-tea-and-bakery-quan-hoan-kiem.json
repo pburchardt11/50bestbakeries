@@ -1,0 +1,44 @@
+{
+  "slug": "dacia-tea-and-bakery-quan-hoan-kiem",
+  "name": "Dacia Tea And Bakery",
+  "curatedName": "Dacia Tea And Bakery",
+  "city": "Quận Hoàn Kiếm",
+  "country": "Vietnam",
+  "placeId": "ChIJLzbAheurNTERdsJo0O_OfrE",
+  "googleName": "Dacia Tea And Bakery",
+  "formattedAddress": "25 P. Hàng Giầy, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",
+  "phone": "0396 019 649",
+  "internationalPhone": "+84 396 019 649",
+  "website": "https://www.facebook.com/DaciaTeaBakery?mibextid=ZbWKwL",
+  "googleMapsUrl": "https://maps.google.com/?cid=12789887521167819382",
+  "rating": 5,
+  "reviewCount": 568,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0352813,
+    105.8513242
+  ],
+  "openingHours": [
+    "Monday: 2:30 – 8:00 PM",
+    "Tuesday: 2:00 – 10:30 PM",
+    "Wednesday: 1:00 – 10:30 PM",
+    "Thursday: 11:30 AM – 10:30 PM",
+    "Friday: 12:30 – 10:00 PM",
+    "Saturday: 2:00 – 9:30 PM",
+    "Sunday: 11:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dacia-tea-and-bakery-quan-hoan-kiem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:18:54.719Z"
+}

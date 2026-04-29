@@ -1,0 +1,44 @@
+{
+  "slug": "cake-garden-confeitaria-artesanal-itajai",
+  "name": "Cake Garden Confeitaria Artesanal",
+  "curatedName": "Cake Garden Confeitaria Artesanal",
+  "city": "Itajaí",
+  "country": "Brazil",
+  "placeId": "ChIJCa4bCaDL2JQRVfCtNusWQLg",
+  "googleName": "Cake Garden Confeitaria Artesanal",
+  "formattedAddress": "R. Lauro Muller, 779 - Centro, Itajaí - SC, 88301-401, Brazil",
+  "phone": "(47) 3045-7605",
+  "internationalPhone": "+55 47 3045-7605",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13276636900978716757",
+  "rating": 4.7,
+  "reviewCount": 732,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.9119945,
+    -48.6542872
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-garden-confeitaria-artesanal-itajai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:05.428Z"
+}

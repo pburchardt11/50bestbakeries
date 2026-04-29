@@ -1,0 +1,44 @@
+{
+  "slug": "la-nueva-ideal-aguascalientes",
+  "name": "La Nueva Ideal",
+  "curatedName": "La Nueva Ideal",
+  "city": "Aguascalientes",
+  "country": "Mexico",
+  "placeId": "ChIJUxTJHmHuKYQRiYbvjzhY7oc",
+  "googleName": "La Nueva Ideal",
+  "formattedAddress": "Petróleos Mexicanos 118, Centro, 20050 Aguascalientes, Ags., Mexico",
+  "phone": "449 916 9475",
+  "internationalPhone": "+52 449 916 9475",
+  "website": "https://m.facebook.com/pages/Panaderia-La-Nueva-Ideal/224529087557589",
+  "googleMapsUrl": "https://maps.google.com/?cid=9794863239533659785",
+  "rating": 4.6,
+  "reviewCount": 2338,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.8913625,
+    -102.2953253
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 10:00 PM",
+    "Tuesday: 5:00 AM – 10:00 PM",
+    "Wednesday: 5:00 AM – 10:00 PM",
+    "Thursday: 5:00 AM – 10:00 PM",
+    "Friday: 5:00 AM – 10:00 PM",
+    "Saturday: 5:00 AM – 10:00 PM",
+    "Sunday: 5:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-nueva-ideal-aguascalientes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:26.964Z"
+}

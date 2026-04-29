@@ -1,0 +1,44 @@
+{
+  "slug": "wright-s-gourmet-house-tampa",
+  "name": "Wright's Gourmet House",
+  "curatedName": "Wright's Gourmet House",
+  "city": "Tampa",
+  "country": "United States",
+  "placeId": "ChIJeV6G1RfDwogRUT8uCQGyZqI",
+  "googleName": "Wright's Gourmet House",
+  "formattedAddress": "1200 S Dale Mabry Hwy, Tampa, FL 33629, USA",
+  "phone": "(813) 253-3838",
+  "internationalPhone": "+1 813-253-3838",
+  "website": "http://www.wrightsgourmet.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11702236399287549777",
+  "rating": 4.8,
+  "reviewCount": 3459,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    27.9318611,
+    -82.5052839
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:30 PM",
+    "Tuesday: 7:00 AM – 5:30 PM",
+    "Wednesday: 7:00 AM – 5:30 PM",
+    "Thursday: 7:00 AM – 5:30 PM",
+    "Friday: 7:00 AM – 5:30 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Fans line up at the counter for creative sandwiches, salads & desserts in this long-running cafe.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wright-s-gourmet-house-tampa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:12:52.313Z"
+}

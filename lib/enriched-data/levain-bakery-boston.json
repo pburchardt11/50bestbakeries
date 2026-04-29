@@ -1,0 +1,43 @@
+{
+  "slug": "levain-bakery-boston",
+  "name": "Levain Bakery",
+  "curatedName": "Levain Bakery",
+  "city": "Boston",
+  "country": "United States",
+  "placeId": "ChIJc37vbLx744kRwBzOF4TE4x0",
+  "googleName": "Levain Bakery",
+  "formattedAddress": "180 Newbury St, Boston, MA 02116, USA",
+  "phone": "(617) 390-7799",
+  "internationalPhone": "+1 617-390-7799",
+  "website": "https://levainbakery.com/pages/boston",
+  "googleMapsUrl": "https://maps.google.com/?cid=2153781118427339968",
+  "rating": 4.5,
+  "reviewCount": 936,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.3503049,
+    -71.0792621
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/levain-bakery-boston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:14:36.536Z"
+}

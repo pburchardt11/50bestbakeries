@@ -1,0 +1,43 @@
+{
+  "slug": "bakery-panaderia-bucaramanga",
+  "name": "Bakery Panaderia",
+  "curatedName": "Bakery Panaderia",
+  "city": "Bucaramanga",
+  "country": "Colombia",
+  "placeId": "ChIJObk8o18VaI4RX-FyLo6GrWo",
+  "googleName": "Bakery Panaderia",
+  "formattedAddress": "Cl. 41 #37-62, Cabecera del llano, Bucaramanga, Santander, Colombia",
+  "phone": "301 5534133",
+  "internationalPhone": "+57 301 5534133",
+  "website": "https://beacons.page/panaderia.bakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=7686948084214063455",
+  "rating": 4.6,
+  "reviewCount": 108,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    7.1227028,
+    -73.1088267
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-panaderia-bucaramanga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:54.095Z"
+}

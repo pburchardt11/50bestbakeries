@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-los-coca-ahuachapan",
+  "name": "Panaderia Los Coca",
+  "city": "Ahuachapán",
+  "country": "El Salvador",
+  "placeId": "ChIJSZZCK_yXYo8RVOIISTY3cmE",
+  "googleName": "Panaderia Los Coca",
+  "formattedAddress": "W583+WQM, Ahuachapan, El Salvador",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7021735475317105236",
+  "rating": 4.6,
+  "reviewCount": 17,
+  "coords": [
+    13.9173376,
+    -89.8455688
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-los-coca-ahuachapan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:02:22.119Z"
+}

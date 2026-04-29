@@ -1,0 +1,44 @@
+{
+  "slug": "wooden-bakery",
+  "name": "Wooden Bakery",
+  "curatedName": "Wooden Bakery",
+  "city": "الرياض",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJY1-YF44DLz4RQZFZAGcnrog",
+  "googleName": "Wooden Bakery",
+  "formattedAddress": "Salah Ad Din Al Ayyubi Rd, As Sulimaniyah, Riyadh 12233, Saudi Arabia",
+  "phone": "050 133 8321",
+  "internationalPhone": "+966 50 133 8321",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9848852758446838081",
+  "rating": 4.2,
+  "reviewCount": 11932,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.6941192,
+    46.7226815
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:30 PM",
+    "Tuesday: 7:00 AM – 11:30 PM",
+    "Wednesday: 7:00 AM – 11:30 PM",
+    "Thursday: 7:00 AM – 11:30 PM",
+    "Friday: 7:00 AM – 11:30 PM",
+    "Saturday: 7:00 AM – 11:30 PM",
+    "Sunday: 7:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wooden-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:08.631Z"
+}

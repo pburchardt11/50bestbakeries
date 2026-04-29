@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-m",
+  "name": "Sweet M",
+  "city": "Бургас",
+  "country": "Bulgaria",
+  "placeId": "ChIJP7CWNQCVpkARe14tvJDZW_U",
+  "googleName": "Сладкарница Sweet M",
+  "formattedAddress": "g.k. Lazur, ul. \"Pomorie\" 20, партер, клетка 1, 8001 Burgas, Bulgaria",
+  "phone": "087 730 5072",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17679963977828621947",
+  "rating": 4.8,
+  "reviewCount": 60,
+  "coords": [
+    42.5032179,
+    27.479058
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 7:30 PM",
+    "Tuesday: 10:30 AM – 7:30 PM",
+    "Wednesday: 10:30 AM – 7:30 PM",
+    "Thursday: 10:30 AM – 7:30 PM",
+    "Friday: 10:30 AM – 7:30 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-m/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:26:46.636Z"
+}

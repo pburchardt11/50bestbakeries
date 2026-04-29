@@ -1,0 +1,43 @@
+{
+  "slug": "best-bakers-ernakulam",
+  "name": "Best Bakers",
+  "curatedName": "Best Bakers",
+  "city": "Ernakulam",
+  "country": "India",
+  "placeId": "ChIJf1yRL0UNCDsRZ58M6V6MhvA",
+  "googleName": "Best Bakers",
+  "formattedAddress": "Chittoor Rd, Kacheripady, Ernakulam, Kochi, Kerala 682018, India",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.bakeryb.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17331694555246665575",
+  "rating": 4.1,
+  "reviewCount": 2532,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    9.98648,
+    76.283279
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/best-bakers-ernakulam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:22.925Z"
+}

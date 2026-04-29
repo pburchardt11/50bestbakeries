@@ -1,0 +1,45 @@
+{
+  "slug": "ivoire-pastry-boutique-quan-1",
+  "name": "Ivoire Pastry Boutique",
+  "curatedName": "Ivoire Pastry Boutique",
+  "city": "Quận 1",
+  "country": "Vietnam",
+  "placeId": "ChIJzeIbBcsvdTERUzzfHTY7giw",
+  "googleName": "Ivoire Pastry Boutique",
+  "formattedAddress": "28 Cao Bá Quát, Bến Nghé, Sài Gòn, Hồ Chí Minh 700000, Vietnam",
+  "phone": "0966 595 857",
+  "internationalPhone": "+84 966 595 857",
+  "website": "https://www.facebook.com/ivoirepastry/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3207190988256656467",
+  "rating": 4.6,
+  "reviewCount": 912,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7779101,
+    106.7039685
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 7:00 PM",
+    "Tuesday: 10:30 AM – 7:00 PM",
+    "Wednesday: 10:30 AM – 7:00 PM",
+    "Thursday: 10:30 AM – 7:00 PM",
+    "Friday: 10:30 AM – 7:00 PM",
+    "Saturday: 9:30 AM – 7:00 PM",
+    "Sunday: 9:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ivoire-pastry-boutique-quan-1/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:17:51.302Z"
+}

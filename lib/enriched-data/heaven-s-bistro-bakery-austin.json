@@ -1,0 +1,44 @@
+{
+  "slug": "heaven-s-bistro-bakery-austin",
+  "name": "Heaven's Bistro Bakery",
+  "curatedName": "Heaven's Bistro Bakery",
+  "city": "Austin",
+  "country": "United States",
+  "placeId": "ChIJFRCqIr3NRIYRYbiKimV9Mpk",
+  "googleName": "Heaven's Bistro Bakery",
+  "formattedAddress": "2205 W Parmer Ln Ste 100, Austin, TX 78727, USA",
+  "phone": "(512) 351-8044",
+  "internationalPhone": "+1 512-351-8044",
+  "website": "https://heavensbistrobakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11039023511708022881",
+  "rating": 4.5,
+  "reviewCount": 796,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.416901,
+    -97.699074
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/heaven-s-bistro-bakery-austin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:11:00.934Z"
+}

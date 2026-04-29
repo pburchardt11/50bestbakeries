@@ -1,0 +1,45 @@
+{
+  "slug": "sugar-sage-bakery-dallas",
+  "name": "Sugar & Sage Bakery",
+  "curatedName": "Sugar & Sage Bakery",
+  "city": "Dallas",
+  "country": "United States",
+  "placeId": "ChIJsQcBNG2fToYRB_DeHV3hbGM",
+  "googleName": "Sugar & Sage Bakery",
+  "formattedAddress": "4314 Lovers Ln, Dallas, TX 75225, USA",
+  "phone": "(469) 759-6697",
+  "internationalPhone": "+1 469-759-6697",
+  "website": "http://www.sugarandsagebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7164348897288974343",
+  "rating": 4.6,
+  "reviewCount": 412,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.8514415,
+    -96.8092674
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugar-sage-bakery-dallas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:09:47.222Z"
+}

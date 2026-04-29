@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-la-pain-d-a-cote-cotonou",
+  "name": "Boulangerie la pain d'a cote",
+  "city": "Cotonou",
+  "country": "Benin",
+  "placeId": "ChIJ_zK9madVIxARknawZIE3Scg",
+  "googleName": "Boulangerie le pain d'à côté",
+  "formattedAddress": "9CC9+WWQ, Ave des Amazones, Cotonou, Benin",
+  "phone": "01 62 87 38 87",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14432127509765060242",
+  "rating": 3.6,
+  "reviewCount": 58,
+  "coords": [
+    6.3723477,
+    2.4198515
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-la-pain-d-a-cote-cotonou/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:09:32.683Z"
+}

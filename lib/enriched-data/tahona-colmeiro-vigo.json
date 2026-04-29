@@ -1,0 +1,45 @@
+{
+  "slug": "tahona-colmeiro-vigo",
+  "name": "Tahona Colmeiro",
+  "curatedName": "Tahona Colmeiro",
+  "city": "Vigo",
+  "country": "Spain",
+  "placeId": "ChIJuwvYjgxiLw0RR_cC4Mlkq3A",
+  "googleName": "Tahona Colmeiro",
+  "formattedAddress": "Rúa do Pintor Colmeiro, 6, Freixeiro, 36211 Vigo, Pontevedra, Spain",
+  "phone": "986 41 38 04",
+  "internationalPhone": "+34 986 41 38 04",
+  "website": "http://www.tahonacolmeiro.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8118693571474945863",
+  "rating": 4.3,
+  "reviewCount": 661,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.224014,
+    -8.7289368
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tahona-colmeiro-vigo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:19.459Z"
+}

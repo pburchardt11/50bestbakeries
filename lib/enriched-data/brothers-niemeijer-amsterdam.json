@@ -1,0 +1,43 @@
+{
+  "slug": "brothers-niemeijer-amsterdam",
+  "name": "Brothers Niemeijer",
+  "curatedName": "Brothers Niemeijer",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "placeId": "ChIJo0OOEMgJxkcR7MpenCwZEWA",
+  "googleName": "Brothers Niemeijer",
+  "formattedAddress": "Nieuwendijk 35, 1012 MA Amsterdam, Netherlands",
+  "phone": "020 707 6752",
+  "internationalPhone": "+31 20 707 6752",
+  "website": "http://www.gebroedersniemeijer.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6922341781637876460",
+  "rating": 4.5,
+  "reviewCount": 974,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.37819,
+    4.895675
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:15 AM – 5:00 PM",
+    "Wednesday: 8:15 AM – 5:00 PM",
+    "Thursday: 8:15 AM – 5:00 PM",
+    "Friday: 8:15 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Sourdough bread, coffee & French pastries, plus light lunches, at a bakery with an art deco ceiling.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brothers-niemeijer-amsterdam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:51.668Z"
+}

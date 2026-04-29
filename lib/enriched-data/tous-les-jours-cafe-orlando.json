@@ -1,0 +1,44 @@
+{
+  "slug": "tous-les-jours-cafe-orlando",
+  "name": "TOUS les JOURS Cafe",
+  "curatedName": "TOUS les JOURS Cafe",
+  "city": "Orlando",
+  "country": "United States",
+  "placeId": "ChIJUc4noOp_54gRAt_YEkGo_6g",
+  "googleName": "Tous les Jours Cafe",
+  "formattedAddress": "5555 S Kirkman Rd, Orlando, FL 32819, USA",
+  "phone": "(407) 317-6985",
+  "internationalPhone": "+1 407-317-6985",
+  "website": "https://www.tljus.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12177636914875653890",
+  "rating": 4.6,
+  "reviewCount": 382,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.4817148,
+    -81.4577935
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-cafe-orlando/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:56.359Z"
+}

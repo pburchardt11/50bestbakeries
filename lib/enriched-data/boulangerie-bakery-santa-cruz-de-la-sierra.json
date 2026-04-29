@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-bakery-santa-cruz-de-la-sierra",
+  "name": "Boulangerie Bakery",
+  "curatedName": "Boulangerie Bakery",
+  "city": "Santa Cruz de la Sierra",
+  "country": "Bolivia",
+  "placeId": "ChIJDdYUNpzC8ZMRVx6W2CQjpgo",
+  "googleName": "Boulangerie Bakery",
+  "formattedAddress": "Av. Iberica esquina, Santa Cruz de la Sierra, Bolivia",
+  "phone": "77600210",
+  "internationalPhone": "+591 77600210",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=767339427672759895",
+  "rating": 4.5,
+  "reviewCount": 464,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -17.8071999,
+    -63.2063989
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-bakery-santa-cruz-de-la-sierra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:56.391Z"
+}

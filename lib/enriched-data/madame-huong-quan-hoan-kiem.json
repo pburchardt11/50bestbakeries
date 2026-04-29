@@ -1,0 +1,44 @@
+{
+  "slug": "madame-huong-quan-hoan-kiem",
+  "name": "Madame Huong",
+  "curatedName": "Madame Huong",
+  "city": "Quận Hoàn Kiếm",
+  "country": "Vietnam",
+  "placeId": "ChIJ_9UnOpOrNTERv34RuZXIxO0",
+  "googleName": "Madame Huong",
+  "formattedAddress": "39 P. Lý Thường Kiệt, Hàng Bài, Cửa Nam, Hà Nội, Vietnam",
+  "phone": "0902 544 888",
+  "internationalPhone": "+84 902 544 888",
+  "website": "https://madamehuong.vn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17133039427804823231",
+  "rating": 4,
+  "reviewCount": 1117,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0228187,
+    105.8517878
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:30 PM",
+    "Tuesday: 7:30 AM – 10:30 PM",
+    "Wednesday: 7:30 AM – 10:30 PM",
+    "Thursday: 7:30 AM – 10:30 PM",
+    "Friday: 7:30 AM – 10:30 PM",
+    "Saturday: 7:30 AM – 10:30 PM",
+    "Sunday: 7:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/madame-huong-quan-hoan-kiem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:18:57.153Z"
+}

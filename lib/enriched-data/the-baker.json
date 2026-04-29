@@ -1,0 +1,32 @@
+{
+  "slug": "the-baker",
+  "name": "The Baker",
+  "city": "Благоевград",
+  "country": "Bulgaria",
+  "placeId": "ChIJL6DEpTf1qhQRTf802jWOru0",
+  "googleName": "Crave - Little Bites of Joy",
+  "formattedAddress": "Blagoevgrad Center, bul. \"Sveti Sveti Kiril I Metodiy\" 11, 2700 Blagoevgrad, Bulgaria",
+  "phone": "089 994 0764",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17126782794881892173",
+  "rating": 5,
+  "reviewCount": 15,
+  "coords": [
+    42.0188979,
+    23.0925918
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-baker/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:25:08.036Z"
+}

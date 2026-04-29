@@ -1,0 +1,44 @@
+{
+  "slug": "monika-panaderia-artesanal-san-luis-potosi",
+  "name": "Monika Panadería Artesanal",
+  "curatedName": "Monika Panadería Artesanal",
+  "city": "San Luis Potosí",
+  "country": "Mexico",
+  "placeId": "ChIJL8UQZFGZKoQRZLu09J9ELKA",
+  "googleName": "Monika Panadería Artesanal",
+  "formattedAddress": "Av. Cuauhtémoc 900c, Vista Hermosa, 78250 San Luis Potosí, S.L.P., Mexico",
+  "phone": "444 591 2598",
+  "internationalPhone": "+52 444 591 2598",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11541675398839712612",
+  "rating": 4.6,
+  "reviewCount": 94,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.1474812,
+    -100.9990579
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: 8:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/monika-panaderia-artesanal-san-luis-potosi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:02.591Z"
+}

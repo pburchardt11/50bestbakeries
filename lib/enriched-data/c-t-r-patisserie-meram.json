@@ -1,0 +1,44 @@
+{
+  "slug": "c-t-r-patisserie-meram",
+  "name": "Çıtır Patisserie",
+  "curatedName": "Çıtır Patisserie",
+  "city": "Meram",
+  "country": "Türkiye",
+  "placeId": "ChIJw9MPQCqE0BQRAJYUnUXZcbU",
+  "googleName": "Çıtır patisserie",
+  "formattedAddress": "Alavardi mah Fatih Cad. No:122f, Alavardı, 42090 Meram/Konya, Türkiye",
+  "phone": "(0332) 502 19 19",
+  "internationalPhone": "+90 332 502 19 19",
+  "website": "http://www.citirpatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13074470086244603392",
+  "rating": 4.2,
+  "reviewCount": 243,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.8767937,
+    32.4504014
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 1:00 AM",
+    "Tuesday: 9:00 AM – 1:00 AM",
+    "Wednesday: 9:30 AM – 1:00 AM",
+    "Thursday: 9:30 AM – 1:00 AM",
+    "Friday: 9:30 AM – 1:00 AM",
+    "Saturday: 9:30 AM – 1:00 AM",
+    "Sunday: 9:30 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/c-t-r-patisserie-meram/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:03:13.955Z"
+}

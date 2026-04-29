@@ -1,0 +1,32 @@
+{
+  "slug": "celicia-sv-antiguo-cuscatlan",
+  "name": "Celicia.sv",
+  "city": "Antiguo Cuscatlán",
+  "country": "El Salvador",
+  "placeId": "ChIJ-wnSccQxY48RjglNBww1AYo",
+  "googleName": "Celicia Gluten Free",
+  "formattedAddress": "calle principal casa No. 88, San Salvador 1101, El Salvador",
+  "phone": "6017 7767",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9944287777989134734",
+  "rating": 4,
+  "reviewCount": 80,
+  "coords": [
+    13.6684763,
+    -89.2260245
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 7:30 PM",
+    "Saturday: 10:00 AM – 7:30 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/celicia-sv-antiguo-cuscatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:02:53.635Z"
+}

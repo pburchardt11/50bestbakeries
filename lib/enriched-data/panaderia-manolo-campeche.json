@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-manolo-campeche",
+  "name": "Panadería Manolo",
+  "curatedName": "Panadería Manolo",
+  "city": "Campeche",
+  "country": "Mexico",
+  "placeId": "ChIJ_a3xb0SxUBERqB-iQ1Utjew",
+  "googleName": "Panadería Manolo",
+  "formattedAddress": "Brasil 136-A, Barrio de Sta Ana, 24050 San Francisco de Campeche, Camp., Mexico",
+  "phone": "981 207 2675",
+  "internationalPhone": "+52 981 207 2675",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17045330008897363880",
+  "rating": 4.5,
+  "reviewCount": 277,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.8373734,
+    -90.52830569999999
+  ],
+  "openingHours": [
+    "Monday: 5:45 AM – 8:00 PM",
+    "Tuesday: 5:45 AM – 8:00 PM",
+    "Wednesday: 5:45 AM – 8:00 PM",
+    "Thursday: 5:45 AM – 8:00 PM",
+    "Friday: 5:45 AM – 8:00 PM",
+    "Saturday: 5:45 AM – 8:00 PM",
+    "Sunday: 5:45 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-manolo-campeche/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:34.068Z"
+}

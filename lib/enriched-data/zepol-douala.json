@@ -1,0 +1,32 @@
+{
+  "slug": "zepol-douala",
+  "name": "Zepol",
+  "city": "Douala",
+  "country": "Cameroon",
+  "placeId": "ChIJDf4Ccl8SYRARVdNeo1-TWPw",
+  "googleName": "Zepol",
+  "formattedAddress": "3M2W+XX8, Rue Sylvani, Douala, Cameroon",
+  "phone": "2 33 42 79 11",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18183445534480454485",
+  "rating": 3.9,
+  "reviewCount": 3436,
+  "coords": [
+    4.0526638,
+    9.697262199999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zepol-douala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:37:19.258Z"
+}

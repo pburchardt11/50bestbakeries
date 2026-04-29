@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-bajo-grande-abdon-calderon",
+  "name": "Panaderia Bajo Grande",
+  "city": "Abdón Calderón",
+  "country": "Ecuador",
+  "placeId": "ChIJ1RM3PsKRK5AR5A9Od4SyFlw",
+  "googleName": "Panaderia BAJO GRANDE",
+  "formattedAddress": "Abdón Calderón Parish, Portoviejo, Ecuador",
+  "phone": "(05) 264-7388",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6635687382984036324",
+  "rating": 5,
+  "reviewCount": 8,
+  "coords": [
+    -1.0303325,
+    -80.34207909999999
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 5:00 PM",
+    "Tuesday: 5:00 AM – 5:00 PM",
+    "Wednesday: 5:00 AM – 5:00 PM",
+    "Thursday: 5:00 AM – 5:00 PM",
+    "Friday: 5:00 AM – 5:00 PM",
+    "Saturday: 5:00 AM – 5:00 PM",
+    "Sunday: 5:00 – 10:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-bajo-grande-abdon-calderon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:59:10.836Z"
+}

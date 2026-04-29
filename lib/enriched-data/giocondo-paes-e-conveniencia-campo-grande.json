@@ -1,0 +1,44 @@
+{
+  "slug": "giocondo-paes-e-conveniencia-campo-grande",
+  "name": "Giocondo Pães e Conveniência",
+  "curatedName": "Giocondo Pães e Conveniência",
+  "city": "Campo Grande",
+  "country": "Brazil",
+  "placeId": "ChIJTUz9wPTohpQRtM2WCiieoGI",
+  "googleName": "Giocondo Pães e Conveniência",
+  "formattedAddress": "R. Alexandre, 294 - Vila Giocondo Orsi, Campo Grande - MS, 79022-080, Brazil",
+  "phone": "(67) 99294-0926",
+  "internationalPhone": "+55 67 99294-0926",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7106854106804178356",
+  "rating": 4.6,
+  "reviewCount": 838,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.441641,
+    -54.5864296
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/giocondo-paes-e-conveniencia-campo-grande/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:53.538Z"
+}

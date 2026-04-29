@@ -1,0 +1,43 @@
+{
+  "slug": "bakery-bread-and-art-contagem",
+  "name": "Bakery Bread and Art",
+  "curatedName": "Bakery Bread and Art",
+  "city": "Contagem",
+  "country": "Brazil",
+  "placeId": "ChIJPUeJgZaVpgARgtV4yVrQluU",
+  "googleName": "Bakery Bread and Art",
+  "formattedAddress": "Av. José Faria da Rocha, 2950 - Eldorado, Contagem - MG, 32315-140, Brazil",
+  "phone": "(31) 3353-3515",
+  "internationalPhone": "+55 31 3353-3515",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16543639369537869186",
+  "rating": 4.5,
+  "reviewCount": 508,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.9370654,
+    -44.0438213
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 10:00 PM",
+    "Tuesday: 5:00 AM – 10:00 PM",
+    "Wednesday: 5:00 AM – 10:00 PM",
+    "Thursday: 5:00 AM – 10:00 PM",
+    "Friday: 5:00 AM – 10:00 PM",
+    "Saturday: 5:00 AM – 10:00 PM",
+    "Sunday: 5:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-bread-and-art-contagem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:58.512Z"
+}

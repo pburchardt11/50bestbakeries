@@ -1,0 +1,32 @@
+{
+  "slug": "caylas-cakes-and-treats-saint-george",
+  "name": "Caylas Cakes And Treats",
+  "city": "Saint George",
+  "country": "Barbados",
+  "placeId": "ChIJjXJOuSjzQ4wR6o2nnHAFWcA",
+  "googleName": "Caylas Cakes And Treats",
+  "formattedAddress": "Frenchs, Bridgetown, Saint George Barbados",
+  "phone": "(246) 251-1813",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13860115309432114666",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    13.1298011,
+    -59.52232549999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/caylas-cakes-and-treats-saint-george/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:56:42.929Z"
+}

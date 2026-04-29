@@ -1,0 +1,43 @@
+{
+  "slug": "jw-dezato-kota-kinabalu",
+  "name": "JW Dezato",
+  "curatedName": "JW Dezato",
+  "city": "Kota Kinabalu",
+  "country": "Malaysia",
+  "placeId": "ChIJk6iQcNVpOzIRFcIWYrghW0k",
+  "googleName": "JW Dezato",
+  "formattedAddress": "11-0, Lorong Lintas Plaza 3, Lintas Plaza, 88300 Kota Kinabalu, Sabah, Malaysia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/dezato_official/?hl=en",
+  "googleMapsUrl": "https://maps.google.com/?cid=5285855663452766741",
+  "rating": 4.6,
+  "reviewCount": 29,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    5.9462587,
+    116.0885067
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 8:00 PM",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 10:00 PM",
+    "Saturday: 11:00 AM – 10:00 PM",
+    "Sunday: 11:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jw-dezato-kota-kinabalu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:22.667Z"
+}

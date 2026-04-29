@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-la-sota-tampico",
+  "name": "Panaderia La Sota",
+  "curatedName": "Panaderia La Sota",
+  "city": "Tampico",
+  "country": "Mexico",
+  "placeId": "ChIJc7ilU-L514UR1kF8C0vqiyU",
+  "googleName": "Panaderia La Sota",
+  "formattedAddress": "Matamoros 119, Laguna del Carpintero, 89169 Tampico, Tamps., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.facebook.com/PanificadoraDeLaSotaOficial/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2705513609202254294",
+  "rating": 4.6,
+  "reviewCount": 1419,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.2422148,
+    -97.85843679999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-sota-tampico/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:26.343Z"
+}

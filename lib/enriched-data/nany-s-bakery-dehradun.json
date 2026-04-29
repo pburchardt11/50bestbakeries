@@ -1,0 +1,43 @@
+{
+  "slug": "nany-s-bakery-dehradun",
+  "name": "Nany's Bakery",
+  "curatedName": "Nany's Bakery",
+  "city": "Dehradun",
+  "country": "India",
+  "placeId": "ChIJJ3TEgM8pCTkRKQiOLePejWo",
+  "googleName": "Nany's Bakery",
+  "formattedAddress": "Vikas Lok Lane, 2, EC Road, opposite Crossroads Mall, Karanpur, Dehradun, Uttarakhand 248001, India",
+  "phone": "084496 80680",
+  "internationalPhone": "+91 84496 80680",
+  "website": "http://www.nanys.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7678038007039789097",
+  "rating": 4,
+  "reviewCount": 3183,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.3320508,
+    78.0537872
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nany-s-bakery-dehradun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:02.374Z"
+}

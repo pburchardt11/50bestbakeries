@@ -1,0 +1,32 @@
+{
+  "slug": "confexion-belmopan",
+  "name": "Confexion",
+  "city": "Belmopan",
+  "country": "Belize",
+  "placeId": "ChIJ6cNwbVzVXY8RzDzDetAG47w",
+  "googleName": "Confexion",
+  "formattedAddress": "19 Cayman St, Belmopan, Belize",
+  "phone": "615-3737",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13610729991326350540",
+  "rating": 3.7,
+  "reviewCount": 3,
+  "coords": [
+    17.2591815,
+    -88.76914049999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confexion-belmopan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:06:28.567Z"
+}

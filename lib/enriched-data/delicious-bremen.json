@@ -1,0 +1,43 @@
+{
+  "slug": "delicious-bremen",
+  "name": "Delicious Bremen",
+  "curatedName": "Delicious Bremen",
+  "city": "Bremen",
+  "country": "Germany",
+  "placeId": "ChIJVVWWZOEnsUcRXoxQhthasS0",
+  "googleName": "Delicious - Bremen",
+  "formattedAddress": "Graf-Moltke-Straße 35, 28211 Bremen, Germany",
+  "phone": "0421 51704240",
+  "internationalPhone": "+49 421 51704240",
+  "website": "https://yellow.pages.wwwcafe.de/delicious-bremen/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3292512688597404766",
+  "rating": 4.7,
+  "reviewCount": 79,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.07946260000001,
+    8.833258599999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delicious-bremen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:11.724Z"
+}

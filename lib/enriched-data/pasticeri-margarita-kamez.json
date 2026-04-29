@@ -1,0 +1,32 @@
+{
+  "slug": "pasticeri-margarita-kamez",
+  "name": "Pastiçeri Margarita",
+  "city": "Kamëz",
+  "country": "Albania",
+  "placeId": "ChIJezDd5goyUBMRcH7ZaXbQTLQ",
+  "googleName": "Pastiçeri Margarita",
+  "formattedAddress": "Rruga Berisha, Kamëz 1030, Albania",
+  "phone": "069 206 0537",
+  "website": "https://www.facebook.com/PasticeriMargaritaK/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12991988232057618032",
+  "rating": 4.8,
+  "reviewCount": 9,
+  "coords": [
+    41.38400499999999,
+    19.761528
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticeri-margarita-kamez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:42.629Z"
+}

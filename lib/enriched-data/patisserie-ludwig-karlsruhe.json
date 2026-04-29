@@ -1,0 +1,44 @@
+{
+  "slug": "patisserie-ludwig-karlsruhe",
+  "name": "Pâtisserie Ludwig",
+  "curatedName": "Pâtisserie Ludwig",
+  "city": "Karlsruhe",
+  "country": "Germany",
+  "placeId": "ChIJ28unE1oGl0cRyeaflT25Rvo",
+  "googleName": "Pâtisserie Ludwig",
+  "formattedAddress": "Herrenstraße 27, 76133 Karlsruhe, Germany",
+  "phone": "0721 98922100",
+  "internationalPhone": "+49 721 98922100",
+  "website": "http://www.patisserie-ludwig.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18034305432006158025",
+  "rating": 4.8,
+  "reviewCount": 464,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.0083402,
+    8.397876799999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 11:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-ludwig-karlsruhe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:55.482Z"
+}

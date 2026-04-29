@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-las-almendras-apodaca",
+  "name": "Panadería Las Almendras",
+  "curatedName": "Panadería Las Almendras",
+  "city": "Apodaca",
+  "country": "Mexico",
+  "placeId": "ChIJ_-_unAnsYoYRA63aJ_5s69Y",
+  "googleName": "Panadería Las Almendras",
+  "formattedAddress": "Ignacio Allende 323, Cabecera Municipal (Apodaca), Apodaca Centro, 66600 Cdad. Apodaca, N.L., Mexico",
+  "phone": "81 8386 2316",
+  "internationalPhone": "+52 81 8386 2316",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15486591582489718019",
+  "rating": 4.4,
+  "reviewCount": 296,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.7804101,
+    -100.1863403
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:15 PM",
+    "Tuesday: 7:00 AM – 8:15 PM",
+    "Wednesday: 7:00 AM – 8:15 PM",
+    "Thursday: 7:00 AM – 8:15 PM",
+    "Friday: 7:00 AM – 8:15 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-las-almendras-apodaca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:08.885Z"
+}

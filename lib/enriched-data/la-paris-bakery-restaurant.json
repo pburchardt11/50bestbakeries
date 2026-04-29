@@ -1,0 +1,32 @@
+{
+  "slug": "la-paris-bakery-restaurant",
+  "name": "La Paris Bakery & Restaurant",
+  "city": "المنامة",
+  "country": "Bahrain",
+  "placeId": "ChIJe7ghaKWvST4RsRbd87FXckg",
+  "googleName": "Layers Artisan Croissanterie",
+  "formattedAddress": "125 Rd No 2607, Manama 326, Bahrain",
+  "phone": "3403 6541",
+  "website": "http://layerscroissant.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5220331339888006833",
+  "rating": 4.7,
+  "reviewCount": 479,
+  "coords": [
+    26.2205363,
+    50.5884237
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-paris-bakery-restaurant/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:47:43.756Z"
+}

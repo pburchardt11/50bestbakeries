@@ -1,0 +1,44 @@
+{
+  "slug": "sub-rosa-bakery-richmond",
+  "name": "Sub Rosa Bakery",
+  "curatedName": "Sub Rosa Bakery",
+  "city": "Richmond",
+  "country": "United States",
+  "placeId": "ChIJJc_fdOcQsYkR9HrA7kaiHxI",
+  "googleName": "Sub Rosa Bakery",
+  "formattedAddress": "620 N 25th St, Richmond, VA 23223, USA",
+  "phone": "(804) 788-7672",
+  "internationalPhone": "+1 804-788-7672",
+  "website": "http://www.subrosabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1305940842497735412",
+  "rating": 4.8,
+  "reviewCount": 1294,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.5349306,
+    -77.4159111
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Local grains are house ground & baked in wood ovens to make bread & pastry in an airy, rustic space.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sub-rosa-bakery-richmond/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:36.852Z"
+}

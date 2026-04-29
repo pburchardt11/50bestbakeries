@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-manchester-juiz-de-fora",
+  "name": "Padaria Manchester",
+  "curatedName": "Padaria Manchester",
+  "city": "Juiz de Fora",
+  "country": "Brazil",
+  "placeId": "ChIJs0Qa-J6cmAAR-Js2LW6arjA",
+  "googleName": "Padaria Manchester",
+  "formattedAddress": "R. Santo Antônio, 694 - Centro, Juiz de Fora - MG, 36015-000, Brazil",
+  "phone": "(32) 3215-8305",
+  "internationalPhone": "+55 32 3215-8305",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3507910957763828728",
+  "rating": 4.4,
+  "reviewCount": 799,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -21.7595175,
+    -43.351761
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-manchester-juiz-de-fora/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:23.898Z"
+}

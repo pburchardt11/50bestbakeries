@@ -1,0 +1,43 @@
+{
+  "slug": "fortitude-bakehouse-london",
+  "name": "Fortitude Bakehouse",
+  "curatedName": "Fortitude Bakehouse",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJVxsH2DAbdkgRONMO5bA31EA",
+  "googleName": "Fortitude Bakehouse",
+  "formattedAddress": "35 Colonnade, London WC1N 1JD, UK",
+  "phone": "020 7837 5456",
+  "internationalPhone": "+44 20 7837 5456",
+  "website": "http://www.fortitudebakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4671419946386772792",
+  "rating": 4.4,
+  "reviewCount": 2789,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5228207,
+    -0.1242042
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 8:30 AM – 4:00 PM",
+    "Sunday: 8:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fortitude-bakehouse-london/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:53.672Z"
+}

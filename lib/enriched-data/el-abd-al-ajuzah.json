@@ -1,0 +1,32 @@
+{
+  "slug": "el-abd-al-ajuzah",
+  "name": "El Abd",
+  "city": "Al ‘Ajūzah",
+  "country": "Egypt",
+  "placeId": "ChIJqzoSWIVAWBQRK5PE245n93Q",
+  "googleName": "حلواني العبد - El Abd Patisserie",
+  "formattedAddress": "25 Talaat Harb, Bab Al Louq, Qasr El Nil, Cairo Governorate 4280150, Egypt",
+  "phone": "02 21600102",
+  "website": "https://elabdfoods.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8428319090917282603",
+  "rating": 4.5,
+  "reviewCount": 20802,
+  "coords": [
+    30.0495747,
+    31.2399952
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": "Modest shop making European-style & traditional Middle Eastern pastries, plus ice cream, since 1974.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-abd-al-ajuzah/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:01:29.192Z"
+}

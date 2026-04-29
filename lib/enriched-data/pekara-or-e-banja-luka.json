@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-or-e-banja-luka",
+  "name": "Pekara Đorđe",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJEYADwzgDXkcRblwt62Z8IHo",
+  "googleName": "Pekara Đorđe",
+  "formattedAddress": "Stevana Bulajića 42a, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": "051 460-840",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8800170453356076142",
+  "rating": 4.5,
+  "reviewCount": 166,
+  "coords": [
+    44.7593364,
+    17.1986034
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-or-e-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:16:16.912Z"
+}

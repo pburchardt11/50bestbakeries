@@ -1,0 +1,44 @@
+{
+  "slug": "tiramisu-bakery-kenya-nairobi",
+  "name": "Tiramisu Bakery Kenya",
+  "curatedName": "Tiramisu Bakery Kenya",
+  "city": "Nairobi",
+  "country": "Kenya",
+  "placeId": "ChIJdd3kPMIXLxgRebp8f4oNOK4",
+  "googleName": "Tiramisu Bakery Kenya",
+  "formattedAddress": "Limuru Rd, Nairobi, Kenya",
+  "phone": "0748 027315",
+  "internationalPhone": "+254 748 027315",
+  "website": "https://www.tiramisubakery.co.ke/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12553798849790786169",
+  "rating": 4.2,
+  "reviewCount": 111,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -1.228887,
+    36.805036
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiramisu-bakery-kenya-nairobi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:37.633Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "senzo-pasteleria",
+  "name": "Senzo Pastelería",
+  "city": "Берковица",
+  "country": "Bulgaria",
+  "placeId": "ChIJxabQBIArq0AR0ycgYp2wtMc",
+  "googleName": "Senzo Pastelería",
+  "formattedAddress": "Tsentar, ul. \"Aleksandrovska\" 19, 3500 Berkovitsa, Bulgaria",
+  "phone": "087 767 4224",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14390320899358205907",
+  "rating": 5,
+  "reviewCount": 124,
+  "coords": [
+    43.236705,
+    23.1266787
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 6:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 9:30 AM – 6:00 PM",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/senzo-pasteleria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:24:57.333Z"
+}

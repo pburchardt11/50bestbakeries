@@ -1,0 +1,32 @@
+{
+  "slug": "the-bagel-bar-bak",
+  "name": "The Bagel Bar",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJnUhzH7R9MEARl5K_i3TdiGM",
+  "googleName": "The Bagel Bar",
+  "formattedAddress": "4 Məmmədəmin Rəsulzadə, Bakı 0101, Azerbaijan",
+  "phone": "050 251 51 90",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7172225899218047639",
+  "rating": 4,
+  "reviewCount": 252,
+  "coords": [
+    40.3683844,
+    49.8382933
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 1:00 AM",
+    "Tuesday: 7:30 AM – 1:00 AM",
+    "Wednesday: 7:30 AM – 1:00 AM",
+    "Thursday: 7:30 AM – 1:00 AM",
+    "Friday: 7:30 AM – 1:00 AM",
+    "Saturday: 7:30 AM – 1:00 AM",
+    "Sunday: 7:30 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bagel-bar-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:38:11.522Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "brioche-casa-de-delicias-manaus",
+  "name": "Brioche Casa de Delicias",
+  "curatedName": "Brioche Casa de Delicias",
+  "city": "Manaus",
+  "country": "Brazil",
+  "placeId": "ChIJKRiin54QbJIR2zDrJPOVjyI",
+  "googleName": "Brioche Casa de Delicias",
+  "formattedAddress": "Alameda Santos Dumont Conjunto Santos Dumont, 15 - Da Paz, Manaus - AM, 69049-000, Brazil",
+  "phone": "(92) 99525-5055",
+  "internationalPhone": "+55 92 99525-5055",
+  "website": "http://instagram.com/briochecasadedelicias",
+  "googleMapsUrl": "https://maps.google.com/?cid=2490373990488158427",
+  "rating": 4.5,
+  "reviewCount": 1331,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -3.0551389,
+    -60.0300306
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brioche-casa-de-delicias-manaus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:35.296Z"
+}

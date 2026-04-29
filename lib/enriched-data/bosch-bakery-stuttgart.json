@@ -1,0 +1,43 @@
+{
+  "slug": "bosch-bakery-stuttgart",
+  "name": "Bosch Bakery",
+  "curatedName": "Bosch Bakery",
+  "city": "Stuttgart",
+  "country": "Germany",
+  "placeId": "ChIJMRIgQRXbmUcRt2UOlz4DY1w",
+  "googleName": "Bosch Bakery",
+  "formattedAddress": "Schwabstraße 104, 70193 Stuttgart, Germany",
+  "phone": "0711 6364773",
+  "internationalPhone": "+49 711 6364773",
+  "website": "http://www.brezelbaeckbosch.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6657168241540883895",
+  "rating": 4.7,
+  "reviewCount": 422,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.7795167,
+    9.1563416
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bosch-bakery-stuttgart/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:26.966Z"
+}

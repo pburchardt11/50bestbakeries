@@ -1,0 +1,43 @@
+{
+  "slug": "pada-padoca-ponta-grossa",
+  "name": "Padá Padoca",
+  "curatedName": "Padá Padoca",
+  "city": "Ponta Grossa",
+  "country": "Brazil",
+  "placeId": "ChIJ7Zlmp7Yb6JQRSu0QNMXM0so",
+  "googleName": "Padá Padoca",
+  "formattedAddress": "R. Dr. Paula Xavier, 977 - Estrela, Ponta Grossa - PR, 84010-270, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.bing.com/ck/a?!&&p=6fa313adb8006015cdd9458665817ac6192791a022f8c07bd2a7e1bc5b7dc813JmltdHM9MTc3MTQ1OTIwMA&ptn=3&ver=2&hsh=4&fclid=37c14a04-79d0-6ed1-1948-45fc781e6f8d&psq=PADA+PADOCA&u=a1aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wYWRhLnBhZG9jYS8",
+  "googleMapsUrl": "https://maps.google.com/?cid=14614968888124829002",
+  "rating": 4.6,
+  "reviewCount": 519,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.1005299,
+    -50.1615159
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:30 PM",
+    "Tuesday: 7:30 AM – 8:30 PM",
+    "Wednesday: 7:30 AM – 8:30 PM",
+    "Thursday: 7:30 AM – 8:30 PM",
+    "Friday: 7:30 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pada-padoca-ponta-grossa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:20:53.212Z"
+}

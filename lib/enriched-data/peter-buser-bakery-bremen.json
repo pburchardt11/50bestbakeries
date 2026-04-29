@@ -1,0 +1,43 @@
+{
+  "slug": "peter-buser-bakery-bremen",
+  "name": "Peter Büser Bakery",
+  "curatedName": "Peter Büser Bakery",
+  "city": "Bremen",
+  "country": "Germany",
+  "placeId": "ChIJwfG_2UsnsUcRnh2QXPyFQRA",
+  "googleName": "Peter Büser Bakery",
+  "formattedAddress": "Osterholzer Landstraße 103, 28325 Bremen, Germany",
+  "phone": "0421 420117",
+  "internationalPhone": "+49 421 420117",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1171364697024241054",
+  "rating": 4.6,
+  "reviewCount": 268,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.0732783,
+    8.936293599999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/peter-buser-bakery-bremen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:38.583Z"
+}

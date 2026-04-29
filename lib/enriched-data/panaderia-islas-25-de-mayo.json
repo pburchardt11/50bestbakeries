@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-islas-25-de-mayo",
+  "name": "Panadería Islas",
+  "city": "25 de Mayo",
+  "country": "Argentina",
+  "placeId": "ChIJf341KVZgvpURX1ITeK99l3k",
+  "googleName": "Panadería Islas",
+  "formattedAddress": "C. 10 23, B6660 Veinticinco de Mayo, Provincia de Buenos Aires, Argentina",
+  "phone": "02345 65-2757",
+  "website": "https://www.facebook.com/panaderia.islas",
+  "googleMapsUrl": "https://maps.google.com/?cid=8761609792659870303",
+  "rating": 4.7,
+  "reviewCount": 116,
+  "coords": [
+    -35.4368224,
+    -60.1730014
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 12:30 PM, 4:00 – 8:00 PM",
+    "Wednesday: 8:00 AM – 12:30 PM, 4:30 – 8:00 PM",
+    "Thursday: 8:00 AM – 12:30 PM, 4:30 – 8:00 PM",
+    "Friday: 8:00 AM – 12:30 PM, 4:30 – 8:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM, 4:30 – 8:30 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-islas-25-de-mayo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:21:00.651Z"
+}

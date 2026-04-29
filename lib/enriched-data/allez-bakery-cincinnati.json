@@ -1,0 +1,43 @@
+{
+  "slug": "allez-bakery-cincinnati",
+  "name": "Allez Bakery",
+  "curatedName": "Allez Bakery",
+  "city": "Cincinnati",
+  "country": "United States",
+  "placeId": "ChIJ_ZJts-KzQYgRmHoPe-_cZo4",
+  "googleName": "Allez Bakery",
+  "formattedAddress": "1208 Main St, Cincinnati, OH 45202, USA",
+  "phone": "(513) 381-6700",
+  "internationalPhone": "+1 513-381-6700",
+  "website": "http://allezbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10261131722130160280",
+  "rating": 4.8,
+  "reviewCount": 218,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.1095359,
+    -84.51161239999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Petite bakery for elevated, to-go sandwiches at lunch, plus housemade loaves of bread baked daily.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/allez-bakery-cincinnati/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:54.680Z"
+}

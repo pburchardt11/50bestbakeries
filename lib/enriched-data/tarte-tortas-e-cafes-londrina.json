@@ -1,0 +1,43 @@
+{
+  "slug": "tarte-tortas-e-cafes-londrina",
+  "name": "Tartê tortas e cafés",
+  "curatedName": "Tartê tortas e cafés",
+  "city": "Londrina",
+  "country": "Brazil",
+  "placeId": "ChIJtQp1U3ZD65QRRDbsaT0X0S0",
+  "googleName": "Tartê tortas e cafés",
+  "formattedAddress": "Av. Juscelino Kubitscheck, 2223 - Canadá, Londrina - PR, 86060-020, Brazil",
+  "phone": "(43) 3027-4900",
+  "internationalPhone": "+55 43 3027-4900",
+  "website": "https://www.instagram.com/tartetortas_",
+  "googleMapsUrl": "https://maps.google.com/?cid=3301445554376816196",
+  "rating": 4.8,
+  "reviewCount": 491,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.3195601,
+    -51.1676483
+  ],
+  "openingHours": [
+    "Monday: 2:00 – 6:30 PM",
+    "Tuesday: 8:30 AM – 6:30 PM",
+    "Wednesday: 8:30 AM – 6:30 PM",
+    "Thursday: 8:30 AM – 6:30 PM",
+    "Friday: 8:30 AM – 6:30 PM",
+    "Saturday: 9:00 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tarte-tortas-e-cafes-londrina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:56.205Z"
+}

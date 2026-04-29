@@ -1,0 +1,44 @@
+{
+  "slug": "maple-pasteles-villahermosa",
+  "name": "Maple Pasteles",
+  "curatedName": "Maple Pasteles",
+  "city": "Villahermosa",
+  "country": "Mexico",
+  "placeId": "ChIJmcTUVX_X7YURTvuRXUXZ5Vk",
+  "googleName": "Maple Pasteles",
+  "formattedAddress": "Heroico Colegio Militar 151, Atasta de Serra, 86100 Villahermosa, Tab., Mexico",
+  "phone": "993 139 1219",
+  "internationalPhone": "+52 993 139 1219",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6477822530988145486",
+  "rating": 4.5,
+  "reviewCount": 31,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    17.9786768,
+    -92.9421356
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maple-pasteles-villahermosa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:40.320Z"
+}

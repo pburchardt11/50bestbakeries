@@ -1,0 +1,32 @@
+{
+  "slug": "furthmayr-roland-alkoven",
+  "name": "Furthmayr Roland",
+  "city": "Alkoven",
+  "country": "Austria",
+  "placeId": "ChIJd3Vd9daRc0cRNuKznwOHjGA",
+  "googleName": "Bäckerei-Cafe Furthmayr",
+  "formattedAddress": "Kirchenstraße 8, 4072 Alkoven, Austria",
+  "phone": "07274 6319",
+  "website": "http://baeckerei-furthmayr.stadtausstellung.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6957083974014591542",
+  "rating": 4.6,
+  "reviewCount": 96,
+  "coords": [
+    48.2863889,
+    14.1072222
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 1:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/furthmayr-roland-alkoven/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:33:17.531Z"
+}

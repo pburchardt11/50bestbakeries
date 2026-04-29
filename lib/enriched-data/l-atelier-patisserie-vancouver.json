@@ -1,0 +1,44 @@
+{
+  "slug": "l-atelier-patisserie-vancouver",
+  "name": "L’atelier Patisserie",
+  "curatedName": "L’atelier Patisserie",
+  "city": "Vancouver",
+  "country": "Canada",
+  "placeId": "ChIJG-6eyV9xhlQRaE2TyhUSANo",
+  "googleName": "L'Atelier Patisserie",
+  "formattedAddress": "599 E Broadway, Vancouver, BC V5T 0G8, Canada",
+  "phone": "(604) 329-6153",
+  "internationalPhone": "+1 604-329-6153",
+  "website": "https://www.latelierpatisserie.online/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15708575385070554472",
+  "rating": 4.6,
+  "reviewCount": 974,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.26262130000001,
+    -123.0913392
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Petite bakery specializing in artisanal French pastries, desserts & breads, plus coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-atelier-patisserie-vancouver/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:43.457Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "vanilla-corner",
+  "name": "Vanilla Corner",
+  "city": "Варна",
+  "country": "Bulgaria",
+  "placeId": "ChIJSWPnEABXpEARCAgM7oarTS4",
+  "googleName": "Vanilla Corner",
+  "formattedAddress": "Sv. Sv. Konstantin I ElenaPrimorski, ул. 46-та 3, 9006 Varna, Bulgaria",
+  "phone": "089 991 8118",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3336511494959138824",
+  "rating": 4.6,
+  "reviewCount": 61,
+  "coords": [
+    43.2274186,
+    28.0049628
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vanilla-corner/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:28:10.753Z"
+}

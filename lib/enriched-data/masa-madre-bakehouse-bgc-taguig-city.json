@@ -1,0 +1,43 @@
+{
+  "slug": "masa-madre-bakehouse-bgc-taguig-city",
+  "name": "Masa Madre Bakehouse BGC",
+  "curatedName": "Masa Madre Bakehouse BGC",
+  "city": "Taguig City",
+  "country": "Philippines",
+  "placeId": "ChIJz0tuDHPJlzMRksUxnHwJKYU",
+  "googleName": "Masa Madre Bakehouse BGC",
+  "formattedAddress": "H354+RGP, 11th Ave, Taguig, Metro Manila, Philippines",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9595210911890654610",
+  "rating": 4.5,
+  "reviewCount": 88,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.559587,
+    121.0563333
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/masa-madre-bakehouse-bgc-taguig-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:29.659Z"
+}

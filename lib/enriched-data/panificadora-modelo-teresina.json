@@ -1,0 +1,46 @@
+{
+  "slug": "panificadora-modelo-teresina",
+  "name": "Panificadora Modelo",
+  "curatedName": "Panificadora Modelo",
+  "city": "Teresina",
+  "country": "Brazil",
+  "placeId": "ChIJrYfi02E3jgcRFXPMtDd07Oc",
+  "googleName": "Panificadora Modelo",
+  "formattedAddress": "Av. Frei Serafim, 1910 - Centro (Sul), Teresina - PI, 64001-020, Brazil",
+  "phone": "(86) 3221-8595",
+  "internationalPhone": "+55 86 3221-8595",
+  "website": "https://pedido.anota.ai/loja/modelo-panificadora-2?f=ms",
+  "googleMapsUrl": "https://maps.google.com/?cid=16711860099870389013",
+  "rating": 4.3,
+  "reviewCount": 2097,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -5.0892757,
+    -42.8080085
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-modelo-teresina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:17.369Z"
+}

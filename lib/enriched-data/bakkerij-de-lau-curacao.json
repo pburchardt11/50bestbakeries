@@ -1,0 +1,32 @@
+{
+  "slug": "bakkerij-de-lau-curacao",
+  "name": "Bakkerij de Lau",
+  "city": "Curacao",
+  "country": "Curaçao",
+  "placeId": "ChIJuRLjZgCdhI4R_LxqcBZuKDo",
+  "googleName": "Bakery Curacao Bakkerij de Lau",
+  "formattedAddress": "112 Winston Churchillweg, Willemstad, Curaçao",
+  "phone": "9 522 7923",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4190720495922625788",
+  "rating": 4.9,
+  "reviewCount": 9,
+  "coords": [
+    12.1532097,
+    -68.9366569
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-de-lau-curacao/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:12.096Z"
+}

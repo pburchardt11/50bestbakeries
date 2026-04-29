@@ -1,0 +1,32 @@
+{
+  "slug": "bolinhos-celestiais-luanda",
+  "name": "Bolinhos Celestiais",
+  "city": "Luanda",
+  "country": "Angola",
+  "placeId": "ChIJ0X2nZADzURoRTpoG3MAjUow",
+  "googleName": "Bolinhos Celestiais",
+  "formattedAddress": "Feira Popular, Luanda, Angola",
+  "phone": "952 765 812",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10111183424632298062",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -8.8364548,
+    13.2564727
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:30 PM",
+    "Tuesday: 8:00 AM – 4:30 PM",
+    "Wednesday: 8:00 AM – 4:30 PM",
+    "Thursday: 8:00 AM – 4:30 PM",
+    "Friday: 8:00 AM – 4:30 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bolinhos-celestiais-luanda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:18:03.863Z"
+}

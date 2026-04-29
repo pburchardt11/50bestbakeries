@@ -1,0 +1,43 @@
+{
+  "slug": "global-bakery-kebon-bawang-jakarta-utara",
+  "name": "Global Bakery Kebon Bawang",
+  "curatedName": "Global Bakery Kebon Bawang",
+  "city": "Jakarta Utara",
+  "country": "Indonesia",
+  "placeId": "ChIJhWK5Yeofai4RePzUbaohIoA",
+  "googleName": "Global Bakery Kebon Bawang",
+  "formattedAddress": "12, RT.8/RW.6, Kb. Bawang, Kec. Tj. Priok, Jkt Utara, Daerah Khusus Ibukota Jakarta 14320, Indonesia",
+  "phone": "0812-4999-9473",
+  "internationalPhone": "+62 812-4999-9473",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9232979201933769848",
+  "rating": 4.8,
+  "reviewCount": 674,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.1159376,
+    106.8898243
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/global-bakery-kebon-bawang-jakarta-utara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:57.627Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "garden-cakes-nilufer",
+  "name": "Garden Cakes",
+  "curatedName": "Garden Cakes",
+  "city": "Nilüfer",
+  "country": "Türkiye",
+  "placeId": "ChIJu6lLMjwUyhQRWLrsoYRqpKY",
+  "googleName": "Garden Cakes",
+  "formattedAddress": "Ceyhan apartmanı, İhsaniye, Alageyik Sk., 16130 Ni̇lüfer/Bursa, Türkiye",
+  "phone": "(0224) 246 38 88",
+  "internationalPhone": "+90 224 246 38 88",
+  "website": "http://www.gardencakes.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12007839624361458264",
+  "rating": 4.3,
+  "reviewCount": 339,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.2232333,
+    28.979244
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/garden-cakes-nilufer/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:00:43.839Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "vo-vilma-confeitaria-betim",
+  "name": "Vó Vilma Confeitaria Betim",
+  "curatedName": "Vó Vilma Confeitaria Betim",
+  "city": "Betim",
+  "country": "Brazil",
+  "placeId": "ChIJHbHWhvHDpgARNqM3bA5yNMw",
+  "googleName": "Vó Vilma Confeitaria Betim",
+  "formattedAddress": "R. do Rosário, 950 - Horto, Betim - MG, 32604-120, Brazil",
+  "phone": "(31) 99537-7007",
+  "internationalPhone": "+55 31 99537-7007",
+  "website": "https://vovilmaconfeitaria.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14714511288796947254",
+  "rating": 4.8,
+  "reviewCount": 261,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.9575117,
+    -44.2006158
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vo-vilma-confeitaria-betim/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:26.197Z"
+}

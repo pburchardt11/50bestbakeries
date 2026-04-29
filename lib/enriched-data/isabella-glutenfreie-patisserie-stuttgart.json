@@ -1,0 +1,45 @@
+{
+  "slug": "isabella-glutenfreie-patisserie-stuttgart",
+  "name": "Isabella Glutenfreie Pâtisserie",
+  "curatedName": "Isabella Glutenfreie Pâtisserie",
+  "city": "Stuttgart",
+  "country": "Germany",
+  "placeId": "ChIJocDwUWDbmUcRTugR7YA7Aio",
+  "googleName": "Isabella Glutenfreie Pâtisserie",
+  "formattedAddress": "Calwer Str. 48, 70173 Stuttgart, Germany",
+  "phone": "0711 54096995",
+  "internationalPhone": "+49 711 54096995",
+  "website": "http://www.isabella-patisserie.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3027047324465621070",
+  "rating": 4.5,
+  "reviewCount": 1260,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.7755598,
+    9.1732399
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 6:00 PM",
+    "Tuesday: 9:30 AM – 6:00 PM",
+    "Wednesday: 9:30 AM – 6:00 PM",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/isabella-glutenfreie-patisserie-stuttgart/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:24.560Z"
+}

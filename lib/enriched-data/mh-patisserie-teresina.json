@@ -1,0 +1,43 @@
+{
+  "slug": "mh-patisserie-teresina",
+  "name": "MH Pâtisserie",
+  "curatedName": "MH Pâtisserie",
+  "city": "Teresina",
+  "country": "Brazil",
+  "placeId": "ChIJ5fpFuQo5jgcRYXMvfcFyxhw",
+  "googleName": "MH Pâtisserie",
+  "formattedAddress": "R. Des. Manoel Castelo Branco, 1320 - Loja 06 - Jóquei, Teresina - PI, 64052-445, Brazil",
+  "phone": "(86) 98816-8575",
+  "internationalPhone": "+55 86 98816-8575",
+  "website": "https://www.instagram.com/mh.patisserie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2073470853805208417",
+  "rating": 4.7,
+  "reviewCount": 105,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -5.074300399999999,
+    -42.7883827
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 12:00 PM, 3:00 – 9:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM, 3:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mh-patisserie-teresina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:32.765Z"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "best-bagel-basilica-budapest",
+  "name": "Best Bagel Basilica",
+  "curatedName": "Best Bagel Basilica",
+  "city": "Budapest",
+  "country": "Hungary",
+  "placeId": "ChIJ82IHm_7dQUcR_apJB9PpFp8",
+  "googleName": "Best Bagel Basilica",
+  "formattedAddress": "Budapest, Zrínyi u. 16, 1051 Hungary",
+  "phone": "06 70 560 7942",
+  "internationalPhone": "+36 70 560 7942",
+  "website": "https://bestbagel.hu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11463606994087815933",
+  "rating": 4.8,
+  "reviewCount": 3896,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.5006268,
+    19.0513342
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/best-bagel-basilica-budapest/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:30.717Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "bakers-benito-juarez",
+  "name": "Bakers",
+  "curatedName": "Bakers",
+  "city": "Benito Juárez",
+  "country": "Mexico",
+  "placeId": "ChIJLzRLzTX_0YURyWNwbZ8DUtk",
+  "googleName": "Bakers Félix Cuevas",
+  "formattedAddress": "Félix Cuevas 326, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX, Mexico",
+  "phone": "55 2589 3871",
+  "internationalPhone": "+52 55 2589 3871",
+  "website": "http://bakers.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15659582837591401417",
+  "rating": 4.3,
+  "reviewCount": 850,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.3730227,
+    -99.1746994
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 8:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-benito-juarez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:12.175Z"
+}

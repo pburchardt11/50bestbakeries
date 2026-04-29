@@ -1,0 +1,32 @@
+{
+  "slug": "the-bakery-shop-tbs-bulaq",
+  "name": "The Bakery Shop (TBS)",
+  "city": "Bulaq",
+  "country": "Egypt",
+  "placeId": "ChIJ3b7FWt5AWBQROfQ6N8kABno",
+  "googleName": "Ben Dover Bakery",
+  "formattedAddress": "4 D Saraya El، Gezira St, Omar Al Khayam, Zamalek, Cairo Governorate 4270150, Egypt",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8792716186702509113",
+  "rating": 4.3,
+  "reviewCount": 971,
+  "coords": [
+    30.0562464,
+    31.2206932
+  ],
+  "openingHours": [
+    "Monday: 6:15 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakery-shop-tbs-bulaq/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:01:58.629Z"
+}

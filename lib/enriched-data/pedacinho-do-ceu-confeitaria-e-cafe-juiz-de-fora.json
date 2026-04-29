@@ -1,0 +1,44 @@
+{
+  "slug": "pedacinho-do-ceu-confeitaria-e-cafe-juiz-de-fora",
+  "name": "Pedacinho do céu confeitaria e café.",
+  "curatedName": "Pedacinho do céu confeitaria e café.",
+  "city": "Juiz de Fora",
+  "country": "Brazil",
+  "placeId": "ChIJCZrys5ubmAARp8wol3T9LwE",
+  "googleName": "Pedacinho do céu confeitaria e café.",
+  "formattedAddress": "Rua José Lourenço Kelmer, 1300 - São Pedro, Juiz de Fora - MG, 36036-630, Brazil",
+  "phone": "(32) 99109-5844",
+  "internationalPhone": "+55 32 99109-5844",
+  "website": "https://www.instagram.com/confeitaria.cafe.pedacinho.ceu?igsh=MWh1dXJ0eDRqcm1rZw==",
+  "googleMapsUrl": "https://maps.google.com/?cid=85565595137395879",
+  "rating": 5,
+  "reviewCount": 10,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -21.7709571,
+    -43.3698293
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:30 PM",
+    "Tuesday: 9:00 AM – 7:30 PM",
+    "Wednesday: 9:00 AM – 7:30 PM",
+    "Thursday: 9:00 AM – 7:30 PM",
+    "Friday: 9:00 AM – 7:30 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pedacinho-do-ceu-confeitaria-e-cafe-juiz-de-fora/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:26.226Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "chimney-cake-bakery-wroc-aw",
+  "name": "Chimney Cake Bakery",
+  "curatedName": "Chimney Cake Bakery",
+  "city": "Wrocław",
+  "country": "Poland",
+  "placeId": "ChIJZWxdgHbCD0cRoypdzRFvJRw",
+  "googleName": "Chimney Cake Bakery",
+  "formattedAddress": "Oławska 4, 50-123 Wrocław, Poland",
+  "phone": "71 302 75 22",
+  "internationalPhone": "+48 71 302 75 22",
+  "website": "http://www.chimneycakebakery.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2028149329450838691",
+  "rating": 4.7,
+  "reviewCount": 1938,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.1087713,
+    17.0345061
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chimney-cake-bakery-wroc-aw/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:58:19.625Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "kuchenhimmel-brotfein-leipzig",
+  "name": "Kuchenhimmel & Brotfein",
+  "curatedName": "Kuchenhimmel & Brotfein",
+  "city": "Leipzig",
+  "country": "Germany",
+  "placeId": "ChIJQ7EWDFv4pkcR4XQs_641zn8",
+  "googleName": "Kuchenhimmel & Brotfein",
+  "formattedAddress": "Martinstraße 6, 04318 Leipzig, Germany",
+  "phone": "0163 7813245",
+  "internationalPhone": "+49 163 7813245",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9209357313740928225",
+  "rating": 4.8,
+  "reviewCount": 318,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.3340961,
+    12.4124652
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kuchenhimmel-brotfein-leipzig/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:27.287Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "zeit-fur-brot-hamburg",
+  "name": "Zeit für Brot",
+  "curatedName": "Zeit für Brot",
+  "city": "Hamburg",
+  "country": "Germany",
+  "placeId": "ChIJbcn3nYWFsUcRz_-rcge3bx4",
+  "googleName": "ZEIT FÜR BROT",
+  "formattedAddress": "Ottenser Hauptstraße 41, 22765 Hamburg, Germany",
+  "phone": "040 46650710",
+  "internationalPhone": "+49 40 46650710",
+  "website": "https://zeitfuerbrot.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2193172786169249743",
+  "rating": 4.6,
+  "reviewCount": 1025,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.5518189,
+    9.9286171
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zeit-fur-brot-hamburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:18.718Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "mom-s-artisan-bakery-bandung-kota",
+  "name": "Mom's Artisan Bakery",
+  "curatedName": "Mom's Artisan Bakery",
+  "city": "Bandung Kota",
+  "country": "Indonesia",
+  "placeId": "ChIJLw41AEvmaC4Rw7nk7WEoBbc",
+  "googleName": "Mom's Artisan Bakery",
+  "formattedAddress": "Jl. Progo No.18, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115, Indonesia",
+  "phone": "0812-2009-2250",
+  "internationalPhone": "+62 812-2009-2250",
+  "website": "https://www.facebook.com/momsbakeryindonesia",
+  "googleMapsUrl": "https://maps.google.com/?cid=13187991484892494275",
+  "rating": 4.6,
+  "reviewCount": 1490,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.904675999999999,
+    107.618506
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mom-s-artisan-bakery-bandung-kota/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:37:10.604Z"
+}

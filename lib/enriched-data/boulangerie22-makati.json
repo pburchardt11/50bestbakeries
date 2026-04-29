@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie22-makati",
+  "name": "Boulangerie22",
+  "curatedName": "Boulangerie22",
+  "city": "Makati",
+  "country": "Philippines",
+  "placeId": "ChIJ9cqQbA7JlzMR850x4pA7H4E",
+  "googleName": "Boulangerie22",
+  "formattedAddress": "G/F, One Legazpi Park, Rada, Legazpi Village, Makati, Kalakhang Maynila, Philippines",
+  "phone": "0985 951 1119",
+  "internationalPhone": "+63 985 951 1119",
+  "website": "http://boulangerie22.ph/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9304220848626966003",
+  "rating": 4.8,
+  "reviewCount": 317,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.555027,
+    121.017334
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie22-makati/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:57.082Z"
+}

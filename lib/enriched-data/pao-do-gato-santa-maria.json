@@ -1,0 +1,44 @@
+{
+  "slug": "pao-do-gato-santa-maria",
+  "name": "Pão do Gato",
+  "curatedName": "Pão do Gato",
+  "city": "Santa Maria",
+  "country": "Brazil",
+  "placeId": "ChIJM82ay9O1A5URAVIlvDFAop0",
+  "googleName": "Pão do Gato ®️",
+  "formattedAddress": "Av. Pref. Evandro Behr, 6987 - Camobi, Santa Maria - RS, 97110-800, Brazil",
+  "phone": "(55) 99909-9222",
+  "internationalPhone": "+55 55 99909-9222",
+  "website": "http://www.paodogato.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11358711792535949825",
+  "rating": 4.9,
+  "reviewCount": 452,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.701989,
+    -53.7188042
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 2:00 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pao-do-gato-santa-maria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:13.093Z"
+}

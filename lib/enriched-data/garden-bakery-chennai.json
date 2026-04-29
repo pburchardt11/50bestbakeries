@@ -1,0 +1,43 @@
+{
+  "slug": "garden-bakery-chennai",
+  "name": "Garden Bakery",
+  "curatedName": "Garden Bakery",
+  "city": "Chennai",
+  "country": "India",
+  "placeId": "ChIJQa3cQABeUjoRavX5n7xD_6c",
+  "googleName": "Bakery Garden",
+  "formattedAddress": "1 47th Street, 5th Main Rd, Pazhavanthangal, Chennai, Tamil Nadu 600114, India",
+  "phone": "096770 07552",
+  "internationalPhone": "+91 96770 07552",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12105468800812053866",
+  "rating": 4.6,
+  "reviewCount": 1303,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.9859763,
+    80.1858893
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/garden-bakery-chennai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:43.327Z"
+}

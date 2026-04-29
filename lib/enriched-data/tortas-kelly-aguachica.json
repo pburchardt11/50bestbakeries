@@ -1,0 +1,32 @@
+{
+  "slug": "tortas-kelly-aguachica",
+  "name": "Tortas Kelly",
+  "city": "Aguachica",
+  "country": "Colombia",
+  "placeId": "ChIJq1C14mWFXY4R1G4OK3m3I3s",
+  "googleName": "Tortas Kelly",
+  "formattedAddress": "Cra 10A #9-18, Aguachica, Cesar, Colombia",
+  "phone": "316 7525719",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8873137421891301076",
+  "rating": 4.4,
+  "reviewCount": 183,
+  "coords": [
+    8.303872,
+    -73.62434
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tortas-kelly-aguachica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:45:54.861Z"
+}

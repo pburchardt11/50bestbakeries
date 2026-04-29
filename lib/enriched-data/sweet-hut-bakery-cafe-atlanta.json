@@ -1,0 +1,44 @@
+{
+  "slug": "sweet-hut-bakery-cafe-atlanta",
+  "name": "Sweet Hut Bakery & Cafe",
+  "curatedName": "Sweet Hut Bakery & Cafe",
+  "city": "Atlanta",
+  "country": "United States",
+  "placeId": "ChIJeXx8Q_R34RQRFF7iKuRsEmA",
+  "googleName": "Sweet Hut Bakery & Cafe",
+  "formattedAddress": "935 Peachtree St NE UNIT 935, Atlanta, GA 30309, USA",
+  "phone": "(404) 600-4800",
+  "internationalPhone": "+1 404-600-4800",
+  "website": "http://www.sweethutbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6922715304449695252",
+  "rating": 4.5,
+  "reviewCount": 3134,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.7802021,
+    -84.38393850000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Cafe with contemporary decor serving Asian-style breads, pastries & cakes, plus an array of teas.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-hut-bakery-cafe-atlanta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:09.137Z"
+}

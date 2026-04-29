@@ -1,0 +1,44 @@
+{
+  "slug": "la-vita-sisli",
+  "name": "La Vita",
+  "curatedName": "La Vita",
+  "city": "Şişli",
+  "country": "Türkiye",
+  "placeId": "ChIJuws12g63yhQRTNM3okZXqpw",
+  "googleName": "La Vita",
+  "formattedAddress": "Teşvikiye, Vali Konağı Cd. 58/A, 34365 Şişli/İstanbul, Türkiye",
+  "phone": "(0212) 246 50 70",
+  "internationalPhone": "+90 212 246 50 70",
+  "website": "http://www.lavita.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11288931376838464332",
+  "rating": 4.4,
+  "reviewCount": 770,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0526722,
+    28.9927101
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-vita-sisli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:03.797Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "aroma-bakery-coffee-co-higuey",
+  "name": "AROMA Bakery&Coffee.co",
+  "city": "Higüey",
+  "country": "Dominican Republic",
+  "placeId": "ChIJKVCtOQDtqI4R2EGRvUe7-Mo",
+  "googleName": "Aroma bakery & coffee",
+  "formattedAddress": "MHRG+PFJ, Av. España, Punta Cana 23000, Dominican Republic",
+  "phone": "(849) 473-2442",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14625645706683171288",
+  "rating": 4.9,
+  "reviewCount": 58,
+  "coords": [
+    18.6918382,
+    -68.4238738
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 10:00 PM",
+    "Wednesday: 11:00 AM – 10:00 PM",
+    "Thursday: 11:00 AM – 10:00 PM",
+    "Friday: 11:00 AM – 10:00 PM",
+    "Saturday: 11:00 AM – 10:00 PM",
+    "Sunday: 11:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aroma-bakery-coffee-co-higuey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:30.900Z"
+}

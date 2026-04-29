@@ -1,0 +1,43 @@
+{
+  "slug": "line-bakery-taguatinga",
+  "name": "Line Bakery",
+  "curatedName": "Line Bakery",
+  "city": "Taguatinga",
+  "country": "Brazil",
+  "placeId": "ChIJ4XgrTAAzWpMRP5s8R_Rwa5A",
+  "googleName": "Line Bakery",
+  "formattedAddress": "Av. das Araucárias, 1395 - Águas Claras, Brasília - DF, 70297-400, Brazil",
+  "phone": "(61) 3081-1176",
+  "internationalPhone": "+55 61 3081-1176",
+  "website": "https://www.instagram.com/linebakeryoficial?igsh=MWdka29ub2lkMDdzdw==",
+  "googleMapsUrl": "https://maps.google.com/?cid=10406535558439148351",
+  "rating": 4.6,
+  "reviewCount": 446,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -15.8401058,
+    -48.01966239999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/line-bakery-taguatinga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:32.184Z"
+}

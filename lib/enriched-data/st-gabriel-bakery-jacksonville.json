@@ -1,0 +1,43 @@
+{
+  "slug": "st-gabriel-bakery-jacksonville",
+  "name": "St Gabriel Bakery",
+  "curatedName": "St Gabriel Bakery",
+  "city": "Jacksonville",
+  "country": "United States",
+  "placeId": "ChIJOZ8fTnS35YgRz4g7cMkgH2U",
+  "googleName": "St Gabriel Bakery",
+  "formattedAddress": "5816 St Augustine Rd, Jacksonville, FL 32207, USA",
+  "phone": "(904) 299-7429",
+  "internationalPhone": "+1 904-299-7429",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7286578771652217039",
+  "rating": 4.9,
+  "reviewCount": 337,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.2639477,
+    -81.63040480000001
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 4:00 PM",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-gabriel-bakery-jacksonville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:21.275Z"
+}

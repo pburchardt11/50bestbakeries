@@ -1,0 +1,44 @@
+{
+  "slug": "la-boulangerie-bakery-cafe-calgary",
+  "name": "La Boulangerie Bakery Cafe",
+  "curatedName": "La Boulangerie Bakery Cafe",
+  "city": "Calgary",
+  "country": "Canada",
+  "placeId": "ChIJParojxdwcVMRLkFusH_4lnU",
+  "googleName": "La Boulangerie Bakery Cafe",
+  "formattedAddress": "2435 4 St SW, Calgary, AB T2S 2T4, Canada",
+  "phone": "(403) 984-9294",
+  "internationalPhone": "+1 403-984-9294",
+  "website": "https://la-boulangerie-calgary.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8473232976248717614",
+  "rating": 4.3,
+  "reviewCount": 1266,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.030805,
+    -114.071716
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 6:00 PM",
+    "Sunday: 6:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Bustling, family-owned bakeshop offering pastries, crêpes & other treats, plus homestyle cafe meals.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boulangerie-bakery-cafe-calgary/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:03.157Z"
+}

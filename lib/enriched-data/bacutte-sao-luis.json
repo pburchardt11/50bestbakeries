@@ -1,0 +1,43 @@
+{
+  "slug": "bacutte-sao-luis",
+  "name": "Bacutte",
+  "curatedName": "Bacutte",
+  "city": "São Luís",
+  "country": "Brazil",
+  "placeId": "ChIJI9SFegeS9gcRfSiG-RdevYE",
+  "googleName": "Bacutte",
+  "formattedAddress": "Av. Beta, 10 - Parque Athenas, São Luís - MA, 65072-120, Brazil",
+  "phone": "(98) 3190-6300",
+  "internationalPhone": "+55 98 3190-6300",
+  "website": "https://www.instagram.com/padariabacutte/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9348731858554595453",
+  "rating": 4.4,
+  "reviewCount": 941,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -2.5039258,
+    -44.24734
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 – 10:00 AM, 2:00 – 9:00 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bacutte-sao-luis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:44.383Z"
+}

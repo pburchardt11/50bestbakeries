@@ -1,0 +1,45 @@
+{
+  "slug": "brotfabrik-recife",
+  "name": "Brotfabrik",
+  "curatedName": "Brotfabrik",
+  "city": "Recife",
+  "country": "Brazil",
+  "placeId": "ChIJF-YR2aQYqwcRMgLP1RDSAmU",
+  "googleName": "Brotfabrik",
+  "formattedAddress": "R. da Moeda, 87 - Recife, PE, 50030-040, Brazil",
+  "phone": "(81) 3424-2250",
+  "internationalPhone": "+55 81 3424-2250",
+  "website": "https://mechamenozap.com.br/brotfabrik/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7278610917532566066",
+  "rating": 4.6,
+  "reviewCount": 829,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -8.0646868,
+    -34.8726726
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brotfabrik-recife/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:01.775Z"
+}

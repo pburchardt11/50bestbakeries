@@ -1,0 +1,32 @@
+{
+  "slug": "greimuhle-adlwang",
+  "name": "Greimühle",
+  "city": "Adlwang",
+  "country": "Austria",
+  "placeId": "ChIJcVm4WTLdc0cR_VJ1R996qqA",
+  "googleName": "Greimühle",
+  "formattedAddress": "Mandorfer Str. 19, 4541 Adlwang, Austria",
+  "phone": "07258 3998",
+  "website": "https://www.greimuehle.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11577200891504448253",
+  "rating": 4.3,
+  "reviewCount": 14,
+  "coords": [
+    47.99288689999999,
+    14.2145568
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 5:00 PM",
+    "Tuesday: 5:30 AM – 5:00 PM",
+    "Wednesday: 5:30 AM – 5:00 PM",
+    "Thursday: 5:30 AM – 5:00 PM",
+    "Friday: 5:30 AM – 5:00 PM",
+    "Saturday: 5:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greimuhle-adlwang/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:31:46.116Z"
+}

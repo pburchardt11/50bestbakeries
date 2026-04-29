@@ -1,0 +1,32 @@
+{
+  "slug": "su-es-vom-rosenhof-alland",
+  "name": "Süßes vom Rosenhof",
+  "city": "Alland",
+  "country": "Austria",
+  "placeId": "ChIJWclmgWK9bUcRsKKRsnjAHC8",
+  "googleName": "Süßes vom Rosenhof",
+  "formattedAddress": "Holzschlag 9, 2534 Holzschlag, Austria",
+  "phone": "0676 9119348",
+  "website": "https://www.facebook.com/SuessesVomRosenhof",
+  "googleMapsUrl": "https://maps.google.com/?cid=3394799843755008688",
+  "rating": 4.8,
+  "reviewCount": 6,
+  "coords": [
+    48.0168694,
+    16.0673383
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 1:00 PM",
+    "Tuesday: 9:00 AM – 1:00 PM",
+    "Wednesday: 9:00 AM – 1:00 PM",
+    "Thursday: 9:00 AM – 1:00 PM",
+    "Friday: 9:00 AM – 1:00 PM",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/su-es-vom-rosenhof-alland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:33:19.886Z"
+}

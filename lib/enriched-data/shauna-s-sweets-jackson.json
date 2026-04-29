@@ -1,0 +1,43 @@
+{
+  "slug": "shauna-s-sweets-jackson",
+  "name": "Shauna's Sweets",
+  "curatedName": "Shauna's Sweets",
+  "city": "Jackson",
+  "country": "United States",
+  "placeId": "ChIJwXSrgvJ7moAR9kHvodb9gcM",
+  "googleName": "Shauna’s Sweets",
+  "formattedAddress": "250 French Bar Rd, Jackson, CA 95642, USA",
+  "phone": "(916) 586-4462",
+  "internationalPhone": "+1 916-586-4462",
+  "website": "https://www.facebook.com/profile.php?id=100083650275485&mibextid=LQQJ4d",
+  "googleMapsUrl": "https://maps.google.com/?cid=14087820207673262582",
+  "rating": 5,
+  "reviewCount": 42,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.3413933,
+    -120.7687353
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shauna-s-sweets-jackson/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:17:33.518Z"
+}

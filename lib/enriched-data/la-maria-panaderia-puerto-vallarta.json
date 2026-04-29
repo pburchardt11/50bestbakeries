@@ -1,0 +1,44 @@
+{
+  "slug": "la-maria-panaderia-puerto-vallarta",
+  "name": "La María Panadería",
+  "curatedName": "La María Panadería",
+  "city": "Puerto Vallarta",
+  "country": "Mexico",
+  "placeId": "ChIJT1lb9ohFIYQR9dWwry8pNSw",
+  "googleName": "La María Panadería",
+  "formattedAddress": "Francisca Rodríguez 169-Planta Baja, Zona Romántica, Emiliano Zapata, 48380 Puerto Vallarta, Jal., Mexico",
+  "phone": "322 381 8584",
+  "internationalPhone": "+52 322 381 8584",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3185497596222297589",
+  "rating": 4.8,
+  "reviewCount": 35,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.6010093,
+    -105.2370363
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-maria-panaderia-puerto-vallarta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:09.106Z"
+}

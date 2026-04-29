@@ -1,0 +1,43 @@
+{
+  "slug": "mine-confeitaria-osasco",
+  "name": "Mine Confeitaria",
+  "curatedName": "Mine Confeitaria",
+  "city": "Osasco",
+  "country": "Brazil",
+  "placeId": "ChIJq4ugCw__zpQRi8WyTnO4fIg",
+  "googleName": "Mine Confeitaria",
+  "formattedAddress": "R. João Crudo, 60 - Centro, Osasco - SP, 06090-000, Brazil",
+  "phone": "(11) 3681-1467",
+  "internationalPhone": "+55 11 3681-1467",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9834938491651409291",
+  "rating": 4.5,
+  "reviewCount": 920,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5327726,
+    -46.7794693
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mine-confeitaria-osasco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:22.176Z"
+}

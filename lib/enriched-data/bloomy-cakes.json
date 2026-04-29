@@ -1,0 +1,43 @@
+{
+  "slug": "bloomy-cakes",
+  "name": "Bloomy Cakes",
+  "curatedName": "Bloomy Cakes",
+  "city": "الدار البيضاء",
+  "country": "Morocco",
+  "placeId": "ChIJDWGP3fzSpw0RLDsm2180kRw",
+  "googleName": "Bloomy Cakes",
+  "formattedAddress": "24 Av. Ahmed Charci, Casablanca 20500, Morocco",
+  "phone": "06 61 25 10 35",
+  "internationalPhone": "+212 6 61 25 10 35",
+  "website": "https://linktr.ee/bloomycakes",
+  "googleMapsUrl": "https://maps.google.com/?cid=2058484090988280620",
+  "rating": 4.5,
+  "reviewCount": 480,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.5962558,
+    -7.652283499999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:30 PM",
+    "Tuesday: 9:00 AM – 8:30 PM",
+    "Wednesday: 9:00 AM – 8:30 PM",
+    "Thursday: 9:00 AM – 8:30 PM",
+    "Friday: 9:00 AM – 8:30 PM",
+    "Saturday: 9:00 AM – 8:30 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Pastry shop specializing in cheerful, custom-made cakes for birthdays & other special occasions.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bloomy-cakes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:25.087Z"
+}

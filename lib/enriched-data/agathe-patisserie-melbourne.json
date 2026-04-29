@@ -1,0 +1,43 @@
+{
+  "slug": "agathe-patisserie-melbourne",
+  "name": "Agathe Patisserie",
+  "curatedName": "Agathe Patisserie",
+  "city": "Melbourne",
+  "country": "Australia",
+  "placeId": "ChIJfesSSzto1moRAr84mrkiieA",
+  "googleName": "Agathé Pâtisserie",
+  "formattedAddress": "Shop 64/322 Coventry St, South Melbourne VIC 3205, Australia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16179501316856921858",
+  "rating": 4.5,
+  "reviewCount": 1407,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -37.8324718,
+    144.9568923
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: Closed",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/agathe-patisserie-melbourne/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:56.697Z"
+}

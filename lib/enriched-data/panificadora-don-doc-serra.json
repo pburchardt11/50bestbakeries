@@ -1,0 +1,43 @@
+{
+  "slug": "panificadora-don-doc-serra",
+  "name": "Panificadora Don Doc",
+  "curatedName": "Panificadora Don Doc",
+  "city": "Serra",
+  "country": "Brazil",
+  "placeId": "ChIJuX8nOf8fuAARQ2lWZfyi6wA",
+  "googleName": "Panificadora Don Doc",
+  "formattedAddress": "Av. Getúlio Vargas, 125 - Serra Centro, Serra - ES, 29176-090, Brazil",
+  "phone": "(27) 3251-1541",
+  "internationalPhone": "+55 27 3251-1541",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=66325824442624323",
+  "rating": 4.2,
+  "reviewCount": 688,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.1267569,
+    -40.3073971
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-don-doc-serra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:21:56.232Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "o-mesmo-pao-todo-dia-sao-jose-dos-pinhais",
+  "name": "O Mesmo Pão Todo Dia",
+  "curatedName": "O Mesmo Pão Todo Dia",
+  "city": "São José dos Pinhais",
+  "country": "Brazil",
+  "placeId": "ChIJb97tNonx3JQR7vWfO4q-fRA",
+  "googleName": "O Mesmo Pão Todo Dia",
+  "formattedAddress": "R. Joaquim Nabuco, 1311 - LJ 03 - São Cristóvão, São José dos Pinhais - PR, 83040-210, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1188315377610782190",
+  "rating": 5,
+  "reviewCount": 63,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.5259138,
+    -49.20129540000001
+  ],
+  "openingHours": [
+    "Monday: 1:00 – 7:30 PM",
+    "Tuesday: 12:00 – 7:30 PM",
+    "Wednesday: 12:00 – 7:30 PM",
+    "Thursday: 12:00 – 7:30 PM",
+    "Friday: 12:00 – 7:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/o-mesmo-pao-todo-dia-sao-jose-dos-pinhais/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:50.196Z"
+}

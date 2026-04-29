@@ -1,0 +1,32 @@
+{
+  "slug": "3-s-bakery-nassau",
+  "name": "3 S Bakery",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJqR2r4fd8L4kRB-E-cOR72Fg",
+  "googleName": "3 S Bakery",
+  "formattedAddress": "3M48+HX6, Nassau, The Bahamas",
+  "phone": "(242) 328-5883",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6402003091373089031",
+  "rating": 4.2,
+  "reviewCount": 415,
+  "coords": [
+    25.0564097,
+    -77.3326101
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/3-s-bakery-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:41:15.900Z"
+}

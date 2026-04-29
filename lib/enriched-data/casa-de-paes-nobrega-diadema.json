@@ -1,0 +1,43 @@
+{
+  "slug": "casa-de-paes-nobrega-diadema",
+  "name": "Casa de Pães Nobrega",
+  "curatedName": "Casa de Pães Nobrega",
+  "city": "Diadema",
+  "country": "Brazil",
+  "placeId": "ChIJR2WsPmRFzpQRzJUZj9NCMWE",
+  "googleName": "Casa de Pães Nobrega",
+  "formattedAddress": "R. Manoel da Nóbrega, 571 - Centro, Diadema - SP, 09910-720, Brazil",
+  "phone": "(11) 2375-2324",
+  "internationalPhone": "+55 11 2375-2324",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7003452371944183244",
+  "rating": 4.3,
+  "reviewCount": 3427,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.6899441,
+    -46.6228452
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-de-paes-nobrega-diadema/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:19.600Z"
+}

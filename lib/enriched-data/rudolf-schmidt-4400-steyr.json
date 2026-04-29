@@ -1,0 +1,32 @@
+{
+  "slug": "rudolf-schmidt-4400-steyr",
+  "name": "Rudolf Schmidt",
+  "city": "4400 Steyr",
+  "country": "Austria",
+  "placeId": "ChIJNQNDAvjFc0cR0tM1d3vPoMg",
+  "googleName": "Café Konditorei Schmidt",
+  "formattedAddress": "Stadtpl. 1, 4400 Steyr, Austria",
+  "phone": "07252 52598",
+  "website": "http://www.konditorei-schmidt.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14456782933047235538",
+  "rating": 4.4,
+  "reviewCount": 53,
+  "coords": [
+    48.0403915,
+    14.4203399
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rudolf-schmidt-4400-steyr/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:30:15.107Z"
+}

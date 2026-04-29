@@ -1,0 +1,30 @@
+{
+  "slug": "patisserie-hala-berrahal",
+  "name": "Patisserie Hala",
+  "city": "Berrahal",
+  "country": "Algeria",
+  "placeId": "ChIJN2NRzEwX8BIR9rXYK-xxdWI",
+  "googleName": "Patisserie Hala",
+  "formattedAddress": "RFP3+97M, Berrahal, Algeria",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7094702047153927670",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    36.8359573,
+    7.4531706
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: Closed",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T06:16:02.407Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "br-bakery",
+  "name": "Brø Bakery",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJKxnwmbDP20YR5TQPZbGhSKQ",
+  "googleName": "Brø bakery Бро бейкери Бробейкери bro bakery",
+  "formattedAddress": "vulica Bierascianskaja 4, Minsk, Minskaja voblasć 220034, Belarus",
+  "phone": "8 044 587-03-87",
+  "website": "https://brobakery.by/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11837889403820127461",
+  "rating": 4.7,
+  "reviewCount": 702,
+  "coords": [
+    53.9055707,
+    27.5868818
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/br-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:01:34.877Z"
+}

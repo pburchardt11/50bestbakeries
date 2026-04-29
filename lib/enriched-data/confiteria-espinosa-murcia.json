@@ -1,0 +1,44 @@
+{
+  "slug": "confiteria-espinosa-murcia",
+  "name": "Confiteria Espinosa",
+  "curatedName": "Confiteria Espinosa",
+  "city": "Murcia",
+  "country": "Spain",
+  "placeId": "ChIJz1Ba4wOCYw0RTU5FM_U_rHY",
+  "googleName": "Confitería Espinosa",
+  "formattedAddress": "C. Floridablanca, 3, bajo, 30002 Murcia, Spain",
+  "phone": "968 26 23 04",
+  "internationalPhone": "+34 968 26 23 04",
+  "website": "http://espinosa.es/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8551280114829446733",
+  "rating": 4.4,
+  "reviewCount": 2369,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.978645,
+    -1.130778
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confiteria-espinosa-murcia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:42.557Z"
+}

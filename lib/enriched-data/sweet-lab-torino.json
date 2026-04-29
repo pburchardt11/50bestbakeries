@@ -1,0 +1,44 @@
+{
+  "slug": "sweet-lab-torino",
+  "name": "Sweet Lab",
+  "curatedName": "Sweet Lab",
+  "city": "Torino",
+  "country": "Italy",
+  "placeId": "ChIJnTqch2RtiEcRK_-yttpi7EU",
+  "googleName": "Sweet Lab",
+  "formattedAddress": "Via Principe Amedeo, 39, 10123 Torino TO, Italy",
+  "phone": "011 1945 7907",
+  "internationalPhone": "+39 011 1945 7907",
+  "website": "https://www.sweetlabtorino.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5038510774628319019",
+  "rating": 4.4,
+  "reviewCount": 2678,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.066277,
+    7.6916596
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Cheerful brunch venue serving smoothie bowls, open-faced toasts & eggs, plus coffee & afternoon tea.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-lab-torino/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:54.820Z"
+}

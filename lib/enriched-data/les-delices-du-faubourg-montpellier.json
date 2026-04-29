@@ -1,0 +1,43 @@
+{
+  "slug": "les-delices-du-faubourg-montpellier",
+  "name": "Les Délices du Faubourg",
+  "curatedName": "Les Délices du Faubourg",
+  "city": "Montpellier",
+  "country": "France",
+  "placeId": "ChIJb-ZO2-avthIRN6E0Wp4HoYU",
+  "googleName": "Les Délices du Faubourg",
+  "formattedAddress": "69 Rue du Faubourg Boutonnet, 34090 Montpellier, France",
+  "phone": "04 67 54 55 04",
+  "internationalPhone": "+33 4 67 54 55 04",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9628985854994456887",
+  "rating": 4.8,
+  "reviewCount": 146,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.62050079999999,
+    3.872868
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 1:00 PM, 4:00 – 7:30 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-delices-du-faubourg-montpellier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:29.052Z"
+}

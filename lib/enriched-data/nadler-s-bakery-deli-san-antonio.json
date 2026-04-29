@@ -1,0 +1,44 @@
+{
+  "slug": "nadler-s-bakery-deli-san-antonio",
+  "name": "Nadler's Bakery & Deli",
+  "curatedName": "Nadler's Bakery & Deli",
+  "city": "San Antonio",
+  "country": "United States",
+  "placeId": "ChIJecYtUgpeXIYRhcFGEzqTOyc",
+  "googleName": "Nadler's Bakery & Deli",
+  "formattedAddress": "1621 Babcock Rd, San Antonio, TX 78229, USA",
+  "phone": "(210) 340-1021",
+  "internationalPhone": "+1 210-340-1021",
+  "website": "http://www.nadlers.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2827015068745908613",
+  "rating": 4.4,
+  "reviewCount": 1015,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.4928334,
+    -98.56914770000002
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Iconic bakery-deli prepping box lunches, sweets & specialty cakes, including carrot & Italian cream.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nadler-s-bakery-deli-san-antonio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:10:05.075Z"
+}

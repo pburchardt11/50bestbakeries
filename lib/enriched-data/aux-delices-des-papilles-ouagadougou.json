@@ -1,0 +1,32 @@
+{
+  "slug": "aux-delices-des-papilles-ouagadougou",
+  "name": "Aux Délices Des Papilles",
+  "city": "Ouagadougou",
+  "country": "Burkina Faso",
+  "placeId": "ChIJW0TwwlSXLg4R2X4OOR1KwIU",
+  "googleName": "Diane Delices",
+  "formattedAddress": "8CHH+CJG, Sandogo, Ouagadougou, Burkina Faso",
+  "phone": "75 82 27 15",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9637784691944619737",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    12.3285288,
+    -1.5709872
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aux-delices-des-papilles-ouagadougou/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:28:14.642Z"
+}

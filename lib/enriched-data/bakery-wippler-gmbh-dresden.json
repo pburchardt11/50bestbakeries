@@ -1,0 +1,45 @@
+{
+  "slug": "bakery-wippler-gmbh-dresden",
+  "name": "Bakery Wippler GmbH",
+  "curatedName": "Bakery Wippler GmbH",
+  "city": "Dresden",
+  "country": "Germany",
+  "placeId": "ChIJ82dZjAy4CUcRkg3fxmdOCg4",
+  "googleName": "Bakery Wippler GmbH",
+  "formattedAddress": "Söbrigener Str. 1, 01326 Dresden, Germany",
+  "phone": "0351 4173660",
+  "internationalPhone": "+49 351 4173660",
+  "website": "https://www.baeckerei-wippler.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1011707273923202450",
+  "rating": 4.6,
+  "reviewCount": 3331,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.0063536,
+    13.8746318
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-wippler-gmbh-dresden/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:55.092Z"
+}

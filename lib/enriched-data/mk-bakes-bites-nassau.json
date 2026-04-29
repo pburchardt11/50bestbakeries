@@ -1,0 +1,32 @@
+{
+  "slug": "mk-bakes-bites-nassau",
+  "name": "MK Bakes & Bites",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJ55Tjj7R9L4kR7FkiDtW4DIg",
+  "googleName": "MK Bakes & Bites",
+  "formattedAddress": "Abundant Life Road, Nassau, The Bahamas",
+  "phone": "(242) 805-2338",
+  "website": "https://mkenterprises242.wixsite.com/mkbakes",
+  "googleMapsUrl": "https://maps.google.com/?cid=9803413714083404268",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    25.0461937,
+    -77.3346347
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mk-bakes-bites-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:42:37.764Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "mr-cake-stockholm",
+  "name": "Mr Cake",
+  "curatedName": "Mr Cake",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "placeId": "ChIJlY9c4mmdX0YRWYyHslR1kHU",
+  "googleName": "MR CAKE",
+  "formattedAddress": "Rådmansgatan 12, 114 25 Stockholm, Sweden",
+  "phone": "08-400 171 90",
+  "internationalPhone": "+46 8 400 171 90",
+  "website": "http://mrcake.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8471399905716833369",
+  "rating": 4.3,
+  "reviewCount": 4804,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.34341959999999,
+    18.0689907
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mr-cake-stockholm/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:58.420Z"
+}

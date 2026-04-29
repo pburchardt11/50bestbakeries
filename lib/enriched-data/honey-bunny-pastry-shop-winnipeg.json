@@ -1,0 +1,43 @@
+{
+  "slug": "honey-bunny-pastry-shop-winnipeg",
+  "name": "Honey Bunny Pastry Shop",
+  "curatedName": "Honey Bunny Pastry Shop",
+  "city": "Winnipeg",
+  "country": "Canada",
+  "placeId": "ChIJzUXWiKV16lIR6VKNckZXBck",
+  "googleName": "Honey Bunny Pastry Shop",
+  "formattedAddress": "832 Corydon Ave, Winnipeg, MB R3M 0Y2, Canada",
+  "phone": "(204) 558-9038",
+  "internationalPhone": "+1 204-558-9038",
+  "website": "https://linktr.ee/hbps",
+  "googleMapsUrl": "https://maps.google.com/?cid=14485079736588260073",
+  "rating": 4.9,
+  "reviewCount": 497,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.8695805,
+    -97.1565979
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:00 PM",
+    "Tuesday: 11:00 AM – 9:00 PM",
+    "Wednesday: 11:00 AM – 9:00 PM",
+    "Thursday: 11:00 AM – 9:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/honey-bunny-pastry-shop-winnipeg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:20.917Z"
+}

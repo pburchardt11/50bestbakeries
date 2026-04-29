@@ -1,0 +1,45 @@
+{
+  "slug": "padaria-estrela-franca",
+  "name": "Padaria Estrela",
+  "curatedName": "Padaria Estrela",
+  "city": "Franca",
+  "country": "Brazil",
+  "placeId": "ChIJ6aVa2zumsJQRsj8RyJCKE40",
+  "googleName": "Padaria Estrela",
+  "formattedAddress": "Av. Pres. Vargas, 105 - Cidade Nova, Franca - SP, 14401-110, Brazil",
+  "phone": "(16) 3712-0900",
+  "internationalPhone": "+55 16 3712-0900",
+  "website": "http://www.estrelapadaria.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10165621138341838770",
+  "rating": 4.6,
+  "reviewCount": 6284,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.532063,
+    -47.39665489999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-estrela-franca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:23:23.868Z"
+}

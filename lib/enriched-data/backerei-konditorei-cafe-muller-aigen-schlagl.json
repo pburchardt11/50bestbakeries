@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-konditorei-cafe-muller-aigen-schlagl",
+  "name": "Bäckerei-Konditorei-Cafe Müller",
+  "city": "Aigen-Schlägl",
+  "country": "Austria",
+  "placeId": "ChIJ8Vhu3W2DdEcRQQVXgq3zJWM",
+  "googleName": "Bakeries Cafe Mueller",
+  "formattedAddress": "Hauptstraße 6, 4160 Aigen im Mühlkreis, Austria",
+  "phone": "07281 62570",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7144384310434792769",
+  "rating": 4.6,
+  "reviewCount": 174,
+  "coords": [
+    48.6458015,
+    13.9697953
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 12:30 PM, 2:00 – 6:00 PM",
+    "Tuesday: 5:30 AM – 12:30 PM, 2:00 – 6:00 PM",
+    "Wednesday: 5:30 AM – 12:30 PM, 2:00 – 6:00 PM",
+    "Thursday: 5:30 AM – 12:30 PM, 2:00 – 6:00 PM",
+    "Friday: 5:30 AM – 12:30 PM, 2:00 – 6:00 PM",
+    "Saturday: 5:30 AM – 12:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM, 2:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-konditorei-cafe-muller-aigen-schlagl/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:32:03.389Z"
+}

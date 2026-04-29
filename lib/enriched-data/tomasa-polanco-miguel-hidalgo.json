@@ -1,0 +1,43 @@
+{
+  "slug": "tomasa-polanco-miguel-hidalgo",
+  "name": "Tomasa Polanco",
+  "curatedName": "Tomasa Polanco",
+  "city": "Miguel Hidalgo",
+  "country": "Mexico",
+  "placeId": "ChIJ0Reefq8B0oURr3D-BTSm29U",
+  "googleName": "Tomasa Polanco",
+  "formattedAddress": "Av. Emilio Castelar 14, Polanco, Polanco Chapultepec, Miguel Hidalgo, 11550 Ciudad de México, CDMX, Mexico",
+  "phone": "55 9036 8937",
+  "internationalPhone": "+52 55 9036 8937",
+  "website": "http://www.conchastomasa.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15410093292347355311",
+  "rating": 4.6,
+  "reviewCount": 257,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4290392,
+    -99.1920478
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tomasa-polanco-miguel-hidalgo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:58.745Z"
+}

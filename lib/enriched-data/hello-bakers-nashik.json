@@ -1,0 +1,44 @@
+{
+  "slug": "hello-bakers-nashik",
+  "name": "Hello Bakers",
+  "curatedName": "Hello Bakers",
+  "city": "Nashik",
+  "country": "India",
+  "placeId": "ChIJTYQNPT3r3TsRkoeUe7zjsbw",
+  "googleName": "Hello Bakers",
+  "formattedAddress": "SHOP NO 3, Ashish Park, opp. GAJANAN MAHARAJ TEMPLE, Indira Nagar, Nashik, Maharashtra 422009, India",
+  "phone": "098902 19555",
+  "internationalPhone": "+91 98902 19555",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13596899148674926482",
+  "rating": 4.7,
+  "reviewCount": 361,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.9752263,
+    73.7815924
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hello-bakers-nashik/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:38:35.403Z"
+}

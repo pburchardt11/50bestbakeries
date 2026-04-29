@@ -1,0 +1,43 @@
+{
+  "slug": "escargot-panaderia-artesanal-merida",
+  "name": "Escargot Panaderia Artesanal",
+  "curatedName": "Escargot Panaderia Artesanal",
+  "city": "Mérida",
+  "country": "Mexico",
+  "placeId": "ChIJu8iEwkdxVo8RCiC6OdDC7hE",
+  "googleName": "Escargot Panadería Artesanal",
+  "formattedAddress": "C. 53 504, Parque Santa Lucia, Centro, 97000 Mérida, Yuc., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1292184342679396362",
+  "rating": 4.6,
+  "reviewCount": 193,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.9723499,
+    -89.6240255
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/escargot-panaderia-artesanal-merida/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:37.149Z"
+}

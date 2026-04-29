@@ -1,0 +1,32 @@
+{
+  "slug": "willy-pan-panaderia-aruba",
+  "name": "Willy Pan Panaderia",
+  "city": "Aruba",
+  "country": "Aruba",
+  "placeId": "ChIJg0JEMRw5hY4RWTBNdlACiJI",
+  "googleName": "Willy Pan",
+  "formattedAddress": "Tanki Leendert 241, Oranjestad, Aruba",
+  "phone": "587 7050",
+  "website": "http://www.arubawillypan.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10558691870975537241",
+  "rating": 4.5,
+  "reviewCount": 226,
+  "coords": [
+    12.5410497,
+    -70.0184704
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/willy-pan-panaderia-aruba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:27:29.647Z"
+}

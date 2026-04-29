@@ -1,0 +1,43 @@
+{
+  "slug": "ovenbird-bakery-baltimore",
+  "name": "Ovenbird Bakery",
+  "curatedName": "Ovenbird Bakery",
+  "city": "Baltimore",
+  "country": "United States",
+  "placeId": "ChIJV28mKCcFyIkR5aF-WcVSUGs",
+  "googleName": "Ovenbird Bakery",
+  "formattedAddress": "300 S Exeter St, Baltimore, MD 21202, USA",
+  "phone": "(443) 885-9998",
+  "internationalPhone": "+1 443-885-9998",
+  "website": "https://ovenbirdbread.com/?y_source=1_Mzg1NDY2NTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://maps.google.com/?cid=7732771567758647781",
+  "rating": 4.8,
+  "reviewCount": 458,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.2865928,
+    -76.6007901
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ovenbird-bakery-baltimore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:55.614Z"
+}

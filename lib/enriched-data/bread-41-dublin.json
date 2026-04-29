@@ -1,0 +1,46 @@
+{
+  "slug": "bread-41-dublin",
+  "name": "Bread 41",
+  "curatedName": "Bread 41",
+  "city": "Dublin",
+  "country": "Ireland",
+  "placeId": "ChIJ166U_osPZ0gR_ApafUK35JQ",
+  "googleName": "Bread 41",
+  "formattedAddress": "41 Pearse St, Dublin 2, D02 H308, Ireland",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.bread41.ie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10728901708502141692",
+  "rating": 4.5,
+  "reviewCount": 3472,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.3447512,
+    -6.251778799999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Streamlined organic bakery serving specialty breads & pastries, plus cakes made to order.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-41-dublin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:23.955Z"
+}

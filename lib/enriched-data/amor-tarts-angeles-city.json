@@ -1,0 +1,43 @@
+{
+  "slug": "amor-tarts-angeles-city",
+  "name": "Amor Tarts",
+  "curatedName": "Amor Tarts",
+  "city": "Angeles City",
+  "country": "Philippines",
+  "placeId": "ChIJJQCeO67zljMRW1DMWHMJh1A",
+  "googleName": "Amor Tarts",
+  "formattedAddress": "Bldg 5 Unit 16, Phase 2, The Infinity, The Shoppes, Angeles, Pampanga, Philippines",
+  "phone": "0961 095 5001",
+  "internationalPhone": "+63 961 095 5001",
+  "website": "https://amortarts.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5802617035905847387",
+  "rating": 5,
+  "reviewCount": 23,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    15.1632412,
+    120.607435
+  ],
+  "openingHours": [
+    "Monday: 4:00 – 10:30 PM",
+    "Tuesday: 4:00 – 10:30 PM",
+    "Wednesday: 4:00 – 10:30 PM",
+    "Thursday: 4:00 – 10:30 PM",
+    "Friday: 4:00 – 10:30 PM",
+    "Saturday: 4:00 – 10:30 PM",
+    "Sunday: 4:00 – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amor-tarts-angeles-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:11.059Z"
+}

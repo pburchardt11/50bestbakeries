@@ -1,0 +1,32 @@
+{
+  "slug": "pan-bao-bao-antiguo-cuscatlan",
+  "name": "Pan Bao Bao",
+  "city": "Antiguo Cuscatlán",
+  "country": "El Salvador",
+  "placeId": "ChIJD-ydtjAuY48RfJ9v3nvHInk",
+  "googleName": "Pan Bao Bao",
+  "formattedAddress": "C. Siemens 62, CP 1502, El Salvador",
+  "phone": "2278 9303",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8728758362624204668",
+  "rating": 4,
+  "reviewCount": 20,
+  "coords": [
+    13.6713996,
+    -89.2606189
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-bao-bao-antiguo-cuscatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:02:37.454Z"
+}

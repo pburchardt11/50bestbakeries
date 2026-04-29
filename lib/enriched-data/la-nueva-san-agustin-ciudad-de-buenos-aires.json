@@ -1,0 +1,43 @@
+{
+  "slug": "la-nueva-san-agustin-ciudad-de-buenos-aires",
+  "name": "La Nueva San Agustín",
+  "curatedName": "La Nueva San Agustín",
+  "city": "Ciudad de Buenos Aires",
+  "country": "Argentina",
+  "placeId": "ChIJ2_-GuLy1vJURIx_Xzv3AWNc",
+  "googleName": "La Nueva San Agustín",
+  "formattedAddress": "Av. Gral. Las Heras 2915, C1425 Cdad. Autónoma de Buenos Aires, Argentina",
+  "phone": "011 4801-4005",
+  "internationalPhone": "+54 11 4801-4005",
+  "website": "http://www.lanuevasanagustin.com.ar/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15517364712434507555",
+  "rating": 4.3,
+  "reviewCount": 2063,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.5831842,
+    -58.4022682
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 7:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-nueva-san-agustin-ciudad-de-buenos-aires/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:31.282Z"
+}

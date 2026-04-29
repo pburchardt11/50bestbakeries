@@ -1,0 +1,44 @@
+{
+  "slug": "pasticceria-venier-torino",
+  "name": "Pasticceria Venier",
+  "curatedName": "Pasticceria Venier",
+  "city": "Torino",
+  "country": "Italy",
+  "placeId": "ChIJOfK3OXJtiEcRlfsr3XHko6U",
+  "googleName": "Pasticceria Venier",
+  "formattedAddress": "Via Monte di Pietà, 22, 10122 Torino TO, Italy",
+  "phone": "011 541592",
+  "internationalPhone": "+39 011 541592",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11935634615155030933",
+  "rating": 4.6,
+  "reviewCount": 1239,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.0710399,
+    7.681024899999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 6:45 PM",
+    "Wednesday: 7:30 AM – 6:45 PM",
+    "Thursday: 7:30 AM – 6:45 PM",
+    "Friday: 7:30 AM – 6:45 PM",
+    "Saturday: 7:30 AM – 6:45 PM",
+    "Sunday: 8:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-venier-torino/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:42.878Z"
+}

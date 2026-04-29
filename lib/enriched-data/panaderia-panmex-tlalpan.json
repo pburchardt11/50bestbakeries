@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-panmex-tlalpan",
+  "name": "Panadería Panmex",
+  "curatedName": "Panadería Panmex",
+  "city": "Tlalpan",
+  "country": "Mexico",
+  "placeId": "ChIJldL0d2MAzoURb0MT-WPAgF8",
+  "googleName": "Panadería Panmex",
+  "formattedAddress": "Av. San Fernando 236, Tlalpan Centro I, Tlalpan, 14000 Ciudad de México, CDMX, Mexico",
+  "phone": "55 5665 8198",
+  "internationalPhone": "+52 55 5665 8198",
+  "website": "http://www.panmex.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6881711766235202415",
+  "rating": 4.2,
+  "reviewCount": 777,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.2949179,
+    -99.17601640000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-panmex-tlalpan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:43.827Z"
+}

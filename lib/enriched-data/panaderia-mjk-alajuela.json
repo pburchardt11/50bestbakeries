@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-mjk-alajuela",
+  "name": "Panadería MJK",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJYYX8ePb7oI8RJMca5omX-AA",
+  "googleName": "Panaderia MJK",
+  "formattedAddress": "Unnamed Road, XVJJ+RC9, Heredia, Guararí, Costa Rica",
+  "phone": "6121 1633",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=69972412751071012",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    9.9820327,
+    -84.1188904
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-mjk-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:28.148Z"
+}

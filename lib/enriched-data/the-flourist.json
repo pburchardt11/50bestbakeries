@@ -1,0 +1,43 @@
+{
+  "slug": "the-flourist",
+  "name": "The Flourist",
+  "curatedName": "The Flourist",
+  "city": "ঢাকা",
+  "country": "Bangladesh",
+  "placeId": "ChIJqyVZUFnHVTcRZmL9Vvxuijw",
+  "googleName": "The Flourist",
+  "formattedAddress": "Floor 4, House, 14/B Road No. 68, Dhaka 1212, Bangladesh",
+  "phone": "01318-361063",
+  "internationalPhone": "+880 1318-361063",
+  "website": "http://www.theflouristcakes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4362421219132007014",
+  "rating": 4.6,
+  "reviewCount": 158,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.8038993,
+    90.40933439999999
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 9:00 PM",
+    "Tuesday: 12:00 – 9:00 PM",
+    "Wednesday: 12:00 – 9:00 PM",
+    "Thursday: 12:00 – 9:00 PM",
+    "Friday: 12:00 – 9:00 PM",
+    "Saturday: 12:00 – 9:00 PM",
+    "Sunday: 12:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-flourist/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:20.438Z"
+}

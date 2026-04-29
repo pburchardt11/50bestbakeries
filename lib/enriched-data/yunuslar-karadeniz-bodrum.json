@@ -1,0 +1,43 @@
+{
+  "slug": "yunuslar-karadeniz-bodrum",
+  "name": "Yunuslar Karadeniz",
+  "curatedName": "Yunuslar Karadeniz",
+  "city": "Bodrum",
+  "country": "Türkiye",
+  "placeId": "ChIJxY0J4EFsvhQRzqVLYVhZjgI",
+  "googleName": "Yunuslar Karadeniz",
+  "formattedAddress": "Cumhuriyet caddesi Barlar sokağı No:13, Çarşı, 48400 Bodrum/Muğla, Türkiye",
+  "phone": "(0252) 316 17 48",
+  "internationalPhone": "+90 252 316 17 48",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=184182870893110734",
+  "rating": 4.4,
+  "reviewCount": 1824,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.0334214,
+    27.4320365
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 3:00 AM",
+    "Tuesday: 7:30 AM – 3:00 AM",
+    "Wednesday: 7:30 AM – 3:00 AM",
+    "Thursday: 7:30 AM – 3:00 AM",
+    "Friday: 7:30 AM – 3:00 AM",
+    "Saturday: 7:30 AM – 3:00 AM",
+    "Sunday: 7:30 AM – 3:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yunuslar-karadeniz-bodrum/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:04:34.867Z"
+}

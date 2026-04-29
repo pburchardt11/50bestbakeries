@@ -1,0 +1,43 @@
+{
+  "slug": "bluegrass-baking-company-lexington",
+  "name": "Bluegrass Baking Company",
+  "curatedName": "Bluegrass Baking Company",
+  "city": "Lexington",
+  "country": "United States",
+  "placeId": "ChIJt7-gUMBcQogRMazaxjHo8c0",
+  "googleName": "Bluegrass Baking Company",
+  "formattedAddress": "3101 Clays Mill Rd #108, Lexington, KY 40503, USA",
+  "phone": "(859) 296-0581",
+  "internationalPhone": "+1 859-296-0581",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14839897547649756209",
+  "rating": 4.8,
+  "reviewCount": 211,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.0030589,
+    -84.5455982
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bluegrass-baking-company-lexington/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:16:55.474Z"
+}

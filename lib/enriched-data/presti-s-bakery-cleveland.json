@@ -1,0 +1,44 @@
+{
+  "slug": "presti-s-bakery-cleveland",
+  "name": "Presti's Bakery",
+  "curatedName": "Presti's Bakery",
+  "city": "Cleveland",
+  "country": "United States",
+  "placeId": "ChIJl-VpBnT8MIgRqEGwMhBIJjc",
+  "googleName": "Presti's Bakery",
+  "formattedAddress": "12101 Mayfield Rd, Cleveland, OH 44106, USA",
+  "phone": "(216) 421-3060",
+  "internationalPhone": "+1 216-421-3060",
+  "website": "https://prestisbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3973942955608129960",
+  "rating": 4.6,
+  "reviewCount": 2365,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.50885,
+    -81.598356
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Bakeshop & deli with ample seating offering fresh bread, pastries & traditional Italian entrees.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/presti-s-bakery-cleveland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:03.123Z"
+}

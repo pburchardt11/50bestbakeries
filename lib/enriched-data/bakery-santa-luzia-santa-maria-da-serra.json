@@ -1,0 +1,44 @@
+{
+  "slug": "bakery-santa-luzia-santa-maria-da-serra",
+  "name": "Bakery Santa Luzia",
+  "curatedName": "Bakery Santa Luzia",
+  "city": "Santa Maria da Serra",
+  "country": "Brazil",
+  "placeId": "ChIJgd1G4ksJx5QR8WQxx5-NfBA",
+  "googleName": "Bakery Santa Luzia",
+  "formattedAddress": "221 - R. João Batista Gravena, 1 - Jardim Santa Maria 2, Santa Maria da Serra - SP, 17370-000, Brazil",
+  "phone": "(19) 3487-2067",
+  "internationalPhone": "+55 19 3487-2067",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1187980119100187889",
+  "rating": 4.7,
+  "reviewCount": 216,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.5683468,
+    -48.1549585
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 8:30 PM",
+    "Tuesday: 5:30 AM – 8:30 PM",
+    "Wednesday: 5:30 AM – 8:30 PM",
+    "Thursday: 5:30 AM – 8:30 PM",
+    "Friday: 5:30 AM – 8:30 PM",
+    "Saturday: 5:30 AM – 8:30 PM",
+    "Sunday: 6:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-santa-luzia-santa-maria-da-serra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:58.643Z"
+}

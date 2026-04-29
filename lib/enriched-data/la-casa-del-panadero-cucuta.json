@@ -1,0 +1,43 @@
+{
+  "slug": "la-casa-del-panadero-cucuta",
+  "name": "La Casa Del Panadero",
+  "curatedName": "La Casa Del Panadero",
+  "city": "Cúcuta",
+  "country": "Colombia",
+  "placeId": "ChIJaYeMz3ZFZo4R0PgdT9WFDss",
+  "googleName": "La Casa Del Panadero",
+  "formattedAddress": "Av. 5 #4-73, Centro, Cúcuta, Norte de Santander, Colombia",
+  "phone": "320 2394129",
+  "internationalPhone": "+57 320 2394129",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14631779390575212752",
+  "rating": 4.5,
+  "reviewCount": 327,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    7.892312399999999,
+    -72.5046148
+  ],
+  "openingHours": [
+    "Monday: 7:10 AM – 5:00 PM",
+    "Tuesday: 7:10 AM – 5:00 PM",
+    "Wednesday: 7:10 AM – 5:00 PM",
+    "Thursday: 7:10 AM – 5:00 PM",
+    "Friday: 7:10 AM – 5:00 PM",
+    "Saturday: 7:50 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-casa-del-panadero-cucuta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:43.063Z"
+}

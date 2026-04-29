@@ -1,0 +1,43 @@
+{
+  "slug": "bakkerij-basak-amsterdam",
+  "name": "Bakkerij Basak",
+  "curatedName": "Bakkerij Basak",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "placeId": "ChIJX74182vixUcRBBh9OVl58Mg",
+  "googleName": "Bakkerij Basak",
+  "formattedAddress": "Jan van Galenstraat 293-HS, 1056 CA Amsterdam, Netherlands",
+  "phone": "020 612 5926",
+  "internationalPhone": "+31 20 612 5926",
+  "website": "https://www.bakkerijbasak-zeist.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14479206226119694340",
+  "rating": 4.4,
+  "reviewCount": 105,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.3725515,
+    4.848349199999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-basak-amsterdam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:04.917Z"
+}

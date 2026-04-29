@@ -1,0 +1,43 @@
+{
+  "slug": "socker-sucker-stockholm",
+  "name": "Socker Sucker",
+  "curatedName": "Socker Sucker",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "placeId": "ChIJ3zoosvidX0YR5yhULc8RpeQ",
+  "googleName": "Socker Sucker",
+  "formattedAddress": "Drottninggatan 93, 113 60 Stockholm, Sweden",
+  "phone": "08-93 11 02",
+  "internationalPhone": "+46 8 93 11 02",
+  "website": "http://www.sockersucker.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16475594393321220327",
+  "rating": 4.7,
+  "reviewCount": 802,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.3394198,
+    18.0557427
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/socker-sucker-stockholm/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:55.245Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "simit-dunyas-girne",
+  "name": "Simit Dünyası",
+  "city": "Girne",
+  "country": "Cyprus",
+  "placeId": "ChIJl1FWmM9s3hQRkQRWnHjrutE",
+  "googleName": "Simit Dünyası",
+  "formattedAddress": "20 Temmuz Kordonboyu Caddesi, Girne 99300",
+  "phone": null,
+  "website": "https://www.tripadvisor.com.tr/Restaurant_Review-g190378-d2628985-Reviews-Simit_Dunyasi-Kyrenia_Kyrenia_District.html",
+  "googleMapsUrl": "https://maps.google.com/?cid=15112650402846606481",
+  "rating": 2.9,
+  "reviewCount": 660,
+  "coords": [
+    35.3414443,
+    33.3172474
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simit-dunyas-girne/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:53:08.116Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "cottage-bakery-winnipeg",
+  "name": "Cottage Bakery",
+  "curatedName": "Cottage Bakery",
+  "city": "Winnipeg",
+  "country": "Canada",
+  "placeId": "ChIJj2cYzMx16lIRIqZPGNSBEEg",
+  "googleName": "Cottage Bakery",
+  "formattedAddress": "1382 Pembina Hwy, Winnipeg, MB R3T 2B4, Canada",
+  "phone": "(204) 284-3602",
+  "internationalPhone": "+1 204-284-3602",
+  "website": "http://cottagebakery.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5192793118299104802",
+  "rating": 4.6,
+  "reviewCount": 618,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.839247,
+    -97.1511721
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cottage-bakery-winnipeg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:45.432Z"
+}

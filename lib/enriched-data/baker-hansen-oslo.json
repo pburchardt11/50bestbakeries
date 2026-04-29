@@ -1,0 +1,43 @@
+{
+  "slug": "baker-hansen-oslo",
+  "name": "Baker Hansen",
+  "curatedName": "Baker Hansen",
+  "city": "Oslo",
+  "country": "Norway",
+  "placeId": "ChIJv7od831uQUYRaGE0pcJIb7k",
+  "googleName": "Baker Hansen",
+  "formattedAddress": "Stortingsgata 20, 0161 Oslo, Norway",
+  "phone": "94 02 32 23",
+  "internationalPhone": "+47 94 02 32 23",
+  "website": "http://www.bakerhansen.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13361978620264079720",
+  "rating": 4.4,
+  "reviewCount": 246,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.9137946,
+    10.734991
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-hansen-oslo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:31.233Z"
+}

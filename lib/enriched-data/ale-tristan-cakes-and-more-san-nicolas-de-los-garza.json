@@ -1,0 +1,43 @@
+{
+  "slug": "ale-tristan-cakes-and-more-san-nicolas-de-los-garza",
+  "name": "Ale Tristan Cakes and More",
+  "curatedName": "Ale Tristan Cakes and More",
+  "city": "San Nicolás de los Garza",
+  "country": "Mexico",
+  "placeId": "ChIJdyyFEhWVYoYRoTx8JpDsEvg",
+  "googleName": "Ale Tristan Cakes and More",
+  "formattedAddress": "Av. Cordillera de los Andes 1348, Paseo de los Andes 2do Sector, 66446 San Nicolás de los Garza, N.L., Mexico",
+  "phone": "81 8091 8049",
+  "internationalPhone": "+52 81 8091 8049",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17875609974852041889",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.7381539,
+    -100.2631137
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ale-tristan-cakes-and-more-san-nicolas-de-los-garza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:57.516Z"
+}

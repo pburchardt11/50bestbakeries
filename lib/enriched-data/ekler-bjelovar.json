@@ -1,0 +1,32 @@
+{
+  "slug": "ekler-bjelovar",
+  "name": "Ekler",
+  "city": "Bjelovar",
+  "country": "Croatia",
+  "placeId": "ChIJHfCXhgo2ZkcRBJiBIzXl1YQ",
+  "googleName": "EKLER",
+  "formattedAddress": "Ul. dr. Ante Starčevića 2, 43000, Bjelovar, Croatia",
+  "phone": "043 244 760",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9571808599437580292",
+  "rating": 4.6,
+  "reviewCount": 51,
+  "coords": [
+    45.8954204,
+    16.8441509
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ekler-bjelovar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:49:04.819Z"
+}

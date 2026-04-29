@@ -1,0 +1,32 @@
+{
+  "slug": "furre-buke-delvine",
+  "name": "Furrë buke",
+  "city": "Delvinë",
+  "country": "Albania",
+  "placeId": "ChIJ1ToaSiUvWxMRJ6r9VHyn32E",
+  "googleName": "Furre Buke - Pastiçeri Himara",
+  "formattedAddress": "SH8, Himarë 9425, Albania",
+  "phone": "068 266 8198",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7052539693929179687",
+  "rating": 4.5,
+  "reviewCount": 214,
+  "coords": [
+    40.1017635,
+    19.7446883
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/furre-buke-delvine/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:13:21.891Z"
+}

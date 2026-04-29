@@ -1,0 +1,41 @@
+{
+  "slug": "big-pao-alta-floresta-d-oeste",
+  "name": "Big Pão",
+  "curatedName": "Big Pão",
+  "city": "Alta Floresta d'Oeste",
+  "country": "Brazil",
+  "placeId": "ChIJ5YZIk1x0jk0R_y6tSaI_rPk",
+  "googleName": "Big Pão",
+  "formattedAddress": "Av. Brasil, 3827 - Centro, Alta Floresta D'Oeste - RO, 76954-000, Brazil",
+  "phone": "(69) 98494-3200",
+  "internationalPhone": "+55 69 98494-3200",
+  "website": "https://instagram.com/bigpaopizzaria_hamburgueria?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=17990824577691627263",
+  "rating": 3.8,
+  "reviewCount": 8,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -11.9290458,
+    -61.99521919999999
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: 5:30 AM – 7:00 PM",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: 5:30 AM – 7:00 PM",
+    "Saturday: 5:30 AM – 7:00 PM",
+    "Sunday: 5:30 – 10:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T04:22:44.149Z"
+}

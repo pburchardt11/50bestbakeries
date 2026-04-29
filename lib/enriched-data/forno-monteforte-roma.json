@@ -1,0 +1,44 @@
+{
+  "slug": "forno-monteforte-roma",
+  "name": "Forno Monteforte",
+  "curatedName": "Forno Monteforte",
+  "city": "Roma",
+  "country": "Italy",
+  "placeId": "ChIJhRTJXhZhLxMRmbFvQy5sE3Q",
+  "googleName": "Forno Monteforte",
+  "formattedAddress": "Via del Pellegrino, 129, 00186 Roma RM, Italy",
+  "phone": "06 2539 9550",
+  "internationalPhone": "+39 06 2539 9550",
+  "website": "https://fornomonteforte.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8364147878912831897",
+  "rating": 4.5,
+  "reviewCount": 2109,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.8974078,
+    12.4682316
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forno-monteforte-roma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:37.797Z"
+}

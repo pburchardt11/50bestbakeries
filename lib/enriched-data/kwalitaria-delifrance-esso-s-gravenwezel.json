@@ -1,0 +1,32 @@
+{
+  "slug": "kwalitaria-delifrance-esso-s-gravenwezel",
+  "name": "Kwalitaria Délifrance Esso 's Gravenwezel",
+  "city": "'S Gravenwezel",
+  "country": "Belgium",
+  "placeId": "ChIJBTBJ7LoHxEcR2YIT8WThf9c",
+  "googleName": "Esso",
+  "formattedAddress": "Wijnegemsteenweg 1, 2970 Schilde, Belgium",
+  "phone": "03 658 85 80",
+  "website": "https://www.esso.be/nl-be/find-station/100359706",
+  "googleMapsUrl": "https://maps.google.com/?cid=15528377863854326489",
+  "rating": 3.9,
+  "reviewCount": 85,
+  "coords": [
+    51.2631632,
+    4.5507083
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kwalitaria-delifrance-esso-s-gravenwezel/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:03:00.587Z"
+}

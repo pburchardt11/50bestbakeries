@@ -1,0 +1,32 @@
+{
+  "slug": "tezgiah-coffee-and-bakery",
+  "name": "Tezgiah coffee and bakery",
+  "city": "Бургас",
+  "country": "Bulgaria",
+  "placeId": "ChIJEV-m0DSVpkARFn772W9ty28",
+  "googleName": "Tezgiah coffee and bakery",
+  "formattedAddress": "Burgas Center, ul. \"General Gurko\" 53, 8000 Burgas, Bulgaria",
+  "phone": "087 788 8252",
+  "website": "http://tezgiah.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8055652685648199190",
+  "rating": 4.5,
+  "reviewCount": 32,
+  "coords": [
+    42.4997086,
+    27.4761489
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tezgiah-coffee-and-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:26:49.591Z"
+}

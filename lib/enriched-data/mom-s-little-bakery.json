@@ -1,0 +1,32 @@
+{
+  "slug": "mom-s-little-bakery",
+  "name": "Mom's Little Bakery",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJ75LqMuy9akAR23S21xpGfTU",
+  "googleName": "Mom's Little Bakery",
+  "formattedAddress": "33 Tumanyan St, Yerevan, Armenia",
+  "phone": "077 303030",
+  "website": "http://momslittlebakery.am/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3854313937201165531",
+  "rating": 3.4,
+  "reviewCount": 68,
+  "coords": [
+    40.1864514,
+    44.51141399999999
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 10:00 PM",
+    "Tuesday: 10:30 AM – 10:00 PM",
+    "Wednesday: 10:30 AM – 10:00 PM",
+    "Thursday: 10:30 AM – 10:00 PM",
+    "Friday: 10:30 AM – 10:00 PM",
+    "Saturday: 10:30 AM – 10:00 PM",
+    "Sunday: 10:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mom-s-little-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:26:58.947Z"
+}

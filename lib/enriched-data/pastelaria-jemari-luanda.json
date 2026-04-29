@@ -1,0 +1,32 @@
+{
+  "slug": "pastelaria-jemari-luanda",
+  "name": "Pastelaria Jemari",
+  "city": "Luanda",
+  "country": "Angola",
+  "placeId": "ChIJnZMQ6RHzURoRRHxU4DkV0FA",
+  "googleName": "Pastelaria Jemari",
+  "formattedAddress": "R. Machado Saldanha, Luanda, Angola",
+  "phone": "928 399 738",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5823177656511003716",
+  "rating": 4.6,
+  "reviewCount": 7,
+  "coords": [
+    -8.8434951,
+    13.2614472
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelaria-jemari-luanda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:18:06.320Z"
+}

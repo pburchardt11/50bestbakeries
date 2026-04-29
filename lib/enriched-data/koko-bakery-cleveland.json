@@ -1,0 +1,44 @@
+{
+  "slug": "koko-bakery-cleveland",
+  "name": "Koko Bakery",
+  "curatedName": "Koko Bakery",
+  "city": "Cleveland",
+  "country": "United States",
+  "placeId": "ChIJt-2y60T6MIgR53CwpWsBmqE",
+  "googleName": "Koko Bakery",
+  "formattedAddress": "3710 Payne Ave, Cleveland, OH 44114, USA",
+  "phone": "(216) 881-7600",
+  "internationalPhone": "+1 216-881-7600",
+  "website": "https://kokobakery.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11644621348372771047",
+  "rating": 4.6,
+  "reviewCount": 1106,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.5093553,
+    -81.66244230000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Relaxed, compact spot with ample seating featuring Asian-style baked goods, plus teas & smoothies.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/koko-bakery-cleveland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:07.755Z"
+}

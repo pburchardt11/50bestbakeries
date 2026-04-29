@@ -1,0 +1,35 @@
+{
+  "slug": "sp-bakery",
+  "name": "SP Bakery",
+  "curatedName": "SP Bakery",
+  "city": "နေပြည်တော်",
+  "country": "Myanmar (Burma)",
+  "placeId": "ChIJQePGNwC5yDARJvXY5m_HXMs",
+  "googleName": "SP Bakery",
+  "formattedAddress": "R587+CX2, Yarzathingaha Road, Naypyidaw, Myanmar (Burma)",
+  "phone": "09 977 185989",
+  "internationalPhone": "+95 9 977 185989",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14653806570985026854",
+  "rating": 4.4,
+  "reviewCount": 35,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.8160188,
+    96.1649039
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sp-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:30.304Z"
+}

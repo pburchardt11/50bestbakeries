@@ -1,0 +1,43 @@
+{
+  "slug": "little-bites-cupcakery-paranaque",
+  "name": "Little Bites Cupcakery",
+  "curatedName": "Little Bites Cupcakery",
+  "city": "Parañaque",
+  "country": "Philippines",
+  "placeId": "ChIJ8elHiOxxvTMRhmglYY4xDxg",
+  "googleName": "Little Bites Cupcakery",
+  "formattedAddress": "293, 1700 Aguirre Ave, Parañaque, 1700 Metro Manila, Philippines",
+  "phone": "0955 941 1099",
+  "internationalPhone": "+63 955 941 1099",
+  "website": "https://m.facebook.com/little.bites.cupcakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1733658869145888902",
+  "rating": 5,
+  "reviewCount": 23,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.4554703,
+    121.0118696
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/little-bites-cupcakery-paranaque/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:34.004Z"
+}

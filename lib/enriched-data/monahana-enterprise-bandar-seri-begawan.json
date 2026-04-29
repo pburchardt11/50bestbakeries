@@ -1,0 +1,32 @@
+{
+  "slug": "monahana-enterprise-bandar-seri-begawan",
+  "name": "Monahana Enterprise",
+  "city": "Bandar Seri Begawan",
+  "country": "Brunei",
+  "placeId": "ChIJ3Xpa7i30IjIRP-JVmQZ8b00",
+  "googleName": "Monahana Enterprise",
+  "formattedAddress": "Lambak Kanan, Brunei",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5579814831119524415",
+  "rating": 4.5,
+  "reviewCount": 13,
+  "coords": [
+    4.960194,
+    114.9566438
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 6:00 PM",
+    "Sunday: 6:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/monahana-enterprise-bandar-seri-begawan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:21:50.399Z"
+}

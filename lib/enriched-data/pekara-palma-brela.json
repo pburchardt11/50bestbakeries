@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-palma-brela",
+  "name": "Pekara Palma",
+  "city": "Brela",
+  "country": "Croatia",
+  "placeId": "ChIJtTXmFEPrShMRpWrt58GTXw4",
+  "googleName": "Pekara Palma",
+  "formattedAddress": "Trg Alojzija Stepinca 48, 21322, Brela, Croatia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1035708900347570853",
+  "rating": 3.3,
+  "reviewCount": 74,
+  "coords": [
+    43.3674442,
+    16.9313717
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-palma-brela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:49:36.045Z"
+}

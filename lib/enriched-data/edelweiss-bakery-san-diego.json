@@ -1,0 +1,43 @@
+{
+  "slug": "edelweiss-bakery-san-diego",
+  "name": "Edelweiss Bakery",
+  "curatedName": "Edelweiss Bakery",
+  "city": "San Diego",
+  "country": "United States",
+  "placeId": "ChIJoXy6LdP224ARnE2TiNZWlKw",
+  "googleName": "Edelweiss Bakery",
+  "formattedAddress": "11639 Duenda Rd, San Diego, CA 92127, USA",
+  "phone": "(858) 487-4338",
+  "internationalPhone": "+1 858-487-4338",
+  "website": "http://www.edelweissbakerysandiego.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12435659950491127196",
+  "rating": 4.7,
+  "reviewCount": 614,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.0325838,
+    -117.0798602
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 3:00 PM",
+    "Wednesday: 9:00 AM – 3:00 PM",
+    "Thursday: 9:00 AM – 3:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Casual counter-serve featuring sweet & savory baked goods, including bread, pastries & custom cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/edelweiss-bakery-san-diego/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:10:43.983Z"
+}

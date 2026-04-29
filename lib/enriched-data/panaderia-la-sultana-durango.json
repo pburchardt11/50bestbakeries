@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-la-sultana-durango",
+  "name": "Panadería La Sultana",
+  "curatedName": "Panadería La Sultana",
+  "city": "Durango",
+  "country": "Mexico",
+  "placeId": "ChIJXRMY3RbIm4YR5n6uFW91mTQ",
+  "googleName": "Panadería La Sultana",
+  "formattedAddress": "C. Allende 140, Barrio de Analco, 34138 Durango, Dgo., Mexico",
+  "phone": "618 811 4721",
+  "internationalPhone": "+52 618 811 4721",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3790189681374559974",
+  "rating": 4.7,
+  "reviewCount": 381,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.0191722,
+    -104.6740392
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 PM, 3:00 – 9:00 PM",
+    "Tuesday: 7:00 AM – 12:00 PM, 3:00 – 9:00 PM",
+    "Wednesday: 7:00 AM – 12:00 PM, 3:00 – 9:00 PM",
+    "Thursday: 7:00 AM – 12:00 PM, 3:00 – 9:00 PM",
+    "Friday: 7:00 AM – 12:00 PM, 3:00 – 9:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM, 3:00 – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-sultana-durango/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:52.161Z"
+}

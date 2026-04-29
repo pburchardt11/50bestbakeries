@@ -1,0 +1,33 @@
+{
+  "slug": "la-casa-del-pan-banderilla",
+  "name": "La Casa del Pan",
+  "curatedName": "La Casa del Pan",
+  "city": "Banderilla",
+  "country": "Mexico",
+  "placeId": "ChIJXRiFpRgv24UR481pZchDInw",
+  "googleName": "La Casa del Pan",
+  "formattedAddress": "Lomas de Hidalgo, Centro, 91300 Banderilla, Ver., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8944786337885179363",
+  "rating": 2.5,
+  "reviewCount": 2,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.5898404,
+    -96.9445606
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T04:47:20.460Z"
+}

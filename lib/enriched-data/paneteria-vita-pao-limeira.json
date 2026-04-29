@@ -1,0 +1,44 @@
+{
+  "slug": "paneteria-vita-pao-limeira",
+  "name": "Paneteria Vita Pão",
+  "curatedName": "Paneteria Vita Pão",
+  "city": "Limeira",
+  "country": "Brazil",
+  "placeId": "ChIJSyAVIsSAyJQRMU-xWCFxoyQ",
+  "googleName": "Paneteria Vita Pão",
+  "formattedAddress": "R. Est. Mario Roland, 301 - Vila Piza, Limeira - SP, 13486-164, Brazil",
+  "phone": "(19) 3451-8579",
+  "internationalPhone": "+55 19 3451-8579",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2640078194605117233",
+  "rating": 4.6,
+  "reviewCount": 1823,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.5609541,
+    -47.38408889999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paneteria-vita-pao-limeira/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:32.340Z"
+}

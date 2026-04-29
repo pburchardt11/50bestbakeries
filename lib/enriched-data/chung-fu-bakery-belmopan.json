@@ -1,0 +1,32 @@
+{
+  "slug": "chung-fu-bakery-belmopan",
+  "name": "Chung Fu Bakery",
+  "city": "Belmopan",
+  "country": "Belize",
+  "placeId": "ChIJy6i5voLVXY8RcmgGAPDN2RA",
+  "googleName": "Chung Fu Bakery",
+  "formattedAddress": "Belmopan, Belize",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1214228005229324402",
+  "rating": 4.2,
+  "reviewCount": 5,
+  "coords": [
+    17.2494863,
+    -88.77850420000001
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 5:00 PM",
+    "Tuesday: 12:00 – 5:00 PM",
+    "Wednesday: 12:00 – 5:00 PM",
+    "Thursday: 12:00 – 5:00 PM",
+    "Friday: 12:00 – 5:00 PM",
+    "Saturday: 10:00 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chung-fu-bakery-belmopan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:06:37.579Z"
+}

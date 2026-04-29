@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-e-confeitaria-vital-brasil-niteroi",
+  "name": "Padaria e Confeitaria Vital Brasil",
+  "curatedName": "Padaria e Confeitaria Vital Brasil",
+  "city": "Niterói",
+  "country": "Brazil",
+  "placeId": "ChIJDTDwWPiDmQARA0rpaXHbP4M",
+  "googleName": "Padaria e Confeitaria Vital Brasil",
+  "formattedAddress": "Rua Dom Bosco, 124 - Icaraí, Niterói - RJ, 24220-390, Brazil",
+  "phone": "(21) 3628-2260",
+  "internationalPhone": "+55 21 3628-2260",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9457519022656014851",
+  "rating": 4.4,
+  "reviewCount": 1787,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.9064686,
+    -43.0988056
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-e-confeitaria-vital-brasil-niteroi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:20:47.674Z"
+}

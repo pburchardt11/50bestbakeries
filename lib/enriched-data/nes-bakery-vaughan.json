@@ -1,0 +1,45 @@
+{
+  "slug": "nes-bakery-vaughan",
+  "name": "Nes Bakery",
+  "curatedName": "Nes Bakery",
+  "city": "Vaughan",
+  "country": "Canada",
+  "placeId": "ChIJJff_kU0vK4gRpdPRW9j9t38",
+  "googleName": "Nes Bakery",
+  "formattedAddress": "27 Roytec Rd Unit# 8, Woodbridge, ON L4L 8E3, Canada",
+  "phone": "(289) 657-7636",
+  "internationalPhone": "+1 289-657-7636",
+  "website": "http://nesbakery.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9203103469250139045",
+  "rating": 4.7,
+  "reviewCount": 552,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.8027639,
+    -79.5492455
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: 8:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nes-bakery-vaughan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:54.305Z"
+}

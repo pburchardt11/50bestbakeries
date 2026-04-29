@@ -1,0 +1,43 @@
+{
+  "slug": "kipao-santa-maria",
+  "name": "Kipão",
+  "curatedName": "Kipão",
+  "city": "Santa Maria",
+  "country": "Brazil",
+  "placeId": "ChIJMd4g9UHLA5URRw6Mw8nRcyM",
+  "googleName": "Kipão",
+  "formattedAddress": "Av. Rio Branco, 922 - Centro, Santa Maria - RS, 97010-422, Brazil",
+  "phone": "(55) 3221-3198",
+  "internationalPhone": "+55 55 3221-3198",
+  "website": "http://www.kipaosantamaria.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2554616078148570695",
+  "rating": 4.4,
+  "reviewCount": 1131,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.68546449999999,
+    -53.8071603
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:30 PM",
+    "Tuesday: 6:30 AM – 8:30 PM",
+    "Wednesday: 6:30 AM – 8:30 PM",
+    "Thursday: 6:30 AM – 8:30 PM",
+    "Friday: 6:30 AM – 8:30 PM",
+    "Saturday: 6:30 AM – 8:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kipao-santa-maria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:21:45.478Z"
+}

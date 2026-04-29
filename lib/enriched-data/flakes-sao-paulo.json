@@ -1,0 +1,43 @@
+{
+  "slug": "flakes-sao-paulo",
+  "name": "Flakes",
+  "curatedName": "Flakes",
+  "city": "São Paulo",
+  "country": "Brazil",
+  "placeId": "ChIJGU2BT8lXzpQRB5Zn5eXSCik",
+  "googleName": "Flakes",
+  "formattedAddress": "R. Pedroso Alvarenga, 1192 - Itaim Bibi, São Paulo - SP, 04531-004, Brazil",
+  "phone": "(11) 98851-4838",
+  "internationalPhone": "+55 11 98851-4838",
+  "website": "https://flakesbrazil.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2957407990160266759",
+  "rating": 4.6,
+  "reviewCount": 3679,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.582619,
+    -46.6821677
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 8:00 PM",
+    "Tuesday: 10:30 AM – 8:00 PM",
+    "Wednesday: 10:30 AM – 8:00 PM",
+    "Thursday: 10:30 AM – 8:00 PM",
+    "Friday: 10:30 AM – 8:00 PM",
+    "Saturday: 10:30 AM – 8:00 PM",
+    "Sunday: 10:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flakes-sao-paulo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:29.114Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "the-black-salami-microbakery",
+  "name": "The Black Salami Microbakery",
+  "curatedName": "The Black Salami Microbakery",
+  "city": "Αθήνα",
+  "country": "Greece",
+  "placeId": "ChIJv88IpiW9oRQR_3U-hPxopzw",
+  "googleName": "The Black Salami Microbakery",
+  "formattedAddress": "Zoodochou Pigis 71, Athina 106 81, Greece",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.theblacksalami.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4370577397146088959",
+  "rating": 4.8,
+  "reviewCount": 2171,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.9860418,
+    23.7381357
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:30 PM",
+    "Tuesday: 9:00 AM – 4:30 PM",
+    "Wednesday: 9:00 AM – 4:30 PM",
+    "Thursday: 9:00 AM – 4:30 PM",
+    "Friday: 9:00 AM – 4:30 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-black-salami-microbakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:38.987Z"
+}

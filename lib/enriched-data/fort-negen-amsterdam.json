@@ -1,0 +1,43 @@
+{
+  "slug": "fort-negen-amsterdam",
+  "name": "Fort Negen",
+  "curatedName": "Fort Negen",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "placeId": "ChIJvyiXCkrjxUcR6i123RsLGMk",
+  "googleName": "Fort Negen",
+  "formattedAddress": "Jan Evertsenstraat 31, 1057 BM Amsterdam, Netherlands",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.fortnegen.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14490344015372103146",
+  "rating": 4.7,
+  "reviewCount": 1426,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.3710564,
+    4.8575042
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fort-negen-amsterdam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:45.422Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "golden-crumb-bakery-saint-philip",
+  "name": "Golden Crumb Bakery",
+  "city": "Saint Philip",
+  "country": "Barbados",
+  "placeId": "ChIJfeVq8iGLQ4wRjHrF-ioI0Yo",
+  "googleName": "Golden Crumb Bakery",
+  "formattedAddress": "Lot #70 Mangrove Park Bridgetown St. Philip, Mangrove, Saint Philip BB18052Barbados",
+  "phone": "(246) 836-5544",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10002785228055476876",
+  "rating": 3.3,
+  "reviewCount": 3,
+  "coords": [
+    13.0999349,
+    -59.4711646
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/golden-crumb-bakery-saint-philip/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:58:18.163Z"
+}

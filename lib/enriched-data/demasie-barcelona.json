@@ -1,0 +1,44 @@
+{
+  "slug": "demasie-barcelona",
+  "name": "Demasié",
+  "curatedName": "Demasié",
+  "city": "Barcelona",
+  "country": "Spain",
+  "placeId": "ChIJTwQ0nZmjpBIREdBykV-8U0E",
+  "googleName": "Demasié",
+  "formattedAddress": "Carrer de la Princesa, 28, Ciutat Vella, 08003 Barcelona, Spain",
+  "phone": "932 69 11 80",
+  "internationalPhone": "+34 932 69 11 80",
+  "website": "http://cookiesdemasie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4707313154180435985",
+  "rating": 4.3,
+  "reviewCount": 3970,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.3856145,
+    2.1809419
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 9:30 PM",
+    "Tuesday: 8:30 AM – 9:30 PM",
+    "Wednesday: 8:30 AM – 9:30 PM",
+    "Thursday: 8:30 AM – 9:30 PM",
+    "Friday: 8:30 AM – 9:30 PM",
+    "Saturday: 8:30 AM – 9:30 PM",
+    "Sunday: 8:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": "Trendy modern bakery known for its vegan cinnamon rolls, oversized cookies & flavored coffees.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/demasie-barcelona/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:56:29.502Z"
+}

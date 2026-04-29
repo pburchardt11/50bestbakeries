@@ -1,0 +1,44 @@
+{
+  "slug": "asa-bakery-san-diego",
+  "name": "ASA Bakery",
+  "curatedName": "ASA Bakery",
+  "city": "San Diego",
+  "country": "United States",
+  "placeId": "ChIJ9_nmYN5T2YARkHC9F04vbW0",
+  "googleName": "ASA Bakery",
+  "formattedAddress": "634 14th St #110, San Diego, CA 92101, USA",
+  "phone": "(619) 241-2888",
+  "internationalPhone": "+1 619-241-2888",
+  "website": "https://asabakerycafe.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7885010535047852176",
+  "rating": 4.3,
+  "reviewCount": 559,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.7117076,
+    -117.1521078
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/asa-bakery-san-diego/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:10:46.731Z"
+}

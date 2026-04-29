@@ -1,0 +1,43 @@
+{
+  "slug": "confeitaria-rocambole-novo-hamburgo",
+  "name": "Confeitaria Rocambole",
+  "curatedName": "Confeitaria Rocambole",
+  "city": "Novo Hamburgo",
+  "country": "Brazil",
+  "placeId": "ChIJEyGVSVFCGZURzw5zOATYYuU",
+  "googleName": "Confeitaria Rocambole",
+  "formattedAddress": "Av. Pedro Adams Filho, 3582 - Centro, Novo Hamburgo - RS, 93336-130, Brazil",
+  "phone": "(51) 3595-4017",
+  "internationalPhone": "+55 51 3595-4017",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16529011095041674959",
+  "rating": 4.7,
+  "reviewCount": 476,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.7002276,
+    -51.132018
+  ],
+  "openingHours": [
+    "Monday: 8:00 – 11:30 AM, 1:30 – 7:00 PM",
+    "Tuesday: 8:00 – 11:30 AM, 1:30 – 7:00 PM",
+    "Wednesday: 8:00 – 11:30 AM, 1:30 – 7:00 PM",
+    "Thursday: 8:00 – 11:30 AM, 1:30 – 7:00 PM",
+    "Friday: 8:00 – 11:30 AM, 1:30 – 7:00 PM",
+    "Saturday: 8:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-rocambole-novo-hamburgo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:41.623Z"
+}

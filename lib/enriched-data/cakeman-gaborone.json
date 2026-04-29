@@ -1,0 +1,32 @@
+{
+  "slug": "cakeman-gaborone",
+  "name": "Cakeman",
+  "city": "Gaborone",
+  "country": "Botswana",
+  "placeId": "ChIJG3NJLchDux4RhIdOrj7LSaM",
+  "googleName": "Cakeman",
+  "formattedAddress": "plot 22650, Phase 4, Gaborone, Botswana",
+  "phone": "72 116 385",
+  "website": "https://cakeman.co.bw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11766158971554924420",
+  "rating": 4.9,
+  "reviewCount": 31,
+  "coords": [
+    -24.6789556,
+    25.8785032
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakeman-gaborone/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:18:22.526Z"
+}

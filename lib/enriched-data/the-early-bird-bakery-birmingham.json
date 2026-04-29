@@ -1,0 +1,45 @@
+{
+  "slug": "the-early-bird-bakery-birmingham",
+  "name": "The Early Bird Bakery",
+  "curatedName": "The Early Bird Bakery",
+  "city": "Birmingham",
+  "country": "United Kingdom",
+  "placeId": "ChIJG0fwsry9cEgRDlTdZXkUzp4",
+  "googleName": "The Early Bird Bakery",
+  "formattedAddress": "28 High St, King's Heath, Birmingham B14 7JT, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://theearlybirdbakery.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11443106214827611150",
+  "rating": 4.7,
+  "reviewCount": 899,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.437162,
+    -1.892798
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-early-bird-bakery-birmingham/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:04:58.474Z"
+}

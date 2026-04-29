@@ -1,0 +1,43 @@
+{
+  "slug": "another-bake-shop-quan-1",
+  "name": "Another Bake Shop",
+  "curatedName": "Another Bake Shop",
+  "city": "Quận 1",
+  "country": "Vietnam",
+  "placeId": "ChIJhYINZyYvdTERPHbTgstQgcI",
+  "googleName": "Another Bake Shop",
+  "formattedAddress": "25/27 Nguyễn Bỉnh Khiêm, Bến Nghé, Sài Gòn, Hồ Chí Minh, Vietnam",
+  "phone": "0705 089 598",
+  "internationalPhone": "+84 705 089 598",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14015572350357173820",
+  "rating": 4.9,
+  "reviewCount": 2336,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7876108,
+    106.7038153
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/another-bake-shop-quan-1/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:37.735Z"
+}

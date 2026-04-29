@@ -1,0 +1,44 @@
+{
+  "slug": "cinnahaven-twist-treats-budapest",
+  "name": "Cinnahaven Twist&treats",
+  "curatedName": "Cinnahaven Twist&treats",
+  "city": "Budapest",
+  "country": "Hungary",
+  "placeId": "ChIJv5S_EwDdQUcRU913onYVsGc",
+  "googleName": "Cinnahaven Twist&treats",
+  "formattedAddress": "Budapest, Rákóczi út 32, 1072 Hungary",
+  "phone": "06 70 383 8321",
+  "internationalPhone": "+36 70 383 8321",
+  "website": "https://www.cinnahaven.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7471495381083741523",
+  "rating": 4.9,
+  "reviewCount": 1304,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.4964113,
+    19.0672948
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 6:30 PM",
+    "Tuesday: 9:30 AM – 6:30 PM",
+    "Wednesday: 9:30 AM – 6:30 PM",
+    "Thursday: 9:30 AM – 6:30 PM",
+    "Friday: 9:30 AM – 6:30 PM",
+    "Saturday: 10:00 AM – 6:30 PM",
+    "Sunday: 10:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnahaven-twist-treats-budapest/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:27.270Z"
+}

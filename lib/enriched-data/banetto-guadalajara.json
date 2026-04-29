@@ -1,0 +1,44 @@
+{
+  "slug": "banetto-guadalajara",
+  "name": "Banetto",
+  "curatedName": "Banetto",
+  "city": "Guadalajara",
+  "country": "Mexico",
+  "placeId": "ChIJa1HXbxCuKIQRQ0gHRGmML-4",
+  "googleName": "Banetto",
+  "formattedAddress": "C. Justo Sierra 2117-local 4, Col Americana, Lafayette, 44600 Guadalajara, Jal., Mexico",
+  "phone": "33 1695 6913",
+  "internationalPhone": "+52 33 1695 6913",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17163091088673032259",
+  "rating": 4.7,
+  "reviewCount": 1055,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.6775848,
+    -103.371024
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:30 PM",
+    "Tuesday: 8:30 AM – 8:30 PM",
+    "Wednesday: 8:30 AM – 8:30 PM",
+    "Thursday: 8:30 AM – 8:30 PM",
+    "Friday: 8:30 AM – 8:30 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banetto-guadalajara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:56.204Z"
+}

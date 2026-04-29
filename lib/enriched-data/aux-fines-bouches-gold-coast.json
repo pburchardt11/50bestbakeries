@@ -1,0 +1,43 @@
+{
+  "slug": "aux-fines-bouches-gold-coast",
+  "name": "Aux Fines Bouches",
+  "curatedName": "Aux Fines Bouches",
+  "city": "Gold Coast",
+  "country": "Australia",
+  "placeId": "ChIJ53sMLDLasGoRBr0KJ6_AGzM",
+  "googleName": "Aux Fines Bouches",
+  "formattedAddress": "Unit 2/43 Taree St, Burleigh Heads QLD 4220, Australia",
+  "phone": "(07) 5522 0323",
+  "internationalPhone": "+61 7 5522 0323",
+  "website": "https://www.auxfinesbouches.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3682748978812337414",
+  "rating": 4.9,
+  "reviewCount": 422,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -28.1072927,
+    153.421221
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aux-fines-bouches-gold-coast/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:08.457Z"
+}

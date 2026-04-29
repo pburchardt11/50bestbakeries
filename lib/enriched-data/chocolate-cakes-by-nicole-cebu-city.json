@@ -1,0 +1,43 @@
+{
+  "slug": "chocolate-cakes-by-nicole-cebu-city",
+  "name": "Chocolate Cakes by Nicole",
+  "curatedName": "Chocolate Cakes by Nicole",
+  "city": "Cebu City",
+  "country": "Philippines",
+  "placeId": "ChIJ6cSOtD2ZqTMRNQP4BlEDMSs",
+  "googleName": "Chocolate Cakes by Nicole",
+  "formattedAddress": "ayala center cebu, Cebu City, 6000 Cebu, Philippines",
+  "phone": "0917 623 5851",
+  "internationalPhone": "+63 917 623 5851",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3112272464033874741",
+  "rating": 4.7,
+  "reviewCount": 89,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.3173536,
+    123.9048081
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chocolate-cakes-by-nicole-cebu-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:16.659Z"
+}

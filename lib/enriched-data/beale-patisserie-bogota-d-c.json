@@ -1,0 +1,44 @@
+{
+  "slug": "beale-patisserie-bogota-d-c",
+  "name": "Bealé Pâtisserie",
+  "curatedName": "Bealé Pâtisserie",
+  "city": "Bogotá, D.C.",
+  "country": "Colombia",
+  "placeId": "ChIJvd3nSluaP44RC83jjzJ5gYc",
+  "googleName": "Bealé Pâtisserie",
+  "formattedAddress": "Cra. 12 #70a-20, Bogotá, Colombia",
+  "phone": "301 3997944",
+  "internationalPhone": "+57 301 3997944",
+  "website": "http://www.beale.com.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9764218725185342731",
+  "rating": 4.4,
+  "reviewCount": 2037,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    4.6564817,
+    -74.0606186
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beale-patisserie-bogota-d-c/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:10.324Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "taylor-s-bakery-indianapolis",
+  "name": "Taylor's Bakery",
+  "curatedName": "Taylor's Bakery",
+  "city": "Indianapolis",
+  "country": "United States",
+  "placeId": "ChIJ21CbLnlSa4gRa8ODJd4RZNI",
+  "googleName": "Taylor's Bakery",
+  "formattedAddress": "6216 Allisonville Rd, Indianapolis, IN 46220, USA",
+  "phone": "(317) 251-9575",
+  "internationalPhone": "+1 317-251-9575",
+  "website": "https://taylorsbakeryindy.square.site/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15160261891445736299",
+  "rating": 4.7,
+  "reviewCount": 1509,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.8692323,
+    -86.09791320000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Family bakery with a 100-year history for custom cakes, pastries & ice cream for takeout.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/taylor-s-bakery-indianapolis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:12:35.654Z"
+}

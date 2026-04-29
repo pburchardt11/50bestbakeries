@@ -1,0 +1,32 @@
+{
+  "slug": "tariq-pastries-sanad",
+  "name": "Tariq Pastries",
+  "city": "Sanad",
+  "country": "Bahrain",
+  "placeId": "ChIJ44JIc4utST4RSdd9jbl4w5c",
+  "googleName": "Tariq Pastries‎",
+  "formattedAddress": "Rd No 4541, Sanad, Bahrain",
+  "phone": "1768 1885",
+  "website": "https://tariqpastries.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10935717058523813705",
+  "rating": 4.3,
+  "reviewCount": 401,
+  "coords": [
+    26.1448198,
+    50.5856893
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tariq-pastries-sanad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:44:29.322Z"
+}

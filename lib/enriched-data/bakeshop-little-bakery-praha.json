@@ -1,0 +1,43 @@
+{
+  "slug": "bakeshop-little-bakery-praha",
+  "name": "Bakeshop Little Bakery",
+  "curatedName": "Bakeshop Little Bakery",
+  "city": "Praha",
+  "country": "Czech Republic",
+  "placeId": "ChIJp1B7qOaUC0cRDa5sHCjXSfU",
+  "googleName": "Bakeshop Little Bakery",
+  "formattedAddress": "U Lužického semináře 22, Malá Strana, 118 00 Praha-Praha 1, Czechia",
+  "phone": "222 316 823",
+  "internationalPhone": "+420 222 316 823",
+  "website": "http://www.bakeshop.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17674894779867770381",
+  "rating": 4.6,
+  "reviewCount": 722,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.0878099,
+    14.4093856
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakeshop-little-bakery-praha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:54.122Z"
+}

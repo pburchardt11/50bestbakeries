@@ -1,0 +1,44 @@
+{
+  "slug": "un-deleite-leon",
+  "name": "Un Deleite",
+  "curatedName": "Un Deleite",
+  "city": "León",
+  "country": "Mexico",
+  "placeId": "ChIJHXk-_Xa_K4QRuKNz7gR0dsM",
+  "googleName": "Un Deleite",
+  "formattedAddress": "Tlaxcala 516, Bellavista, 37360 León de los Aldama, Gto., Mexico",
+  "phone": "477 770 8040",
+  "internationalPhone": "+52 477 770 8040",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14084572449177052088",
+  "rating": 4.7,
+  "reviewCount": 304,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1201807,
+    -101.6946851
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:30 PM",
+    "Tuesday: 8:30 AM – 8:30 PM",
+    "Wednesday: 8:30 AM – 8:30 PM",
+    "Thursday: 8:30 AM – 8:30 PM",
+    "Friday: 8:30 AM – 8:30 PM",
+    "Saturday: 9:00 AM – 7:30 PM",
+    "Sunday: 9:00 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/un-deleite-leon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:16.623Z"
+}

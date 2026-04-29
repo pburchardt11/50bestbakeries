@@ -1,0 +1,36 @@
+{
+  "slug": "vie-de-france",
+  "name": "Vie De France",
+  "curatedName": "Vie De France",
+  "city": "和泉市",
+  "country": "Japan",
+  "placeId": "ChIJwU5wVArRAGAR5WRfU5nftSs",
+  "googleName": "VIE DE FRANCE Izumi-Chuo",
+  "formattedAddress": "Japan, 〒594-0041 Osaka, Izumi, Ibukino, 5-chōme−1−１ 泉北高速鉄道泉中央 駅内",
+  "phone": "0725-50-5254",
+  "internationalPhone": "+81 725-50-5254",
+  "website": "https://shop.viedefrance.co.jp/detail/316/?utm_source=google&utm_medium=maps&utm_campaign=gbp",
+  "googleMapsUrl": "https://maps.google.com/?cid=3149669364037280997",
+  "rating": 4,
+  "reviewCount": 16,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    34.4613904,
+    135.4563543
+  ],
+  "openingHours": null,
+  "editorialSummary": "French-inspired chain with housemade baked goods & cafe fare, such as sandwiches, salads & soups.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vie-de-france/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:22:05.709Z"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "mr-braun-sao-jose-do-rio-preto",
+  "name": "Mr. Braun",
+  "curatedName": "Mr. Braun",
+  "city": "São José do Rio Preto",
+  "country": "Brazil",
+  "placeId": "ChIJiXcxHGutvZQRXatFyNfA3U0",
+  "googleName": "Mr. Braun",
+  "formattedAddress": "R. Siqueira Campos, 3685 - Vila Santa Cruz, São José do Rio Preto - SP, 15014-030, Brazil",
+  "phone": "(17) 99186-7377",
+  "internationalPhone": "+55 17 99186-7377",
+  "website": "https://instagram.com/mr.braun.sweet",
+  "googleMapsUrl": "https://maps.google.com/?cid=5610852743784016733",
+  "rating": 5,
+  "reviewCount": 21,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.8151244,
+    -49.37521719999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mr-braun-sao-jose-do-rio-preto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:09.690Z"
+}

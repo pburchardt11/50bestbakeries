@@ -1,0 +1,33 @@
+{
+  "slug": "bachmeier-osnabruck",
+  "name": "Bachmeier",
+  "curatedName": "Bachmeier",
+  "city": "Osnabrück",
+  "country": "Germany",
+  "placeId": "ChIJufNsEQ3luUcRYy83v8yXTfg",
+  "googleName": "Bachmayer",
+  "formattedAddress": "Tannenburgstraße 85, 49084 Osnabrück, Germany",
+  "phone": "0541 7707954",
+  "internationalPhone": "+49 541 7707954",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17892123800250036067",
+  "rating": 4.5,
+  "reviewCount": 11,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "night_club",
+    "point_of_interest"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    52.2788055,
+    8.0792464
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bachmeier-osnabruck/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:21:05.268Z"
+}

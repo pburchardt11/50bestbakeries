@@ -1,0 +1,32 @@
+{
+  "slug": "el-safwa-bakery-cairo",
+  "name": "El Safwa Bakery",
+  "city": "Cairo",
+  "country": "Egypt",
+  "placeId": "ChIJ1ZckQPVPWBQRv1H-KbN2lJo",
+  "googleName": "Elsafwa bakery (elite bakery)",
+  "formattedAddress": "118 هـ البوابة التانيه القديمه بوابة (خفرع، البوابه الثانيه،، Al Haram, Giza Governorate 3510423, Egypt",
+  "phone": "011 18922774",
+  "website": "http://facebook.com/safwabakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=11138658290269835711",
+  "rating": 4.5,
+  "reviewCount": 552,
+  "coords": [
+    29.9642429,
+    31.1072964
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-safwa-bakery-cairo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:02:06.879Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "panificadora-bambina-contagem",
+  "name": "Panificadora Bambina",
+  "curatedName": "Panificadora Bambina",
+  "city": "Contagem",
+  "country": "Brazil",
+  "placeId": "ChIJIZ0nbHiVpgARmsbozHTtQts",
+  "googleName": "Panificadora Bambina",
+  "formattedAddress": "Av. Londres, 734 - Loja 02 - Eldorado, Contagem - MG, 32340-570, Brazil",
+  "phone": "(31) 2564-7266",
+  "internationalPhone": "+55 31 2564-7266",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15799451528678917786",
+  "rating": 4.1,
+  "reviewCount": 1272,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.9405933,
+    -44.0586281
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-bambina-contagem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:07.571Z"
+}

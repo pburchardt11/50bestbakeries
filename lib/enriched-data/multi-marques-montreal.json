@@ -1,0 +1,41 @@
+{
+  "slug": "multi-marques-montreal",
+  "name": "Multi-Marques",
+  "curatedName": "Multi-Marques",
+  "city": "Montréal",
+  "country": "Canada",
+  "placeId": "ChIJV79JTV8ZyUwRaQcQJRoRQLw",
+  "googleName": "Multi-Marques",
+  "formattedAddress": "2235 Rue Dandurand, Montréal, QC H2G 1Z3, Canada",
+  "phone": "(514) 273-8811",
+  "internationalPhone": "+1 514-273-8811",
+  "website": "https://bimbocanada.com/fr/carrieres",
+  "googleMapsUrl": "https://maps.google.com/?cid=13564860881628563305",
+  "rating": 4.4,
+  "reviewCount": 15,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5420081,
+    -73.58328759999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/multi-marques-montreal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:20:50.064Z"
+}

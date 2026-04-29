@@ -1,0 +1,32 @@
+{
+  "slug": "jackie-s-bakery-and-catering-freeport",
+  "name": "Jackie's Bakery and Catering",
+  "city": "Freeport",
+  "country": "Bahamas",
+  "placeId": "ChIJpfnitS0nJ4kRbaiOoQeYtEo",
+  "googleName": "Jackie's Bakery & Catering",
+  "formattedAddress": "West Atlantic Dr #1 Teachers Salaried & Credit Union Building Freeport Grand Bahama, Freeport, The Bahamas",
+  "phone": "(242) 351-4748",
+  "website": "https://jackiesbakery242.wixsite.com/my-site",
+  "googleMapsUrl": "https://maps.google.com/?cid=5383094613157259373",
+  "rating": 4.8,
+  "reviewCount": 12,
+  "coords": [
+    26.5241813,
+    -78.6981887
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jackie-s-bakery-and-catering-freeport/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:39:49.963Z"
+}

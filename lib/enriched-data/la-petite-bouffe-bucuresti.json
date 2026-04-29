@@ -1,0 +1,43 @@
+{
+  "slug": "la-petite-bouffe-bucuresti",
+  "name": "La Petite Bouffe",
+  "curatedName": "La Petite Bouffe",
+  "city": "București",
+  "country": "Romania",
+  "placeId": "ChIJz1ecr9P_sUARf0a6cxqJslI",
+  "googleName": "La Petite Bouffe",
+  "formattedAddress": "Strada Doctor Louis Pasteur 38, București, Romania",
+  "phone": "0733 669 344",
+  "internationalPhone": "+40 733 669 344",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5958976003668330111",
+  "rating": 4.7,
+  "reviewCount": 746,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.4320625,
+    26.0738068
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-petite-bouffe-bucuresti/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:54:56.138Z"
+}

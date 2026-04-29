@@ -1,0 +1,32 @@
+{
+  "slug": "los-hornitos-la-pica-algarrobo",
+  "name": "Los Hornitos \"LA PICÁ\"",
+  "city": "Algarrobo",
+  "country": "Chile",
+  "placeId": "ChIJufcH914RYpYREHAvk_P31is",
+  "googleName": "Los Hornitos De Algarrobo",
+  "formattedAddress": "El Madroño, Algarrobo, Valparaíso, Chile",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3158984814165454864",
+  "rating": 3.1,
+  "reviewCount": 538,
+  "coords": [
+    -33.3709487,
+    -71.6712123
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 5:00 PM",
+    "Tuesday: 12:00 – 5:00 PM",
+    "Wednesday: 12:00 – 5:00 PM",
+    "Thursday: 12:00 – 5:00 PM",
+    "Friday: 12:00 – 5:00 PM",
+    "Saturday: 12:00 – 8:00 PM",
+    "Sunday: 12:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/los-hornitos-la-pica-algarrobo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:43:15.424Z"
+}

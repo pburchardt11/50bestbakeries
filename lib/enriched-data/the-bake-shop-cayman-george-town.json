@@ -1,0 +1,32 @@
+{
+  "slug": "the-bake-shop-cayman-george-town",
+  "name": "The Bake Shop Cayman",
+  "city": "George Town",
+  "country": "Cayman Islands",
+  "placeId": "ChIJe2HCMpSHJY8Rz3X6X4aA90k",
+  "googleName": "The Bake Shop Cayman",
+  "formattedAddress": "13 Red Gate Warehouse, Red Gate Rd, George Town, Cayman Islands",
+  "phone": "(345) 526-3666",
+  "website": "http://www.thebakeshopcayman.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5329869998640494031",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    19.2981203,
+    -81.3614369
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bake-shop-cayman-george-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:41:34.957Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "german-bakery-pune",
+  "name": "German Bakery",
+  "curatedName": "German Bakery",
+  "city": "Pune",
+  "country": "India",
+  "placeId": "ChIJy-qG6v3AwjsRUZiqIhA0kJ8",
+  "googleName": "German Bakery",
+  "formattedAddress": "292, N Main Rd, Ragvilas Society, Koregaon Park, Pune, Maharashtra 411001, India",
+  "phone": "072760 70390",
+  "internationalPhone": "+91 72760 70390",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11497747092582602833",
+  "rating": 4.2,
+  "reviewCount": 14247,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.5396337,
+    73.887395
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/german-bakery-pune/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:49:39.004Z"
+}

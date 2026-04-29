@@ -1,0 +1,32 @@
+{
+  "slug": "bluebake-bak",
+  "name": "BlueBake",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJ7-UMawB9MEARAnubCMavRvw",
+  "googleName": "BlueBake",
+  "formattedAddress": "CV28+54J, Hasanoghlu, Bakı, Azerbaijan",
+  "phone": "051 230 73 13",
+  "website": "http://bluebake.az/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18178410211010378498",
+  "rating": 4.2,
+  "reviewCount": 42,
+  "coords": [
+    40.4008016,
+    49.8646902
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bluebake-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:36:46.893Z"
+}

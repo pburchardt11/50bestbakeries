@@ -1,0 +1,43 @@
+{
+  "slug": "efa-clasico-cuenca",
+  "name": "EFÁ Clásico",
+  "curatedName": "EFÁ Clásico",
+  "city": "Cuenca",
+  "country": "Ecuador",
+  "placeId": "ChIJZVEQ3e4ZzZERGxcvKOshP0E",
+  "googleName": "EFÁ Clásico",
+  "formattedAddress": "Juan Jaramillo 7-36 y, 010104 Cuenca, Ecuador",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4701513829873293083",
+  "rating": 5,
+  "reviewCount": 37,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -2.9000683,
+    -79.0038077
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 5:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/efa-clasico-cuenca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:33.444Z"
+}

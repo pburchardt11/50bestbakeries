@@ -1,0 +1,45 @@
+{
+  "slug": "la-renaissance-patisserie-and-cafe-sydney",
+  "name": "La Renaissance Patisserie and Cafe",
+  "curatedName": "La Renaissance Patisserie and Cafe",
+  "city": "Sydney",
+  "country": "Australia",
+  "placeId": "ChIJDxtW3UKuEmsRoUN19X41RG0",
+  "googleName": "La Renaissance Patisserie and Cafe",
+  "formattedAddress": "47 Argyle St, The Rocks NSW 2000, Australia",
+  "phone": "(02) 9241 4878",
+  "internationalPhone": "+61 2 9241 4878",
+  "website": "http://www.larenaissance.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7873476867950724001",
+  "rating": 4.4,
+  "reviewCount": 1170,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.8593009,
+    151.2084752
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Imaginative cakes and pastries, plus coffee and colourful macarons served in a leafy courtyard.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-renaissance-patisserie-and-cafe-sydney/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:31.702Z"
+}

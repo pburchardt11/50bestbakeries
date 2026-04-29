@@ -1,0 +1,43 @@
+{
+  "slug": "modern-pastry-shop-boston",
+  "name": "Modern Pastry Shop",
+  "curatedName": "Modern Pastry Shop",
+  "city": "Boston",
+  "country": "United States",
+  "placeId": "ChIJT6uL2Yhw44kRQC4VpTehlhs",
+  "googleName": "Modern Pastry Shop",
+  "formattedAddress": "257 Hanover St, Boston, MA 02113, USA",
+  "phone": "(617) 523-3783",
+  "internationalPhone": "+1 617-523-3783",
+  "website": "https://www.modernpastry.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1987953545895554624",
+  "rating": 4.5,
+  "reviewCount": 2560,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.363233,
+    -71.0547494
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Pastries, cakes, pies & cookies fill the cases at this unassuming, family-run Italian bakery.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/modern-pastry-shop-boston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:14:43.056Z"
+}

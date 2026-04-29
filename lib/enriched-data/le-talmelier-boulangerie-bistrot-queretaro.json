@@ -1,0 +1,43 @@
+{
+  "slug": "le-talmelier-boulangerie-bistrot-queretaro",
+  "name": "Le Talmelier Boulangerie Bistrot",
+  "curatedName": "Le Talmelier Boulangerie Bistrot",
+  "city": "Querétaro",
+  "country": "Mexico",
+  "placeId": "ChIJbUEdkC9b04URRogS2xLj-3Y",
+  "googleName": "Le Talmelier boulangerie bistrot",
+  "formattedAddress": "Av. Universidad 42, Centro, 76000 Santiago de Querétaro, Qro., Mexico",
+  "phone": "442 212 4260",
+  "internationalPhone": "+52 442 212 4260",
+  "website": "https://sites.google.com/view/letalmelierboulangeriebistrot/home",
+  "googleMapsUrl": "https://maps.google.com/?cid=8573695985754212422",
+  "rating": 4.7,
+  "reviewCount": 262,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.5984083,
+    -100.392617
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-talmelier-boulangerie-bistrot-queretaro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:59.025Z"
+}

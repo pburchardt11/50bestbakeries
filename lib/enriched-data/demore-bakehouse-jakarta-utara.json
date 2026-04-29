@@ -1,0 +1,43 @@
+{
+  "slug": "demore-bakehouse-jakarta-utara",
+  "name": "Demore Bakehouse",
+  "curatedName": "Demore Bakehouse",
+  "city": "Jakarta Utara",
+  "country": "Indonesia",
+  "placeId": "ChIJbYmIgxL1aS4RIKdd0jlZu6w",
+  "googleName": "Demore Bakehouse",
+  "formattedAddress": "Jl. Raya Klp. Kopyor blok CE2 No.5, RT.1/RW.12, Klp. Gading Tim., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240, Indonesia",
+  "phone": "0877-7136-2611",
+  "internationalPhone": "+62 877-7136-2611",
+  "website": "https://instagram.com/demorejkt?igshid=MzRlODBiNWFlZA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=12446640100045858592",
+  "rating": 4.6,
+  "reviewCount": 345,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.169229899999999,
+    106.9017725
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/demore-bakehouse-jakarta-utara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:59.767Z"
+}

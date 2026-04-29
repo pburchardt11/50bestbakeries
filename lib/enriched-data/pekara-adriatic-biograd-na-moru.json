@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-adriatic-biograd-na-moru",
+  "name": "Pekara Adriatic",
+  "city": "Biograd na Moru",
+  "country": "Croatia",
+  "placeId": "ChIJdxzhy9fKNBMRRjBXzppNLIc",
+  "googleName": "Pekara Adriatic",
+  "formattedAddress": "Ul. Mihovila Pavlinovića 2, 23210, Biograd na Moru, Croatia",
+  "phone": "098 976 7580",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9740245421377663046",
+  "rating": 4.2,
+  "reviewCount": 31,
+  "coords": [
+    43.93802549999999,
+    15.4535338
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 8:00 PM",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 5:30 AM – 8:00 PM",
+    "Sunday: 5:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-adriatic-biograd-na-moru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:48:57.092Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "de-la-santa-bakery-road-town",
+  "name": "De La Santa Bakery",
+  "city": "Road Town",
+  "country": "British Virgin Islands",
+  "placeId": "ChIJ0U-LG692BYwRhuL5hRp_dHs",
+  "googleName": "French Deli & Gourmet Shop",
+  "formattedAddress": "Road Town, British Virgin Islands",
+  "phone": "(284) 346-2195",
+  "website": "http://www.frenchdelibvi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8895874915857195654",
+  "rating": 4.5,
+  "reviewCount": 127,
+  "coords": [
+    18.4273051,
+    -64.61396859999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-la-santa-bakery-road-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:19:43.094Z"
+}

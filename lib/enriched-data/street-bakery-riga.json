@@ -1,0 +1,44 @@
+{
+  "slug": "street-bakery-riga",
+  "name": "Street Bakery",
+  "curatedName": "Street Bakery",
+  "city": "Rīga",
+  "country": "Latvia",
+  "placeId": "ChIJ_x89fzPR7kYRpAv5vhITOw0",
+  "googleName": "Street Bakery",
+  "formattedAddress": "Meža iela 4a, Zemgales priekšpilsēta, Rīga, LV-1048, Latvia",
+  "phone": "26 611 311",
+  "internationalPhone": "+371 26 611 311",
+  "website": "http://streetbakery.lv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=953376717353323428",
+  "rating": 4.6,
+  "reviewCount": 134,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    56.9439933,
+    24.08001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/street-bakery-riga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:50.124Z"
+}

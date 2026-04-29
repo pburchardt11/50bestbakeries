@@ -1,0 +1,32 @@
+{
+  "slug": "la-paneria-alangasi",
+  "name": "La Paneria",
+  "city": "Alangasí",
+  "country": "Ecuador",
+  "placeId": "ChIJ9_UX61S91ZERbFiDzQNpfNQ",
+  "googleName": "La Panería (Valle de los chillos)",
+  "formattedAddress": "Avenida Ilaló, y y Av. Río Curaray, 170804 Quito, Ecuador",
+  "phone": "099 404 4415",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15311228298206599276",
+  "rating": 2.3,
+  "reviewCount": 3,
+  "coords": [
+    -0.2945467,
+    -78.4514921
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-paneria-alangasi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:59:21.361Z"
+}

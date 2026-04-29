@@ -1,0 +1,43 @@
+{
+  "slug": "damla-pastanesi-cankaya",
+  "name": "Damla Pastanesi",
+  "curatedName": "Damla Pastanesi",
+  "city": "Çankaya",
+  "country": "Türkiye",
+  "placeId": "ChIJK8gITB1P0xQRQnknWBp_eCE",
+  "googleName": "Damla Pastanesi",
+  "formattedAddress": "Anıttepe, Gençlik Cd. 91/D, 06570 Çankaya/Ankara, Türkiye",
+  "phone": "(0312) 229 74 84",
+  "internationalPhone": "+90 312 229 74 84",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2411817351581759810",
+  "rating": 4.4,
+  "reviewCount": 1457,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.9248552,
+    32.8421748
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/damla-pastanesi-cankaya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:00:19.522Z"
+}

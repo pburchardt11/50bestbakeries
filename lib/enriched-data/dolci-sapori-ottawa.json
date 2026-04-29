@@ -1,0 +1,44 @@
+{
+  "slug": "dolci-sapori-ottawa",
+  "name": "Dolci Sapori",
+  "curatedName": "Dolci Sapori",
+  "city": "Ottawa",
+  "country": "Canada",
+  "placeId": "ChIJdcE0FQAFzkwR7J0BTHeQJ3U",
+  "googleName": "Dolci Sapori",
+  "formattedAddress": "939 Somerset St W, Ottawa, ON K1R 6R6, Canada",
+  "phone": "(613) 230-7535",
+  "internationalPhone": "+1 613-230-7535",
+  "website": "https://www.dolcisaporicafe.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8441874868579966444",
+  "rating": 4.9,
+  "reviewCount": 381,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4081762,
+    -75.7152724
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dolci-sapori-ottawa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:10.518Z"
+}

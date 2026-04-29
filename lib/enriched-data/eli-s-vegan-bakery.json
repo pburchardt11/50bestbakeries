@@ -1,0 +1,32 @@
+{
+  "slug": "eli-s-vegan-bakery",
+  "name": "Eli's vegan bakery",
+  "city": "Благоевград",
+  "country": "Bulgaria",
+  "placeId": "ChIJS78deFbBqxQRxT1iYaKhgPk",
+  "googleName": "Сладкарница Eli's vegan bakery",
+  "formattedAddress": "ул. Генерал Гурко, 2920 Musomishta, Bulgaria",
+  "phone": "088 243 0888",
+  "website": "https://www.facebook.com/profile.php?id=61557020352911",
+  "googleMapsUrl": "https://maps.google.com/?cid=17978547431253622213",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    41.5504702,
+    23.7465819
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eli-s-vegan-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:25:11.295Z"
+}

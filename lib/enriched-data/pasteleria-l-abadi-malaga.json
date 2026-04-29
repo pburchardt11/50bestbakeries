@@ -1,0 +1,45 @@
+{
+  "slug": "pasteleria-l-abadi-malaga",
+  "name": "Pasteleria L'abadi",
+  "curatedName": "Pasteleria L'abadi",
+  "city": "Málaga",
+  "country": "Spain",
+  "placeId": "ChIJHfmpYwD3cg0RPUEfvNeTm0U",
+  "googleName": "Pastelería L'abadi",
+  "formattedAddress": "Mercado de la Merced, C/ la Merced, 1, puesto 9, Distrito Centro, 29012 Málaga, Spain",
+  "phone": "624 08 05 58",
+  "internationalPhone": "+34 624 08 05 58",
+  "website": "https://www.instagram.com/pasteleria_labadi?igsh=eWo5YW9uMjJkaGxn",
+  "googleMapsUrl": "https://maps.google.com/?cid=5015765164790595901",
+  "rating": 5,
+  "reviewCount": 299,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.7243572,
+    -4.4176003
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-l-abadi-malaga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:22.914Z"
+}

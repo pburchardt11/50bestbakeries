@@ -1,0 +1,44 @@
+{
+  "slug": "boulangerie-patisserie-terroirs-d-avenir-paris",
+  "name": "Boulangerie-Pâtisserie Terroirs d'Avenir",
+  "curatedName": "Boulangerie-Pâtisserie Terroirs d'Avenir",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJn0iJoxdu5kcRq9iphrSUVvI",
+  "googleName": "Boulangerie-Pâtisserie Terroirs d'Avenir",
+  "formattedAddress": "3 Rue du Nil, 75002 Paris, France",
+  "phone": "01 84 79 88 05",
+  "internationalPhone": "+33 1 84 79 88 05",
+  "website": "http://www.terroirs-avenir.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17462308108249979051",
+  "rating": 4.5,
+  "reviewCount": 1071,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8678137,
+    2.3481888
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": "Tiny, cheerful bakery known for its baguettes & croissants, plus colorful desserts & gourmet goods.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-terroirs-d-avenir-paris/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:17.896Z"
+}

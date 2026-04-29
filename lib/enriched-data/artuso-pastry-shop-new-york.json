@@ -1,0 +1,43 @@
+{
+  "slug": "artuso-pastry-shop-new-york",
+  "name": "Artuso Pastry Shop",
+  "curatedName": "Artuso Pastry Shop",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJW3Cjz4b0wokRw-nKbYBqNB0",
+  "googleName": "Artuso Pastry Shop",
+  "formattedAddress": "670 E 187th St, Bronx, NY 10458, USA",
+  "phone": "(718) 367-2515",
+  "internationalPhone": "+1 718-367-2515",
+  "website": "https://artusopastry.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2104424025719237059",
+  "rating": 4.6,
+  "reviewCount": 2341,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.8541724,
+    -73.8852291
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Long-running Italian bakeshop whipping up a large selection of cookies, biscotti, cakes & pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artuso-pastry-shop-new-york/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:58.027Z"
+}

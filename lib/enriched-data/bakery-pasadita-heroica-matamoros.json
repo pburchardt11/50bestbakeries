@@ -1,0 +1,43 @@
+{
+  "slug": "bakery-pasadita-heroica-matamoros",
+  "name": "Bakery Pasadita",
+  "curatedName": "Bakery Pasadita",
+  "city": "Heroica Matamoros",
+  "country": "Mexico",
+  "placeId": "ChIJTWJ3vJCUb4YR-J6PzN6TuyU",
+  "googleName": "Bakery Pasadita",
+  "formattedAddress": "Cd Río Bravo - Matamoros 1600, Zona Centro, 87300 Heroica Matamoros, Tamps., Mexico",
+  "phone": "868 813 7772",
+  "internationalPhone": "+52 868 813 7772",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2718929385172213496",
+  "rating": 4.7,
+  "reviewCount": 431,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.8775282,
+    -97.5129994
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-pasadita-heroica-matamoros/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:07.446Z"
+}

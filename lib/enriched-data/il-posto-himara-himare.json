@@ -1,0 +1,32 @@
+{
+  "slug": "il-posto-himara-himare",
+  "name": "IL Posto Himara",
+  "city": "Himarë",
+  "country": "Albania",
+  "placeId": "ChIJjyepJGgvWxMRqTUd9_RJo24",
+  "googleName": "IL Posto Himara",
+  "formattedAddress": "Rruga Qëndrore, SH8, Himarë 9425, Albania",
+  "phone": "069 685 3150",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7972297081842644393",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    40.1012794,
+    19.7453847
+  ],
+  "openingHours": [
+    "Monday: 6:00 PM – 2:00 AM",
+    "Tuesday: 6:00 PM – 2:00 AM",
+    "Wednesday: 6:00 PM – 2:00 AM",
+    "Thursday: 6:00 PM – 2:00 AM",
+    "Friday: 6:00 PM – 2:00 AM",
+    "Saturday: 6:00 PM – 2:00 AM",
+    "Sunday: 6:00 PM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/il-posto-himara-himare/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:37.620Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "dulce-de-leche-valencia",
+  "name": "Dulce de Leche",
+  "curatedName": "Dulce de Leche",
+  "city": "València",
+  "country": "Spain",
+  "placeId": "ChIJESVFF0lPYA0RqLk0zi6hmNo",
+  "googleName": "Dulce de Leche",
+  "formattedAddress": "C/ de Jesús, 71 Esquina, Extramurs, 46007 València, Valencia, Spain",
+  "phone": "960 11 23 16",
+  "internationalPhone": "+34 960 11 23 16",
+  "website": "http://www.pasteleriadulcedeleche.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15751516919128439208",
+  "rating": 4.3,
+  "reviewCount": 8719,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.4642717,
+    -0.3848732
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Artisanal pastries & cakes, plus light lunches, in a high-ceilinged space with a buzzy vibe.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dulce-de-leche-valencia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:53.527Z"
+}

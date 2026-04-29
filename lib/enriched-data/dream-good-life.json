@@ -1,0 +1,43 @@
+{
+  "slug": "dream-good-life",
+  "name": "Dream Good Life",
+  "curatedName": "Dream Good Life",
+  "city": "台南市",
+  "country": "Taiwan",
+  "placeId": "ChIJFbXpoDN3bjQR5xc47bLLk3E",
+  "googleName": "金穀栗 Dream Good Life",
+  "formattedAddress": "710, Taiwan, Tainan City, Yongkang District, 東橋二街 71巷1號",
+  "phone": "06 302 5859",
+  "internationalPhone": "+886 6 302 5859",
+  "website": "https://www.instagram.com/dream_goodlife?igsh=aG5jcDhkYTF5d2Qw",
+  "googleMapsUrl": "https://maps.google.com/?cid=8184108917206816743",
+  "rating": 4.8,
+  "reviewCount": 136,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.0182026,
+    120.2364539
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 11:30 AM – 7:00 PM",
+    "Saturday: 11:30 AM – 7:00 PM",
+    "Sunday: 11:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dream-good-life/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:32.082Z"
+}

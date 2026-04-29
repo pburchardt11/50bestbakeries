@@ -1,0 +1,43 @@
+{
+  "slug": "confeitaria-doju-osasco",
+  "name": "Confeitaria Doju",
+  "curatedName": "Confeitaria Doju",
+  "city": "Osasco",
+  "country": "Brazil",
+  "placeId": "ChIJqUqn7lz_zpQRcuDntifvOkE",
+  "googleName": "Confeitaria Doju",
+  "formattedAddress": "Av. Hildebrando de Lima, 590 - Km 18, Osasco - SP, 06190-160, Brazil",
+  "phone": "(11) 91037-6540",
+  "internationalPhone": "+55 11 91037-6540",
+  "website": "https://www.ifood.com.br/delivery/osasco-sp/confeitaria-doju-vila-menck/093436ff-dd5e-49f0-a98a-9045529d2177?utm_medium=share",
+  "googleMapsUrl": "https://maps.google.com/?cid=4700332114965946482",
+  "rating": 4.9,
+  "reviewCount": 94,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5311809,
+    -46.7967298
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 8:00 PM",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 8:00 PM",
+    "Saturday: 11:00 AM – 8:00 PM",
+    "Sunday: 1:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-doju-osasco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:15.978Z"
+}

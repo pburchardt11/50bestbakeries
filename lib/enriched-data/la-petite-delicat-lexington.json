@@ -1,0 +1,43 @@
+{
+  "slug": "la-petite-delicat-lexington",
+  "name": "La Petite Delicat",
+  "curatedName": "La Petite Delicat",
+  "city": "Lexington",
+  "country": "United States",
+  "placeId": "ChIJVVVVVR5FQogREgjZCQ83j0Y",
+  "googleName": "La Petite Délicat",
+  "formattedAddress": "722 National Ave, Lexington, KY 40502, USA",
+  "phone": "(859) 266-0041",
+  "internationalPhone": "+1 859-266-0041",
+  "website": "http://lapetitedelicat.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5084343042053834770",
+  "rating": 4.8,
+  "reviewCount": 197,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.0402086,
+    -84.4790951
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-petite-delicat-lexington/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:34.105Z"
+}

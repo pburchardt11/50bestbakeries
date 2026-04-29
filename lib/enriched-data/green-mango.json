@@ -1,0 +1,32 @@
+{
+  "slug": "green-mango",
+  "name": "Green Mango",
+  "city": "បាត់ដំបង",
+  "country": "Cambodia",
+  "placeId": "ChIJlUYgYZFJBTERokEI_mbO9k8",
+  "googleName": "GREEN MANGO Cafè & Bakery",
+  "formattedAddress": "St. 135 Battambang, City, Cambodia",
+  "phone": "017 315 450",
+  "website": "http://greenmangocambodia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5762019715011068322",
+  "rating": 4.3,
+  "reviewCount": 235,
+  "coords": [
+    13.0899852,
+    103.1958162
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:30 PM",
+    "Tuesday: 7:30 AM – 8:30 PM",
+    "Wednesday: 7:30 AM – 8:30 PM",
+    "Thursday: 7:30 AM – 8:30 PM",
+    "Friday: 7:30 AM – 8:30 PM",
+    "Saturday: 7:30 AM – 8:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/green-mango/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:32:57.006Z"
+}

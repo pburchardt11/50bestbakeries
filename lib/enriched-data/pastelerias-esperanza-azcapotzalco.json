@@ -1,0 +1,43 @@
+{
+  "slug": "pastelerias-esperanza-azcapotzalco",
+  "name": "Pastelerías Esperanza",
+  "curatedName": "Pastelerías Esperanza",
+  "city": "Azcapotzalco",
+  "country": "Mexico",
+  "placeId": "ChIJl5O_Co_40YUR2MKGwhbd6_M",
+  "googleName": "Pastelerías Esperanza",
+  "formattedAddress": "Calz. Camarones 396, Claveria, Azcapotzalco, 02080 Ciudad de México, CDMX, Mexico",
+  "phone": "55 6285 0400 ext. 9011",
+  "internationalPhone": "+52 55 6285 0400 ext. 9011",
+  "website": "https://www.esperanza.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17576385060566123224",
+  "rating": 4.4,
+  "reviewCount": 7144,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.468714,
+    -99.17729899999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelerias-esperanza-azcapotzalco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:48.392Z"
+}

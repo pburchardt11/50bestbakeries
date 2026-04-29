@@ -1,0 +1,30 @@
+{
+  "slug": "panaderia-san-gabriel-alajuelita",
+  "name": "Panaderia San Gabriel",
+  "city": "Alajuelita",
+  "country": "Costa Rica",
+  "placeId": "ChIJV8K4E8z9oI8RyAgBeO1zRmc",
+  "googleName": "Panaderia San Gabriel",
+  "formattedAddress": "VVXX+628, C. Esquipulas, San José, Alajuelita, Costa Rica",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7441762898034100424",
+  "rating": 4.2,
+  "reviewCount": 6,
+  "coords": [
+    9.898035799999999,
+    -84.1024264
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:00 PM",
+    "Tuesday: 5:00 AM – 6:00 PM",
+    "Wednesday: 5:00 AM – 6:00 PM",
+    "Thursday: 5:00 AM – 6:00 PM",
+    "Friday: 5:00 AM – 6:00 PM",
+    "Saturday: 5:00 AM – 6:00 PM",
+    "Sunday: 5:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:48:03.587Z"
+}

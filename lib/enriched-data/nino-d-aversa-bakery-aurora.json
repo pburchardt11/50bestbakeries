@@ -1,0 +1,43 @@
+{
+  "slug": "nino-d-aversa-bakery-aurora",
+  "name": "Nino D'Aversa Bakery",
+  "curatedName": "Nino D'Aversa Bakery",
+  "city": "Aurora",
+  "country": "Canada",
+  "placeId": "ChIJ71H-PuExK4gRxpzzBI3q1pI",
+  "googleName": "Nino D’Aversa Bakery",
+  "formattedAddress": "1 Toro Rd, North York, ON M3J 2A4, Canada",
+  "phone": "(416) 638-3271",
+  "internationalPhone": "+1 416-638-3271",
+  "website": "http://ninodaversa.com/locations/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10580902265947921606",
+  "rating": 4.2,
+  "reviewCount": 1478,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.75958989999999,
+    -79.488809
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nino-d-aversa-bakery-aurora/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:24:11.483Z"
+}

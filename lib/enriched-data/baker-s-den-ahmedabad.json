@@ -1,0 +1,43 @@
+{
+  "slug": "baker-s-den-ahmedabad",
+  "name": "Baker's Den",
+  "curatedName": "Baker's Den",
+  "city": "Ahmedabad",
+  "country": "India",
+  "placeId": "ChIJ____P9yEXjkRUYF5jt1WDIk",
+  "googleName": "Baker's Den",
+  "formattedAddress": "7, Shivalik Plaza, IIM Rd, opposite AMA, Panjara Pol, Ambawadi, Ahmedabad, Gujarat 380015, India",
+  "phone": "076994 54545",
+  "internationalPhone": "+91 76994 54545",
+  "website": "https://www.thebakersden.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9875363592494743889",
+  "rating": 4.7,
+  "reviewCount": 302,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.0280036,
+    72.5423191
+  ],
+  "openingHours": [
+    "Monday: 11:15 AM – 11:00 PM",
+    "Tuesday: 11:15 AM – 11:00 PM",
+    "Wednesday: 11:15 AM – 11:00 PM",
+    "Thursday: 11:15 AM – 11:00 PM",
+    "Friday: 11:15 AM – 11:00 PM",
+    "Saturday: 11:15 AM – 11:00 PM",
+    "Sunday: 11:15 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-s-den-ahmedabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:49.974Z"
+}

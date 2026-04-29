@@ -1,0 +1,43 @@
+{
+  "slug": "bakehouse-bristol",
+  "name": "Bakehouse",
+  "curatedName": "Bakehouse",
+  "city": "Bristol",
+  "country": "United Kingdom",
+  "placeId": "ChIJXwGxuzWPcUgRL73rMtvwoI8",
+  "googleName": "Bakehouse",
+  "formattedAddress": "Unit B1–B4, Kingsland Trading Estate, 6 St Philips Rd, Bristol BS2 0JZ, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://bakehousebristol.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10349536767940214063",
+  "rating": 4.5,
+  "reviewCount": 557,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.4560766,
+    -2.5757268
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakehouse-bristol/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:16.335Z"
+}

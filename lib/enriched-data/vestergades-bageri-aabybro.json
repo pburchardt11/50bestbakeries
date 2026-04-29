@@ -1,0 +1,32 @@
+{
+  "slug": "vestergades-bageri-aabybro",
+  "name": "Vestergades Bageri",
+  "city": "Aabybro",
+  "country": "Denmark",
+  "placeId": "ChIJh9CDTO4lSUYRnIkTIryC8jk",
+  "googleName": "Aaby-Bageren",
+  "formattedAddress": "Østergade 10, 9440 Aabybro, Denmark",
+  "phone": "98 24 10 31",
+  "website": "https://aaby-bageren.mitbageri.dk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4175543549063039388",
+  "rating": 4.3,
+  "reviewCount": 277,
+  "coords": [
+    57.1617773,
+    9.7304057
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 4:00 PM",
+    "Tuesday: 5:30 AM – 4:00 PM",
+    "Wednesday: 5:30 AM – 4:00 PM",
+    "Thursday: 5:30 AM – 4:00 PM",
+    "Friday: 5:30 AM – 4:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vestergades-bageri-aabybro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:55:47.450Z"
+}

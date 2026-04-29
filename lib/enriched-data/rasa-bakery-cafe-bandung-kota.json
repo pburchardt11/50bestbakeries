@@ -1,0 +1,43 @@
+{
+  "slug": "rasa-bakery-cafe-bandung-kota",
+  "name": "Rasa Bakery & Cafe",
+  "curatedName": "Rasa Bakery & Cafe",
+  "city": "Bandung Kota",
+  "country": "Indonesia",
+  "placeId": "ChIJAQC0yS_maC4RJwoJ-poaY7k",
+  "googleName": "Rasa Bakery & Cafe",
+  "formattedAddress": "Jl. Tamblong No.15, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111, Indonesia",
+  "phone": "(022) 4205330",
+  "internationalPhone": "+62 22 4205330",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13358550172633205287",
+  "rating": 4.5,
+  "reviewCount": 4847,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.9189658,
+    107.6121626
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rasa-bakery-cafe-bandung-kota/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:37:17.549Z"
+}

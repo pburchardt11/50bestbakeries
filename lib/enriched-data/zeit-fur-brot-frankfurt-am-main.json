@@ -1,0 +1,44 @@
+{
+  "slug": "zeit-fur-brot-frankfurt-am-main",
+  "name": "Zeit fur Brot",
+  "curatedName": "Zeit fur Brot",
+  "city": "Frankfurt am Main",
+  "country": "Germany",
+  "placeId": "ChIJ3bFfB7EOvUcRexpPqGvMlJM",
+  "googleName": "ZEIT FÜR BROT",
+  "formattedAddress": "Oeder Weg 15, 60318 Frankfurt am Main, Germany",
+  "phone": "069 56998150",
+  "internationalPhone": "+49 69 56998150",
+  "website": "http://zeitfuerbrot.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10634349382885907067",
+  "rating": 4.5,
+  "reviewCount": 2205,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.119428,
+    8.679602
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zeit-fur-brot-frankfurt-am-main/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:58.347Z"
+}

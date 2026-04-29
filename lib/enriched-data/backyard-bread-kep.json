@@ -1,0 +1,32 @@
+{
+  "slug": "backyard-bread-kep",
+  "name": "Backyard Bread Kep",
+  "city": "កែប",
+  "country": "Cambodia",
+  "placeId": "ChIJb1E4ODRRCTERJ8aZBoIoUbg",
+  "googleName": "Backyard Cafe",
+  "formattedAddress": "Street 240, House, 32E, Phnom Penh, Cambodia",
+  "phone": "078 751 715",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13281441315013903911",
+  "rating": 4.5,
+  "reviewCount": 1024,
+  "coords": [
+    11.5606736,
+    104.9301259
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backyard-bread-kep/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:30:00.675Z"
+}

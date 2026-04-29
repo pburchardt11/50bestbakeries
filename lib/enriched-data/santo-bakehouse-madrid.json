@@ -1,0 +1,44 @@
+{
+  "slug": "santo-bakehouse-madrid",
+  "name": "Santo Bakehouse",
+  "curatedName": "Santo Bakehouse",
+  "city": "Madrid",
+  "country": "Spain",
+  "placeId": "ChIJi1zPUCspQg0RppDTU7dKfKk",
+  "googleName": "Santo Bakehouse",
+  "formattedAddress": "C. del Espíritu Santo, 25, Centro, 28004 Madrid, Spain",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.santobakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12212718440767787174",
+  "rating": 4.9,
+  "reviewCount": 667,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.4254039,
+    -3.7047813
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santo-bakehouse-madrid/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:13.457Z"
+}

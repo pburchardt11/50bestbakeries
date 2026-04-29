@@ -1,0 +1,43 @@
+{
+  "slug": "purebread-bakery",
+  "name": "Purebread Bakery",
+  "curatedName": "Purebread Bakery",
+  "city": "台北市",
+  "country": "Taiwan",
+  "placeId": "ChIJYYvaudKrQjQRYRUYOaK9lJU",
+  "googleName": "Purebread Bakery",
+  "formattedAddress": "No. 21號, Lane 308, Guangfu S Rd, Da’an District, Taipei City, Taiwan 106",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.purebread.com.tw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10778448312644670817",
+  "rating": 4.1,
+  "reviewCount": 1352,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.0387673,
+    121.556559
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Casual, compact nook crafting fresh baked bread, cinnamon rolls, croissants & other pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/purebread-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:04.923Z"
+}

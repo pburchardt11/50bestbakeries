@@ -1,0 +1,32 @@
+{
+  "slug": "zoila-cake-shop-higuey",
+  "name": "Zoila Cake Shop",
+  "city": "Higüey",
+  "country": "Dominican Republic",
+  "placeId": "ChIJAR2Js123qI4RTe0W0CV-hSo",
+  "googleName": "Zoila Cake Shop",
+  "formattedAddress": "Plaza Taveras Center, Higüey 23000, Dominican Republic",
+  "phone": "(809) 554-0479",
+  "website": "http://www.zoilacakeshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3063993822365543757",
+  "rating": 4.2,
+  "reviewCount": 75,
+  "coords": [
+    18.6171338,
+    -68.7232757
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zoila-cake-shop-higuey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:16.649Z"
+}

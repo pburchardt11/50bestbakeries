@@ -1,0 +1,32 @@
+{
+  "slug": "the-bread-table-belmopan",
+  "name": "The Bread Table",
+  "city": "Belmopan",
+  "country": "Belize",
+  "placeId": "ChIJFc4FhuhjXo8Ry1MG0i73PCw",
+  "googleName": "The Artisan Bread Basket",
+  "formattedAddress": "Center Road, Spanish Lookout, Belize",
+  "phone": "662-9832",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3187694416735654859",
+  "rating": 4.8,
+  "reviewCount": 21,
+  "coords": [
+    17.2559099,
+    -89.00329470000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:30 PM",
+    "Wednesday: 7:00 AM – 5:30 PM",
+    "Thursday: 7:00 AM – 5:30 PM",
+    "Friday: 7:00 AM – 5:30 PM",
+    "Saturday: 7:00 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bread-table-belmopan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:06:43.711Z"
+}

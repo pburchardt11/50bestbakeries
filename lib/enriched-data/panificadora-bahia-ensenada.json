@@ -1,0 +1,43 @@
+{
+  "slug": "panificadora-bahia-ensenada",
+  "name": "Panificadora Bahía",
+  "curatedName": "Panificadora Bahía",
+  "city": "Ensenada",
+  "country": "Mexico",
+  "placeId": "ChIJh4WeUXuS2IAR84fZzYCnuCs",
+  "googleName": "Panificadora Bahía",
+  "formattedAddress": "Calle Sexta 986, Zona Centro, 22800 Ensenada, B.C., Mexico",
+  "phone": "646 178 1566",
+  "internationalPhone": "+52 646 178 1566",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3150452110996899827",
+  "rating": 4.5,
+  "reviewCount": 480,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    31.8662965,
+    -116.6194391
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-bahia-ensenada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:48.086Z"
+}

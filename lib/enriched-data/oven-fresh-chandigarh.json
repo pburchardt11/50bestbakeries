@@ -1,0 +1,45 @@
+{
+  "slug": "oven-fresh-chandigarh",
+  "name": "Oven Fresh",
+  "curatedName": "Oven Fresh",
+  "city": "Chandigarh",
+  "country": "India",
+  "placeId": "ChIJ____z7XtDzkRBbR42PThocg",
+  "googleName": "Oven Fresh",
+  "formattedAddress": "Sco 437-438, 35C, Sector 35, Chandigarh, 160022, India",
+  "phone": "098888 77766",
+  "internationalPhone": "+91 98888 77766",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14457084720556061701",
+  "rating": 4.4,
+  "reviewCount": 5502,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.7217063,
+    76.7602503
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 11:00 PM",
+    "Tuesday: 11:00 AM – 11:00 PM",
+    "Wednesday: 11:00 AM – 11:00 PM",
+    "Thursday: 11:00 AM – 11:00 PM",
+    "Friday: 11:00 AM – 11:00 PM",
+    "Saturday: 11:00 AM – 11:00 PM",
+    "Sunday: 11:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oven-fresh-chandigarh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:50.431Z"
+}

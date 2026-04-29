@@ -1,0 +1,43 @@
+{
+  "slug": "i-segreti-del-chiostro-palermo",
+  "name": "I Segreti del Chiostro",
+  "curatedName": "I Segreti del Chiostro",
+  "city": "Palermo",
+  "country": "Italy",
+  "placeId": "ChIJH-f_fjXlGRMRDxB08nzKYvw",
+  "googleName": "I Segreti del Chiostro",
+  "formattedAddress": "P.za Bellini, 33, 90133 Palermo PA, Italy",
+  "phone": "327 588 2302",
+  "internationalPhone": "+39 327 588 2302",
+  "website": "https://isegretidelchiostro.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18186320883267932175",
+  "rating": 4.6,
+  "reviewCount": 1931,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.1154255,
+    13.3630905
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:30 PM",
+    "Tuesday: 10:00 AM – 5:30 PM",
+    "Wednesday: 10:00 AM – 5:30 PM",
+    "Thursday: 10:00 AM – 5:30 PM",
+    "Friday: 10:00 AM – 5:30 PM",
+    "Saturday: 10:00 AM – 5:30 PM",
+    "Sunday: 10:00 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/i-segreti-del-chiostro-palermo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:48.854Z"
+}

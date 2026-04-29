@@ -1,0 +1,32 @@
+{
+  "slug": "pastry-and-co-bijeljina",
+  "name": "Pastry and Co",
+  "city": "Bijeljina",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJx9QmFeLoW0cRwuIUPSAeh58",
+  "googleName": "Pastry & Co",
+  "formattedAddress": "76300, Meše Selimovića 5, Bijeljina 76300, Bosnia and Herzegovina",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11495189697699046082",
+  "rating": 4.5,
+  "reviewCount": 165,
+  "coords": [
+    44.7577596,
+    19.2176745
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastry-and-co-bijeljina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:18:02.194Z"
+}

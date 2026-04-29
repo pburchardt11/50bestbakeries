@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-le-toledo-montreal",
+  "name": "Boulangerie le Toledo",
+  "curatedName": "Boulangerie le Toledo",
+  "city": "Montréal",
+  "country": "Canada",
+  "placeId": "ChIJyTXNVsMbyUwRmkS5kPUMHZ0",
+  "googleName": "Boulangerie Le Toledo",
+  "formattedAddress": "351 Avenue du Mont-Royal E, Montréal, QC H2T 1R1, Canada",
+  "phone": "(514) 840-0999",
+  "internationalPhone": "+1 514-840-0999",
+  "website": "https://www.letoledo.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11321219287113876634",
+  "rating": 4.6,
+  "reviewCount": 1594,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5236274,
+    -73.583365
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-le-toledo-montreal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:26.089Z"
+}

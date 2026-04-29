@@ -1,0 +1,43 @@
+{
+  "slug": "la-docura-confeitaria-franca",
+  "name": "La Doçura Confeitaria",
+  "curatedName": "La Doçura Confeitaria",
+  "city": "Franca",
+  "country": "Brazil",
+  "placeId": "ChIJs6cIxV6nsJQR7P9udNNZgxQ",
+  "googleName": "La Doçura Confeitaria",
+  "formattedAddress": "R. Alberto Carraro, 761 - Jd. Tropical I, Franca - SP, 14407-074, Brazil",
+  "phone": "(16) 99385-6811",
+  "internationalPhone": "+55 16 99385-6811",
+  "website": "https://app.cardapioweb.com/la_docura",
+  "googleMapsUrl": "https://maps.google.com/?cid=1478123867434057708",
+  "rating": 5,
+  "reviewCount": 33,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.5043943,
+    -47.416501
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-docura-confeitaria-franca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:23:13.953Z"
+}

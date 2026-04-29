@@ -1,0 +1,43 @@
+{
+  "slug": "ohbake-quan-ba-inh",
+  "name": "ohbake",
+  "curatedName": "ohbake",
+  "city": "Quận Ba Đình",
+  "country": "Vietnam",
+  "placeId": "ChIJdSRnwLhTNDERJzmDkzX9Ry0",
+  "googleName": "ohbake",
+  "formattedAddress": "7 Ng. 52 P. Giang Văn Minh, Đội Cấn, Ba Đình, Hà Nội, Vietnam",
+  "phone": "0325 635 225",
+  "internationalPhone": "+84 325 635 225",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3262854861603158311",
+  "rating": 4.7,
+  "reviewCount": 69,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0341067,
+    105.8274232
+  ],
+  "openingHours": [
+    "Monday: 1:00 – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ohbake-quan-ba-inh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:19:08.002Z"
+}

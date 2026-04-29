@@ -1,0 +1,32 @@
+{
+  "slug": "oh-my-goodies-benque-viejo",
+  "name": "Oh My Goodies",
+  "city": "Benque Viejo",
+  "country": "Belize",
+  "placeId": "ChIJH79HUDu5e0gRbaVU2IE8yrE",
+  "googleName": "O My Goodies",
+  "formattedAddress": "132 Whitworth Rd, Rochdale OL12 0JG, UK",
+  "phone": "01706 413658",
+  "website": "http://www.omygoodies.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12811118618386670957",
+  "rating": 4.8,
+  "reviewCount": 109,
+  "coords": [
+    53.625232,
+    -2.1559138
+  ],
+  "openingHours": [
+    "Monday: 5:00 – 11:00 PM",
+    "Tuesday: 5:00 – 11:00 PM",
+    "Wednesday: 5:00 – 11:00 PM",
+    "Thursday: 5:00 – 11:00 PM",
+    "Friday: 4:00 PM – 12:00 AM",
+    "Saturday: 4:00 PM – 12:00 AM",
+    "Sunday: 4:00 – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oh-my-goodies-benque-viejo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:06:46.284Z"
+}

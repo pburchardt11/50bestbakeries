@@ -1,0 +1,32 @@
+{
+  "slug": "cafe-de-paris-holetown",
+  "name": "Café de Paris",
+  "city": "Holetown",
+  "country": "Barbados",
+  "placeId": "ChIJ74u_UdrxQ4wR8HY-LNYTN6k",
+  "googleName": "Café de Paris Barbados",
+  "formattedAddress": "Ground Floor, Holetown, Saint James Barbados",
+  "phone": "(246) 418-0658",
+  "website": "https://www.thecliffbarbados.com/caf%C3%A9-de-paris",
+  "googleMapsUrl": "https://maps.google.com/?cid=12193236326715127536",
+  "rating": 4,
+  "reviewCount": 148,
+  "coords": [
+    13.1870022,
+    -59.63545240000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-de-paris-holetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:56:33.612Z"
+}

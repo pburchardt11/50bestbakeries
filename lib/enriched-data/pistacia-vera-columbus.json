@@ -1,0 +1,45 @@
+{
+  "slug": "pistacia-vera-columbus",
+  "name": "Pistacia Vera",
+  "curatedName": "Pistacia Vera",
+  "city": "Columbus",
+  "country": "United States",
+  "placeId": "ChIJHREEqEuPOIgRaaSKVhLlK9Q",
+  "googleName": "Pistacia Vera",
+  "formattedAddress": "541 S 3rd St, Columbus, OH 43215, USA",
+  "phone": "(614) 220-9070",
+  "internationalPhone": "+1 614-220-9070",
+  "website": "http://www.pistaciavera.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15288565226963379305",
+  "rating": 4.7,
+  "reviewCount": 1672,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.9512782,
+    -82.9959712
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Quaint cafe with sidewalk seats for homemade macaron, pastries & other sweets, plus light fare.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pistacia-vera-columbus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:33.194Z"
+}

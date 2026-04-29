@@ -1,0 +1,32 @@
+{
+  "slug": "astreia-cake-boutique",
+  "name": "Astreia Cake Boutique",
+  "city": "Бургас",
+  "country": "Bulgaria",
+  "placeId": "ChIJWU4qqaKVpkARYqkJh9IgfC8",
+  "googleName": "Astreia Cake Boutique - Сладкарски бутик Васил Левски №9",
+  "formattedAddress": "Burgas Center, ul. \"Vasil Levski\" 9, 8000 Burgas, Bulgaria",
+  "phone": "088 444 8243",
+  "website": "https://astreia.bg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3421645905475512674",
+  "rating": 4.6,
+  "reviewCount": 87,
+  "coords": [
+    42.4990661,
+    27.4706522
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/astreia-cake-boutique/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:26:51.537Z"
+}

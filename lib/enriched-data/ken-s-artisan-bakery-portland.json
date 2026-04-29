@@ -1,0 +1,44 @@
+{
+  "slug": "ken-s-artisan-bakery-portland",
+  "name": "Ken's Artisan Bakery",
+  "curatedName": "Ken's Artisan Bakery",
+  "city": "Portland",
+  "country": "United States",
+  "placeId": "ChIJNSdXBPcJlVQRqh8kKeRI2Xo",
+  "googleName": "Ken's Artisan Bakery",
+  "formattedAddress": "338 NW 21st Ave, Portland, OR 97209, USA",
+  "phone": "(503) 248-2202",
+  "internationalPhone": "+1 503-248-2202",
+  "website": "http://kensartisan.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8852186687353397162",
+  "rating": 4.7,
+  "reviewCount": 1699,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5254704,
+    -122.6942453
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Local fixture supplying fresh baked goods & French bistro fare in a bustling, counter-serve setup.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ken-s-artisan-bakery-portland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:26.124Z"
+}

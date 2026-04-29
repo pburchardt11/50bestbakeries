@@ -1,0 +1,43 @@
+{
+  "slug": "european-bakery-kathmandu",
+  "name": "European Bakery",
+  "curatedName": "European Bakery",
+  "city": "Kathmandu",
+  "country": "Nepal",
+  "placeId": "ChIJJ_B0XhQZ6zkRmlzWtJr2X90",
+  "googleName": "European Bakery",
+  "formattedAddress": "484 Lamatangin Marg, Kathmandu 44600, Nepal",
+  "phone": "01-4522047",
+  "internationalPhone": "+977 1-4522047",
+  "website": "http://www.facebook.com/eurobakery7",
+  "googleMapsUrl": "https://maps.google.com/?cid=15951739549488929946",
+  "rating": 4.3,
+  "reviewCount": 1877,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    27.7278233,
+    85.33425670000001
+  ],
+  "openingHours": [
+    "Monday: 6:15 AM – 7:45 PM",
+    "Tuesday: 6:15 AM – 7:45 PM",
+    "Wednesday: 6:15 AM – 7:45 PM",
+    "Thursday: 6:15 AM – 7:45 PM",
+    "Friday: 6:15 AM – 7:45 PM",
+    "Saturday: 6:15 AM – 7:45 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/european-bakery-kathmandu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:37.861Z"
+}

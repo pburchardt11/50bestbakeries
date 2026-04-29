@@ -1,0 +1,43 @@
+{
+  "slug": "nillavee-cakes-pastries-nairobi",
+  "name": "Nillavee Cakes & Pastries",
+  "curatedName": "Nillavee Cakes & Pastries",
+  "city": "Nairobi",
+  "country": "Kenya",
+  "placeId": "ChIJlXkX-NIRLxgRRsqpT7nPlZM",
+  "googleName": "Nillavee Cakes & Pastries",
+  "formattedAddress": "Nairobi, Kenya",
+  "phone": "0723 174434",
+  "internationalPhone": "+254 723 174434",
+  "website": "https://nillavee.co.ke/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10634634489917721158",
+  "rating": 4.6,
+  "reviewCount": 49,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -1.2853307,
+    36.8220933
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nillavee-cakes-pastries-nairobi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:30.789Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "stohrer-paris",
+  "name": "Stohrer",
+  "curatedName": "Stohrer",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJdz7rPhhu5kcRq862GQcM148",
+  "googleName": "Stohrer",
+  "formattedAddress": "51 Rue Montorgueil, 75002 Paris, France",
+  "phone": "01 42 33 38 20",
+  "internationalPhone": "+33 1 42 33 38 20",
+  "website": "https://stohrer.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10364766292052201131",
+  "rating": 4.4,
+  "reviewCount": 4364,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8652644,
+    2.3468149
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Elegant pâtisserie offering embellished sweet & savory desserts & baked goods since 1730.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stohrer-paris/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:13.687Z"
+}

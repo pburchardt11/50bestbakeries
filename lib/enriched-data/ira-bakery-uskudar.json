@@ -1,0 +1,43 @@
+{
+  "slug": "ira-bakery-uskudar",
+  "name": "Ira Bakery",
+  "curatedName": "Ira Bakery",
+  "city": "Üsküdar",
+  "country": "Türkiye",
+  "placeId": "ChIJyzccTOO3yhQRNoUYB4hzUkA",
+  "googleName": "Ira Bakery",
+  "formattedAddress": "Aziz Mahmut Hüdayi, Uncular Cd. No:45, 34672 Üsküdar/İstanbul, Türkiye",
+  "phone": "(0216) 472 30 60",
+  "internationalPhone": "+90 216 472 30 60",
+  "website": "https://menufast.net/m/1174/irabakery?lang=tr",
+  "googleMapsUrl": "https://maps.google.com/?cid=4634893994589455670",
+  "rating": 4.4,
+  "reviewCount": 1993,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0242894,
+    29.0129632
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:30 PM",
+    "Tuesday: 7:30 AM – 11:30 PM",
+    "Wednesday: 7:30 AM – 11:30 PM",
+    "Thursday: 7:30 AM – 11:30 PM",
+    "Friday: 7:30 AM – 11:30 PM",
+    "Saturday: 7:30 AM – 11:30 PM",
+    "Sunday: 7:30 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ira-bakery-uskudar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:36.374Z"
+}

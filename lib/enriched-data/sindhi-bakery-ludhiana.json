@@ -1,0 +1,43 @@
+{
+  "slug": "sindhi-bakery-ludhiana",
+  "name": "Sindhi Bakery",
+  "curatedName": "Sindhi Bakery",
+  "city": "Ludhiana",
+  "country": "India",
+  "placeId": "ChIJMYfUrpCDGjkReYoDap3yges",
+  "googleName": "Sindhi Bakery",
+  "formattedAddress": "Kailash Cinema Rd, Civil Lines, Ludhiana, Punjab 141001, India",
+  "phone": "081463 80803",
+  "internationalPhone": "+91 81463 80803",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16970111628811143801",
+  "rating": 4.3,
+  "reviewCount": 1893,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.918241,
+    75.84140099999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sindhi-bakery-ludhiana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:02.675Z"
+}

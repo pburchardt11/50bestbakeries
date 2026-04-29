@@ -1,0 +1,43 @@
+{
+  "slug": "chocorrant-patisserie-cafe-edmonton",
+  "name": "Chocorrant Pâtisserie + Cafe",
+  "curatedName": "Chocorrant Pâtisserie + Cafe",
+  "city": "Edmonton",
+  "country": "Canada",
+  "placeId": "ChIJiVWcSysioFMRjIpnIY1gEm0",
+  "googleName": "Chocorrant Pâtisserie + Cafe",
+  "formattedAddress": "10328 124 St, Edmonton, AB T5N 1R2, Canada",
+  "phone": "(780) 908-2253",
+  "internationalPhone": "+1 780-908-2253",
+  "website": "http://www.chocorrant.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7859450458982025868",
+  "rating": 4.6,
+  "reviewCount": 597,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.5454979,
+    -113.5361468
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chocorrant-patisserie-cafe-edmonton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:34.979Z"
+}

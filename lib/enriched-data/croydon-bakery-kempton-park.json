@@ -1,0 +1,43 @@
+{
+  "slug": "croydon-bakery-kempton-park",
+  "name": "Croydon Bakery",
+  "curatedName": "Croydon Bakery",
+  "city": "Kempton Park",
+  "country": "South Africa",
+  "placeId": "ChIJ06Dt74UTlR4RHVhU9UpTN2A",
+  "googleName": "Croydon Bakery",
+  "formattedAddress": "90 Brabazon Rd, Croydon, Kempton Park, 1620, South Africa",
+  "phone": "011 974 4549",
+  "internationalPhone": "+27 11 974 4549",
+  "website": "http://www.croydonbakery.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6933101732768798749",
+  "rating": 4.6,
+  "reviewCount": 4657,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.1316736,
+    28.1999979
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:30 PM",
+    "Tuesday: 7:30 AM – 5:30 PM",
+    "Wednesday: 7:30 AM – 5:30 PM",
+    "Thursday: 7:30 AM – 5:30 PM",
+    "Friday: 7:30 AM – 5:30 PM",
+    "Saturday: 7:00 AM – 1:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/croydon-bakery-kempton-park/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:56:07.511Z"
+}

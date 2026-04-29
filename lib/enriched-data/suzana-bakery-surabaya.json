@@ -1,0 +1,43 @@
+{
+  "slug": "suzana-bakery-surabaya",
+  "name": "Suzana Bakery",
+  "curatedName": "Suzana Bakery",
+  "city": "Surabaya",
+  "country": "Indonesia",
+  "placeId": "ChIJyZITW7_71y0R4WE1Wp9A3Hg",
+  "googleName": "Suzana Bakery",
+  "formattedAddress": "Jl. Dinoyo No.146 - 148, Keputran, Kec. Tegalsari, Surabaya, Jawa Timur 60265, Indonesia",
+  "phone": "(031) 5619809",
+  "internationalPhone": "+62 31 5619809",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8708906832585122273",
+  "rating": 4.5,
+  "reviewCount": 4199,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.287572699999999,
+    112.744173
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Toko roti veteran yg menyediakan aneka roti, cookies, cakes, donut, pastry, dan aneka snack lainnya.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/suzana-bakery-surabaya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:02.891Z"
+}

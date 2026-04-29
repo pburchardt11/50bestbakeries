@@ -1,0 +1,45 @@
+{
+  "slug": "bo-by-butterman-quan-1",
+  "name": "Bơ by Butterman",
+  "curatedName": "Bơ by Butterman",
+  "city": "Quận 1",
+  "country": "Vietnam",
+  "placeId": "ChIJVy5_KHQvdTERIuolQr53Dus",
+  "googleName": "Bơ by Butterman",
+  "formattedAddress": "67 Lê Thị Riêng, Phường Phạm Ngũ Lão, Bến Thành, Hồ Chí Minh, Vietnam",
+  "phone": "0909 812 090",
+  "internationalPhone": "+84 909 812 090",
+  "website": "https://bobybutterman.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16937606907624286754",
+  "rating": 4.7,
+  "reviewCount": 363,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7711063,
+    106.6911029
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bo-by-butterman-quan-1/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:28.715Z"
+}

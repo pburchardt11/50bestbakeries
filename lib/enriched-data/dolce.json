@@ -1,0 +1,32 @@
+{
+  "slug": "dolce",
+  "name": "DOLCE",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJKbdxl-vP20YRJvOXBcg4qn0",
+  "googleName": "Dolce",
+  "formattedAddress": "vulica Niamiha 3, Minsk, Minskaja voblasć, Belarus",
+  "phone": "8 044 565-88-48",
+  "website": "http://dolcelux.by/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9055112432520262438",
+  "rating": 3.9,
+  "reviewCount": 115,
+  "coords": [
+    53.903752,
+    27.5516269
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dolce/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:59:51.550Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "l-amour-du-pain-brasilia",
+  "name": "L'Amour du Pain",
+  "curatedName": "L'Amour du Pain",
+  "city": "Brasília",
+  "country": "Brazil",
+  "placeId": "ChIJ22cAJP8vWpMRYK_KAMzPBF0",
+  "googleName": "L'amour du Pain",
+  "formattedAddress": "SQS 115 B. B, Loja 10 - Asa Sul, Brasília - DF, 70385-520, Brazil",
+  "phone": "(61) 3037-4949",
+  "internationalPhone": "+55 61 3037-4949",
+  "website": "https://scflamour.wixsite.com/lamour",
+  "googleMapsUrl": "https://maps.google.com/?cid=6702710620527701856",
+  "rating": 4.4,
+  "reviewCount": 2593,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -15.8311092,
+    -47.9239434
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-amour-du-pain-brasilia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:11.946Z"
+}

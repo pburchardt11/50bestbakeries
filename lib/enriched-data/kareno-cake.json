@@ -1,0 +1,32 @@
+{
+  "slug": "kareno-cake",
+  "name": "Kareno cake",
+  "city": "Արմավիր",
+  "country": "Armenia",
+  "placeId": "ChIJdUb3MW7vakARwZCdQfyMYKo",
+  "googleName": "Kareno cake",
+  "formattedAddress": "Yerevanyan Street, Armavir 0901, Armenia",
+  "phone": "094 940469",
+  "website": "https://www.facebook.com/armavirkareno/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12276967599272464577",
+  "rating": 4,
+  "reviewCount": 18,
+  "coords": [
+    40.1478847,
+    44.0293278
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kareno-cake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:22:00.107Z"
+}

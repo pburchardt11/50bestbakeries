@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-hilda-alajuela",
+  "name": "Panadería La Hilda",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJO4gYYMlnoI8R9TjJ6MelZnw",
+  "googleName": "Panaderia La Hilda",
+  "formattedAddress": "San Juan De Lajas, 7H2H+HGX, Provincia de Alajuela, Zapote, Costa Rica",
+  "phone": "8431 1977",
+  "website": "https://www.facebook.com/pg/panaderialahilda",
+  "googleMapsUrl": "https://maps.google.com/?cid=8964034386350127349",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    10.2514988,
+    -84.4211266
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-hilda-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:57.945Z"
+}

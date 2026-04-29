@@ -1,0 +1,43 @@
+{
+  "slug": "pastrymancer-rochester",
+  "name": "Pastrymancer",
+  "curatedName": "Pastrymancer",
+  "city": "Rochester",
+  "country": "United States",
+  "placeId": "ChIJa_DMjA-11okROP9j0W4F7MY",
+  "googleName": "Pastrymancer",
+  "formattedAddress": "184 Monroe Ave, Rochester, NY 14607, USA",
+  "phone": "(585) 472-1846",
+  "internationalPhone": "+1 585-472-1846",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14333837687530979128",
+  "rating": 5,
+  "reviewCount": 80,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.1506649,
+    -77.6005899
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastrymancer-rochester/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:16:48.023Z"
+}

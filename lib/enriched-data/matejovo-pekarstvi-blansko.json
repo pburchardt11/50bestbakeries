@@ -1,0 +1,32 @@
+{
+  "slug": "matejovo-pekarstvi-blansko",
+  "name": "Matějovo pekařství",
+  "city": "Blansko",
+  "country": "Czech Republic",
+  "placeId": "ChIJIwl2xYyPEkcRRsgLLGRfhTw",
+  "googleName": "Matějovo pekařství",
+  "formattedAddress": "8b CZ, nám. Svobody 678/01, 678 01 Blansko-Blansko 1, Czechia",
+  "phone": "724 776 437",
+  "website": "https://www.matejovopekarstvi.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4360996698018531398",
+  "rating": 4.3,
+  "reviewCount": 104,
+  "coords": [
+    49.3645326,
+    16.6439028
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 5:30 PM",
+    "Tuesday: 6:30 AM – 5:30 PM",
+    "Wednesday: 6:30 AM – 5:30 PM",
+    "Thursday: 6:30 AM – 5:30 PM",
+    "Friday: 6:30 AM – 5:30 PM",
+    "Saturday: 7:00 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/matejovo-pekarstvi-blansko/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:23.993Z"
+}

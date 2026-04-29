@@ -1,0 +1,43 @@
+{
+  "slug": "juvenas-bakery-vadodara",
+  "name": "Juvenas Bakery",
+  "curatedName": "Juvenas Bakery",
+  "city": "Vadodara",
+  "country": "India",
+  "placeId": "ChIJdVTkE6PIXzkRIdcKQSgAe_A",
+  "googleName": "Juvenas Bakery",
+  "formattedAddress": "near Toprani lab, mirch masala lane, 3 rd floor, Shalin Apartment, 52, Old Padra Rd, Haribhakti Colony, Paris Nagar, Diwalipura, Vadodara, Gujarat 390007, India",
+  "phone": "092271 04646",
+  "internationalPhone": "+91 92271 04646",
+  "website": "http://www.juvenasbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17328444164128036641",
+  "rating": 4.6,
+  "reviewCount": 952,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.3065961,
+    73.16287249999999
+  ],
+  "openingHours": [
+    "Monday: 9:15 AM – 6:30 PM",
+    "Tuesday: Closed",
+    "Wednesday: 9:15 AM – 6:30 PM",
+    "Thursday: 9:15 AM – 6:30 PM",
+    "Friday: 9:15 AM – 6:30 PM",
+    "Saturday: 9:15 AM – 6:30 PM",
+    "Sunday: 9:15 AM – 6:30 PM"
+  ],
+  "editorialSummary": "This dial-up bakeshop creates whimsical special-occasion cakes & other desserts.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/juvenas-bakery-vadodara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:35.014Z"
+}

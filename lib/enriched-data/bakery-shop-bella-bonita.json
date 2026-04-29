@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-shop-bella-bonita",
+  "name": "Bakery shop Bella Bonita",
+  "city": "Бургас",
+  "country": "Bulgaria",
+  "placeId": "ChIJkXe98mWVpkARdXk-lGFjQrU",
+  "googleName": "Bakery shop Bella Bonita",
+  "formattedAddress": "Burgas Center, ul. \"Tsar Simeon I\" 20, 8000 Burgas, Bulgaria",
+  "phone": "089 302 4025",
+  "website": "https://web.facebook.com/pg/Bakery-shop-Bella-Bonnita-111506443761226/posts/?ref=page_internal",
+  "googleMapsUrl": "https://maps.google.com/?cid=13061111140077959541",
+  "rating": 4.8,
+  "reviewCount": 142,
+  "coords": [
+    42.4939516,
+    27.4786368
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: 8:30 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-shop-bella-bonita/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:26:29.589Z"
+}

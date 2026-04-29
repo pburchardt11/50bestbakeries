@@ -1,0 +1,43 @@
+{
+  "slug": "the-bread-fort-thiruvananthapuram",
+  "name": "The Bread Fort",
+  "curatedName": "The Bread Fort",
+  "city": "Thiruvananthapuram",
+  "country": "India",
+  "placeId": "ChIJ3R_aZLe7BTsRG7ALtPUcT0Q",
+  "googleName": "The Bread Fort",
+  "formattedAddress": "GX23+889, Vanross, Palayam, Thiruvananthapuram, Kerala 695034, India",
+  "phone": "095625 84915",
+  "internationalPhone": "+91 95625 84915",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4922184759352471579",
+  "rating": 4.5,
+  "reviewCount": 1005,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    8.5007822,
+    76.9533629
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 8:00 PM",
+    "Tuesday: 10:30 AM – 8:00 PM",
+    "Wednesday: 10:30 AM – 8:00 PM",
+    "Thursday: 10:30 AM – 8:00 PM",
+    "Friday: 10:30 AM – 8:00 PM",
+    "Saturday: 10:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bread-fort-thiruvananthapuram/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:26.490Z"
+}

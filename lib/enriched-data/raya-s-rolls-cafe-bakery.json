@@ -1,0 +1,32 @@
+{
+  "slug": "raya-s-rolls-cafe-bakery",
+  "name": "Raya's Rolls Café & Bakery",
+  "city": "Бургас",
+  "country": "Bulgaria",
+  "placeId": "ChIJo5ylVgCVpkAR9Fd-IHxicU4",
+  "googleName": "Raya's Rolls Café & Bakery",
+  "formattedAddress": "Burgas Center, bul. \"Aleko Bogoridi\" 59, 8000 Burgas, Bulgaria",
+  "phone": "088 951 5959",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5652407292587300852",
+  "rating": 4.7,
+  "reviewCount": 64,
+  "coords": [
+    42.4941318,
+    27.4802907
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/raya-s-rolls-cafe-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:25:21.144Z"
+}

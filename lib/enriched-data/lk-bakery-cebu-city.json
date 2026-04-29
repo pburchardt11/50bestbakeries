@@ -1,0 +1,43 @@
+{
+  "slug": "lk-bakery-cebu-city",
+  "name": "LK Bakery",
+  "curatedName": "LK Bakery",
+  "city": "Cebu City",
+  "country": "Philippines",
+  "placeId": "ChIJ3Q5hi_yZqTMR9NN701rvVMI",
+  "googleName": "LK Bakery",
+  "formattedAddress": "Barangay, Betty Lu Compound, F. Manalo St, Camputhaw, Extension, Cebu City, 6000 Cebu, Philippines",
+  "phone": "0917 792 0078",
+  "internationalPhone": "+63 917 792 0078",
+  "website": "https://www.instagram.com/lkbakery.cebu",
+  "googleMapsUrl": "https://maps.google.com/?cid=14003080314775917556",
+  "rating": 4.6,
+  "reviewCount": 198,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.3133567,
+    123.8991707
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lk-bakery-cebu-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:49.228Z"
+}

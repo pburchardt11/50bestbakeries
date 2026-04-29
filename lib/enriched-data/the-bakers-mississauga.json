@@ -1,0 +1,44 @@
+{
+  "slug": "the-bakers-mississauga",
+  "name": "The Bakers",
+  "curatedName": "The Bakers",
+  "city": "Mississauga",
+  "country": "Canada",
+  "placeId": "ChIJK4WTORJDK4gRRLhLoUKeO1w",
+  "googleName": "The Bakers",
+  "formattedAddress": "3450 Platinum Dr #5, Mississauga, ON L5M 2S4, Canada",
+  "phone": "(905) 607-1711",
+  "internationalPhone": "+1 905-607-1711",
+  "website": "http://www.thebakers.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6646079684126423108",
+  "rating": 4.7,
+  "reviewCount": 715,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.5376443,
+    -79.7264181
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakers-mississauga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:25.953Z"
+}

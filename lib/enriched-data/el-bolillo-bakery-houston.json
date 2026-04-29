@@ -1,0 +1,43 @@
+{
+  "slug": "el-bolillo-bakery-houston",
+  "name": "El Bolillo Bakery",
+  "curatedName": "El Bolillo Bakery",
+  "city": "Houston",
+  "country": "United States",
+  "placeId": "ChIJo5WzdY-4QIYRSL3AEsOhcYc",
+  "googleName": "El Bolillo Bakery",
+  "formattedAddress": "2517 Airline Dr, Houston, TX 77009, USA",
+  "phone": "(713) 861-8885",
+  "internationalPhone": "+1 713-861-8885",
+  "website": "http://www.elbolillo.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9759759726693891400",
+  "rating": 4.6,
+  "reviewCount": 6918,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.810005,
+    -95.3824461
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 10:00 PM",
+    "Tuesday: 5:30 AM – 10:00 PM",
+    "Wednesday: 5:30 AM – 10:00 PM",
+    "Thursday: 5:30 AM – 10:00 PM",
+    "Friday: 5:30 AM – 10:00 PM",
+    "Saturday: 5:30 AM – 10:00 PM",
+    "Sunday: 5:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Traditional Mexican bakery chain outfit doling out handmade breads, pies, cookies & cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-bolillo-bakery-houston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:58.029Z"
+}

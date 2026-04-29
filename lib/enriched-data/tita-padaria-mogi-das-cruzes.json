@@ -1,0 +1,44 @@
+{
+  "slug": "tita-padaria-mogi-das-cruzes",
+  "name": "Tita Padaria",
+  "curatedName": "Tita Padaria",
+  "city": "Mogi das Cruzes",
+  "country": "Brazil",
+  "placeId": "ChIJ7yDfVnDYzZQRf8h50DGfk2I",
+  "googleName": "Tita Padaria",
+  "formattedAddress": "Av. Henrique Eroles, 1118 - Centro, Mogi das Cruzes - SP, 08730-493, Brazil",
+  "phone": "(11) 4727-2060",
+  "internationalPhone": "+55 11 4727-2060",
+  "website": "https://www.padariatita.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7103196073593260159",
+  "rating": 4.4,
+  "reviewCount": 3873,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5380378,
+    -46.2016482
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tita-padaria-mogi-das-cruzes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:15.073Z"
+}

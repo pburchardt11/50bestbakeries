@@ -1,0 +1,32 @@
+{
+  "slug": "baguette-achenkirch",
+  "name": "Baguette",
+  "city": "Achenkirch",
+  "country": "Austria",
+  "placeId": "ChIJO75z5CqCnUcRet_fyIRMja0",
+  "googleName": "Baguette",
+  "formattedAddress": "Obere Dorfstraße 229 Nr, 6215 Achenkirch, Austria",
+  "phone": "050 3229 26044",
+  "website": "https://www.mpreis.at/baguette-filialen/id-6044/baguette-achenkirch/?utm_source=google&utm_medium=organic&utm_campaign=digitale_standorte",
+  "googleMapsUrl": "https://maps.google.com/?cid=12505735873467244410",
+  "rating": 3,
+  "reviewCount": 23,
+  "coords": [
+    47.5189681,
+    11.7084906
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:30 PM",
+    "Tuesday: 7:30 AM – 6:30 PM",
+    "Wednesday: 7:30 AM – 6:30 PM",
+    "Thursday: 7:30 AM – 6:30 PM",
+    "Friday: Closed",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baguette-achenkirch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:31:39.694Z"
+}

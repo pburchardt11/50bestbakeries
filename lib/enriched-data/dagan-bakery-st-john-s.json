@@ -1,0 +1,32 @@
+{
+  "slug": "dagan-bakery-st-john-s",
+  "name": "Dagan Bakery",
+  "city": "St. John's",
+  "country": "Antigua & Barbuda",
+  "placeId": "ChIJ5dnqZE2SEowRex_S5bM2pj0",
+  "googleName": "Dagon Bakery",
+  "formattedAddress": "Baxter street ottos, Factory Rd, St John's, Antigua and Barbuda",
+  "phone": "(268) 462-6553",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4442298228730371963",
+  "rating": 4,
+  "reviewCount": 174,
+  "coords": [
+    17.1111701,
+    -61.8430687
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dagan-bakery-st-john-s/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:20:14.899Z"
+}

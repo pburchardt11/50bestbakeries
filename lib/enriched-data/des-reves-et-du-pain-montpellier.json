@@ -1,0 +1,43 @@
+{
+  "slug": "des-reves-et-du-pain-montpellier",
+  "name": "Des Rêves et du Pain",
+  "curatedName": "Des Rêves et du Pain",
+  "city": "Montpellier",
+  "country": "France",
+  "placeId": "ChIJNdZShs-vthIR8x1tEFlXa38",
+  "googleName": "Des Rêves et du Pain",
+  "formattedAddress": "10 Bd Renouvier, 34000 Montpellier, France",
+  "phone": "04 99 66 20 06",
+  "internationalPhone": "+33 4 99 66 20 06",
+  "website": "https://desrevesetdupain.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9181528305364180467",
+  "rating": 4.4,
+  "reviewCount": 96,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.605161,
+    3.8673994
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/des-reves-et-du-pain-montpellier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:06.114Z"
+}

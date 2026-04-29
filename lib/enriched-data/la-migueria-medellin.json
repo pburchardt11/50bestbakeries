@@ -1,0 +1,44 @@
+{
+  "slug": "la-migueria-medellin",
+  "name": "La Miguería",
+  "curatedName": "La Miguería",
+  "city": "Medellín",
+  "country": "Colombia",
+  "placeId": "ChIJ81QDfAYpRI4Rfz-mrNd6MEo",
+  "googleName": "La Miguería - Suramericana",
+  "formattedAddress": "Cra 66 #48-30, Laureles - Estadio, Medellín, Laureles, Medellín, Antioquia, Colombia",
+  "phone": "44483327",
+  "internationalPhone": "+57 44483327",
+  "website": "https://m.facebook.com/Migueria/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5345907824421912447",
+  "rating": 4.7,
+  "reviewCount": 5681,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    6.2539311,
+    -75.5831121
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-migueria-medellin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:15.209Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "paris-baguette-calgary",
+  "name": "Paris Baguette",
+  "curatedName": "Paris Baguette",
+  "city": "Calgary",
+  "country": "Canada",
+  "placeId": "ChIJfduMT9lxcVMR5W1aStM-7ic",
+  "googleName": "Paris Baguette",
+  "formattedAddress": "2004 4 St SW, Calgary, AB T2S 1W3, Canada",
+  "phone": "(403) 453-5118",
+  "internationalPhone": "+1 403-453-5118",
+  "website": "https://www.parisbaguette.ca/locations/ab/calgary/2004-4-street-southwest/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2877306289142787557",
+  "rating": 4.4,
+  "reviewCount": 531,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.0351493,
+    -114.071338
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-calgary/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:45.917Z"
+}

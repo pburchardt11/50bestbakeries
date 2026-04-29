@@ -1,0 +1,43 @@
+{
+  "slug": "ciastkarnia-vanilla-krakow",
+  "name": "Ciastkarnia Vanilla",
+  "curatedName": "Ciastkarnia Vanilla",
+  "city": "Kraków",
+  "country": "Poland",
+  "placeId": "ChIJfy8hwmpbFkcRBCPju0OdGlY",
+  "googleName": "Ciastkarnia Vanilla",
+  "formattedAddress": "Brzozowa 13, 31-050 Kraków, Poland",
+  "phone": "602 790 988",
+  "internationalPhone": "+48 602 790 988",
+  "website": "http://www.cukierniavanilla.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6204444350896874244",
+  "rating": 4.8,
+  "reviewCount": 620,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.0535228,
+    19.9458236
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ciastkarnia-vanilla-krakow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:35.037Z"
+}

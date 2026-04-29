@@ -1,0 +1,32 @@
+{
+  "slug": "la-maison-desire-douala",
+  "name": "La Maison Desiré",
+  "city": "Douala",
+  "country": "Cameroon",
+  "placeId": "ChIJFbaP3o0SYRAR-MQTu3PWMiA",
+  "googleName": "Boulangerie Pâtisserie Maison Désir, Douala",
+  "formattedAddress": "2PV4+7G6, Douala, Cameroon",
+  "phone": "6 94 31 86 63",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2320152550597444856",
+  "rating": 3.5,
+  "reviewCount": 23,
+  "coords": [
+    4.0431708,
+    9.706263
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-maison-desire-douala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:37:34.471Z"
+}

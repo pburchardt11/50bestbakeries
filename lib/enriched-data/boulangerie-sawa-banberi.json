@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-sawa-banberi",
+  "name": "Boulangerie Sawa",
+  "city": "Banberi",
+  "country": "Cameroon",
+  "placeId": "ChIJrbF5b0kTYRARfGEZaki5dEc",
+  "googleName": "Complexe Boulangerie Patisserie Sawa",
+  "formattedAddress": "Bonaberi, 3MGF+99P, Douala, Cameroon",
+  "phone": "6 77 50 87 21",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5148943994660151676",
+  "rating": 3.5,
+  "reviewCount": 52,
+  "coords": [
+    4.0759634,
+    9.6734417
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:30 PM",
+    "Tuesday: 6:00 AM – 11:30 PM",
+    "Wednesday: 6:00 AM – 11:30 PM",
+    "Thursday: 6:00 AM – 11:30 PM",
+    "Friday: 6:00 AM – 11:30 PM",
+    "Saturday: 6:00 AM – 11:30 PM",
+    "Sunday: 6:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-sawa-banberi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:34:45.243Z"
+}

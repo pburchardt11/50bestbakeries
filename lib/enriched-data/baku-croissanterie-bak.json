@@ -1,0 +1,32 @@
+{
+  "slug": "baku-croissanterie-bak",
+  "name": "Baku Croissanterie",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJLSN7XfuHMEAR1YI671Jo36M",
+  "googleName": "Baku Croissanterie",
+  "formattedAddress": "65 Atatürk pr, Bakı, Azerbaijan",
+  "phone": "051 444 18 81",
+  "website": "https://instagram.com/baku_croissanterie?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=11808271453398926037",
+  "rating": 4.4,
+  "reviewCount": 50,
+  "coords": [
+    40.4089716,
+    49.8474033
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baku-croissanterie-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:36:27.258Z"
+}

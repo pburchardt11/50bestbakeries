@@ -1,0 +1,43 @@
+{
+  "slug": "forennte-patisserie-pune",
+  "name": "Forennte Patisserie",
+  "curatedName": "Forennte Patisserie",
+  "city": "Pune",
+  "country": "India",
+  "placeId": "ChIJ2x8WywfBwjsRn15D3TpBKsk",
+  "googleName": "Forennte Patisserie",
+  "formattedAddress": "Shop 1, 2, Lane No. 8, Ashok Chakra Society, Meera Nagar, Koregaon Park, Pune, Maharashtra 411001, India",
+  "phone": "088018 15555",
+  "internationalPhone": "+91 88018 15555",
+  "website": "https://forennte-patisserie.godirekt.in/spark/app/#/mainpage",
+  "googleMapsUrl": "https://maps.google.com/?cid=14495470071721451167",
+  "rating": 4.5,
+  "reviewCount": 1136,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.5363691,
+    73.8993588
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/forennte-patisserie-pune/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:16.667Z"
+}

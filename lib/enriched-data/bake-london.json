@@ -1,0 +1,43 @@
+{
+  "slug": "bake-london",
+  "name": "Bake",
+  "curatedName": "Bake",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJuVRJNNIEdkgRGxUVwMtFO6A",
+  "googleName": "Chinatown Bakery - Tong Tea",
+  "formattedAddress": "9 Wardour St, London W1D 6PF, UK",
+  "phone": "020 7734 3888",
+  "internationalPhone": "+44 20 7734 3888",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11545898811097683227",
+  "rating": 4.4,
+  "reviewCount": 545,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5108058,
+    -0.1318716
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 10:00 PM",
+    "Tuesday: 12:00 – 10:00 PM",
+    "Wednesday: 12:00 – 10:00 PM",
+    "Thursday: 12:00 – 10:00 PM",
+    "Friday: 12:00 – 10:00 PM",
+    "Saturday: 12:00 – 10:00 PM",
+    "Sunday: 12:00 – 9:00 PM"
+  ],
+  "editorialSummary": "Known for their taiyaki, this popular bakery features soft-serve ice cream & other Japanese treats.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-london/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:07:20.193Z"
+}

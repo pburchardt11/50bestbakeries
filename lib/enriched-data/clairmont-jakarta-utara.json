@@ -1,0 +1,43 @@
+{
+  "slug": "clairmont-jakarta-utara",
+  "name": "Clairmont",
+  "curatedName": "Clairmont",
+  "city": "Jakarta Utara",
+  "country": "Indonesia",
+  "placeId": "ChIJo-MUei_1aS4RAErEJmYX14A",
+  "googleName": "Clairmont Patisserie Kelapa Gading",
+  "formattedAddress": "Graha Bulevar A No.18, Jalan Boulevard Raya, Kelapa Gading, RT.10/RW.15, Kelapa Gading Timur, RT.10/RW.1, Klp. Gading Tim., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240, Indonesia",
+  "phone": "0811-8855-308",
+  "internationalPhone": "+62 811-8855-308",
+  "website": "http://www.clairmontcake.co.id/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9283914884352068096",
+  "rating": 4.9,
+  "reviewCount": 1163,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.168655299999999,
+    106.8998949
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/clairmont-jakarta-utara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:02.869Z"
+}

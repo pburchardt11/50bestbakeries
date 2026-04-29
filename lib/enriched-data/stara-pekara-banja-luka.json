@@ -1,0 +1,32 @@
+{
+  "slug": "stara-pekara-banja-luka",
+  "name": "Stara pekara",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJyZ8ZwEEDXkcR1NgnppJ0ldk",
+  "googleName": "Pekara Starčevica",
+  "formattedAddress": "Q675+449, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": "051 438-638",
+  "website": "https://m.facebook.com/pekarastarcevica/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15678565850961926356",
+  "rating": 4.6,
+  "reviewCount": 310,
+  "coords": [
+    44.76278749999999,
+    17.2078594
+  ],
+  "openingHours": [
+    "Monday: 2:00 AM – 10:00 PM",
+    "Tuesday: 2:00 AM – 10:00 PM",
+    "Wednesday: 2:00 AM – 10:00 PM",
+    "Thursday: 2:00 AM – 10:00 PM",
+    "Friday: 2:00 AM – 10:00 PM",
+    "Saturday: 2:00 AM – 10:00 PM",
+    "Sunday: 2:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stara-pekara-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:16:28.551Z"
+}

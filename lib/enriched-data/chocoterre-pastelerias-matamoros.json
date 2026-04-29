@@ -1,0 +1,43 @@
+{
+  "slug": "chocoterre-pastelerias-matamoros",
+  "name": "Chocoterre Pastelerias",
+  "curatedName": "Chocoterre Pastelerias",
+  "city": "Matamoros",
+  "country": "Mexico",
+  "placeId": "ChIJ5XkO70OVb4YRezhNu88i2XY",
+  "googleName": "Chocoterre Pastelerias",
+  "formattedAddress": "C. Sexta 181-Local 2, entre Juventino Rosas Nafarrete, Buena Vista, 87370 Heroica Matamoros, Tamps., Mexico",
+  "phone": "868 819 2108",
+  "internationalPhone": "+52 868 819 2108",
+  "website": "http://chocoterre.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8563914442017683579",
+  "rating": 4.6,
+  "reviewCount": 70,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.8583938,
+    -97.5044008
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chocoterre-pastelerias-matamoros/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:05.150Z"
+}

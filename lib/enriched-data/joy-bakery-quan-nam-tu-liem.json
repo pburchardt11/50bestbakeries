@@ -1,0 +1,43 @@
+{
+  "slug": "joy-bakery-quan-nam-tu-liem",
+  "name": "Joy Bakery",
+  "curatedName": "Joy Bakery",
+  "city": "Quận Nam Từ Liêm",
+  "country": "Vietnam",
+  "placeId": "ChIJVQ_X37lUNDERYZY2JmgHdiY",
+  "googleName": "Joy Bakery",
+  "formattedAddress": "toà nhà sun square, 21 Đ. Lê Đức Thọ, Mỹ Đình, Từ Liêm, Hà Nội, Vietnam",
+  "phone": "0931 751 336",
+  "internationalPhone": "+84 931 751 336",
+  "website": "https://www.facebook.com/JoyBakeryHaNoi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2771410764592223841",
+  "rating": 4,
+  "reviewCount": 86,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0339826,
+    105.7702572
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/joy-bakery-quan-nam-tu-liem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:20:13.413Z"
+}

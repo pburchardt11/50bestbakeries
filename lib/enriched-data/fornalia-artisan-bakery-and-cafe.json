@@ -1,0 +1,43 @@
+{
+  "slug": "fornalia-artisan-bakery-and-cafe",
+  "name": "Fornalia Artisan Bakery and Cafe",
+  "curatedName": "Fornalia Artisan Bakery and Cafe",
+  "city": "القاهرة",
+  "country": "Egypt",
+  "placeId": "ChIJMWrN0KBBWBQRoLiASFf-01g",
+  "googleName": "Fornalia artisan bakery and Café",
+  "formattedAddress": "20 El Maraashly, street, Zamalek, Cairo Governorate 11561, Egypt",
+  "phone": "010 22497622",
+  "internationalPhone": "+20 10 22497622",
+  "website": "https://fornalia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6400739146255612064",
+  "rating": 4.4,
+  "reviewCount": 1059,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.0654147,
+    31.221496
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 1:00 AM",
+    "Tuesday: 8:00 AM – 1:00 AM",
+    "Wednesday: 8:00 AM – 1:00 AM",
+    "Thursday: 8:00 AM – 1:00 AM",
+    "Friday: 8:00 AM – 1:00 AM",
+    "Saturday: 8:00 AM – 1:00 AM",
+    "Sunday: 8:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fornalia-artisan-bakery-and-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:51.132Z"
+}

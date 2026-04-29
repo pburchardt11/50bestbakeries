@@ -1,0 +1,43 @@
+{
+  "slug": "duygu-backerei-am-steintor-hannover",
+  "name": "Duygu Bäckerei am Steintor",
+  "curatedName": "Duygu Bäckerei am Steintor",
+  "city": "Hannover",
+  "country": "Germany",
+  "placeId": "ChIJxwnmErt0sEcRaxa890mC1So",
+  "googleName": "Duygu Bäckerei am Steintor",
+  "formattedAddress": "Goethestraße 9, 30169 Hannover, Germany",
+  "phone": "0511 1698213",
+  "internationalPhone": "+49 511 1698213",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3086516373832865387",
+  "rating": 4.7,
+  "reviewCount": 190,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.3751368,
+    9.7317606
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/duygu-backerei-am-steintor-hannover/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:43.254Z"
+}

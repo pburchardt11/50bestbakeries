@@ -1,0 +1,43 @@
+{
+  "slug": "tous-les-jours",
+  "name": "Tous les Jours",
+  "curatedName": "Tous les Jours",
+  "city": "鈴鹿市",
+  "country": "Japan",
+  "placeId": "ChIJSVP9mOF1BGARqoCmv3o9N4E",
+  "googleName": "Dominique Doucet Suzuka",
+  "formattedAddress": "17-30 Minamiejimachō, Suzuka, Mie 510-0235, Japan",
+  "phone": "059-388-2492",
+  "internationalPhone": "+81 59-388-2492",
+  "website": "http://www.dominique.co.jp/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9310978352022454442",
+  "rating": 4,
+  "reviewCount": 574,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.8404892,
+    136.5914225
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:24.216Z"
+}

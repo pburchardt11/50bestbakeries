@@ -1,0 +1,44 @@
+{
+  "slug": "keytlym-bakery-newark",
+  "name": "Keytlym Bakery",
+  "curatedName": "Keytlym Bakery",
+  "city": "Newark",
+  "country": "United States",
+  "placeId": "ChIJw2L4C4ZVwokRF2FIbk62Bl0",
+  "googleName": "Keytlym Bakery",
+  "formattedAddress": "806 Summer Ave, Newark, NJ 07104, USA",
+  "phone": "(973) 901-9171",
+  "internationalPhone": "+1 973-901-9171",
+  "website": "https://dessertsnewark.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6703245543361503511",
+  "rating": 4.7,
+  "reviewCount": 51,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7797791,
+    -74.1613211
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:00 PM",
+    "Tuesday: 5:00 AM – 6:00 PM",
+    "Wednesday: 5:00 AM – 6:00 PM",
+    "Thursday: 5:00 AM – 6:00 PM",
+    "Friday: 5:00 AM – 6:00 PM",
+    "Saturday: 5:00 AM – 6:00 PM",
+    "Sunday: 5:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/keytlym-bakery-newark/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:16:08.006Z"
+}

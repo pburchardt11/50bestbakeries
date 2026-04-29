@@ -1,0 +1,32 @@
+{
+  "slug": "classique-patisserie-bahig",
+  "name": "Classique Patisserie",
+  "city": "Bahig",
+  "country": "Egypt",
+  "placeId": "ChIJR29CIgDF9RQRWQKBf4FUMZQ",
+  "googleName": "Classique Patisserie",
+  "formattedAddress": "48 El-Gaish Rd, Al Ibrahimeyah Bahri, Bab Shar', Alexandria Governorate 00000, Egypt",
+  "phone": "012 22142490",
+  "website": "https://order.classiquepatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10678409106638832217",
+  "rating": 4.8,
+  "reviewCount": 42,
+  "coords": [
+    31.216642,
+    29.9243649
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 1:00 AM",
+    "Tuesday: 8:00 AM – 1:00 AM",
+    "Wednesday: 8:00 AM – 1:00 AM",
+    "Thursday: 8:00 AM – 1:00 AM",
+    "Friday: 8:00 AM – 1:00 AM",
+    "Saturday: 8:00 AM – 1:00 AM",
+    "Sunday: 8:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/classique-patisserie-bahig/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:01:57.174Z"
+}

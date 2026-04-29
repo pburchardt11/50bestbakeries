@@ -1,0 +1,43 @@
+{
+  "slug": "nova-bakehouse-leeds",
+  "name": "Nova Bakehouse",
+  "curatedName": "Nova Bakehouse",
+  "city": "Leeds",
+  "country": "United Kingdom",
+  "placeId": "ChIJJ5zvwNJdeUgRkd8AAXj_VRM",
+  "googleName": "Nova Bakehouse",
+  "formattedAddress": "Leeds Dock, Leeds LS10 1PZ, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.novabakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1393300550619029393",
+  "rating": 4.7,
+  "reviewCount": 83,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.79006520000001,
+    -1.5316812
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 2:30 PM",
+    "Thursday: 8:00 AM – 2:30 PM",
+    "Friday: 8:00 AM – 2:30 PM",
+    "Saturday: 9:00 AM – 2:30 PM",
+    "Sunday: 9:00 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nova-bakehouse-leeds/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:24.484Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "orleans-paes-e-gastronomia-joinville",
+  "name": "Orleans Pães e Gastronomia",
+  "curatedName": "Orleans Pães e Gastronomia",
+  "city": "Joinville",
+  "country": "Brazil",
+  "placeId": "ChIJtTSXpqqv3pQRpYh4Z9dePxU",
+  "googleName": "Orleans Pães e Gastronomia",
+  "formattedAddress": "R. Benjamin Constant, 851 - América, Joinville - SC, 89204-361, Brazil",
+  "phone": "(47) 99955-0779",
+  "internationalPhone": "+55 47 99955-0779",
+  "website": "http://www.orleanspaes.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1531046677576190117",
+  "rating": 4.3,
+  "reviewCount": 1448,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.2848227,
+    -48.8576114
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orleans-paes-e-gastronomia-joinville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:36.331Z"
+}

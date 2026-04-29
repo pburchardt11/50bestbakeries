@@ -1,0 +1,32 @@
+{
+  "slug": "tendir-corek-bak",
+  "name": "Tendir Corek",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJs-Q9cSN9MEAR_8X63gQbfMA",
+  "googleName": "Pendir Corek",
+  "formattedAddress": "50 Boyuk Qala, Bakı 1000, Azerbaijan",
+  "phone": "051 555 50 10",
+  "website": "https://pendirchorek.az/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13869990660129080831",
+  "rating": 4.6,
+  "reviewCount": 718,
+  "coords": [
+    40.3684266,
+    49.83655760000001
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tendir-corek-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:35:07.402Z"
+}

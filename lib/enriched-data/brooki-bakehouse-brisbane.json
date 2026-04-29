@@ -1,0 +1,43 @@
+{
+  "slug": "brooki-bakehouse-brisbane",
+  "name": "Brooki Bakehouse",
+  "curatedName": "Brooki Bakehouse",
+  "city": "Brisbane",
+  "country": "Australia",
+  "placeId": "ChIJp3ku7Z1ZkWsR7V3QdiqaCn4",
+  "googleName": "Brooki Bakehouse",
+  "formattedAddress": "15 Marshall St, Fortitude Valley QLD 4006, Australia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.brookibakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9082241105718697453",
+  "rating": 4.4,
+  "reviewCount": 1871,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.4594692,
+    153.0347923
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:30 PM",
+    "Tuesday: 8:00 AM – 3:30 PM",
+    "Wednesday: 8:00 AM – 3:30 PM",
+    "Thursday: 8:00 AM – 3:30 PM",
+    "Friday: 8:00 AM – 3:30 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brooki-bakehouse-brisbane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:39.729Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "le-panier-panaderia-artesanal-barranquilla",
+  "name": "Le Panier - Panaderia Artesanal",
+  "curatedName": "Le Panier - Panaderia Artesanal",
+  "city": "Barranquilla",
+  "country": "Colombia",
+  "placeId": "ChIJHR3mE68t9I4RKVQbnOZxlxY",
+  "googleName": "Le Panier - Panadería Artesanal",
+  "formattedAddress": "Cra. 53 #85-97, Riomar, Barranquilla, Atlántico, Colombia",
+  "phone": "312 8022137",
+  "internationalPhone": "+57 312 8022137",
+  "website": "https://le-panier-cafe-bakery.cluvi.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1627895025593177129",
+  "rating": 4.6,
+  "reviewCount": 977,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    11.0083065,
+    -74.8180313
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-panier-panaderia-artesanal-barranquilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:58.451Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "kath-bakehouse-coffee-vung-tau",
+  "name": "KATH - Bakehouse & Coffee",
+  "curatedName": "KATH - Bakehouse & Coffee",
+  "city": "Vũng Tàu",
+  "country": "Vietnam",
+  "placeId": "ChIJYXj1CUtvdTERDx1cnomHtm8",
+  "googleName": "KATH - Bakehouse & Coffee",
+  "formattedAddress": "486B Trương Công Định, Phường 8, Tam Thắng, Hồ Chí Minh, Vietnam",
+  "phone": "0706 686 987",
+  "internationalPhone": "+84 706 686 987",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8049770409108446479",
+  "rating": 4.9,
+  "reviewCount": 134,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.3623973,
+    107.0886294
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kath-bakehouse-coffee-vung-tau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:19:55.410Z"
+}

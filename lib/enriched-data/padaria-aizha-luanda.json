@@ -1,0 +1,32 @@
+{
+  "slug": "padaria-aizha-luanda",
+  "name": "Padaria Aizha",
+  "city": "Luanda",
+  "country": "Angola",
+  "placeId": "ChIJf6pQvDEfUhoRxJ-kiiRtwX8",
+  "googleName": "Aizha Padaria",
+  "formattedAddress": "vila kuditema, principal do patriota loja I204, Luanda, Angola",
+  "phone": "941 129 784",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9205759117034299332",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -8.962375699999999,
+    13.204983
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-aizha-luanda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:18:14.556Z"
+}

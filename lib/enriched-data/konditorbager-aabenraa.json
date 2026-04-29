@@ -1,0 +1,32 @@
+{
+  "slug": "konditorbager-aabenraa",
+  "name": "KonditorBager Aabenraa",
+  "city": "Aabenraa",
+  "country": "Denmark",
+  "placeId": "ChIJU42XXt1Rs0cRIvgDczbdC9Q",
+  "googleName": "KonditorBager Aabenraa",
+  "formattedAddress": "Tøndervej 6, 6200 Aabenraa, Denmark",
+  "phone": "44 22 72 27",
+  "website": "https://www.konditor-bager.dk/aabenraa",
+  "googleMapsUrl": "https://maps.google.com/?cid=15279549386712152098",
+  "rating": 3.9,
+  "reviewCount": 31,
+  "coords": [
+    55.03507399999999,
+    9.4171278
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditorbager-aabenraa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:55:36.082Z"
+}

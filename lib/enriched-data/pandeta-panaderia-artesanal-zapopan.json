@@ -1,0 +1,43 @@
+{
+  "slug": "pandeta-panaderia-artesanal-zapopan",
+  "name": "Pandeta Panaderia Artesanal",
+  "curatedName": "Pandeta Panaderia Artesanal",
+  "city": "Zapopan",
+  "country": "Mexico",
+  "placeId": "ChIJa_1HN4CuKIQR-s9zrnk82Lk",
+  "googleName": "PANDETA Panadería Artesanal",
+  "formattedAddress": "Av. Niño Obrero 744-A, Chapalita, 45040 Zapopan, Jal., Mexico",
+  "phone": "33 1393 1684",
+  "internationalPhone": "+52 33 1393 1684",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13391519985301704698",
+  "rating": 4.6,
+  "reviewCount": 798,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.6621273,
+    -103.4071672
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:30 AM – 6:30 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pandeta-panaderia-artesanal-zapopan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:27.151Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-house",
+  "name": "Sweet House",
+  "city": "Банско",
+  "country": "Bulgaria",
+  "placeId": "ChIJNUrT_DOvqxQROMNc2Mo4iME",
+  "googleName": "Sweet House Хъни",
+  "formattedAddress": "кв. Новия град, \"Pirin\" Str. 32, 2770 Bansko, Bulgaria",
+  "phone": "089 929 2426",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13945458690017248056",
+  "rating": 4.9,
+  "reviewCount": 171,
+  "coords": [
+    41.8342909,
+    23.4850277
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-house/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:23:41.743Z"
+}

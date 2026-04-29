@@ -1,0 +1,32 @@
+{
+  "slug": "san-rocco-bale",
+  "name": "San Rocco",
+  "city": "Bale",
+  "country": "Croatia",
+  "placeId": "ChIJ0Z5nCUPIfEcRCF3HrL22MHU",
+  "googleName": "San Rocco",
+  "formattedAddress": "Zagrebacka 02, 52211, Bale, Croatia",
+  "phone": "099 408 3003",
+  "website": "https://sanrocco-bale.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8444450227083500808",
+  "rating": 4.5,
+  "reviewCount": 489,
+  "coords": [
+    45.04031060000001,
+    13.7865585
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: Closed",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/san-rocco-bale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:48:33.068Z"
+}

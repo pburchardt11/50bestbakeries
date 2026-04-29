@@ -1,0 +1,44 @@
+{
+  "slug": "o-bom-gourmet-piracicaba",
+  "name": "O Bom Gourmet",
+  "curatedName": "O Bom Gourmet",
+  "city": "Piracicaba",
+  "country": "Brazil",
+  "placeId": "ChIJ9b-WTFIwxpQRytZwuXdE6EU",
+  "googleName": "O Bom Gourmet",
+  "formattedAddress": "R. Gen. Góes Monteiro, 303 - Jardim Elite, Piracicaba - SP, 13417-381, Brazil",
+  "phone": "(19) 3426-5950",
+  "internationalPhone": "+55 19 3426-5950",
+  "website": "http://www.obomgourmet.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5037351464216876746",
+  "rating": 4.6,
+  "reviewCount": 258,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.7380912,
+    -47.6377321
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 1:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/o-bom-gourmet-piracicaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:24.782Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "al-dasmah-bakery",
+  "name": "Al Dasmah Bakery",
+  "city": "المنامة",
+  "country": "Bahrain",
+  "placeId": "ChIJyRGnG2avST4RRMgtkl6Le5g",
+  "googleName": "Al Dasma Bakery - Manama branch",
+  "formattedAddress": "BUILDING 134, ROAD 331, المنامة، Bahrain",
+  "phone": "1725 5367",
+  "website": "http://aldasmah.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10987528954196117572",
+  "rating": 4.1,
+  "reviewCount": 1260,
+  "coords": [
+    26.2240499,
+    50.5713111
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 10:30 PM",
+    "Tuesday: 5:30 AM – 10:30 PM",
+    "Wednesday: 5:30 AM – 10:30 PM",
+    "Thursday: 5:30 AM – 10:30 PM",
+    "Friday: 5:30 AM – 10:30 PM",
+    "Saturday: 5:30 AM – 10:30 PM",
+    "Sunday: 5:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-dasmah-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:49:08.060Z"
+}

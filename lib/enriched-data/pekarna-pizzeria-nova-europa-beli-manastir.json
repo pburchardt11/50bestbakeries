@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-pizzeria-nova-europa-beli-manastir",
+  "name": "Pekarna Pizzeria Nova Europa",
+  "city": "Beli Manastir",
+  "country": "Croatia",
+  "placeId": "ChIJSdP_7IUpXUcRw97BvkZCeks",
+  "googleName": "Pekarna Pizzeria \"Nova Europa\"",
+  "formattedAddress": "Ul. Imre Nagya 12, 31300, Beli Manastir, Croatia",
+  "phone": "031 700 522",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5438732371618815683",
+  "rating": 4.5,
+  "reviewCount": 217,
+  "coords": [
+    45.7686632,
+    18.5961885
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 9:30 PM",
+    "Tuesday: 5:30 AM – 9:30 PM",
+    "Wednesday: 5:30 AM – 9:30 PM",
+    "Thursday: 5:30 AM – 9:30 PM",
+    "Friday: 5:30 AM – 9:30 PM",
+    "Saturday: 5:30 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-pizzeria-nova-europa-beli-manastir/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:48:51.289Z"
+}

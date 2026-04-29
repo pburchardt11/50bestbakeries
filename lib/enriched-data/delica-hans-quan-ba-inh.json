@@ -1,0 +1,43 @@
+{
+  "slug": "delica-hans-quan-ba-inh",
+  "name": "Delica Hans",
+  "curatedName": "Delica Hans",
+  "city": "Quận Ba Đình",
+  "country": "Vietnam",
+  "placeId": "ChIJAQBwjWyrNTERiV8Qm7qFysg",
+  "googleName": "Delica-Hans",
+  "formattedAddress": "C09-C10 ,Tầng 1, Trung tâm Thương mại LOTTE Department Store, 54 P. Liễu Giai, Cống Vị, Giảng Võ, Hà Nội 100000, Vietnam",
+  "phone": "024 3333 1756",
+  "internationalPhone": "+84 24 3333 1756",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14468523789393092489",
+  "rating": 4.9,
+  "reviewCount": 350,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0318761,
+    105.8123032
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 10:00 PM",
+    "Tuesday: 9:30 AM – 10:00 PM",
+    "Wednesday: 9:30 AM – 10:00 PM",
+    "Thursday: 9:30 AM – 10:00 PM",
+    "Friday: 9:30 AM – 10:00 PM",
+    "Saturday: 9:30 AM – 10:00 PM",
+    "Sunday: 9:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delica-hans-quan-ba-inh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:40.088Z"
+}

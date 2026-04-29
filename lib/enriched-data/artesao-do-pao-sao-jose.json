@@ -1,0 +1,43 @@
+{
+  "slug": "artesao-do-pao-sao-jose",
+  "name": "Artesão do Pão",
+  "curatedName": "Artesão do Pão",
+  "city": "São José",
+  "country": "Brazil",
+  "placeId": "ChIJsTXQ395JJ5URbBQ5t0fm68s",
+  "googleName": "Artesão do Pão",
+  "formattedAddress": "R. Caetano José Ferreira, 426 - sala 01 - Kobrasol, São José - SC, 88102-280, Brazil",
+  "phone": "(48) 99911-9511",
+  "internationalPhone": "+55 48 99911-9511",
+  "website": "https://padariaartesaodopao.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14694091404917412972",
+  "rating": 4.8,
+  "reviewCount": 188,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.5923906,
+    -48.6149943
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:30 PM",
+    "Tuesday: 10:00 AM – 6:30 PM",
+    "Wednesday: 10:00 AM – 6:30 PM",
+    "Thursday: 10:00 AM – 6:30 PM",
+    "Friday: 10:00 AM – 6:30 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artesao-do-pao-sao-jose/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:16.841Z"
+}

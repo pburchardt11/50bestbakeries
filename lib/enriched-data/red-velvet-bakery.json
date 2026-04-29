@@ -1,0 +1,32 @@
+{
+  "slug": "red-velvet-bakery",
+  "name": "Red Velvet Bakery",
+  "city": "Գյումրի",
+  "country": "Armenia",
+  "placeId": "ChIJf-Ysbej5QUARqqpn1XjIRD4",
+  "googleName": "Red Velvet Bakery",
+  "formattedAddress": "15/11 Shirakatsi 61md, Gyumri 3118, Armenia",
+  "phone": "093 981870",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4486931550069828266",
+  "rating": 4.8,
+  "reviewCount": 5,
+  "coords": [
+    40.8004888,
+    43.8346467
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/red-velvet-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:22:06.804Z"
+}

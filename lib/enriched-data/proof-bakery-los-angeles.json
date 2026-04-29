@@ -1,0 +1,44 @@
+{
+  "slug": "proof-bakery-los-angeles",
+  "name": "Proof Bakery",
+  "curatedName": "Proof Bakery",
+  "city": "Los Angeles",
+  "country": "United States",
+  "placeId": "ChIJUfXe_trAwoARhe3TamCkz7k",
+  "googleName": "Proof Bakery",
+  "formattedAddress": "3156 Glendale Blvd, Los Angeles, CA 90039, USA",
+  "phone": "(323) 664-8633",
+  "internationalPhone": "+1 323-664-8633",
+  "website": "http://proofbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13389100951211863429",
+  "rating": 4.6,
+  "reviewCount": 739,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.1169081,
+    -118.2615461
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Compact cafe & bakery offering fresh-made pastries, sandwiches, cakes & locally roasted coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/proof-bakery-los-angeles/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:07:59.277Z"
+}

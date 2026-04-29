@@ -1,0 +1,43 @@
+{
+  "slug": "bova-s-bakery-boston",
+  "name": "Bova's Bakery",
+  "curatedName": "Bova's Bakery",
+  "city": "Boston",
+  "country": "United States",
+  "placeId": "ChIJSQ-HS4lw44kRA0iC6zNgsbU",
+  "googleName": "Bova's Bakery",
+  "formattedAddress": "134 Salem St, Boston, MA 02113, USA",
+  "phone": "(617) 523-5601",
+  "internationalPhone": "+1 617-523-5601",
+  "website": "http://bovabakeryboston.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13092351367853524995",
+  "rating": 4.6,
+  "reviewCount": 4442,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.36521,
+    -71.0556268
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "Family-owned bakeshop, opened in 1932, offering up breads, cookies & sandwiches 24 hours a day.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bova-s-bakery-boston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:12.039Z"
+}

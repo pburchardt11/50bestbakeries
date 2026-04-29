@@ -1,0 +1,32 @@
+{
+  "slug": "la-galette-a-sucre-cotonou",
+  "name": "La Galette à Sucre",
+  "city": "Cotonou",
+  "country": "Benin",
+  "placeId": "ChIJxXg8aAirPBARXrCwAwIO6UU",
+  "googleName": "RÏN",
+  "formattedAddress": "229, Cotonou, Benin",
+  "phone": "01 66 45 49 88",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5037573060005245022",
+  "rating": 4,
+  "reviewCount": 9,
+  "coords": [
+    6.3537551,
+    2.3972659
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:30 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-galette-a-sucre-cotonou/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:09:12.073Z"
+}

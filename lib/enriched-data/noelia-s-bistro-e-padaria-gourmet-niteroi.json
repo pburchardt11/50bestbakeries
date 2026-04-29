@@ -1,0 +1,45 @@
+{
+  "slug": "noelia-s-bistro-e-padaria-gourmet-niteroi",
+  "name": "Noelia's Bistro e Padaria Gourmet",
+  "curatedName": "Noelia's Bistro e Padaria Gourmet",
+  "city": "Niterói",
+  "country": "Brazil",
+  "placeId": "ChIJtYHvu8GHmQARynaKtRkzkwI",
+  "googleName": "Noelia's Bistro e Padaria Gourmet",
+  "formattedAddress": "Av. Pref. Silvio Picanço, 463 - loja 104 - Charitas, Niterói - RJ, 24360-030, Brazil",
+  "phone": "(21) 2608-7066",
+  "internationalPhone": "+55 21 2608-7066",
+  "website": "https://noeliasbistro.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=185548195165271754",
+  "rating": 4.6,
+  "reviewCount": 794,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.9237475,
+    -43.09442130000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/noelia-s-bistro-e-padaria-gourmet-niteroi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:20:41.877Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "la-popular-bakery-belize-city",
+  "name": "La Popular Bakery",
+  "city": "Belize City",
+  "country": "Belize",
+  "placeId": "ChIJx8LwnkdYXI8R2WFAPoSIf6c",
+  "googleName": "La Popular Bakery",
+  "formattedAddress": "FRW3+HXC, Belize City, Belize",
+  "phone": "227-1397",
+  "website": "https://m.facebook.com/La-Popular-Bakery-Bze-801375743243468/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12069515627937685977",
+  "rating": 4.2,
+  "reviewCount": 311,
+  "coords": [
+    17.4964336,
+    -88.1950971
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-popular-bakery-belize-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:05:49.141Z"
+}

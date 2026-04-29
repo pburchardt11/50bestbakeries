@@ -1,0 +1,43 @@
+{
+  "slug": "marashlian-pastry",
+  "name": "Marashlian Pastry",
+  "curatedName": "Marashlian Pastry",
+  "city": "София",
+  "country": "Bulgaria",
+  "placeId": "ChIJkd8EIR2FqkARdFLW-QPYq8A",
+  "googleName": "Marashlian Pastry",
+  "formattedAddress": "Doctor's Garden, ul. \"Sheynovo\" 4а, 1000 Sofia, Bulgaria",
+  "phone": "089 678 6765",
+  "internationalPhone": "+359 89 678 6765",
+  "website": "https://drive.google.com/file/d/11OD2gTXGjOScDVhFJ4e5W2BjbWyPExad/view?usp=drive_link",
+  "googleMapsUrl": "https://maps.google.com/?cid=13883427787887759988",
+  "rating": 4.7,
+  "reviewCount": 436,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.69246030000001,
+    23.3370539
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 7:30 PM",
+    "Tuesday: 10:30 AM – 7:30 PM",
+    "Wednesday: 10:30 AM – 7:30 PM",
+    "Thursday: 10:30 AM – 7:30 PM",
+    "Friday: 10:30 AM – 7:30 PM",
+    "Saturday: 10:30 AM – 7:30 PM",
+    "Sunday: 10:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marashlian-pastry/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:35.009Z"
+}

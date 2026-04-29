@@ -1,0 +1,43 @@
+{
+  "slug": "wonder-bakery-semarang-kota",
+  "name": "Wonder Bakery",
+  "curatedName": "Wonder Bakery",
+  "city": "Semarang Kota",
+  "country": "Indonesia",
+  "placeId": "ChIJY8mYTZmMcC4RE7JVXfIl6l8",
+  "googleName": "Wonder Bakery",
+  "formattedAddress": "Jl. MT. Haryono No.687B, Wonodri, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50242, Indonesia",
+  "phone": "(024) 8445978",
+  "internationalPhone": "+62 24 8445978",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6911378301031658003",
+  "rating": 4.6,
+  "reviewCount": 3054,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.999563999999999,
+    110.4323831
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:30 PM",
+    "Sunday: 7:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wonder-bakery-semarang-kota/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:47.133Z"
+}

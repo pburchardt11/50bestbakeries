@@ -1,0 +1,43 @@
+{
+  "slug": "cinnamom-s-bakery",
+  "name": "CinnaMom's bakery",
+  "curatedName": "CinnaMom's bakery",
+  "city": "София",
+  "country": "Bulgaria",
+  "placeId": "ChIJ_aHYfmiFqkARigvqzjhDSwo",
+  "googleName": "CinnaMom's bakery",
+  "formattedAddress": "Old City Center, ul. \"Graf Ignatiev\" 37, 1400 Sofia, Bulgaria",
+  "phone": "088 274 5151",
+  "internationalPhone": "+359 88 274 5151",
+  "website": "https://www.instagram.com/cinnamoms_bakery?igsh=MTdlZGQwZXE5dTFscQ==",
+  "googleMapsUrl": "https://maps.google.com/?cid=741760474901253002",
+  "rating": 4.7,
+  "reviewCount": 900,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.6886207,
+    23.3284386
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 7:00 PM",
+    "Tuesday: 12:00 – 7:00 PM",
+    "Wednesday: 12:00 – 7:00 PM",
+    "Thursday: 12:00 – 7:00 PM",
+    "Friday: 12:00 – 7:00 PM",
+    "Saturday: 12:00 – 7:00 PM",
+    "Sunday: 12:00 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnamom-s-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:09.411Z"
+}

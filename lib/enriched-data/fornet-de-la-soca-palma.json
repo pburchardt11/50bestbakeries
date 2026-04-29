@@ -1,0 +1,43 @@
+{
+  "slug": "fornet-de-la-soca-palma",
+  "name": "Fornet de la Soca",
+  "curatedName": "Fornet de la Soca",
+  "city": "Palma",
+  "country": "Spain",
+  "placeId": "ChIJTU1qblqSlxIRgqyBztCvFs4",
+  "googleName": "Fornet de la Soca",
+  "formattedAddress": "Plaça de Weyler, 9, Centre, 07001 Palma, Illes Balears, Spain",
+  "phone": "673 49 94 46",
+  "internationalPhone": "+34 673 49 94 46",
+  "website": "http://www.fornetdelasoca.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14850250132653452418",
+  "rating": 4.5,
+  "reviewCount": 1167,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.57140589999999,
+    2.6501445
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fornet-de-la-soca-palma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:31.009Z"
+}

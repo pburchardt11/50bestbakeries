@@ -1,0 +1,45 @@
+{
+  "slug": "di-pane-panificadora-confeitaria-e-cafe-manaus",
+  "name": "Di Pane Panificadora Confeitaria e Café",
+  "curatedName": "Di Pane Panificadora Confeitaria e Café",
+  "city": "Manaus",
+  "country": "Brazil",
+  "placeId": "ChIJtzG2c5QPbJIRTzLxhFxX7is",
+  "googleName": "Di Pane Panificadora Confeitaria e Café",
+  "formattedAddress": "R. Comendador Vicente Cruz, 604 - Santo Antônio, Manaus - AM, 69029-090, Brazil",
+  "phone": "(92) 99248-0817",
+  "internationalPhone": "+55 92 99248-0817",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3165563642967044687",
+  "rating": 4.6,
+  "reviewCount": 239,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -3.1182973,
+    -60.04036410000001
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 12:00 PM, 1:00 – 8:00 PM",
+    "Tuesday: 5:30 AM – 12:00 PM, 1:00 – 8:00 PM",
+    "Wednesday: 5:30 AM – 12:00 PM, 1:00 – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 12:00 PM, 1:00 – 8:00 PM",
+    "Saturday: 5:30 AM – 8:00 PM",
+    "Sunday: 5:30 AM – 12:00 PM, 1:00 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/di-pane-panificadora-confeitaria-e-cafe-manaus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:40.928Z"
+}

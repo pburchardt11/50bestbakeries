@@ -1,0 +1,43 @@
+{
+  "slug": "backerei-veedels-koln",
+  "name": "Bäckerei Veedels",
+  "curatedName": "Bäckerei Veedels",
+  "city": "Köln",
+  "country": "Germany",
+  "placeId": "ChIJfxw1z4mGcUERiyJUdX3l3tU",
+  "googleName": "Bäckerei Veedels",
+  "formattedAddress": "Follerstraße 87, 50676 Köln, Germany",
+  "phone": "0221 16930502",
+  "internationalPhone": "+49 221 16930502",
+  "website": "https://deveedelsbaeckerei.eatbu.com/?lang=de",
+  "googleMapsUrl": "https://maps.google.com/?cid=15411007301910536843",
+  "rating": 4.6,
+  "reviewCount": 260,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.9316444,
+    6.959174099999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-veedels-koln/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:37.479Z"
+}

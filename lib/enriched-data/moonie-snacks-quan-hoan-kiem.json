@@ -1,0 +1,43 @@
+{
+  "slug": "moonie-snacks-quan-hoan-kiem",
+  "name": "Moonie Snacks",
+  "curatedName": "Moonie Snacks",
+  "city": "Quận Hoàn Kiếm",
+  "country": "Vietnam",
+  "placeId": "ChIJvzqNCACrNTERUY2RnejjX7M",
+  "googleName": "Moonie Snacks",
+  "formattedAddress": "61 Đ. Nguyễn Phong Sắc, Dịch Vọng, Cầu Giấy, Hà Nội 10000, Vietnam",
+  "phone": "0336 373 737",
+  "internationalPhone": "+84 336 373 737",
+  "website": "https://www.instagram.com/mooniedonuts/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12925300043792092497",
+  "rating": 4.9,
+  "reviewCount": 372,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.037157,
+    105.790049
+  ],
+  "openingHours": [
+    "Monday: 7:00 – 9:30 AM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moonie-snacks-quan-hoan-kiem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:20.524Z"
+}

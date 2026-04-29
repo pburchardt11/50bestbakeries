@@ -1,0 +1,44 @@
+{
+  "slug": "grinberg-boutique-de-paes-mogi-das-cruzes",
+  "name": "Grinberg Boutique de Pães",
+  "curatedName": "Grinberg Boutique de Pães",
+  "city": "Mogi das Cruzes",
+  "country": "Brazil",
+  "placeId": "ChIJ1RsUnjXYzZQR159HGlnZJr8",
+  "googleName": "Grinberg Boutique de Pães",
+  "formattedAddress": "Av. São Paulo, 504 - Jardim Armenia, Mogi das Cruzes - SP, 08780-570, Brazil",
+  "phone": "(11) 4790-3041",
+  "internationalPhone": "+55 11 4790-3041",
+  "website": "http://gabrielgrinberg.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13773935487075459031",
+  "rating": 4.6,
+  "reviewCount": 445,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5195536,
+    -46.17340009999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 4:30 PM",
+    "Saturday: Closed",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grinberg-boutique-de-paes-mogi-das-cruzes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:17.143Z"
+}

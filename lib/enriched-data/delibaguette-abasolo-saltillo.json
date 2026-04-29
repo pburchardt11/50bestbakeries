@@ -1,0 +1,43 @@
+{
+  "slug": "delibaguette-abasolo-saltillo",
+  "name": "Delibaguette Abasolo",
+  "curatedName": "Delibaguette Abasolo",
+  "city": "Saltillo",
+  "country": "Mexico",
+  "placeId": "ChIJ4QYXwYNziIYRbTbKeGmHLh8",
+  "googleName": "Delibaguette Abasolo",
+  "formattedAddress": "Calle Mariano Abasolo & Melchor Múzquiz, Zona Centro, 25000 Saltillo, Coah., Mexico",
+  "phone": "844 485 2014",
+  "internationalPhone": "+52 844 485 2014",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2246882151172290157",
+  "rating": 4.5,
+  "reviewCount": 399,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.4223988,
+    -100.9902646
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delibaguette-abasolo-saltillo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:53.181Z"
+}

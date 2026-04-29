@@ -1,0 +1,44 @@
+{
+  "slug": "pelit-pastanesi-kartal",
+  "name": "Pelit Pastanesi Kartal",
+  "curatedName": "Pelit Pastanesi Kartal",
+  "city": "Kartal",
+  "country": "Türkiye",
+  "placeId": "ChIJP0oQwZHDyhQRi6iTvS1Eoqw",
+  "googleName": "Pelit Pastanesi Kartal",
+  "formattedAddress": "Kordonboyu, Akdeniz Cd. No:38, 34860 Kartal/İstanbul, Türkiye",
+  "phone": "(0216) 473 48 33",
+  "internationalPhone": "+90 216 473 48 33",
+  "website": "http://www.pelit.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12439580083995519115",
+  "rating": 4.2,
+  "reviewCount": 1594,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.8943286,
+    29.1691171
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pelit-pastanesi-kartal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:19.081Z"
+}

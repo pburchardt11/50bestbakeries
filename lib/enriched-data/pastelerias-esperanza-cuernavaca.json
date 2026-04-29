@@ -1,0 +1,43 @@
+{
+  "slug": "pastelerias-esperanza-cuernavaca",
+  "name": "Pastelerias Esperanza",
+  "curatedName": "Pastelerias Esperanza",
+  "city": "Cuernavaca",
+  "country": "Mexico",
+  "placeId": "ChIJhW_UPcTfzYUR0FyUxkwzDco",
+  "googleName": "Pastelerías Esperanza",
+  "formattedAddress": "Av. San Diego 208, zona 1, Lomas de Vista Hermosa, 62290 Cuernavaca, Mor., Mexico",
+  "phone": "55 6285 0400",
+  "internationalPhone": "+52 55 6285 0400",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14559349575200824528",
+  "rating": 4.6,
+  "reviewCount": 5745,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.9411712,
+    -99.2181244
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelerias-esperanza-cuernavaca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:20.430Z"
+}

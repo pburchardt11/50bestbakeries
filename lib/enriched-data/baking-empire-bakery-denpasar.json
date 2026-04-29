@@ -1,0 +1,43 @@
+{
+  "slug": "baking-empire-bakery-denpasar",
+  "name": "Baking Empire Bakery",
+  "curatedName": "Baking Empire Bakery",
+  "city": "Denpasar",
+  "country": "Indonesia",
+  "placeId": "ChIJxwoRB85A0i0Rg7YoJu9BnfU",
+  "googleName": "Baking Empire Bakery",
+  "formattedAddress": "Jl. Teuku Umar Barat No.8, Pemecutan Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80119, Indonesia",
+  "phone": "0811-3922-345",
+  "internationalPhone": "+62 811-3922-345",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17698374606029108867",
+  "rating": 4.6,
+  "reviewCount": 803,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -8.6812382,
+    115.1949005
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baking-empire-bakery-denpasar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:38:52.779Z"
+}

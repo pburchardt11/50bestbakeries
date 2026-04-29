@@ -1,0 +1,43 @@
+{
+  "slug": "bakery-santa-rita-bari",
+  "name": "Bakery Santa Rita",
+  "curatedName": "Bakery Santa Rita",
+  "city": "Bari",
+  "country": "Italy",
+  "placeId": "ChIJ51RI02PoRxMRmxbCmL5KsmE",
+  "googleName": "Bakery Santa Rita",
+  "formattedAddress": "Str. dei Dottula, 8, 70122 Bari BA, Italy",
+  "phone": "346 616 9152",
+  "internationalPhone": "+39 346 616 9152",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7039771350000604827",
+  "rating": 4.8,
+  "reviewCount": 4723,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1276036,
+    16.8686408
+  ],
+  "openingHours": [
+    "Monday: 8:50 AM – 2:00 PM, 6:15 – 9:15 PM",
+    "Tuesday: 8:50 AM – 2:00 PM, 6:15 – 9:15 PM",
+    "Wednesday: 8:50 AM – 2:00 PM, 6:15 – 9:15 PM",
+    "Thursday: 8:50 AM – 2:00 PM",
+    "Friday: 8:50 AM – 2:00 PM, 6:15 – 9:15 PM",
+    "Saturday: 8:50 AM – 2:00 PM, 6:15 – 9:15 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-santa-rita-bari/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:03.459Z"
+}

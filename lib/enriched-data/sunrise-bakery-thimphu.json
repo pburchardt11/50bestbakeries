@@ -1,0 +1,32 @@
+{
+  "slug": "sunrise-bakery-thimphu",
+  "name": "Sunrise Bakery",
+  "city": "Thimphu",
+  "country": "Bhutan",
+  "placeId": "ChIJS2xDHRyV4TkRDS9XbPONgdk",
+  "googleName": "Sunrise Bakery & Cafe, Taba",
+  "formattedAddress": "Dechen Lam - III, Thimphu, Bhutan",
+  "phone": "17 30 50 00",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15672964254860259085",
+  "rating": 4.5,
+  "reviewCount": 26,
+  "coords": [
+    27.5117409,
+    89.640913
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: 9:00 AM – 8:30 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: Closed",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sunrise-bakery-thimphu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:11:23.348Z"
+}

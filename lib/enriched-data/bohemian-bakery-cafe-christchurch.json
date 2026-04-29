@@ -1,0 +1,44 @@
+{
+  "slug": "bohemian-bakery-cafe-christchurch",
+  "name": "Bohemian Bakery Cafe",
+  "curatedName": "Bohemian Bakery Cafe",
+  "city": "Christchurch",
+  "country": "New Zealand",
+  "placeId": "ChIJsbbhsXuLMW0RxDf-hSK4Sgo",
+  "googleName": "Bohemian Bakery Cafe",
+  "formattedAddress": "255 Saint Asaph Street, Christchurch Central City, Christchurch 8011, New Zealand",
+  "phone": "03 365 0456",
+  "internationalPhone": "+64 3 365 0456",
+  "website": "https://www.bohemianbakery.co.nz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=741607547072296900",
+  "rating": 4.6,
+  "reviewCount": 522,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -43.5361748,
+    172.6417989
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 3:00 PM",
+    "Tuesday: 7:30 AM – 3:00 PM",
+    "Wednesday: 7:30 AM – 3:00 PM",
+    "Thursday: 7:30 AM – 3:00 PM",
+    "Friday: 7:30 AM – 3:00 PM",
+    "Saturday: 8:30 AM – 3:00 PM",
+    "Sunday: 8:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bohemian-bakery-cafe-christchurch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:27.822Z"
+}

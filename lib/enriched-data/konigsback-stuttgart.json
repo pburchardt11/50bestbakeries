@@ -1,0 +1,44 @@
+{
+  "slug": "konigsback-stuttgart",
+  "name": "Königsbäck",
+  "curatedName": "Königsbäck",
+  "city": "Stuttgart",
+  "country": "Germany",
+  "placeId": "ChIJa0-wr8HEmUcRhQYbH0TVETI",
+  "googleName": "Königsbäck",
+  "formattedAddress": "Gablenberger Hauptstraße 77, 70186 Stuttgart, Germany",
+  "phone": "0711 90114075",
+  "internationalPhone": "+49 711 90114075",
+  "website": "http://www.koenigsbaeck.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3607899265056835205",
+  "rating": 4.7,
+  "reviewCount": 723,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.7768098,
+    9.205648799999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:30 AM – 1:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konigsback-stuttgart/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:05.987Z"
+}

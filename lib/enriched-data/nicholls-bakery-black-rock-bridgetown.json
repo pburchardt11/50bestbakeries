@@ -1,0 +1,32 @@
+{
+  "slug": "nicholls-bakery-black-rock-bridgetown",
+  "name": "Nicholls Bakery Black Rock",
+  "city": "Bridgetown",
+  "country": "Barbados",
+  "placeId": "ChIJAfA6Ti73Q4wRyeDSKbUe9WQ",
+  "googleName": "Nicholls Bakery Black Rock",
+  "formattedAddress": "Black Rock Main Road, Inside Channel Supermarket Complex, Black Rock, Saint Michael Barbados",
+  "phone": "(246) 571-5603",
+  "website": "http://www.facebook.com/nichollsbakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=7274754536526504137",
+  "rating": 4.1,
+  "reviewCount": 131,
+  "coords": [
+    13.1188729,
+    -59.6198162
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nicholls-bakery-black-rock-bridgetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:54:57.554Z"
+}

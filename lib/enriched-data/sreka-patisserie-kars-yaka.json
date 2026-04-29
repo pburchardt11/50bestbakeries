@@ -1,0 +1,43 @@
+{
+  "slug": "sreka-patisserie-kars-yaka",
+  "name": "Sreka Patisserie",
+  "curatedName": "Sreka Patisserie",
+  "city": "Karşıyaka",
+  "country": "Türkiye",
+  "placeId": "ChIJa0R3j9zZuxQRRqXQT9A5GdE",
+  "googleName": "Sreka Patisserie",
+  "formattedAddress": "Nergiz, Girne Blv No: 111/A, 35590 Karşıyaka/İzmir, Türkiye",
+  "phone": "0533 227 89 00",
+  "internationalPhone": "+90 533 227 89 00",
+  "website": "https://srekapatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15067137595199759686",
+  "rating": 4.4,
+  "reviewCount": 87,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.4603688,
+    27.1075441
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sreka-patisserie-kars-yaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:01:52.092Z"
+}

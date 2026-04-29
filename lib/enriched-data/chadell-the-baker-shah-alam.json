@@ -1,0 +1,43 @@
+{
+  "slug": "chadell-the-baker-shah-alam",
+  "name": "Chadell The Baker",
+  "curatedName": "Chadell The Baker",
+  "city": "Shah Alam",
+  "country": "Malaysia",
+  "placeId": "ChIJH_58rT45zDERiZ2VweTcdFM",
+  "googleName": "Chadell The Baker",
+  "formattedAddress": "20, Jalan Plumbum Aa 7/Aa, Seksyen 7, 40000 Shah Alam, Selangor, Malaysia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/chadellthebaker/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6013674277504916873",
+  "rating": 4.9,
+  "reviewCount": 566,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.0645818,
+    101.489228
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chadell-the-baker-shah-alam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:44.564Z"
+}

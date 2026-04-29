@@ -1,0 +1,32 @@
+{
+  "slug": "the-hamilton-pastry-shop-hamilton",
+  "name": "The Hamilton Pastry Shop",
+  "city": "Hamilton",
+  "country": "Bermuda",
+  "placeId": "ChIJF_q0rm0ULYoRVOu_oDDHKgk",
+  "googleName": "The Hamilton Pastry Shop",
+  "formattedAddress": "31 Reid Street, City of, Hamilton, Bermuda",
+  "phone": "(441) 295-2253",
+  "website": "https://www.hamiltonpastry.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=660559307032488788",
+  "rating": 4.8,
+  "reviewCount": 75,
+  "coords": [
+    32.29332720000001,
+    -64.7840326
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:30 PM",
+    "Tuesday: 8:00 AM – 4:30 PM",
+    "Wednesday: 8:00 AM – 4:30 PM",
+    "Thursday: 8:00 AM – 4:30 PM",
+    "Friday: 8:00 AM – 4:30 PM",
+    "Saturday: 9:00 AM – 3:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-hamilton-pastry-shop-hamilton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:09:47.737Z"
+}

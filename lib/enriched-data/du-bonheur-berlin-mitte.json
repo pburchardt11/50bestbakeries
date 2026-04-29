@@ -1,0 +1,44 @@
+{
+  "slug": "du-bonheur-berlin-mitte",
+  "name": "Du Bonheur",
+  "curatedName": "Du Bonheur",
+  "city": "Berlin Mitte",
+  "country": "Germany",
+  "placeId": "ChIJ72qAj_BRqEcRN1YQdIUYuFQ",
+  "googleName": "Du Bonheur",
+  "formattedAddress": "Brunnenstraße 39, 10115 Berlin, Germany",
+  "phone": "030 56591955",
+  "internationalPhone": "+49 30 56591955",
+  "website": "https://www.dubonheur.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6104656256357652023",
+  "rating": 4.8,
+  "reviewCount": 1487,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.536243,
+    13.397867
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Quaint café with sidewalk tables offering breakfast, delicate French pastries & simple lunch menus.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/du-bonheur-berlin-mitte/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:30.953Z"
+}

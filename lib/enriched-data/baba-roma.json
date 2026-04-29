@@ -1,0 +1,44 @@
+{
+  "slug": "baba-roma",
+  "name": "BABA ROMA",
+  "curatedName": "BABA ROMA",
+  "city": "دبي",
+  "country": "UAE",
+  "placeId": "ChIJuxISVwBpXz4RMU8MnFkkIUc",
+  "googleName": "BABA ROMA",
+  "formattedAddress": "Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+  "phone": "04 553 6904",
+  "internationalPhone": "+971 4 553 6904",
+  "website": "http://www.babaroma.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5125417818213076785",
+  "rating": 4.8,
+  "reviewCount": 882,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.1938264,
+    55.2695715
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baba-roma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:04:00.907Z"
+}

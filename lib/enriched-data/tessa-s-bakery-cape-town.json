@@ -1,0 +1,43 @@
+{
+  "slug": "tessa-s-bakery-cape-town",
+  "name": "Tessa's Bakery",
+  "curatedName": "Tessa's Bakery",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "placeId": "ChIJg3Kq76hezB0RVg-EMzYaIFI",
+  "googleName": "Tessa's Bakery",
+  "formattedAddress": "Milpark Centre, Jasmin Rd, Milnerton, Cape Town, 7441, South Africa",
+  "phone": "021 551 6107",
+  "internationalPhone": "+27 21 551 6107",
+  "website": "http://www.tessasbakery.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5917758730459680598",
+  "rating": 4.6,
+  "reviewCount": 1295,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.8696184,
+    18.5044536
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tessa-s-bakery-cape-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:41.239Z"
+}

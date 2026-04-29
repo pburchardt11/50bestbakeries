@@ -1,0 +1,32 @@
+{
+  "slug": "cukrarna-pusinka-benesov-nad-ploucnici",
+  "name": "Cukrárna Pusinka",
+  "city": "Benešov nad Ploučnicí",
+  "country": "Czech Republic",
+  "placeId": "ChIJBSQPgXJ0CUcRvOiRPWxLkUk",
+  "googleName": "Cukrárna Pusinka",
+  "formattedAddress": "Československé armády 121, 407 22 Benešov nad Ploučnicí, Czechia",
+  "phone": "412 586 561",
+  "website": "http://www.cukrarnapusinka.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5301101164653308092",
+  "rating": 4.8,
+  "reviewCount": 667,
+  "coords": [
+    50.74034400000001,
+    14.3125691
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 – 11:30 AM, 12:30 – 4:00 PM",
+    "Sunday: 10:00 – 11:30 AM, 12:30 – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cukrarna-pusinka-benesov-nad-ploucnici/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:02.800Z"
+}

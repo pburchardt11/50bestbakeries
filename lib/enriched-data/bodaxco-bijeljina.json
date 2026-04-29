@@ -1,0 +1,32 @@
+{
+  "slug": "bodaxco-bijeljina",
+  "name": "Bodaxco",
+  "city": "Bijeljina",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJfXjMfhjpW0cRw7jsdKpYc2c",
+  "googleName": "Bodaxco",
+  "formattedAddress": "Živojina Mišića 9а, Bijeljina 76300, Bosnia and Herzegovina",
+  "phone": "055 212-212",
+  "website": "http://www.bodaxco.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7454399297357658307",
+  "rating": 4.4,
+  "reviewCount": 626,
+  "coords": [
+    44.7664828,
+    19.2153604
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bodaxco-bijeljina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:17:51.063Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-dreams-cayman-bodden-town",
+  "name": "Sweet Dreams Cayman",
+  "city": "Bodden Town",
+  "country": "Cayman Islands",
+  "placeId": "ChIJi7rd6V2LJY8Rmfy9hV7NC3k",
+  "googleName": "Sweet Dreams Cayman",
+  "formattedAddress": "Bright Dayz Plaza, 187 Bodden Town Rd, Bodden Town, Cayman Islands",
+  "phone": "(345) 923-1363",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8722290909187538073",
+  "rating": 4.9,
+  "reviewCount": 182,
+  "coords": [
+    19.2772535,
+    -81.2508292
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-dreams-cayman-bodden-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:41:32.597Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "pu-jei",
+  "name": "Pu-Jei",
+  "curatedName": "Pu-Jei",
+  "city": "台南市",
+  "country": "Taiwan",
+  "placeId": "ChIJdVFPSmB2bjQRn2aXiBaj_gM",
+  "googleName": "Pu-Jei",
+  "formattedAddress": "No. 200號, Chenggong Rd, North District, Tainan City, Taiwan 704",
+  "phone": "06 226 3593",
+  "internationalPhone": "+886 6 226 3593",
+  "website": "http://www.pujeigift.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=287846743374522015",
+  "rating": 4.2,
+  "reviewCount": 6155,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.9990134,
+    120.203669
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pu-jei/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:14.933Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "bon-pane-puebla",
+  "name": "Bon Pane",
+  "curatedName": "Bon Pane",
+  "city": "Puebla",
+  "country": "Mexico",
+  "placeId": "ChIJu3-kQNDGz4UR0FQNeyh2PW0",
+  "googleName": "Bon Pane",
+  "formattedAddress": "C. Aljojuca 2, La Paz, 72160 Heroica Puebla de Zaragoza, Pue., Mexico",
+  "phone": "55 6285 0400 ext. 4201",
+  "internationalPhone": "+52 55 6285 0400 ext. 4201",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7871577639948735696",
+  "rating": 4.5,
+  "reviewCount": 4758,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.062019,
+    -98.2305454
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bon-pane-puebla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:07.714Z"
+}

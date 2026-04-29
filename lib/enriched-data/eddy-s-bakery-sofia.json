@@ -1,0 +1,32 @@
+{
+  "slug": "eddy-s-bakery-sofia",
+  "name": "Eddy's Bakery",
+  "city": "Sofia",
+  "country": "Bulgaria",
+  "placeId": "ChIJ0R9ybBCGqkAR5fyNcOozp3U",
+  "googleName": "Eddy's Bakery",
+  "formattedAddress": "Научно-производствена зона Искър, bul. \"Christopher Columbus\" 64, 1592 Sofia, Bulgaria",
+  "phone": "089 584 4137",
+  "website": "http://eddys.bg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8477801905551965413",
+  "rating": 4.1,
+  "reviewCount": 330,
+  "coords": [
+    42.6824004,
+    23.4024703
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eddy-s-bakery-sofia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:22:56.691Z"
+}

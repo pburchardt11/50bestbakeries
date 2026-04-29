@@ -1,0 +1,43 @@
+{
+  "slug": "baked-by-shangri-la-kowloon",
+  "name": "Baked By Shangri-La",
+  "curatedName": "Baked By Shangri-La",
+  "city": "Kowloon",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJ0alD0e8ABDQRMnLALdzL_H8",
+  "googleName": "Baked By Shangri-La",
+  "formattedAddress": "Lobby Level, 64 Mody Road Tsim Sha Tsui East, Tsim Sha Tsui, Hong Kong",
+  "phone": "2733 8757",
+  "internationalPhone": "+852 2733 8757",
+  "website": "https://www.shangri-la.com/hongkong/kowloonshangrila/dining/restaurants/baked-by-shangri-la/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9222470283468763698",
+  "rating": 4.1,
+  "reviewCount": 58,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.296987,
+    114.1770057
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-by-shangri-la-kowloon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:45.127Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "st-viateur-bagel-laval",
+  "name": "St-Viateur Bagel",
+  "curatedName": "St-Viateur Bagel",
+  "city": "Laval",
+  "country": "Canada",
+  "placeId": "ChIJ-496JE8hyUwRSqk2uT9h7qs",
+  "googleName": "St-Viateur Bagel Laval",
+  "formattedAddress": "1585 Bd Dagenais O, Laval, QC H7L 5A3, Canada",
+  "phone": "(450) 625-5552",
+  "internationalPhone": "+1 450-625-5552",
+  "website": "http://www.stviateurbagel.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12388946551261014346",
+  "rating": 4.6,
+  "reviewCount": 979,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5954518,
+    -73.75525069999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Iconic storefront known for wood-oven baked bagels with varied flavors & toppings.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-viateur-bagel-laval/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:20:52.073Z"
+}

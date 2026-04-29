@@ -1,0 +1,43 @@
+{
+  "slug": "le-fusion-bakery-ghaziabad-sub-district",
+  "name": "Le Fusion Bakery",
+  "curatedName": "Le Fusion Bakery",
+  "city": "Ghaziabad Sub-District",
+  "country": "India",
+  "placeId": "ChIJH4daxirzDDkRwzyOgIqhkxo",
+  "googleName": "Le Fusion Bakery",
+  "formattedAddress": "LGF 30, Karyan Citywalk Sector 2, Wave City, Ghaziabad, Uttar Pradesh 201015, India",
+  "phone": "073033 78934",
+  "internationalPhone": "+91 73033 78934",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1915051882796956867",
+  "rating": 4.9,
+  "reviewCount": 790,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.6616812,
+    77.49117489999999
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 10:00 PM",
+    "Tuesday: 10:30 AM – 10:00 PM",
+    "Wednesday: 10:30 AM – 10:00 PM",
+    "Thursday: 10:30 AM – 10:00 PM",
+    "Friday: 10:30 AM – 10:00 PM",
+    "Saturday: 10:30 AM – 10:00 PM",
+    "Sunday: 10:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-fusion-bakery-ghaziabad-sub-district/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:18.297Z"
+}

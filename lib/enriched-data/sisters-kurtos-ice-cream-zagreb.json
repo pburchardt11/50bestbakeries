@@ -1,0 +1,44 @@
+{
+  "slug": "sisters-kurtos-ice-cream-zagreb",
+  "name": "Sisters Kurtoš & Ice Cream",
+  "curatedName": "Sisters Kurtoš & Ice Cream",
+  "city": "Zagreb",
+  "country": "Croatia",
+  "placeId": "ChIJM-dJBoHXZUcRm0IhImtKm3s",
+  "googleName": "Sisters Kurtoš & Ice Cream",
+  "formattedAddress": "Ulica Milana Amruša 1, 10000, Zagreb, Croatia",
+  "phone": "091 608 2345",
+  "internationalPhone": "+385 91 608 2345",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8906794512049848987",
+  "rating": 4.5,
+  "reviewCount": 430,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.8116698,
+    15.978819
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sisters-kurtos-ice-cream-zagreb/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:49.770Z"
+}

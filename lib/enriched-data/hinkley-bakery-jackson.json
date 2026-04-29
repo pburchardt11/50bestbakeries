@@ -1,0 +1,43 @@
+{
+  "slug": "hinkley-bakery-jackson",
+  "name": "Hinkley Bakery",
+  "curatedName": "Hinkley Bakery",
+  "city": "Jackson",
+  "country": "United States",
+  "placeId": "ChIJdQJWdWwlPYgRUKA1Y73NWtM",
+  "googleName": "Hinkley Bakery",
+  "formattedAddress": "700 S Blackstone St, Jackson, MI 49203, USA",
+  "phone": "(517) 782-1122",
+  "internationalPhone": "+1 517-782-1122",
+  "website": "https://m.facebook.com/hinkleybakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15229711303203725392",
+  "rating": 4.9,
+  "reviewCount": 1555,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.2420377,
+    -84.4120365
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 5:15 AM – 1:00 PM",
+    "Thursday: 5:15 AM – 1:00 PM",
+    "Friday: 5:15 AM – 1:00 PM",
+    "Saturday: 5:15 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Popular, family-run operation turning out a variety of frosted & glazed donuts since 1913.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hinkley-bakery-jackson/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:17:25.085Z"
+}

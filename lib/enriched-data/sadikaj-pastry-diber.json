@@ -1,0 +1,32 @@
+{
+  "slug": "sadikaj-pastry-diber",
+  "name": "Sadikaj Pastry",
+  "city": "Dibër",
+  "country": "Albania",
+  "placeId": "ChIJjzMR4411URMRgE5HoUTKvkc",
+  "googleName": "Sadikaj Pastry",
+  "formattedAddress": "MCPG+86Q, Bulevardi Elez Isufi, Peshkopi, Albania",
+  "phone": "068 280 7407",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5169791818380299904",
+  "rating": 5,
+  "reviewCount": 13,
+  "coords": [
+    41.6858405,
+    20.4256074
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:00 PM",
+    "Tuesday: 7:30 AM – 11:00 PM",
+    "Wednesday: 7:30 AM – 11:00 PM",
+    "Thursday: 7:30 AM – 11:00 PM",
+    "Friday: 7:30 AM – 11:00 PM",
+    "Saturday: 7:30 AM – 11:00 PM",
+    "Sunday: 7:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sadikaj-pastry-diber/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:13:27.628Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "farina-madre-paes-artesanais-santos",
+  "name": "Farina Madre Pães Artesanais",
+  "curatedName": "Farina Madre Pães Artesanais",
+  "city": "Santos",
+  "country": "Brazil",
+  "placeId": "ChIJR7GPQ8sDzpQR1-QjuPXyCBQ",
+  "googleName": "Farina Madre Pães Artesanais",
+  "formattedAddress": "R. Sergipe, 3 - Gonzaga, Santos - SP, 11060-420, Brazil",
+  "phone": "(13) 99672-8051",
+  "internationalPhone": "+55 13 99672-8051",
+  "website": "https://farinamadre.clicapedidos.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1443670817742513367",
+  "rating": 5,
+  "reviewCount": 144,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "health",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.9613484,
+    -46.3369372
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farina-madre-paes-artesanais-santos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:41:48.564Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "zorbas-agios-dometios",
+  "name": "Zorbas",
+  "city": "Agios Dometios",
+  "country": "Cyprus",
+  "placeId": "ChIJWcWpcQga3hQRo7y0QqRlxxg",
+  "googleName": "Zorbas Bakery (Φούρνος ΖΟΡΠΑΣ)",
+  "formattedAddress": "Kyriakou Matsi 39 Agios Dometios, Metehan 2373, Cyprus",
+  "phone": "22 449055",
+  "website": "http://www.zorbas.com.cy/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1785507533443873955",
+  "rating": 4.6,
+  "reviewCount": 233,
+  "coords": [
+    35.1686501,
+    33.33690929999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zorbas-agios-dometios/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:49.677Z"
+}

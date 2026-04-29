@@ -1,0 +1,43 @@
+{
+  "slug": "backerei-zimmermann-kg-koln",
+  "name": "Bäckerei Zimmermann KG",
+  "curatedName": "Bäckerei Zimmermann KG",
+  "city": "Köln",
+  "country": "Germany",
+  "placeId": "ChIJEaJm4AYlv0cR8f-wsmo0hXw",
+  "googleName": "Bäckerei Zimmermann KG",
+  "formattedAddress": "Ehrenstraße 75, 50672 Köln, Germany",
+  "phone": "0221 255632",
+  "internationalPhone": "+49 221 255632",
+  "website": "http://baeckereizimmermann.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8972635465474703345",
+  "rating": 4.7,
+  "reviewCount": 502,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.9381925,
+    6.940435399999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-zimmermann-kg-koln/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:27.011Z"
+}

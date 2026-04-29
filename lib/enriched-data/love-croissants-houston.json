@@ -1,0 +1,43 @@
+{
+  "slug": "love-croissants-houston",
+  "name": "Love Croissants",
+  "curatedName": "Love Croissants",
+  "city": "Houston",
+  "country": "United States",
+  "placeId": "ChIJ__8vuie_QIYR5omkZ_KvGG0",
+  "googleName": "Love Croissants",
+  "formattedAddress": "2808 Caroline St, Houston, TX 77004, USA",
+  "phone": "(469) 854-0356",
+  "internationalPhone": "+1 469-854-0356",
+  "website": "https://lovecroissants.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7861226605230983654",
+  "rating": 4.8,
+  "reviewCount": 571,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.742625,
+    -95.3727723
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/love-croissants-houston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:08:21.056Z"
+}

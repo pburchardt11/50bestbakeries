@@ -1,0 +1,43 @@
+{
+  "slug": "beiler-s-bakery-mullica-hill",
+  "name": "Beiler's Bakery",
+  "curatedName": "Beiler's Bakery",
+  "city": "Mullica Hill",
+  "country": "United States",
+  "placeId": "ChIJ1ZhMwz_ZxokRC3scsIJs8ww",
+  "googleName": "Beiler's Bakery",
+  "formattedAddress": "108 Swedesboro Rd, Mullica Hill, NJ 08062, USA",
+  "phone": "(856) 223-9998",
+  "internationalPhone": "+1 856-223-9998",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=933208856352029451",
+  "rating": 4.3,
+  "reviewCount": 10,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.7443215,
+    -75.224736
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beiler-s-bakery-mullica-hill/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:15.172Z"
+}

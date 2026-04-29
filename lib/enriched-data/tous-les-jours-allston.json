@@ -1,0 +1,43 @@
+{
+  "slug": "tous-les-jours-allston",
+  "name": "Tous les Jours",
+  "curatedName": "Tous les Jours",
+  "city": "Allston",
+  "country": "United States",
+  "placeId": "ChIJtcdQlcV544kRQzK_SkKI1v0",
+  "googleName": "Tous les Jours",
+  "formattedAddress": "152 Harvard Ave, Allston, MA 02134, USA",
+  "phone": "(617) 787-1069",
+  "internationalPhone": "+1 617-787-1069",
+  "website": "http://www.tljus.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18290956754915111491",
+  "rating": 4.3,
+  "reviewCount": 616,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.3517789,
+    -71.1315096
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-allston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:25.379Z"
+}

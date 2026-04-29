@@ -1,0 +1,44 @@
+{
+  "slug": "solen-pastanesi-meram",
+  "name": "Şölen Pastanesi",
+  "curatedName": "Şölen Pastanesi",
+  "city": "Meram",
+  "country": "Türkiye",
+  "placeId": "ChIJ7b4Q2ayF0BQRx4eG3mzfXAY",
+  "googleName": "Şölen Pastanesi",
+  "formattedAddress": "Konevi Mh, Ferit Paşa Cd. No:20/A, 42040 Meram/Konya, Türkiye",
+  "phone": "(0332) 322 05 91",
+  "internationalPhone": "+90 332 322 05 91",
+  "website": "http://www.solenpastanesi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=458486920767768519",
+  "rating": 4,
+  "reviewCount": 1029,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.8674586,
+    32.4835891
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/solen-pastanesi-meram/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:04:05.098Z"
+}

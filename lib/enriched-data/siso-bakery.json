@@ -1,0 +1,44 @@
+{
+  "slug": "siso-bakery",
+  "name": "Siso Bakery",
+  "curatedName": "Siso Bakery",
+  "city": "ភ្នំពេញ",
+  "country": "Cambodia",
+  "placeId": "ChIJCY26CqRRCTERwUqtMCPifvU",
+  "googleName": "Siso Bakery",
+  "formattedAddress": "St 350, Phnom Penh, Cambodia",
+  "phone": "010 687 111",
+  "internationalPhone": "+855 10 687 111",
+  "website": "https://www.facebook.com/profile.php?id=100086380850872&mibextid=kFxxJD",
+  "googleMapsUrl": "https://maps.google.com/?cid=17689825027126282945",
+  "rating": 4.8,
+  "reviewCount": 1206,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    11.5485935,
+    104.9135609
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 7:00 PM",
+    "Sunday: 6:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/siso-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:37.440Z"
+}

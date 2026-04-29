@@ -1,0 +1,44 @@
+{
+  "slug": "john-baker-helvetiaplatz-zurich",
+  "name": "John Baker Helvetiaplatz",
+  "curatedName": "John Baker Helvetiaplatz",
+  "city": "Zürich",
+  "country": "Switzerland",
+  "placeId": "ChIJ5bWMZgALkEcR6zrj2h52Guo",
+  "googleName": "John Baker Helvetiaplatz",
+  "formattedAddress": "Molkenstrasse 15, 8004 Zürich, Switzerland",
+  "phone": "044 281 00 72",
+  "internationalPhone": "+41 44 281 00 72",
+  "website": "https://johnbaker.ch/helvetiapl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16868925229163035371",
+  "rating": 4.4,
+  "reviewCount": 685,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.3763947,
+    8.5262989
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Produce is king at this baker preparing a range of goods using only local & organic ingredients.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/john-baker-helvetiaplatz-zurich/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:09.690Z"
+}

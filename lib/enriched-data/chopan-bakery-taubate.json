@@ -1,0 +1,43 @@
+{
+  "slug": "chopan-bakery-taubate",
+  "name": "ChoPan Bakery",
+  "curatedName": "ChoPan Bakery",
+  "city": "Taubaté",
+  "country": "Brazil",
+  "placeId": "ChIJedm-AxL5zJQRlwbDNchtmHY",
+  "googleName": "ChoPan Bakery",
+  "formattedAddress": "Av. Tiradentes, 607 - Jardim das Nações, Taubaté - SP, 12030-180, Brazil",
+  "phone": "(12) 99685-1990",
+  "internationalPhone": "+55 12 99685-1990",
+  "website": "http://www.instagram.com/chopanbaker",
+  "googleMapsUrl": "https://maps.google.com/?cid=8545700999598376599",
+  "rating": 4.9,
+  "reviewCount": 27,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.0315371,
+    -45.56481410000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chopan-bakery-taubate/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:57.208Z"
+}

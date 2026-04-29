@@ -1,0 +1,32 @@
+{
+  "slug": "casita-dulce-cochabamba",
+  "name": "Casita Dulce",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJnSv7Dpx145MRkoY4MZBBRp0",
+  "googleName": "\"Casita Dulce\"",
+  "formattedAddress": "C. Lanza esquina, Cochabamba, Bolivia",
+  "phone": "69458003",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11332817599881315986",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -17.3872263,
+    -66.1542844
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casita-dulce-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:14:54.999Z"
+}

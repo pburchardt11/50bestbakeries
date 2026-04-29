@@ -1,0 +1,44 @@
+{
+  "slug": "the-royal-bakery-colombo",
+  "name": "The Royal Bakery",
+  "curatedName": "The Royal Bakery",
+  "city": "Colombo",
+  "country": "Sri Lanka",
+  "placeId": "ChIJm7yMi7lb4joRB69LEBnZ2-E",
+  "googleName": "The Royal Bakery",
+  "formattedAddress": "202 Galle Rd, Colombo, Sri Lanka",
+  "phone": "0112 500 991",
+  "internationalPhone": "+94 112 500 991",
+  "website": "http://www.theroyalbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16274840380104224519",
+  "rating": 4,
+  "reviewCount": 3587,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    6.872340599999999,
+    79.8616098
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 9:00 PM",
+    "Tuesday: 5:00 AM – 9:00 PM",
+    "Wednesday: 5:00 AM – 9:00 PM",
+    "Thursday: 5:00 AM – 9:00 PM",
+    "Friday: 5:00 AM – 9:00 PM",
+    "Saturday: 5:00 AM – 9:00 PM",
+    "Sunday: 5:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-royal-bakery-colombo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:45.414Z"
+}

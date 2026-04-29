@@ -1,0 +1,32 @@
+{
+  "slug": "glaze-bakery-cafe-hamilton",
+  "name": "Glaze Bakery Cafe",
+  "city": "Hamilton",
+  "country": "Bermuda",
+  "placeId": "ChIJuVKrIPsVLYoRvptxjO9hmcs",
+  "googleName": "Glaze Bakery-Cafe",
+  "formattedAddress": "20 Church St, Hamilton, Bermuda",
+  "phone": "(441) 292-4422",
+  "website": "https://glaze.bm/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14670864942617435070",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    32.2939746,
+    -64.78530669999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/glaze-bakery-cafe-hamilton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:09:45.076Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "confeitaria-ferreira-matosinhos",
+  "name": "Confeitaria Ferreira",
+  "curatedName": "Confeitaria Ferreira",
+  "city": "Matosinhos",
+  "country": "Portugal",
+  "placeId": "ChIJcVRqbDBvJA0RZMyVy9Nhoa4",
+  "googleName": "Confeitaria Ferreira",
+  "formattedAddress": "Rua de Brito Capelo 421, 4450-074 Matosinhos, Portugal",
+  "phone": "22 938 0273",
+  "internationalPhone": "+351 22 938 0273",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12583446396131462244",
+  "rating": 4.5,
+  "reviewCount": 591,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.18397580000001,
+    -8.6914055
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confeitaria-ferreira-matosinhos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:54:48.498Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "rotiboy",
+  "name": "(Rotiboy)",
+  "curatedName": "(Rotiboy)",
+  "city": "인천광역시",
+  "country": "South Korea",
+  "placeId": "ChIJ-9Kc8JJ4ezURiVOKx4ynBKM",
+  "googleName": "rotiboy",
+  "formattedAddress": "Incheon, South Korea",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11746697951174087561",
+  "rating": 5,
+  "reviewCount": 2,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.47241210000001,
+    126.6287489
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rotiboy/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:05.379Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "cuba-bakery-newark",
+  "name": "Cuba Bakery",
+  "curatedName": "Cuba Bakery",
+  "city": "Newark",
+  "country": "United States",
+  "placeId": "ChIJ41V3uFZUwokRCrDEypO9AW0",
+  "googleName": "Cuba Bakery",
+  "formattedAddress": "665 Mt Prospect Ave, Newark, NJ 07104, USA",
+  "phone": "(973) 483-7280",
+  "internationalPhone": "+1 973-483-7280",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7854767667570585610",
+  "rating": 4.4,
+  "reviewCount": 692,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7746852,
+    -74.16576580000002
+  ],
+  "openingHours": [
+    "Monday: 4:00 AM – 7:00 PM",
+    "Tuesday: 4:00 AM – 7:00 PM",
+    "Wednesday: 4:00 AM – 7:00 PM",
+    "Thursday: 4:00 AM – 7:00 PM",
+    "Friday: 4:00 AM – 7:00 PM",
+    "Saturday: 4:00 AM – 7:00 PM",
+    "Sunday: 4:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cuba-bakery-newark/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:16:02.848Z"
+}

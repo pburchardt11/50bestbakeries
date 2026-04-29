@@ -1,0 +1,32 @@
+{
+  "slug": "empress-sweets-bakery",
+  "name": "Empress Sweets & Bakery",
+  "city": "الرفاع الغربي",
+  "country": "Bahrain",
+  "placeId": "ChIJmbrD68atST4RVoBXwRenvR4",
+  "googleName": "Empress Sweets & Bakery",
+  "formattedAddress": "Road 427، Ajira Avenue، West Riffa، Bahrain",
+  "phone": "1766 2345",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2215110312205975638",
+  "rating": 4.4,
+  "reviewCount": 189,
+  "coords": [
+    26.1282925,
+    50.5409028
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/empress-sweets-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:47:18.216Z"
+}

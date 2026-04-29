@@ -1,0 +1,45 @@
+{
+  "slug": "amadeus-patisserie-vaughan",
+  "name": "Amadeus Patisserie",
+  "curatedName": "Amadeus Patisserie",
+  "city": "Vaughan",
+  "country": "Canada",
+  "placeId": "ChIJ8x7YgEosK4gRaLWQ-czRJus",
+  "googleName": "Amadeus Patisserie",
+  "formattedAddress": "7380 Bathurst St, Thornhill, ON L4J 7M1, Canada",
+  "phone": "(905) 882-9957",
+  "internationalPhone": "+1 905-882-9957",
+  "website": "http://www.amadeuspatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16944461326318613864",
+  "rating": 4.2,
+  "reviewCount": 1675,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "home_goods_store",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.8025953,
+    -79.4488164
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Gourmet bakery offering European-French inspired cakes, tarts & baked goods, plus coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amadeus-patisserie-vaughan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:56.492Z"
+}

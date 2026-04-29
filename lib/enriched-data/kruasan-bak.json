@@ -1,0 +1,32 @@
+{
+  "slug": "kruasan-bak",
+  "name": "Kruasan",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJgzkw19R9MEARJhzhmp6mYdM",
+  "googleName": "Croque Baku",
+  "formattedAddress": "7 1-ci fəvvarələr küçəsi, Bakı, Azerbaijan",
+  "phone": "099 311 77 11",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15231638614877215782",
+  "rating": 4,
+  "reviewCount": 158,
+  "coords": [
+    40.385083,
+    49.886389
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 1:00 AM",
+    "Tuesday: 8:00 AM – 1:00 AM",
+    "Wednesday: 8:00 AM – 1:00 AM",
+    "Thursday: 8:00 AM – 1:00 AM",
+    "Friday: 8:00 AM – 1:00 AM",
+    "Saturday: 8:00 AM – 1:00 AM",
+    "Sunday: 8:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kruasan-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:38:22.277Z"
+}

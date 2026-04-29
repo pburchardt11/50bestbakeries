@@ -1,0 +1,43 @@
+{
+  "slug": "shokupan-nairobi",
+  "name": "Shokupan",
+  "curatedName": "Shokupan",
+  "city": "Nairobi",
+  "country": "Kenya",
+  "placeId": "ChIJFTGAPP8XLxgRFCiwVADI000",
+  "googleName": "Shokupan",
+  "formattedAddress": "The Sarit Centre Pio Gama Pinto Road, Level 1, Phase 3, Nairobi, Kenya",
+  "phone": "0791 002200",
+  "internationalPhone": "+254 791 002200",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5608045864752785428",
+  "rating": 4.6,
+  "reviewCount": 306,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -1.2611605,
+    36.80197769999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shokupan-nairobi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:40.175Z"
+}

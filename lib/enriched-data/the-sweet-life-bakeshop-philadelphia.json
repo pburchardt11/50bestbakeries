@@ -1,0 +1,45 @@
+{
+  "slug": "the-sweet-life-bakeshop-philadelphia",
+  "name": "The Sweet Life Bakeshop",
+  "curatedName": "The Sweet Life Bakeshop",
+  "city": "Philadelphia",
+  "country": "United States",
+  "placeId": "ChIJ_323pCDGxokRltPAXDTYTbk",
+  "googleName": "The Sweet Life Bakeshop",
+  "formattedAddress": "740 South St, Philadelphia, PA 19147, USA",
+  "phone": "(215) 717-7770",
+  "internationalPhone": "+1 215-717-7770",
+  "website": "https://www.sweetlifephilly.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13352566189629428630",
+  "rating": 4.9,
+  "reviewCount": 492,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.9422025,
+    -75.1552505
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Compact dessert nook specializing in cups of pudding, plus cakes, pies, cookies & cupcakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-sweet-life-bakeshop-philadelphia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:09:17.497Z"
+}

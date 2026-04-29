@@ -1,0 +1,32 @@
+{
+  "slug": "the-bakery-shop-tbs-al-attarin",
+  "name": "The Bakery Shop (TBS)",
+  "city": "Al ‘Aţţārīn",
+  "country": "Egypt",
+  "placeId": "ChIJ878RGSc-WBQRf7fjYFXfwRc",
+  "googleName": "TBS - The Bakery Shop",
+  "formattedAddress": "22 Baghdad, El-Montaza, Heliopolis, Cairo Governorate 4460245, Egypt",
+  "phone": "02 22909018",
+  "website": "http://www.tbsfresh.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1711894891168249727",
+  "rating": 4.3,
+  "reviewCount": 1306,
+  "coords": [
+    30.0910108,
+    31.3239545
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakery-shop-tbs-al-attarin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:01:32.532Z"
+}

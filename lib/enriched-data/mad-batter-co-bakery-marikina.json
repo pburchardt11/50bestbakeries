@@ -1,0 +1,43 @@
+{
+  "slug": "mad-batter-co-bakery-marikina",
+  "name": "Mad Batter Co. Bakery",
+  "curatedName": "Mad Batter Co. Bakery",
+  "city": "Marikina",
+  "country": "Philippines",
+  "placeId": "ChIJhbVUGm-5lzMRyC-b9s9lUWc",
+  "googleName": "Mad Batter Co. Bakery",
+  "formattedAddress": "1800 Mayor Gil Fernando Ave, Cor Mount Vernon St, Marikina, 1801 Metro Manila, Philippines",
+  "phone": "0956 274 2197",
+  "internationalPhone": "+63 956 274 2197",
+  "website": "https://madbatterco.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7444843602890141640",
+  "rating": 4.6,
+  "reviewCount": 16,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.6326374,
+    121.1018541
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mad-batter-co-bakery-marikina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:38.306Z"
+}

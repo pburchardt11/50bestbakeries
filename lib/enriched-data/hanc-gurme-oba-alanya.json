@@ -1,0 +1,45 @@
+{
+  "slug": "hanc-gurme-oba-alanya",
+  "name": "Hancı Gurme Oba",
+  "curatedName": "Hancı Gurme Oba",
+  "city": "Alanya",
+  "country": "Türkiye",
+  "placeId": "ChIJ18hXoaqZ3BQR-GTII5zKqJ0",
+  "googleName": "Hancı Gurme Oba",
+  "formattedAddress": "Oba Mahallesi, Eski Gazipaşa Caddesi No 12, Metro Grosmarket Karşısı, Oba, 07460 Alanya/Antalya, Türkiye",
+  "phone": "(0242) 514 40 40",
+  "internationalPhone": "+90 242 514 40 40",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11360552832006120696",
+  "rating": 4.2,
+  "reviewCount": 583,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.5401189,
+    32.0393343
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hanc-gurme-oba-alanya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:04.293Z"
+}

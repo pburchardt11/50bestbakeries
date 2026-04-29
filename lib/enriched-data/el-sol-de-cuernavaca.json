@@ -1,0 +1,40 @@
+{
+  "slug": "el-sol-de-cuernavaca",
+  "name": "El Sol de Cuernavaca",
+  "curatedName": "El Sol de Cuernavaca",
+  "city": "Cuernavaca",
+  "country": "Mexico",
+  "placeId": "ChIJ72MnRVPezYURiosx6Lg942g",
+  "googleName": "El Sol de Cuernavaca",
+  "formattedAddress": "Calle Gral. H. Galeana 125, Las Palmas, 62050 Cuernavaca, Mor., Mexico",
+  "phone": "777 310 3929",
+  "internationalPhone": "+52 777 310 3929",
+  "website": "https://oem.com.mx/elsoldecuernavaca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7557952464036662154",
+  "rating": 4.4,
+  "reviewCount": 24,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.9124272,
+    -99.2337889
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-sol-de-cuernavaca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:29.004Z"
+}

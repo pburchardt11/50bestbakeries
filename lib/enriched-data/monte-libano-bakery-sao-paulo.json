@@ -1,0 +1,45 @@
+{
+  "slug": "monte-libano-bakery-sao-paulo",
+  "name": "Monte Libano Bakery",
+  "curatedName": "Monte Libano Bakery",
+  "city": "São Paulo",
+  "country": "Brazil",
+  "placeId": "ChIJMwbG4VJZzpQReTT-tYDCxvU",
+  "googleName": "Monte Libano Bakery",
+  "formattedAddress": "Av. Paes de Barros, 1283 - Alto da Mooca, São Paulo - SP, 03115-020, Brazil",
+  "phone": "(11) 2607-8900",
+  "internationalPhone": "+55 11 2607-8900",
+  "website": "http://www.montelibanopaes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17710056442745992313",
+  "rating": 4.4,
+  "reviewCount": 6098,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5652462,
+    -46.594757
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Unfussy bakery serving traditional fare, breakfast & artisanal snacks on housemade breads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/monte-libano-bakery-sao-paulo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:07.567Z"
+}

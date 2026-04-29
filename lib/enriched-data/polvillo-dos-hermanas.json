@@ -1,0 +1,41 @@
+{
+  "slug": "polvillo-dos-hermanas",
+  "name": "Polvillo",
+  "curatedName": "Polvillo",
+  "city": "Dos Hermanas",
+  "country": "Spain",
+  "placeId": "ChIJK7qUQEJwEg0Rlhsv7f8MyMU",
+  "googleName": "Pan De Polvillo",
+  "formattedAddress": "Av. de España, 68, 41704 Dos Hermanas, Sevilla, Spain",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14251655314149415830",
+  "rating": 3.9,
+  "reviewCount": 69,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.2921758,
+    -5.921397199999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM, 6:00 – 9:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM, 6:00 – 9:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM, 6:00 – 9:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM, 6:00 – 9:00 PM",
+    "Friday: 8:00 AM – 3:00 PM, 6:00 – 9:00 PM",
+    "Saturday: 8:30 AM – 2:30 PM",
+    "Sunday: 8:30 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T05:23:06.905Z"
+}

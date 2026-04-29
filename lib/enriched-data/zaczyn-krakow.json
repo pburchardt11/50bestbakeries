@@ -1,0 +1,43 @@
+{
+  "slug": "zaczyn-krakow",
+  "name": "Zaczyn",
+  "curatedName": "Zaczyn",
+  "city": "Kraków",
+  "country": "Poland",
+  "placeId": "ChIJcwnGjnFbFkcRQ9uevyeD0F0",
+  "googleName": "Zaczyn",
+  "formattedAddress": "Tadeusza Kościuszki 27, 30-105 Kraków, Poland",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://piekarnia-zaczyn.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6760047247424936771",
+  "rating": 4.6,
+  "reviewCount": 1435,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.05415439999999,
+    19.9238698
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zaczyn-krakow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:33.208Z"
+}

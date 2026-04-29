@@ -1,0 +1,43 @@
+{
+  "slug": "baked-on-8th-nashville",
+  "name": "Baked on 8th",
+  "curatedName": "Baked on 8th",
+  "city": "Nashville",
+  "country": "United States",
+  "placeId": "ChIJ3QgAmn5mZIgRJdgqGSFd8BE",
+  "googleName": "Baked on 8th",
+  "formattedAddress": "1512 8th Ave S, Nashville, TN 37203, USA",
+  "phone": "(615) 933-1100",
+  "internationalPhone": "+1 615-933-1100",
+  "website": "https://www.bakedon8th.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1292635489792874533",
+  "rating": 4.6,
+  "reviewCount": 586,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.1378631,
+    -86.77841149999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Custom cakes & cookies, pies & other sweets offered in a simple, trendy bakery with eat-in tables.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-on-8th-nashville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:13:53.898Z"
+}

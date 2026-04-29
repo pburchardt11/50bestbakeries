@@ -1,0 +1,32 @@
+{
+  "slug": "cake-bake-amburan-bak",
+  "name": "Cake Bake Amburan",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJzye3TlXxMEARzxaFL6FQeiE",
+  "googleName": "Cake Bake Amburan",
+  "formattedAddress": "Amburan Mall, Bilgah, Azerbaijan",
+  "phone": "(012) 504 60 02",
+  "website": "http://www.fb.com/cakebakebaku",
+  "googleMapsUrl": "https://maps.google.com/?cid=2412329203627529935",
+  "rating": 3.9,
+  "reviewCount": 11,
+  "coords": [
+    40.588498,
+    50.058089
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-bake-amburan-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:34:52.629Z"
+}

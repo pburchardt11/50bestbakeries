@@ -1,0 +1,32 @@
+{
+  "slug": "surdejsbageren-aalborg",
+  "name": "Surdejsbageren",
+  "city": "Aalborg",
+  "country": "Denmark",
+  "placeId": "ChIJH2nvWELNTkYROjAq0h9P44A",
+  "googleName": "The Sourdough Baker Budolfi Plads",
+  "formattedAddress": "Budolfi Pl. 16, 9000 Aalborg, Denmark",
+  "phone": "22 22 77 85",
+  "website": "http://www.surdejsbageren.dk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9287353854656655418",
+  "rating": 4.3,
+  "reviewCount": 230,
+  "coords": [
+    57.04730980000001,
+    9.9183492
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/surdejsbageren-aalborg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:56:25.850Z"
+}

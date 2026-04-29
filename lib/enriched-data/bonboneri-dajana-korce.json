@@ -1,0 +1,32 @@
+{
+  "slug": "bonboneri-dajana-korce",
+  "name": "Bonboneri Dajana",
+  "city": "Korçë",
+  "country": "Albania",
+  "placeId": "ChIJ1aIILyUKWhMRRocsjn5U-zo",
+  "googleName": "Pastiçeri Dajana",
+  "formattedAddress": "Rruga Shoqëria Lira, Korçë 7001, Albania",
+  "phone": "068 288 6653",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4250083575882090310",
+  "rating": 4.5,
+  "reviewCount": 115,
+  "coords": [
+    40.6080124,
+    20.7964157
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bonboneri-dajana-korce/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:54.037Z"
+}

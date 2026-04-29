@@ -1,0 +1,32 @@
+{
+  "slug": "cakelicious-bakery-chang-gewog",
+  "name": "Cakelicious Bakery",
+  "city": "Chang Gewog",
+  "country": "Bhutan",
+  "placeId": "ChIJCTOE-cyV4TkRYojilTuNHmM",
+  "googleName": "Cakelicious Bakery",
+  "formattedAddress": "Dechhen Lam, Thimphu, Bhutan",
+  "phone": "17 89 13 04",
+  "website": "http://www.facebook.com/bakery.cakelicious",
+  "googleMapsUrl": "https://maps.google.com/?cid=7142301346113423458",
+  "rating": 4.6,
+  "reviewCount": 7,
+  "coords": [
+    27.5126683,
+    89.6413536
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakelicious-bakery-chang-gewog/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:09:56.748Z"
+}

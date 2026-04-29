@@ -1,0 +1,43 @@
+{
+  "slug": "aux-merveilleux-de-fred-berlin",
+  "name": "Aux Merveilleux de Fred",
+  "curatedName": "Aux Merveilleux de Fred",
+  "city": "Berlin",
+  "country": "Germany",
+  "placeId": "ChIJzUoQYe9QqEcRtOf6-evzpp8",
+  "googleName": "Aux Merveilleux de Fred",
+  "formattedAddress": "Olivaer Pl. 2, 10707 Berlin, Germany",
+  "phone": "030 89657184",
+  "internationalPhone": "+49 30 89657184",
+  "website": "http://www.auxmerveilleux.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11504150493001344948",
+  "rating": 4.7,
+  "reviewCount": 706,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.499083,
+    13.3131934
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aux-merveilleux-de-fred-berlin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:20.278Z"
+}

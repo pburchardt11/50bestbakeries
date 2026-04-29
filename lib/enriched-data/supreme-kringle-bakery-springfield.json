@@ -1,0 +1,43 @@
+{
+  "slug": "supreme-kringle-bakery-springfield",
+  "name": "Supreme Kringle Bakery",
+  "curatedName": "Supreme Kringle Bakery",
+  "city": "Springfield",
+  "country": "United States",
+  "placeId": "ChIJg-_kPstlz4cRWpoZ-uRFVew",
+  "googleName": "Supreme Kringle Bakery",
+  "formattedAddress": "3314 S National Ave, Springfield, MO 65807, USA",
+  "phone": "(417) 881-5226",
+  "internationalPhone": "+1 417-881-5226",
+  "website": "https://www.facebook.com/Supreme-Kringle-Bakery-118068704877349/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17029594415722240602",
+  "rating": 4.5,
+  "reviewCount": 191,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.1539241,
+    -93.2771854
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/supreme-kringle-bakery-springfield/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:05.763Z"
+}

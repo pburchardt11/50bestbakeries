@@ -1,0 +1,32 @@
+{
+  "slug": "talaat-patisserie-alexandria",
+  "name": "Talaat Patisserie",
+  "city": "Alexandria",
+  "country": "Egypt",
+  "placeId": "ChIJ0xNFDZrE9RQRDVujCqEQ-94",
+  "googleName": "Talaat Patisserie",
+  "formattedAddress": "سموحة - 35 شارع إدمون فيرمون - دوران على بن أبى طالب, عزبة سعد، قسم سيدى جابر، محافظة الإسكندرية 22786, Egypt",
+  "phone": "03 4248933",
+  "website": "https://www.facebook.com/TalaatPatisserie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16067454379428633357",
+  "rating": 4.4,
+  "reviewCount": 1189,
+  "coords": [
+    31.2114881,
+    29.941105
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:30 PM",
+    "Tuesday: 8:00 AM – 11:30 PM",
+    "Wednesday: 8:00 AM – 11:30 PM",
+    "Thursday: 8:00 AM – 11:30 PM",
+    "Friday: 8:00 AM – 11:30 PM",
+    "Saturday: 8:00 AM – 11:30 PM",
+    "Sunday: 8:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/talaat-patisserie-alexandria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:01:44.589Z"
+}

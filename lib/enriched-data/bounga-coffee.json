@@ -1,0 +1,32 @@
+{
+  "slug": "bounga-coffee",
+  "name": "BouNga Coffee",
+  "city": "ខេត្តកំពត",
+  "country": "Cambodia",
+  "placeId": "ChIJ66xxzRW_CTER8kJLSyzlxTE",
+  "googleName": "BouNga Coffee",
+  "formattedAddress": "1311B, Cambodia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3586524656675013362",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    10.6561394,
+    104.6373044
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bounga-coffee/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:31:21.131Z"
+}

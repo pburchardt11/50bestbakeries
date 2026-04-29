@@ -1,0 +1,32 @@
+{
+  "slug": "deli-aysen-aisen",
+  "name": "Deli Aysén",
+  "city": "Aisén",
+  "country": "Chile",
+  "placeId": "ChIJeyPzDTnRjL0RARvJml6HT0o",
+  "googleName": "Delibreak Gourmet",
+  "formattedAddress": "Sgto. Aldea 1385, 6000509 Puerto Aysen, Aysén, Chile",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5354647322360355585",
+  "rating": 4.5,
+  "reviewCount": 55,
+  "coords": [
+    -45.401991,
+    -72.68881499999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 2:30 PM, 3:00 – 8:30 PM",
+    "Tuesday: 9:00 AM – 2:30 PM, 3:00 – 8:30 PM",
+    "Wednesday: 9:00 AM – 2:30 PM, 3:00 – 8:30 PM",
+    "Thursday: 9:00 AM – 2:30 PM, 3:00 – 8:30 PM",
+    "Friday: 9:00 AM – 2:30 PM, 3:00 – 8:30 PM",
+    "Saturday: 9:00 AM – 2:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/deli-aysen-aisen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:42:54.738Z"
+}

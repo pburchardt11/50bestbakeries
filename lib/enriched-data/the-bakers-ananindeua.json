@@ -1,0 +1,33 @@
+{
+  "slug": "the-bakers-ananindeua",
+  "name": "The Bakers",
+  "curatedName": "The Bakers",
+  "city": "Ananindeua",
+  "country": "Brazil",
+  "placeId": "ChIJCbVwdDxgpJIRP6SG-CYJCTY",
+  "googleName": "The Bakers",
+  "formattedAddress": "R. Colômbia, 47 - Coqueiro, Ananindeua - PA, 67115-080, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3893653415821485119",
+  "rating": 4.5,
+  "reviewCount": 4,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -1.3606584,
+    -48.4234888
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T04:20:22.041Z"
+}

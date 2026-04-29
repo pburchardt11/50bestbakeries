@@ -1,0 +1,45 @@
+{
+  "slug": "der-kiezbacker-hamburg",
+  "name": "Der Kiezbäcker",
+  "curatedName": "Der Kiezbäcker",
+  "city": "Hamburg",
+  "country": "Germany",
+  "placeId": "ChIJQ95Q6nGPsUcRJnB1eYoAQB8",
+  "googleName": "Der Kiezbäcker",
+  "formattedAddress": "Silbersackstraße 8, 20359 Hamburg, Germany",
+  "phone": "040 3194455",
+  "internationalPhone": "+49 40 3194455",
+  "website": "http://www.kiezbaecker.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2251800408428474406",
+  "rating": 4.7,
+  "reviewCount": 1969,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.5490589,
+    9.9597067
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 6:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Sandwiches, robust German bread & lavish cakes, plus breakfast, at a simple bakery/cafe.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/der-kiezbacker-hamburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:11.548Z"
+}

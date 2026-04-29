@@ -1,0 +1,44 @@
+{
+  "slug": "suisse-bakery-jakarta",
+  "name": "Suisse Bakery",
+  "curatedName": "Suisse Bakery",
+  "city": "Jakarta",
+  "country": "Indonesia",
+  "placeId": "ChIJ7Uqu-wn2aS4ROdQ18C-CT_s",
+  "googleName": "Suisse Bakery",
+  "formattedAddress": "114 Blok A No, Jl. Hayam Wuruk 5-6, RT.10/RW.9, Maphar, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11180, Indonesia",
+  "phone": "(021) 6393409",
+  "internationalPhone": "+62 21 6393409",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18108835769085187129",
+  "rating": 4.7,
+  "reviewCount": 4958,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.1507216,
+    106.8172899
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Established bakeshop offering familiar eats, including a range of breads, pastries & confections.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/suisse-bakery-jakarta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:19.602Z"
+}

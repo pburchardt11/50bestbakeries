@@ -1,0 +1,45 @@
+{
+  "slug": "paul",
+  "name": "Paul",
+  "curatedName": "Paul",
+  "city": "سلا",
+  "country": "Morocco",
+  "placeId": "ChIJr2OWIJdspw0R20u6rw6tY_g",
+  "googleName": "Paul",
+  "formattedAddress": "Rue Ibn Hanbal, Rabat, Morocco",
+  "phone": "05 37 67 20 00",
+  "internationalPhone": "+212 5 37 67 20 00",
+  "website": "https://paul-maroc.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17898339622689852379",
+  "rating": 3.7,
+  "reviewCount": 2321,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.9894848,
+    -6.8484719
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:20:30.401Z"
+}

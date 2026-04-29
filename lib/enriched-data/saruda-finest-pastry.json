@@ -1,0 +1,43 @@
+{
+  "slug": "saruda-finest-pastry",
+  "name": "Saruda Finest Pastry",
+  "curatedName": "Saruda Finest Pastry",
+  "city": "เชียงใหม่",
+  "country": "Thailand",
+  "placeId": "ChIJPyN2FNA72jARhBa6Zct6-tg",
+  "googleName": "Saruda Finest Pastry",
+  "formattedAddress": "ชั้น G เมญ่า ไลฟ์สไตล์ ชอปปิง เซ็นเตอร์, Huay Kaew Rd, Tambon Chang Phueak, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand",
+  "phone": "063 867 0868",
+  "internationalPhone": "+66 63 867 0868",
+  "website": "https://www.facebook.com/SarudaPastry/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15634944070373742212",
+  "rating": 4.5,
+  "reviewCount": 949,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.8024042,
+    98.9674441
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/saruda-finest-pastry/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:54.125Z"
+}

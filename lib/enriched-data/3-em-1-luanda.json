@@ -1,0 +1,30 @@
+{
+  "slug": "3-em-1-luanda",
+  "name": "3 em 1",
+  "city": "Luanda",
+  "country": "Angola",
+  "placeId": "ChIJ0SJiRqXzURoR-AvDlMN0Ft4",
+  "googleName": "3 Em 1",
+  "formattedAddress": "Luanda, Angola",
+  "phone": "996 386 725",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16003106709270891512",
+  "rating": 3.4,
+  "reviewCount": 17,
+  "coords": [
+    -8.832376199999999,
+    13.2307447
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T06:17:45.221Z"
+}

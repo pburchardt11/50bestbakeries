@@ -1,0 +1,43 @@
+{
+  "slug": "pan-novelo-veracruz",
+  "name": "Pan Novelo",
+  "curatedName": "Pan Novelo",
+  "city": "Veracruz",
+  "country": "Mexico",
+  "placeId": "ChIJY9p3RLZBw4URfX37mX5V4mc",
+  "googleName": "Pan Novelo",
+  "formattedAddress": "Grijalva 144, Reforma, 91919 Veracruz, Ver., Mexico",
+  "phone": "229 937 0776",
+  "internationalPhone": "+52 229 937 0776",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7485639532880821629",
+  "rating": 4.4,
+  "reviewCount": 235,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.1730801,
+    -96.1243229
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:30 PM",
+    "Tuesday: 8:30 AM – 8:30 PM",
+    "Wednesday: 8:30 AM – 8:30 PM",
+    "Thursday: 8:30 AM – 8:30 PM",
+    "Friday: 8:30 AM – 8:30 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-novelo-veracruz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:46.013Z"
+}

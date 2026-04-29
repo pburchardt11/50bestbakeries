@@ -1,0 +1,43 @@
+{
+  "slug": "b-side-bakehouse-richmond",
+  "name": "B-Side Bakehouse",
+  "curatedName": "B-Side Bakehouse",
+  "city": "Richmond",
+  "country": "United States",
+  "placeId": "ChIJDbG2QgATsYkRCM0CgDDCIh4",
+  "googleName": "B-Side Bakehouse",
+  "formattedAddress": "707 N Sheppard St, Richmond, VA 23221, USA",
+  "phone": "(804) 980-1588",
+  "internationalPhone": "+1 804-980-1588",
+  "website": "http://www.bsidebakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2171511483907886344",
+  "rating": 4.9,
+  "reviewCount": 72,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.5610228,
+    -77.4736496
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 2:00 PM",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/b-side-bakehouse-richmond/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:12:57.570Z"
+}

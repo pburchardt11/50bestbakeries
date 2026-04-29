@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-don-parra-cibao-norte",
+  "name": "Panaderia Don Parra",
+  "city": "Cibao Norte",
+  "country": "Dominican Republic",
+  "placeId": "ChIJdb9u4aTFsY4R8ZeiJjRqYig",
+  "googleName": "Panaderia Don Parra",
+  "formattedAddress": "F8PC+97R, Santiago de los Caballeros 51000, Dominican Republic",
+  "phone": "(809) 587-3516",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2910005081453795313",
+  "rating": 4.2,
+  "reviewCount": 98,
+  "coords": [
+    19.4859853,
+    -70.67937429999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-don-parra-cibao-norte/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:57:45.824Z"
+}

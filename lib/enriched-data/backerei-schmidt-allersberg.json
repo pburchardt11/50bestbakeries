@@ -1,0 +1,45 @@
+{
+  "slug": "backerei-schmidt-allersberg",
+  "name": "Bäckerei Schmidt",
+  "curatedName": "Bäckerei Schmidt",
+  "city": "Allersberg",
+  "country": "Germany",
+  "placeId": "ChIJEZeraW5Cn0cRVDOUv_bqFaw",
+  "googleName": "Bäckerei Schmidt",
+  "formattedAddress": "Bahnhofstraße 1, 90584 Allersberg, Germany",
+  "phone": "09176 5333",
+  "internationalPhone": "+49 9176 5333",
+  "website": "https://schmidtgenuss.de/standorte.html?view=article&id=161&catid=26",
+  "googleMapsUrl": "https://maps.google.com/?cid=12400075494531543892",
+  "rating": 4.5,
+  "reviewCount": 118,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.2517846,
+    11.2384668
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 1:00 PM",
+    "Tuesday: 6:00 AM – 1:00 PM",
+    "Wednesday: 6:00 AM – 1:00 PM",
+    "Thursday: 6:00 AM – 1:00 PM",
+    "Friday: 6:00 AM – 1:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: 7:00 – 11:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-schmidt-allersberg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:21:18.712Z"
+}

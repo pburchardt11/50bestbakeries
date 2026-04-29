@@ -1,0 +1,43 @@
+{
+  "slug": "la-pasteleria-sweet-bakery-leon",
+  "name": "La Pastelería Sweet Bakery",
+  "curatedName": "La Pastelería Sweet Bakery",
+  "city": "León",
+  "country": "Mexico",
+  "placeId": "ChIJ624f6I_HK4QRZ8X3bU-SpnQ",
+  "googleName": "La Pastelería Sweet Bakery",
+  "formattedAddress": "Blvd. Colina de Gran Jdn. 603, Lomas del Gran Jardin, 37134 León de los Aldama, Gto., Mexico",
+  "phone": "477 101 3499",
+  "internationalPhone": "+52 477 101 3499",
+  "website": "http://www.la-pasteleria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8405566624378635623",
+  "rating": 4.9,
+  "reviewCount": 15,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1895849,
+    -101.7173078
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 8:00 PM",
+    "Tuesday: 12:00 – 8:00 PM",
+    "Wednesday: 12:00 – 8:00 PM",
+    "Thursday: 12:00 – 8:00 PM",
+    "Friday: 12:00 – 8:00 PM",
+    "Saturday: 12:00 – 8:00 PM",
+    "Sunday: 12:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-pasteleria-sweet-bakery-leon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:14.493Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "la-napoleona-pasteleria-campeche",
+  "name": "La Napoleona Pastelería",
+  "curatedName": "La Napoleona Pastelería",
+  "city": "Campeche",
+  "country": "Mexico",
+  "placeId": "ChIJeXU6TRoz-IURqjGJjJLoBG8",
+  "googleName": "La Napoleona Pastelería",
+  "formattedAddress": "Roman Piña Chan Manzana 27 Lote 4, Guadalupe, Área Ah, 24010 San Francisco de Campeche, Camp., Mexico",
+  "phone": "981 181 0840",
+  "internationalPhone": "+52 981 181 0840",
+  "website": "https://www.facebook.com/lanapoleona.pasteleria/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7999774554237514154",
+  "rating": 4.7,
+  "reviewCount": 17,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.8499856,
+    -90.5316023
+  ],
+  "openingHours": [
+    "Monday: 9:15 AM – 8:45 PM",
+    "Tuesday: 9:15 AM – 8:45 PM",
+    "Wednesday: 9:15 AM – 8:45 PM",
+    "Thursday: 9:15 AM – 8:45 PM",
+    "Friday: 9:15 AM – 8:45 PM",
+    "Saturday: 9:15 AM – 8:45 PM",
+    "Sunday: 9:15 AM – 8:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-napoleona-pasteleria-campeche/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:48.469Z"
+}

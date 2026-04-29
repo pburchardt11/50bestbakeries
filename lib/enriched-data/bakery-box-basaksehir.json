@@ -1,0 +1,44 @@
+{
+  "slug": "bakery-box-basaksehir",
+  "name": "Bakery Box",
+  "curatedName": "Bakery Box",
+  "city": "Başakşehir",
+  "country": "Türkiye",
+  "placeId": "ChIJxwaOayOvyhQRv2GBDblF8WA",
+  "googleName": "Bakery Box ,Cafe & Bakery",
+  "formattedAddress": "Kayabaşı, 34494 Başakşehir/İstanbul, Türkiye",
+  "phone": "0530 426 09 70",
+  "internationalPhone": "+90 530 426 09 70",
+  "website": "https://www.instagram.com/bakerybox.coffee/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6985441158126199231",
+  "rating": 4.5,
+  "reviewCount": 486,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1202557,
+    28.7672256
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-box-basaksehir/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:03:53.372Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "backerei-schneider-aldenhoven",
+  "name": "Bäckerei Schneider",
+  "curatedName": "Bäckerei Schneider",
+  "city": "Aldenhoven",
+  "country": "Germany",
+  "placeId": "ChIJZxY_WO-hwEcRuRFwgIcG0iQ",
+  "googleName": "Bäckerei Schneider GmbH",
+  "formattedAddress": "Mühlenstraße 56, 52457 Aldenhoven, Germany",
+  "phone": "02464 5872013",
+  "internationalPhone": "+49 2464 5872013",
+  "website": "https://www.baecker-schneider.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2653190309519823289",
+  "rating": 4.5,
+  "reviewCount": 112,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.89895509999999,
+    6.234192699999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-schneider-aldenhoven/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:21:16.370Z"
+}

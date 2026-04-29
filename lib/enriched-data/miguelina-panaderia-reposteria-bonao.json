@@ -1,0 +1,32 @@
+{
+  "slug": "miguelina-panaderia-reposteria-bonao",
+  "name": "Miguelina Panadería & Repostería",
+  "city": "Bonao",
+  "country": "Dominican Republic",
+  "placeId": "ChIJuRhwEqbfr44RBiuf0vn_PSs",
+  "googleName": "Panadería y Repostería Miguelina",
+  "formattedAddress": "Calle Duarte 124, Bonao 42000, Dominican Republic",
+  "phone": "(809) 525-3546",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3115927965655837446",
+  "rating": 4.1,
+  "reviewCount": 76,
+  "coords": [
+    18.9431033,
+    -70.4104365
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/miguelina-panaderia-reposteria-bonao/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:57:26.928Z"
+}

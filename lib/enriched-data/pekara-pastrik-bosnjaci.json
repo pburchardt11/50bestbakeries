@@ -1,0 +1,30 @@
+{
+  "slug": "pekara-pastrik-bosnjaci",
+  "name": "Pekara Paštrik",
+  "city": "Bošnjaci",
+  "country": "Croatia",
+  "placeId": "ChIJXTBHqexuXEcRxAfFpozxS4c",
+  "googleName": "Pekara Paštrik",
+  "formattedAddress": "32275, Bošnjaci, Croatia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9749151404769216452",
+  "rating": 3.6,
+  "reviewCount": 8,
+  "coords": [
+    45.0509639,
+    18.7543896
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:49:30.527Z"
+}

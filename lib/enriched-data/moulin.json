@@ -1,0 +1,32 @@
+{
+  "slug": "moulin",
+  "name": "Moulin",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJE7xeDIbQ20YRxbswtA-FEyo",
+  "googleName": "Moulin",
+  "formattedAddress": "vulica Jana Čačota 7, Minsk, Minskaja voblasć, Belarus",
+  "phone": "8 044 796-74-33",
+  "website": "https://www.facebook.com/Moulin-135515166630523/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3031913276644572101",
+  "rating": 4.6,
+  "reviewCount": 1023,
+  "coords": [
+    53.8497608,
+    27.4779943
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:30 PM",
+    "Tuesday: 7:30 AM – 9:30 PM",
+    "Wednesday: 7:30 AM – 9:30 PM",
+    "Thursday: 7:30 AM – 9:30 PM",
+    "Friday: 7:30 AM – 9:30 PM",
+    "Saturday: 7:30 AM – 9:30 PM",
+    "Sunday: 7:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moulin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:02:40.902Z"
+}

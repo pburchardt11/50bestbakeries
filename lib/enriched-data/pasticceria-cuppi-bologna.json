@@ -1,0 +1,43 @@
+{
+  "slug": "pasticceria-cuppi-bologna",
+  "name": "Pasticceria Cuppi",
+  "curatedName": "Pasticceria Cuppi",
+  "city": "Bologna",
+  "country": "Italy",
+  "placeId": "ChIJ882Xr5_Uf0cRSNJdB1f0FGc",
+  "googleName": "Pasticceria Cuppi",
+  "formattedAddress": "Via Giacomo Matteotti, 20d, 40129 Bologna BO, Italy",
+  "phone": "051 353576",
+  "internationalPhone": "+39 051 353576",
+  "website": "https://www.pasticceriacuppi.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7427830340063711816",
+  "rating": 4.4,
+  "reviewCount": 1693,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.50867420000001,
+    11.3465071
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:30 AM – 7:30 PM",
+    "Wednesday: 6:30 AM – 7:30 PM",
+    "Thursday: 6:30 AM – 7:30 PM",
+    "Friday: 6:30 AM – 7:30 PM",
+    "Saturday: 6:30 AM – 7:30 PM",
+    "Sunday: 6:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": "Housemade pastries, cakes & coffees are offered in this understated destination.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-cuppi-bologna/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:54.443Z"
+}

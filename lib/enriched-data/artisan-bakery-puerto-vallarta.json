@@ -1,0 +1,43 @@
+{
+  "slug": "artisan-bakery-puerto-vallarta",
+  "name": "Artisan Bakery",
+  "curatedName": "Artisan Bakery",
+  "city": "Puerto Vallarta",
+  "country": "Mexico",
+  "placeId": "ChIJs5HMuWRFIYQR3P-k07A4Ops",
+  "googleName": "Artisan Bakery",
+  "formattedAddress": "Aldanaca 178, Versalles, 48310 Puerto Vallarta, Jal., Mexico",
+  "phone": "322 223 8283",
+  "internationalPhone": "+52 322 223 8283",
+  "website": "https://www.flowcode.com/page/artisanbakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=11185314956644253660",
+  "rating": 4.5,
+  "reviewCount": 222,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.6351173,
+    -105.2266226
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artisan-bakery-puerto-vallarta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:06.165Z"
+}

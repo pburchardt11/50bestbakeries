@@ -1,0 +1,43 @@
+{
+  "slug": "flor-de-trigo-foz-do-iguacu",
+  "name": "Flor de Trigo",
+  "curatedName": "Flor de Trigo",
+  "city": "Foz do Iguaçu",
+  "country": "Brazil",
+  "placeId": "ChIJDVHPigSb9pQRK9ojaSEvQsE",
+  "googleName": "Flor de Trigo",
+  "formattedAddress": "Av. Garibaldi, 1192 - Vila Residencial A, Foz do Iguaçu - PR, 85861-528, Brazil",
+  "phone": "(45) 3198-0366",
+  "internationalPhone": "+55 45 3198-0366",
+  "website": "https://www.instagram.com/flordetrigo.foz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13925744818327378475",
+  "rating": 4.7,
+  "reviewCount": 140,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.5000464,
+    -54.5567341
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flor-de-trigo-foz-do-iguacu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:12.930Z"
+}

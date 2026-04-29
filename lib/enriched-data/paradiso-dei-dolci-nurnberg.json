@@ -1,0 +1,43 @@
+{
+  "slug": "paradiso-dei-dolci-nurnberg",
+  "name": "Paradiso dei Dolci",
+  "curatedName": "Paradiso dei Dolci",
+  "city": "Nürnberg",
+  "country": "Germany",
+  "placeId": "ChIJ377Go7xXn0cR4Y8s6aEFitk",
+  "googleName": "Paradiso dei Dolci",
+  "formattedAddress": "Äußere Laufer G. 24, 90403 Nürnberg, Germany",
+  "phone": "0911 95648924",
+  "internationalPhone": "+49 911 95648924",
+  "website": "https://paradisodeidolci.de/?y_source=1_OTgwNDY3NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://maps.google.com/?cid=15675347645976317921",
+  "rating": 4.6,
+  "reviewCount": 799,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.456724,
+    11.085751
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paradiso-dei-dolci-nurnberg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:23.609Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "city-bakery-mumbai",
+  "name": "City Bakery",
+  "curatedName": "City Bakery",
+  "city": "Mumbai",
+  "country": "India",
+  "placeId": "ChIJrZ8o4Y_O5zsRDilp54GzwWw",
+  "googleName": "City Bakery",
+  "formattedAddress": "204, Dr Annie Besant Rd, Worli Naka, BDD Chawls Worli, Worli, Mumbai, Maharashtra 400018, India",
+  "phone": "088791 59569",
+  "internationalPhone": "+91 88791 59569",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7836742197115955470",
+  "rating": 4.3,
+  "reviewCount": 4616,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.9998576,
+    72.8169724
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 10:00 PM",
+    "Tuesday: 5:00 AM – 10:00 PM",
+    "Wednesday: 5:00 AM – 10:00 PM",
+    "Thursday: 5:00 AM – 10:00 PM",
+    "Friday: 5:00 AM – 10:00 PM",
+    "Saturday: 5:00 AM – 10:00 PM",
+    "Sunday: 5:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/city-bakery-mumbai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:36.657Z"
+}

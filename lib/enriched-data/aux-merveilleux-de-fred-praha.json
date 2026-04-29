@@ -1,0 +1,43 @@
+{
+  "slug": "aux-merveilleux-de-fred-praha",
+  "name": "Aux Merveilleux de Fred",
+  "curatedName": "Aux Merveilleux de Fred",
+  "city": "Praha",
+  "country": "Czech Republic",
+  "placeId": "ChIJbXDVreyVC0cRRhZDcpMj2ow",
+  "googleName": "Aux Merveilleux de Fred",
+  "formattedAddress": "Revoluční 1082/8, Nové Město, 110 00 Praha-Praha 1, Czechia",
+  "phone": "728 721 595",
+  "internationalPhone": "+420 728 721 595",
+  "website": "https://auxmerveilleux.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10149463826416997958",
+  "rating": 4.8,
+  "reviewCount": 1512,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.090185,
+    14.4281257
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aux-merveilleux-de-fred-praha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:16.380Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "nava-del-rey-tlalpan",
+  "name": "Nava del rey",
+  "curatedName": "Nava del rey",
+  "city": "Tlalpan",
+  "country": "Mexico",
+  "placeId": "ChIJj8N0FHQA0oUREWHzGjrFO9k",
+  "googleName": "Nava del rey",
+  "formattedAddress": "Viad. Tlalpan 841, Niño Jesús, Tlalpan, 14080 Ciudad de México, CDMX, Mexico",
+  "phone": "55 5573 7268",
+  "internationalPhone": "+52 55 5573 7268",
+  "website": "http://www.navadelrey.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15653321783207223569",
+  "rating": 4.2,
+  "reviewCount": 360,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.2862407,
+    -99.15810239999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nava-del-rey-tlalpan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:40.792Z"
+}

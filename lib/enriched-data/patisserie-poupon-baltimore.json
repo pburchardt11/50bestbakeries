@@ -1,0 +1,43 @@
+{
+  "slug": "patisserie-poupon-baltimore",
+  "name": "Patisserie Poupon",
+  "curatedName": "Patisserie Poupon",
+  "city": "Baltimore",
+  "country": "United States",
+  "placeId": "ChIJGfogF4MEyIkRc4a9uSreCpk",
+  "googleName": "Patisserie Poupon",
+  "formattedAddress": "820 E Baltimore St, Baltimore, MD 21202, USA",
+  "phone": "(410) 332-0390",
+  "internationalPhone": "+1 410-332-0390",
+  "website": "http://www.patisseriepoupon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11027870912656279155",
+  "rating": 4.6,
+  "reviewCount": 566,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.2902965,
+    -76.6048416
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Croissants, macarons, cakes & sandwiches in a cozy, French-inspired cafe with a coffee bar.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-poupon-baltimore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:13:41.237Z"
+}

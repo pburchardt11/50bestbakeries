@@ -1,0 +1,45 @@
+{
+  "slug": "7th-heaven-howrah",
+  "name": "7th Heaven",
+  "curatedName": "7th Heaven",
+  "city": "Howrah",
+  "country": "India",
+  "placeId": "ChIJ_6FXPLZ3AjoR4C3JDumbmLI",
+  "googleName": "7th Heaven",
+  "formattedAddress": "1, Watkins Ln, P.S:, Golabari, Mali Panchghara, Howrah, West Bengal 711101, India",
+  "phone": "098317 02777",
+  "internationalPhone": "+91 98317 02777",
+  "website": "http://greenmeals.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12869207360488943072",
+  "rating": 4.3,
+  "reviewCount": 635,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.5927049,
+    88.3412632
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:30 AM",
+    "Tuesday: 9:00 AM – 12:30 AM",
+    "Wednesday: 9:00 AM – 12:30 AM",
+    "Thursday: 9:00 AM – 12:30 AM",
+    "Friday: 9:00 AM – 12:30 AM",
+    "Saturday: 9:00 AM – 12:30 AM",
+    "Sunday: 9:00 AM – 12:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/7th-heaven-howrah/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:20.773Z"
+}

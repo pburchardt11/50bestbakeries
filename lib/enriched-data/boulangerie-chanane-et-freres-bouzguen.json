@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-chanane-et-freres-bouzguen",
+  "name": "Boulangerie Chanane et Freres",
+  "city": "Bouzguen",
+  "country": "Algeria",
+  "placeId": "ChIJr9bpHVMHjRIRp-OuJd8RphM",
+  "googleName": "Boulangerie Chanane et Fréres",
+  "formattedAddress": "Village ighil Tizi boua, Bouzeguène 15009, Algeria",
+  "phone": "0771 74 77 75",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1415838782962197415",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    36.6358129,
+    4.4576962
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 PM, 4:00 – 8:00 PM",
+    "Tuesday: 6:00 AM – 12:00 PM, 4:00 – 8:00 PM",
+    "Wednesday: 6:00 AM – 12:00 PM, 4:00 – 8:00 PM",
+    "Thursday: 6:30 AM – 12:00 PM",
+    "Friday: Closed",
+    "Saturday: 6:00 AM – 12:00 PM, 4:00 – 8:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM, 4:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-chanane-et-freres-bouzguen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:16:20.994Z"
+}

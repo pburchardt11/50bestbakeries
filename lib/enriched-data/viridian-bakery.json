@@ -1,0 +1,24 @@
+{
+  "slug": "viridian-bakery",
+  "name": "Viridian Bakery",
+  "city": "الجنبية",
+  "country": "Bahrain",
+  "placeId": "ChIJ066ifBCxST4RcFBmeeVMzt4",
+  "googleName": "VIRIDIAN",
+  "formattedAddress": "Unnamed Road, Janabiyah, Bahrain",
+  "phone": "1754 0799",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16054854270090367088",
+  "rating": 5,
+  "reviewCount": 42,
+  "coords": [
+    26.1723039,
+    50.4826269
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/viridian-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:45:51.160Z"
+}

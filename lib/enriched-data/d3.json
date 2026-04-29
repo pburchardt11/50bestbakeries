@@ -1,0 +1,32 @@
+{
+  "slug": "d3",
+  "name": "«» D3",
+  "city": "Минск",
+  "country": "Belarus",
+  "placeId": "ChIJpXXa6vrE20YRsxWrV75cECo",
+  "googleName": "Residential complex D3",
+  "formattedAddress": "Praspiekt Pieramožcaŭ 135, Minsk, Minskaja voblasć, Belarus",
+  "phone": "8 044 766-63-33",
+  "website": "http://d-3.by/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3031024521804715443",
+  "rating": 4.5,
+  "reviewCount": 33,
+  "coords": [
+    53.9433264,
+    27.4614402
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/d3/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:59:38.422Z"
+}

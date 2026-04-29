@@ -1,0 +1,43 @@
+{
+  "slug": "baked-by-manushi-ahmedabad",
+  "name": "Baked by Manushi",
+  "curatedName": "Baked by Manushi",
+  "city": "Ahmedabad",
+  "country": "India",
+  "placeId": "ChIJfz6ZC1CFXjkRJNowYzp0pu8",
+  "googleName": "Baked by Manushi",
+  "formattedAddress": "Sun Gravitas, 119, opp. Ganesh Gruh Udyog, Rajmani Society, Shyamal, Ahmedabad, Gujarat 380015, India",
+  "phone": "094266 61908",
+  "internationalPhone": "+91 94266 61908",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17268617615319816740",
+  "rating": 4.8,
+  "reviewCount": 261,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.0108839,
+    72.5307888
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-by-manushi-ahmedabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:52.693Z"
+}

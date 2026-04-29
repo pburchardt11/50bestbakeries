@@ -1,0 +1,44 @@
+{
+  "slug": "mignon-patisserie-cuauhtemoc",
+  "name": "Mignon Patisserie",
+  "curatedName": "Mignon Patisserie",
+  "city": "Cuauhtémoc",
+  "country": "Mexico",
+  "placeId": "ChIJgTqFaXb_0YURHXuoPoYdvPo",
+  "googleName": "Mignon Pâtisserie",
+  "formattedAddress": "Río Nazas 100, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
+  "phone": "55 1756 0436",
+  "internationalPhone": "+52 55 1756 0436",
+  "website": "https://www.instagram.com/mignon_patisserie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18067348267517639453",
+  "rating": 4.4,
+  "reviewCount": 382,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4314564,
+    -99.16869500000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 8:00 PM",
+    "Wednesday: 8:30 AM – 8:00 PM",
+    "Thursday: 8:30 AM – 8:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mignon-patisserie-cuauhtemoc/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:19.346Z"
+}

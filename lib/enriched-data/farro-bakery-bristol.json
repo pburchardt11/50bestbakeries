@@ -1,0 +1,44 @@
+{
+  "slug": "farro-bakery-bristol",
+  "name": "Farro Bakery",
+  "curatedName": "Farro Bakery",
+  "city": "Bristol",
+  "country": "United Kingdom",
+  "placeId": "ChIJJWi8dVaPcUgRiRHNCK7zgkA",
+  "googleName": "Farro Bakery",
+  "formattedAddress": "Facing onto Bond St, 1 Brunswick Square, St Paul's, Bristol BS2 8PE, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.farro.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4648545694197289353",
+  "rating": 4.8,
+  "reviewCount": 751,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.4595598,
+    -2.5879186
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farro-bakery-bristol/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:12.346Z"
+}

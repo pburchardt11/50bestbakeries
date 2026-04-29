@@ -1,0 +1,32 @@
+{
+  "slug": "pastelaria-morabeza-mindelo",
+  "name": "Pastelaria Morabeza",
+  "city": "Mindelo",
+  "country": "Cape Verde",
+  "placeId": "ChIJZdeeEy8fTwkRwibehOsl1lg",
+  "googleName": "Pastelaria Morabeza",
+  "formattedAddress": "Mindelo 3000, Ave Baltazar Lopes da Silva, Mindelo, Cabo Verde",
+  "phone": "231 30 82",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6401345613830432450",
+  "rating": 4.3,
+  "reviewCount": 903,
+  "coords": [
+    16.8877535,
+    -24.9870344
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelaria-morabeza-mindelo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:40:20.106Z"
+}

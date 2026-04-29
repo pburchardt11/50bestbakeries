@@ -1,0 +1,43 @@
+{
+  "slug": "angelica-bakeshop-cebu-city",
+  "name": "Angelica Bakeshop",
+  "curatedName": "Angelica Bakeshop",
+  "city": "Cebu City",
+  "country": "Philippines",
+  "placeId": "ChIJ6R34WFCZqTMRvdumS8dfsjQ",
+  "googleName": "Angelica Bakeshop",
+  "formattedAddress": "Osmeña Blvd, Cebu City, 6000 Cebu, Philippines",
+  "phone": "(032) 412 6003",
+  "internationalPhone": "+63 32 412 6003",
+  "website": "https://www.facebook.com/Angelica-Bakeshop-Cebu-522936311122725/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3797202745399106493",
+  "rating": 4.4,
+  "reviewCount": 202,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.3054239,
+    123.8948943
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:30 PM",
+    "Tuesday: 8:30 AM – 5:30 PM",
+    "Wednesday: 8:30 AM – 5:30 PM",
+    "Thursday: 8:30 AM – 5:30 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 5:30 PM",
+    "Sunday: 8:30 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/angelica-bakeshop-cebu-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:22.933Z"
+}

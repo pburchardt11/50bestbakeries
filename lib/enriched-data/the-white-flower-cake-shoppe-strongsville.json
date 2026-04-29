@@ -1,0 +1,43 @@
+{
+  "slug": "the-white-flower-cake-shoppe-strongsville",
+  "name": "The White Flower Cake Shoppe",
+  "curatedName": "The White Flower Cake Shoppe",
+  "city": "Strongsville",
+  "country": "United States",
+  "placeId": "ChIJAWpXKPLBMIgRQNNm8GUt5lA",
+  "googleName": "The White Flower Cake Shoppe",
+  "formattedAddress": "15131 Pearl Rd, Strongsville, OH 44136, USA",
+  "phone": "(440) 638-4871",
+  "internationalPhone": "+1 440-638-4871",
+  "website": "http://www.whiteflowercake.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5829396683525903168",
+  "rating": 4.7,
+  "reviewCount": 49,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.3065168,
+    -81.83350240000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-white-flower-cake-shoppe-strongsville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:14:10.755Z"
+}

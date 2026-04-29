@@ -1,0 +1,43 @@
+{
+  "slug": "oh-faon-marseille",
+  "name": "Oh Faon",
+  "curatedName": "Oh Faon",
+  "city": "Marseille",
+  "country": "France",
+  "placeId": "ChIJ8V1fK97ByRIRRgUVU8YJHks",
+  "googleName": "Oh Faon !",
+  "formattedAddress": "6 Rue Edmond Rostand, 13006 Marseille, France",
+  "phone": "04 91 58 74 82",
+  "internationalPhone": "+33 4 91 58 74 82",
+  "website": "http://www.ohfaon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5412774549547976006",
+  "rating": 4.8,
+  "reviewCount": 1185,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.2897156,
+    5.379655899999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:30 AM – 7:00 PM",
+    "Wednesday: 9:30 AM – 7:00 PM",
+    "Thursday: 9:30 AM – 7:00 PM",
+    "Friday: 9:30 AM – 7:00 PM",
+    "Saturday: 9:30 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oh-faon-marseille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:42.285Z"
+}

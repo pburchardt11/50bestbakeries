@@ -1,0 +1,44 @@
+{
+  "slug": "tiem-banh-trieu-patisserie-quan-hoan-kiem",
+  "name": "Tiệm bánh Triều Patisserie",
+  "curatedName": "Tiệm bánh Triều Patisserie",
+  "city": "Quận Hoàn Kiếm",
+  "country": "Vietnam",
+  "placeId": "ChIJM3lzuMyrNTERyBL5V0Y4V4Q",
+  "googleName": "Tiệm bánh Triều Patisserie",
+  "formattedAddress": "23 P. Hàng Nón, Hàng Gai, Hoàn Kiếm, Hà Nội, Vietnam",
+  "phone": "0906 053 366",
+  "internationalPhone": "+84 906 053 366",
+  "website": "https://www.facebook.com/TrieuPatisserie",
+  "googleMapsUrl": "https://maps.google.com/?cid=9536152610755121864",
+  "rating": 4.6,
+  "reviewCount": 561,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0323939,
+    105.8478906
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 7:30 PM",
+    "Sunday: 7:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiem-banh-trieu-patisserie-quan-hoan-kiem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:36.393Z"
+}

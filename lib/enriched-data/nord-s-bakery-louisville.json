@@ -1,0 +1,43 @@
+{
+  "slug": "nord-s-bakery-louisville",
+  "name": "Nord's Bakery",
+  "curatedName": "Nord's Bakery",
+  "city": "Louisville",
+  "country": "United States",
+  "placeId": "ChIJ8TfAOxUNaYgRwsy-fjaRGa8",
+  "googleName": "Nord's Bakery",
+  "formattedAddress": "2118 S Preston St, Louisville, KY 40217, USA",
+  "phone": "(502) 634-0931",
+  "internationalPhone": "+1 502-634-0931",
+  "website": "http://www.nordsbakery.biz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12617275494295850178",
+  "rating": 4.8,
+  "reviewCount": 1747,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.2167866,
+    -85.74544709999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 PM",
+    "Tuesday: 6:00 AM – 2:00 PM",
+    "Wednesday: 6:00 AM – 2:00 PM",
+    "Thursday: 6:00 AM – 2:00 PM",
+    "Friday: 6:00 AM – 2:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: 6:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Corner bakeshop crafting made-to-order wedding cakes, donuts & other confections in snug confines.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nord-s-bakery-louisville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:09.727Z"
+}

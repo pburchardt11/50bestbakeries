@@ -1,0 +1,45 @@
+{
+  "slug": "tous-les-jours-indianapolis",
+  "name": "Tous Les Jours",
+  "curatedName": "Tous Les Jours",
+  "city": "Indianapolis",
+  "country": "United States",
+  "placeId": "ChIJt6BDUfNNa4gRsiAw_BnZDSU",
+  "googleName": "Tous Les Jours",
+  "formattedAddress": "8448 Center Run Dr, Indianapolis, IN 46250, USA",
+  "phone": "(317) 516-5751",
+  "internationalPhone": "+1 317-516-5751",
+  "website": "http://tljus.com/stores/indianapolis-8448-center-run-dr?utm_source=google&utm_medium=gbp&utm_campaign=castleton",
+  "googleMapsUrl": "https://maps.google.com/?cid=2670028859728994482",
+  "rating": 4.6,
+  "reviewCount": 117,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.9100382,
+    -86.0583564
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-indianapolis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:12:38.800Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "horno-y-pasteleria-alfonso-martinez-valencia",
+  "name": "Horno y Pasteleria Alfonso Martinez",
+  "curatedName": "Horno y Pasteleria Alfonso Martinez",
+  "city": "València",
+  "country": "Spain",
+  "placeId": "ChIJqz89vU1PYA0RP-Hf5BHkzgk",
+  "googleName": "Horno y Pastelería Alfonso Martínez",
+  "formattedAddress": "Horno Pastelería Alfonso Martinez, C/ d'Ercilla, 17, Ciutat Vella, 46001 València, Valencia, Spain",
+  "phone": "963 91 60 79",
+  "internationalPhone": "+34 963 91 60 79",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=706752957049200959",
+  "rating": 4.6,
+  "reviewCount": 347,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.4740682,
+    -0.3778465
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM, 5:00 – 8:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM, 5:00 – 8:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM, 5:00 – 8:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM, 5:00 – 8:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/horno-y-pasteleria-alfonso-martinez-valencia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:37:59.986Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bakkerij-snack-can-aalst",
+  "name": "Bakkerij & snack Can",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJibLb-FW9w0cR6MpSbF_mBqc",
+  "googleName": "Can Snack",
+  "formattedAddress": "Meuleschettestraat 86, 9300 Aalst, Belgium",
+  "phone": "053 57 02 54",
+  "website": "https://shop.easyorderapp.com/snack-can/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12035560351707876072",
+  "rating": 3.6,
+  "reviewCount": 41,
+  "coords": [
+    50.9429064,
+    4.0288028
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 2:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-snack-can-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:04:52.310Z"
+}

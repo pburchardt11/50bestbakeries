@@ -1,0 +1,32 @@
+{
+  "slug": "quality-target-alexandria",
+  "name": "Quality Target",
+  "city": "Alexandria",
+  "country": "Egypt",
+  "placeId": "ChIJyzN8DViJ9RQR9P6tZxgFsMw",
+  "googleName": "Quality Target Company",
+  "formattedAddress": "جنوب المنطقة الصناعية الاولي بلوك ٢ قطعة ٢٦، Hod Sakrah WA Abu Hamad, Borg El Arab, Alexandria Governorate 5222101, Egypt",
+  "phone": "03 4621065",
+  "website": "http://www.qualitytarget-eg.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14749294382015184628",
+  "rating": 4.4,
+  "reviewCount": 33,
+  "coords": [
+    30.8875313,
+    29.5925045
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:00 PM",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: Closed",
+    "Saturday: Closed",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/quality-target-alexandria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:01:37.801Z"
+}

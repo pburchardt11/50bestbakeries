@@ -1,0 +1,32 @@
+{
+  "slug": "summer-vibes",
+  "name": "Summer Vibes",
+  "city": "Бяла",
+  "country": "Bulgaria",
+  "placeId": "ChIJ4x9pAwA9pEARAQGORazoD60",
+  "googleName": "Summer Vibes",
+  "formattedAddress": "ул. Черноморка 16, 9101 Byala, Bulgaria",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12470441719811145985",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    42.8749988,
+    27.8890092
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 9:30 PM",
+    "Tuesday: 9:30 AM – 9:30 PM",
+    "Wednesday: 9:30 AM – 9:30 PM",
+    "Thursday: 9:30 AM – 9:30 PM",
+    "Friday: 9:30 AM – 9:30 PM",
+    "Saturday: 9:30 AM – 9:30 PM",
+    "Sunday: 9:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/summer-vibes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:28:08.542Z"
+}

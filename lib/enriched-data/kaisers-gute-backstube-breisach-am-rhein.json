@@ -1,0 +1,45 @@
+{
+  "slug": "kaisers-gute-backstube-breisach-am-rhein",
+  "name": "Kaisers Gute Backstube",
+  "curatedName": "Kaisers Gute Backstube",
+  "city": "Breisach am Rhein",
+  "country": "Germany",
+  "placeId": "ChIJJ7PudiATkUcRfcVF39dvOeQ",
+  "googleName": "Kaisers Gute Backstube \"Brot trifft Baguette\"",
+  "formattedAddress": "Zur Rheinbrücke 21, 79206 Breisach am Rhein, Germany",
+  "phone": "07667 929575",
+  "internationalPhone": "+49 7667 929575",
+  "website": "https://www.kaisers-backstube.de/standorte/breisach/brot-trifft-baguette.html",
+  "googleMapsUrl": "https://maps.google.com/?cid=16445298487274620285",
+  "rating": 4.3,
+  "reviewCount": 572,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.0242286,
+    7.5853696
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaisers-gute-backstube-breisach-am-rhein/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:21:02.647Z"
+}

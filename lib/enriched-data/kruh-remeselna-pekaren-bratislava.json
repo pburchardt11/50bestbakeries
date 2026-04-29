@@ -1,0 +1,43 @@
+{
+  "slug": "kruh-remeselna-pekaren-bratislava",
+  "name": "KRUH remeselná pekáreň",
+  "curatedName": "KRUH remeselná pekáreň",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJb-LxTy6PbEcR_ahiFYoCnAI",
+  "googleName": "KRUH remeselná pekáreň",
+  "formattedAddress": "Vajnorská 21, 831 03 Bratislava, Slovakia",
+  "phone": "0915 512 230",
+  "internationalPhone": "+421 915 512 230",
+  "website": "https://www.kruhpekaren.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=188028076530247933",
+  "rating": 4.7,
+  "reviewCount": 1182,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.1612715,
+    17.1307057
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kruh-remeselna-pekaren-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:38.837Z"
+}

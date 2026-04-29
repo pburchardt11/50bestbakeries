@@ -1,0 +1,30 @@
+{
+  "slug": "amoris-baku-bak",
+  "name": "Amoris Baku",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJEw0MWQR9MEARzVgZSREv4SQ",
+  "googleName": "Amoris MMC",
+  "formattedAddress": "10 Mehdi Mehdizadə küç., Bakı, Azerbaijan",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2657457006412650701",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    40.3801735,
+    49.8621744
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T06:37:51.086Z"
+}

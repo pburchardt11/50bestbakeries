@@ -1,0 +1,32 @@
+{
+  "slug": "brioche-nemiga",
+  "name": "Brioche Nemiga",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJzfI5dpTP20YRFfs-m4XmMC8",
+  "googleName": "Brioche Nemiga",
+  "formattedAddress": "U Troitskogo, vulica Staražoŭskaja 6, Minsk, Minsk Region 220002, Belarus",
+  "phone": "8 029 395-88-88",
+  "website": "http://brioche.by/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3400471180174359317",
+  "rating": 4.5,
+  "reviewCount": 950,
+  "coords": [
+    53.9101702,
+    27.5566868
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brioche-nemiga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:01:39.588Z"
+}

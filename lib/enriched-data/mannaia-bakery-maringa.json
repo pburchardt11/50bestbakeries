@@ -1,0 +1,43 @@
+{
+  "slug": "mannaia-bakery-maringa",
+  "name": "Mannaia Bakery",
+  "curatedName": "Mannaia Bakery",
+  "city": "Maringá",
+  "country": "Brazil",
+  "placeId": "ChIJk1761JHX7JQR4SVOvINs5TA",
+  "googleName": "Mannaia Bakery",
+  "formattedAddress": "Av. Comendador Amorim Pedrosa Moleirinho, 1793 - Zona 17 - Jardim Novo Horizonte, Maringá - PR, 87010-190, Brazil",
+  "phone": "(44) 99845-0708",
+  "internationalPhone": "+55 44 99845-0708",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3523341596543034849",
+  "rating": 4.6,
+  "reviewCount": 341,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.4425562,
+    -51.9379804
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mannaia-bakery-maringa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:06.834Z"
+}

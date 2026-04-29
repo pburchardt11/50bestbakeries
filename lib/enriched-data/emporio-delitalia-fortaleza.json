@@ -1,0 +1,47 @@
+{
+  "slug": "emporio-delitalia-fortaleza",
+  "name": "Empório Delitalia",
+  "curatedName": "Empório Delitalia",
+  "city": "Fortaleza",
+  "country": "Brazil",
+  "placeId": "ChIJ14LTvWRIxwcR2xuflJd6uKg",
+  "googleName": "Empório Delitalia",
+  "formattedAddress": "Av. Des. Moreira, 533 - Meireles, Fortaleza - CE, 60170-055, Brazil",
+  "phone": "(85) 3133-5000",
+  "internationalPhone": "+55 85 3133-5000",
+  "website": "https://www.facebook.com/EmporioDelitaliaCE/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12157601985538759643",
+  "rating": 4.5,
+  "reviewCount": 4693,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "restaurant",
+    "storage",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -3.7311419,
+    -38.49640309999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Sandwiches, soups & salads, plus ice cream & cake, in an airy, modern deli with a large wine range.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/emporio-delitalia-fortaleza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:19.493Z"
+}

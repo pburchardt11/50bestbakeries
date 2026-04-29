@@ -1,0 +1,44 @@
+{
+  "slug": "magia-dos-cookies-ponta-grossa",
+  "name": "Magia dos Cookies",
+  "curatedName": "Magia dos Cookies",
+  "city": "Ponta Grossa",
+  "country": "Brazil",
+  "placeId": "ChIJwyjHcbgb6JQRJ_8ZUxPdPLU",
+  "googleName": "Magia dos Cookies",
+  "formattedAddress": "R. Tiradentes, 963 - Centro, Ponta Grossa - PR, 84010-190, Brazil",
+  "phone": "(42) 99909-0544",
+  "internationalPhone": "+55 42 99909-0544",
+  "website": "https://linktr.ee/magiadoscookies",
+  "googleMapsUrl": "https://maps.google.com/?cid=13059556094535925543",
+  "rating": 5,
+  "reviewCount": 706,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.0906929,
+    -50.163108
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 1:30 – 6:30 PM",
+    "Wednesday: 1:30 – 6:30 PM",
+    "Thursday: 1:30 – 6:30 PM",
+    "Friday: 1:30 – 6:30 PM",
+    "Saturday: 1:30 – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magia-dos-cookies-ponta-grossa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:03.865Z"
+}

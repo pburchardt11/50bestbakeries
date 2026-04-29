@@ -1,0 +1,43 @@
+{
+  "slug": "bakeri-guadalupe",
+  "name": "Bakeri",
+  "curatedName": "Bakeri",
+  "city": "Guadalupe",
+  "country": "Mexico",
+  "placeId": "ChIJsfo8oJK_YoYRQMyJ_42063w",
+  "googleName": "Bakeri",
+  "formattedAddress": "Paseo las Americas 2501 Contry La Silla, Contry La Silla 5o Sector, 67173 Guadalupe, N.L., Mexico",
+  "phone": "81 4050 2767",
+  "internationalPhone": "+52 81 4050 2767",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9001486802200677440",
+  "rating": 4.9,
+  "reviewCount": 89,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.6412643,
+    -100.2679087
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakeri-guadalupe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:25.129Z"
+}

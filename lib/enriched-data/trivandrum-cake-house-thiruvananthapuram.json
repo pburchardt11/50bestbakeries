@@ -1,0 +1,43 @@
+{
+  "slug": "trivandrum-cake-house-thiruvananthapuram",
+  "name": "Trivandrum Cake House",
+  "curatedName": "Trivandrum Cake House",
+  "city": "Thiruvananthapuram",
+  "country": "India",
+  "placeId": "ChIJzzalTSq6BTsRV0sr3U5R1Zg",
+  "googleName": "Trivandrum Cake House",
+  "formattedAddress": "YGRA -38 Yuvathara Gardens 7th Lane opposite KUNNIL HYPERMARKET KURVANKONAM, Kowdiar, Thiruvananthapuram, Kerala 695003, India",
+  "phone": "0471 243 6055",
+  "internationalPhone": "+91 471 243 6055",
+  "website": "https://trivandrumcakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11012797862964317015",
+  "rating": 4.6,
+  "reviewCount": 643,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    8.5219699,
+    76.9531305
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/trivandrum-cake-house-thiruvananthapuram/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:28.012Z"
+}

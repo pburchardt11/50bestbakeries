@@ -1,0 +1,32 @@
+{
+  "slug": "ila-s-pastries-belize-city",
+  "name": "Ila's Pastries",
+  "city": "Belize City",
+  "country": "Belize",
+  "placeId": "ChIJrawBMDZYXI8RW18JzrtGcLw",
+  "googleName": "Ila's Pastries",
+  "formattedAddress": "7045 Elston Kerr St, Belize City, Belize",
+  "phone": "624-5377",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13578430648951594843",
+  "rating": 4.1,
+  "reviewCount": 10,
+  "coords": [
+    17.4944117,
+    -88.20042529999999
+  ],
+  "openingHours": [
+    "Monday: 1:00 – 9:00 PM",
+    "Tuesday: 1:00 – 9:00 PM",
+    "Wednesday: 1:00 – 9:00 PM",
+    "Thursday: 1:00 – 9:00 PM",
+    "Friday: 1:00 – 9:00 PM",
+    "Saturday: 1:00 – 9:00 PM",
+    "Sunday: 1:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ila-s-pastries-belize-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:05:35.419Z"
+}

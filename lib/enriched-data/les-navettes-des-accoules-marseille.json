@@ -1,0 +1,43 @@
+{
+  "slug": "les-navettes-des-accoules-marseille",
+  "name": "Les Navettes des Accoules",
+  "curatedName": "Les Navettes des Accoules",
+  "city": "Marseille",
+  "country": "France",
+  "placeId": "ChIJsTN9ucPAyRIRaE_BZjJJL40",
+  "googleName": "Les Navettes des Accoules",
+  "formattedAddress": "68 Rue Caisserie, 13002 Marseille, France",
+  "phone": "04 91 90 99 42",
+  "internationalPhone": "+33 4 91 90 99 42",
+  "website": "http://www.les-navettes-des-accoules.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10173430564074377064",
+  "rating": 4.7,
+  "reviewCount": 724,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.2971174,
+    5.3662593
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 7:00 PM",
+    "Tuesday: 9:30 AM – 7:00 PM",
+    "Wednesday: 9:30 AM – 7:00 PM",
+    "Thursday: 9:30 AM – 7:00 PM",
+    "Friday: 9:30 AM – 7:00 PM",
+    "Saturday: 9:30 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Charming locale serving refined pastries, including regional cookies like orange blossom barquettes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-navettes-des-accoules-marseille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:28.431Z"
+}

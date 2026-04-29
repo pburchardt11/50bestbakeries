@@ -1,0 +1,43 @@
+{
+  "slug": "good-bread-calgary",
+  "name": "Good Bread",
+  "curatedName": "Good Bread",
+  "city": "Calgary",
+  "country": "Canada",
+  "placeId": "ChIJef4h57BxcVMR8YpbkW0e2FI",
+  "googleName": "Good Bread",
+  "formattedAddress": "8303 Fairmount Dr SE, Calgary, AB T2H 2Y1, Canada",
+  "phone": "(587) 295-0887",
+  "internationalPhone": "+1 587-295-0887",
+  "website": "https://www.goodbread.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5969554762018556657",
+  "rating": 4.8,
+  "reviewCount": 586,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.9793887,
+    -114.060475
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/good-bread-calgary/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:53.441Z"
+}

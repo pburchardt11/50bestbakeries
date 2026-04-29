@@ -1,0 +1,32 @@
+{
+  "slug": "lof-bakery-bandar-seri-begawan",
+  "name": "Lof Bakery",
+  "city": "Bandar Seri Begawan",
+  "country": "Brunei",
+  "placeId": "ChIJQ30hx7P1IjIRS6dxMOF6sxo",
+  "googleName": "Lof Bakery",
+  "formattedAddress": "WWVW+JR8, Bandar Seri Begawan, Brunei",
+  "phone": "233 0777",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1924016573416318795",
+  "rating": 4,
+  "reviewCount": 21,
+  "coords": [
+    4.9440298,
+    114.9470748
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:30 PM",
+    "Tuesday: 8:00 AM – 9:30 PM",
+    "Wednesday: 8:00 AM – 9:30 PM",
+    "Thursday: 8:00 AM – 9:30 PM",
+    "Friday: 8:00 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: 8:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lof-bakery-bandar-seri-begawan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:21:55.483Z"
+}

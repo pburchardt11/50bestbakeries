@@ -1,0 +1,32 @@
+{
+  "slug": "cocomaya-mymensingh",
+  "name": "Cocomaya",
+  "city": "Mymensingh",
+  "country": "Bangladesh",
+  "placeId": "ChIJZW3c6wRPVjcRN6oRU75PbUk",
+  "googleName": "Cocomaya",
+  "formattedAddress": "92/B CK Ghosh Rd, Mymensingh 2200, Bangladesh",
+  "phone": "01841-333131",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5290972816086247991",
+  "rating": 4.1,
+  "reviewCount": 43,
+  "coords": [
+    24.7570247,
+    90.4062178
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cocomaya-mymensingh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:53:22.117Z"
+}

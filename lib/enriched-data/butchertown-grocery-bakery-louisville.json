@@ -1,0 +1,43 @@
+{
+  "slug": "butchertown-grocery-bakery-louisville",
+  "name": "Butchertown Grocery Bakery",
+  "curatedName": "Butchertown Grocery Bakery",
+  "city": "Louisville",
+  "country": "United States",
+  "placeId": "ChIJxy5t1uBzaYgRNdNvIUk80rA",
+  "googleName": "Butchertown Grocery Bakery",
+  "formattedAddress": "743 E Main St, Louisville, KY 40202, USA",
+  "phone": "(502) 742-8315 ext. 2",
+  "internationalPhone": "+1 502-742-8315 ext. 2",
+  "website": "https://www.instagram.com/butchertownbakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12741312580575810357",
+  "rating": 4.6,
+  "reviewCount": 1239,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.2547511,
+    -85.7379041
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Warm, stylish eatery in a 19th-century building serving New American fare & artisanal cocktails.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/butchertown-grocery-bakery-louisville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:14:22.621Z"
+}

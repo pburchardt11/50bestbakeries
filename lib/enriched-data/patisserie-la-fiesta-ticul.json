@@ -1,0 +1,43 @@
+{
+  "slug": "patisserie-la-fiesta-ticul",
+  "name": "Patisserie La Fiesta",
+  "curatedName": "Patisserie La Fiesta",
+  "city": "Ticul",
+  "country": "Mexico",
+  "placeId": "ChIJc7Zgn_sEV48RFW8hgdKCS9Y",
+  "googleName": "Patisserie La Fiesta",
+  "formattedAddress": "C. 27 186-22 y 24 Interior Callejón, Centro, 97870 Pustunich, Yuc., Mexico",
+  "phone": "997 115 5424",
+  "internationalPhone": "+52 997 115 5424",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15441579587991072533",
+  "rating": 4.3,
+  "reviewCount": 24,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.3655158,
+    -89.50920649999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-la-fiesta-ticul/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:10.785Z"
+}

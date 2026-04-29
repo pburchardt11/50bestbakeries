@@ -1,0 +1,43 @@
+{
+  "slug": "seyhan-pasta-cafe-seyhan",
+  "name": "Seyhan Pasta Cafe",
+  "curatedName": "Seyhan Pasta Cafe",
+  "city": "Seyhan",
+  "country": "Türkiye",
+  "placeId": "ChIJ5Utm2BeHKBURdTLjHCT7Mv0",
+  "googleName": "seyhan pasta cafe",
+  "formattedAddress": "Gülbahçesi, Obalar Cd 497/a, 01050 Seyhan/Adana, Türkiye",
+  "phone": "0536 935 81 13",
+  "internationalPhone": "+90 536 935 81 13",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18244921172953346677",
+  "rating": 4.6,
+  "reviewCount": 40,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.9771305,
+    35.2956205
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/seyhan-pasta-cafe-seyhan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:02:05.200Z"
+}

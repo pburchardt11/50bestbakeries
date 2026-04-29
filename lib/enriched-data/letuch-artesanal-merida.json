@@ -1,0 +1,44 @@
+{
+  "slug": "letuch-artesanal-merida",
+  "name": "LeTuch Artesanal",
+  "curatedName": "LeTuch Artesanal",
+  "city": "Mérida",
+  "country": "Mexico",
+  "placeId": "ChIJYZVeQvF1Vo8R2CEvbAhZ6xw",
+  "googleName": "LeTuch Artesanal",
+  "formattedAddress": "53D #195 x 40 y 42, C. 53D 193, Francisco de Montejo, 97203 Mérida, Yuc., Mexico",
+  "phone": "999 171 8947",
+  "internationalPhone": "+52 999 171 8947",
+  "website": "https://www.facebook.com/Letuchbakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=2083857145298624984",
+  "rating": 4.7,
+  "reviewCount": 194,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0277421,
+    -89.6413281
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Tuesday: 8:00 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Wednesday: 8:00 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Thursday: 8:00 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Friday: 8:00 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/letuch-artesanal-merida/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:02.183Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "continental-bakery-george-town",
+  "name": "Continental Bakery",
+  "curatedName": "Continental Bakery",
+  "city": "George Town",
+  "country": "Malaysia",
+  "placeId": "ChIJ8Rxjt6LDSjARjkDK-2V-6dk",
+  "googleName": "Continental Bakery",
+  "formattedAddress": "33, Jalan Nagor, George Town, 10050 George Town, Pulau Pinang, Malaysia",
+  "phone": "04-228 3814",
+  "internationalPhone": "+60 4-228 3814",
+  "website": "https://m.facebook.com/pages/Continental-Bakery/100128603403936",
+  "googleMapsUrl": "https://maps.google.com/?cid=15702220552285077646",
+  "rating": 4.4,
+  "reviewCount": 749,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    5.421066199999999,
+    100.3262574
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/continental-bakery-george-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:16.924Z"
+}

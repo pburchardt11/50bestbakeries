@@ -1,0 +1,46 @@
+{
+  "slug": "sagrado-boulangerie-sao-bernardo-do-campo",
+  "name": "Sagrado Boulangerie",
+  "curatedName": "Sagrado Boulangerie",
+  "city": "São Bernardo do Campo",
+  "country": "Brazil",
+  "placeId": "ChIJmS-qHVtBzpQR3v68h0cujnk",
+  "googleName": "Sagrado Boulangerie",
+  "formattedAddress": "R. Bela Vista, 308 - Centro, São Bernardo do Campo - SP, 09715-030, Brazil",
+  "phone": "(11) 93366-1111",
+  "internationalPhone": "+55 11 93366-1111",
+  "website": "https://www.instagram.com/sagradosbc/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8758989210037059294",
+  "rating": 4.6,
+  "reviewCount": 333,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.711632,
+    -46.5464874
+  ],
+  "openingHours": [
+    "Monday: 1:00 – 6:30 PM",
+    "Tuesday: 8:30 AM – 6:30 PM",
+    "Wednesday: 8:30 AM – 6:30 PM",
+    "Thursday: 8:30 AM – 6:30 PM",
+    "Friday: 8:30 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sagrado-boulangerie-sao-bernardo-do-campo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:41:35.887Z"
+}

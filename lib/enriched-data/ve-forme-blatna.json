@@ -1,0 +1,32 @@
+{
+  "slug": "ve-forme-blatna",
+  "name": "Ve formě",
+  "city": "Blatná",
+  "country": "Czech Republic",
+  "placeId": "ChIJ3wd7rZE9C0cRsz3WBIv4EsI",
+  "googleName": "Ve formě",
+  "formattedAddress": "nám. Míru 202, 388 01 Blatná, Czechia",
+  "phone": "731 823 248",
+  "website": "https://www.ve-forme.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13984513068904103347",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    49.4240182,
+    13.8836329
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 3:30 PM",
+    "Wednesday: 7:00 AM – 3:30 PM",
+    "Thursday: 7:00 AM – 3:30 PM",
+    "Friday: 7:00 AM – 3:30 PM",
+    "Saturday: 8:00 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ve-forme-blatna/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:32.230Z"
+}

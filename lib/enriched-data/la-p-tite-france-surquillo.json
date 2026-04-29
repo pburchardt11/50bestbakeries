@@ -1,0 +1,44 @@
+{
+  "slug": "la-p-tite-france-surquillo",
+  "name": "La P'tite France",
+  "curatedName": "La P'tite France",
+  "city": "Surquillo",
+  "country": "Peru",
+  "placeId": "ChIJXxyPUBDIBZEReqcJUHjhy3Q",
+  "googleName": "La p'tite France",
+  "formattedAddress": "Gonzáles Prada 599, Surquillo 15047, Peru",
+  "phone": "953 922 435",
+  "internationalPhone": "+51 953 922 435",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8416068235527038842",
+  "rating": 4.3,
+  "reviewCount": 792,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -12.1165185,
+    -77.02406189999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-p-tite-france-surquillo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:38.841Z"
+}

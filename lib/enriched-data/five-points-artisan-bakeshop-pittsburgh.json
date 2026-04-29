@@ -1,0 +1,43 @@
+{
+  "slug": "five-points-artisan-bakeshop-pittsburgh",
+  "name": "Five Points Artisan Bakeshop",
+  "curatedName": "Five Points Artisan Bakeshop",
+  "city": "Pittsburgh",
+  "country": "United States",
+  "placeId": "ChIJn21B-fjtNIgRc2nzp7hkO54",
+  "googleName": "Five Points Artisan Bakeshop",
+  "formattedAddress": "6520 Wilkins Ave, Pittsburgh, PA 15217, USA",
+  "phone": "(412) 521-2253",
+  "internationalPhone": "+1 412-521-2253",
+  "website": "http://fivepointsartisanbakeshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11401817625873049971",
+  "rating": 4.8,
+  "reviewCount": 722,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.444361,
+    -79.9168669
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Easygoing operation serving European-style breads & pastries, plus coffee & sandwiches.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/five-points-artisan-bakeshop-pittsburgh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:19.074Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "twenty-four-bakeshop-pasig",
+  "name": "Twenty Four Bakeshop",
+  "curatedName": "Twenty Four Bakeshop",
+  "city": "Pasig",
+  "country": "Philippines",
+  "placeId": "ChIJu-eiIYXJlzMRUwRU7t4U_6M",
+  "googleName": "Twenty Four Bakeshop",
+  "formattedAddress": "4/F, East Wing, Camino Verde Rd, Pasig, 1605 Metro Manila, Philippines",
+  "phone": "0977 479 1596",
+  "internationalPhone": "+63 977 479 1596",
+  "website": "http://www.twentyfourbakeshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11817186894957249619",
+  "rating": 4.6,
+  "reviewCount": 188,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5765085,
+    121.0646042
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:00 PM",
+    "Tuesday: 11:00 AM – 9:00 PM",
+    "Wednesday: 11:00 AM – 9:00 PM",
+    "Thursday: 11:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/twenty-four-bakeshop-pasig/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:14.430Z"
+}

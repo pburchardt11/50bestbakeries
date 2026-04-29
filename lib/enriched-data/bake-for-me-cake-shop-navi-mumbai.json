@@ -1,0 +1,43 @@
+{
+  "slug": "bake-for-me-cake-shop-navi-mumbai",
+  "name": "Bake for me cake shop",
+  "curatedName": "Bake for me cake shop",
+  "city": "Navi Mumbai",
+  "country": "India",
+  "placeId": "ChIJY7LtI9LD5zsRIKozqUuIraQ",
+  "googleName": "Bake for me cake shop",
+  "formattedAddress": "Shop No.14, Bake For Me cake shop, Ekta Avenue, Plot No C94, near reliance Smart point, Sector 12, Kharghar, Panvel, Maharashtra 410210, India",
+  "phone": "090111 58692",
+  "internationalPhone": "+91 90111 58692",
+  "website": "https://bake-for-me-cake-shop.grexa.site/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11866290451733785120",
+  "rating": 4.8,
+  "reviewCount": 362,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.0427957,
+    73.0666297
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 1:00 AM",
+    "Tuesday: 9:00 AM – 1:00 AM",
+    "Wednesday: 9:00 AM – 1:00 AM",
+    "Thursday: 9:00 AM – 1:00 AM",
+    "Friday: 9:00 AM – 1:00 AM",
+    "Saturday: 9:00 AM – 1:00 AM",
+    "Sunday: 9:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-for-me-cake-shop-navi-mumbai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:30.526Z"
+}

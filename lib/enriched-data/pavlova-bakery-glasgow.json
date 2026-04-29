@@ -1,0 +1,44 @@
+{
+  "slug": "pavlova-bakery-glasgow",
+  "name": "Pavlova Bakery",
+  "curatedName": "Pavlova Bakery",
+  "city": "Glasgow",
+  "country": "United Kingdom",
+  "placeId": "ChIJb8Je6kVFiEgRk04NZXyJe3g",
+  "googleName": "Pavlova Bakery",
+  "formattedAddress": "9 Gardner St, Glasgow G11 5NR, UK",
+  "phone": "07570 464291",
+  "internationalPhone": "+44 7570 464291",
+  "website": "http://pavlovabakery.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8681683874051083923",
+  "rating": 4.9,
+  "reviewCount": 127,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    55.871131,
+    -4.305958299999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: 11:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pavlova-bakery-glasgow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:06:24.978Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "bakery-clisson",
+  "name": "Bakery",
+  "curatedName": "Bakery",
+  "city": "Clisson",
+  "country": "France",
+  "placeId": "ChIJB8gZyaF1BkgR5prrabc0HwY",
+  "googleName": "Bakery - Pastry THE HALLS",
+  "formattedAddress": "26 Rue des Halles, 44190 Clisson, France",
+  "phone": "02 40 54 01 73",
+  "internationalPhone": "+33 2 40 54 01 73",
+  "website": "https://www.boulangerie-sesame.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=441129250866305766",
+  "rating": 4.4,
+  "reviewCount": 269,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.0871963,
+    -1.2824302
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 7:30 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-clisson/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:24:14.540Z"
+}

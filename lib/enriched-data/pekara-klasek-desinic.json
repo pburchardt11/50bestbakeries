@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-klasek-desinic",
+  "name": "Pekara Klasek",
+  "city": "Desinić",
+  "country": "Croatia",
+  "placeId": "ChIJCwyxvEiRZUcR12ihfuWh1Fk",
+  "googleName": "Pekara Klasek",
+  "formattedAddress": "Ratkajeva ul. 30, 49216, Desinić, Croatia",
+  "phone": "049 343 192",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6472976571482335447",
+  "rating": 4.4,
+  "reviewCount": 7,
+  "coords": [
+    46.1407759,
+    15.6663286
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 3:00 PM",
+    "Tuesday: 5:00 AM – 3:00 PM",
+    "Wednesday: 5:00 AM – 3:00 PM",
+    "Thursday: 5:00 AM – 3:00 PM",
+    "Friday: 5:00 AM – 3:00 PM",
+    "Saturday: 5:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-klasek-desinic/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:50:08.198Z"
+}

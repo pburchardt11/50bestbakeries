@@ -1,0 +1,44 @@
+{
+  "slug": "backerei-brotheim",
+  "name": "Bäckerei Brotheim",
+  "curatedName": "Bäckerei Brotheim",
+  "city": "世田谷区",
+  "country": "Japan",
+  "placeId": "ChIJt4Rp13j0GGAR9UsHxfg6bt4",
+  "googleName": "Bäckerei Brotheim",
+  "formattedAddress": "4-chōme-1-17 Tsurumaki, Setagaya City, Tokyo 154-0016, Japan",
+  "phone": "03-3439-9983",
+  "internationalPhone": "+81 3-3439-9983",
+  "website": "https://www.instagram.com/brotheim1987/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16027812963990064117",
+  "rating": 4.4,
+  "reviewCount": 577,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.6349629,
+    139.6447314
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: 7:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-brotheim/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:28.641Z"
+}

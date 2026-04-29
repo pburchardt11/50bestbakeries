@@ -1,0 +1,43 @@
+{
+  "slug": "karachi-bakery-secunderabad",
+  "name": "Karachi Bakery",
+  "curatedName": "Karachi Bakery",
+  "city": "Secunderabad",
+  "country": "India",
+  "placeId": "ChIJ1dltQBmayzsRvU5iCydp3rQ",
+  "googleName": "Karachi Bakery Kingsway, Secunderabad",
+  "formattedAddress": "4-3-25, Rashtrapati Rd, beside city light hotel, Old Bhoiguda, ghasmandi, Secunderabad, Telangana 500003, India",
+  "phone": "088843 31320",
+  "internationalPhone": "+91 88843 31320",
+  "website": "https://www.karachibakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13032969988072427197",
+  "rating": 4.2,
+  "reviewCount": 2917,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    17.4333924,
+    78.4931521
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 3:00 – 8:00 PM"
+  ],
+  "editorialSummary": "Sweets, cakes and artisan breads from an enduring chain bakeshop established in 1953.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/karachi-bakery-secunderabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:58.248Z"
+}

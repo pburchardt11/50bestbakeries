@@ -1,0 +1,30 @@
+{
+  "slug": "reposteria-hilda-alajuela",
+  "name": "Repostería Hilda",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJRVYGBs_5oI8R7kY28o4AaGk",
+  "googleName": "Repostería Hilda",
+  "formattedAddress": "Costado sur del Cementerio General de Alajuela., Entre calles 12 y 14, Avenida 3, Provincia de Alajuela, Alajuela, Cristo Rey, Costa Rica",
+  "phone": "2441 1944",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7595321385509340910",
+  "rating": 4.5,
+  "reviewCount": 39,
+  "coords": [
+    10.0162603,
+    -84.2192438
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:30 PM",
+    "Tuesday: 6:00 AM – 5:30 PM",
+    "Wednesday: 6:00 AM – 5:30 PM",
+    "Thursday: 6:00 AM – 5:30 PM",
+    "Friday: 6:00 AM – 5:30 PM",
+    "Saturday: 6:00 AM – 3:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:47:00.294Z"
+}

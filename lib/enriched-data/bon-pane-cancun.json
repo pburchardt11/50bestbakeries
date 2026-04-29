@@ -1,0 +1,43 @@
+{
+  "slug": "bon-pane-cancun",
+  "name": "Bon Pane",
+  "curatedName": "Bon Pane",
+  "city": "Cancún",
+  "country": "Mexico",
+  "placeId": "ChIJJ7dilB8rTI8RG9u2hRkvikE",
+  "googleName": "Bon Pane",
+  "formattedAddress": "Av Tepich, Mz 1, Lt 1-02, Colonia Supermanza 509, 77533 Cancún, Q.R., Mexico",
+  "phone": "55 6285 0400 ext. 4902",
+  "internationalPhone": "+52 55 6285 0400 ext. 4902",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4722638945915427611",
+  "rating": 4.5,
+  "reviewCount": 2720,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1340718,
+    -86.8544562
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bon-pane-cancun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:44.744Z"
+}

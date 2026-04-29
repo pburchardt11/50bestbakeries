@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-carlos-gardel-cochabamba",
+  "name": "Panadería Carlos Gardel",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJ1bKkfyhz45MRVpj-Sdq0Hi4",
+  "googleName": "Panadería La Gauchita- Central",
+  "formattedAddress": "Jordan 346, Cochabamba, Bolivia",
+  "phone": "75476677",
+  "website": "https://www.facebook.com/LaGauchitaPanaderia",
+  "googleMapsUrl": "https://maps.google.com/?cid=3323292424683296854",
+  "rating": 4.3,
+  "reviewCount": 44,
+  "coords": [
+    -17.3960917,
+    -66.161119
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:30 PM",
+    "Tuesday: 9:00 AM – 5:30 PM",
+    "Wednesday: 9:00 AM – 5:30 PM",
+    "Thursday: 9:00 AM – 5:30 PM",
+    "Friday: 9:00 AM – 5:30 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-carlos-gardel-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:14:50.233Z"
+}

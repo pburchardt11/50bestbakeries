@@ -1,0 +1,32 @@
+{
+  "slug": "hornearte-ambato",
+  "name": "Hornearte",
+  "city": "Ambato",
+  "country": "Ecuador",
+  "placeId": "ChIJR0A6jtOD05ERwP6NHY5FWQs",
+  "googleName": "Hornearte",
+  "formattedAddress": "León Febres Cordero, y y Av. Los Atis, 180393 Ambato, Ecuador",
+  "phone": "098 377 8509",
+  "website": "https://www.facebook.com/hornearte.ec",
+  "googleMapsUrl": "https://maps.google.com/?cid=817761284027973312",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -1.2676622,
+    -78.622569
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hornearte-ambato/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:59:47.970Z"
+}

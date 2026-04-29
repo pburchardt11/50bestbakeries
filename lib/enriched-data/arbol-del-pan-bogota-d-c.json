@@ -1,0 +1,44 @@
+{
+  "slug": "arbol-del-pan-bogota-d-c",
+  "name": "Árbol del Pan",
+  "curatedName": "Árbol del Pan",
+  "city": "Bogotá, D.C.",
+  "country": "Colombia",
+  "placeId": "ChIJKYDV-UCaP44R8N8ovfrF4Gk",
+  "googleName": "Árbol del Pan",
+  "formattedAddress": "Cl. 66 Bis #4-63, Chapinero, Bogotá, Cundinamarca, Colombia",
+  "phone": "310 2794852",
+  "internationalPhone": "+57 310 2794852",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7629315449471688688",
+  "rating": 4.7,
+  "reviewCount": 1135,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    4.648774,
+    -74.0562024
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/arbol-del-pan-bogota-d-c/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:39.947Z"
+}

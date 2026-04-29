@@ -1,0 +1,44 @@
+{
+  "slug": "farro-artisan-bakery-y-ld-z-cankaya",
+  "name": "Farro Artisan Bakery Yıldız",
+  "curatedName": "Farro Artisan Bakery Yıldız",
+  "city": "Çankaya",
+  "country": "Türkiye",
+  "placeId": "ChIJsz4_dztF0xQRDqr1Ctcs6PQ",
+  "googleName": "Farro Artisan Bakery Yıldız",
+  "formattedAddress": "Yıldızevler, Rabindranath Tagore Cd. 6/B, 06550 Çankaya/Ankara, Türkiye",
+  "phone": "(0312) 442 27 76",
+  "internationalPhone": "+90 312 442 27 76",
+  "website": "http://www.farro.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17647404441964751374",
+  "rating": 4.4,
+  "reviewCount": 334,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.8787482,
+    32.860996
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farro-artisan-bakery-y-ld-z-cankaya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:40.225Z"
+}

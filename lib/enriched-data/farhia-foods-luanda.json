@@ -1,0 +1,32 @@
+{
+  "slug": "farhia-foods-luanda",
+  "name": "Farhia Foods",
+  "city": "Luanda",
+  "country": "Angola",
+  "placeId": "ChIJfS4YYer5URoRuyEFOd1K1Qk",
+  "googleName": "FoodTec Angola",
+  "formattedAddress": "Polo industrial de Viana, Angola",
+  "phone": "923 094 909",
+  "website": "http://foodtec.co.ao/",
+  "googleMapsUrl": "https://maps.google.com/?cid=708554830385586619",
+  "rating": 4.4,
+  "reviewCount": 18,
+  "coords": [
+    -8.9408431,
+    13.4240739
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:30 PM",
+    "Tuesday: 7:30 AM – 4:30 PM",
+    "Wednesday: 7:30 AM – 4:30 PM",
+    "Thursday: 7:30 AM – 4:30 PM",
+    "Friday: 7:30 AM – 4:30 PM",
+    "Saturday: 8:00 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farhia-foods-luanda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:17:52.163Z"
+}

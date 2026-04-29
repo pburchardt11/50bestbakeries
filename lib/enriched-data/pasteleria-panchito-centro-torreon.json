@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-panchito-centro-torreon",
+  "name": "Pastelería Panchito centro",
+  "curatedName": "Pastelería Panchito centro",
+  "city": "Torreón",
+  "country": "Mexico",
+  "placeId": "ChIJvU6Ivrnbj4YRvNOxrs_k5Ys",
+  "googleName": "Pastelería Panchito centro",
+  "formattedAddress": "Av. Aldama 2253, Cuarto de Cobián Centro, 27000 Torreón, Coah., Mexico",
+  "phone": "871 335 9909",
+  "internationalPhone": "+52 871 335 9909",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10080714921578976188",
+  "rating": 4.9,
+  "reviewCount": 151,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.5467031,
+    -103.4239135
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-panchito-centro-torreon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:18.728Z"
+}

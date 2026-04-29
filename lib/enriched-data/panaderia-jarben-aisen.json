@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-jarben-aisen",
+  "name": "Panadería Jarben",
+  "city": "Aisén",
+  "country": "Chile",
+  "placeId": "ChIJLeWWNh_bjL0R8XSjYuCEKrk",
+  "googleName": "Panadería Jarben",
+  "formattedAddress": "Bernardo O'Higgins 1035, Puerto Aysen, Aysén, Chile",
+  "phone": null,
+  "website": "https://facebook.com/panaderia.jarben",
+  "googleMapsUrl": "https://maps.google.com/?cid=13342622945300935921",
+  "rating": 4.2,
+  "reviewCount": 20,
+  "coords": [
+    -45.3996586,
+    -72.7023435
+  ],
+  "openingHours": [
+    "Monday: 9:15 AM – 12:45 PM, 3:15 – 7:00 PM",
+    "Tuesday: 9:15 AM – 12:45 PM, 3:15 – 7:00 PM",
+    "Wednesday: 9:15 AM – 12:45 PM, 3:15 – 7:00 PM",
+    "Thursday: 9:15 AM – 12:45 PM, 3:15 – 7:00 PM",
+    "Friday: 9:15 AM – 12:45 PM, 3:15 – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-jarben-aisen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:42:46.493Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "twisted-delights-nassau",
+  "name": "Twisted Delights",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJEfJUh6h9L4kRh4Kr4rot-Rc",
+  "googleName": "Twisted Delights",
+  "formattedAddress": "158 Fox Hill Rd, Nassau, The Bahamas",
+  "phone": "(242) 473-0462",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1727462212763353735",
+  "rating": 4.7,
+  "reviewCount": 26,
+  "coords": [
+    25.0366865,
+    -77.2934579
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/twisted-delights-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:41:31.555Z"
+}

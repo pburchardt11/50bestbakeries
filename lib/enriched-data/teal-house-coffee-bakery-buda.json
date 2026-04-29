@@ -1,0 +1,43 @@
+{
+  "slug": "teal-house-coffee-bakery-buda",
+  "name": "Teal House Coffee & Bakery",
+  "curatedName": "Teal House Coffee & Bakery",
+  "city": "Buda",
+  "country": "United States",
+  "placeId": "ChIJPTI3hnhTW4YRLko57ayZKlY",
+  "googleName": "Teal House Coffee & Bakery",
+  "formattedAddress": "200 Main St, Buda, TX 78610, USA",
+  "phone": "(512) 517-0121",
+  "internationalPhone": "+1 512-517-0121",
+  "website": "https://www.tealhouse.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6208944004277029422",
+  "rating": 4.7,
+  "reviewCount": 93,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.0819844,
+    -97.84315029999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/teal-house-coffee-bakery-buda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:11:04.356Z"
+}

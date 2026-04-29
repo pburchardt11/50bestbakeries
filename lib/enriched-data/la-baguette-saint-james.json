@@ -1,0 +1,32 @@
+{
+  "slug": "la-baguette-saint-james",
+  "name": "La Baguette",
+  "city": "Saint James",
+  "country": "Barbados",
+  "placeId": "ChIJ3xnqMnHxQ4wR1oAEWP9nXkI",
+  "googleName": "La Baguette, French Bakery - WEST",
+  "formattedAddress": "1 & 2 Porters HOLETOWN, Holetown, Saint James BB24017Barbados",
+  "phone": "(246) 850-2460",
+  "website": "https://www.labaguettebarbados.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4782374200705056982",
+  "rating": 4.6,
+  "reviewCount": 186,
+  "coords": [
+    13.19661,
+    -59.63887579999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 1:30 PM",
+    "Thursday: 7:00 AM – 1:30 PM",
+    "Friday: 7:00 AM – 1:30 PM",
+    "Saturday: 7:00 AM – 1:30 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-baguette-saint-james/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:56:53.375Z"
+}

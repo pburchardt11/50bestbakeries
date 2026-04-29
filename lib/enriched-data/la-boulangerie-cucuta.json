@@ -1,0 +1,43 @@
+{
+  "slug": "la-boulangerie-cucuta",
+  "name": "La Boulangerie",
+  "curatedName": "La Boulangerie",
+  "city": "Cúcuta",
+  "country": "Colombia",
+  "placeId": "ChIJx3qHNAlFZo4RBSDIa2Y0opw",
+  "googleName": "La Boulangerie",
+  "formattedAddress": "Av. 11e #7a - 17 LOCAL 4, Br. Colsag, Cúcuta, Norte de Santander, Colombia",
+  "phone": "316 3683354",
+  "internationalPhone": "+57 316 3683354",
+  "website": "https://cucutalinda.com/laboulangerie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11286641230643470341",
+  "rating": 4.7,
+  "reviewCount": 435,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    7.891928999999999,
+    -72.4891555
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boulangerie-cucuta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:05.532Z"
+}

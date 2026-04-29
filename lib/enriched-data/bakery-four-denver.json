@@ -1,0 +1,43 @@
+{
+  "slug": "bakery-four-denver",
+  "name": "Bakery Four",
+  "curatedName": "Bakery Four",
+  "city": "Denver",
+  "country": "United States",
+  "placeId": "ChIJYWaZ3YGHa4cR-A5k9fXtvQo",
+  "googleName": "Bakery Four",
+  "formattedAddress": "4150 Tennyson St, Denver, CO 80212, USA",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.bakeryfour.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=774036351617339128",
+  "rating": 4.8,
+  "reviewCount": 1240,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.7734788,
+    -105.0437967
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 1:00 PM",
+    "Thursday: 8:00 AM – 1:00 PM",
+    "Friday: 8:00 AM – 1:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-four-denver/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:58.897Z"
+}

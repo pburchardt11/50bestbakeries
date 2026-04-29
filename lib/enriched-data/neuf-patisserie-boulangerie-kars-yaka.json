@@ -1,0 +1,43 @@
+{
+  "slug": "neuf-patisserie-boulangerie-kars-yaka",
+  "name": "Neuf Patisserie & Boulangerie",
+  "curatedName": "Neuf Patisserie & Boulangerie",
+  "city": "Karşıyaka",
+  "country": "Türkiye",
+  "placeId": "ChIJL2vpvKXZuxQRrbT90eqnRdI",
+  "googleName": "Neuf Patisserie & Boulangerie",
+  "formattedAddress": "Bostanlı, 1820/1. Sk. No:7, 35590 Karşıyaka/İzmir, Türkiye",
+  "phone": "0530 560 49 30",
+  "internationalPhone": "+90 530 560 49 30",
+  "website": "https://neufpatisserie.com/?utm_source=gmb&utm_medium=gmb_link",
+  "googleMapsUrl": "https://maps.google.com/?cid=15151701148345152685",
+  "rating": 4.7,
+  "reviewCount": 529,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.459976,
+    27.0986736
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/neuf-patisserie-boulangerie-kars-yaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:21.188Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "5b2f-bakehouse-gold-coast",
+  "name": "5B2F Bakehouse",
+  "curatedName": "5B2F Bakehouse",
+  "city": "Gold Coast",
+  "country": "Australia",
+  "placeId": "ChIJ-YSqVeYPkWsR5wFCnFTrfy0",
+  "googleName": "5B2F Bakehouse",
+  "formattedAddress": "55 Brooke Ave, Southport QLD 4215, Australia",
+  "phone": "0451 455 876",
+  "internationalPhone": "+61 451 455 876",
+  "website": "https://m.facebook.com/pastrychefms/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3278597802380362215",
+  "rating": 4.7,
+  "reviewCount": 730,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.9569771,
+    153.4010257
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 2:30 PM",
+    "Tuesday: 5:30 AM – 2:30 PM",
+    "Wednesday: 5:30 AM – 2:30 PM",
+    "Thursday: 5:30 AM – 2:30 PM",
+    "Friday: 5:30 AM – 2:30 PM",
+    "Saturday: 5:30 AM – 2:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/5b2f-bakehouse-gold-coast/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:20.714Z"
+}

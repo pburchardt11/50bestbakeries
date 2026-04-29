@@ -1,0 +1,32 @@
+{
+  "slug": "ponnet-aalst",
+  "name": "Ponnet",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJ_4DfRZ2Yw0cRKFns7FTV6DU",
+  "googleName": "Bakkerij Ponnet Erondegem",
+  "formattedAddress": "Gentse Steenweg 358, 9420 Erpe-Mere, Belgium",
+  "phone": "053 82 70 90",
+  "website": "http://www.bakkerijponnet.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3884589239335934248",
+  "rating": 4.5,
+  "reviewCount": 189,
+  "coords": [
+    50.9463088,
+    3.9605167
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 5:00 AM – 6:00 PM",
+    "Wednesday: 5:00 AM – 6:00 PM",
+    "Thursday: 5:00 AM – 6:00 PM",
+    "Friday: 5:00 AM – 6:00 PM",
+    "Saturday: 5:00 AM – 6:00 PM",
+    "Sunday: 5:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ponnet-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:04:46.574Z"
+}

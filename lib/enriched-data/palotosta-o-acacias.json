@@ -1,0 +1,32 @@
+{
+  "slug": "palotosta-o-acacias",
+  "name": "PaloTosta’o Acacias",
+  "city": "Acacías",
+  "country": "Colombia",
+  "placeId": "ChIJF42nOzc5Po4RnhzBZ6GAmzE",
+  "googleName": "Palokoquito",
+  "formattedAddress": "Cra. 18 #11-35, Acacías, Meta, Colombia",
+  "phone": "320 3111778",
+  "website": "https://www.facebook.com/palokoquito/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3574592159967419550",
+  "rating": 4.2,
+  "reviewCount": 253,
+  "coords": [
+    3.984422399999999,
+    -73.76287830000001
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 10:00 PM",
+    "Tuesday: 12:00 – 10:00 PM",
+    "Wednesday: 12:00 – 10:00 PM",
+    "Thursday: 12:00 – 10:00 PM",
+    "Friday: 12:00 – 10:00 PM",
+    "Saturday: 12:00 – 10:00 PM",
+    "Sunday: 12:00 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/palotosta-o-acacias/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:45:20.044Z"
+}

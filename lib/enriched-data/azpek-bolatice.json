@@ -1,0 +1,32 @@
+{
+  "slug": "azpek-bolatice",
+  "name": "Azpek",
+  "city": "Bolatice",
+  "country": "Czech Republic",
+  "placeId": "ChIJo9N4mE5gEUcRHLyeTAcDaMU",
+  "googleName": "AZPEK, s.r.o.",
+  "formattedAddress": "Sokolovská 865/3B, 747 23 Bolatice, Czechia",
+  "phone": "553 655 022",
+  "website": "http://www.azpek.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14224622752934837276",
+  "rating": 4.3,
+  "reviewCount": 115,
+  "coords": [
+    49.9527395,
+    18.0783837
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 4:00 PM",
+    "Tuesday: 5:00 AM – 4:00 PM",
+    "Wednesday: 5:00 AM – 4:00 PM",
+    "Thursday: 5:00 AM – 4:00 PM",
+    "Friday: 5:00 AM – 4:00 PM",
+    "Saturday: 5:00 – 9:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/azpek-bolatice/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:42.228Z"
+}

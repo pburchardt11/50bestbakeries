@@ -1,0 +1,32 @@
+{
+  "slug": "queen-baker-douala",
+  "name": "Queen Baker",
+  "city": "Douala",
+  "country": "Cameroon",
+  "placeId": "ChIJsZ6k93kTYRAR3f9uNYFHIdY",
+  "googleName": "Queen's Park",
+  "formattedAddress": "Douala, Cameroon",
+  "phone": "6 90 27 38 30",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15429692418620850141",
+  "rating": 3.6,
+  "reviewCount": 29,
+  "coords": [
+    4.0521216,
+    9.699230199999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 5:30 PM",
+    "Wednesday: 10:00 AM – 5:30 PM",
+    "Thursday: 10:00 AM – 5:30 PM",
+    "Friday: 10:00 AM – 5:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/queen-baker-douala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:38:59.599Z"
+}

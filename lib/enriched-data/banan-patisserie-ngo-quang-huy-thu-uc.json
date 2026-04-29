@@ -1,0 +1,44 @@
+{
+  "slug": "banan-patisserie-ngo-quang-huy-thu-uc",
+  "name": "Banan Patisserie Ngo Quang Huy",
+  "curatedName": "Banan Patisserie Ngo Quang Huy",
+  "city": "Thủ Đức",
+  "country": "Vietnam",
+  "placeId": "ChIJbf4xOesndTERWjzqdLEX3Ms",
+  "googleName": "Banan Patisserie Ngo Quang Huy",
+  "formattedAddress": "34 Ngô Quang Huy, Thảo Điền, An Khánh, Hồ Chí Minh 700000, Vietnam",
+  "phone": "0868 897 131",
+  "internationalPhone": "+84 868 897 131",
+  "website": "http://banancakes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14689642135513873498",
+  "rating": 4.8,
+  "reviewCount": 594,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.8042109,
+    106.7344061
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:30 PM",
+    "Tuesday: 10:00 AM – 9:30 PM",
+    "Wednesday: 10:00 AM – 9:30 PM",
+    "Thursday: 10:00 AM – 9:30 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banan-patisserie-ngo-quang-huy-thu-uc/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:33:30.827Z"
+}

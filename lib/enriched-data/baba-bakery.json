@@ -1,0 +1,44 @@
+{
+  "slug": "baba-bakery",
+  "name": "Baba Bakery",
+  "curatedName": "Baba Bakery",
+  "city": "თბილისი",
+  "country": "Georgia",
+  "placeId": "ChIJ-QWDUjsNREARIVXBAwdmClA",
+  "googleName": "Baba bakery",
+  "formattedAddress": "4 Ivane Machabeli St, T'bilisi 0104, Georgia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5767534453115147553",
+  "rating": 4.7,
+  "reviewCount": 1501,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.6920272,
+    44.7999395
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:30 PM",
+    "Tuesday: 8:30 AM – 8:30 PM",
+    "Wednesday: 8:30 AM – 8:30 PM",
+    "Thursday: 8:30 AM – 8:30 PM",
+    "Friday: 8:30 AM – 9:30 PM",
+    "Saturday: 8:30 AM – 9:30 PM",
+    "Sunday: 8:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baba-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:28.858Z"
+}

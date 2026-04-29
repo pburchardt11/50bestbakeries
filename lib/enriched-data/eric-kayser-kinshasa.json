@@ -1,0 +1,32 @@
+{
+  "slug": "eric-kayser-kinshasa",
+  "name": "Eric Kayser",
+  "city": "Kinshasa",
+  "country": "DR Congo",
+  "placeId": "ChIJL9t-5tYzahoRyR4McxQVE64",
+  "googleName": "Eric Kayser",
+  "formattedAddress": "18 Av. de la Justice, Kinshasa, Democratic Republic of the Congo",
+  "phone": "0970 021 125",
+  "website": "http://www.maison-kayser.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12543392564730666697",
+  "rating": 3.9,
+  "reviewCount": 122,
+  "coords": [
+    -4.318814,
+    15.2745119
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eric-kayser-kinshasa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:55:17.243Z"
+}

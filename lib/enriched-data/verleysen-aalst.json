@@ -1,0 +1,32 @@
+{
+  "slug": "verleysen-aalst",
+  "name": "Verleysen",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJt1xHZVK9w0cRfD5HKh652BQ",
+  "googleName": "Verleysen",
+  "formattedAddress": "Vrijheidstraat 16, 9300 Aalst, Belgium",
+  "phone": "053 43 55 22",
+  "website": "http://bakkerijverleysen.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1502154014937529980",
+  "rating": 4.2,
+  "reviewCount": 407,
+  "coords": [
+    50.9404884,
+    4.035073
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/verleysen-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:03:46.873Z"
+}

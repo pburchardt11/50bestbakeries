@@ -1,0 +1,44 @@
+{
+  "slug": "la-borbonica-bologna",
+  "name": "La Borbonica",
+  "curatedName": "La Borbonica",
+  "city": "Bologna",
+  "country": "Italy",
+  "placeId": "ChIJCw2QO5fUf0cRVaeuCaMOcVM",
+  "googleName": "La Borbonica",
+  "formattedAddress": "Via Riva di Reno, 110/B, 40121 Bologna BO, Italy",
+  "phone": "051 095 7490",
+  "internationalPhone": "+39 051 095 7490",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6012603070921221973",
+  "rating": 4.4,
+  "reviewCount": 1836,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.4990025,
+    11.3402892
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-borbonica-bologna/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:06.399Z"
+}

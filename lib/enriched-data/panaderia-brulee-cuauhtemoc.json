@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-brulee-cuauhtemoc",
+  "name": "Panaderia brulee",
+  "curatedName": "Panaderia brulee",
+  "city": "Cuauhtémoc",
+  "country": "Mexico",
+  "placeId": "ChIJj9_iw_v_0YURZBZMqBa3BNY",
+  "googleName": "Panadería Brûlée",
+  "formattedAddress": "Chihuahua 181, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+  "phone": "55 3397 1531",
+  "internationalPhone": "+52 55 3397 1531",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15421652331964143204",
+  "rating": 4.8,
+  "reviewCount": 250,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4170464,
+    -99.1625455
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-brulee-cuauhtemoc/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:22.181Z"
+}

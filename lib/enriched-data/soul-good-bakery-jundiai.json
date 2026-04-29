@@ -1,0 +1,43 @@
+{
+  "slug": "soul-good-bakery-jundiai",
+  "name": "Soul Good Bakery",
+  "curatedName": "Soul Good Bakery",
+  "city": "Jundiaí",
+  "country": "Brazil",
+  "placeId": "ChIJY8iQ_NEnz5QRblmJxJw2TcQ",
+  "googleName": "Soul Good Bakery",
+  "formattedAddress": "R. Abílio Figueiredo, 264 - Anhangabaú, Jundiaí - SP, 13208-140, Brazil",
+  "phone": "(11) 97121-7008",
+  "internationalPhone": "+55 11 97121-7008",
+  "website": "http://linktr.ee/soulgoodbakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=14145022051580729710",
+  "rating": 4.7,
+  "reviewCount": 650,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.1914456,
+    -46.8908463
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/soul-good-bakery-jundiai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:17.450Z"
+}

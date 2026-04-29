@@ -1,0 +1,44 @@
+{
+  "slug": "pan-santana-barranquilla",
+  "name": "Pan Santana",
+  "curatedName": "Pan Santana",
+  "city": "Barranquilla",
+  "country": "Colombia",
+  "placeId": "ChIJF9I3wgkt9I4RsTMmOMmohTE",
+  "googleName": "Pan Santana",
+  "formattedAddress": "Por Carrera 49B y 49C, Cl. 79, Nte. Centro Historico, Barranquilla, Atlántico, Colombia",
+  "phone": "(605) 3587702",
+  "internationalPhone": "+57 605 3587702",
+  "website": "http://www.pansantana.com",
+  "googleMapsUrl": "https://maps.google.com/?cid=3568443861944906673",
+  "rating": 4.6,
+  "reviewCount": 2570,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.9996532,
+    -74.81140529999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-santana-barranquilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:33.156Z"
+}

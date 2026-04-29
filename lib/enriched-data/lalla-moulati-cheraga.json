@@ -1,0 +1,32 @@
+{
+  "slug": "lalla-moulati-cheraga",
+  "name": "Lalla Moulati",
+  "city": "Chéraga",
+  "country": "Algeria",
+  "placeId": "ChIJx0njybGxjxIRHgS7zVZfcKw",
+  "googleName": "Dar Lella Moulati",
+  "formattedAddress": "QX47+439, Chéraga 16014, Algeria",
+  "phone": "0540 01 05 29",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12425536198338610206",
+  "rating": 5,
+  "reviewCount": 10,
+  "coords": [
+    36.7553125,
+    2.9626875
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 8:30 PM",
+    "Tuesday: 10:30 AM – 8:30 PM",
+    "Wednesday: 10:30 AM – 8:30 PM",
+    "Thursday: 10:30 AM – 8:30 PM",
+    "Friday: Closed",
+    "Saturday: 10:30 AM – 8:30 PM",
+    "Sunday: 10:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lalla-moulati-cheraga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:16:28.881Z"
+}

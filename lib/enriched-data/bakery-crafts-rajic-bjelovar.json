@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-crafts-rajic-bjelovar",
+  "name": "Bakery Crafts Rajic",
+  "city": "Bjelovar",
+  "country": "Croatia",
+  "placeId": "ChIJTx61H_A1ZkcRrX2M9UPuf00",
+  "googleName": "Bakery Crafts Rajic",
+  "formattedAddress": "Slavonska cesta 30, 43000, Bjelovar, Croatia",
+  "phone": "098 927 8953",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5584444038612549037",
+  "rating": 4.7,
+  "reviewCount": 73,
+  "coords": [
+    45.8895734,
+    16.8566154
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 4:00 PM",
+    "Tuesday: 5:30 AM – 4:00 PM",
+    "Wednesday: 5:30 AM – 4:00 PM",
+    "Thursday: 5:30 AM – 4:00 PM",
+    "Friday: 5:30 AM – 4:00 PM",
+    "Saturday: 5:30 AM – 2:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-crafts-rajic-bjelovar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:49:00.716Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "prove-patisserie-adelaide",
+  "name": "Prove Patisserie",
+  "curatedName": "Prove Patisserie",
+  "city": "Adelaide",
+  "country": "Australia",
+  "placeId": "ChIJz6OxP-HHsGoRqxxlypWqV74",
+  "googleName": "Prove Patisserie",
+  "formattedAddress": "157 Magill Rd, Stepney SA 5069, Australia",
+  "phone": "0461 479 342",
+  "internationalPhone": "+61 461 479 342",
+  "website": "http://provepatisserie.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13715618750502608043",
+  "rating": 4.7,
+  "reviewCount": 92,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.9149609,
+    138.6331868
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 1:00 PM",
+    "Wednesday: 8:00 AM – 1:00 PM",
+    "Thursday: 8:00 AM – 1:00 PM",
+    "Friday: 8:00 AM – 1:00 PM",
+    "Saturday: 8:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/prove-patisserie-adelaide/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:49.413Z"
+}

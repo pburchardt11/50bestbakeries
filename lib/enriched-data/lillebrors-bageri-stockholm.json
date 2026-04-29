@@ -1,0 +1,43 @@
+{
+  "slug": "lillebrors-bageri-stockholm",
+  "name": "Lillebrors Bageri",
+  "curatedName": "Lillebrors Bageri",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "placeId": "ChIJEYSGdnmdX0YRfExkhkCBKjs",
+  "googleName": "Lillebrors bageri",
+  "formattedAddress": "Rörstrandsgatan 10, 113 40 Stockholm, Sweden",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://lillebrors.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4263362111392205948",
+  "rating": 4.8,
+  "reviewCount": 2012,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.3400367,
+    18.03423
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lillebrors-bageri-stockholm/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:55.611Z"
+}

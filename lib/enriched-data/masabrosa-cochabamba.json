@@ -1,0 +1,32 @@
+{
+  "slug": "masabrosa-cochabamba",
+  "name": "MASABROSA Cochabamba",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJi4qE7VN145MRlp29f1muVD4",
+  "googleName": "Masa Madre Cafetería y Panadería",
+  "formattedAddress": "Chimpu Ojjllu 1549, Cochabamba, Bolivia",
+  "phone": "79751390",
+  "website": "https://www.facebook.com/masamadre.cbba/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4491406427813682582",
+  "rating": 4.5,
+  "reviewCount": 195,
+  "coords": [
+    -17.3604683,
+    -66.1805991
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/masabrosa-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:14:46.763Z"
+}

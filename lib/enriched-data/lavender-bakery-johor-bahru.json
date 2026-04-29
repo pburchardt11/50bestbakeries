@@ -1,0 +1,43 @@
+{
+  "slug": "lavender-bakery-johor-bahru",
+  "name": "Lavender Bakery",
+  "curatedName": "Lavender Bakery",
+  "city": "Johor Bahru",
+  "country": "Malaysia",
+  "placeId": "ChIJe0JXKilt2jERnq9KJ0dgA6Y",
+  "googleName": "Lavender Bakery",
+  "formattedAddress": "64, 66 & 68, Jalan Serampang, Taman Pelangi, 80400 Johor Bahru, Johor Darul Ta'zim, Malaysia",
+  "phone": "07-335 9966",
+  "internationalPhone": "+60 7-335 9966",
+  "website": "http://www.lavenderbakery.com.my/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11962510893944319902",
+  "rating": 4.3,
+  "reviewCount": 1631,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.4839646,
+    103.7691184
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lavender-bakery-johor-bahru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:03.459Z"
+}

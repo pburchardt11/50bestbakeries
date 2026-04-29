@@ -1,0 +1,32 @@
+{
+  "slug": "cambranes-son-bakery-belize-city",
+  "name": "Cambranes & Son Bakery",
+  "city": "Belize City",
+  "country": "Belize",
+  "placeId": "ChIJ29T1_WlYXI8RWLHrPmfKFAs",
+  "googleName": "Cambranes Bakery",
+  "formattedAddress": "13 Freetown Rd, Belize City, Belize",
+  "phone": "223-0426",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=798485578737496408",
+  "rating": 4.3,
+  "reviewCount": 30,
+  "coords": [
+    17.5013771,
+    -88.1878313
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:00 PM",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cambranes-son-bakery-belize-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:04:58.207Z"
+}

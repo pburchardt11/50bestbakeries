@@ -1,0 +1,43 @@
+{
+  "slug": "vulevu-bakery-cuauhtemoc",
+  "name": "Vulevú Bakery",
+  "curatedName": "Vulevú Bakery",
+  "city": "Cuauhtémoc",
+  "country": "Mexico",
+  "placeId": "ChIJa8_u91L_0YURsl1kRD14yaY",
+  "googleName": "Vulevú Bakery",
+  "formattedAddress": "Córdoba 234, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+  "phone": "55 9362 4826",
+  "internationalPhone": "+52 55 9362 4826",
+  "website": "https://vulevubakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12018269285150645682",
+  "rating": 4.7,
+  "reviewCount": 1497,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.412271,
+    -99.1568368
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:45 AM – 9:00 PM",
+    "Wednesday: 7:45 AM – 9:00 PM",
+    "Thursday: 7:45 AM – 9:00 PM",
+    "Friday: 7:45 AM – 9:00 PM",
+    "Saturday: 7:45 AM – 9:00 PM",
+    "Sunday: 8:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vulevu-bakery-cuauhtemoc/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:06.879Z"
+}

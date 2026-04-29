@@ -1,0 +1,43 @@
+{
+  "slug": "cinnamood-essen",
+  "name": "Cinnamood Essen",
+  "curatedName": "Cinnamood Essen",
+  "city": "Essen",
+  "country": "Germany",
+  "placeId": "ChIJEfUNBQDDuEcRQ5abUrC2mEs",
+  "googleName": "Cinnamood Essen",
+  "formattedAddress": "Limbecker Str. 47, 45127 Essen, Germany",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://cinnamood.de/?fbclid=PAY2xjawI0KC1leHRuA2FlbQIxMQABpkRKaGLoKN_l5uj1ozxHxqMCZ-F2lliT4qNBxDJ6OPeAi45IujtFjxTryA_aem_qe5LdsChnDTYtcMpOG6cHw",
+  "googleMapsUrl": "https://maps.google.com/?cid=5447304617721042499",
+  "rating": 4.8,
+  "reviewCount": 100,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.4576332,
+    7.0090983
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 8:30 PM",
+    "Tuesday: 10:30 AM – 8:30 PM",
+    "Wednesday: 10:30 AM – 8:30 PM",
+    "Thursday: 10:30 AM – 8:30 PM",
+    "Friday: 10:30 AM – 8:30 PM",
+    "Saturday: 10:30 AM – 8:30 PM",
+    "Sunday: 12:00 – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnamood-essen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:27.561Z"
+}

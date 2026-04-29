@@ -1,0 +1,43 @@
+{
+  "slug": "momo-pan-artesanal-tuxtla-gutierrez",
+  "name": "Momo Pan Artesanal",
+  "curatedName": "Momo Pan Artesanal",
+  "city": "Tuxtla Gutiérrez",
+  "country": "Mexico",
+  "placeId": "ChIJBd218Nbb7IUR6bGD8rl0Y9Q",
+  "googleName": "MOMO - Pan Artesanal",
+  "formattedAddress": "Av, Camino Al Club Campestre, Rosario Sabinal 190, Club Campestre Granjas, 29057 Tuxtla Gutiérrez, Chis., Mexico",
+  "phone": "961 142 9223",
+  "internationalPhone": "+52 961 142 9223",
+  "website": "https://momomx.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15304204300721566185",
+  "rating": 4.4,
+  "reviewCount": 153,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    16.7542837,
+    -93.1808099
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:30 PM",
+    "Tuesday: 9:00 AM – 8:30 PM",
+    "Wednesday: 9:00 AM – 8:30 PM",
+    "Thursday: 9:00 AM – 8:30 PM",
+    "Friday: 9:00 AM – 8:30 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/momo-pan-artesanal-tuxtla-gutierrez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:06.138Z"
+}

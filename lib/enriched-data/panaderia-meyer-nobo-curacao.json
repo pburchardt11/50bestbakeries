@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-meyer-nobo-curacao",
+  "name": "Panaderia Meyer Nobo",
+  "city": "Curacao",
+  "country": "Curaçao",
+  "placeId": "ChIJyQIDoe59g44R9Qv9xziQYvE",
+  "googleName": "Panaderia Meyer",
+  "formattedAddress": "Kaya Rignald Recordino, Willemstad, Curaçao",
+  "phone": "9 767 6776",
+  "website": "https://l.ead.me/panaderiameyer",
+  "googleMapsUrl": "https://maps.google.com/?cid=17393623284406094837",
+  "rating": 4.1,
+  "reviewCount": 136,
+  "coords": [
+    12.1228961,
+    -68.8677313
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 9:00 PM",
+    "Tuesday: 5:30 AM – 9:00 PM",
+    "Wednesday: 5:30 AM – 9:00 PM",
+    "Thursday: 5:30 AM – 9:00 PM",
+    "Friday: 5:30 AM – 9:00 PM",
+    "Saturday: 5:30 AM – 9:00 PM",
+    "Sunday: 5:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-meyer-nobo-curacao/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:21.311Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "better-bread-riga",
+  "name": "Better Bread",
+  "curatedName": "Better Bread",
+  "city": "Rīga",
+  "country": "Latvia",
+  "placeId": "ChIJQanOK2vP7kYRdb7_MvNNeYo",
+  "googleName": "Better Bread",
+  "formattedAddress": "Dzirnavu iela 31-1B, Centra rajons, Rīga, LV-1010, Latvia",
+  "phone": "29 126 543",
+  "internationalPhone": "+371 29 126 543",
+  "website": "http://www.betterbread.lv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9978092156344057461",
+  "rating": 4.7,
+  "reviewCount": 282,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    56.9590395,
+    24.1123018
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/better-bread-riga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:42.752Z"
+}

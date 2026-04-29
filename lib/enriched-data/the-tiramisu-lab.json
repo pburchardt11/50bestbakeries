@@ -1,0 +1,43 @@
+{
+  "slug": "the-tiramisu-lab",
+  "name": "The Tiramisu Lab",
+  "curatedName": "The Tiramisu Lab",
+  "city": "กรุงเทพมหานคร",
+  "country": "Thailand",
+  "placeId": "ChIJdV7-e96f4jARjgRTlwTLZ_8",
+  "googleName": "THE TIRAMISÙ LAB",
+  "formattedAddress": "17, inside Urban Wine shop, 22 Soi Sukhumvit 13, Khwaeng Khlong Toei Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+  "phone": "094 663 6965",
+  "internationalPhone": "+66 94 663 6965",
+  "website": "http://www.tiramisulab.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18403901622851929230",
+  "rating": 4.8,
+  "reviewCount": 367,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.7427079,
+    100.5576847
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 12:00 AM",
+    "Tuesday: 11:00 AM – 12:00 AM",
+    "Wednesday: 11:00 AM – 12:00 AM",
+    "Thursday: 11:00 AM – 12:00 AM",
+    "Friday: 11:00 AM – 12:00 AM",
+    "Saturday: 11:00 AM – 12:00 AM",
+    "Sunday: 11:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-tiramisu-lab/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:37.156Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "petite-bouchee-patisserie-toronto",
+  "name": "Petite Bouchee Patisserie",
+  "curatedName": "Petite Bouchee Patisserie",
+  "city": "Toronto",
+  "country": "Canada",
+  "placeId": "ChIJe3RA5fE1K4gRQvD6x-3d1ho",
+  "googleName": "Petite Bouchée Patisserie",
+  "formattedAddress": "28 Sousa Mendes St, Toronto, ON M6P 0B2, Canada",
+  "phone": "(416) 588-8882",
+  "internationalPhone": "+1 416-588-8882",
+  "website": "https://www.instagram.com/petite__bouchee_patisserie/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1933977103334305858",
+  "rating": 4.9,
+  "reviewCount": 366,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6613487,
+    -79.45359950000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/petite-bouchee-patisserie-toronto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:23.044Z"
+}

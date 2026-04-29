@@ -1,0 +1,43 @@
+{
+  "slug": "conti-s-pastry-shoppe-new-york",
+  "name": "Conti's Pastry Shoppe",
+  "curatedName": "Conti's Pastry Shoppe",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJ6XKlJr30wokRxG-xW1ZDtDg",
+  "googleName": "Conti's Pastry Shoppe",
+  "formattedAddress": "786 Morris Park Ave, Bronx, NY 10462, USA",
+  "phone": "(718) 239-9339",
+  "internationalPhone": "+1 718-239-9339",
+  "website": "http://www.contispastryshoppe.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4085964800116486084",
+  "rating": 4.7,
+  "reviewCount": 3421,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.845768,
+    -73.8628311
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Family-run bakeshop featuring pies, pastries & made-to-order cakes in an old-fashioned interior.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/conti-s-pastry-shoppe-new-york/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:55.300Z"
+}

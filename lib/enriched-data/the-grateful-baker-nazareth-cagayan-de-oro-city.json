@@ -1,0 +1,43 @@
+{
+  "slug": "the-grateful-baker-nazareth-cagayan-de-oro-city",
+  "name": "The Grateful Baker Nazareth",
+  "curatedName": "The Grateful Baker Nazareth",
+  "city": "Cagayan de Oro City",
+  "country": "Philippines",
+  "placeId": "ChIJQXQk1y2N_zIR1jwEVooSq60",
+  "googleName": "The Grateful Baker Nazareth",
+  "formattedAddress": "20th St, Cagayan De Oro City, Misamis Oriental, Philippines",
+  "phone": "0917 628 6839",
+  "internationalPhone": "+63 917 628 6839",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12514116374936960214",
+  "rating": 4.8,
+  "reviewCount": 39,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    8.4694632,
+    124.6483899
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-grateful-baker-nazareth-cagayan-de-oro-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:55.196Z"
+}

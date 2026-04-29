@@ -1,0 +1,32 @@
+{
+  "slug": "roenciro-s-healthy-food-alto-hospicio",
+  "name": "Roenciro's Healthy Food",
+  "city": "Alto Hospicio",
+  "country": "Chile",
+  "placeId": "ChIJAw1KKGUVUpER2FHycz3P7BE",
+  "googleName": "ROENCIRO'S HEALTHY FOOD",
+  "formattedAddress": "Pasaje Oficina Salitrera - Pan de Azúcar 3732, 1130000 Alto Hospicio, Tarapacá, Chile",
+  "phone": "9 8917 5799",
+  "website": "http://www.roenciros.cl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1291635055993704920",
+  "rating": 5,
+  "reviewCount": 10,
+  "coords": [
+    -20.2729632,
+    -70.098891
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roenciro-s-healthy-food-alto-hospicio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:43:29.454Z"
+}

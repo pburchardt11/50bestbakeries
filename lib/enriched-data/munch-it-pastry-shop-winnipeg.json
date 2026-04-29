@@ -1,0 +1,43 @@
+{
+  "slug": "munch-it-pastry-shop-winnipeg",
+  "name": "Munch It Pastry Shop",
+  "curatedName": "Munch It Pastry Shop",
+  "city": "Winnipeg",
+  "country": "Canada",
+  "placeId": "ChIJ9yv7RUtx6lIRq6X33RyQYvg",
+  "googleName": "Munch It Pastry Shop",
+  "formattedAddress": "Dominion Centre, 67 Goulet St, Winnipeg, MB R2H 0R5, Canada",
+  "phone": "(204) 415-9553",
+  "internationalPhone": "+1 204-415-9553",
+  "website": "http://www.munchit.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17898026322781250987",
+  "rating": 4.8,
+  "reviewCount": 227,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.8823406,
+    -97.125586
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/munch-it-pastry-shop-winnipeg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:41.805Z"
+}

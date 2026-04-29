@@ -1,0 +1,42 @@
+{
+  "slug": "conti-s-bakeshop-restaurant-angeles-city",
+  "name": "Conti's Bakeshop & Restaurant",
+  "curatedName": "Conti's Bakeshop & Restaurant",
+  "city": "Angeles City",
+  "country": "Philippines",
+  "placeId": "ChIJfyHUIC_tljMRUGptFSH32Uk",
+  "googleName": "Conti's Bakeshop & Restaurant - SM Clark Pampanga",
+  "formattedAddress": "2009, SM City Clark, Clark Freeport, Angeles, 2009 Pampanga, Philippines",
+  "phone": "0917 804 7725",
+  "internationalPhone": "+63 917 804 7725",
+  "website": "https://www.contis.ph/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5321556156180425296",
+  "rating": 4.4,
+  "reviewCount": 161,
+  "priceLevel": 2,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    15.1699328,
+    120.5807338
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/conti-s-bakeshop-restaurant-angeles-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:31.784Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "dona-bakehouse-johor-bahru",
+  "name": "Doña Bakehouse",
+  "curatedName": "Doña Bakehouse",
+  "city": "Johor Bahru",
+  "country": "Malaysia",
+  "placeId": "ChIJDcO3P2QT2jERiikomswn_bU",
+  "googleName": "Doña Bakehouse",
+  "formattedAddress": "14, Jalan Tan Hiok Nee, Bandar Johor Bahru, 80888 Johor Bahru, Johor Darul Ta'zim, Malaysia",
+  "phone": "010-667 8625",
+  "internationalPhone": "+60 10-667 8625",
+  "website": "https://donabakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13113681449685887370",
+  "rating": 4.5,
+  "reviewCount": 1374,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.4566725,
+    103.7643296
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 6:30 PM",
+    "Saturday: 8:30 AM – 6:30 PM",
+    "Sunday: 8:30 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dona-bakehouse-johor-bahru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:46.670Z"
+}

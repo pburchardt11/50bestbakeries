@@ -1,0 +1,32 @@
+{
+  "slug": "llanopan-acacias",
+  "name": "LlanoPan Acacias",
+  "city": "Acacías",
+  "country": "Colombia",
+  "placeId": "ChIJ-xLiQKk_Po4RZjyBKb0dcWw",
+  "googleName": "LlanoPan Acacias",
+  "formattedAddress": "Panorama, Cra 31a #9a-11, Acacías, Meta, Colombia",
+  "phone": "310 8182349",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7814059526746881126",
+  "rating": 4.8,
+  "reviewCount": 8,
+  "coords": [
+    3.9832574,
+    -73.7741217
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/llanopan-acacias/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:45:37.249Z"
+}

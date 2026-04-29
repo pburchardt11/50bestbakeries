@@ -1,0 +1,44 @@
+{
+  "slug": "galo-padeiro-recife",
+  "name": "Galo Padeiro",
+  "curatedName": "Galo Padeiro",
+  "city": "Recife",
+  "country": "Brazil",
+  "placeId": "ChIJFZ81jZYYqwcR9l3YGt7gA08",
+  "googleName": "Galo Padeiro",
+  "formattedAddress": "R. Cap. Lima, 82 - Santo Amaro, Recife - PE, 50040-080, Brazil",
+  "phone": "(81) 3423-6094",
+  "internationalPhone": "+55 81 3423-6094",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5693641598464187894",
+  "rating": 4.6,
+  "reviewCount": 3094,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -8.0542813,
+    -34.8775509
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/galo-padeiro-recife/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:06.030Z"
+}

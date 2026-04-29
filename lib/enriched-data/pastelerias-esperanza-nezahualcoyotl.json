@@ -1,0 +1,43 @@
+{
+  "slug": "pastelerias-esperanza-nezahualcoyotl",
+  "name": "Pastelerías Esperanza",
+  "curatedName": "Pastelerías Esperanza",
+  "city": "Nezahualcóyotl",
+  "country": "Mexico",
+  "placeId": "ChIJGUxl0jDj0YURq9oFx5hcshs",
+  "googleName": "Pastelerías Esperanza Benito Juárez",
+  "formattedAddress": "C. El Capiro 297, Benito Juárez, 57000 Cdad. Nezahualcóyotl, Méx., Mexico",
+  "phone": "55 6285 0400 ext. 9011",
+  "internationalPhone": "+52 55 6285 0400 ext. 9011",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1995759396122385067",
+  "rating": 4.2,
+  "reviewCount": 1583,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4102883,
+    -99.0038632
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelerias-esperanza-nezahualcoyotl/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:37:43.397Z"
+}

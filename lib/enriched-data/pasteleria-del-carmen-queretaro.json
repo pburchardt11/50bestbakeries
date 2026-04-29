@@ -1,0 +1,44 @@
+{
+  "slug": "pasteleria-del-carmen-queretaro",
+  "name": "Pastelería del Carmen",
+  "curatedName": "Pastelería del Carmen",
+  "city": "Querétaro",
+  "country": "Mexico",
+  "placeId": "ChIJ3eLxpIhQ04URhPuvokEz-nI",
+  "googleName": "Pasteleria Del \"CARMEN\"",
+  "formattedAddress": "76110, Av. de la Luz 342, Satelite, 76110 Santiago de Querétaro, Qro., Mexico",
+  "phone": "782 114 7912",
+  "internationalPhone": "+52 782 114 7912",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8284990821496781700",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.6374978,
+    -100.45147
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-del-carmen-queretaro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:24.291Z"
+}

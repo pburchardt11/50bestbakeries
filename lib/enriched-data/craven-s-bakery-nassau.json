@@ -1,0 +1,32 @@
+{
+  "slug": "craven-s-bakery-nassau",
+  "name": "Craven's Bakery",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJowj93j59L4kRR3GjClFM6_0",
+  "googleName": "Craven Bakery",
+  "formattedAddress": "Baillou Hill Rd, Nassau, The Bahamas",
+  "phone": "(242) 326-4246",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18296801822077317447",
+  "rating": 4.8,
+  "reviewCount": 11,
+  "coords": [
+    25.047241,
+    -77.3497424
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/craven-s-bakery-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:43:02.309Z"
+}

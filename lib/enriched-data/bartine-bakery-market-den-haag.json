@@ -1,0 +1,43 @@
+{
+  "slug": "bartine-bakery-market-den-haag",
+  "name": "Bartine Bakery & Market",
+  "curatedName": "Bartine Bakery & Market",
+  "city": "Den Haag",
+  "country": "Netherlands",
+  "placeId": "ChIJHUrFquq3xUcR8ZqRjTMCLD0",
+  "googleName": "Bartine Bakery & Market",
+  "formattedAddress": "Piet Heinstraat 72, 2518 CK Den Haag, Netherlands",
+  "phone": "070 204 2448",
+  "internationalPhone": "+31 70 204 2448",
+  "website": "https://bartine.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4407900555730590449",
+  "rating": 4.6,
+  "reviewCount": 601,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.0819207,
+    4.2989936
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bartine-bakery-market-den-haag/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:07.933Z"
+}

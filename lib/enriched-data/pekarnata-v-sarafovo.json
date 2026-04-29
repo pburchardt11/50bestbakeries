@@ -1,0 +1,32 @@
+{
+  "slug": "pekarnata-v-sarafovo",
+  "name": "Pekarnata v Sarafovo",
+  "city": "Бургас",
+  "country": "Bulgaria",
+  "placeId": "ChIJi8cAz7eWpkARhTZE_nt1CG4",
+  "googleName": "Bakery pastry Burgas",
+  "formattedAddress": "Sarafovo, ul. \"Angel Dimitrov\" 53, 8016 Burgas, Bulgaria",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7928716319393068677",
+  "rating": 4.1,
+  "reviewCount": 375,
+  "coords": [
+    42.5610239,
+    27.5219708
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarnata-v-sarafovo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:25:17.560Z"
+}

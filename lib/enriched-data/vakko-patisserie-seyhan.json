@@ -1,0 +1,42 @@
+{
+  "slug": "vakko-patisserie-seyhan",
+  "name": "Vakko Patisserie",
+  "curatedName": "Vakko Patisserie",
+  "city": "Seyhan",
+  "country": "Türkiye",
+  "placeId": "ChIJSTUZY6WPKBURINywayvLNNs",
+  "googleName": "Vakko Patisserie 01 BURDA",
+  "formattedAddress": "Ahmet Remzi Yüreğir, Turhan Cemal Beriker Blv. No:162, 01130 Seyhan/Adana, Türkiye",
+  "phone": "(0322) 453 51 61",
+  "internationalPhone": "+90 322 453 51 61",
+  "website": "https://www.vakko.com/en/vakko-patisserie-petit-four",
+  "googleMapsUrl": "https://maps.google.com/?cid=15795473180445957152",
+  "rating": 4,
+  "reviewCount": 21,
+  "priceLevel": null,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.99368070000001,
+    35.3072726
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vakko-patisserie-seyhan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:03:10.219Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "peace-of-cake-cdmx",
+  "name": "Peace of Cake",
+  "curatedName": "Peace of Cake",
+  "city": "Cdmx",
+  "country": "Mexico",
+  "placeId": "ChIJOxHSbOUD0oUR56opW0f6-fQ",
+  "googleName": "Peace of Cake",
+  "formattedAddress": "Everest Wellness Center, Temístocles 59-1er piso, Polanco, Polanco V Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX, Mexico",
+  "phone": "55 6853 1948",
+  "internationalPhone": "+52 55 6853 1948",
+  "website": "https://www.peaceofcake.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17652415398834449127",
+  "rating": 5,
+  "reviewCount": 1,
+  "priceLevel": null,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_TEMPORARILY",
+  "coords": [
+    19.4303334,
+    -99.19205939999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/peace-of-cake-cdmx/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:15.554Z"
+}

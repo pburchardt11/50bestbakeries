@@ -1,0 +1,43 @@
+{
+  "slug": "felicia-s-pastry-shop-iloilo-city",
+  "name": "Felicia's Pastry Shop",
+  "curatedName": "Felicia's Pastry Shop",
+  "city": "Iloilo City",
+  "country": "Philippines",
+  "placeId": "ChIJhQ0_CTjlrjMR56Hf5CHGoUI",
+  "googleName": "Felicia's Pastry Shop - Iloilo",
+  "formattedAddress": "Mandurriao, Iloilo City, Iloilo, Philippines",
+  "phone": "0995 150 6035",
+  "internationalPhone": "+63 995 150 6035",
+  "website": "https://www.facebook.com/feliciasiloilo?mibextid=ZbWKwL",
+  "googleMapsUrl": "https://maps.google.com/?cid=4801336526629741031",
+  "rating": 4.2,
+  "reviewCount": 77,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7087208,
+    122.5495532
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/felicia-s-pastry-shop-iloilo-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:53:15.541Z"
+}

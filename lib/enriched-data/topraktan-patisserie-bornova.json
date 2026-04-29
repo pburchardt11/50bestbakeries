@@ -1,0 +1,43 @@
+{
+  "slug": "topraktan-patisserie-bornova",
+  "name": "Topraktan patisserie",
+  "curatedName": "Topraktan patisserie",
+  "city": "Bornova",
+  "country": "Türkiye",
+  "placeId": "ChIJm8PTCyZ9uRQRqGn_lXGn6VQ",
+  "googleName": "Topraktan patisserie",
+  "formattedAddress": "Kazımdirik, 159. Sk. 9 A, 35100 Bornova/İzmir, Türkiye",
+  "phone": "(0232) 343 22 21",
+  "internationalPhone": "+90 232 343 22 21",
+  "website": "http://topraktan.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6118605675049216424",
+  "rating": 4.4,
+  "reviewCount": 1269,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.4611406,
+    27.2148987
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 11:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/topraktan-patisserie-bornova/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:14.934Z"
+}

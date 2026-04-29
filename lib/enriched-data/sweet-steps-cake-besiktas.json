@@ -1,0 +1,43 @@
+{
+  "slug": "sweet-steps-cake-besiktas",
+  "name": "Sweet Steps Cake",
+  "curatedName": "Sweet Steps Cake",
+  "city": "Beşiktaş",
+  "country": "Türkiye",
+  "placeId": "ChIJAeRbYKy3yhQRF6-8UqRTEV8",
+  "googleName": "Sweet Steps Cake",
+  "formattedAddress": "Mecidiye, Büyük Kuyu Sk. No:23b, 34347 Beşiktaş/İstanbul, Türkiye",
+  "phone": "0554 746 38 67",
+  "internationalPhone": "+90 554 746 38 67",
+  "website": "http://www.sweetstepscake.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6850348473435074327",
+  "rating": 5,
+  "reviewCount": 41,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.05435629999999,
+    29.0218804
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 8:00 PM",
+    "Tuesday: 10:30 AM – 8:00 PM",
+    "Wednesday: 10:30 AM – 8:00 PM",
+    "Thursday: 10:30 AM – 8:00 PM",
+    "Friday: 10:30 AM – 8:00 PM",
+    "Saturday: 10:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-steps-cake-besiktas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:12.100Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "lilac-bakery-winnipeg",
+  "name": "Lilac Bakery",
+  "curatedName": "Lilac Bakery",
+  "city": "Winnipeg",
+  "country": "Canada",
+  "placeId": "ChIJrRqd6w106lIR9z7ERgYF2P0",
+  "googleName": "Lilac Bakery",
+  "formattedAddress": "920 Grosvenor Ave, Winnipeg, MB R3M 0N4, Canada",
+  "phone": "(204) 992-8000",
+  "internationalPhone": "+1 204-992-8000",
+  "website": "http://www.lilacbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18291375411080478455",
+  "rating": 4.5,
+  "reviewCount": 211,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.8705084,
+    -97.1629227
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lilac-bakery-winnipeg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:51.506Z"
+}

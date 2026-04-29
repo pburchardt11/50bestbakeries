@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-palo-tostao-acacias",
+  "name": "Panadería Palo Tostao",
+  "city": "Acacías",
+  "country": "Colombia",
+  "placeId": "ChIJ5SskXK85Po4R0oYLgRE-bP0",
+  "googleName": "Panadería Palo Tostao",
+  "formattedAddress": "Cl. 15 # 15 - 08, Acacías, Meta, Colombia",
+  "phone": "313 6526904",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18261038833980901074",
+  "rating": 4.2,
+  "reviewCount": 78,
+  "coords": [
+    3.9874268,
+    -73.7584899
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-palo-tostao-acacias/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:45:22.604Z"
+}

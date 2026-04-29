@@ -1,0 +1,32 @@
+{
+  "slug": "paris-baguette-beijing",
+  "name": "Paris Baguette",
+  "city": "Beijing",
+  "country": "China",
+  "placeId": "ChIJlXM5Cees8TUR0TBO1MeRFE4",
+  "googleName": "Paris Baguette",
+  "formattedAddress": "99 Chao Yang Men Wai Da Jie, Chaowai Subdistrict, Chao Yang Qu, Bei Jing Shi, China, 100020",
+  "phone": "010 5876 1066",
+  "website": "https://parisbaguette.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5626282121939005649",
+  "rating": 4,
+  "reviewCount": 1,
+  "coords": [
+    39.9239877,
+    116.4457551
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:00 PM",
+    "Tuesday: 8:30 AM – 10:00 PM",
+    "Wednesday: 8:30 AM – 10:00 PM",
+    "Thursday: 8:30 AM – 10:00 PM",
+    "Friday: 8:30 AM – 10:00 PM",
+    "Saturday: 8:30 AM – 10:00 PM",
+    "Sunday: 8:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Cafe & bakery chain serving French pastries, bread, cakes & sandwiches, plus tea & coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-beijing/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:43:58.431Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "boulangerie-du-palais-lyon",
+  "name": "Boulangerie Du Palais",
+  "curatedName": "Boulangerie Du Palais",
+  "city": "Lyon",
+  "country": "France",
+  "placeId": "ChIJA-T_5arr9EcRTDNovqkhSN0",
+  "googleName": "Boulangerie Du Palais",
+  "formattedAddress": "8 Rue du Palais de Justice, 69005 Lyon, France",
+  "phone": "04 78 37 09 43",
+  "internationalPhone": "+33 4 78 37 09 43",
+  "website": "http://www.chocolatier-bouillet.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15945031493632930636",
+  "rating": 4.3,
+  "reviewCount": 1655,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.762455,
+    4.827690899999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Pastries, cakes & tarts, plus loaves, pizza & sandwiches in a bustling operation.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-du-palais-lyon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:48.094Z"
+}

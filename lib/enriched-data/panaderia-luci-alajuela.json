@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-luci-alajuela",
+  "name": "Panaderia Luci",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJUUZS0Nb5oI8RjbQopR6yjtY",
+  "googleName": "Panaderia Luci",
+  "formattedAddress": "2Q9V+32C 20101 175m Este del semaforo de la parada de taxis de la Iglesia, Av. Central Juan López del Corral, Provincia de Alajuela, Alajuela, Agonía, 20101, Costa Rica",
+  "phone": "7287 9918",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15460490415499162765",
+  "rating": 4,
+  "reviewCount": 10,
+  "coords": [
+    10.0176896,
+    -84.2074994
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: 5:30 AM – 7:00 PM",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: 5:30 AM – 7:00 PM",
+    "Saturday: 5:30 AM – 7:00 PM",
+    "Sunday: 5:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-luci-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:26.713Z"
+}

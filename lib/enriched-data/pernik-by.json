@@ -1,0 +1,32 @@
+{
+  "slug": "pernik-by",
+  "name": "Pernik.by",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJI0oNkf_R20YR7JvFqHn_iHU",
+  "googleName": "Дом пряника Pernik.by",
+  "formattedAddress": "zavulak Paŭnočny 11, Minsk, Minskaja voblasć 220000, Belarus",
+  "phone": "8 029 350-71-21",
+  "website": "http://pernik.by/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8469299997257866220",
+  "rating": 4.8,
+  "reviewCount": 71,
+  "coords": [
+    53.8966957,
+    27.5355856
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pernik-by/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:59:44.919Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "gurgaon-bakers-gurugram",
+  "name": "Gurgaon Bakers",
+  "curatedName": "Gurgaon Bakers",
+  "city": "Gurugram",
+  "country": "India",
+  "placeId": "ChIJrVz4X70YDTkRztfu9uZ7m2U",
+  "googleName": "Gurgaon Bakers",
+  "formattedAddress": "Sector 51, Gurugram, Haryana 122018, India",
+  "phone": "098999 88185",
+  "internationalPhone": "+91 98999 88185",
+  "website": "https://gurgaonbakers.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7321581851136415694",
+  "rating": 4.8,
+  "reviewCount": 1140,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.4248693,
+    77.0682298
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gurgaon-bakers-gurugram/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:49:50.034Z"
+}

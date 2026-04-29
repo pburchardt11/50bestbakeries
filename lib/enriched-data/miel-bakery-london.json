@@ -1,0 +1,44 @@
+{
+  "slug": "miel-bakery-london",
+  "name": "Miel Bakery",
+  "curatedName": "Miel Bakery",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJwYEDBrYFdkgRR1eiBlmtIW4",
+  "googleName": "Miel Bakery",
+  "formattedAddress": "60-61 Warren St, London W1T 5NU, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://mielbakery.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7935814616278521671",
+  "rating": 4.4,
+  "reviewCount": 1204,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5242395,
+    -0.1395342
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Cosy, classic French bakery offering housemade breads, pastries & seasonal tarts, plus hot drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/miel-bakery-london/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:06:00.455Z"
+}

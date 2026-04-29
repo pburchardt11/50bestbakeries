@@ -1,0 +1,43 @@
+{
+  "slug": "la-reyna-saltillo",
+  "name": "La Reyna",
+  "curatedName": "La Reyna",
+  "city": "Saltillo",
+  "country": "Mexico",
+  "placeId": "ChIJSRX3jK9yiIYRsu_WGjiBOOw",
+  "googleName": "La Reyna",
+  "formattedAddress": "Av. Presidente Cárdenas 460, Zona Centro, 25000 Saltillo, Coah., Mexico",
+  "phone": "844 414 9290",
+  "internationalPhone": "+52 844 414 9290",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17021496869615234994",
+  "rating": 4.3,
+  "reviewCount": 264,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.4282134,
+    -100.9915852
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-reyna-saltillo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:37.986Z"
+}

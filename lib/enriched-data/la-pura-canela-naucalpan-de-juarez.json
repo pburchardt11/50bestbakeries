@@ -1,0 +1,43 @@
+{
+  "slug": "la-pura-canela-naucalpan-de-juarez",
+  "name": "La Pura Canela",
+  "curatedName": "La Pura Canela",
+  "city": "Naucalpan de Juárez",
+  "country": "Mexico",
+  "placeId": "ChIJLQa-sUEb0oURj_iexGkQuf0",
+  "googleName": "La Pura Canela",
+  "formattedAddress": "José María Gutiérrez Estrada, Lomas Verdes Sexta Sección, 53126 Naucalpan de Juárez, Méx., Mexico",
+  "phone": "55 2331 7049",
+  "internationalPhone": "+52 55 2331 7049",
+  "website": "http://lapuracanela.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18282662208743602319",
+  "rating": 4.3,
+  "reviewCount": 110,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.52177,
+    -99.27858119999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-pura-canela-naucalpan-de-juarez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:55:48.903Z"
+}

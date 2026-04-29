@@ -1,0 +1,43 @@
+{
+  "slug": "backerei-bohmer-nurnberg",
+  "name": "Bäckerei Böhmer",
+  "curatedName": "Bäckerei Böhmer",
+  "city": "Nürnberg",
+  "country": "Germany",
+  "placeId": "ChIJFYaP5pNXn0cRZOToxgMkrvw",
+  "googleName": "Bäckerei Böhmer",
+  "formattedAddress": "Sulzbacher Str. 99, 90489 Nürnberg, Germany",
+  "phone": "0911 557857",
+  "internationalPhone": "+49 911 557857",
+  "website": "https://instagram.com/baeckerei_boehmer?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=18207529942146147428",
+  "rating": 4.9,
+  "reviewCount": 294,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.459789,
+    11.1012941
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-bohmer-nurnberg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:55.435Z"
+}

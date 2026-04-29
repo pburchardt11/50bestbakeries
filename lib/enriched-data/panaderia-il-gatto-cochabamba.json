@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-il-gatto-cochabamba",
+  "name": "Panaderia Il Gatto",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJ4Q9oC2N145MRfBimp6MZmzw",
+  "googleName": "Panaderia Il Gatto",
+  "formattedAddress": "La Paz 860, Cochabamba, Bolivia",
+  "phone": "77601819",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4367112454348871804",
+  "rating": 4.3,
+  "reviewCount": 13,
+  "coords": [
+    -17.3826221,
+    -66.1527042
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-il-gatto-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:14:33.761Z"
+}

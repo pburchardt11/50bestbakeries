@@ -1,0 +1,43 @@
+{
+  "slug": "dona-manuela-padaria-praia-grande",
+  "name": "Dona Manuela Padaria",
+  "curatedName": "Dona Manuela Padaria",
+  "city": "Praia Grande",
+  "country": "Brazil",
+  "placeId": "ChIJqWI1MHMdzpQR5H8XhG5i77U",
+  "googleName": "Dona Manuela Padaria",
+  "formattedAddress": "R. Rui Barbosa, 618 - Canto do Forte, Praia Grande - SP, 11700-170, Brazil",
+  "phone": "(13) 3473-5992",
+  "internationalPhone": "+55 13 3473-5992",
+  "website": "https://pedido.anota.ai/loja/donamanuela?f=msa",
+  "googleMapsUrl": "https://maps.google.com/?cid=13109805267100860388",
+  "rating": 4.4,
+  "reviewCount": 3511,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -24.008475,
+    -46.4076001
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:30 PM",
+    "Tuesday: 6:30 AM – 10:30 PM",
+    "Wednesday: 6:30 AM – 10:30 PM",
+    "Thursday: 6:30 AM – 10:30 PM",
+    "Friday: 6:30 AM – 10:30 PM",
+    "Saturday: 6:30 AM – 10:30 PM",
+    "Sunday: 6:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dona-manuela-padaria-praia-grande/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:52.584Z"
+}

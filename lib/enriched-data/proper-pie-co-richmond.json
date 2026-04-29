@@ -1,0 +1,43 @@
+{
+  "slug": "proper-pie-co-richmond",
+  "name": "Proper Pie Co.",
+  "curatedName": "Proper Pie Co.",
+  "city": "Richmond",
+  "country": "United States",
+  "placeId": "ChIJDYpEU-EQsYkR1HcPmdk9nnQ",
+  "googleName": "Proper Pie Co.",
+  "formattedAddress": "2505 E Broad St #100, Richmond, VA 23223, USA",
+  "phone": "(804) 343-7437",
+  "internationalPhone": "+1 804-343-7437",
+  "website": "https://www.properpieco.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8403221959505049556",
+  "rating": 4.8,
+  "reviewCount": 1728,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.5314035,
+    -77.4186711
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 12:00 – 6:00 PM",
+    "Thursday: 12:00 – 6:00 PM",
+    "Friday: 12:00 – 6:00 PM",
+    "Saturday: 12:00 – 6:00 PM",
+    "Sunday: 12:00 – 6:00 PM"
+  ],
+  "editorialSummary": "Small, quaint bakery serving a rotating menu of New Zealand–style pies with sweet & savory fillings.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/proper-pie-co-richmond/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:13:03.785Z"
+}

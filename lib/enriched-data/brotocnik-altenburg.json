@@ -1,0 +1,32 @@
+{
+  "slug": "brotocnik-altenburg",
+  "name": "BROTocnik",
+  "city": "Altenburg",
+  "country": "Austria",
+  "placeId": "ChIJW5K9wUC9ckcRIzYtcDODtoI",
+  "googleName": "BROTocnik GmbH",
+  "formattedAddress": "Burgerwiesen 9, 3591 Burgerwiesen, Austria",
+  "phone": "0664 2345151",
+  "website": "https://brotocnik.at/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9418859927640552995",
+  "rating": 3.8,
+  "reviewCount": 26,
+  "coords": [
+    48.6506012,
+    15.6181675
+  ],
+  "openingHours": [
+    "Monday: 3:00 – 6:00 PM",
+    "Tuesday: 3:00 – 6:00 PM",
+    "Wednesday: 3:00 – 6:00 PM",
+    "Thursday: 3:00 – 6:00 PM",
+    "Friday: 3:00 – 6:00 PM",
+    "Saturday: 3:00 – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brotocnik-altenburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:33:36.267Z"
+}

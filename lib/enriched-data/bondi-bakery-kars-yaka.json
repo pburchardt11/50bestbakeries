@@ -1,0 +1,43 @@
+{
+  "slug": "bondi-bakery-kars-yaka",
+  "name": "Bondi Bakery",
+  "curatedName": "Bondi Bakery",
+  "city": "Karşıyaka",
+  "country": "Türkiye",
+  "placeId": "ChIJPYdt9sDZuxQR687Q84cTK60",
+  "googleName": "Bondi Bakery",
+  "formattedAddress": "Nergiz, 1775/3. Sk. No:8, 35560 Karşıyaka/İzmir, Türkiye",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://instagram.com/bondibakery?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=12478088667192151787",
+  "rating": 4.7,
+  "reviewCount": 308,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.459601,
+    27.106012
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bondi-bakery-kars-yaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:17.585Z"
+}

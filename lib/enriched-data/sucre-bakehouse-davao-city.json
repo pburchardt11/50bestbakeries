@@ -1,0 +1,44 @@
+{
+  "slug": "sucre-bakehouse-davao-city",
+  "name": "Sucré Bakehouse",
+  "curatedName": "Sucré Bakehouse",
+  "city": "Davao City",
+  "country": "Philippines",
+  "placeId": "ChIJcwNmMh5t-TIRMagEOFO0FLI",
+  "googleName": "Sucré Bakehouse",
+  "formattedAddress": "519 Mangga, Juna Subdivision, Davao City, 8000 Davao del Sur, Philippines",
+  "phone": "(082) 392 6191",
+  "internationalPhone": "+63 82 392 6191",
+  "website": "https://tinyurl.com/59bfs7xd",
+  "googleMapsUrl": "https://maps.google.com/?cid=12832079507800500273",
+  "rating": 4.9,
+  "reviewCount": 34,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    7.05821,
+    125.5958488
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sucre-bakehouse-davao-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:45.014Z"
+}

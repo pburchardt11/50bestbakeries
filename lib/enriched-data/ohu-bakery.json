@@ -1,0 +1,43 @@
+{
+  "slug": "ohu-bakery",
+  "name": "OHU Bakery",
+  "curatedName": "OHU Bakery",
+  "city": "เชียงใหม่",
+  "country": "Thailand",
+  "placeId": "ChIJjbxdUeo72jARnsVldC8ZXaE",
+  "googleName": "OHU bakery 오후",
+  "formattedAddress": "78 Prapokklao Road, Tambon Phra Sing, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+  "phone": "065 686 5991",
+  "internationalPhone": "+66 65 686 5991",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11627477504547472798",
+  "rating": 4.7,
+  "reviewCount": 328,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.7834224,
+    98.9887535
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: 11:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ohu-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:47.207Z"
+}

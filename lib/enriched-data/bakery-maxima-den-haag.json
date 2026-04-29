@@ -1,0 +1,43 @@
+{
+  "slug": "bakery-maxima-den-haag",
+  "name": "Bakery Maxima",
+  "curatedName": "Bakery Maxima",
+  "city": "Den Haag",
+  "country": "Netherlands",
+  "placeId": "ChIJwdbMYs2wxUcRqO7pQDQStvY",
+  "googleName": "Bakery Maxima",
+  "formattedAddress": "Prins Hendrikstraat 78, 2518 HV Den Haag, Netherlands",
+  "phone": "070 345 3023",
+  "internationalPhone": "+31 70 345 3023",
+  "website": "https://zeeheldenkwartier.com/zaak/bakkerij-maxima",
+  "googleMapsUrl": "https://maps.google.com/?cid=17777416594728283816",
+  "rating": 4.7,
+  "reviewCount": 981,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.0814931,
+    4.2926137
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-maxima-den-haag/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:05.180Z"
+}

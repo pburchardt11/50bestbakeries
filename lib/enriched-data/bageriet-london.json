@@ -1,0 +1,44 @@
+{
+  "slug": "bageriet-london",
+  "name": "Bageriet",
+  "curatedName": "Bageriet",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJn8uATcwEdkgRWaURuaW-j-k",
+  "googleName": "Bageriet",
+  "formattedAddress": "24 Rose St, London WC2E 9EA, UK",
+  "phone": "020 7240 0000",
+  "internationalPhone": "+44 20 7240 0000",
+  "website": "http://www.bageriet.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16829879951490655577",
+  "rating": 4.7,
+  "reviewCount": 1089,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5119236,
+    -0.1261821
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:30 PM",
+    "Tuesday: 9:00 AM – 6:30 PM",
+    "Wednesday: 9:00 AM – 6:30 PM",
+    "Thursday: 9:00 AM – 6:30 PM",
+    "Friday: 9:00 AM – 6:30 PM",
+    "Saturday: 10:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Compact Nordic bakery & cafe with traditional Swedish cakes and pastries to eat in or take away.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bageriet-london/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:57.211Z"
+}

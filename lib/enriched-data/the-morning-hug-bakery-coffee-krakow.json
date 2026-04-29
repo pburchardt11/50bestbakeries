@@ -1,0 +1,44 @@
+{
+  "slug": "the-morning-hug-bakery-coffee-krakow",
+  "name": "The Morning Hug Bakery & Coffee",
+  "curatedName": "The Morning Hug Bakery & Coffee",
+  "city": "Kraków",
+  "country": "Poland",
+  "placeId": "ChIJBbwuG7VbFkcRAul5Ebad_bY",
+  "googleName": "The Morning Hug Bakery & Coffee",
+  "formattedAddress": "Św. Tomasza 22, 31-027 Kraków, Poland",
+  "phone": "732 956 812",
+  "internationalPhone": "+48 732 956 812",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13185868689313491202",
+  "rating": 4.9,
+  "reviewCount": 367,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.0624943,
+    19.9413649
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-morning-hug-bakery-coffee-krakow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:58:13.950Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "the-bonbonerie-cincinnati",
+  "name": "The BonBonerie",
+  "curatedName": "The BonBonerie",
+  "city": "Cincinnati",
+  "country": "United States",
+  "placeId": "ChIJt0SZKUKyQYgRmFs5NSmuQ6Q",
+  "googleName": "The BonBonerie",
+  "formattedAddress": "2030 Madison Rd, Cincinnati, OH 45208, USA",
+  "phone": "(513) 321-3399",
+  "internationalPhone": "+1 513-321-3399",
+  "website": "http://www.bonbonerie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11836495737669639064",
+  "rating": 4.7,
+  "reviewCount": 1342,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.1324512,
+    -84.46166269999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 4:00 PM",
+    "Tuesday: 10:00 AM – 4:00 PM",
+    "Wednesday: 10:00 AM – 4:00 PM",
+    "Thursday: 10:00 AM – 4:00 PM",
+    "Friday: 10:00 AM – 4:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Teapot-adorned bakery with high tea, sweets from cupcakes to cookies & a light cafe menu.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bonbonerie-cincinnati/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:56.957Z"
+}

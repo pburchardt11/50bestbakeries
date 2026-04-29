@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-la-chiquita-puerto-vallarta",
+  "name": "Panadería La Chiquita",
+  "curatedName": "Panadería La Chiquita",
+  "city": "Puerto Vallarta",
+  "country": "Mexico",
+  "placeId": "ChIJV0DsK2RFIYQR_3hS9_hTEyc",
+  "googleName": "Panadería La Chiquita",
+  "formattedAddress": "Rafael Osuna 445, Olímpica, 48330 Puerto Vallarta, Jal., Mexico",
+  "phone": "322 223 1646",
+  "internationalPhone": "+52 322 223 1646",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2815686520803064063",
+  "rating": 4.8,
+  "reviewCount": 261,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.6302266,
+    -105.2280062
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 3:00 PM",
+    "Tuesday: 12:00 – 3:00 PM",
+    "Wednesday: 12:00 – 3:00 PM",
+    "Thursday: 12:00 – 3:00 PM",
+    "Friday: 12:00 – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-chiquita-puerto-vallarta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:11.733Z"
+}

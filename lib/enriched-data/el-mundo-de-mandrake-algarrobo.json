@@ -1,0 +1,32 @@
+{
+  "slug": "el-mundo-de-mandrake-algarrobo",
+  "name": "El Mundo de Mandrake",
+  "city": "Algarrobo",
+  "country": "Chile",
+  "placeId": "ChIJXTaXEWIRYpYRW7ehl4zuQhk",
+  "googleName": "Café Mandrake",
+  "formattedAddress": "Av. Carlos Alessandri 2089, 2711056 Algarrobo, Valparaíso, Chile",
+  "phone": "9 6306 5711",
+  "website": "https://www.cafemandrake.cl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1820279487017891675",
+  "rating": 4,
+  "reviewCount": 3059,
+  "coords": [
+    -33.3611489,
+    -71.6681132
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 9:00 PM",
+    "Tuesday: 9:30 AM – 9:00 PM",
+    "Wednesday: 9:30 AM – 9:00 PM",
+    "Thursday: 9:30 AM – 9:00 PM",
+    "Friday: 9:30 AM – 9:00 PM",
+    "Saturday: 9:30 AM – 10:00 PM",
+    "Sunday: 9:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-mundo-de-mandrake-algarrobo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:43:02.008Z"
+}

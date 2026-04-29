@@ -1,0 +1,43 @@
+{
+  "slug": "sanjay-fresh-bake-bhopal",
+  "name": "Sanjay Fresh Bake",
+  "curatedName": "Sanjay Fresh Bake",
+  "city": "Bhopal",
+  "country": "India",
+  "placeId": "ChIJ_5QoqghofDkRVJWexGAxmSY",
+  "googleName": "Sanjay Fresh Bake",
+  "formattedAddress": "Shop No.5, Sultania Rd, opposite Old Secretariat, Kohefiza, Bhopal, Madhya Pradesh 462001, India",
+  "phone": "081032 62300",
+  "internationalPhone": "+91 81032 62300",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2781308536563340628",
+  "rating": 4.2,
+  "reviewCount": 1415,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.2627975,
+    77.3841379
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sanjay-fresh-bake-bhopal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:33.175Z"
+}

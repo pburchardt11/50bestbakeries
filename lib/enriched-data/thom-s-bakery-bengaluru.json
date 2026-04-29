@@ -1,0 +1,45 @@
+{
+  "slug": "thom-s-bakery-bengaluru",
+  "name": "Thom's Bakery",
+  "curatedName": "Thom's Bakery",
+  "city": "Bengaluru",
+  "country": "India",
+  "placeId": "ChIJfSf0T_MWrjsRyFJUM6cpINw",
+  "googleName": "Thom’s Bakery",
+  "formattedAddress": "26, Promenade Rd, Sindhi Colony, Frazer Town, Bengaluru, Karnataka 560005, India",
+  "phone": "088675 79013",
+  "internationalPhone": "+91 88675 79013",
+  "website": "https://thomsonline.in/product-category/bakery/cakes-pastries/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15861723685696328392",
+  "rating": 4.4,
+  "reviewCount": 15498,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store",
+    "supermarket"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.9915847,
+    77.61430949999999
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 9:30 PM",
+    "Tuesday: 8:30 AM – 9:30 PM",
+    "Wednesday: 8:30 AM – 9:30 PM",
+    "Thursday: 8:30 AM – 9:30 PM",
+    "Friday: 8:30 AM – 9:30 PM",
+    "Saturday: 8:30 AM – 9:30 PM",
+    "Sunday: 8:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": "Low-key outpost stocking produce, cooking staples & household products, plus breads & cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thom-s-bakery-bengaluru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:32.665Z"
+}

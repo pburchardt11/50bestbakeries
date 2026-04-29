@@ -1,0 +1,43 @@
+{
+  "slug": "toprak-bakery-house-izmit",
+  "name": "Toprak Bakery House",
+  "curatedName": "Toprak Bakery House",
+  "city": "İzmit",
+  "country": "Türkiye",
+  "placeId": "ChIJD1C1R0tRyxQRbHAfhFG7mck",
+  "googleName": "Toprak Bakery House",
+  "formattedAddress": "Alikahya Cumhuriyet, Albay Karaosmanoğlu Caddesi Yıldız Konutları No: 11, 41310 İzmit/Kocaeli, Türkiye",
+  "phone": "0530 643 80 73",
+  "internationalPhone": "+90 530 643 80 73",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14526848031843643500",
+  "rating": 4.7,
+  "reviewCount": 130,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.773443,
+    29.9860605
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:30 AM – 6:00 PM",
+    "Wednesday: 9:30 AM – 6:00 PM",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 6:00 PM",
+    "Sunday: 9:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/toprak-bakery-house-izmit/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:03:23.441Z"
+}

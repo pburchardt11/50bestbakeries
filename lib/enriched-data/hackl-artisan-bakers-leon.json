@@ -1,0 +1,43 @@
+{
+  "slug": "hackl-artisan-bakers-leon",
+  "name": "Hackl Artisan Bakers",
+  "curatedName": "Hackl Artisan Bakers",
+  "city": "León",
+  "country": "Mexico",
+  "placeId": "ChIJWQGXB62_K4QRnRKStAUNd_c",
+  "googleName": "Hackl Artisan Bakers",
+  "formattedAddress": "Blvr. Mariano Escobedo Pte. 2503, León Moderno, 37480 León de los Aldama, Gto., Mexico",
+  "phone": "477 299 9774",
+  "internationalPhone": "+52 477 299 9774",
+  "website": "http://www.hackl.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17831735567752237725",
+  "rating": 4.5,
+  "reviewCount": 212,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1087225,
+    -101.6639633
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 2:00 PM, 4:00 – 8:30 PM",
+    "Wednesday: 9:00 AM – 2:00 PM, 4:00 – 8:30 PM",
+    "Thursday: 9:00 AM – 2:00 PM, 4:00 – 8:30 PM",
+    "Friday: 8:00 AM – 2:00 PM, 4:00 – 8:30 PM",
+    "Saturday: 9:00 AM – 2:00 PM, 4:00 – 8:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hackl-artisan-bakers-leon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:29.556Z"
+}

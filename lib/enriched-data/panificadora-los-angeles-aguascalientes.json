@@ -1,0 +1,44 @@
+{
+  "slug": "panificadora-los-angeles-aguascalientes",
+  "name": "Panificadora Los Ángeles",
+  "curatedName": "Panificadora Los Ángeles",
+  "city": "Aguascalientes",
+  "country": "Mexico",
+  "placeId": "ChIJ6Yh8PX3uKYQRMboaUzzc93Y",
+  "googleName": "Panificadora Los Ángeles",
+  "formattedAddress": "Venustiano Carranza 110A, Zona Centro, 20000 Aguascalientes, Ags., Mexico",
+  "phone": "449 915 9943",
+  "internationalPhone": "+52 449 915 9943",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8572562567373437489",
+  "rating": 4.7,
+  "reviewCount": 552,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.8803165,
+    -102.2985422
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-los-angeles-aguascalientes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:39.592Z"
+}

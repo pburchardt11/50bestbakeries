@@ -1,0 +1,44 @@
+{
+  "slug": "le-petit-gateau-melbourne",
+  "name": "Le Petit Gateau",
+  "curatedName": "Le Petit Gateau",
+  "city": "Melbourne",
+  "country": "Australia",
+  "placeId": "ChIJf4q6nkxd1moRawpiDcr8X34",
+  "googleName": "Le Petit Gateau",
+  "formattedAddress": "458 Little Collins St, Melbourne VIC 3000, Australia",
+  "phone": "(03) 9944 8893",
+  "internationalPhone": "+61 3 9944 8893",
+  "website": "https://www.racv.com.au/travel-leisure/racv-club/city-club/food-drink/le-petit-gateau.html?cmpid=gp:rcc",
+  "googleMapsUrl": "https://maps.google.com/?cid=9106274916304554603",
+  "rating": 4.7,
+  "reviewCount": 712,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -37.8162435,
+    144.9596107
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-petit-gateau-melbourne/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:59.044Z"
+}

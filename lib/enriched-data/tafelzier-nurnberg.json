@@ -1,0 +1,43 @@
+{
+  "slug": "tafelzier-nurnberg",
+  "name": "Tafelzier",
+  "curatedName": "Tafelzier",
+  "city": "Nürnberg",
+  "country": "Germany",
+  "placeId": "ChIJXekvq69Xn0cRsY7_Gg5NXpA",
+  "googleName": "Tafelzier",
+  "formattedAddress": "Weintraubengasse 2, 90403 Nürnberg, Germany",
+  "phone": "0911 13137340",
+  "internationalPhone": "+49 911 13137340",
+  "website": "http://www.tafelzier.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10402836912250261169",
+  "rating": 4.6,
+  "reviewCount": 607,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.4543802,
+    11.0743942
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: 2:00 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tafelzier-nurnberg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:58.739Z"
+}

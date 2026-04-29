@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-agita-borovo",
+  "name": "Pekara Agita Borovo",
+  "city": "Borovo",
+  "country": "Croatia",
+  "placeId": "ChIJlxaAt3-RXEcRe9qazZr4aLo",
+  "googleName": "Pekara Agita Borovo",
+  "formattedAddress": "D519 37, 32227, Borovo, Croatia",
+  "phone": "032 440 884",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13432259232390634107",
+  "rating": 4.5,
+  "reviewCount": 53,
+  "coords": [
+    45.3999456,
+    18.9771447
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 8:00 PM",
+    "Tuesday: 5:00 AM – 8:00 PM",
+    "Wednesday: 5:00 AM – 8:00 PM",
+    "Thursday: 5:00 AM – 8:00 PM",
+    "Friday: 5:00 AM – 8:00 PM",
+    "Saturday: 5:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-agita-borovo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:49:26.830Z"
+}

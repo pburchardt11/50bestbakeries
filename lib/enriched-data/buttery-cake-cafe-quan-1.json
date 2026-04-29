@@ -1,0 +1,45 @@
+{
+  "slug": "buttery-cake-cafe-quan-1",
+  "name": "Buttery Cake & Cafe",
+  "curatedName": "Buttery Cake & Cafe",
+  "city": "Quận 1",
+  "country": "Vietnam",
+  "placeId": "ChIJgRwlQ5MvdTERqQ_32WTjau8",
+  "googleName": "Buttery Cake & Cafe",
+  "formattedAddress": "94 Mạc Thị Bưởi, Phường, Sài Gòn, Hồ Chí Minh 72806, Vietnam",
+  "phone": "0878 929 899",
+  "internationalPhone": "+84 878 929 899",
+  "website": "https://buttery.asia/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17251851344889188265",
+  "rating": 4.5,
+  "reviewCount": 447,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.7746158,
+    106.7039802
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:30 PM",
+    "Tuesday: 8:30 AM – 10:30 PM",
+    "Wednesday: 8:30 AM – 10:30 PM",
+    "Thursday: 8:30 AM – 10:30 PM",
+    "Friday: 8:30 AM – 10:30 PM",
+    "Saturday: 8:30 AM – 10:30 PM",
+    "Sunday: 8:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/buttery-cake-cafe-quan-1/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:17:53.504Z"
+}

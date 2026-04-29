@@ -1,0 +1,32 @@
+{
+  "slug": "cake-by-manet",
+  "name": "Cake by Manet",
+  "city": "កំពត",
+  "country": "Cambodia",
+  "placeId": "ChIJB-dzMug3CDERAhbNq_xozGE",
+  "googleName": "Cake by Manet",
+  "formattedAddress": "ផ្លូវមកនំបញ្ចុកទឹកម្ហិច, Kampot, Cambodia",
+  "phone": "017 407 074",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7047122951351375362",
+  "rating": 4.2,
+  "reviewCount": 5,
+  "coords": [
+    10.6254993,
+    104.1716611
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-by-manet/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:30:05.164Z"
+}

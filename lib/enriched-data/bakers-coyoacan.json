@@ -1,0 +1,44 @@
+{
+  "slug": "bakers-coyoacan",
+  "name": "Bakers",
+  "curatedName": "Bakers",
+  "city": "Coyoacán",
+  "country": "Mexico",
+  "placeId": "ChIJH9vKGHf_0YURWWbfZfjD0as",
+  "googleName": "Bakers Coyoacán",
+  "formattedAddress": "Xicoténcatl esquina Abasolo Coyoacán, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, Mexico",
+  "phone": "55 9378 0554",
+  "internationalPhone": "+52 55 9378 0554",
+  "website": "https://bakers.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12380892322246649433",
+  "rating": 4.2,
+  "reviewCount": 671,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.353293,
+    -99.16069639999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 7:30 AM – 10:00 PM",
+    "Sunday: 8:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-coyoacan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:31.060Z"
+}

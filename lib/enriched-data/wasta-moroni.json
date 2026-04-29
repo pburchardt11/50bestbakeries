@@ -1,0 +1,32 @@
+{
+  "slug": "wasta-moroni",
+  "name": "Wasta",
+  "city": "Moroni",
+  "country": "Comoros",
+  "placeId": "ChIJI2lVcEP5mBgR6gk08rSMNPI",
+  "googleName": "Retaj Moroni Hotel",
+  "formattedAddress": "Avenue, Soihili، Moroni, Comoros",
+  "phone": "773 52 69",
+  "website": "http://www.retajmoroniresort.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17452729164753013226",
+  "rating": 3.7,
+  "reviewCount": 451,
+  "coords": [
+    -11.7189931,
+    43.2406462
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "Beachfront, cosy hotel featuring simple rooms, a pizzeria, a fitness centre & outdoor pools.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wasta-moroni/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:45:57.727Z"
+}

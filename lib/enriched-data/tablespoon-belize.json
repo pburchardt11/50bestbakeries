@@ -1,0 +1,32 @@
+{
+  "slug": "tablespoon-belize",
+  "name": "Tablespoon",
+  "city": "Belize",
+  "country": "Belize",
+  "placeId": "ChIJaTCbzGpYXI8RJa6oCsqVrRM",
+  "googleName": "Spoonaz Photo Cafe and Bar",
+  "formattedAddress": "FRW7+2GX, N Front St, Belize City, Belize",
+  "phone": "223-1043",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1417954152686333477",
+  "rating": 4.3,
+  "reviewCount": 330,
+  "coords": [
+    17.4951167,
+    -88.1861333
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 12:00 AM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: 7:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tablespoon-belize/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:04:55.586Z"
+}

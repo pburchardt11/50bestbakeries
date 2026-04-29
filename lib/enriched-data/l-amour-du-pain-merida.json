@@ -1,0 +1,43 @@
+{
+  "slug": "l-amour-du-pain-merida",
+  "name": "L'Amour du Pain",
+  "curatedName": "L'Amour du Pain",
+  "city": "Mérida",
+  "country": "Mexico",
+  "placeId": "ChIJZRNhWUFxVo8RUVhREog0mRs",
+  "googleName": "L'Amour du Pain",
+  "formattedAddress": "C. 26 295-l3, Miguel Alemán, 97148 Mérida, Yuc., Mexico",
+  "phone": "999 529 4790",
+  "internationalPhone": "+52 999 529 4790",
+  "website": "https://www.facebook.com/LAmour-du-Pain-317838082312418/?ti=as",
+  "googleMapsUrl": "https://maps.google.com/?cid=1988678469488302161",
+  "rating": 4.7,
+  "reviewCount": 250,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.9917452,
+    -89.60337369999999
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 4:00 PM",
+    "Tuesday: 8:30 AM – 4:00 PM",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 8:30 AM – 4:30 PM",
+    "Saturday: 8:30 AM – 4:30 PM",
+    "Sunday: 8:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-amour-du-pain-merida/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:32.620Z"
+}

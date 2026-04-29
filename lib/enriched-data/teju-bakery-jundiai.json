@@ -1,0 +1,44 @@
+{
+  "slug": "teju-bakery-jundiai",
+  "name": "Teju Bakery",
+  "curatedName": "Teju Bakery",
+  "city": "Jundiaí",
+  "country": "Brazil",
+  "placeId": "ChIJ9Z2i4cgnz5QRJNmFD7NAXKQ",
+  "googleName": "Teju Bakery",
+  "formattedAddress": "R. Prof. Giácomo Itria, 72 - Anhangabaú, Jundiaí - SP, 13208-070, Brazil",
+  "phone": "(11) 91226-2122",
+  "internationalPhone": "+55 11 91226-2122",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11843412257881315620",
+  "rating": 4.7,
+  "reviewCount": 477,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.1884896,
+    -46.8959312
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/teju-bakery-jundiai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:20.532Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "food-market-brunch-bakery-mar-del-plata",
+  "name": "Food Market Brunch & Bakery",
+  "curatedName": "Food Market Brunch & Bakery",
+  "city": "Mar del Plata",
+  "country": "Argentina",
+  "placeId": "ChIJidufo-vdhJUR2FNZCI8kfv8",
+  "googleName": "Food Market Brunch & Bakery",
+  "formattedAddress": "Lamadrid 2185 B7600EHA, B7600EHA Mar del Plata, Provincia de Buenos Aires, Argentina",
+  "phone": "0223 632-5667",
+  "internationalPhone": "+54 223 632-5667",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18410192523476161496",
+  "rating": 3.6,
+  "reviewCount": 57,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -38.007419,
+    -57.54216090000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/food-market-brunch-bakery-mar-del-plata/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:52.172Z"
+}

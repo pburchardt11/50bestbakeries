@@ -1,0 +1,45 @@
+{
+  "slug": "ceviz-ev-yap-m-kag-thane",
+  "name": "Ceviz Ev Yapımı | Kağıthane",
+  "curatedName": "Ceviz Ev Yapımı | Kağıthane",
+  "city": "Kağıthane",
+  "country": "Türkiye",
+  "placeId": "ChIJhVUrrIa3yhQR6jzvHuvRaHk",
+  "googleName": "Ceviz Ev Yapımı | Kağıthane",
+  "formattedAddress": "Merkez, Cendere Cad. No:26/2F C Blok, 34406 Kağıthane/İstanbul, Türkiye",
+  "phone": "(0212) 830 20 06",
+  "internationalPhone": "+90 212 830 20 06",
+  "website": "https://cevizevyapimi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8748473083933703402",
+  "rating": 4.6,
+  "reviewCount": 51,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0856743,
+    28.9810126
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ceviz-ev-yap-m-kag-thane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:04:57.619Z"
+}

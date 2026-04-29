@@ -1,0 +1,43 @@
+{
+  "slug": "the-wee-boulangerie-edinburgh",
+  "name": "The Wee Boulangerie",
+  "curatedName": "The Wee Boulangerie",
+  "city": "Edinburgh",
+  "country": "United Kingdom",
+  "placeId": "ChIJS9OImIHHh0gRL8o_QRWyw-Y",
+  "googleName": "The Wee Boulangerie",
+  "formattedAddress": "67 Clerk St, Edinburgh EH8 9JG, UK",
+  "phone": "0131 629 3134",
+  "internationalPhone": "+44 131 629 3134",
+  "website": "http://theweeboulangerie.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16628330053540760111",
+  "rating": 4.6,
+  "reviewCount": 256,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    55.9416981,
+    -3.1818416
+  ],
+  "openingHours": [
+    "Monday: 8:45 AM – 6:00 PM",
+    "Tuesday: 8:45 AM – 6:00 PM",
+    "Wednesday: 8:45 AM – 6:00 PM",
+    "Thursday: 8:45 AM – 6:00 PM",
+    "Friday: 8:45 AM – 6:00 PM",
+    "Saturday: 8:45 AM – 6:00 PM",
+    "Sunday: 8:45 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-wee-boulangerie-edinburgh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:07:08.054Z"
+}

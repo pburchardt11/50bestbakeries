@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-and-salty",
+  "name": "Sweet and Salty",
+  "city": "Белене",
+  "country": "Bulgaria",
+  "placeId": "ChIJ70bdfQDdq0ARFsY4KF88JLA",
+  "googleName": "Sweet & Salty Lovech",
+  "formattedAddress": "Lovech Center, ул. „Цачо Шишков“ 1, 5500 Lovech, Bulgaria",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12692336029231269398",
+  "rating": 4.8,
+  "reviewCount": 25,
+  "coords": [
+    43.1367275,
+    24.7161717
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-and-salty/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:24:53.819Z"
+}

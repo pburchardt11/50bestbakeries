@@ -1,0 +1,32 @@
+{
+  "slug": "second-serving-antigua",
+  "name": "Second Serving",
+  "city": "Antigua",
+  "country": "Antigua & Barbuda",
+  "placeId": "ChIJLR5QI_qTEowRPBcFekCnfz8",
+  "googleName": "Second Serving 268",
+  "formattedAddress": "Golden Grove, St John's, Antigua and Barbuda",
+  "phone": "(268) 780-6648",
+  "website": "https://www.facebook.com/secondserving268/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4575559641798612796",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    17.1037422,
+    -61.8426034
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/second-serving-antigua/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:20:03.248Z"
+}

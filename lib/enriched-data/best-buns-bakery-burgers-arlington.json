@@ -1,0 +1,43 @@
+{
+  "slug": "best-buns-bakery-burgers-arlington",
+  "name": "Best Buns Bakery & Burgers",
+  "curatedName": "Best Buns Bakery & Burgers",
+  "city": "Arlington",
+  "country": "United States",
+  "placeId": "ChIJdYpnZU-xt4kRHoztA8cc5J4",
+  "googleName": "Best Buns Bakery & Burgers",
+  "formattedAddress": "4010 Campbell Ave, Arlington, VA 22206, USA",
+  "phone": "(703) 578-1500",
+  "internationalPhone": "+1 703-578-1500",
+  "website": "https://www.bestbunsbakeryandburgers.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11449307793772612638",
+  "rating": 4.5,
+  "reviewCount": 928,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.8405841,
+    -77.087296
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "This bustling bakery & cafe doles out handmade loaves of bread, breakfast sandwiches & cupcakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/best-buns-bakery-burgers-arlington/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:21.901Z"
+}

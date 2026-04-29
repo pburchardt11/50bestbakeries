@@ -1,0 +1,43 @@
+{
+  "slug": "paine-artisanal-bakery-fortaleza",
+  "name": "Paine artisanal bakery",
+  "curatedName": "Paine artisanal bakery",
+  "city": "Fortaleza",
+  "country": "Brazil",
+  "placeId": "ChIJ-0uRtnhIxwcRR33CZwryEcU",
+  "googleName": "Paine artisanal bakery",
+  "formattedAddress": "R. Castro Monte, 899 - Varjota, Fortaleza - CE, 60230-175, Brazil",
+  "phone": "(85) 3267-3566",
+  "internationalPhone": "+55 85 3267-3566",
+  "website": "http://www.paineartesanal.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14200397226580278599",
+  "rating": 4.7,
+  "reviewCount": 1849,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -3.7321097,
+    -38.4859476
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 7:30 PM",
+    "Sunday: 7:30 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paine-artisanal-bakery-fortaleza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:17.024Z"
+}

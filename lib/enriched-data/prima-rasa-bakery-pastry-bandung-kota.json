@@ -1,0 +1,43 @@
+{
+  "slug": "prima-rasa-bakery-pastry-bandung-kota",
+  "name": "Prima Rasa Bakery Pastry",
+  "curatedName": "Prima Rasa Bakery Pastry",
+  "city": "Bandung Kota",
+  "country": "Indonesia",
+  "placeId": "ChIJ3_vZDM7naC4RA8TKJybNImY",
+  "googleName": "Prima Rasa • Bakery & Pastry",
+  "formattedAddress": "Jl. Kemuning No.20, Merdeka, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40113, Indonesia",
+  "phone": "(022) 7203440",
+  "internationalPhone": "+62 22 7203440",
+  "website": "http://www.primarasabakery.co.id/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7359670304836862979",
+  "rating": 4.6,
+  "reviewCount": 5299,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.9157642,
+    107.6278733
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/prima-rasa-bakery-pastry-bandung-kota/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:08.743Z"
+}

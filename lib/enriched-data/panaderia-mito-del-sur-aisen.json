@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-mito-del-sur-aisen",
+  "name": "Panaderia Mito del Sur",
+  "city": "Aisén",
+  "country": "Chile",
+  "placeId": "ChIJHWfrPADRjL0RK-A1JoIb4jg",
+  "googleName": "Panaderia Mito del Sur",
+  "formattedAddress": "Sgto. Aldea 1291, 6000559 Puerto Aysen, Aysén, Chile",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4098868856661336107",
+  "rating": 4.6,
+  "reviewCount": 19,
+  "coords": [
+    -45.4025134,
+    -72.689945
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-mito-del-sur-aisen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:42:35.656Z"
+}

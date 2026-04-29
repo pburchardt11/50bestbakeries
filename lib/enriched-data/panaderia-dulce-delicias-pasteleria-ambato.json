@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-dulce-delicias-pasteleria-ambato",
+  "name": "Panadería | Dulce Delicias | Pastelería",
+  "city": "Ambato",
+  "country": "Ecuador",
+  "placeId": "ChIJofzqHOWB05ERj1NB0KiSLSs",
+  "googleName": "Panadería | Dulce Delicias | Pastelería",
+  "formattedAddress": "Ciudadela España Cádiz, y y Málaga, 180101 Ambato, Ecuador",
+  "phone": "099 900 0475",
+  "website": "http://www.dulcedelicias.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3111304171328983951",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    -1.2526747,
+    -78.6375335
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-dulce-delicias-pasteleria-ambato/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:00:20.574Z"
+}

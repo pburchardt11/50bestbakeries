@@ -1,0 +1,43 @@
+{
+  "slug": "detallitos-con-amor-matamoros",
+  "name": "Detallitos con amor",
+  "curatedName": "Detallitos con amor",
+  "city": "Matamoros",
+  "country": "Mexico",
+  "placeId": "ChIJQ7GiK2GVb4YRdmIi8gS4iYE",
+  "googleName": "Detallitos con amor",
+  "formattedAddress": "Andrómeda 8, Satélite Bugambilias, Satélite, 87458 Heroica Matamoros, Tamps., Mexico",
+  "phone": "868 158 9515",
+  "internationalPhone": "+52 868 158 9515",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9334194034083783286",
+  "rating": 4.9,
+  "reviewCount": 53,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.8531172,
+    -97.4919771
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 7:30 PM",
+    "Tuesday: 10:30 AM – 7:30 PM",
+    "Wednesday: 10:30 AM – 7:30 PM",
+    "Thursday: 10:30 AM – 7:30 PM",
+    "Friday: 10:30 AM – 7:30 PM",
+    "Saturday: 9:00 AM – 6:30 PM",
+    "Sunday: 11:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/detallitos-con-amor-matamoros/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:58.847Z"
+}

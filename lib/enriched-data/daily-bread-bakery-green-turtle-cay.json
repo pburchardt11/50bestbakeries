@@ -1,0 +1,32 @@
+{
+  "slug": "daily-bread-bakery-green-turtle-cay",
+  "name": "Daily Bread Bakery",
+  "city": "Green Turtle Cay",
+  "country": "Bahamas",
+  "placeId": "ChIJpwVFEXiFI4kRIaSc57cmCmY",
+  "googleName": "Daily Bread Bakery",
+  "formattedAddress": "Green Turtle Cay, The Bahamas",
+  "phone": "(242) 577-0160",
+  "website": "http://www.facebook.com/people/Daily-Bread-Bakery/100063647824911/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7352731912942429217",
+  "rating": 4.7,
+  "reviewCount": 6,
+  "coords": [
+    26.7586588,
+    -77.3280357
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/daily-bread-bakery-green-turtle-cay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:39:55.805Z"
+}

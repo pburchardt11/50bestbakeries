@@ -1,0 +1,32 @@
+{
+  "slug": "milina-bakery",
+  "name": "Milina Bakery",
+  "city": "Бургас",
+  "country": "Bulgaria",
+  "placeId": "ChIJG9c4F8eUpkARp3t0QJ0wUpg",
+  "googleName": "Пекарна Милина | Milina Bakery",
+  "formattedAddress": "Burgas Center, ul. \"Kont Androvanti\" 2, 8000 Burgas, Bulgaria",
+  "phone": "056 825 281",
+  "website": "https://www.facebook.com/MilinaBakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=10975888693804694439",
+  "rating": 4.8,
+  "reviewCount": 69,
+  "coords": [
+    42.492732,
+    27.472177
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/milina-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:26:31.783Z"
+}

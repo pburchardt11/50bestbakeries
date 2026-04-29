@@ -1,0 +1,44 @@
+{
+  "slug": "la-cristina-san-isidro",
+  "name": "La Cristina",
+  "curatedName": "La Cristina",
+  "city": "San Isidro",
+  "country": "Peru",
+  "placeId": "ChIJp8C72nXJBZERYerPYgIumKM",
+  "googleName": "La Cristina",
+  "formattedAddress": "Ca. Coronel Odriozola 190, San Isidro 15046, Peru",
+  "phone": "913 312 558",
+  "internationalPhone": "+51 913 312 558",
+  "website": "https://lacristina.pe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11788222612424878689",
+  "rating": 4.5,
+  "reviewCount": 576,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -12.098038,
+    -77.03159099999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-cristina-san-isidro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:46.507Z"
+}

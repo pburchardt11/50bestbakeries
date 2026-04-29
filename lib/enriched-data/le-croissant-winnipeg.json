@@ -1,0 +1,43 @@
+{
+  "slug": "le-croissant-winnipeg",
+  "name": "Le Croissant",
+  "curatedName": "Le Croissant",
+  "city": "Winnipeg",
+  "country": "Canada",
+  "placeId": "ChIJUbKa-rR26lIRwqK_1-1fElU",
+  "googleName": "Le Croissant",
+  "formattedAddress": "276 Tache Ave, Winnipeg, MB R2H 1Z8, Canada",
+  "phone": "(204) 237-3536",
+  "internationalPhone": "+1 204-237-3536",
+  "website": "https://www.lecroissant.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6130067517936214722",
+  "rating": 4.7,
+  "reviewCount": 900,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.8802973,
+    -97.12313619999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-croissant-winnipeg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:23.442Z"
+}

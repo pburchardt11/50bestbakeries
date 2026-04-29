@@ -1,0 +1,43 @@
+{
+  "slug": "jacinto-pane-cucina-porto-alegre",
+  "name": "Jacinto Pane&Cucina",
+  "curatedName": "Jacinto Pane&Cucina",
+  "city": "Porto Alegre",
+  "country": "Brazil",
+  "placeId": "ChIJ8V91Xsd5GZURpNkKRTVc7lg",
+  "googleName": "Jacinto Pane&Cucina",
+  "formattedAddress": "R. Jacinto Gomes, 209 - Santana, Porto Alegre - RS, 90040-270, Brazil",
+  "phone": "(51) 98484-8784",
+  "internationalPhone": "+55 51 98484-8784",
+  "website": "https://jacinto.goomer.app/menu",
+  "googleMapsUrl": "https://maps.google.com/?cid=6408160703656155556",
+  "rating": 4.9,
+  "reviewCount": 56,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -30.0394346,
+    -51.2095984
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 10:30 AM – 6:30 PM",
+    "Saturday: 10:30 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jacinto-pane-cucina-porto-alegre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:33.608Z"
+}

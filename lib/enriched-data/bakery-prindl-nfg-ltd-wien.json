@@ -1,0 +1,46 @@
+{
+  "slug": "bakery-prindl-nfg-ltd-wien",
+  "name": "Bakery Prindl NFG. Ltd.",
+  "curatedName": "Bakery Prindl NFG. Ltd.",
+  "city": "Wien",
+  "country": "Austria",
+  "placeId": "ChIJcaa2xbMHbUcR725EgXnFRuU",
+  "googleName": "Bakery Prindl NFG. Ltd.",
+  "formattedAddress": "Jägerstraße 2, 1200 Wien, Austria",
+  "phone": "01 3300455",
+  "internationalPhone": "+43 1 3300455",
+  "website": "https://prindl.wien/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16521109408705703663",
+  "rating": 4.5,
+  "reviewCount": 2549,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.22645439999999,
+    16.3703734
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 8:00 PM",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 5:30 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-prindl-nfg-ltd-wien/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:13.131Z"
+}

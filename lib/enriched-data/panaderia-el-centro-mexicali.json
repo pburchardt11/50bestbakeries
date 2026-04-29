@@ -1,0 +1,44 @@
+{
+  "slug": "panaderia-el-centro-mexicali",
+  "name": "Panadería El Centro",
+  "curatedName": "Panadería El Centro",
+  "city": "Mexicali",
+  "country": "Mexico",
+  "placeId": "ChIJj6V2gMR614ARVSysnaAcZ4I",
+  "googleName": "Panadería El Centro",
+  "formattedAddress": "C. H. Colegio Militar 1150, Orizaba, 21130 Mexicali, B.C., Mexico",
+  "phone": "686 553 8110",
+  "internationalPhone": "+52 686 553 8110",
+  "website": "https://www.facebook.com/panaderiapasteleriaelcentro",
+  "googleMapsUrl": "https://maps.google.com/?cid=9396510623697480789",
+  "rating": 4.6,
+  "reviewCount": 857,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.6514183,
+    -115.505845
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-el-centro-mexicali/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:07.238Z"
+}

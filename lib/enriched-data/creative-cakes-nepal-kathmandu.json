@@ -1,0 +1,43 @@
+{
+  "slug": "creative-cakes-nepal-kathmandu",
+  "name": "Creative Cakes Nepal",
+  "curatedName": "Creative Cakes Nepal",
+  "city": "Kathmandu",
+  "country": "Nepal",
+  "placeId": "ChIJYXgrdhwZ6zkRoUszeDQpyQw",
+  "googleName": "Creative Cakes Nepal",
+  "formattedAddress": "Baneshwor, Kathmandu 44600, Nepal",
+  "phone": "985-1159768",
+  "internationalPhone": "+977 985-1159768",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=921312904105642913",
+  "rating": 4.8,
+  "reviewCount": 147,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    27.6922845,
+    85.3472135
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/creative-cakes-nepal-kathmandu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:43.206Z"
+}

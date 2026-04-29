@@ -1,0 +1,43 @@
+{
+  "slug": "adventist-bakery-george-town",
+  "name": "Adventist Bakery",
+  "curatedName": "Adventist Bakery",
+  "city": "George Town",
+  "country": "Malaysia",
+  "placeId": "ChIJfeUXGADDSjARMCHbSNSPkuQ",
+  "googleName": "Adventist Bakery",
+  "formattedAddress": "465, Jalan Burma, 10350 George Town, Pulau Pinang, Malaysia",
+  "phone": "04-222 7502",
+  "internationalPhone": "+60 4-222 7502",
+  "website": "http://www.adventistbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16470384929165484336",
+  "rating": 4.8,
+  "reviewCount": 940,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    5.4320049,
+    100.3052519
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/adventist-bakery-george-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:14.315Z"
+}

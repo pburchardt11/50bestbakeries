@@ -1,0 +1,43 @@
+{
+  "slug": "ch-ujuk-chihuahua",
+  "name": "Ch'ujuk",
+  "curatedName": "Ch'ujuk",
+  "city": "Chihuahua",
+  "country": "Mexico",
+  "placeId": "ChIJ5RG9_vhB6oYR5hfv8fmQmW0",
+  "googleName": "Ch'ujuk",
+  "formattedAddress": "Av Paseos de la Universidad 15301, Plaza, Los Huertos, 31125 Chihuahua, Chih., Mexico",
+  "phone": "614 397 6436",
+  "internationalPhone": "+52 614 397 6436",
+  "website": "https://www.facebook.com/chujukcandy?mibextid=ZbWKwL",
+  "googleMapsUrl": "https://maps.google.com/?cid=7897502824751110118",
+  "rating": 4.7,
+  "reviewCount": 152,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.7184419,
+    -106.1447642
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ch-ujuk-chihuahua/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:18.610Z"
+}

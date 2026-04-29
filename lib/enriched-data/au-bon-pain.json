@@ -1,0 +1,42 @@
+{
+  "slug": "au-bon-pain",
+  "name": "Au Bon Pain",
+  "curatedName": "Au Bon Pain",
+  "city": "กรุงเทพมหานคร",
+  "country": "Thailand",
+  "placeId": "ChIJHaF0zAif4jARrJ0kXnYBh08",
+  "googleName": "Au Bon Pain, K Village",
+  "formattedAddress": "PH99+WPW, Khlong Tan, Khlong Toei, Bangkok 10110, Thailand",
+  "phone": "065 940 7102",
+  "internationalPhone": "+66 65 940 7102",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5730550658749472172",
+  "rating": 4,
+  "reviewCount": 81,
+  "priceLevel": 2,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.7198505,
+    100.5693134
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Counter-service chain cafe serving soups, salads & sandwiches along with breads & other baked goods.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-bon-pain/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:21.776Z"
+}

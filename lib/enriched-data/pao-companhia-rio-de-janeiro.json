@@ -1,0 +1,44 @@
+{
+  "slug": "pao-companhia-rio-de-janeiro",
+  "name": "Pão & Companhia",
+  "curatedName": "Pão & Companhia",
+  "city": "Rio de Janeiro",
+  "country": "Brazil",
+  "placeId": "ChIJLbDoZkTVmwARzNFnT4CxAK0",
+  "googleName": "Pão & Companhia Copacabana",
+  "formattedAddress": "R. Raimundo Corrêa, 09 - Copacabana, Rio de Janeiro - RJ, 22040-041, Brazil",
+  "phone": "(21) 2236-3194",
+  "internationalPhone": "+55 21 2236-3194",
+  "website": "http://www.paoecia.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12466158933207667148",
+  "rating": 4.5,
+  "reviewCount": 3108,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.972464,
+    -43.188191
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pao-companhia-rio-de-janeiro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:59.958Z"
+}

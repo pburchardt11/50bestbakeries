@@ -1,0 +1,43 @@
+{
+  "slug": "biga-paes-e-pizzas-artesanais-cascavel",
+  "name": "BIGA - Pães e Pizzas Artesanais",
+  "curatedName": "BIGA - Pães e Pizzas Artesanais",
+  "city": "Cascavel",
+  "country": "Brazil",
+  "placeId": "ChIJXRhKPODV85QRUR2xBpzb2NY",
+  "googleName": "BIGA - Pães e Pizzas Artesanais",
+  "formattedAddress": "R. Mal. Cândido Rondon, 2731 - Centro, Cascavel - PR, 85810-120, Brazil",
+  "phone": "(45) 99105-1993",
+  "internationalPhone": "+55 45 99105-1993",
+  "website": "https://www.instagram.com/biga.cascavel/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15481365182259731793",
+  "rating": 4.9,
+  "reviewCount": 69,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -24.9500979,
+    -53.46413709999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/biga-paes-e-pizzas-artesanais-cascavel/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:27.156Z"
+}

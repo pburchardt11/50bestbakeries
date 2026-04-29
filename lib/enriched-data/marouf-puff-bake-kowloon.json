@@ -1,0 +1,43 @@
+{
+  "slug": "marouf-puff-bake-kowloon",
+  "name": "Marouf & Puff Bake",
+  "curatedName": "Marouf & Puff Bake",
+  "city": "Kowloon",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJ6QVXxroBBDQRexPdRPhQy3E",
+  "googleName": "Marouf & Puff Bake",
+  "formattedAddress": "G/F, 3-3A Humphreys Ave, Tsim Sha Tsui, Hong Kong",
+  "phone": "6993 4206",
+  "internationalPhone": "+852 6993 4206",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8199736573795570555",
+  "rating": 4.6,
+  "reviewCount": 502,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.2984081,
+    114.1728933
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marouf-puff-bake-kowloon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:04.777Z"
+}

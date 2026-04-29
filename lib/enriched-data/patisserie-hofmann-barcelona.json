@@ -1,0 +1,43 @@
+{
+  "slug": "patisserie-hofmann-barcelona",
+  "name": "Patisserie Hofmann",
+  "curatedName": "Patisserie Hofmann",
+  "city": "Barcelona",
+  "country": "Spain",
+  "placeId": "ChIJI0Kjcf6ipBIRUiHGMcGog88",
+  "googleName": "Patisserie Hofmann",
+  "formattedAddress": "Carrer dels Flassaders, 44, Ciutat Vella, 08003 Barcelona, Spain",
+  "phone": "932 68 82 21",
+  "internationalPhone": "+34 932 68 82 21",
+  "website": "http://hofmannpasteleria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14952980735517401426",
+  "rating": 4.4,
+  "reviewCount": 3893,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.385079,
+    2.1827036
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-hofmann-barcelona/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:56:26.824Z"
+}

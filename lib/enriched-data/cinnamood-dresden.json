@@ -1,0 +1,45 @@
+{
+  "slug": "cinnamood-dresden",
+  "name": "Cinnamood Dresden",
+  "curatedName": "Cinnamood Dresden",
+  "city": "Dresden",
+  "country": "Germany",
+  "placeId": "ChIJ6dV6MwDPCUcRj_8nW9k8sX0",
+  "googleName": "CINNAMOOD",
+  "formattedAddress": "Seestraße 14, 01067 Dresden, Germany",
+  "phone": "0351 30999341",
+  "internationalPhone": "+49 351 30999341",
+  "website": "https://cinnamoodrolls.com/deutschland/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9057087229853695887",
+  "rating": 4.4,
+  "reviewCount": 439,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.0479903,
+    13.7365315
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 8:30 PM",
+    "Tuesday: 9:30 AM – 8:30 PM",
+    "Wednesday: 9:30 AM – 8:30 PM",
+    "Thursday: 9:30 AM – 8:30 PM",
+    "Friday: 9:30 AM – 8:30 PM",
+    "Saturday: 9:30 AM – 8:30 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnamood-dresden/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:11.883Z"
+}

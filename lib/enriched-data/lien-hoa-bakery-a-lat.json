@@ -1,0 +1,44 @@
+{
+  "slug": "lien-hoa-bakery-a-lat",
+  "name": "Liên Hoa Bakery",
+  "curatedName": "Liên Hoa Bakery",
+  "city": "Ðà Lạt",
+  "country": "Vietnam",
+  "placeId": "ChIJaccuxy4TcTERtZKESxVV1pU",
+  "googleName": "Lien Hoa Bakery",
+  "formattedAddress": "15-17, 19 Ba Tháng Hai, Phường 1, Xuân Hương - Đà Lạt, Lâm Đồng, Vietnam",
+  "phone": "0263 3837 303",
+  "internationalPhone": "+84 263 3837 303",
+  "website": "https://banhmilienhoa1987.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10796910706616996533",
+  "rating": 4.1,
+  "reviewCount": 5255,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    11.9427415,
+    108.4351179
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 12:00 AM",
+    "Tuesday: 5:00 AM – 12:00 AM",
+    "Wednesday: 5:00 AM – 12:00 AM",
+    "Thursday: 5:00 AM – 12:00 AM",
+    "Friday: 5:00 AM – 12:00 AM",
+    "Saturday: 5:00 AM – 12:00 AM",
+    "Sunday: 5:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lien-hoa-bakery-a-lat/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:18:43.373Z"
+}

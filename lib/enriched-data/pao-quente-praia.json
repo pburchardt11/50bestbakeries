@@ -1,0 +1,32 @@
+{
+  "slug": "pao-quente-praia",
+  "name": "Pão Quente",
+  "city": "Praia",
+  "country": "Cape Verde",
+  "placeId": "ChIJp4I2-uOYNQkR1lv1PrcPEuc",
+  "googleName": "Pão Quente",
+  "formattedAddress": "WF9R+3R6, Praia, Cabo Verde",
+  "phone": "932 59 74",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16650388052051844054",
+  "rating": 4,
+  "reviewCount": 316,
+  "coords": [
+    14.9176542,
+    -23.5079933
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pao-quente-praia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:40:34.400Z"
+}

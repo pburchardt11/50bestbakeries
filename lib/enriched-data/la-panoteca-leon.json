@@ -1,0 +1,43 @@
+{
+  "slug": "la-panoteca-leon",
+  "name": "La Panoteca",
+  "curatedName": "La Panoteca",
+  "city": "León",
+  "country": "Mexico",
+  "placeId": "ChIJc0cac0W_K4QRM568drBglh0",
+  "googleName": "La Panoteca",
+  "formattedAddress": "1, Blvd. Campestre 1001, Jardines del Moral, 37160 León de los Aldama, Gto., Mexico",
+  "phone": "477 717 8585",
+  "internationalPhone": "+52 477 717 8585",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2131997784629091891",
+  "rating": 4.4,
+  "reviewCount": 1287,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1499573,
+    -101.6930767
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-panoteca-leon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:10.068Z"
+}

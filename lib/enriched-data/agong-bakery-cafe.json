@@ -1,0 +1,45 @@
+{
+  "slug": "agong-bakery-cafe",
+  "name": "Agong Bakery Cafe",
+  "curatedName": "Agong Bakery Cafe",
+  "city": "ភ្នំពេញ",
+  "country": "Cambodia",
+  "placeId": "ChIJo3CU-ZtRCTERAdA58f5fzo4",
+  "googleName": "Agong Bakery Cafe",
+  "formattedAddress": "St 360, Phnom Penh 120104, Cambodia",
+  "phone": "010 364 111",
+  "internationalPhone": "+855 10 364 111",
+  "website": "https://www.facebook.com/agongbakery?mibextid=LQQJ4d",
+  "googleMapsUrl": "https://maps.google.com/?cid=10290267747161591809",
+  "rating": 4.8,
+  "reviewCount": 1196,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    11.5480842,
+    104.9176098
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/agong-bakery-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:42.009Z"
+}

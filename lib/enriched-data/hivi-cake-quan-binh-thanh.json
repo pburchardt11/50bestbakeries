@@ -1,0 +1,43 @@
+{
+  "slug": "hivi-cake-quan-binh-thanh",
+  "name": "Hivi Cake",
+  "curatedName": "Hivi Cake",
+  "city": "Quận Bình Thạnh",
+  "country": "Vietnam",
+  "placeId": "ChIJtcuL3BUpdTERgR1hMSt3Ptw",
+  "googleName": "Hivi Cake",
+  "formattedAddress": "300 Đ. Ung Văn Khiêm, Phường, Thạnh Mỹ Tây, Hồ Chí Minh 72308, Vietnam",
+  "phone": "0375 131 071",
+  "internationalPhone": "+84 375 131 071",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15870253164295953793",
+  "rating": 4.5,
+  "reviewCount": 291,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.8028909,
+    106.7222157
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 7:30 AM – 10:00 PM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hivi-cake-quan-binh-thanh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:17:55.998Z"
+}

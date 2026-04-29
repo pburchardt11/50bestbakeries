@@ -1,0 +1,45 @@
+{
+  "slug": "la-boulangerie-chicago",
+  "name": "La Boulangerie",
+  "curatedName": "La Boulangerie",
+  "city": "Chicago",
+  "country": "United States",
+  "placeId": "ChIJ9X4kwHrND4gRkpu9BrUQS6I",
+  "googleName": "La Boulangerie & Co Logan",
+  "formattedAddress": "3129 W Logan Blvd, Chicago, IL 60647, USA",
+  "phone": "(773) 666-5880",
+  "internationalPhone": "+1 773-666-5880",
+  "website": "https://laboulangerieandco.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11694459227085839250",
+  "rating": 4.4,
+  "reviewCount": 643,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.9277528,
+    -87.70608190000002
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 3:00 PM",
+    "Tuesday: 7:30 AM – 3:00 PM",
+    "Wednesday: 7:30 AM – 3:00 PM",
+    "Thursday: 7:30 AM – 3:00 PM",
+    "Friday: 7:30 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:30 PM",
+    "Sunday: 8:00 AM – 3:30 PM"
+  ],
+  "editorialSummary": "Laid-back fixture turning out French pastries & light fare,\nwith dining space in a garden patio.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boulangerie-chicago/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:09:56.645Z"
+}

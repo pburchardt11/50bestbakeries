@@ -1,0 +1,43 @@
+{
+  "slug": "benedetto-panaderia-artesanal-san-miguel-de-tucuman",
+  "name": "Benedetto Panadería Artesanal",
+  "curatedName": "Benedetto Panadería Artesanal",
+  "city": "San Miguel de Tucumán",
+  "country": "Argentina",
+  "placeId": "ChIJxewJkW5dIpQRj1HHdk-eAdY",
+  "googleName": "Benedetto Panadería Artesanal",
+  "formattedAddress": "Av. Ejército del Nte. 830, T4000 San Miguel de Tucumán, Tucumán, Argentina",
+  "phone": "0381 487-8507",
+  "internationalPhone": "+54 381 487-8507",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15420780663225667983",
+  "rating": 4.4,
+  "reviewCount": 190,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.8141697,
+    -65.2298167
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/benedetto-panaderia-artesanal-san-miguel-de-tucuman/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:05.282Z"
+}

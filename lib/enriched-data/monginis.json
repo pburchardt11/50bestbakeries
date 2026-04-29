@@ -1,0 +1,43 @@
+{
+  "slug": "monginis",
+  "name": "Monginis",
+  "curatedName": "Monginis",
+  "city": "القاهرة",
+  "country": "Egypt",
+  "placeId": "ChIJ05EfT_A_WBQR60GIJvYenN4",
+  "googleName": "Monginis - مونجيني",
+  "formattedAddress": "بلوك 49 - مساكن الزاوية, بجوار كشرى الامبراطور, منشية الجمل، القديمة, قسم الزاوية الحمراء، محافظة القاهرة‬ 11659, Egypt",
+  "phone": "02 25788887",
+  "internationalPhone": "+20 2 25788887",
+  "website": "https://www.monginisbakery.com/market",
+  "googleMapsUrl": "https://maps.google.com/?cid=16040730015344116203",
+  "rating": 4.2,
+  "reviewCount": 612,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.0940062,
+    31.2721021
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": "Outlet for bakery chain offering creative cakes, pastries, sweet gifts and flowers.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/monginis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:20:55.181Z"
+}

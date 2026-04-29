@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-olimpica-san-nicolas-de-los-garza",
+  "name": "Panaderia Olimpica",
+  "curatedName": "Panaderia Olimpica",
+  "city": "San Nicolás de los Garza",
+  "country": "Mexico",
+  "placeId": "ChIJZz01jJKUYoYRMPVo9Xyo3do",
+  "googleName": "Panaderia Olímpica",
+  "formattedAddress": "Anastacio Bustamante 707, Centro, 66400 San Nicolás de los Garza, N.L., Mexico",
+  "phone": "81 8330 8909",
+  "internationalPhone": "+52 81 8330 8909",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15770946724768052528",
+  "rating": 4.7,
+  "reviewCount": 1209,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.7491066,
+    -100.2925959
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-olimpica-san-nicolas-de-los-garza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:08.350Z"
+}

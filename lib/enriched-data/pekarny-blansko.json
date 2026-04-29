@@ -1,0 +1,24 @@
+{
+  "slug": "pekarny-blansko",
+  "name": "Pekárny Blansko",
+  "city": "Blansko",
+  "country": "Czech Republic",
+  "placeId": "ChIJUTj1Y5eOEkcR5ANR3MF1PPc",
+  "googleName": "Pekárny Blansko",
+  "formattedAddress": "Bezručova, 678 01 Blansko-Blansko 1, Czechia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17815243701456274404",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    49.3645584,
+    16.6439496
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarny-blansko/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:20.266Z"
+}

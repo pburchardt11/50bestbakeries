@@ -1,0 +1,32 @@
+{
+  "slug": "raices-srl-moa",
+  "name": "Raíces SRL",
+  "city": "Moa",
+  "country": "Cuba",
+  "placeId": "ChIJbd7g6W_3y44RcXVFkXsHsxQ",
+  "googleName": "Raíces Panadería-Dulcería",
+  "formattedAddress": "M342+X5Q Edificio #18 Rpto.Caribe, Avenida Blas Roca, Moa, Cuba",
+  "phone": "05 9612127",
+  "website": "https://www.facebook.com/RaicesMoa",
+  "googleMapsUrl": "https://maps.google.com/?cid=1491544128889386353",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    20.6574627,
+    -74.9495067
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: 8:30 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/raices-srl-moa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:01.825Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "dopes-benesov",
+  "name": "Dopes",
+  "city": "Benešov",
+  "country": "Czech Republic",
+  "placeId": "ChIJByi6gm5hEkcRz9Rf9TD4zo4",
+  "googleName": "DOPES, s.r.o.",
+  "formattedAddress": "Benešov 185, 679 53 Benešov, Czechia",
+  "phone": "516 467 416",
+  "website": "http://www.dopes.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10290435087746979023",
+  "rating": 4.5,
+  "reviewCount": 67,
+  "coords": [
+    49.5094423,
+    16.7699728
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 – 10:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dopes-benesov/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:53:52.148Z"
+}

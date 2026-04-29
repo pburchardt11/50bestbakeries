@@ -1,0 +1,43 @@
+{
+  "slug": "betunes-tampico",
+  "name": "Betunes",
+  "curatedName": "Betunes",
+  "city": "Tampico",
+  "country": "Mexico",
+  "placeId": "ChIJff6u5PT514URWafkUZ-p5Ws",
+  "googleName": "Betunes",
+  "formattedAddress": "Poza Rica 205, Petrolera, 89110 Tampico, Tamps., Mexico",
+  "phone": "833 217 9993",
+  "internationalPhone": "+52 833 217 9993",
+  "website": "http://www.facebook.com/betunes",
+  "googleMapsUrl": "https://maps.google.com/?cid=7774806833463863129",
+  "rating": 4.6,
+  "reviewCount": 234,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.2548423,
+    -97.8692015
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 8:00 PM",
+    "Tuesday: 9:30 AM – 8:00 PM",
+    "Wednesday: 9:30 AM – 8:00 PM",
+    "Thursday: 9:30 AM – 8:00 PM",
+    "Friday: 9:30 AM – 8:00 PM",
+    "Saturday: 9:30 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/betunes-tampico/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:38.859Z"
+}

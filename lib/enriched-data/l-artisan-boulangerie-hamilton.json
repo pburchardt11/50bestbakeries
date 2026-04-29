@@ -1,0 +1,32 @@
+{
+  "slug": "l-artisan-boulangerie-hamilton",
+  "name": "l'Artisan Boulangerie",
+  "city": "Hamilton",
+  "country": "Bermuda",
+  "placeId": "ChIJVZYsTPAVLYoR8lKAhKmprtU",
+  "googleName": "l'Artisan Boulangerie",
+  "formattedAddress": "Ground Floor, POINT HOUSE, 6 Front St, Hamilton HM 11, Bermuda",
+  "phone": null,
+  "website": "http://www.lartisan.bm/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15397430721563874034",
+  "rating": 4.7,
+  "reviewCount": 196,
+  "coords": [
+    32.2914846,
+    -64.7870408
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:30 PM",
+    "Tuesday: 7:30 AM – 4:30 PM",
+    "Wednesday: 7:30 AM – 4:30 PM",
+    "Thursday: 7:30 AM – 4:30 PM",
+    "Friday: 7:30 AM – 4:30 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-artisan-boulangerie-hamilton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:09:42.983Z"
+}

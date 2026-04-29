@@ -1,0 +1,43 @@
+{
+  "slug": "pastille-bakery-liverpool",
+  "name": "Pastille Bakery",
+  "curatedName": "Pastille Bakery",
+  "city": "Liverpool",
+  "country": "United Kingdom",
+  "placeId": "ChIJK9xK0mone0gRJwUsOtoYI6A",
+  "googleName": "Pastille Bakery",
+  "formattedAddress": "9 Gibraltar Row, Liverpool L3 7HJ, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.pastillebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11539093995811243303",
+  "rating": 4.8,
+  "reviewCount": 292,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.41139150000001,
+    -2.9985519
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 9:30 AM – 3:30 PM",
+    "Thursday: 9:30 AM – 3:30 PM",
+    "Friday: 9:30 AM – 3:30 PM",
+    "Saturday: 9:30 AM – 3:30 PM",
+    "Sunday: 9:30 AM – 3:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastille-bakery-liverpool/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:34.341Z"
+}

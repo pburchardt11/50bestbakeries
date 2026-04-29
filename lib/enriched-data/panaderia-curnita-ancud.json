@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-curnita-ancud",
+  "name": "Panaderia Curnita",
+  "city": "Ancud",
+  "country": "Chile",
+  "placeId": "ChIJwe5rQRGNIpYRh8xq2bj6HGQ",
+  "googleName": "Panaderia Curnita",
+  "formattedAddress": "Aníbal Pinto 777, 5710000 Ancud, Los Lagos, Chile",
+  "phone": "(65) 262 0921",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7213916374969273479",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -41.8697934,
+    -73.8173809
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-curnita-ancud/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:43:47.578Z"
+}

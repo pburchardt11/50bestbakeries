@@ -1,0 +1,43 @@
+{
+  "slug": "acme-bread-company-san-francisco",
+  "name": "Acme Bread Company",
+  "curatedName": "Acme Bread Company",
+  "city": "San Francisco",
+  "country": "United States",
+  "placeId": "ChIJWTGPjmaAhYARUBlHM0tcCLk",
+  "googleName": "Acme Bread Company",
+  "formattedAddress": "Bay Trail #15, San Francisco, CA 94111, USA",
+  "phone": "(415) 288-2978",
+  "internationalPhone": "+1 415-288-2978",
+  "website": "http://www.acmebread.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13333008174882953552",
+  "rating": 4.6,
+  "reviewCount": 378,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.7955703,
+    -122.3933208
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Local institution's counter-serve outpost selling a range of breads from sweet to sourdough.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/acme-bread-company-san-francisco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:35.069Z"
+}

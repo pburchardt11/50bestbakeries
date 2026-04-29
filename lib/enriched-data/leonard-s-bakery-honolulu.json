@@ -1,0 +1,43 @@
+{
+  "slug": "leonard-s-bakery-honolulu",
+  "name": "Leonard's Bakery",
+  "curatedName": "Leonard's Bakery",
+  "city": "Honolulu",
+  "country": "United States",
+  "placeId": "ChIJZdI0IQBmAHwRDpj15_sGy7k",
+  "googleName": "Leonard's Bakery",
+  "formattedAddress": "933 Kapahulu Ave, Honolulu, HI 96816, USA",
+  "phone": "(808) 737-5591",
+  "internationalPhone": "+1 808-737-5591",
+  "website": "http://www.leonardshawaii.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13387801996287121422",
+  "rating": 4.6,
+  "reviewCount": 13096,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.2848746,
+    -157.8133438
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: 5:30 AM – 7:00 PM",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: 5:30 AM – 7:00 PM",
+    "Saturday: 5:30 AM – 7:00 PM",
+    "Sunday: 5:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Local fixture since 1952 for malasadas (Portuguese donuts), breads, pastries & other sweets.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leonard-s-bakery-honolulu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:43.742Z"
+}

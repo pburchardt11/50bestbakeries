@@ -1,0 +1,32 @@
+{
+  "slug": "choconur-cake-bak",
+  "name": "Choconur cake",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJ41BoIKZ9MEARkOE15SRLB2U",
+  "googleName": "bonbon patisserie",
+  "formattedAddress": "5 Baku M. Ə. Rəsulzadə, Bakı 1000, Azerbaijan",
+  "phone": "050 370 20 22",
+  "website": "http://www.bonbon.az/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7279869944504115600",
+  "rating": 4.6,
+  "reviewCount": 993,
+  "coords": [
+    40.3682376,
+    49.8382393
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 2:00 AM",
+    "Tuesday: 10:00 AM – 2:00 AM",
+    "Wednesday: 10:00 AM – 2:00 AM",
+    "Thursday: 10:00 AM – 2:00 AM",
+    "Friday: 10:00 AM – 2:00 AM",
+    "Saturday: 10:00 AM – 2:00 AM",
+    "Sunday: 10:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/choconur-cake-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:36:35.774Z"
+}

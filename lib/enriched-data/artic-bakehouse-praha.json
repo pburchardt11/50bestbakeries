@@ -1,0 +1,43 @@
+{
+  "slug": "artic-bakehouse-praha",
+  "name": "artic Bakehouse",
+  "curatedName": "artic Bakehouse",
+  "city": "Praha",
+  "country": "Czech Republic",
+  "placeId": "ChIJ3z7df_yUC0cR8OZpTK9ymW8",
+  "googleName": "artic Bakehouse",
+  "formattedAddress": "Újezd 11, Malá Strana, 150 00 Praha-Praha 5, Czechia",
+  "phone": "771 140 048",
+  "internationalPhone": "+420 771 140 048",
+  "website": "http://www.articbakehouse.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8041584706873583344",
+  "rating": 4.7,
+  "reviewCount": 1927,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.08037359999999,
+    14.4044684
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 7:30 PM",
+    "Sunday: 7:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/artic-bakehouse-praha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:13.973Z"
+}

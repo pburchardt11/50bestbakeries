@@ -1,0 +1,44 @@
+{
+  "slug": "beabea-s-bakery-auckland",
+  "name": "Beabea's Bakery",
+  "curatedName": "Beabea's Bakery",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "placeId": "ChIJg0oYZ2tHDW0R5WZlXkdfzEs",
+  "googleName": "Beabea’s Bakery",
+  "formattedAddress": "160 Garnet Road, Westmere, Auckland 1022, New Zealand",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.beabeas.co.nz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5461845208224589541",
+  "rating": 4.8,
+  "reviewCount": 163,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -36.8542746,
+    174.7181786
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beabea-s-bakery-auckland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:14.032Z"
+}

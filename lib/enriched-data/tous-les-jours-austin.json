@@ -1,0 +1,45 @@
+{
+  "slug": "tous-les-jours-austin",
+  "name": "Tous les Jours",
+  "curatedName": "Tous les Jours",
+  "city": "Austin",
+  "country": "United States",
+  "placeId": "ChIJ4Xs1GXy1RIYRbBEAnYEmswc",
+  "googleName": "Tous Les Jours",
+  "formattedAddress": "6808 N Lamar Blvd B-115, Austin, TX 78752, USA",
+  "phone": "(512) 373-8080",
+  "internationalPhone": "+1 512-373-8080",
+  "website": "https://tljus.com/stores/austin-6808-n-lamar-blvd?utm_source=google&utm_medium=organic&utm_campaign=gbp-austin-website-click",
+  "googleMapsUrl": "https://maps.google.com/?cid=554829517223367020",
+  "rating": 4.6,
+  "reviewCount": 942,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.3359421,
+    -97.7205683
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "French-Asian bakery offering a range of breads, plus sweet & savory baked goods & beverages.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-austin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:42.652Z"
+}

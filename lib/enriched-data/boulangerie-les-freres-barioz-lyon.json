@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-les-freres-barioz-lyon",
+  "name": "Boulangerie Les Freres Barioz",
+  "curatedName": "Boulangerie Les Freres Barioz",
+  "city": "Lyon",
+  "country": "France",
+  "placeId": "ChIJw8vbPUnr9EcR09TP9pjIAyo",
+  "googleName": "Boulangerie Les Frères Barioz",
+  "formattedAddress": "64 Rue Duguesclin, 69006 Lyon, France",
+  "phone": "04 78 89 24 55",
+  "internationalPhone": "+33 4 78 89 24 55",
+  "website": "http://lesfreresbarioz.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3027483933824505043",
+  "rating": 4.7,
+  "reviewCount": 451,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.7712295,
+    4.8466666
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 1:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-les-freres-barioz-lyon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:42.248Z"
+}

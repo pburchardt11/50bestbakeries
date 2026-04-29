@@ -1,0 +1,32 @@
+{
+  "slug": "restaurante-bom-comer-com-sabor-samba",
+  "name": "Restaurante Bom Comer com Sabor",
+  "city": "Samba",
+  "country": "Angola",
+  "placeId": "ChIJ7Zy6NMkdUhoRfZfxKKPnvKo",
+  "googleName": "restaurante Bom Comer com Sabor",
+  "formattedAddress": "Condomínio Vereda das Flores, Avenida Fidel Castro, Luanda, Angola",
+  "phone": "944 036 006",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12302962970021959549",
+  "rating": 3.5,
+  "reviewCount": 29,
+  "coords": [
+    -8.9722185,
+    13.297308
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/restaurante-bom-comer-com-sabor-samba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:19:27.017Z"
+}

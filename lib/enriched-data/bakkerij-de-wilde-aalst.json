@@ -1,0 +1,32 @@
+{
+  "slug": "bakkerij-de-wilde-aalst",
+  "name": "Bakkerij De Wilde",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJhVS6y7Kiw0cRMaFNKYOzEMY",
+  "googleName": "De Wilde",
+  "formattedAddress": "Kwalestraat 132, 9320 Aalst, Belgium",
+  "phone": "053 78 97 59",
+  "website": "http://www.bakkerijdewilde.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14272104595052142897",
+  "rating": 4.7,
+  "reviewCount": 226,
+  "coords": [
+    50.9310255,
+    4.019629399999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-de-wilde-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:04:03.974Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "villabate-alba-brooklyn",
+  "name": "Villabate Alba",
+  "curatedName": "Villabate Alba",
+  "city": "Brooklyn",
+  "country": "United States",
+  "placeId": "ChIJUQMFzxlFwokR2xa-9JYXW0k",
+  "googleName": "Villabate Alba",
+  "formattedAddress": "7001 18th Ave, Brooklyn, NY 11204, USA",
+  "phone": "(718) 331-8430",
+  "internationalPhone": "+1 718-331-8430",
+  "website": "http://www.villabate.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5285844524768040667",
+  "rating": 4.6,
+  "reviewCount": 2563,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.6160737,
+    -73.9930346
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "This popular bakery with warm, old-world elegance sells traditional Sicilian pastries, plus gelato.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/villabate-alba-brooklyn/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:08:55.080Z"
+}

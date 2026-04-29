@@ -1,0 +1,43 @@
+{
+  "slug": "heidelberg-pastry-shoppe-arlington",
+  "name": "Heidelberg Pastry Shoppe",
+  "curatedName": "Heidelberg Pastry Shoppe",
+  "city": "Arlington",
+  "country": "United States",
+  "placeId": "ChIJ1RLAM7W1t4kRmhj0OFw42Tc",
+  "googleName": "Heidelberg Pastry Shoppe",
+  "formattedAddress": "2150 N Culpeper St, Arlington, VA 22207, USA",
+  "phone": "(703) 527-8394",
+  "internationalPhone": "+1 703-527-8394",
+  "website": "http://www.heidelbergbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4024309710775916698",
+  "rating": 4.8,
+  "reviewCount": 1412,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.8961111,
+    -77.1275
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:30 AM – 5:00 PM",
+    "Wednesday: 6:30 AM – 5:00 PM",
+    "Thursday: 6:30 AM – 5:00 PM",
+    "Friday: 6:30 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": "Warm, traditional German bakery & cafe preparing cookies, cakes, pastries & sandwiches since 1975.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/heidelberg-pastry-shoppe-arlington/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:36.184Z"
+}

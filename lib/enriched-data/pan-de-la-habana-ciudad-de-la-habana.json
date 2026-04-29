@@ -1,0 +1,32 @@
+{
+  "slug": "pan-de-la-habana-ciudad-de-la-habana",
+  "name": "Pan de La Habana",
+  "city": "Ciudad de la Habana",
+  "country": "Cuba",
+  "placeId": "ChIJQeyHDQB3zYgRswnM4YrZP24",
+  "googleName": "Pan de La Habana",
+  "formattedAddress": "Calzada #709, e/ Paseo y, La Habana, Cuba",
+  "phone": "06 3114568",
+  "website": "http://www.pandelahabana.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7944307458221803955",
+  "rating": 4.7,
+  "reviewCount": 24,
+  "coords": [
+    23.1383048,
+    -82.3996051
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-de-la-habana-ciudad-de-la-habana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:50:48.646Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "orapa-spar-orapa",
+  "name": "Orapa Spar",
+  "city": "Orapa",
+  "country": "Botswana",
+  "placeId": "ChIJ6zYNqWZ1rR4RmxHRdmZIe3U",
+  "googleName": "SPAR Orapa",
+  "formattedAddress": "M999+632, Sable Ave, Orapa, Botswana",
+  "phone": "290 2362",
+  "website": "https://www.spar.co.za/Home/Store-View/SPAR-Aloe-Limpopo",
+  "googleMapsUrl": "https://maps.google.com/?cid=8465439529490256283",
+  "rating": 4.1,
+  "reviewCount": 142,
+  "coords": [
+    -21.3315564,
+    25.3666721
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orapa-spar-orapa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:19:37.562Z"
+}

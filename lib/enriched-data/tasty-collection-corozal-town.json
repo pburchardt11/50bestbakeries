@@ -1,0 +1,32 @@
+{
+  "slug": "tasty-collection-corozal-town",
+  "name": "Tasty Collection",
+  "city": "Corozal Town",
+  "country": "Belize",
+  "placeId": "ChIJbUnDBIGXW48RtR3zkprZh5I",
+  "googleName": "Tasty Collection",
+  "formattedAddress": "Unnamed Road, Corozal, Belize",
+  "phone": "628-5305",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10558647109307014581",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    18.3943831,
+    -88.3830189
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 12:00 – 4:00 PM",
+    "Sunday: 12:00 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tasty-collection-corozal-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:08:10.455Z"
+}

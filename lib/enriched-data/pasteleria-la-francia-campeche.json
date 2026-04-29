@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-la-francia-campeche",
+  "name": "Pastelería La Francia",
+  "curatedName": "Pastelería La Francia",
+  "city": "Campeche",
+  "country": "Mexico",
+  "placeId": "ChIJHaFSCEGxUBERxcRP9HTwVCQ",
+  "googleName": "PASTELERIA LA FRANCIA",
+  "formattedAddress": "Av. Central 138, Barrio de San José, 24040 San Francisco de Campeche, Camp., Mexico",
+  "phone": "981 170 9359",
+  "internationalPhone": "+52 981 170 9359",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2617981668514841797",
+  "rating": 4.6,
+  "reviewCount": 21,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.833831,
+    -90.5350325
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-la-francia-campeche/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:51.084Z"
+}

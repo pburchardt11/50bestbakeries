@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-y-cafe-gabilondo-santiago",
+  "name": "Panadería y Café Gabilondo",
+  "curatedName": "Panadería y Café Gabilondo",
+  "city": "Santiago",
+  "country": "Chile",
+  "placeId": "ChIJS35m95jFYpYRfYsvmx3u4uQ",
+  "googleName": "Panadería y Café Gabilondo",
+  "formattedAddress": "José Miguel de la Barra 463, 8320113 Santiago, Región Metropolitana, Chile",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.gabilondopanaderia.cl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16493006596309224317",
+  "rating": 4.8,
+  "reviewCount": 136,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.4369012,
+    -70.6432774
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:30 PM",
+    "Tuesday: 9:00 AM – 7:30 PM",
+    "Wednesday: 9:00 AM – 7:30 PM",
+    "Thursday: 9:00 AM – 7:30 PM",
+    "Friday: 9:00 AM – 7:30 PM",
+    "Saturday: 9:30 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-cafe-gabilondo-santiago/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:03.738Z"
+}

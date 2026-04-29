@@ -1,0 +1,44 @@
+{
+  "slug": "conditori-la-glace-k-benhavn",
+  "name": "Conditori La Glace",
+  "curatedName": "Conditori La Glace",
+  "city": "København",
+  "country": "Denmark",
+  "placeId": "ChIJWTHxrRFTUkYRUWrFJLIQ3XE",
+  "googleName": "Conditori La Glace",
+  "formattedAddress": "Skoubogade 3, 1158 København, Denmark",
+  "phone": "33 14 46 46",
+  "internationalPhone": "+45 33 14 46 46",
+  "website": "https://laglace.dk/da/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8204732453446052433",
+  "rating": 4.4,
+  "reviewCount": 2780,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    55.6785921,
+    12.5735765
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:00 PM",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Elegant Danish pastry shop dating to 1870, featuring elaborate cakes, baked goods & other desserts.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/conditori-la-glace-k-benhavn/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:07.631Z"
+}

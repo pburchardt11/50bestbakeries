@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-khek-benesov",
+  "name": "Pekárna KHEK",
+  "city": "Benešov",
+  "country": "Czech Republic",
+  "placeId": "ChIJf4w9AQp_DEcRnIOg5a24cV8",
+  "googleName": "Pekárna KHEK",
+  "formattedAddress": "Nová pražská 1647, 256 01 Benešov, Czechia",
+  "phone": "604 970 850",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6877481162992812956",
+  "rating": 5,
+  "reviewCount": 20,
+  "coords": [
+    49.7852815,
+    14.6880824
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 3:00 PM",
+    "Tuesday: 7:30 AM – 3:00 PM",
+    "Wednesday: 7:30 AM – 3:00 PM",
+    "Thursday: 7:30 AM – 3:00 PM",
+    "Friday: 7:30 AM – 3:00 PM",
+    "Saturday: 7:30 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-khek-benesov/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:00.851Z"
+}

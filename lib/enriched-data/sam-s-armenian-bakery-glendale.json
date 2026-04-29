@@ -1,0 +1,43 @@
+{
+  "slug": "sam-s-armenian-bakery-glendale",
+  "name": "Sam's Armenian Bakery",
+  "curatedName": "Sam's Armenian Bakery",
+  "city": "Glendale",
+  "country": "United States",
+  "placeId": "ChIJL6KozQLBwoAR6Wr7HvopSJ4",
+  "googleName": "Sam's Armenian Bakery",
+  "formattedAddress": "400 Raleigh St, Glendale, CA 91205, USA",
+  "phone": "(818) 247-6281",
+  "internationalPhone": "+1 818-247-6281",
+  "website": "http://sam-s-armenian-bakery.slue.io/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11405412210554137321",
+  "rating": 4.9,
+  "reviewCount": 65,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.1380258,
+    -118.2506801
+  ],
+  "openingHours": [
+    "Monday: 7:45 AM – 6:00 PM",
+    "Tuesday: 7:45 AM – 6:00 PM",
+    "Wednesday: 7:45 AM – 6:00 PM",
+    "Thursday: 7:45 AM – 6:00 PM",
+    "Friday: 7:45 AM – 6:00 PM",
+    "Saturday: 7:45 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sam-s-armenian-bakery-glendale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:16:31.062Z"
+}

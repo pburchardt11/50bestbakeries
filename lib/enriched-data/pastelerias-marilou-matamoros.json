@@ -1,0 +1,43 @@
+{
+  "slug": "pastelerias-marilou-matamoros",
+  "name": "Pastelerías Marilou",
+  "curatedName": "Pastelerías Marilou",
+  "city": "Matamoros",
+  "country": "Mexico",
+  "placeId": "ChIJHQMbicKUb4YRmvvz9X7rXU8",
+  "googleName": "Pastelerías Marilou",
+  "formattedAddress": "C. Roberto F. García, Lázaro Cárdenas, 87360 Heroica Matamoros, Tamps., Mexico",
+  "phone": "868 342 4388",
+  "internationalPhone": "+52 868 342 4388",
+  "website": "http://www.pasteleriasmarilou.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5718986032355212186",
+  "rating": 4.3,
+  "reviewCount": 93,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.8703315,
+    -97.49524900000002
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastelerias-marilou-matamoros/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:12.201Z"
+}

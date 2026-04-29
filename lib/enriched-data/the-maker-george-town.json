@@ -1,0 +1,44 @@
+{
+  "slug": "the-maker-george-town",
+  "name": "The Maker",
+  "curatedName": "The Maker",
+  "city": "George Town",
+  "country": "Malaysia",
+  "placeId": "ChIJ1QGfFdrDSjARjjI6AjHOZGE",
+  "googleName": "The Maker",
+  "formattedAddress": "243, Lebuh Pantai, George Town, 10300 George Town, Pulau Pinang, Malaysia",
+  "phone": "016-214 3243",
+  "internationalPhone": "+60 16-214 3243",
+  "website": "http://themaker243.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7017960829236163214",
+  "rating": 4.8,
+  "reviewCount": 1601,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    5.413419999999999,
+    100.337346
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:30 AM – 5:30 PM",
+    "Wednesday: 9:30 AM – 5:30 PM",
+    "Thursday: 9:30 AM – 5:30 PM",
+    "Friday: 9:30 AM – 5:30 PM",
+    "Saturday: 9:30 AM – 5:30 PM",
+    "Sunday: 9:30 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-maker-george-town/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:52.379Z"
+}

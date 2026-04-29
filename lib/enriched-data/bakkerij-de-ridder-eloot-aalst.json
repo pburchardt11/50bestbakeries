@@ -1,0 +1,32 @@
+{
+  "slug": "bakkerij-de-ridder-eloot-aalst",
+  "name": "Bakkerij De Ridder Eloot",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJ81CYvlu9w0cRCaQb9hl_Djk",
+  "googleName": "De Ridder Eloot",
+  "formattedAddress": "Korte Zoutstraat 30, 9300 Aalst, Belgium",
+  "phone": "053 21 15 59",
+  "website": "http://www.bakkerijderiddereloot.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4111363259315758089",
+  "rating": 4.5,
+  "reviewCount": 51,
+  "coords": [
+    50.9358539,
+    4.0393432
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-de-ridder-eloot-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:04:33.879Z"
+}

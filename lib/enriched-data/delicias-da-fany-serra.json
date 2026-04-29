@@ -1,0 +1,43 @@
+{
+  "slug": "delicias-da-fany-serra",
+  "name": "Delícias da Fany",
+  "curatedName": "Delícias da Fany",
+  "city": "Serra",
+  "country": "Brazil",
+  "placeId": "ChIJ06YkXLL1twARF7qwfXbs_hY",
+  "googleName": "Delícias da Fany",
+  "formattedAddress": "R. Bacumixa, 373 - Res. Centro da Serra, Serra - ES, 29179-095, Brazil",
+  "phone": "(27) 99971-2032",
+  "internationalPhone": "+55 27 99971-2032",
+  "website": "https://www.instagram.com/delicias.dafany/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1657021706577951255",
+  "rating": 5,
+  "reviewCount": 6,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.1206525,
+    -40.2947527
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:30 PM",
+    "Tuesday: 9:00 AM – 5:30 PM",
+    "Wednesday: 9:00 AM – 5:30 PM",
+    "Thursday: 9:00 AM – 5:30 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 4:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delicias-da-fany-serra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:21:58.382Z"
+}

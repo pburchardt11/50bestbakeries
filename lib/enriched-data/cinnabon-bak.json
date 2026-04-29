@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-bak",
+  "name": "Cinnabon",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJP4WpIrR9MEARx7pa8J2PC7c",
+  "googleName": "CINNABON",
+  "formattedAddress": "9R9Q+6CX, Zərifə Əliyeva, Bakı, Azerbaijan",
+  "phone": "050 229 20 19",
+  "website": "https://www.facebook.com/cinnabon.Azerbaijan/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13189793842189744839",
+  "rating": 3.7,
+  "reviewCount": 215,
+  "coords": [
+    40.3681201,
+    49.8386007
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 11:30 PM",
+    "Saturday: 9:00 AM – 11:30 PM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": "Counter-serve chain serving cinnamon rolls plus other baked goods & specialty frozen beverages.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnabon-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:38:09.067Z"
+}

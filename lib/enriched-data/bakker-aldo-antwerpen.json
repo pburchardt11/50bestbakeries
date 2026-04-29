@@ -1,0 +1,43 @@
+{
+  "slug": "bakker-aldo-antwerpen",
+  "name": "Bakker Aldo",
+  "curatedName": "Bakker Aldo",
+  "city": "Antwerpen",
+  "country": "Belgium",
+  "placeId": "ChIJs1TDdxf3w0cRgcjSu80Z6Gc",
+  "googleName": "Bakker Aldo",
+  "formattedAddress": "Lange Leemstraat 388, 2018 Antwerpen, Belgium",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://bakkeraldo.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7487262751913592961",
+  "rating": 4.7,
+  "reviewCount": 400,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.2031144,
+    4.4279381
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakker-aldo-antwerpen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:38.620Z"
+}

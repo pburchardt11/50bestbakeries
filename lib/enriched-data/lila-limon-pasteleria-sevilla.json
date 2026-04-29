@@ -1,0 +1,43 @@
+{
+  "slug": "lila-limon-pasteleria-sevilla",
+  "name": "Lila limón Pastelería",
+  "curatedName": "Lila limón Pastelería",
+  "city": "Sevilla",
+  "country": "Spain",
+  "placeId": "ChIJpZlBe1htEg0R-FPjQaghN1Y",
+  "googleName": "Lila limón Pastelería",
+  "formattedAddress": "Mercado de Abastos de Feria, 98 puesto 28-29, C. Feria, 98, Casco Antiguo, 41003 Sevilla, Spain",
+  "phone": "633 92 50 62",
+  "internationalPhone": "+34 633 92 50 62",
+  "website": "https://lilalimonpasteleria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6212471217524528120",
+  "rating": 4.9,
+  "reviewCount": 128,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.39947540000001,
+    -5.991444599999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lila-limon-pasteleria-sevilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:56:39.055Z"
+}

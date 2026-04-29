@@ -1,0 +1,43 @@
+{
+  "slug": "filigree-bakery-indianapolis",
+  "name": "Filigree Bakery",
+  "curatedName": "Filigree Bakery",
+  "city": "Indianapolis",
+  "country": "United States",
+  "placeId": "ChIJV2IfAIGuwa0RYpkgztKCGbI",
+  "googleName": "Filigree Bakery",
+  "formattedAddress": "6331 Carrollton Ave, Indianapolis, IN 46220, USA",
+  "phone": "(463) 269-1456",
+  "internationalPhone": "+1 463-269-1456",
+  "website": "http://www.filigreebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12833432455081924962",
+  "rating": 4.9,
+  "reviewCount": 64,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.87156969999999,
+    -86.1445822
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 3:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/filigree-bakery-indianapolis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:12:41.730Z"
+}

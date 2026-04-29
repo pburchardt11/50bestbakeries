@@ -1,0 +1,43 @@
+{
+  "slug": "arena-balkanbackerei-karlsruhe",
+  "name": "ARENA BalkanBäckerei",
+  "curatedName": "ARENA BalkanBäckerei",
+  "city": "Karlsruhe",
+  "country": "Germany",
+  "placeId": "ChIJVx7dPk4Hl0cR9RMkRtphAtw",
+  "googleName": "ARENA BalkanBäckerei",
+  "formattedAddress": "Sophienstraße 59A, 76133 Karlsruhe, Germany",
+  "phone": "0163 4011450",
+  "internationalPhone": "+49 163 4011450",
+  "website": "https://arena-balkan-baeckerei-karlsruhe.eatbu.com/?lang=de",
+  "googleMapsUrl": "https://maps.google.com/?cid=15853341228405101557",
+  "rating": 4.8,
+  "reviewCount": 237,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.00743259999999,
+    8.3884749
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/arena-balkanbackerei-karlsruhe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:35.317Z"
+}

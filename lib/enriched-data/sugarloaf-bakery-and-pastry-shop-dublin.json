@@ -1,0 +1,43 @@
+{
+  "slug": "sugarloaf-bakery-and-pastry-shop-dublin",
+  "name": "Sugarloaf Bakery and Pastry Shop",
+  "curatedName": "Sugarloaf Bakery and Pastry Shop",
+  "city": "Dublin",
+  "country": "Ireland",
+  "placeId": "ChIJxf1hIdwPZ0gROr4IOvh2Um4",
+  "googleName": "SugarLoaf Bakery and Pastry Shop",
+  "formattedAddress": "79-80 Dorset Street Lower, Phibsborough, Dublin 1, D01 NX33, Ireland",
+  "phone": "(01) 578 9722",
+  "internationalPhone": "+353 1 578 9722",
+  "website": "https://sugarloafbakery.flipdish.menu/order#/restaurant/39632/collection/64298",
+  "googleMapsUrl": "https://maps.google.com/?cid=7949547100759965242",
+  "rating": 4.6,
+  "reviewCount": 915,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.3600468,
+    -6.2613031
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugarloaf-bakery-and-pastry-shop-dublin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:23.167Z"
+}

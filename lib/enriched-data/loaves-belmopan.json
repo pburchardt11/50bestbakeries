@@ -1,0 +1,32 @@
+{
+  "slug": "loaves-belmopan",
+  "name": "Loaves",
+  "city": "Belmopan",
+  "country": "Belize",
+  "placeId": "ChIJwXNBND3VXY8RYlIN8eOOGmk",
+  "googleName": "LOAVES",
+  "formattedAddress": "1 Iguana Avenue, Belmopan, Belize",
+  "phone": "628-9232",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7573522833029812834",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    17.2396131,
+    -88.77498030000001
+  ],
+  "openingHours": [
+    "Monday: 3:00 – 8:00 PM",
+    "Tuesday: 3:00 – 8:00 PM",
+    "Wednesday: 3:00 – 8:00 PM",
+    "Thursday: 3:00 – 8:00 PM",
+    "Friday: Closed",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loaves-belmopan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:06:30.820Z"
+}

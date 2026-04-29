@@ -1,0 +1,43 @@
+{
+  "slug": "benedict-padaria-artesanal-sao-jose-dos-pinhais",
+  "name": "Benedict Padaria Artesanal",
+  "curatedName": "Benedict Padaria Artesanal",
+  "city": "São José dos Pinhais",
+  "country": "Brazil",
+  "placeId": "ChIJFRQ35Un73JQRgOyxMYz0CFY",
+  "googleName": "Benedict Padaria Artesanal",
+  "formattedAddress": "R. Ten. Djalma Dutra, 1496 - Bom Jesus, São José dos Pinhais - PR, 83005-360, Brazil",
+  "phone": "(41) 99602-9487",
+  "internationalPhone": "+55 41 99602-9487",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6199473770041830528",
+  "rating": 4.8,
+  "reviewCount": 110,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.5451109,
+    -49.2026142
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 1:00 – 7:00 PM",
+    "Wednesday: 1:00 – 7:00 PM",
+    "Thursday: 1:00 – 7:30 PM",
+    "Friday: 1:00 – 7:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/benedict-padaria-artesanal-sao-jose-dos-pinhais/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:50.935Z"
+}

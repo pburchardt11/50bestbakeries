@@ -1,0 +1,32 @@
+{
+  "slug": "eden-padaria-e-gelataria-praia",
+  "name": "Éden Padaria e Gelataria",
+  "city": "Praia",
+  "country": "Cape Verde",
+  "placeId": "ChIJrczr8weZNQkRq_c3vy7y8Z0",
+  "googleName": "Éden Padaria e Gelataria",
+  "formattedAddress": "Praia, Cabo Verde",
+  "phone": "920 07 71",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11381144015932487595",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    14.9522283,
+    -23.5166441
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eden-padaria-e-gelataria-praia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:40:24.348Z"
+}

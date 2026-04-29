@@ -1,0 +1,32 @@
+{
+  "slug": "biograno-bakery",
+  "name": "BioGrano Bakery",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJGzxl4I29akAR8ubP7RWBN54",
+  "googleName": "Gluten Free Bakery",
+  "formattedAddress": "34A Abovyan poxoc, Yerevan 0001, Armenia",
+  "phone": "033 067111",
+  "website": "http://www.glutenfreebakery.am/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11400722912895821554",
+  "rating": 5,
+  "reviewCount": 67,
+  "coords": [
+    40.1849093,
+    44.5215569
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/biograno-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:25:42.665Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "bar-pasticceria-ballarin-venezia",
+  "name": "Bar Pasticceria Ballarin",
+  "curatedName": "Bar Pasticceria Ballarin",
+  "city": "Venezia",
+  "country": "Italy",
+  "placeId": "ChIJ_R2s6duxfkcROmU8VxyLap4",
+  "googleName": "Bar Pasticceria Ballarin",
+  "formattedAddress": "Calle San Crisostomo, 5794, 30121 Venezia VE, Italy",
+  "phone": "041 528 5273",
+  "internationalPhone": "+39 041 528 5273",
+  "website": "https://m.facebook.com/pasticceriaballarin/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11415089159362864442",
+  "rating": 4.5,
+  "reviewCount": 625,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4387681,
+    12.3371076
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Small bakery serving coffee, pastries & cakes to eat at a marble-topped counter or to take away.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bar-pasticceria-ballarin-venezia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:14.074Z"
+}

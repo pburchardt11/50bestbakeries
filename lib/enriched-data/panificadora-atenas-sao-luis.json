@@ -1,0 +1,43 @@
+{
+  "slug": "panificadora-atenas-sao-luis",
+  "name": "Panificadora Atenas",
+  "curatedName": "Panificadora Atenas",
+  "city": "São Luís",
+  "country": "Brazil",
+  "placeId": "ChIJHW8lsgaS9gcRsglgv-djjVI",
+  "googleName": "Panificadora Atenas",
+  "formattedAddress": "Av. Beta, 3 - Parque Athenas, São Luís - MA, 65072-120, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5948520529825630642",
+  "rating": 4.4,
+  "reviewCount": 572,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -2.5052544,
+    -44.243862
+  ],
+  "openingHours": [
+    "Monday: 6:00 – 11:00 AM, 2:30 – 8:00 PM",
+    "Tuesday: 6:00 – 11:00 AM, 2:30 – 8:00 PM",
+    "Wednesday: 6:00 – 11:00 AM, 2:30 – 8:00 PM",
+    "Thursday: 6:00 – 11:00 AM, 2:30 – 8:00 PM",
+    "Friday: 6:00 – 11:00 AM, 2:30 – 8:00 PM",
+    "Saturday: 6:00 – 11:00 AM, 2:30 – 8:00 PM",
+    "Sunday: 6:00 – 11:00 AM, 4:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-atenas-sao-luis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:21:51.835Z"
+}

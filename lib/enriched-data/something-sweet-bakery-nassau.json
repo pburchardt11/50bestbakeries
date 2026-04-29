@@ -1,0 +1,32 @@
+{
+  "slug": "something-sweet-bakery-nassau",
+  "name": "Something Sweet Bakery",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJAVUf6VR8L4kRMqHP-lYIaHE",
+  "googleName": "Something Sweet Bakery",
+  "formattedAddress": "East St, Nassau, The Bahamas",
+  "phone": "(242) 427-7954",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8171790693531885874",
+  "rating": 4.7,
+  "reviewCount": 140,
+  "coords": [
+    25.0477979,
+    -77.3417339
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 5:00 PM",
+    "Wednesday: 11:00 AM – 5:00 PM",
+    "Thursday: 11:00 AM – 5:00 PM",
+    "Friday: 11:00 AM – 5:00 PM",
+    "Saturday: 11:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/something-sweet-bakery-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:41:05.925Z"
+}

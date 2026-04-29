@@ -1,0 +1,32 @@
+{
+  "slug": "kalipain-kinshasa",
+  "name": "Kalipain",
+  "city": "Kinshasa",
+  "country": "DR Congo",
+  "placeId": "ChIJe6DSrs0xahoRjQ67MyLuHMM",
+  "googleName": "Kalipain",
+  "formattedAddress": "Rue Joli Parc, Kinshasa, Democratic Republic of the Congo",
+  "phone": "0906 228 379",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14059373967408041613",
+  "rating": 4.5,
+  "reviewCount": 10,
+  "coords": [
+    -4.3543265,
+    15.2574114
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kalipain-kinshasa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:55:19.260Z"
+}

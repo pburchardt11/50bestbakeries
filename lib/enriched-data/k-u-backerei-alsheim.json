@@ -1,0 +1,33 @@
+{
+  "slug": "k-u-backerei-alsheim",
+  "name": "K&U Bäckerei",
+  "curatedName": "K&U Bäckerei",
+  "city": "Alsheim",
+  "country": "Germany",
+  "placeId": "ChIJz1Ckc82GvUcRsZQxlITXhA0",
+  "googleName": "K&U Bäckerei GmbH",
+  "formattedAddress": "Gimbsheimer Str. 73, 67577 Alsheim, Germany",
+  "phone": "01511 8038718",
+  "internationalPhone": "+49 1511 8038718",
+  "website": "https://www.k-und-u.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=974140383840801969",
+  "rating": 3.5,
+  "reviewCount": 4,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    49.7702611,
+    8.3511761
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T05:21:41.703Z"
+}

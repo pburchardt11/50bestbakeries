@@ -1,0 +1,43 @@
+{
+  "slug": "splendid-breads-and-pastries-uberaba",
+  "name": "Splendid Breads and Pastries",
+  "curatedName": "Splendid Breads and Pastries",
+  "city": "Uberaba",
+  "country": "Brazil",
+  "placeId": "ChIJwQcIs8DRupQR0vEfXLIS_wE",
+  "googleName": "Splendid Breads and Pastries",
+  "formattedAddress": "Av. Lucas Borges, 1115 - Vila Olímpica, Uberaba - MG, 38066-160, Brazil",
+  "phone": "(34) 3322-8259",
+  "internationalPhone": "+55 34 3322-8259",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=143854270358221266",
+  "rating": 4.6,
+  "reviewCount": 525,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.7330191,
+    -47.9408466
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/splendid-breads-and-pastries-uberaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:23:01.930Z"
+}

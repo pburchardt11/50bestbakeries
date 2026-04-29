@@ -1,0 +1,44 @@
+{
+  "slug": "magnolia-bakery-bengaluru",
+  "name": "Magnolia Bakery",
+  "curatedName": "Magnolia Bakery",
+  "city": "Bengaluru",
+  "country": "India",
+  "placeId": "ChIJaT7iTHoXrjsR398HlKs1S0g",
+  "googleName": "Magnolia Bakery",
+  "formattedAddress": "J.K. Plaza, 788, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+  "phone": "096067 46364",
+  "internationalPhone": "+91 96067 46364",
+  "website": "http://www.magnoliabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5209316405023334367",
+  "rating": 4.3,
+  "reviewCount": 8368,
+  "priceLevel": 4,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.9700721,
+    77.6407854
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:20 PM",
+    "Tuesday: 10:00 AM – 11:20 PM",
+    "Wednesday: 10:00 AM – 11:20 PM",
+    "Thursday: 10:00 AM – 11:20 PM",
+    "Friday: 10:00 AM – 11:45 PM",
+    "Saturday: 10:00 AM – 11:45 PM",
+    "Sunday: 10:00 AM – 11:45 PM"
+  ],
+  "editorialSummary": "Cheerful bakeshop serving classic homemade cupcakes, pies & other treats at the counter.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magnolia-bakery-bengaluru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:24.825Z"
+}

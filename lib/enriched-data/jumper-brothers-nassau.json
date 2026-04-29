@@ -1,0 +1,32 @@
+{
+  "slug": "jumper-brothers-nassau",
+  "name": "Jumper Brothers",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJW7TQnW59L4kR4mBecXGwaA0",
+  "googleName": "Jumper Brother's",
+  "formattedAddress": "3M28+9QQ, Pinedale Rd, Nassau, The Bahamas",
+  "phone": "(242) 326-3162",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=966216121350775010",
+  "rating": 4.2,
+  "reviewCount": 94,
+  "coords": [
+    25.0509702,
+    -77.33301709999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jumper-brothers-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:41:17.759Z"
+}

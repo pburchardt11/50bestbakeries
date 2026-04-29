@@ -1,0 +1,44 @@
+{
+  "slug": "purebread-bakery-coffee-vancouver",
+  "name": "Purebread Bakery + Coffee",
+  "curatedName": "Purebread Bakery + Coffee",
+  "city": "Vancouver",
+  "country": "Canada",
+  "placeId": "ChIJF6C6mXlxhlQRrbDcBXpdOgY",
+  "googleName": "Purebread Bakery + Coffee",
+  "formattedAddress": "159 W Hastings St, Vancouver, BC V6B 1H5, Canada",
+  "phone": "(604) 563-8060",
+  "internationalPhone": "+1 604-563-8060",
+  "website": "http://www.purebread.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=448773891542528173",
+  "rating": 4.6,
+  "reviewCount": 1898,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.2825121,
+    -123.1090815
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/purebread-bakery-coffee-vancouver/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:58.134Z"
+}

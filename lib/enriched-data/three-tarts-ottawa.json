@@ -1,0 +1,43 @@
+{
+  "slug": "three-tarts-ottawa",
+  "name": "Three Tarts",
+  "curatedName": "Three Tarts",
+  "city": "Ottawa",
+  "country": "Canada",
+  "placeId": "ChIJW5yg0xkEzkwRlr_4TtdpVI0",
+  "googleName": "Three Tarts",
+  "formattedAddress": "464 Bank St Unit 3, Ottawa, ON K2P 1Z2, Canada",
+  "phone": "(613) 729-9832",
+  "internationalPhone": "+1 613-729-9832",
+  "website": "https://threetarts.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10183881030855344022",
+  "rating": 4.8,
+  "reviewCount": 260,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4111336,
+    -75.6933069
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 12:00 – 6:00 PM",
+    "Thursday: 12:00 – 6:00 PM",
+    "Friday: 12:00 – 6:00 PM",
+    "Saturday: 12:00 – 6:00 PM",
+    "Sunday: 12:00 – 6:00 PM"
+  ],
+  "editorialSummary": "Quaint bakeshop turning out old-fashioned, seasonal cakes, pies, tarts & cookies.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/three-tarts-ottawa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:07.993Z"
+}

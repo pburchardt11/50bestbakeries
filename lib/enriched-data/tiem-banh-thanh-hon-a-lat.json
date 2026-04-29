@@ -1,0 +1,43 @@
+{
+  "slug": "tiem-banh-thanh-hon-a-lat",
+  "name": "tiệm bánh Thành Hôn",
+  "curatedName": "tiệm bánh Thành Hôn",
+  "city": "Đà Lạt",
+  "country": "Vietnam",
+  "placeId": "ChIJxy9eQwATcTER2b-docc8iJE",
+  "googleName": "tiệm bánh Thành Hôn",
+  "formattedAddress": "36/3 Lê Văn Tám, Phường Xuân Hương, Xuân Hương - Đà Lạt, Lâm Đồng 670000, Vietnam",
+  "phone": "0907 006 473",
+  "internationalPhone": "+84 907 006 473",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10486698560439828441",
+  "rating": 4.5,
+  "reviewCount": 647,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    11.9377896,
+    108.4562051
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiem-banh-thanh-hon-a-lat/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:18:52.401Z"
+}

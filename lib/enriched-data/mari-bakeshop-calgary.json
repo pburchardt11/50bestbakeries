@@ -1,0 +1,43 @@
+{
+  "slug": "mari-bakeshop-calgary",
+  "name": "Mari Bakeshop",
+  "curatedName": "Mari Bakeshop",
+  "city": "Calgary",
+  "country": "Canada",
+  "placeId": "ChIJ43HUKFVlcVMRLVsfTQ3ZrTE",
+  "googleName": "Mari Bakeshop",
+  "formattedAddress": "103 St Matthew Square NE, Calgary, AB T2E 8H8, Canada",
+  "phone": "(403) 214-0629",
+  "internationalPhone": "+1 403-214-0629",
+  "website": "https://www.maribakeshop.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3579755929981115181",
+  "rating": 4.7,
+  "reviewCount": 1032,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.0515691,
+    -114.04009
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "High-end, urban bakery with artisanal breads & sweet/savory pastries, plus sandwiches, tea & coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mari-bakeshop-calgary/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:00.171Z"
+}

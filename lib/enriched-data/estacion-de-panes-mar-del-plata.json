@@ -1,0 +1,45 @@
+{
+  "slug": "estacion-de-panes-mar-del-plata",
+  "name": "Estación de Panes",
+  "curatedName": "Estación de Panes",
+  "city": "Mar del Plata",
+  "country": "Argentina",
+  "placeId": "ChIJX0uDI-HfhJURDeRVfBtxm6M",
+  "googleName": "Estacion de Panes",
+  "formattedAddress": "Avellaneda 2815, Sta. Fe 1877, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina",
+  "phone": "0223 312-4072",
+  "internationalPhone": "+54 223 312-4072",
+  "website": "https://sites.google.com/view/estaciondepanes/inicio?authuser=2",
+  "googleMapsUrl": "https://maps.google.com/?cid=11789140812436464653",
+  "rating": 4.7,
+  "reviewCount": 308,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -38.0094769,
+    -57.55822469999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:30 PM",
+    "Tuesday: 8:00 AM – 7:30 PM",
+    "Wednesday: 8:00 AM – 7:30 PM",
+    "Thursday: 8:00 AM – 7:30 PM",
+    "Friday: 8:00 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/estacion-de-panes-mar-del-plata/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:45.607Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "swiss-pastry-shop-cable-beach",
+  "name": "Swiss Pastry Shop",
+  "city": "Cable Beach",
+  "country": "Bahamas",
+  "placeId": "ChIJAS4P--FiL4kRgKok7yIfIGY",
+  "googleName": "Swiss Pastry Shop",
+  "formattedAddress": "3HGV+F86, Nassau, The Bahamas",
+  "phone": "(242) 327-7601",
+  "website": "http://www.swisspastryshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7358916026024897152",
+  "rating": 4.5,
+  "reviewCount": 180,
+  "coords": [
+    25.0761672,
+    -77.40673799999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/swiss-pastry-shop-cable-beach/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:39:40.435Z"
+}

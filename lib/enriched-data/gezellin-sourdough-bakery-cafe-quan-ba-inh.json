@@ -1,0 +1,44 @@
+{
+  "slug": "gezellin-sourdough-bakery-cafe-quan-ba-inh",
+  "name": "Gezellin Sourdough Bakery & Café",
+  "curatedName": "Gezellin Sourdough Bakery & Café",
+  "city": "Quận Ba Đình",
+  "country": "Vietnam",
+  "placeId": "ChIJdw5qW3arNTER9CaE7zRiSyY",
+  "googleName": "Gezellin Sourdough Bakery & Café",
+  "formattedAddress": "12 Ng. Yên Ninh, Trúc Bạch, Ba Đình, Hà Nội, Vietnam",
+  "phone": "0962 831 321",
+  "internationalPhone": "+84 962 831 321",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2759407176190797556",
+  "rating": 4.8,
+  "reviewCount": 294,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.0430138,
+    105.8445901
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gezellin-sourdough-bakery-cafe-quan-ba-inh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:25.328Z"
+}

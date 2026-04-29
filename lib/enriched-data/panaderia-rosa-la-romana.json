@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-rosa-la-romana",
+  "name": "Panaderia Rosa",
+  "city": "La Romana",
+  "country": "Dominican Republic",
+  "placeId": "ChIJqVh6kJE_r44RHBEoU1kdIvY",
+  "googleName": "Panaderia Rosa",
+  "formattedAddress": "Ave. Melchor Contin Alfau, Hato Mayor del Rey 25000, Dominican Republic",
+  "phone": "(809) 553-2389",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17735770552022864156",
+  "rating": 4.5,
+  "reviewCount": 71,
+  "coords": [
+    18.7630442,
+    -69.25706149999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-rosa-la-romana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:51.118Z"
+}

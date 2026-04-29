@@ -1,0 +1,44 @@
+{
+  "slug": "bakkerij-wolf-wolvenstraat-amsterdam",
+  "name": "Bakkerij Wolf - Wolvenstraat",
+  "curatedName": "Bakkerij Wolf - Wolvenstraat",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "placeId": "ChIJ6QtoIfQJxkcRzhxBtGIoY6I",
+  "googleName": "Bakkerij Wolf - Wolvenstraat",
+  "formattedAddress": "Wolvenstraat 22, 1016 EP Amsterdam, Netherlands",
+  "phone": "020 775 2497",
+  "internationalPhone": "+31 20 775 2497",
+  "website": "https://bakkerijwolf.nl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11701240661234752718",
+  "rating": 4.5,
+  "reviewCount": 1153,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.37037660000001,
+    4.8855546
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-wolf-wolvenstraat-amsterdam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:48.635Z"
+}

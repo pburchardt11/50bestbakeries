@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-delicious-ambatena-ambato",
+  "name": "Panadería Delicious Ambateña",
+  "city": "Ambato",
+  "country": "Ecuador",
+  "placeId": "ChIJXbE--x6B05ERth1Xn-YlggI",
+  "googleName": "Panaderia Delicious Ambateña",
+  "formattedAddress": "P9W6+WXW, 180101 Ambato, Ecuador",
+  "phone": "(03) 252-6441",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=180748607494233526",
+  "rating": 4.5,
+  "reviewCount": 103,
+  "coords": [
+    -1.2526491,
+    -78.6375333
+  ],
+  "openingHours": [
+    "Monday: 6:15 AM – 9:00 PM",
+    "Tuesday: 6:15 AM – 9:00 PM",
+    "Wednesday: 6:15 AM – 9:00 PM",
+    "Thursday: 6:15 AM – 9:00 PM",
+    "Friday: 6:15 AM – 9:00 PM",
+    "Saturday: 7:15 AM – 9:00 PM",
+    "Sunday: 7:15 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-delicious-ambatena-ambato/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:00:17.668Z"
+}

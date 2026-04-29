@@ -1,0 +1,32 @@
+{
+  "slug": "bahamas-rum-cake-factory-nassau",
+  "name": "Bahamas Rum Cake Factory",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJBfsIU7F9L4kRugPLLniOZWM",
+  "googleName": "Bahamas Rum Cake Factory",
+  "formattedAddress": "602 E Bay St, Nassau, The Bahamas",
+  "phone": "(242) 395-2109",
+  "website": "https://www.thebahamasrumcakefactory.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7162287429234918330",
+  "rating": 4.7,
+  "reviewCount": 475,
+  "coords": [
+    25.0769624,
+    -77.33324920000001
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bahamas-rum-cake-factory-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:40:01.232Z"
+}

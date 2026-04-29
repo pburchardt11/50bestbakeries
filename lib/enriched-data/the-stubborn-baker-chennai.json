@@ -1,0 +1,43 @@
+{
+  "slug": "the-stubborn-baker-chennai",
+  "name": "The Stubborn Baker",
+  "curatedName": "The Stubborn Baker",
+  "city": "Chennai",
+  "country": "India",
+  "placeId": "ChIJm9xqA0VlUjoRb9k8PUV2AB4",
+  "googleName": "The Stubborn Baker",
+  "formattedAddress": "I block, no, 13, 1st Main Rd, R.V. Nagar, Block I, Annanagar East, Chennai, Tamil Nadu 600102, India",
+  "phone": "093828 73838",
+  "internationalPhone": "+91 93828 73838",
+  "website": "https://www.thestubbornbaker.in/thestubbornbaker/order",
+  "googleMapsUrl": "https://maps.google.com/?cid=2161857860890057071",
+  "rating": 4.9,
+  "reviewCount": 329,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.089482,
+    80.2213001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-stubborn-baker-chennai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:58.666Z"
+}

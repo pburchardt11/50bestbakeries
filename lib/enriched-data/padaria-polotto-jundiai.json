@@ -1,0 +1,45 @@
+{
+  "slug": "padaria-polotto-jundiai",
+  "name": "Padaria Polotto",
+  "curatedName": "Padaria Polotto",
+  "city": "Jundiaí",
+  "country": "Brazil",
+  "placeId": "ChIJNyzez9Qmz5QRo5QZ53DwvLs",
+  "googleName": "Padaria Polotto",
+  "formattedAddress": "Av. Samuel Martins, 575 - Vila Arens/Vila Progresso, Jundiaí - SP, 13202-251, Brazil",
+  "phone": "(11) 4587-9198",
+  "internationalPhone": "+55 11 4587-9198",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13527951748418344099",
+  "rating": 4.4,
+  "reviewCount": 2828,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.205408,
+    -46.869859
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-polotto-jundiai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:53.748Z"
+}

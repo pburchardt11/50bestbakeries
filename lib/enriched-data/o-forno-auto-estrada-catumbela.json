@@ -1,0 +1,32 @@
+{
+  "slug": "o-forno-auto-estrada-catumbela",
+  "name": "O FORNO AUTO Estrada",
+  "city": "Catumbela",
+  "country": "Angola",
+  "placeId": "ChIJ5bzsIc0fUhoRfSPxoSYWJN4",
+  "googleName": "o forno",
+  "formattedAddress": "Via Expresso, Luanda, Angola",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16006943330763088765",
+  "rating": 4,
+  "reviewCount": 636,
+  "coords": [
+    -8.9798419,
+    13.1791466
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/o-forno-auto-estrada-catumbela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:17:30.317Z"
+}

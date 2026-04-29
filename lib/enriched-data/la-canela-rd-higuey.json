@@ -1,0 +1,32 @@
+{
+  "slug": "la-canela-rd-higuey",
+  "name": "La Canela RD",
+  "city": "Higüey",
+  "country": "Dominican Republic",
+  "placeId": "ChIJ3Y4Je-K5qI4RFY_vyhsphzg",
+  "googleName": "Pastry and Cafe La Canela",
+  "formattedAddress": "4, Av. Hermanos Trejo 48, Higüey 23000, Dominican Republic",
+  "phone": "(809) 746-0241",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4073269587325456149",
+  "rating": 4.4,
+  "reviewCount": 135,
+  "coords": [
+    18.6115664,
+    -68.715098
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-canela-rd-higuey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:20.759Z"
+}

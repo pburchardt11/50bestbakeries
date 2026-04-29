@@ -1,0 +1,43 @@
+{
+  "slug": "tjs-bakeshop-bacoor",
+  "name": "TJS Bakeshop",
+  "curatedName": "TJS Bakeshop",
+  "city": "Bacoor",
+  "country": "Philippines",
+  "placeId": "ChIJAQAAMGPNlzMROl_2IMG6m8M",
+  "googleName": "TJS Bakeshop",
+  "formattedAddress": "Unit a, Bermuda Country Banalo, 2470 Jade, Bacoor, Cavite, Philippines",
+  "phone": "(046) 434 3241",
+  "internationalPhone": "+63 46 434 3241",
+  "website": "https://m.facebook.com/TJSBAKESHOP/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14095064797430570810",
+  "rating": 4.5,
+  "reviewCount": 83,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.4576796,
+    120.9310971
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tjs-bakeshop-bacoor/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:58:07.200Z"
+}

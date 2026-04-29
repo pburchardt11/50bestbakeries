@@ -1,0 +1,43 @@
+{
+  "slug": "nata-sweet-nata-braga-se-braga",
+  "name": "Nata Sweet Nata - Braga Sé",
+  "curatedName": "Nata Sweet Nata - Braga Sé",
+  "city": "Braga",
+  "country": "Portugal",
+  "placeId": "ChIJXaE70OH_JA0RfLulx6jm3ug",
+  "googleName": "Nata Sweet Nata - Braga Sé",
+  "formattedAddress": "R. Dom Diogo de Sousa 125, 4700-319 Braga, Portugal",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16780102874207468412",
+  "rating": 4.8,
+  "reviewCount": 1211,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.5505066,
+    -8.4274092
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nata-sweet-nata-braga-se-braga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:59:20.461Z"
+}

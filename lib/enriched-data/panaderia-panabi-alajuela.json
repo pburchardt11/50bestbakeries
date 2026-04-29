@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-panabi-alajuela",
+  "name": "Panadería Panabi",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJ9zcKXAD5oI8Rrl6ziDkO_To",
+  "googleName": "Panadería Panabi",
+  "formattedAddress": "2Q8J+42W, Bernardo Soto Alfaro, Provincia de Alajuela, Alajuela, Cristo Rey, Costa Rica",
+  "phone": "8859 2028",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4250569263576997550",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    10.0153246,
+    -84.2200196
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-panabi-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:46:49.643Z"
+}

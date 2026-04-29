@@ -1,0 +1,44 @@
+{
+  "slug": "origo-bakery-barcelona",
+  "name": "Origo Bakery",
+  "curatedName": "Origo Bakery",
+  "city": "Barcelona",
+  "country": "Spain",
+  "placeId": "ChIJU16BZpWipBIRcE4bBTVCAcE",
+  "googleName": "Origo Bakery",
+  "formattedAddress": "Carrer de Milà i Fontanals, 9, Gràcia, 08012 Barcelona, Spain",
+  "phone": "644 52 20 40",
+  "internationalPhone": "+34 644 52 20 40",
+  "website": "https://www.origobakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13907469919783177840",
+  "rating": 4.7,
+  "reviewCount": 1698,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.4004951,
+    2.1631969
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Laid-back locale specializing in homemade bread & baked bites, plus specialty coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/origo-bakery-barcelona/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:56:32.880Z"
+}

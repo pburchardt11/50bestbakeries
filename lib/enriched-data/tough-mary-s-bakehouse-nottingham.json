@@ -1,0 +1,44 @@
+{
+  "slug": "tough-mary-s-bakehouse-nottingham",
+  "name": "Tough Mary's Bakehouse",
+  "curatedName": "Tough Mary's Bakehouse",
+  "city": "Nottingham",
+  "country": "United Kingdom",
+  "placeId": "ChIJvd_yc4fBeUgRQHNNCKT92X0",
+  "googleName": "Tough Mary's Bakehouse",
+  "formattedAddress": "70-72 Derby Rd, Nottingham NG1 5FD, UK",
+  "phone": "0115 837 4321",
+  "internationalPhone": "+44 115 837 4321",
+  "website": "http://www.toughmarysbakehouse.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9068558205642961728",
+  "rating": 4.7,
+  "reviewCount": 504,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    52.9554658,
+    -1.1585482
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 3:00 PM",
+    "Wednesday: 8:30 AM – 3:00 PM",
+    "Thursday: 8:30 AM – 3:00 PM",
+    "Friday: 8:30 AM – 3:00 PM",
+    "Saturday: 9:30 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tough-mary-s-bakehouse-nottingham/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:27.965Z"
+}

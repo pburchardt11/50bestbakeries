@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-nisi-alajuela",
+  "name": "Panadería Nisi",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJM71j5-X5oI8Radb4milFMcc",
+  "googleName": "Panadería Nisi",
+  "formattedAddress": "Provincia de Alajuela, Alajuela El, 2QCX+5HM, San José, Brasil, Costa Rica",
+  "phone": "2440 1239",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14353329532402456169",
+  "rating": 4.4,
+  "reviewCount": 45,
+  "coords": [
+    10.0204721,
+    -84.2010921
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:00 PM",
+    "Tuesday: 5:00 AM – 7:00 PM",
+    "Wednesday: 5:00 AM – 7:00 PM",
+    "Thursday: 5:00 AM – 7:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 5:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-nisi-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:46.989Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "pepina-pastel-valencia",
+  "name": "Pepina Pastel",
+  "curatedName": "Pepina Pastel",
+  "city": "València",
+  "country": "Spain",
+  "placeId": "ChIJqU6WE9RJYA0RMNKj-nEL8Hs",
+  "googleName": "Pepina Pastel",
+  "formattedAddress": "Carrer del Consolat del Mar, 3, L'Eixample, 46006 València, Valencia, Spain",
+  "phone": "960 10 62 36",
+  "internationalPhone": "+34 960 10 62 36",
+  "website": "http://www.pepinapastel.es/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8930650645239943728",
+  "rating": 4.7,
+  "reviewCount": 2176,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.4628004,
+    -0.3713512
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:30 PM",
+    "Tuesday: 8:30 AM – 8:30 PM",
+    "Wednesday: 8:30 AM – 8:30 PM",
+    "Thursday: 8:30 AM – 8:30 PM",
+    "Friday: 8:30 AM – 8:30 PM",
+    "Saturday: 8:30 AM – 8:30 PM",
+    "Sunday: 8:30 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pepina-pastel-valencia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:02.501Z"
+}

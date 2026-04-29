@@ -1,0 +1,45 @@
+{
+  "slug": "banjo-s-bakery-cafe-beerwah",
+  "name": "Banjo's Bakery & Cafe",
+  "curatedName": "Banjo's Bakery & Cafe",
+  "city": "Beerwah",
+  "country": "Australia",
+  "placeId": "ChIJB0qtH26Pk2sRohrKbIZu4Fg",
+  "googleName": "Banjo’s Bakery Café – Beerwah",
+  "formattedAddress": "Shop 7-8 Beerwah Shopping Village, 22 Peachester Rd, Beerwah QLD 4519, Australia",
+  "phone": "(07) 5370 2008",
+  "internationalPhone": "+61 7 5370 2008",
+  "website": "https://banjos.com.au/?utm_source=Google&utm_medium=GMB&utm_campaign=Website&utm_term=Beerwah",
+  "googleMapsUrl": "https://maps.google.com/?cid=6404240193750702754",
+  "rating": 3.9,
+  "reviewCount": 147,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.8561883,
+    152.955115
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:00 PM",
+    "Tuesday: 5:00 AM – 6:00 PM",
+    "Wednesday: 5:00 AM – 6:00 PM",
+    "Thursday: 5:00 AM – 6:00 PM",
+    "Friday: 5:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Brekkie & sandwiches, plus handmade sweet treats, in a cafe chain with a local community focus.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banjo-s-bakery-cafe-beerwah/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:20:38.118Z"
+}

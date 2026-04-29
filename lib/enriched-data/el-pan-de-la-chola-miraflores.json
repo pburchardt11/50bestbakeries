@@ -1,0 +1,43 @@
+{
+  "slug": "el-pan-de-la-chola-miraflores",
+  "name": "El Pan de la Chola",
+  "curatedName": "El Pan de la Chola",
+  "city": "Miraflores",
+  "country": "Peru",
+  "placeId": "ChIJG8xEWADJBZERAfEnLzKHdpA",
+  "googleName": "El Pan de La Chola",
+  "formattedAddress": "Av. Mariscal La Mar 918, Miraflores 15074, Peru",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://elpandelachola.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10409656238322741505",
+  "rating": 4.4,
+  "reviewCount": 87,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -12.1123216,
+    -77.0465181
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-pan-de-la-chola-miraflores/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:41.352Z"
+}

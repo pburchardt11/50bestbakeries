@@ -1,0 +1,32 @@
+{
+  "slug": "san-martin-antiguo-cuscatlan",
+  "name": "San Martin",
+  "city": "Antiguo Cuscatlán",
+  "country": "El Salvador",
+  "placeId": "ChIJw0La3CouY48RqhoTBF7hs28",
+  "googleName": "San Martin Bakery",
+  "formattedAddress": "Calle El Pedregal, Multiplaza, San Salvador, El Salvador",
+  "phone": "2213 5853",
+  "website": "http://sanmartinbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8049024752952744618",
+  "rating": 4.4,
+  "reviewCount": 3319,
+  "coords": [
+    13.67978,
+    -89.24880999999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/san-martin-antiguo-cuscatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:02:44.083Z"
+}

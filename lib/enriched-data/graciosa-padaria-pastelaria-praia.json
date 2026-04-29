@@ -1,0 +1,32 @@
+{
+  "slug": "graciosa-padaria-pastelaria-praia",
+  "name": "Graciosa Padaria & Pastelaria",
+  "city": "Praia",
+  "country": "Cape Verde",
+  "placeId": "ChIJTSqfC3qZNQkRw2i7mVMEZIs",
+  "googleName": "Graciosa Padaria e Pastelaria",
+  "formattedAddress": "Unnamed Road, WF97+FG3, Praia, Cabo Verde",
+  "phone": "939 16 56",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10044157826051041475",
+  "rating": 4.3,
+  "reviewCount": 23,
+  "coords": [
+    14.9186415,
+    -23.5361961
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/graciosa-padaria-pastelaria-praia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:40:26.393Z"
+}

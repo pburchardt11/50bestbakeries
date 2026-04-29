@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-e-confeitaria-sonho-doce-novo-hamburgo",
+  "name": "Padaria e Confeitaria Sonho Doce",
+  "curatedName": "Padaria e Confeitaria Sonho Doce",
+  "city": "Novo Hamburgo",
+  "country": "Brazil",
+  "placeId": "ChIJOVYzLaFDGZUROp4tLsF5_Rk",
+  "googleName": "Padaria e Confeitaria Sonho Doce",
+  "formattedAddress": "R. Pedro Álvares Cabral, 687 - Vila Rosa, Novo Hamburgo - RS, 93310-330, Brazil",
+  "phone": "(51) 3527-1314",
+  "internationalPhone": "+55 51 3527-1314",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1872786890666384954",
+  "rating": 4.6,
+  "reviewCount": 1082,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.6804685,
+    -51.1346104
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:15 PM",
+    "Tuesday: 7:00 AM – 8:15 PM",
+    "Wednesday: 7:00 AM – 8:15 PM",
+    "Thursday: 7:00 AM – 8:15 PM",
+    "Friday: 7:00 AM – 8:15 PM",
+    "Saturday: 7:00 AM – 8:15 PM",
+    "Sunday: 8:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-e-confeitaria-sonho-doce-novo-hamburgo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:47.036Z"
+}

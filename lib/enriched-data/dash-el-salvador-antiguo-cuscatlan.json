@@ -1,0 +1,32 @@
+{
+  "slug": "dash-el-salvador-antiguo-cuscatlan",
+  "name": "Dash El Salvador",
+  "city": "Antiguo Cuscatlán",
+  "country": "El Salvador",
+  "placeId": "ChIJ_-o3jX4xY48RnmrKyU9fySk",
+  "googleName": "Dash Bakery",
+  "formattedAddress": "Avenida El Espino 52, El Salvador",
+  "phone": "7600 0493",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3011042622166428318",
+  "rating": 4.3,
+  "reviewCount": 102,
+  "coords": [
+    13.6653007,
+    -89.25427490000001
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dash-el-salvador-antiguo-cuscatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:02:50.051Z"
+}

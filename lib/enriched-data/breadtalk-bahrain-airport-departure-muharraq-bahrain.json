@@ -1,0 +1,32 @@
+{
+  "slug": "breadtalk-bahrain-airport-departure-muharraq-bahrain",
+  "name": "Breadtalk Bahrain Airport Departure",
+  "city": "Muharraq, Bahrain",
+  "country": "Bahrain",
+  "placeId": "ChIJk3ndPzSmST4Rlhp6z7trwvQ",
+  "googleName": "Bahrain International Airport",
+  "formattedAddress": "Rd 2404, Muharraq, Bahrain",
+  "phone": "8000 7777",
+  "website": "https://www.bahrainairport.bh/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17636777545120225942",
+  "rating": 4.6,
+  "reviewCount": 16701,
+  "coords": [
+    26.2671847,
+    50.6302827
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadtalk-bahrain-airport-departure-muharraq-bahrain/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:44:26.725Z"
+}

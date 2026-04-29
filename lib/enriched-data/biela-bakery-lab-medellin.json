@@ -1,0 +1,44 @@
+{
+  "slug": "biela-bakery-lab-medellin",
+  "name": "biela bakery lab",
+  "curatedName": "biela bakery lab",
+  "city": "Medellín",
+  "country": "Colombia",
+  "placeId": "ChIJKc_YYSwoRI4RbgeBgx2_xts",
+  "googleName": "biela bakery lab",
+  "formattedAddress": "Cl. 12 #43b-64, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+  "phone": "318 6323371",
+  "internationalPhone": "+57 318 6323371",
+  "website": "http://www.bielabakerylab.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15836555273176156014",
+  "rating": 4.5,
+  "reviewCount": 73,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    6.2135036,
+    -75.5711656
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/biela-bakery-lab-medellin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:27:17.679Z"
+}

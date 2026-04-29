@@ -1,0 +1,44 @@
+{
+  "slug": "panificadora-gallery-sao-vicente",
+  "name": "Panificadora Gallery",
+  "curatedName": "Panificadora Gallery",
+  "city": "São Vicente",
+  "country": "Brazil",
+  "placeId": "ChIJd9EYpaQczpQRnTYT0AKfgOA",
+  "googleName": "Panificadora Gallery",
+  "formattedAddress": "Av. Prefeito José Monteiro, 98 - Vila Valenca, São Vicente - SP, 11380-000, Brazil",
+  "phone": "(13) 3467-7082",
+  "internationalPhone": "+55 13 3467-7082",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16177104695944492701",
+  "rating": 4.5,
+  "reviewCount": 1075,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.9616521,
+    -46.376379
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-gallery-sao-vicente/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:02.083Z"
+}

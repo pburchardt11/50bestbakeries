@@ -1,0 +1,44 @@
+{
+  "slug": "bakery-santa-isabel-piracicaba",
+  "name": "Bakery Santa Isabel",
+  "curatedName": "Bakery Santa Isabel",
+  "city": "Piracicaba",
+  "country": "Brazil",
+  "placeId": "ChIJZymu2rYxxpQR69Kcyi0MuO0",
+  "googleName": "Bakery Santa Isabel",
+  "formattedAddress": "Av. Carlos Martins Sodero, 377 - Vila Independencia, Piracicaba - SP, 13418-365, Brazil",
+  "phone": "(19) 3433-4572",
+  "internationalPhone": "+55 19 3433-4572",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17129454573516018411",
+  "rating": 4.6,
+  "reviewCount": 3368,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.725669,
+    -47.630103
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-santa-isabel-piracicaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:29.491Z"
+}

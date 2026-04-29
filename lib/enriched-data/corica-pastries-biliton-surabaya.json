@@ -1,0 +1,43 @@
+{
+  "slug": "corica-pastries-biliton-surabaya",
+  "name": "Corica Pastries Biliton",
+  "curatedName": "Corica Pastries Biliton",
+  "city": "Surabaya",
+  "country": "Indonesia",
+  "placeId": "ChIJASvUyNr71y0RuskT9XI0hF8",
+  "googleName": "Corica Pastries Biliton",
+  "formattedAddress": "Jl. Biliton No.40A, Gubeng, Kec. Gubeng, Surabaya, Jawa Timur 60281, Indonesia",
+  "phone": "0813-3332-5873",
+  "internationalPhone": "+62 813-3332-5873",
+  "website": "http://coricapastries.co.id/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6882683798871591354",
+  "rating": 4.6,
+  "reviewCount": 1286,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.276363799999999,
+    112.7491159
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/corica-pastries-biliton-surabaya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:38:46.723Z"
+}

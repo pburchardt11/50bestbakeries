@@ -1,0 +1,32 @@
+{
+  "slug": "bakina-pekara-djakovo",
+  "name": "Bakina pekara",
+  "city": "Djakovo",
+  "country": "Croatia",
+  "placeId": "ChIJf2bZDppVXEcRr4dMGdOPEmU",
+  "googleName": "bakery SVALINA",
+  "formattedAddress": "Ul. Josipa Runjanina 80, 31400, Đakovo, Croatia",
+  "phone": "091 260 3967",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7283041684236830639",
+  "rating": 4.8,
+  "reviewCount": 65,
+  "coords": [
+    45.3197064,
+    18.4078562
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:00 PM",
+    "Tuesday: 6:30 AM – 12:00 PM",
+    "Wednesday: 6:30 AM – 12:00 PM",
+    "Thursday: 6:30 AM – 12:00 PM",
+    "Friday: 6:30 AM – 12:00 PM",
+    "Saturday: 6:30 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakina-pekara-djakovo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:50:09.799Z"
+}

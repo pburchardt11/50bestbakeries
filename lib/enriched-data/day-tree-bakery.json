@@ -1,0 +1,43 @@
+{
+  "slug": "day-tree-bakery",
+  "name": "Day Tree Bakery",
+  "curatedName": "Day Tree Bakery",
+  "city": "高雄市",
+  "country": "Taiwan",
+  "placeId": "ChIJAf8OJ4oFbjQRTdbstr6bOvE",
+  "googleName": "日樹烘焙坊•Day tree bakery",
+  "formattedAddress": "No. 201號, Yangming Rd, Sanmin District, Kaohsiung City, Taiwan 807",
+  "phone": "07 392 7700",
+  "internationalPhone": "+886 7 392 7700",
+  "website": "https://www.facebook.com/DAY.TREE.BAKERY/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17382376955204916813",
+  "rating": 4.5,
+  "reviewCount": 910,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.6414255,
+    120.3415946
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:00 PM",
+    "Tuesday: 11:00 AM – 9:00 PM",
+    "Wednesday: 11:00 AM – 9:00 PM",
+    "Thursday: 11:00 AM – 9:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Understated bakery with a terrace showcasing sweet & savory pastries, plus breads, cakes & salads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/day-tree-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:08.879Z"
+}

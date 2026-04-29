@@ -1,0 +1,44 @@
+{
+  "slug": "doces-hungaros-petropolis",
+  "name": "Doces Húngaros Petrópolis",
+  "curatedName": "Doces Húngaros Petrópolis",
+  "city": "Petrópolis",
+  "country": "Brazil",
+  "placeId": "ChIJoSgwpgMImQAR1DAz-S-Vw78",
+  "googleName": "Doces Húngaros Petrópolis",
+  "formattedAddress": "R. Mal. Deodoro, 94 - Centro, Petrópolis - RJ, 25620-150, Brazil",
+  "phone": "(24) 2235-4613",
+  "internationalPhone": "+55 24 2235-4613",
+  "website": "http://www.doceshungaros.com.br",
+  "googleMapsUrl": "https://maps.google.com/?cid=13818052114979696852",
+  "rating": 4.6,
+  "reviewCount": 2277,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.5121236,
+    -43.1777913
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 6:30 PM",
+    "Tuesday: 10:30 AM – 6:30 PM",
+    "Wednesday: 10:30 AM – 6:30 PM",
+    "Thursday: 10:30 AM – 6:30 PM",
+    "Friday: 10:30 AM – 6:30 PM",
+    "Saturday: 10:30 AM – 6:30 PM",
+    "Sunday: 10:30 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/doces-hungaros-petropolis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:08.798Z"
+}

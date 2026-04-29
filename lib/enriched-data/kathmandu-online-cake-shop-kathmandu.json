@@ -1,0 +1,43 @@
+{
+  "slug": "kathmandu-online-cake-shop-kathmandu",
+  "name": "Kathmandu Online Cake Shop",
+  "curatedName": "Kathmandu Online Cake Shop",
+  "city": "Kathmandu",
+  "country": "Nepal",
+  "placeId": "ChIJ5TlabqcZ6zkRPNex4CESEiA",
+  "googleName": "Kathmandu online cake shop",
+  "formattedAddress": "Ganesh Marga, Kathmandu 44600, Nepal",
+  "phone": "986-0215124",
+  "internationalPhone": "+977 986-0215124",
+  "website": "http://www.cakeinkathmandu.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2310929495507457852",
+  "rating": 4.7,
+  "reviewCount": 57,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    27.6803212,
+    85.3346571
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 AM",
+    "Tuesday: 7:00 AM – 1:00 AM",
+    "Wednesday: 7:00 AM – 1:00 AM",
+    "Thursday: 7:00 AM – 1:00 AM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 7:00 AM – 1:00 AM",
+    "Sunday: 7:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kathmandu-online-cake-shop-kathmandu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:40.441Z"
+}

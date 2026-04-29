@@ -1,0 +1,32 @@
+{
+  "slug": "sandbox-tree-bakery-sint-eustatius",
+  "name": "Sandbox Tree Bakery",
+  "city": "Sint Eustatius",
+  "country": "Caribbean Netherlands",
+  "placeId": "ChIJzRmrYWH7EYwRf8rzy-OGV_0",
+  "googleName": "Sandbox Tree Bakery",
+  "formattedAddress": "F2J7+HQX, Oranjestad, Caribbean Netherlands",
+  "phone": "318 2469",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18255207927507044991",
+  "rating": 4.2,
+  "reviewCount": 41,
+  "coords": [
+    17.4814944,
+    -62.985509
+  ],
+  "openingHours": [
+    "Monday: 5:10 AM – 7:35 PM",
+    "Tuesday: 5:10 AM – 7:35 PM",
+    "Wednesday: 5:10 AM – 7:35 PM",
+    "Thursday: 5:10 AM – 7:35 PM",
+    "Friday: 5:10 AM – 7:35 PM",
+    "Saturday: 5:10 AM – 7:35 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sandbox-tree-bakery-sint-eustatius/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:41:21.947Z"
+}

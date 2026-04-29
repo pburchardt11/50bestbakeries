@@ -1,0 +1,32 @@
+{
+  "slug": "keo-sarat-memot-bakery",
+  "name": "Keo Sarat Memot Bakery",
+  "city": "ខេត្តត្បូងឃ្មុំ",
+  "country": "Cambodia",
+  "placeId": "ChIJbf9EnQq9DDERME2fO_fGf5o",
+  "googleName": "Keo Sarat Memot Bakery",
+  "formattedAddress": "Memot, Cambodia",
+  "phone": "068 637 007",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11132835569042672944",
+  "rating": 4,
+  "reviewCount": 11,
+  "coords": [
+    11.8270194,
+    106.1836293
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:30 PM",
+    "Tuesday: 5:00 AM – 6:30 PM",
+    "Wednesday: 5:00 AM – 6:30 PM",
+    "Thursday: 5:00 AM – 6:30 PM",
+    "Friday: 5:00 AM – 6:30 PM",
+    "Saturday: 5:00 AM – 6:30 PM",
+    "Sunday: 5:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/keo-sarat-memot-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:31:27.917Z"
+}

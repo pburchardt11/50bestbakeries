@@ -1,0 +1,32 @@
+{
+  "slug": "swiss-bakery-luanda",
+  "name": "SWISS bakery Luanda",
+  "city": "Luanda",
+  "country": "Angola",
+  "placeId": "ChIJQUqhIOhZei4RSH357VB9V2o",
+  "googleName": "Swiss House Bakery",
+  "formattedAddress": "Jl. Affandi No.38, Santren, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281, Indonesia",
+  "phone": "0821-3458-4246",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7662731077537594696",
+  "rating": 4.5,
+  "reviewCount": 2686,
+  "coords": [
+    -7.7702756,
+    110.3905589
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/swiss-bakery-luanda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:18:08.822Z"
+}

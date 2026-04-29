@@ -1,0 +1,32 @@
+{
+  "slug": "pekoteka-mila-banja-luka",
+  "name": "Pekoteka MILA",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJOYl9vxkDXkcRoKVXO9RNLok",
+  "googleName": "МИЛА Pekoteka MILA",
+  "formattedAddress": "Trg Krajine 2, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": "066 371-803",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9884923806048822688",
+  "rating": 4.7,
+  "reviewCount": 9,
+  "coords": [
+    44.7699973,
+    17.1896325
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekoteka-mila-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:16:32.647Z"
+}

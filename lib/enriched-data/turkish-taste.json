@@ -1,0 +1,32 @@
+{
+  "slug": "turkish-taste",
+  "name": "Turkish Taste",
+  "city": "ناحیه شانزدهم",
+  "country": "Afghanistan",
+  "placeId": "ChIJmbq7pLlu0TgR7L55MtZDrJ4",
+  "googleName": "Turkish Family Restaurant & Cafe",
+  "formattedAddress": "Sulh Rd, Kabol 101002, Afghanistan",
+  "phone": "078 600 0011",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11433588141235748588",
+  "rating": 4.4,
+  "reviewCount": 547,
+  "coords": [
+    34.5337458,
+    69.1725642
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:30 PM",
+    "Tuesday: 7:00 AM – 11:30 PM",
+    "Wednesday: 7:00 AM – 11:30 PM",
+    "Thursday: 7:00 AM – 11:30 PM",
+    "Friday: 7:00 AM – 11:30 PM",
+    "Saturday: 7:00 AM – 11:30 PM",
+    "Sunday: 7:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/turkish-taste/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:13:08.578Z"
+}

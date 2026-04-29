@@ -1,0 +1,44 @@
+{
+  "slug": "nonadeli-santa-maria",
+  "name": "Nonadelí",
+  "curatedName": "Nonadelí",
+  "city": "Santa Maria",
+  "country": "Brazil",
+  "placeId": "ChIJ-Yh2ykLLA5URB8cVZWLEoUw",
+  "googleName": "Nonadelí",
+  "formattedAddress": "R. Venâncio Aires, 1353 - Centro, Santa Maria - RS, 97010-003, Brazil",
+  "phone": "(55) 3222-6193",
+  "internationalPhone": "+55 55 3222-6193",
+  "website": "http://nonadeli.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5521910545014703879",
+  "rating": 4.6,
+  "reviewCount": 1307,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.686954,
+    -53.812736
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:30 PM",
+    "Tuesday: 8:30 AM – 6:30 PM",
+    "Wednesday: 8:30 AM – 6:30 PM",
+    "Thursday: 8:30 AM – 6:30 PM",
+    "Friday: 8:30 AM – 6:30 PM",
+    "Saturday: 9:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nonadeli-santa-maria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:10.563Z"
+}

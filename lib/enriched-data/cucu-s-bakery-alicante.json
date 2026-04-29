@@ -1,0 +1,45 @@
+{
+  "slug": "cucu-s-bakery-alicante",
+  "name": "Cucu's Bakery",
+  "curatedName": "Cucu's Bakery",
+  "city": "Alicante",
+  "country": "Spain",
+  "placeId": "ChIJp97rQIw3Yg0RWpYgndhAjWo",
+  "googleName": "CuCu's Bakery",
+  "formattedAddress": "C. Sacerdote Isidro Albert, 20, Local 2A, 03010 Alicante, Spain",
+  "phone": "624 20 28 95",
+  "internationalPhone": "+34 624 20 28 95",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7677864238829835866",
+  "rating": 4.9,
+  "reviewCount": 228,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.3652342,
+    -0.4894285
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 1:00 PM, 5:00 – 8:00 PM",
+    "Wednesday: 9:00 AM – 1:00 PM, 5:00 – 8:00 PM",
+    "Thursday: 9:00 AM – 1:00 PM, 5:00 – 8:00 PM",
+    "Friday: 9:00 AM – 1:00 PM, 5:00 – 8:00 PM",
+    "Saturday: 10:00 AM – 1:00 PM, 5:00 – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cucu-s-bakery-alicante/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:39.921Z"
+}

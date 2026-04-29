@@ -1,0 +1,44 @@
+{
+  "slug": "easy-bakery",
+  "name": "Easy Bakery",
+  "curatedName": "Easy Bakery",
+  "city": "ชลบุรี",
+  "country": "Thailand",
+  "placeId": "ChIJAcO8i0lhHTERWjjHq9w3vLs",
+  "googleName": "Easy Day Dessert - Pre order Cakes สั่งเค้กล่วงหน้า",
+  "formattedAddress": "1935(ชั้น2 On Nut Rd, On Nut, Khet Suan Luang, Krung Thep Maha Nakhon 10250, Thailand",
+  "phone": "063 447 8800",
+  "internationalPhone": "+66 63 447 8800",
+  "website": "https://easydaydessert.wixsite.com/easydaydessert",
+  "googleMapsUrl": "https://maps.google.com/?cid=13527748801628420186",
+  "rating": 4.9,
+  "reviewCount": 27,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.7109796,
+    100.6353982
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:30 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/easy-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:58.193Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-royal-ambato",
+  "name": "Panaderia Royal",
+  "city": "Ambato",
+  "country": "Ecuador",
+  "placeId": "ChIJ2Z-eBBqB05ERj0yx0HU5dSc",
+  "googleName": "Panaderia Royal",
+  "formattedAddress": "Abelardo López de Ayala y, Manuelita Sáenz, 180101 Ambato, Ecuador",
+  "phone": "(03) 241-6945",
+  "website": "https://royalpanaderia.weebly.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2843241917929573519",
+  "rating": 4.4,
+  "reviewCount": 65,
+  "coords": [
+    -1.2616875,
+    -78.6392527
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 – 10:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-royal-ambato/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:59:59.247Z"
+}

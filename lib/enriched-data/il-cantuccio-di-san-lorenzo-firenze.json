@@ -1,0 +1,43 @@
+{
+  "slug": "il-cantuccio-di-san-lorenzo-firenze",
+  "name": "Il Cantuccio di San Lorenzo",
+  "curatedName": "Il Cantuccio di San Lorenzo",
+  "city": "Firenze",
+  "country": "Italy",
+  "placeId": "ChIJjXW9J6hWKhMRM_ncMupV8Vc",
+  "googleName": "Il Cantuccio di San Lorenzo",
+  "formattedAddress": "Via Faenza, 23/r, 50123 Firenze FI, Italy",
+  "phone": "055 290034",
+  "internationalPhone": "+39 055 290034",
+  "website": "http://www.ilcantucciodisanlorenzo.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6336940615051049267",
+  "rating": 4.8,
+  "reviewCount": 463,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.7753734,
+    11.2524587
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:30 PM",
+    "Tuesday: 9:00 AM – 7:30 PM",
+    "Wednesday: 9:00 AM – 7:30 PM",
+    "Thursday: 9:00 AM – 7:30 PM",
+    "Friday: 9:00 AM – 7:30 PM",
+    "Saturday: 9:00 AM – 7:30 PM",
+    "Sunday: 10:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": "Traditional Florentine pastry shop turning out house-specialty almond cookies & other Tuscan treats.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/il-cantuccio-di-san-lorenzo-firenze/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:32.531Z"
+}

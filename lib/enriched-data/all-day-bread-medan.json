@@ -1,0 +1,43 @@
+{
+  "slug": "all-day-bread-medan",
+  "name": "All Day Bread",
+  "curatedName": "All Day Bread",
+  "city": "Medan",
+  "country": "Indonesia",
+  "placeId": "ChIJsYdQSykwMTARoLQ0r-n3SW4",
+  "googleName": "All Day Bread",
+  "formattedAddress": "Jl. Kapten Patimura No.141, Darat, Kec. Medan Baru, Kota Medan, Sumatera Utara 20152, Indonesia",
+  "phone": "0811-6334-421",
+  "internationalPhone": "+62 811-6334-421",
+  "website": "https://www.alldaybread.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7947155600510858400",
+  "rating": 4.8,
+  "reviewCount": 1018,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    3.574466,
+    98.665517
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/all-day-bread-medan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:37:08.172Z"
+}

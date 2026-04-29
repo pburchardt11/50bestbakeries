@@ -1,0 +1,45 @@
+{
+  "slug": "pasticceria-luigi-ficarra-catania",
+  "name": "Pasticceria Luigi Ficarra",
+  "curatedName": "Pasticceria Luigi Ficarra",
+  "city": "Catania",
+  "country": "Italy",
+  "placeId": "ChIJtxF15NL8ExMRy3-fPryA-bU",
+  "googleName": "Pasticceria Luigi Ficarra",
+  "formattedAddress": "Via Umberto I, 69/71, 95129 Catania CT, Italy",
+  "phone": "095 715 9768",
+  "internationalPhone": "+39 095 715 9768",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13112653336058757067",
+  "rating": 4.7,
+  "reviewCount": 1596,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.5114123,
+    15.0879679
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticceria-luigi-ficarra-catania/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:58.899Z"
+}

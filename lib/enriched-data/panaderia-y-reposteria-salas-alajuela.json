@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-reposteria-salas-alajuela",
+  "name": "Panaderia y Reposteria Salas",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJKyMhBHKPoI8Ry1YaQYMeRpM",
+  "googleName": "Panadería y Repostería Salas",
+  "formattedAddress": "20114, Provincia de Alajuela, Alajuela, 20114, Costa Rica",
+  "phone": "8313 3795",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10612203121026946763",
+  "rating": 4.7,
+  "reviewCount": 7,
+  "coords": [
+    10.3351077,
+    -84.1722678
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 6:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-reposteria-salas-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:55.884Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "craquelin-pasteleria-francesa-naucalpan-de-juarez",
+  "name": "Craquelin Pasteleria Francesa",
+  "curatedName": "Craquelin Pasteleria Francesa",
+  "city": "Naucalpan de Juárez",
+  "country": "Mexico",
+  "placeId": "ChIJU0gNlYAD0oURIPzxSAop4jk",
+  "googleName": "Craquelin pastelería francesa",
+  "formattedAddress": "Av. Dr. Gustavo Baz 250-Local 7, Hacienda de Echegaray, 53310 Naucalpan de Juárez, Méx., Mexico",
+  "phone": "55 2647 9081",
+  "internationalPhone": "+52 55 2647 9081",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4170941329048730656",
+  "rating": 4.8,
+  "reviewCount": 36,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4912405,
+    -99.2271926
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/craquelin-pasteleria-francesa-naucalpan-de-juarez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:21.240Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "london-bakery-coffee-and-gelato-yogyakarta",
+  "name": "London Bakery Coffee and Gelato",
+  "curatedName": "London Bakery Coffee and Gelato",
+  "city": "Yogyakarta",
+  "country": "Indonesia",
+  "placeId": "ChIJGybxbVJZei4RgRBRgU_3AqU",
+  "googleName": "London Bakery Coffee and Gelato",
+  "formattedAddress": "Jl. Suroto No.10, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224, Indonesia",
+  "phone": "0851-7171-6060",
+  "internationalPhone": "+62 851-7171-6060",
+  "website": "https://www.instagram.com/londonbakerycake",
+  "googleMapsUrl": "https://maps.google.com/?cid=11890337887055581313",
+  "rating": 4.8,
+  "reviewCount": 516,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.784178099999999,
+    110.374977
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/london-bakery-coffee-and-gelato-yogyakarta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:26.963Z"
+}

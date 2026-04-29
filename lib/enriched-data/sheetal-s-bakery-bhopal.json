@@ -1,0 +1,43 @@
+{
+  "slug": "sheetal-s-bakery-bhopal",
+  "name": "Sheetal's Bakery",
+  "curatedName": "Sheetal's Bakery",
+  "city": "Bhopal",
+  "country": "India",
+  "placeId": "ChIJnxbfJzhDfDkR7Eiyue_A0fc",
+  "googleName": "Sheetal's bakery",
+  "formattedAddress": "186, near sharda hospital, Sudama Nagar, Aradhana Nagar, Bhopal, Madhya Pradesh 462003, India",
+  "phone": "079990 44706",
+  "internationalPhone": "+91 79990 44706",
+  "website": "https://instagram.com/sheetal.bakery_patisserie?utm_medium=copy_link",
+  "googleMapsUrl": "https://maps.google.com/?cid=17857266133345913068",
+  "rating": 5,
+  "reviewCount": 1505,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.2210594,
+    77.3970859
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 1:00 AM",
+    "Tuesday: 9:00 AM – 1:00 AM",
+    "Wednesday: 9:00 AM – 1:00 AM",
+    "Thursday: 9:00 AM – 1:00 AM",
+    "Friday: 9:00 AM – 1:00 AM",
+    "Saturday: 9:00 AM – 1:00 AM",
+    "Sunday: 9:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sheetal-s-bakery-bhopal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:43.611Z"
+}

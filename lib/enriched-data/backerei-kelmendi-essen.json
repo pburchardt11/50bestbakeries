@@ -1,0 +1,43 @@
+{
+  "slug": "backerei-kelmendi-essen",
+  "name": "Bäckerei kelmendi essen",
+  "curatedName": "Bäckerei kelmendi essen",
+  "city": "Essen",
+  "country": "Germany",
+  "placeId": "ChIJaWb649fDuEcR3W0aHTvl7S0",
+  "googleName": "Bäckerei kelmendi essen",
+  "formattedAddress": "Varnhorststraße 21b, 45127 Essen, Germany",
+  "phone": "0163 1122928",
+  "internationalPhone": "+49 163 1122928",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3309553343241285085",
+  "rating": 4.6,
+  "reviewCount": 71,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.4552057,
+    7.0189572
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-kelmendi-essen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:32.758Z"
+}

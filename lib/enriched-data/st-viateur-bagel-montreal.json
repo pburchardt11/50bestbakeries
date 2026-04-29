@@ -1,0 +1,43 @@
+{
+  "slug": "st-viateur-bagel-montreal",
+  "name": "St-Viateur Bagel",
+  "curatedName": "St-Viateur Bagel",
+  "city": "Montréal",
+  "country": "Canada",
+  "placeId": "ChIJQ2XG23gZyUwRoCNTC2xte4M",
+  "googleName": "St-Viateur Bagel",
+  "formattedAddress": "263 R. Saint Viateur Ouest, Montréal, QC H2V 1Y1, Canada",
+  "phone": "(514) 276-8044",
+  "internationalPhone": "+1 514-276-8044",
+  "website": "http://www.stviateurbagel.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9474286551917863840",
+  "rating": 4.6,
+  "reviewCount": 8910,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.5226914,
+    -73.60195809999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": "Iconic storefront known for wood-oven baked bagels with varied flavors & toppings.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/st-viateur-bagel-montreal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:01.559Z"
+}

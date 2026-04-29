@@ -1,0 +1,46 @@
+{
+  "slug": "babu-s-zurich",
+  "name": "Babu's",
+  "curatedName": "Babu's",
+  "city": "Zürich",
+  "country": "Switzerland",
+  "placeId": "ChIJ2UBHaQQKkEcRkBbrunCzUoM",
+  "googleName": "Babu's",
+  "formattedAddress": "Löwenstrasse 1, 8001 Zürich, Switzerland",
+  "phone": "044 307 10 10",
+  "internationalPhone": "+41 44 307 10 10",
+  "website": "http://babus.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9462823063812511376",
+  "rating": 4.4,
+  "reviewCount": 3865,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.3731034,
+    8.5343354
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Modern flavors combine on the light menu of this sophisticated cafe serving espresso drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/babu-s-zurich/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:02.031Z"
+}

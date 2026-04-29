@@ -1,0 +1,43 @@
+{
+  "slug": "atelier-toluca",
+  "name": "Atelier",
+  "curatedName": "Atelier",
+  "city": "Toluca",
+  "country": "Mexico",
+  "placeId": "ChIJI9VWyQiJzYUR1zbmFY4SLYA",
+  "googleName": "Atelier",
+  "formattedAddress": "P.º Cristóbal Colón 214 B, Residencial Colón y Col Ciprés, 50120 Toluca de Lerdo, Méx., Mexico",
+  "phone": "722 373 8355",
+  "internationalPhone": "+52 722 373 8355",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9236058812268820183",
+  "rating": 4.3,
+  "reviewCount": 1451,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.2772262,
+    -99.6593355
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/atelier-toluca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:18.202Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "vanilya-pastanesi-muratpasa",
+  "name": "Vanilya Pastanesi",
+  "curatedName": "Vanilya Pastanesi",
+  "city": "Muratpaşa",
+  "country": "Türkiye",
+  "placeId": "ChIJi0StMuKawxQRK74-HITgEuQ",
+  "googleName": "Vanilya Pastanesi",
+  "formattedAddress": "Fener, Tekelioğlu Cd. No:76/B, 07160 Muratpaşa/Antalya, Türkiye",
+  "phone": "(0242) 323 31 67",
+  "internationalPhone": "+90 242 323 31 67",
+  "website": "https://www.vanilyapastanesi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16434444848242540075",
+  "rating": 4.4,
+  "reviewCount": 1431,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.851884,
+    30.755215
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vanilya-pastanesi-muratpasa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:00:28.184Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "maya-pastanesi-yenimahalle",
+  "name": "Maya Pastanesi Yenimahalle",
+  "curatedName": "Maya Pastanesi Yenimahalle",
+  "city": "Yenimahalle",
+  "country": "Türkiye",
+  "placeId": "ChIJB6-Jy21J0xQR1sGqeQyqWI0",
+  "googleName": "Maya Pastanesi Yenimahalle",
+  "formattedAddress": "Ragıp Tüzün, Pazar Cd. No:28/A, 06170 Yenimahalle/Ankara, Türkiye",
+  "phone": "(0312) 344 65 65",
+  "internationalPhone": "+90 312 344 65 65",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10185077527855940054",
+  "rating": 4.2,
+  "reviewCount": 380,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.965945,
+    32.80596
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maya-pastanesi-yenimahalle/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:38.666Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "la-cabana-de-las-delicias-aisen",
+  "name": "La Cabaña de las Delicias",
+  "city": "Aisén",
+  "country": "Chile",
+  "placeId": "ChIJv7QQL6rFYpYREFUVTheiAQA",
+  "googleName": "Las Delicias de Chile",
+  "formattedAddress": "José Toribio Medina 25, 8340589 Santiago, Región Metropolitana, Chile",
+  "phone": null,
+  "website": "https://www.facebook.com/LasDeliciasDeChile/",
+  "googleMapsUrl": "https://maps.google.com/?cid=459695954679056",
+  "rating": 4.6,
+  "reviewCount": 63,
+  "coords": [
+    -33.4458887,
+    -70.6637855
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 8:30 PM",
+    "Tuesday: 11:00 AM – 10:00 PM",
+    "Wednesday: 11:00 AM – 10:00 PM",
+    "Thursday: 11:00 AM – 10:00 PM",
+    "Friday: 11:00 AM – 10:00 PM",
+    "Saturday: Closed",
+    "Sunday: 2:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-cabana-de-las-delicias-aisen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:42:38.456Z"
+}

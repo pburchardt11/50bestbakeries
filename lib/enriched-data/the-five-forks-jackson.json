@@ -1,0 +1,43 @@
+{
+  "slug": "the-five-forks-jackson",
+  "name": "The Five Forks",
+  "curatedName": "The Five Forks",
+  "city": "Jackson",
+  "country": "United States",
+  "placeId": "ChIJgyD4GLklPYgR_qJL8P8F8VE",
+  "googleName": "The Five Forks",
+  "formattedAddress": "1194 N W Ave, Jackson, MI 49202, USA",
+  "phone": "(517) 998-3675",
+  "internationalPhone": "+1 517-998-3675",
+  "website": "http://fiveforksbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5904507183265719038",
+  "rating": 4.9,
+  "reviewCount": 47,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.2631583,
+    -84.4241243
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 2:00 PM",
+    "Wednesday: 10:00 AM – 2:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-five-forks-jackson/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:17:31.029Z"
+}

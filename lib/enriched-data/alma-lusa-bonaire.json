@@ -1,0 +1,32 @@
+{
+  "slug": "alma-lusa-bonaire",
+  "name": "Alma Lusa",
+  "city": "Bonaire",
+  "country": "Caribbean Netherlands",
+  "placeId": "ChIJOV-AhSwbg44Ry3NX68dCh20",
+  "googleName": "Alma Lusa - Bakery & Pastries",
+  "formattedAddress": "53 Kaya Grandi, Kralendijk, Caribbean Netherlands",
+  "phone": "795 3277",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7892350298404385739",
+  "rating": 3.8,
+  "reviewCount": 20,
+  "coords": [
+    12.1533542,
+    -68.2776274
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 PM, 5:00 – 7:00 PM",
+    "Tuesday: 7:00 AM – 12:00 PM, 5:00 – 7:00 PM",
+    "Wednesday: 7:00 AM – 12:00 PM, 5:00 – 7:00 PM",
+    "Thursday: 7:00 AM – 12:00 PM, 5:00 – 7:00 PM",
+    "Friday: 7:00 AM – 12:00 PM, 5:00 – 7:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/alma-lusa-bonaire/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:40:55.343Z"
+}

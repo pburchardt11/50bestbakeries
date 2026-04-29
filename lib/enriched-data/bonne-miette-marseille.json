@@ -1,0 +1,44 @@
+{
+  "slug": "bonne-miette-marseille",
+  "name": "Bonne Miette",
+  "curatedName": "Bonne Miette",
+  "city": "Marseille",
+  "country": "France",
+  "placeId": "ChIJXYTHMbbByRIR-ZAGBAtW6i4",
+  "googleName": "Bonne Miette",
+  "formattedAddress": "10 Pl. Général de Gaulle, 13001 Marseille, France",
+  "phone": "06 31 91 21 45",
+  "internationalPhone": "+33 6 31 91 21 45",
+  "website": "https://www.tripadvisor.fr/Restaurant_Review-g187253-d26227997-Reviews-Bonne_Miette-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html",
+  "googleMapsUrl": "https://maps.google.com/?cid=3380609075607146745",
+  "rating": 4.6,
+  "reviewCount": 653,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.294745,
+    5.3756108
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bonne-miette-marseille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:24.232Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "ata-bread-factory-merkezefendi",
+  "name": "ATA Bread Factory",
+  "curatedName": "ATA Bread Factory",
+  "city": "Merkezefendi",
+  "country": "Türkiye",
+  "placeId": "ChIJcYbI13xAxxQRKaVOTnCtW0A",
+  "googleName": "ATA BREAD FACTORY",
+  "formattedAddress": "Adalet, 10031 Sk. No:16, 20125 Merkez/Denizli Merkez/Denizli, Türkiye",
+  "phone": "(0258) 377 00 05",
+  "internationalPhone": "+90 258 377 00 05",
+  "website": "http://www.ataekmek.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4637490939169776937",
+  "rating": 4.2,
+  "reviewCount": 2454,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.7855069,
+    29.035019
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ata-bread-factory-merkezefendi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:05:33.270Z"
+}

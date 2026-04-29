@@ -1,0 +1,32 @@
+{
+  "slug": "100-pan-cabarete",
+  "name": "100% PAN",
+  "city": "Cabarete",
+  "country": "Dominican Republic",
+  "placeId": "ChIJoYTUuTPjsY4RgwOceSYxlgw",
+  "googleName": "100% PAN",
+  "formattedAddress": "Plaza Encuentro, C. los Cocos 100, Cabarete 57000, Dominican Republic",
+  "phone": "(829) 424-3355",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=906966416280519555",
+  "rating": 4.8,
+  "reviewCount": 79,
+  "coords": [
+    19.7761755,
+    -70.447107
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/100-pan-cabarete/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:57:32.513Z"
+}

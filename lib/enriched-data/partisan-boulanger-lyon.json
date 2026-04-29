@@ -1,0 +1,43 @@
+{
+  "slug": "partisan-boulanger-lyon",
+  "name": "partisan boulanger",
+  "curatedName": "partisan boulanger",
+  "city": "Lyon",
+  "country": "France",
+  "placeId": "ChIJcfWBLeLq9EcR09fu6IsWfNw",
+  "googleName": "partisan boulanger",
+  "formattedAddress": "2 Rue du Chariot d'Or, 69004 Lyon, France",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://partisanboulanger.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15887598375620499411",
+  "rating": 4.7,
+  "reviewCount": 521,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.7775685,
+    4.8324282
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:30 PM",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 6:00 AM – 7:30 PM",
+    "Saturday: 6:00 AM – 7:30 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/partisan-boulanger-lyon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:30.479Z"
+}

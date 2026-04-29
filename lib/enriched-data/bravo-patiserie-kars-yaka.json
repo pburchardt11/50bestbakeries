@@ -1,0 +1,44 @@
+{
+  "slug": "bravo-patiserie-kars-yaka",
+  "name": "Bravo Patiserie",
+  "curatedName": "Bravo Patiserie",
+  "city": "Karşıyaka",
+  "country": "Türkiye",
+  "placeId": "ChIJ8WzwnZPZuxQRh_5pqpnpUOw",
+  "googleName": "Bravo Patiserie",
+  "formattedAddress": "Bostanlı, Cemal Gürsel Cd. No:111/A, 35590 Karşıyaka/İzmir, Türkiye",
+  "phone": "(0232) 336 71 71",
+  "internationalPhone": "+90 232 336 71 71",
+  "website": "https://shop.bravopatisserie.com.tr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17028367037286186631",
+  "rating": 4.3,
+  "reviewCount": 5490,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.4582764,
+    27.0952044
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:30 AM",
+    "Tuesday: 7:00 AM – 12:30 AM",
+    "Wednesday: 7:00 AM – 12:30 AM",
+    "Thursday: 7:00 AM – 12:30 AM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 7:00 AM – 1:00 AM",
+    "Sunday: 7:00 AM – 12:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bravo-patiserie-kars-yaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:07.621Z"
+}

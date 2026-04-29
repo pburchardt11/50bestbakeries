@@ -1,0 +1,43 @@
+{
+  "slug": "port-elliot-bakery-port-elliot",
+  "name": "Port Elliot Bakery",
+  "curatedName": "Port Elliot Bakery",
+  "city": "Port Elliot",
+  "country": "Australia",
+  "placeId": "ChIJFRNT33hLsWoRbNX20dZ3dN8",
+  "googleName": "Port Elliot Bakery",
+  "formattedAddress": "31 North Terrace, Port Elliot SA 5212, Australia",
+  "phone": "(08) 8554 2475",
+  "internationalPhone": "+61 8 8554 2475",
+  "website": "https://www.portelliotbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16101626332285687148",
+  "rating": 4.6,
+  "reviewCount": 3088,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -35.5302739,
+    138.6815216
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/port-elliot-bakery-port-elliot/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:53.752Z"
+}

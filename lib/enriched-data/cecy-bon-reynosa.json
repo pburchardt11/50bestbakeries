@@ -1,0 +1,43 @@
+{
+  "slug": "cecy-bon-reynosa",
+  "name": "CECY BON",
+  "curatedName": "CECY BON",
+  "city": "Reynosa",
+  "country": "Mexico",
+  "placeId": "ChIJw2rgRAAFZYYRS6rMRbFx7EE",
+  "googleName": "CECY BON",
+  "formattedAddress": "Blvd. Las Fuentes, Las Fuentes Secc Lomas, 88703 Reynosa, Tamps., Mexico",
+  "phone": "899 108 2216",
+  "internationalPhone": "+52 899 108 2216",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4750296713163221579",
+  "rating": 4.7,
+  "reviewCount": 30,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.0569308,
+    -98.31950189999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:30 AM – 5:00 PM",
+    "Wednesday: 10:30 AM – 5:00 PM",
+    "Thursday: 10:30 AM – 5:00 PM",
+    "Friday: 10:30 AM – 5:00 PM",
+    "Saturday: 10:30 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cecy-bon-reynosa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:02.825Z"
+}

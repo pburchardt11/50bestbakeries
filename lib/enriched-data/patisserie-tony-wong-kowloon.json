@@ -1,0 +1,43 @@
+{
+  "slug": "patisserie-tony-wong-kowloon",
+  "name": "Patisserie Tony Wong",
+  "curatedName": "Patisserie Tony Wong",
+  "city": "Kowloon",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJC7KDFysHBDQRdrHol5PjjNM",
+  "googleName": "Patisserie Tony Wong",
+  "formattedAddress": "B3出口, 地鐵站, 63 Fuk Lo Tsun Road, 65 Fuk Lo Tsun Rd, Kowloon City, Hong Kong",
+  "phone": "2382 6639",
+  "internationalPhone": "+852 2382 6639",
+  "website": "http://www.patisserietonywong.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15243809061790593398",
+  "rating": 4.1,
+  "reviewCount": 255,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.3296177,
+    114.1874305
+  ],
+  "openingHours": [
+    "Monday: 11:30 AM – 8:00 PM",
+    "Tuesday: 11:30 AM – 8:00 PM",
+    "Wednesday: 11:30 AM – 8:00 PM",
+    "Thursday: 11:30 AM – 8:00 PM",
+    "Friday: 11:30 AM – 8:00 PM",
+    "Saturday: 11:30 AM – 8:00 PM",
+    "Sunday: 11:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-tony-wong-kowloon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:16.482Z"
+}

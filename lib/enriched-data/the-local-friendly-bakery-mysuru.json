@@ -1,0 +1,43 @@
+{
+  "slug": "the-local-friendly-bakery-mysuru",
+  "name": "The Local Friendly Bakery",
+  "curatedName": "The Local Friendly Bakery",
+  "city": "Mysuru",
+  "country": "India",
+  "placeId": "ChIJIUcxtpJ7rzsRZkADQrQ-zPU",
+  "googleName": "The Local Friendly Bakery",
+  "formattedAddress": "3018, Gokulam Main Rd, Gokulam 1st Stage, Gokulam, Mysuru, Karnataka 570002, India",
+  "phone": "076191 82069",
+  "internationalPhone": "+91 76191 82069",
+  "website": "https://airmenus.in/localfriendlybakery/order",
+  "googleMapsUrl": "https://maps.google.com/?cid=17711600378463862886",
+  "rating": 4,
+  "reviewCount": 553,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.3308321,
+    76.6315249
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-local-friendly-bakery-mysuru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:56.475Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "green-thumb",
+  "name": "Green Thumb",
+  "curatedName": "Green Thumb",
+  "city": "渋谷区",
+  "country": "Japan",
+  "placeId": "ChIJWTrlJluLGGAR0YPYQXUQ1ks",
+  "googleName": "Green Thumb",
+  "formattedAddress": "28-9 Sakuragaokachō, Shibuya, Tokyo 150-0031, Japan",
+  "phone": "03-6452-5611",
+  "internationalPhone": "+81 3-6452-5611",
+  "website": "http://greenthumb.tokyo/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5464573293662602193",
+  "rating": 4.5,
+  "reviewCount": 439,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.6557451,
+    139.6993359
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Hip bakery in an industrial-style space selling a variety of pastries, rolls, sandwiches & breads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/green-thumb/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:21.809Z"
+}

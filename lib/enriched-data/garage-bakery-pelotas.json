@@ -1,0 +1,41 @@
+{
+  "slug": "garage-bakery-pelotas",
+  "name": "Garage Bakery",
+  "curatedName": "Garage Bakery",
+  "city": "Pelotas",
+  "country": "Brazil",
+  "placeId": "ChIJibnXoOK1EZURAkncWW4-oxE",
+  "googleName": "Garage Bakery",
+  "formattedAddress": "R. Andrade Neves, 3334 - Centro, Pelotas - RS, 96020-080, Brazil",
+  "phone": "(53) 98448-3360",
+  "internationalPhone": "+55 53 98448-3360",
+  "website": "https://garagebakery.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1270928163523545346",
+  "rating": 5,
+  "reviewCount": 20,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -31.7552978,
+    -52.33658080000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 3:00 – 7:00 PM",
+    "Thursday: 3:00 – 7:00 PM",
+    "Friday: 3:00 – 7:00 PM",
+    "Saturday: 3:00 – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T03:41:11.356Z"
+}

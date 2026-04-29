@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-le-bourgeois-brazzaville",
+  "name": "Pâtisserie Le Bourgeois",
+  "city": "Brazzaville",
+  "country": "Congo - Brazzaville",
+  "placeId": "ChIJXVc41zwzahoR_s5BqxyeieM",
+  "googleName": "Patisserie Le Bourgeois",
+  "formattedAddress": "Ave de la Paix, Brazzaville, Republic of the Congo",
+  "phone": "06 970 5252",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16395809764388491006",
+  "rating": 3.4,
+  "reviewCount": 54,
+  "coords": [
+    -4.2594466,
+    15.2783702
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:00 PM",
+    "Tuesday: 7:30 AM – 11:00 PM",
+    "Wednesday: 7:30 AM – 11:00 PM",
+    "Thursday: 7:30 AM – 11:00 PM",
+    "Friday: 7:30 AM – 11:00 PM",
+    "Saturday: 7:30 AM – 11:00 PM",
+    "Sunday: 7:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-le-bourgeois-brazzaville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:46:05.614Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "moringa-confeitaria-e-bistro-pelotas",
+  "name": "Moringa Confeitaria e Bistro.",
+  "curatedName": "Moringa Confeitaria e Bistro.",
+  "city": "Pelotas",
+  "country": "Brazil",
+  "placeId": "ChIJnwY4Vk21EZUR0dxvaVpgukM",
+  "googleName": "Moringa Confeitaria e Bistro.",
+  "formattedAddress": "R. Padre Anchieta, 2373 - Centro, Pelotas - RS, 96015-420, Brazil",
+  "phone": "(53) 99100-6997",
+  "internationalPhone": "+55 53 99100-6997",
+  "website": "https://moringafit.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4880319087641615569",
+  "rating": 4.7,
+  "reviewCount": 72,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -31.7649547,
+    -52.3386787
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 6:30 PM",
+    "Tuesday: 12:00 – 6:30 PM",
+    "Wednesday: 12:00 – 6:30 PM",
+    "Thursday: 12:00 – 6:30 PM",
+    "Friday: 12:00 – 6:30 PM",
+    "Saturday: 12:00 – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/moringa-confeitaria-e-bistro-pelotas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:16:05.977Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "urban-bakery",
+  "name": "Urban Bakery",
+  "curatedName": "Urban Bakery",
+  "city": "Кочани",
+  "country": "North Macedonia",
+  "placeId": "ChIJya2nxB2TVRMRT9Z0U634KFc",
+  "googleName": "Urban Bakery",
+  "formattedAddress": "Todosija Paunov 89, Kočani 2300, North Macedonia",
+  "phone": "076 230 350",
+  "internationalPhone": "+389 76 230 350",
+  "website": "https://urbanbakery.mk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6280543103681353295",
+  "rating": 4.6,
+  "reviewCount": 11,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.9130708,
+    22.4204543
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/urban-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:51:28.512Z"
+}

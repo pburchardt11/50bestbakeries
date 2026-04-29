@@ -1,0 +1,44 @@
+{
+  "slug": "florida-bakery",
+  "name": "Florida Bakery",
+  "curatedName": "Florida Bakery",
+  "city": "台北市",
+  "country": "Taiwan",
+  "placeId": "ChIJ1YNxV0SpQjQRhmfCx2ogBr0",
+  "googleName": "Florida Bakery Ltd.",
+  "formattedAddress": "No. 23-5號, Section 3, Zhongshan N Rd, Zhongshan District, Taipei City, Taiwan 104",
+  "phone": "02 2594 6923",
+  "internationalPhone": "+886 2 2594 6923",
+  "website": "http://www.bread.com.tw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13620609766018672518",
+  "rating": 4.1,
+  "reviewCount": 2018,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.06479,
+    121.522514
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:30 AM – 10:00 PM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Whimsical cakes, cookies & breads sit in gleaming cases at this upscale bake shop.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/florida-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:12.228Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "royal-cake-itajai",
+  "name": "Royal Cake",
+  "curatedName": "Royal Cake",
+  "city": "Itajaí",
+  "country": "Brazil",
+  "placeId": "ChIJU5AgyH3M2JQRHevMYds3UGs",
+  "googleName": "Royal Cake",
+  "formattedAddress": "R. Indaial, 790 - Dom Bosco, Itajaí - SC, 88303-302, Brazil",
+  "phone": "(47) 99955-7336",
+  "internationalPhone": "+55 47 99955-7336",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7732741975573326621",
+  "rating": 4.7,
+  "reviewCount": 354,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.9144936,
+    -48.6771202
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:00 PM, 2:00 – 7:30 PM",
+    "Tuesday: 6:30 AM – 12:00 PM, 2:00 – 7:30 PM",
+    "Wednesday: 6:30 AM – 12:00 PM, 2:00 – 7:30 PM",
+    "Thursday: 6:30 AM – 12:00 PM, 2:00 – 7:30 PM",
+    "Friday: 6:30 AM – 12:00 PM, 2:00 – 7:30 PM",
+    "Saturday: 6:30 AM – 12:00 PM, 2:00 – 7:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/royal-cake-itajai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:23:38.756Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "detour-bakery-denver",
+  "name": "Detour Bakery",
+  "curatedName": "Detour Bakery",
+  "city": "Denver",
+  "country": "United States",
+  "placeId": "ChIJeXKMw8N9bIcRcFtJEtkdslw",
+  "googleName": "Detour Bakery",
+  "formattedAddress": "1479 S Holly St, Denver, CO 80222, USA",
+  "phone": "(303) 756-2020",
+  "internationalPhone": "+1 303-756-2020",
+  "website": "http://detourbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6679434015495773040",
+  "rating": 4.8,
+  "reviewCount": 515,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.6898743,
+    -104.9235034
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: 7:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Popular French bakery offering pastries, artisan breads, quiche & sandwiches in a cheery atmosphere.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/detour-bakery-denver/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:11:35.789Z"
+}

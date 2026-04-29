@@ -1,0 +1,30 @@
+{
+  "slug": "den-turksen-bakker-aalst",
+  "name": "Den Turksen bakker",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJ7_yzsVa9w0cRD_TdC9QCBiw",
+  "googleName": "Turkse bakker Taner",
+  "formattedAddress": "Molendries 25, 9300 Aalst, Belgium",
+  "phone": "0492 43 27 73",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3172226097284510735",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    50.941711,
+    4.045002999999999
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 8:30 PM",
+    "Tuesday: Closed",
+    "Wednesday: 5:00 AM – 8:30 PM",
+    "Thursday: 5:00 AM – 8:30 PM",
+    "Friday: 5:00 AM – 8:30 PM",
+    "Saturday: 5:00 AM – 8:30 PM",
+    "Sunday: 5:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:04:53.048Z"
+}

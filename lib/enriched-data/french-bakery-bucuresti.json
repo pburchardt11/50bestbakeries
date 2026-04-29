@@ -1,0 +1,43 @@
+{
+  "slug": "french-bakery-bucuresti",
+  "name": "French Bakery",
+  "curatedName": "French Bakery",
+  "city": "București",
+  "country": "Romania",
+  "placeId": "ChIJTQSzUEb_sUARQ_zsq6IvYf4",
+  "googleName": "French Bakery",
+  "formattedAddress": "Strada Benjamin Franklin 9, 030167 București, Romania",
+  "phone": "021 311 4518",
+  "internationalPhone": "+40 21 311 4518",
+  "website": "http://www.frenchbakery.ro/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18329984334090271811",
+  "rating": 4.3,
+  "reviewCount": 287,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.4416227,
+    26.0984238
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/french-bakery-bucuresti/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:01.700Z"
+}

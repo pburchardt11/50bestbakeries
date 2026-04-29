@@ -1,0 +1,32 @@
+{
+  "slug": "benea-s-r-o-benesov",
+  "name": "Benea s.r.o",
+  "city": "Benešov",
+  "country": "Czech Republic",
+  "placeId": "ChIJg1A2W7x_DEcRbQSMS8JrNoU",
+  "googleName": "Benea s.r.o",
+  "formattedAddress": "Křižíkova 1529, 256 01 Benešov-Benešov u Prahy, Czechia",
+  "phone": "317 763 556",
+  "website": "https://www.benea.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9598978138022085741",
+  "rating": 4.1,
+  "reviewCount": 67,
+  "coords": [
+    49.7725233,
+    14.6792372
+  ],
+  "openingHours": [
+    "Monday: 5:15 AM – 4:30 PM",
+    "Tuesday: 5:15 AM – 4:30 PM",
+    "Wednesday: 5:15 AM – 4:30 PM",
+    "Thursday: 5:15 AM – 4:30 PM",
+    "Friday: 5:15 AM – 5:00 PM",
+    "Saturday: 7:00 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/benea-s-r-o-benesov/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:53:54.298Z"
+}

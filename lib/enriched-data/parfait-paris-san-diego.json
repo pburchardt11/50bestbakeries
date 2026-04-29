@@ -1,0 +1,45 @@
+{
+  "slug": "parfait-paris-san-diego",
+  "name": "Parfait Paris",
+  "curatedName": "Parfait Paris",
+  "city": "San Diego",
+  "country": "United States",
+  "placeId": "ChIJpyJKMc9V2YARZ6pyt8VIA1U",
+  "googleName": "Parfait Paris",
+  "formattedAddress": "555 G St, San Diego, CA 92101, USA",
+  "phone": "(619) 245-4457",
+  "internationalPhone": "+1 619-245-4457",
+  "website": "https://parfaitparis.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6125819932177508967",
+  "rating": 4.5,
+  "reviewCount": 2546,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.712405,
+    -117.159576
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "French bakery serving classic pastries & light cafe dishes in sophisticated, welcoming surrounds.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/parfait-paris-san-diego/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:39.276Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "meu-petit-betim",
+  "name": "Meu Petit",
+  "curatedName": "Meu Petit",
+  "city": "Betim",
+  "country": "Brazil",
+  "placeId": "ChIJXeChWHbDpgARUw7OXAF5g_M",
+  "googleName": "Meu Petit",
+  "formattedAddress": "R. José da Conceição, 166 - Angola, Betim - MG, 32604-158, Brazil",
+  "phone": "(31) 98363-4358",
+  "internationalPhone": "+55 31 98363-4358",
+  "website": "http://www.meupetit.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17547001619924520531",
+  "rating": 4.2,
+  "reviewCount": 1019,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.9625739,
+    -44.2006791
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 12:00 – 6:00 PM",
+    "Sunday: 12:00 – 11:41 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/meu-petit-betim/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:29.374Z"
+}

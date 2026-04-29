@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-levante-nederland",
+  "name": "Panaderia Levante",
+  "city": "Nederland",
+  "country": "Curaçao",
+  "placeId": "ChIJQ_1wNPiDhI4R55ilHtnP92I",
+  "googleName": "Panaderia Levante",
+  "formattedAddress": "0000, 41 Argentinaweg, Willemstad, Curaçao",
+  "phone": "9 666 0777",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7131397066393491687",
+  "rating": 4.8,
+  "reviewCount": 13,
+  "coords": [
+    12.1487892,
+    -68.9504431
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:30 PM",
+    "Tuesday: 6:00 AM – 12:30 PM",
+    "Wednesday: 6:00 AM – 12:30 PM",
+    "Thursday: 6:00 AM – 12:30 PM",
+    "Friday: 6:00 AM – 12:30 PM",
+    "Saturday: 6:00 AM – 12:30 PM",
+    "Sunday: 6:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-levante-nederland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:23.565Z"
+}

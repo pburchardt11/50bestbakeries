@@ -1,0 +1,46 @@
+{
+  "slug": "sarnies-sourdough",
+  "name": "Sarnies Sourdough",
+  "curatedName": "Sarnies Sourdough",
+  "city": "กรุงเทพมหานคร",
+  "country": "Thailand",
+  "placeId": "ChIJ-9uI24WZ4jARRM1Ry0PXFoo",
+  "googleName": "Sarnies Sourdough",
+  "formattedAddress": "55, Sub-district, 14 Soi Charoen Krung 42/1, Khwaeng Bang Rak, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand",
+  "phone": "065 863 6554",
+  "internationalPhone": "+66 65 863 6554",
+  "website": "https://linktr.ee/sarnies.sourdough",
+  "googleMapsUrl": "https://maps.google.com/?cid=9950377112895606084",
+  "rating": 4.6,
+  "reviewCount": 699,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.7212562,
+    100.5156652
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:30 PM",
+    "Tuesday: 8:00 AM – 9:30 PM",
+    "Wednesday: 8:00 AM – 9:30 PM",
+    "Thursday: 8:00 AM – 9:30 PM",
+    "Friday: 8:00 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: 8:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sarnies-sourdough/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:41.120Z"
+}

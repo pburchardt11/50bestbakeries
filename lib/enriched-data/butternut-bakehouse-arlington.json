@@ -1,0 +1,45 @@
+{
+  "slug": "butternut-bakehouse-arlington",
+  "name": "Butternut Bakehouse",
+  "curatedName": "Butternut Bakehouse",
+  "city": "Arlington",
+  "country": "United States",
+  "placeId": "ChIJWdnt9s1344kRDI47Vcc5oo8",
+  "googleName": "Butternut Bakehouse",
+  "formattedAddress": "787 Massachusetts Ave, Arlington, MA 02476, USA",
+  "phone": "(781) 819-2899",
+  "internationalPhone": "+1 781-819-2899",
+  "website": "https://www.butternutbakehouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10349898421942062604",
+  "rating": 4.8,
+  "reviewCount": 326,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.4166157,
+    -71.1583144
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/butternut-bakehouse-arlington/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:17:08.812Z"
+}

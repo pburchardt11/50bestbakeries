@@ -1,0 +1,44 @@
+{
+  "slug": "bakey-boston",
+  "name": "Bakey",
+  "curatedName": "Bakey",
+  "city": "Boston",
+  "country": "United States",
+  "placeId": "ChIJkQfdS31x44kRdGjEOB55XUY",
+  "googleName": "Bakey",
+  "formattedAddress": "151 Tremont St, Boston, MA 02111, USA",
+  "phone": "(617) 670-0114",
+  "internationalPhone": "+1 617-670-0114",
+  "website": "https://www.bakeybabka.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5070341926197422196",
+  "rating": 4.7,
+  "reviewCount": 1290,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.3544996,
+    -71.0633802
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Unassuming bakery/cafe serving specialty breads, pastries & sandwiches, plus cookies & cakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakey-boston/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:08:15.723Z"
+}

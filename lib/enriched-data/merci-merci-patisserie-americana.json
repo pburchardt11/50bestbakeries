@@ -1,0 +1,43 @@
+{
+  "slug": "merci-merci-patisserie-americana",
+  "name": "Merci Merci Patisserie",
+  "curatedName": "Merci Merci Patisserie",
+  "city": "Americana",
+  "country": "Brazil",
+  "placeId": "ChIJY52K-jqbyJQR2B_Qt5ULWrA",
+  "googleName": "Merci Merci Patisserie",
+  "formattedAddress": "R. Uruguai, 1045 - Jardim Girassol, Americana - SP, 13465-680, Brazil",
+  "phone": "(19) 3461-6113",
+  "internationalPhone": "+55 19 3461-6113",
+  "website": "https://www.instagram.com/mercimerci_patisserie?igsh=eGNicWFjOXJzenc4",
+  "googleMapsUrl": "https://maps.google.com/?cid=12707482036241178584",
+  "rating": 4.8,
+  "reviewCount": 370,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.7461775,
+    -47.3457272
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/merci-merci-patisserie-americana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:44.831Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bakkerij-lowie-aalst",
+  "name": "Bakkerij Lowie",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJz3lBJOeXw0cRGrUPUhsmRnU",
+  "googleName": "Bakkerij Lowie",
+  "formattedAddress": "Heilig Hartlaan 2, 9300 Aalst, Belgium",
+  "phone": "053 21 16 76",
+  "website": "https://www.bakkerijlowie.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8450483649590048026",
+  "rating": 4.1,
+  "reviewCount": 226,
+  "coords": [
+    50.9485069,
+    4.0461612
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: Closed",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: 7:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-lowie-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:03:32.027Z"
+}

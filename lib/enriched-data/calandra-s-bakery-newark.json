@@ -1,0 +1,43 @@
+{
+  "slug": "calandra-s-bakery-newark",
+  "name": "Calandra's Bakery",
+  "curatedName": "Calandra's Bakery",
+  "city": "Newark",
+  "country": "United States",
+  "placeId": "ChIJrxx-GvJUwokR5AxFNm8KkKk",
+  "googleName": "Calandra's Bakery",
+  "formattedAddress": "204 1st Ave, Newark, NJ 07107, USA",
+  "phone": "(973) 484-5598",
+  "internationalPhone": "+1 973-484-5598",
+  "website": "http://www.calandrasbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12218277261824298212",
+  "rating": 4.5,
+  "reviewCount": 2838,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.767581,
+    -74.18174499999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/calandra-s-bakery-newark/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:03.313Z"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "patisserie-delicious-blida",
+  "name": "Pâtisserie delicious",
+  "city": "Blida",
+  "country": "Algeria",
+  "placeId": "ChIJDxGxGgANjxIR8GANo3E-Kbk",
+  "googleName": "Pâtisserie délice blida",
+  "formattedAddress": "FRJF+V6H, Bd Mohamed Boudiaf, Blida, Algeria",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13342264028849594608",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    36.4821783,
+    2.8231025
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T06:16:07.048Z"
+}

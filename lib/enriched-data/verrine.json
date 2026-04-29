@@ -1,0 +1,32 @@
+{
+  "slug": "verrine",
+  "name": "Verrine",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJI_Vl7dfP20YRUNBojluU2wo",
+  "googleName": "Kafe-Konditerskaya \"Verrin\"",
+  "formattedAddress": "vulica Piatra Mscislaŭca 10, Minsk, Minskaja voblasć 220076, Belarus",
+  "phone": "8 029 171-96-63",
+  "website": "https://www.instagram.com/verrine.cafe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=782382081231081552",
+  "rating": 4.4,
+  "reviewCount": 7,
+  "coords": [
+    53.93097119999999,
+    27.6499473
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/verrine/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:59:43.071Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "nicholls-bakery-thorpes-saint-james",
+  "name": "Nicholls Bakery Thorpes",
+  "city": "Saint James",
+  "country": "Barbados",
+  "placeId": "ChIJnwKG1O_wQ4wRSrE6Ufj_ILQ",
+  "googleName": "Nicholls Bakery Thorpes",
+  "formattedAddress": "Thorpes Main Rd, Thorpes, St. James Barbados",
+  "phone": "(246) 622-3088",
+  "website": "https://www.facebook.com/NichollsBakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12979655568061542730",
+  "rating": 4.2,
+  "reviewCount": 355,
+  "coords": [
+    13.1572112,
+    -59.62437719999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nicholls-bakery-thorpes-saint-james/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:56:48.458Z"
+}

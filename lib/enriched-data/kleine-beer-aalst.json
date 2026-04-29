@@ -1,0 +1,32 @@
+{
+  "slug": "kleine-beer-aalst",
+  "name": "Kleine Beer",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJcVIbcqSXw0cRpiZCiPdjZdY",
+  "googleName": "Café De Kleine Beurs",
+  "formattedAddress": "Denderstraat 64, 9300 Aalst, Belgium",
+  "phone": "0474 48 94 14",
+  "website": "https://de-kleine-beurs.jimdosite.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15448864011558463142",
+  "rating": 4.5,
+  "reviewCount": 80,
+  "coords": [
+    50.9449425,
+    4.0377488
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kleine-beer-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:03:11.239Z"
+}

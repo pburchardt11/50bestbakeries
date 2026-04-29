@@ -1,0 +1,43 @@
+{
+  "slug": "hastee-bakery-surat",
+  "name": "Hastee Bakery",
+  "curatedName": "Hastee Bakery",
+  "city": "Surat",
+  "country": "India",
+  "placeId": "ChIJfSx13SVP4DsRSv8gIq4P4e4",
+  "googleName": "Hastee Bakery",
+  "formattedAddress": "61-62, Aai Mata Rd, Mahendra Park Society, Parvat Patiya, Surat, Gujarat 395010, India",
+  "phone": "093741 12510",
+  "internationalPhone": "+91 93741 12510",
+  "website": "http://www.hasteebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17213056491358060362",
+  "rating": 4.5,
+  "reviewCount": 476,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1918256,
+    72.860792
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hastee-bakery-surat/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:10.353Z"
+}

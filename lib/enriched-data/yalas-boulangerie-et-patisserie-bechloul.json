@@ -1,0 +1,32 @@
+{
+  "slug": "yalas-boulangerie-et-patisserie-bechloul",
+  "name": "Yalas boulangerie et pâtisserie",
+  "city": "Bechloul",
+  "country": "Algeria",
+  "placeId": "ChIJOc44KgAljBIRqK7WGAxCM4s",
+  "googleName": "Boulangerie Pâtisserie KHALED",
+  "formattedAddress": "9V9J+QRW, Bouira, Algeria",
+  "phone": "0671 02 63 39",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10030433414807989928",
+  "rating": 4.2,
+  "reviewCount": 5,
+  "coords": [
+    36.3694875,
+    3.882079499999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: Closed",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yalas-boulangerie-et-patisserie-bechloul/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:15:47.894Z"
+}

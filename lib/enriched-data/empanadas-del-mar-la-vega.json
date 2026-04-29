@@ -1,0 +1,32 @@
+{
+  "slug": "empanadas-del-mar-la-vega",
+  "name": "Empanadas Del Mar",
+  "city": "La Vega",
+  "country": "Dominican Republic",
+  "placeId": "ChIJq4C9iKQrsI4RXU9tyf8cZQ8",
+  "googleName": "Empanadas del Mar",
+  "formattedAddress": "6FFG+4W4, La Vega 41000, Dominican Republic",
+  "phone": "(809) 573-5225",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1109324768138317661",
+  "rating": 4.3,
+  "reviewCount": 8,
+  "coords": [
+    19.2295108,
+    -70.5211162
+  ],
+  "openingHours": [
+    "Monday: 3:00 – 9:30 PM",
+    "Tuesday: 3:00 – 9:30 PM",
+    "Wednesday: 3:00 – 9:30 PM",
+    "Thursday: 3:00 – 9:30 PM",
+    "Friday: 3:00 – 9:30 PM",
+    "Saturday: 3:00 – 9:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/empanadas-del-mar-la-vega/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:57.517Z"
+}

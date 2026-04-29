@@ -1,0 +1,44 @@
+{
+  "slug": "saoko-pastries-coffee-toulouse",
+  "name": "Saoko Pastries & Coffee",
+  "curatedName": "Saoko Pastries & Coffee",
+  "city": "Toulouse",
+  "country": "France",
+  "placeId": "ChIJy0mMfwC7rhIRHCxVYiMgjco",
+  "googleName": "Saoko Pastries & Coffee",
+  "formattedAddress": "28 Rue des Couteliers, 31000 Toulouse, France",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.saokopatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14595357303723338780",
+  "rating": 4.9,
+  "reviewCount": 254,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.598828,
+    1.4417568
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/saoko-pastries-coffee-toulouse/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:55.923Z"
+}

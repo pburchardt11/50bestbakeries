@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-bonfim-tambau-joao-pessoa",
+  "name": "Padaria Bonfim Tambaú",
+  "curatedName": "Padaria Bonfim Tambaú",
+  "city": "João Pessoa",
+  "country": "Brazil",
+  "placeId": "ChIJvYOuQy_drAcRWcr6mNGf78o",
+  "googleName": "Padaria Bonfim Tambaú",
+  "formattedAddress": "R. José Augusto Trindade, 160 - Tambaú, João Pessoa - PB, 58039-020, Brazil",
+  "phone": "(83) 3247-1146",
+  "internationalPhone": "+55 83 3247-1146",
+  "website": "https://www.instagram.com/padariabonfim/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14623082237658843737",
+  "rating": 4.4,
+  "reviewCount": 4605,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.1181284,
+    -34.8252607
+  ],
+  "openingHours": [
+    "Monday: 5:45 AM – 9:00 PM",
+    "Tuesday: 5:45 AM – 9:00 PM",
+    "Wednesday: 5:45 AM – 9:00 PM",
+    "Thursday: 5:45 AM – 9:00 PM",
+    "Friday: 5:45 AM – 9:00 PM",
+    "Saturday: 5:45 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Vibrant, unadorned food market, bakery & counter-serve cafe offering Brazilian breakfast & lunch.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-bonfim-tambau-joao-pessoa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:55.285Z"
+}

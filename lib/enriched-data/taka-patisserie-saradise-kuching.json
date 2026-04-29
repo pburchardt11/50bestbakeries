@@ -1,0 +1,43 @@
+{
+  "slug": "taka-patisserie-saradise-kuching",
+  "name": "Taka Patisserie Saradise",
+  "curatedName": "Taka Patisserie Saradise",
+  "city": "Kuching",
+  "country": "Malaysia",
+  "placeId": "ChIJ3a8xfHWn-zERAoXk_4-Nl9w",
+  "googleName": "Taka Patisserie Saradise",
+  "formattedAddress": "Lot 2, Block A1, Jalan Saradise, 93350 Kuching, Sarawak, Malaysia",
+  "phone": "011-5555 3636",
+  "internationalPhone": "+60 11-5555 3636",
+  "website": "http://www.facebook.com/takapatisserie",
+  "googleMapsUrl": "https://maps.google.com/?cid=15895329059440461058",
+  "rating": 4.6,
+  "reviewCount": 437,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.5059261,
+    110.3627211
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/taka-patisserie-saradise-kuching/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:05.821Z"
+}

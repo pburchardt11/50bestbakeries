@@ -1,0 +1,43 @@
+{
+  "slug": "patisserie-s-bordeaux",
+  "name": "Pâtisserie S.",
+  "curatedName": "Pâtisserie S.",
+  "city": "Bordeaux",
+  "country": "France",
+  "placeId": "ChIJF0AVec4nVQ0R41q-Qv3yIuI",
+  "googleName": "Pâtisserie S.",
+  "formattedAddress": "8 Cr d'Alsace-et-Lorraine, 33000 Bordeaux, France",
+  "phone": "05 56 06 94 54",
+  "internationalPhone": "+33 5 56 06 94 54",
+  "website": "https://www.satomiandstanley.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16294853571340294883",
+  "rating": 4.6,
+  "reviewCount": 680,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.8378126,
+    -0.5685572
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": "Stylish boutique with a handful of tables, specializing in French pastries with a Japanese twist.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-s-bordeaux/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:30:22.664Z"
+}

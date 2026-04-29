@@ -1,0 +1,43 @@
+{
+  "slug": "buuts-panaderia-tepic",
+  "name": "BUUTS Panadería",
+  "curatedName": "BUUTS Panadería",
+  "city": "Tepic",
+  "country": "Mexico",
+  "placeId": "ChIJl2KvonU3J4QRCX1Ac17YWNY",
+  "googleName": "Buuts Panadería",
+  "formattedAddress": "Mar Mediterráneo 71, Simancas, 63177 Tepic, Nay., Mexico",
+  "phone": "311 201 2052",
+  "internationalPhone": "+52 311 201 2052",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15445332822239247625",
+  "rating": 4.8,
+  "reviewCount": 101,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.5012374,
+    -104.8819603
+  ],
+  "openingHours": [
+    "Monday: 3:00 – 8:30 PM",
+    "Tuesday: 3:00 – 8:30 PM",
+    "Wednesday: 3:00 – 8:30 PM",
+    "Thursday: 3:00 – 8:30 PM",
+    "Friday: 3:00 – 8:30 PM",
+    "Saturday: 3:00 – 8:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/buuts-panaderia-tepic/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:55:07.575Z"
+}

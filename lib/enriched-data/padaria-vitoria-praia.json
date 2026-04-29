@@ -1,0 +1,32 @@
+{
+  "slug": "padaria-vitoria-praia",
+  "name": "Padaria Vitória",
+  "city": "Praia",
+  "country": "Cape Verde",
+  "placeId": "ChIJq3LD1JWZNQkRzFD1igmkUsw",
+  "googleName": "Padaria Vitória",
+  "formattedAddress": "WF9P+4XP, Av. Cidade de Lisboa, Praia, Cabo Verde",
+  "phone": "261 42 10",
+  "website": "https://padariavitoriacv.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14723010492720566476",
+  "rating": 4.3,
+  "reviewCount": 4,
+  "coords": [
+    14.9178315,
+    -23.512553
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Tuesday: 8:00 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Wednesday: 8:00 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Thursday: 8:00 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Friday: 8:00 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-vitoria-praia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:40:27.882Z"
+}

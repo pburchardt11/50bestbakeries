@@ -1,0 +1,45 @@
+{
+  "slug": "mia-s-brooklyn-bakery-brooklyn",
+  "name": "Mia's Brooklyn Bakery",
+  "curatedName": "Mia's Brooklyn Bakery",
+  "city": "Brooklyn",
+  "country": "United States",
+  "placeId": "ChIJb6wLHk5awokRxFwHikoBsnQ",
+  "googleName": "Mia's Brooklyn Bakery",
+  "formattedAddress": "139 Smith St, Brooklyn, NY 11201, USA",
+  "phone": "(347) 987-3194",
+  "internationalPhone": "+1 347-987-3194",
+  "website": "https://miasbrooklyn.com/?utm_source=google&utm_medium=organic&utm_campaign=brook_gbp_website_link",
+  "googleMapsUrl": "https://maps.google.com/?cid=8408784873909083332",
+  "rating": 4.5,
+  "reviewCount": 3505,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.6870036,
+    -73.9900524
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Warm hangout offering signature desserts, some savory items, plus a coffee bar & an outdoor patio.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mia-s-brooklyn-bakery-brooklyn/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:06:01.430Z"
+}

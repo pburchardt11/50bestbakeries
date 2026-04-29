@@ -1,0 +1,43 @@
+{
+  "slug": "silver-rose-bakery-phoenix",
+  "name": "Silver Rose Bakery",
+  "curatedName": "Silver Rose Bakery",
+  "city": "Phoenix",
+  "country": "United States",
+  "placeId": "ChIJ3ST_bR5qK4cReyEIYAAA0iE",
+  "googleName": "Silver Rose Bakery",
+  "formattedAddress": "2814 W Bell Rd Suite 1451, Phoenix, AZ 85053, USA",
+  "phone": "(623) 499-2222",
+  "internationalPhone": "+1 623-499-2222",
+  "website": "https://silverrosebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2437010349972005243",
+  "rating": 4.8,
+  "reviewCount": 247,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.6411618,
+    -112.1198485
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/silver-rose-bakery-phoenix/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:11:19.630Z"
+}

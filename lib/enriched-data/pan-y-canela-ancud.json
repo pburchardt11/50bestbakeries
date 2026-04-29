@@ -1,0 +1,32 @@
+{
+  "slug": "pan-y-canela-ancud",
+  "name": "Pan Y  Canela",
+  "city": "Ancud",
+  "country": "Chile",
+  "placeId": "ChIJ_Wq1GwCNIpYRAFxLES2XFyk",
+  "googleName": "Panadería y pastelería pan y canela",
+  "formattedAddress": "Chacabuco, 5710437 Ancud, Los Lagos, Chile",
+  "phone": "9 6836 7123",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2961001499838864384",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -41.8686736,
+    -73.82744749999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-y-canela-ancud/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:43:49.932Z"
+}

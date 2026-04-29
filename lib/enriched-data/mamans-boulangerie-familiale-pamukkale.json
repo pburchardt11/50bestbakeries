@@ -1,0 +1,43 @@
+{
+  "slug": "mamans-boulangerie-familiale-pamukkale",
+  "name": "Mamans Boulangerie Familiale",
+  "curatedName": "Mamans Boulangerie Familiale",
+  "city": "Pamukkale",
+  "country": "Türkiye",
+  "placeId": "ChIJY9BiBQ4_xxQR8ZQPF2jUL6Y",
+  "googleName": "Mamans | Boulangerie Familiale",
+  "formattedAddress": "Kınıklı, 2597. Sk. No:11/A, 20150 Pamukkale/Denizli, Türkiye",
+  "phone": "0530 843 18 75",
+  "internationalPhone": "+90 530 843 18 75",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11975023477730022641",
+  "rating": 4.3,
+  "reviewCount": 245,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.7440857,
+    29.0864938
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 11:00 PM",
+    "Tuesday: 8:30 AM – 11:00 PM",
+    "Wednesday: 8:30 AM – 11:00 PM",
+    "Thursday: 8:30 AM – 11:00 PM",
+    "Friday: 8:30 AM – 11:00 PM",
+    "Saturday: 8:30 AM – 11:00 PM",
+    "Sunday: 8:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mamans-boulangerie-familiale-pamukkale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:03:07.192Z"
+}

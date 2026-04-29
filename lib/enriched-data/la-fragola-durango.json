@@ -1,0 +1,43 @@
+{
+  "slug": "la-fragola-durango",
+  "name": "La Fragola",
+  "curatedName": "La Fragola",
+  "city": "Durango",
+  "country": "Mexico",
+  "placeId": "ChIJeSvMNz7Im4YRbWvIeCGt0DM",
+  "googleName": "La Fragola",
+  "formattedAddress": "C. Negrete 1305-pte, Los Ángeles, 34076 Durango, Dgo., Mexico",
+  "phone": "618 811 1556",
+  "internationalPhone": "+52 618 811 1556",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3733674450362067821",
+  "rating": 4.5,
+  "reviewCount": 48,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.0244877,
+    -104.6791241
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-fragola-durango/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:14.583Z"
+}

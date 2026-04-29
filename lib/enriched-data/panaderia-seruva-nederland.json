@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-seruva-nederland",
+  "name": "Panaderia Seruva",
+  "city": "Nederland",
+  "country": "Caribbean Netherlands",
+  "placeId": "ChIJ1TCTfr0bg44RG7YvnUGrbHA",
+  "googleName": "Panaderia Seruva",
+  "formattedAddress": "5P2P+5WH, Kaya Avelino J. Cecilia, Kralendijk, Caribbean Netherlands",
+  "phone": "717 8793",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8101038128031053339",
+  "rating": 4.5,
+  "reviewCount": 124,
+  "coords": [
+    12.1504417,
+    -68.2626311
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 1:00 PM, 3:00 – 7:00 PM",
+    "Tuesday: 5:00 AM – 1:00 PM, 3:00 – 7:00 PM",
+    "Wednesday: 5:00 AM – 1:00 PM, 3:00 – 7:00 PM",
+    "Thursday: 5:00 AM – 1:00 PM, 3:00 – 7:00 PM",
+    "Friday: 5:00 AM – 1:00 PM, 3:00 – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-seruva-nederland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:41:05.320Z"
+}

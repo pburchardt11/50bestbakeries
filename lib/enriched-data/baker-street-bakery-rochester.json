@@ -1,0 +1,43 @@
+{
+  "slug": "baker-street-bakery-rochester",
+  "name": "Baker Street Bakery",
+  "curatedName": "Baker Street Bakery",
+  "city": "Rochester",
+  "country": "United States",
+  "placeId": "ChIJsWXEJXe11okRDnScNXfAwUM",
+  "googleName": "Baker Street Bakery",
+  "formattedAddress": "745 Park Ave, Rochester, NY 14607, USA",
+  "phone": "(585) 241-3120",
+  "internationalPhone": "+1 585-241-3120",
+  "website": "https://bakerstbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4882395089279415310",
+  "rating": 4.5,
+  "reviewCount": 212,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.1474066,
+    -77.5758195
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Cozy counter-serve offering housebaked breads, plus pastries, cakes, cookies & other desserts.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-street-bakery-rochester/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:16:41.464Z"
+}

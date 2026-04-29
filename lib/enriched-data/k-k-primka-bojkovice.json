@@ -1,0 +1,32 @@
+{
+  "slug": "k-k-primka-bojkovice",
+  "name": "K & K - Primka",
+  "city": "Bojkovice",
+  "country": "Czech Republic",
+  "placeId": "ChIJC7rezHVmE0cRTFRqzpUF8mg",
+  "googleName": "K & K - Primka, s.r.o.",
+  "formattedAddress": "Tovární 543, 687 71 Bojkovice, Czechia",
+  "phone": "572 641 632",
+  "website": "https://www.primka.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7562112865279824972",
+  "rating": 4.5,
+  "reviewCount": 35,
+  "coords": [
+    49.039817,
+    17.8155432
+  ],
+  "openingHours": [
+    "Monday: 5:15 AM – 4:30 PM",
+    "Tuesday: 5:15 AM – 4:30 PM",
+    "Wednesday: 5:15 AM – 4:30 PM",
+    "Thursday: 5:15 AM – 4:30 PM",
+    "Friday: 5:15 AM – 4:30 PM",
+    "Saturday: 6:30 – 10:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/k-k-primka-bojkovice/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:54:40.276Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "pastello-centenario-hermosillo",
+  "name": "Pastello Centenario",
+  "curatedName": "Pastello Centenario",
+  "city": "Hermosillo",
+  "country": "Mexico",
+  "placeId": "ChIJFQySPleEzoYRPDds1vZFEe8",
+  "googleName": "Pastello Centenario",
+  "formattedAddress": "Av Manuel Z. Cubillas 53, El Centenario, 83260 Hermosillo, Son., Mexico",
+  "phone": "662 212 0967",
+  "internationalPhone": "+52 662 212 0967",
+  "website": "http://www.pastello.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17226626976130545468",
+  "rating": 4.8,
+  "reviewCount": 222,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    29.0725861,
+    -110.9586716
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastello-centenario-hermosillo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:44:32.027Z"
+}

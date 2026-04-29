@@ -1,0 +1,32 @@
+{
+  "slug": "lmcake-kampot",
+  "name": "LMCake Kampot",
+  "city": "កំពត",
+  "country": "Cambodia",
+  "placeId": "ChIJ95B-Tk83CDERPl0ocemwOQY",
+  "googleName": "LMCake Kampot",
+  "formattedAddress": "Kampot, Cambodia",
+  "phone": "086 761 692",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=448584154572414270",
+  "rating": 4.1,
+  "reviewCount": 18,
+  "coords": [
+    10.6158356,
+    104.1823106
+  ],
+  "openingHours": [
+    "Monday: 7:02 AM – 9:00 PM",
+    "Tuesday: 7:02 AM – 9:00 PM",
+    "Wednesday: 7:02 AM – 9:00 PM",
+    "Thursday: 7:02 AM – 9:00 PM",
+    "Friday: 7:02 AM – 9:00 PM",
+    "Saturday: 7:02 AM – 9:00 PM",
+    "Sunday: 7:02 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lmcake-kampot/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:31:05.255Z"
+}

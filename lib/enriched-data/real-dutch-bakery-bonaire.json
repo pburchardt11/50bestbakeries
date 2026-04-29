@@ -1,0 +1,32 @@
+{
+  "slug": "real-dutch-bakery-bonaire",
+  "name": "Real Dutch Bakery",
+  "city": "Bonaire",
+  "country": "Caribbean Netherlands",
+  "placeId": "ChIJI8FO7tkbg44RTTIjauEJIho",
+  "googleName": "Real Dutch Bakery",
+  "formattedAddress": "16 Kaya Cacique, Kralendijk, Caribbean Netherlands",
+  "phone": "701 8268",
+  "website": "http://www.realdutchbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1883078457947271757",
+  "rating": 4.4,
+  "reviewCount": 154,
+  "coords": [
+    12.1765207,
+    -68.2734404
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 PM",
+    "Tuesday: 6:00 AM – 12:00 PM",
+    "Wednesday: 6:00 AM – 12:00 PM",
+    "Thursday: 6:00 AM – 12:00 PM",
+    "Friday: 6:00 AM – 12:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/real-dutch-bakery-bonaire/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:40:57.986Z"
+}

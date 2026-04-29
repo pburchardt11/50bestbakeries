@@ -1,0 +1,41 @@
+{
+  "slug": "magnolia-bakery",
+  "name": "Magnolia Bakery",
+  "curatedName": "Magnolia Bakery",
+  "city": "الرياض",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJizPf82D9Lj4RPmiTF8CNYBI",
+  "googleName": "bakery",
+  "formattedAddress": "QMRR+5QR, Al Wadi, Riyadh 13313, Saudi Arabia",
+  "phone": "059 568 7459",
+  "internationalPhone": "+966 59 568 7459",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1324214146615699518",
+  "rating": 5,
+  "reviewCount": 4,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.7904969,
+    46.6918862
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T04:11:14.038Z"
+}

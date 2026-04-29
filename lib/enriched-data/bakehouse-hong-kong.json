@@ -1,0 +1,44 @@
+{
+  "slug": "bakehouse-hong-kong",
+  "name": "Bakehouse",
+  "curatedName": "Bakehouse",
+  "city": "Hong Kong",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJBQQXwrUBBDQRuF7yIgthafA",
+  "googleName": "Bakehouse",
+  "formattedAddress": "44 Hankow Rd, Tsim Sha Tsui, Hong Kong",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.bakehouse.hk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17323484142116167352",
+  "rating": 4.4,
+  "reviewCount": 2505,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.2978445,
+    114.1711359
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakehouse-hong-kong/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:01.329Z"
+}

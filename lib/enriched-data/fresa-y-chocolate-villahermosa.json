@@ -1,0 +1,43 @@
+{
+  "slug": "fresa-y-chocolate-villahermosa",
+  "name": "Fresa y Chocolate",
+  "curatedName": "Fresa y Chocolate",
+  "city": "Villahermosa",
+  "country": "Mexico",
+  "placeId": "ChIJq6qq6jrY7YURbd0hC_clLfU",
+  "googleName": "Fresa y Chocolate",
+  "formattedAddress": "Alijadores 112, Nueva Villahermosa, 86070 Villahermosa, Tab., Mexico",
+  "phone": "993 352 0620",
+  "internationalPhone": "+52 993 352 0620",
+  "website": "https://www.facebook.com/FresayChocolateTabasco",
+  "googleMapsUrl": "https://maps.google.com/?cid=17666818656218242413",
+  "rating": 4.4,
+  "reviewCount": 374,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    17.9933585,
+    -92.9311056
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fresa-y-chocolate-villahermosa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:42.177Z"
+}

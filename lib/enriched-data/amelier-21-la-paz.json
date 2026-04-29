@@ -1,0 +1,43 @@
+{
+  "slug": "amelier-21-la-paz",
+  "name": "Amelier 21",
+  "curatedName": "Amelier 21",
+  "city": "La Paz",
+  "country": "Mexico",
+  "placeId": "ChIJM7e4TezTr4YR0pKdaMaCbik",
+  "googleName": "Amelier 21",
+  "formattedAddress": "Belisario Domínguez s/n, Pueblo Nuevo, 23060 La Paz, B.C.S., Mexico",
+  "phone": "612 288 6208",
+  "internationalPhone": "+52 612 288 6208",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2985467391663510226",
+  "rating": 4.8,
+  "reviewCount": 351,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.1467971,
+    -110.3286686
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amelier-21-la-paz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:29.370Z"
+}

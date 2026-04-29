@@ -1,0 +1,44 @@
+{
+  "slug": "antigua-pasteleria-y-panaderia-huerfanos-lima",
+  "name": "Antigua Pastelería y Panadería Huérfanos",
+  "curatedName": "Antigua Pastelería y Panadería Huérfanos",
+  "city": "Lima",
+  "country": "Peru",
+  "placeId": "ChIJSQDkh7fIBZERAPIQFRyPpOY",
+  "googleName": "Antigua Pastelería y Panadería Huérfanos",
+  "formattedAddress": "Esquina con, Jr. Azángaro 700, Lima 15001, Peru",
+  "phone": "932 757 585",
+  "internationalPhone": "+51 932 757 585",
+  "website": "http://www.instagram.com/pasteleriahuerfanos",
+  "googleMapsUrl": "https://maps.google.com/?cid=16619565875679261184",
+  "rating": 4.3,
+  "reviewCount": 4689,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -12.0518031,
+    -77.0311918
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antigua-pasteleria-y-panaderia-huerfanos-lima/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:36.442Z"
+}

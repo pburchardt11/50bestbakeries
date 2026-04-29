@@ -1,0 +1,43 @@
+{
+  "slug": "malek-s-bakery-brighton",
+  "name": "Malek's Bakery",
+  "curatedName": "Malek's Bakery",
+  "city": "Brighton",
+  "country": "United States",
+  "placeId": "ChIJz4fhg1611okR1Jd51lSAwoc",
+  "googleName": "Malek's Bakery",
+  "formattedAddress": "1795 Monroe Ave, Rochester, NY 14618, USA",
+  "phone": "(585) 461-1720",
+  "internationalPhone": "+1 585-461-1720",
+  "website": "http://www.maleksbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9782522442466039764",
+  "rating": 4.7,
+  "reviewCount": 265,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.128468,
+    -77.56738299999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/malek-s-bakery-brighton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:16:38.803Z"
+}

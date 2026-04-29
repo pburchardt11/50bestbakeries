@@ -1,0 +1,32 @@
+{
+  "slug": "pekoteka-car-banja-luka",
+  "name": "Pekoteka Car",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJkX86LxwDXkcR9XIQ-FeZX5A",
+  "googleName": "Pekoteka Car",
+  "formattedAddress": "Jovana Dučića 10, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": "066 404-888",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10403202267352167157",
+  "rating": 4.5,
+  "reviewCount": 49,
+  "coords": [
+    44.7722105,
+    17.1858656
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekoteka-car-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:16:36.844Z"
+}

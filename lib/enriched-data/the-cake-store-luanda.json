@@ -1,0 +1,32 @@
+{
+  "slug": "the-cake-store-luanda",
+  "name": "The Cake Store",
+  "city": "Luanda",
+  "country": "Angola",
+  "placeId": "ChIJeYST4NP1URoR7xAPQfxEw8Y",
+  "googleName": "The Cake Store, Pastelaria e School",
+  "formattedAddress": "Nova Vida, Sentido Golfo 2, primeira Pedonal antes do Kero, Luanda, Angola",
+  "phone": "931 670 736",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14322367090182263023",
+  "rating": 3,
+  "reviewCount": 1,
+  "coords": [
+    -8.8981868,
+    13.2222469
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-store-luanda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:18:21.428Z"
+}

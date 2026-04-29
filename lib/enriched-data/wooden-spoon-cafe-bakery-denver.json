@@ -1,0 +1,44 @@
+{
+  "slug": "wooden-spoon-cafe-bakery-denver",
+  "name": "Wooden Spoon Cafe & Bakery",
+  "curatedName": "Wooden Spoon Cafe & Bakery",
+  "city": "Denver",
+  "country": "United States",
+  "placeId": "ChIJdX8fC5F4bIcR6lMwmiCVUao",
+  "googleName": "Wooden Spoon Cafe & Bakery",
+  "formattedAddress": "2418 W 32nd Ave, Denver, CO 80211, USA",
+  "phone": "(303) 999-0327",
+  "internationalPhone": "+1 303-999-0327",
+  "website": "http://woodenspoondenver.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12272754426819662826",
+  "rating": 4.7,
+  "reviewCount": 468,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.7619035,
+    -105.016402
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 1:00 PM",
+    "Thursday: 8:00 AM – 1:00 PM",
+    "Friday: 8:00 AM – 1:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": "Homey cafe/bakery featuring cakes & pastries to go, plus a menu of local fare for breakfast & lunch.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wooden-spoon-cafe-bakery-denver/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:11:38.506Z"
+}

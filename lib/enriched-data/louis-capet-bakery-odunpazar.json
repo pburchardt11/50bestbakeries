@@ -1,0 +1,43 @@
+{
+  "slug": "louis-capet-bakery-odunpazar",
+  "name": "Louis Capet Bakery",
+  "curatedName": "Louis Capet Bakery",
+  "city": "Odunpazarı",
+  "country": "Türkiye",
+  "placeId": "ChIJCX3GdkwXzBQRhphgn_cBVgw",
+  "googleName": "Louis Capet Bakery",
+  "formattedAddress": "Sümer, Maral Sk. no:20/A, 26140 Odunpazarı/Eskişehir, Türkiye",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=888900139494709382",
+  "rating": 4.1,
+  "reviewCount": 76,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.7645809,
+    30.4901366
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:00 PM",
+    "Tuesday: 8:30 AM – 10:00 PM",
+    "Wednesday: 8:30 AM – 10:00 PM",
+    "Thursday: 8:30 AM – 10:00 PM",
+    "Friday: 8:30 AM – 10:00 PM",
+    "Saturday: 8:30 AM – 10:00 PM",
+    "Sunday: 8:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/louis-capet-bakery-odunpazar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:03:04.222Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "padaria-lider-do-campestre-santo-andre",
+  "name": "Padaria Líder do Campestre",
+  "curatedName": "Padaria Líder do Campestre",
+  "city": "Santo André",
+  "country": "Brazil",
+  "placeId": "ChIJSYdJMNBCzpQRpMaW5JI3R98",
+  "googleName": "Padaria Líder do Campestre",
+  "formattedAddress": "R. das Figueiras, 2195 - Campestre, Santo André - SP, 09080-371, Brazil",
+  "phone": "(11) 4991-7074",
+  "internationalPhone": "+55 11 4991-7074",
+  "website": "https://www.padarialiderdocampestre.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16088889297844225700",
+  "rating": 4.5,
+  "reviewCount": 2376,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.6394085,
+    -46.5458144
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-lider-do-campestre-santo-andre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:02.755Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "patisserie-lac-nice",
+  "name": "Patisserie Lac",
+  "curatedName": "Patisserie Lac",
+  "city": "Nice",
+  "country": "France",
+  "placeId": "ChIJBz1KzLnazRIR53OPWOSIgew",
+  "googleName": "Patisserie Lac",
+  "formattedAddress": "18 Rue Barla, 06000 Nice, France",
+  "phone": "04 93 55 37 74",
+  "internationalPhone": "+33 4 93 55 37 74",
+  "website": "https://www.patisseries-lac.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17042052979266384871",
+  "rating": 4.5,
+  "reviewCount": 860,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.7014808,
+    7.2838266
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-lac-nice/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:51.706Z"
+}

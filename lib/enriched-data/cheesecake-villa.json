@@ -1,0 +1,32 @@
+{
+  "slug": "cheesecake-villa",
+  "name": "Cheesecake Villa",
+  "city": "បាត់ដំបង",
+  "country": "Cambodia",
+  "placeId": "ChIJrwaZKT5JBTERnzV7lI8sb9c",
+  "googleName": "Cheesecake Villa - ផ្ទះនំឈីស",
+  "formattedAddress": "Street 100, Krong Battambang, Cambodia",
+  "phone": "069 366 696",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15523675435752437151",
+  "rating": 4.6,
+  "reviewCount": 16,
+  "coords": [
+    13.0970498,
+    103.195839
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: 8:30 AM – 7:00 PM",
+    "Sunday: 8:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cheesecake-villa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:34:08.638Z"
+}

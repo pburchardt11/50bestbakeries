@@ -1,0 +1,43 @@
+{
+  "slug": "chimney-cake-latvia-riga",
+  "name": "Chimney Cake Latvia",
+  "curatedName": "Chimney Cake Latvia",
+  "city": "Rīga",
+  "country": "Latvia",
+  "placeId": "ChIJHfqbQLI57kYRHERre9QBi0k",
+  "googleName": "Chimney Cake Latvia",
+  "formattedAddress": "Bruņinieku iela 28-5, Centra rajons, Rīga, LV-1011, Latvia",
+  "phone": "29 445 006",
+  "internationalPhone": "+371 29 445 006",
+  "website": "https://chimneykukas.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5299331398646842396",
+  "rating": 4.9,
+  "reviewCount": 554,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    56.9560711,
+    24.1317855
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chimney-cake-latvia-riga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:33.362Z"
+}

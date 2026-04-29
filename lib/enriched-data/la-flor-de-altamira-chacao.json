@@ -1,0 +1,44 @@
+{
+  "slug": "la-flor-de-altamira-chacao",
+  "name": "La Flor de Altamira",
+  "curatedName": "La Flor de Altamira",
+  "city": "Chacao",
+  "country": "Venezuela",
+  "placeId": "ChIJba3r3qVZKowRRFAU-p4C6sw",
+  "googleName": "La Flor de Altamira",
+  "formattedAddress": "G532+W57, Av. Trans. 6, Caracas 1060, Miranda, Venezuela",
+  "phone": "0212-2617989",
+  "internationalPhone": "+58 212-2617989",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14765617210111316036",
+  "rating": 4.5,
+  "reviewCount": 4313,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.5047804,
+    -66.8495686
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-flor-de-altamira-chacao/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:45.632Z"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "nazarov-s-bakery-bak",
+  "name": "Nazarov's Bakery",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJz_qHfG1jMEARaEWXnFc-FEo",
+  "googleName": "Nazarov's Bakery",
+  "formattedAddress": "Nəsimi ray, 38 Khatai Ave, Baku 1008, Azerbaijan",
+  "phone": "055 409 63 09",
+  "website": "http://www.instagram.com/nazarovsbakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5337960004351116648",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    40.3912101,
+    49.8626909
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T06:36:54.834Z"
+}

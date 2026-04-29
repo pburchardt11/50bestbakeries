@@ -1,0 +1,43 @@
+{
+  "slug": "touba-bakery-everett",
+  "name": "Touba Bakery",
+  "curatedName": "Touba Bakery",
+  "city": "Everett",
+  "country": "United States",
+  "placeId": "ChIJMY-T320HkFQRnOL4_uMnlCA",
+  "googleName": "Touba Bakery",
+  "formattedAddress": "11114 Evergreen Wy Ste C, Everett, WA 98204, USA",
+  "phone": "(425) 374-2498",
+  "internationalPhone": "+1 425-374-2498",
+  "website": "https://www.toubabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2347545165955654300",
+  "rating": 4.9,
+  "reviewCount": 439,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.8971732,
+    -122.2526498
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/touba-bakery-everett/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:12:02.273Z"
+}

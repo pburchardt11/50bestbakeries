@@ -1,0 +1,43 @@
+{
+  "slug": "casa-das-natas-braga",
+  "name": "Casa das Natas",
+  "curatedName": "Casa das Natas",
+  "city": "Braga",
+  "country": "Portugal",
+  "placeId": "ChIJN3TlFun-JA0RXfVBaTXV-M8",
+  "googleName": "Casa das Natas",
+  "formattedAddress": "4, Pç. Da Galiza 8, 4700-370 Braga, Portugal",
+  "phone": "253 681 353",
+  "internationalPhone": "+351 253 681 353",
+  "website": "http://www.casadasnatas.pt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14985962185451238749",
+  "rating": 4.4,
+  "reviewCount": 508,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.5546921,
+    -8.425716699999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/casa-das-natas-braga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:37:49.475Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "le-ha-bakery-thu-uc",
+  "name": "Lê Hà Bakery",
+  "curatedName": "Lê Hà Bakery",
+  "city": "Thủ Đức",
+  "country": "Vietnam",
+  "placeId": "ChIJ24EWTekpdTERSJgNPbvr1DY",
+  "googleName": "Lê Hà Bakery",
+  "formattedAddress": "HCM, 441 Kha Vạn Cân, Linh Đông, Thủ Đức, Hồ Chí Minh 700000, Vietnam",
+  "phone": "0975 567 168",
+  "internationalPhone": "+84 975 567 168",
+  "website": "http://lehabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3951041962526480456",
+  "rating": 5,
+  "reviewCount": 7,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.8413467,
+    106.7461495
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:30 AM – 9:30 PM",
+    "Wednesday: 6:30 AM – 9:30 PM",
+    "Thursday: 6:30 AM – 9:30 PM",
+    "Friday: 6:30 AM – 9:30 PM",
+    "Saturday: 6:30 AM – 9:30 PM",
+    "Sunday: 6:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-ha-bakery-thu-uc/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:17:47.922Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "subhan-bakery-hyderabad",
+  "name": "Subhan bakery",
+  "curatedName": "Subhan bakery",
+  "city": "Hyderabad",
+  "country": "India",
+  "placeId": "ChIJqdAUSWWXyzsRNH463ib9vdA",
+  "googleName": "Subhan bakery",
+  "formattedAddress": "11-6-467, Nampally Darga Rd, Devi Bagh, Red Hills, Nampally, Hyderabad, Telangana 500001, India",
+  "phone": "040 2331 7571",
+  "internationalPhone": "+91 40 2331 7571",
+  "website": "http://www.subhanbakery.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15041456673866284596",
+  "rating": 4.4,
+  "reviewCount": 7625,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    17.3921531,
+    78.4651817
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:00 AM",
+    "Tuesday: 7:30 AM – 12:00 AM",
+    "Wednesday: 7:30 AM – 12:00 AM",
+    "Thursday: 7:30 AM – 12:00 AM",
+    "Friday: 7:30 AM – 12:00 AM",
+    "Saturday: 7:30 AM – 12:00 AM",
+    "Sunday: 7:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": "Vintage atmospheric bakery with Hyderabadi staples likes Osmania biscuits & savory treats.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/subhan-bakery-hyderabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:49:36.539Z"
+}

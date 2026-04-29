@@ -1,0 +1,43 @@
+{
+  "slug": "little-kiwi-bakehouse-gold-coast",
+  "name": "Little Kiwi Bakehouse",
+  "curatedName": "Little Kiwi Bakehouse",
+  "city": "Gold Coast",
+  "country": "Australia",
+  "placeId": "ChIJYUvlolsakWsRm0e2p2Ttwsc",
+  "googleName": "Little Kiwi Bakehouse",
+  "formattedAddress": "8 Lavelle St, Nerang QLD 4211, Australia",
+  "phone": "0424 121 442",
+  "internationalPhone": "+61 424 121 442",
+  "website": "https://www.facebook.com/Littlekiwibakehouse",
+  "googleMapsUrl": "https://maps.google.com/?cid=14394328375595779995",
+  "rating": 4.7,
+  "reviewCount": 567,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.990829,
+    153.3362274
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 6:00 AM – 2:00 PM",
+    "Friday: 6:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/little-kiwi-bakehouse-gold-coast/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:02.065Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "dimarzari-panetteria-camobi-santa-maria",
+  "name": "DiMarzari Panetteria Camobi",
+  "curatedName": "DiMarzari Panetteria Camobi",
+  "city": "Santa Maria",
+  "country": "Brazil",
+  "placeId": "ChIJ5Tqoy2e1A5URof6qbqkjNFw",
+  "googleName": "DiMarzari Panetteria Camobi",
+  "formattedAddress": "Rod. RST-287, 6415 - Camobi, Santa Maria - RS, 97105-030, Brazil",
+  "phone": "(55) 99973-3062",
+  "internationalPhone": "+55 55 99973-3062",
+  "website": "https://www.instagram.com/dimarzari.camobi/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6643974560891469473",
+  "rating": 4.7,
+  "reviewCount": 58,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -29.7057644,
+    -53.7273599
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dimarzari-panetteria-camobi-santa-maria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:21:07.360Z"
+}

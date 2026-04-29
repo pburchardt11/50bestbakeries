@@ -1,0 +1,32 @@
+{
+  "slug": "lucipan-ambato",
+  "name": "Lucipan",
+  "city": "Ambato",
+  "country": "Ecuador",
+  "placeId": "ChIJMdVc9ymD05ERDw2lGrplvSQ",
+  "googleName": "Lucipan",
+  "formattedAddress": "Av antonio clavijo, y y manuel quintana, Ambato, Ecuador",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2647384005949066511",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -1.2680223,
+    -78.6399029
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lucipan-ambato/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:59:57.051Z"
+}

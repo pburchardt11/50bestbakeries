@@ -1,0 +1,43 @@
+{
+  "slug": "besos-de-cafe-durango",
+  "name": "Besos de Café",
+  "curatedName": "Besos de Café",
+  "city": "Durango",
+  "country": "Mexico",
+  "placeId": "ChIJVWIUx-C3m4YRwvOpR280rkg",
+  "googleName": "Besos de Café",
+  "formattedAddress": "C. Lic Alberto Terrones 518, Zona Centro, 34000 Durango, Dgo., Mexico",
+  "phone": "618 158 4350",
+  "internationalPhone": "+52 618 158 4350",
+  "website": "https://www.facebook.com/BesosDeCafeMX",
+  "googleMapsUrl": "https://maps.google.com/?cid=5237181069226800066",
+  "rating": 4.9,
+  "reviewCount": 38,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.0240314,
+    -104.6541003
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/besos-de-cafe-durango/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:47:06.944Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "mare-pasteleria-y-cafe-mar-del-plata",
+  "name": "Mare Pastelería y Café",
+  "curatedName": "Mare Pastelería y Café",
+  "city": "Mar del Plata",
+  "country": "Argentina",
+  "placeId": "ChIJh0GAc4rdhJURthX9uIIWEjE",
+  "googleName": "Mare Pastelería y Café",
+  "formattedAddress": "Belgrano 2268, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3535913408144414134",
+  "rating": 5,
+  "reviewCount": 31,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -38.00281,
+    -57.5448631
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mare-pasteleria-y-cafe-mar-del-plata/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:57.846Z"
+}

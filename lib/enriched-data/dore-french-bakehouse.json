@@ -1,0 +1,45 @@
+{
+  "slug": "dore-french-bakehouse",
+  "name": "Dore French Bakehouse",
+  "curatedName": "Dore French Bakehouse",
+  "city": "台中市",
+  "country": "Taiwan",
+  "placeId": "ChIJl2FNE3TObzQRM6WPXxDrNfQ",
+  "googleName": "Dore French Bakehouse",
+  "formattedAddress": "No. 199, Section 4, Henan Rd, Xitun District, Taichung City, Taiwan 407",
+  "phone": "04 2251 9164",
+  "internationalPhone": "+886 4 2251 9164",
+  "website": "https://www.instagram.com/dorebakehouse?igsh=MTQ1ajA0ZzFuNWl0MA%3D%3D&utm_source=qr",
+  "googleMapsUrl": "https://maps.google.com/?cid=17597229574575334707",
+  "rating": 4.3,
+  "reviewCount": 2231,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.1553115,
+    120.6367469
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 8:30 AM – 6:30 PM",
+    "Sunday: 8:30 AM – 6:30 PM"
+  ],
+  "editorialSummary": "Bread, pastries & croissants spotlighted in an industrial-chic venue that has a brick patio.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dore-french-bakehouse/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:06.437Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "smaka-cafe-bakery-changning",
+  "name": "SMAKA café & bakery",
+  "city": "Changning",
+  "country": "China",
+  "placeId": "ChIJ-7B-KEFlsjURYKGfSNXeq0o",
+  "googleName": "SMAKA",
+  "formattedAddress": "769-3 Yu Yuan Lu, Chang Ning Qu, Shang Hai Shi, China, 200010",
+  "phone": "181 1605 6384",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5380639187452010848",
+  "rating": 4.9,
+  "reviewCount": 9,
+  "coords": [
+    31.220252,
+    121.434263
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/smaka-cafe-bakery-changning/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:44:41.235Z"
+}

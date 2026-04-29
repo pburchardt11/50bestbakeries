@@ -1,0 +1,44 @@
+{
+  "slug": "venice-bakery-master-artisan-venezia",
+  "name": "Venice Bakery - Master Artisan",
+  "curatedName": "Venice Bakery - Master Artisan",
+  "city": "Venezia",
+  "country": "Italy",
+  "placeId": "ChIJWZ7MDACxfkcRYIUIR7PRV-Q",
+  "googleName": "Venice Bakery - Master Artisan",
+  "formattedAddress": "Calle de le Rasse, 4537, 30122 Venezia VE, Italy",
+  "phone": "328 757 0007",
+  "internationalPhone": "+39 328 757 0007",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16453850331542488416",
+  "rating": 4.7,
+  "reviewCount": 434,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "bar",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.4345387,
+    12.3417949
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 7:00 PM",
+    "Sunday: 6:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/venice-bakery-master-artisan-venezia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:08.820Z"
+}

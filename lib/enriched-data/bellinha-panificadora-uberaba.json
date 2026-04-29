@@ -1,0 +1,49 @@
+{
+  "slug": "bellinha-panificadora-uberaba",
+  "name": "Bellinha Panificadora",
+  "curatedName": "Bellinha Panificadora",
+  "city": "Uberaba",
+  "country": "Brazil",
+  "placeId": "ChIJuZPq_8XRupQRtEVeKJ_OYls",
+  "googleName": "Bellinha Panificadora",
+  "formattedAddress": "Av. Lucas Borges, 630 - Fabrício, Uberaba - MG, 38065-300, Brazil",
+  "phone": "(34) 3338-7240",
+  "internationalPhone": "+55 34 3338-7240",
+  "website": "https://bellinhapanificadora.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6585052788141475252",
+  "rating": 4.5,
+  "reviewCount": 2061,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "liquor_store",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -19.7361409,
+    -47.9374759
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:30 PM",
+    "Tuesday: 6:00 AM – 8:30 PM",
+    "Wednesday: 6:00 AM – 8:30 PM",
+    "Thursday: 6:00 AM – 8:30 PM",
+    "Friday: 6:00 AM – 8:30 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bellinha-panificadora-uberaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:23:05.277Z"
+}

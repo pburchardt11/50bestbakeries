@@ -1,0 +1,32 @@
+{
+  "slug": "tamara",
+  "name": "Tamara",
+  "city": "Աբովյան",
+  "country": "Armenia",
+  "placeId": "ChIJAaf7rKShakARee-gTU5vStk",
+  "googleName": "Tamara",
+  "formattedAddress": "7J5Q+XX3, Abovyan 2203, Armenia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15657449436607475577",
+  "rating": 4.9,
+  "reviewCount": 8,
+  "coords": [
+    40.2598826,
+    44.6399138
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tamara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:21:52.601Z"
+}

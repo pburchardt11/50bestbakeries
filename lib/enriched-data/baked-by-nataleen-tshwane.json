@@ -1,0 +1,43 @@
+{
+  "slug": "baked-by-nataleen-tshwane",
+  "name": "Baked by Nataleen",
+  "curatedName": "Baked by Nataleen",
+  "city": "Tshwane",
+  "country": "South Africa",
+  "placeId": "ChIJ4_ObPRPZvx4RrHnQ2RzMH_8",
+  "googleName": "Baked by Nataleen",
+  "formattedAddress": "135 Erich Mayer St, Pretoria North, Pretoria, 0116, South Africa",
+  "phone": "064 653 6218",
+  "internationalPhone": "+27 64 653 6218",
+  "website": "https://www.bakedbynataleen.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18383636628235123116",
+  "rating": 4.8,
+  "reviewCount": 252,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.6850179,
+    28.1808268
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-by-nataleen-tshwane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:00:08.334Z"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "85c-fuzhou",
+  "name": "85C",
+  "city": "Fuzhou",
+  "country": "China",
+  "placeId": "ChIJ8dEqjxqyQTQRKyX6UMf0lzU",
+  "googleName": "85 Degrees Cafe",
+  "formattedAddress": "China, Fu Jian Sheng, Fu Zhou Shi, Chang Le Qu, Guang Chang Lu, 长山湖购物广场1号楼1层1-15 邮政编码: 350200",
+  "phone": "0591 2881 9085",
+  "website": "https://www.85cafe.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3861824342387729707",
+  "rating": 4,
+  "reviewCount": 2,
+  "coords": [
+    25.955995,
+    119.500067
+  ],
+  "openingHours": null,
+  "editorialSummary": "Bakery/cafe chain with roots in Taiwan, offering coffee & tea plus international desserts & breads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/85c-fuzhou/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:44:55.265Z"
+}

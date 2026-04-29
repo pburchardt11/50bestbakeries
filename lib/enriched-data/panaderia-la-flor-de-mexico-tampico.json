@@ -1,0 +1,45 @@
+{
+  "slug": "panaderia-la-flor-de-mexico-tampico",
+  "name": "Panaderia la Flor de Mexico",
+  "curatedName": "Panaderia la Flor de Mexico",
+  "city": "Tampico",
+  "country": "Mexico",
+  "placeId": "ChIJgySbB-f714UR2m49FlVjSaw",
+  "googleName": "Panadería la Flor de México",
+  "formattedAddress": "Carr. Tampico Mante 1400, Las Americas, 89329 Tampico, Tamps., Mexico",
+  "phone": "833 569 4070",
+  "internationalPhone": "+52 833 569 4070",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12414563064919977690",
+  "rating": 4.5,
+  "reviewCount": 778,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.3114178,
+    -97.88039479999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:45 PM",
+    "Tuesday: 6:00 AM – 9:45 PM",
+    "Wednesday: 6:00 AM – 9:45 PM",
+    "Thursday: 6:00 AM – 9:45 PM",
+    "Friday: 6:00 AM – 10:40 PM",
+    "Saturday: 6:00 AM – 9:45 PM",
+    "Sunday: 6:00 AM – 9:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-flor-de-mexico-tampico/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:28.630Z"
+}

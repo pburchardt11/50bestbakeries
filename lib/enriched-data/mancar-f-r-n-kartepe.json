@@ -1,0 +1,43 @@
+{
+  "slug": "mancar-f-r-n-kartepe",
+  "name": "Mancar Fırın",
+  "curatedName": "Mancar Fırın",
+  "city": "Kartepe",
+  "country": "Türkiye",
+  "placeId": "ChIJj9polNdRyxQRvl1ZWsVg2Cs",
+  "googleName": "Mancar Fırın",
+  "formattedAddress": "Mancar Fırın, Dumlupınar, Sakıp Sabancı Cd. No:108, 41250 Kartepe/Kocaeli, Türkiye",
+  "phone": "(0262) 373 53 87",
+  "internationalPhone": "+90 262 373 53 87",
+  "website": "https://www.instagram.com/mancarfirin/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3159381539341032894",
+  "rating": 4.5,
+  "reviewCount": 432,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.7556553,
+    30.0180163
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 7:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mancar-f-r-n-kartepe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:04:47.630Z"
+}

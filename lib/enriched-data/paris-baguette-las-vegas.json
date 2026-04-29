@@ -1,0 +1,45 @@
+{
+  "slug": "paris-baguette-las-vegas",
+  "name": "Paris Baguette",
+  "curatedName": "Paris Baguette",
+  "city": "Las Vegas",
+  "country": "United States",
+  "placeId": "ChIJ4c-c1qXGyIARUOn5bdGi5kg",
+  "googleName": "Paris Baguette",
+  "formattedAddress": "4115 Spring Mountain Rd, Las Vegas, NV 89102, USA",
+  "phone": "(702) 820-0909",
+  "internationalPhone": "+1 702-820-0909",
+  "website": "https://parisbaguette.com/locations/nv/las-vegas/4115-spring-mountain-road/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5253065035751221584",
+  "rating": 4.4,
+  "reviewCount": 934,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.1260292,
+    -115.1952262
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-las-vegas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:10:18.202Z"
+}

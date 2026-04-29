@@ -1,0 +1,43 @@
+{
+  "slug": "cherbourg-cyprus-cincinnati",
+  "name": "Cherbourg Cyprus",
+  "curatedName": "Cherbourg Cyprus",
+  "city": "Cincinnati",
+  "country": "United States",
+  "placeId": "ChIJn7pLsjuzQYgRj5Kx6iaBTDY",
+  "googleName": "Cherbourg Cyprus",
+  "formattedAddress": "1804 Race St, Cincinnati, OH 45202, USA",
+  "phone": "(614) 835-6133",
+  "internationalPhone": "+1 614-835-6133",
+  "website": "https://www.cherbourgbakery.com/cincinnati",
+  "googleMapsUrl": "https://maps.google.com/?cid=3912644180424364687",
+  "rating": 4.8,
+  "reviewCount": 300,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.1156811,
+    -84.51817729999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:30 AM – 2:00 PM",
+    "Thursday: 7:30 AM – 2:00 PM",
+    "Friday: 7:30 AM – 2:00 PM",
+    "Saturday: 7:30 AM – 2:00 PM",
+    "Sunday: 8:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cherbourg-cyprus-cincinnati/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:13:46.290Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "sarang-cake-studio-mexicali",
+  "name": "Sarang Cake Studio",
+  "curatedName": "Sarang Cake Studio",
+  "city": "Mexicali",
+  "country": "Mexico",
+  "placeId": "ChIJ64ViQ4Jx14ARUhexHdHJ_nI",
+  "googleName": "Sarang Cake Studio",
+  "formattedAddress": "C. Cuatro Ciénegas 2082, Ex-Ejido Coahuila, 21360 Mexicali, B.C., Mexico",
+  "phone": "686 721 8666",
+  "internationalPhone": "+52 686 721 8666",
+  "website": "https://www.sarangcakestudio.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8286282264391784274",
+  "rating": 4.9,
+  "reviewCount": 53,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.6271761,
+    -115.4381235
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sarang-cake-studio-mexicali/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:09.901Z"
+}

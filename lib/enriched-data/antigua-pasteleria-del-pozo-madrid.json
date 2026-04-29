@@ -1,0 +1,43 @@
+{
+  "slug": "antigua-pasteleria-del-pozo-madrid",
+  "name": "Antigua Pastelería del Pozo",
+  "curatedName": "Antigua Pastelería del Pozo",
+  "city": "Madrid",
+  "country": "Spain",
+  "placeId": "ChIJvcCf74AoQg0R02JBZZXRMy8",
+  "googleName": "Antigua Pastelería del Pozo",
+  "formattedAddress": "C. del Pozo, 8, Centro, 28012 Madrid, Spain",
+  "phone": "915 22 38 94",
+  "internationalPhone": "+34 915 22 38 94",
+  "website": "https://antiguapasteleriadelpozo.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3401292583173972691",
+  "rating": 4.5,
+  "reviewCount": 1035,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.416257,
+    -3.7012027
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Wednesday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Thursday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Friday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Saturday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+    "Sunday: 9:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": "Artisanal cakes & Spanish pastries, plus savory empanadas, at an iconic bakery founded in 1830.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/antigua-pasteleria-del-pozo-madrid/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:56:21.834Z"
+}

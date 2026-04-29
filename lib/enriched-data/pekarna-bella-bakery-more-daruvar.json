@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-bella-bakery-more-daruvar",
+  "name": "Pekarna Bella - Bakery & more",
+  "city": "Daruvar",
+  "country": "Croatia",
+  "placeId": "ChIJe8GqUwCZZ0cRc6p6yYtFb5g",
+  "googleName": "Pekarna Bella - Bakery & more",
+  "formattedAddress": "Kolodvorska ul. 18, 43500, Daruvar, Croatia",
+  "phone": "043 334 730",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10984074482862959219",
+  "rating": 4.3,
+  "reviewCount": 38,
+  "coords": [
+    45.5895966,
+    17.2257092
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 8:00 PM",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 5:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-bella-bakery-more-daruvar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:50:02.261Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "a-bakeshop-phoenix",
+  "name": "A Bakeshop",
+  "curatedName": "A Bakeshop",
+  "city": "Phoenix",
+  "country": "United States",
+  "placeId": "ChIJq6Pe4lcNK4cRNWmGZpEKNUQ",
+  "googleName": "A Bakeshop",
+  "formattedAddress": "803 N 7th St Suite 102, Phoenix, AZ 85006, USA",
+  "phone": "(602) 274-2253",
+  "internationalPhone": "+1 602-274-2253",
+  "website": "http://www.abakeshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4914846187951384885",
+  "rating": 4.6,
+  "reviewCount": 147,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.4568724,
+    -112.0649287
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-bakeshop-phoenix/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:11:21.905Z"
+}

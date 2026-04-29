@@ -1,0 +1,43 @@
+{
+  "slug": "hasgul-baklavalar-kocasinan",
+  "name": "Hasgül Baklavaları",
+  "curatedName": "Hasgül Baklavaları",
+  "city": "Kocasinan",
+  "country": "Türkiye",
+  "placeId": "ChIJYfHGOMARKxURm2PJ3bmBBkY",
+  "googleName": "Hasgül Baklavaları",
+  "formattedAddress": "Turgut Reis, Bağdat Cd. No:202, 38000 Kocasinan/Kayseri, Türkiye",
+  "phone": "0506 035 21 38",
+  "internationalPhone": "+90 506 035 21 38",
+  "website": "https://hasgulbaklavalari.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5045863067805115291",
+  "rating": 4.1,
+  "reviewCount": 56,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.7420409,
+    35.4552819
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:30 PM",
+    "Tuesday: 6:00 AM – 10:30 PM",
+    "Wednesday: 6:00 AM – 10:30 PM",
+    "Thursday: 6:00 AM – 10:30 PM",
+    "Friday: 6:00 AM – 10:30 PM",
+    "Saturday: 6:00 AM – 10:30 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hasgul-baklavalar-kocasinan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:04:12.782Z"
+}

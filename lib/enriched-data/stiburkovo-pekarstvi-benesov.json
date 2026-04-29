@@ -1,0 +1,32 @@
+{
+  "slug": "stiburkovo-pekarstvi-benesov",
+  "name": "Stibůrkovo pekařství",
+  "city": "Benesov",
+  "country": "Czech Republic",
+  "placeId": "ChIJZcT9Fad_DEcREgfyc8vrdTI",
+  "googleName": "Stibůrkovo Pekařství a Cukrárna",
+  "formattedAddress": "Masarykovo nám. 156, 256 01 Benešov-Benešov u Prahy, Czechia",
+  "phone": "774 209 339",
+  "website": "https://www.stiburkovopekarstvi.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3636071533227673362",
+  "rating": 3.9,
+  "reviewCount": 70,
+  "coords": [
+    49.7832287,
+    14.6893178
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stiburkovo-pekarstvi-benesov/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:53:49.177Z"
+}

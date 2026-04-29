@@ -1,0 +1,44 @@
+{
+  "slug": "celen-pastanesi-sahinbey",
+  "name": "Celen Pastanesi",
+  "curatedName": "Celen Pastanesi",
+  "city": "Şahinbey",
+  "country": "Türkiye",
+  "placeId": "ChIJS56uzxbhMRURlkRbxNG4Plg",
+  "googleName": "Celen Pastanesi",
+  "formattedAddress": "Kavaklık, 27070 Şahinbey/Gaziantep, Türkiye",
+  "phone": "(0342) 336 81 77",
+  "internationalPhone": "+90 342 336 81 77",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6358722934975710358",
+  "rating": 4,
+  "reviewCount": 155,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.061243,
+    37.3565318
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/celen-pastanesi-sahinbey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:03:00.303Z"
+}

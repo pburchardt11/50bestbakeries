@@ -1,0 +1,24 @@
+{
+  "slug": "paul-manama",
+  "name": "Paul",
+  "city": "Manama",
+  "country": "Bahrain",
+  "placeId": "ChIJV2rR69qlST4RyAYmb-MGODc",
+  "googleName": "PAUL",
+  "formattedAddress": "6HQF+2C7, Manama, Bahrain",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3978937844673939144",
+  "rating": 4.4,
+  "reviewCount": 8,
+  "coords": [
+    26.237528,
+    50.5735318
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-manama/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:44:23.789Z"
+}

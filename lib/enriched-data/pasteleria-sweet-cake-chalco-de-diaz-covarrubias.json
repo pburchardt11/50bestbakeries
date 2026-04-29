@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-sweet-cake-chalco-de-diaz-covarrubias",
+  "name": "Pasteleria Sweet cake",
+  "curatedName": "Pasteleria Sweet cake",
+  "city": "Chalco de Díaz Covarrubias",
+  "country": "Mexico",
+  "placeId": "ChIJc8QRHZoezoUR88qzjID28SI",
+  "googleName": "Pasteleria Sweet cake",
+  "formattedAddress": "ote35 y ote 36, Av. Solidaridad Manzana 037, Unión de Guadalupe, 56606 Chalco de Díaz Covarrubias, Méx., Mexico",
+  "phone": "55 3689 7093",
+  "internationalPhone": "+52 55 3689 7093",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2518064698653657843",
+  "rating": 4.1,
+  "reviewCount": 8,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.2852814,
+    -98.9143183
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:30 PM",
+    "Tuesday: 10:00 AM – 9:30 PM",
+    "Wednesday: 10:00 AM – 9:30 PM",
+    "Thursday: 10:00 AM – 9:30 PM",
+    "Friday: 10:00 AM – 9:30 PM",
+    "Saturday: 10:00 AM – 9:30 PM",
+    "Sunday: 10:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-sweet-cake-chalco-de-diaz-covarrubias/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:45:48.526Z"
+}

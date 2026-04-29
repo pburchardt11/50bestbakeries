@@ -1,0 +1,32 @@
+{
+  "slug": "adyb-cakes-hato-mayor",
+  "name": "Adyb cakes",
+  "city": "Hato Mayor",
+  "country": "Dominican Republic",
+  "placeId": "ChIJN9SbcwCHr44RYn1iiN97OZ4",
+  "googleName": "Adyb Cakes",
+  "formattedAddress": "Av. 5ta 16, Santo Domingo Este 11605, Dominican Republic",
+  "phone": "(849) 865-5332",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11401280131661200738",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    18.4787157,
+    -69.8343445
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/adyb-cakes-hato-mayor/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:00.672Z"
+}

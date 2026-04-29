@@ -1,0 +1,43 @@
+{
+  "slug": "dyriana-bakery-cafe-semarang",
+  "name": "Dyriana Bakery & Cafe",
+  "curatedName": "Dyriana Bakery & Cafe",
+  "city": "Semarang",
+  "country": "Indonesia",
+  "placeId": "ChIJ6yOeYEWLcC4RPns8cjSz9Ek",
+  "googleName": "Dyriana Bakery & Cafe",
+  "formattedAddress": "Jl. Pandanaran No.51A, Randusari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50244, Indonesia",
+  "phone": "0815-6512-000",
+  "internationalPhone": "+62 815-6512-000",
+  "website": "http://www.dyriana.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5329081296922377022",
+  "rating": 4.7,
+  "reviewCount": 852,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.9862459,
+    110.4127172
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dyriana-bakery-cafe-semarang/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:51.306Z"
+}

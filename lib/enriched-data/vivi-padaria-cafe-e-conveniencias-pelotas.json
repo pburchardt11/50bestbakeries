@@ -1,0 +1,46 @@
+{
+  "slug": "vivi-padaria-cafe-e-conveniencias-pelotas",
+  "name": "Vivi Padaria Cafe e Conveniencias",
+  "curatedName": "Vivi Padaria Cafe e Conveniencias",
+  "city": "Pelotas",
+  "country": "Brazil",
+  "placeId": "ChIJ0ftT0QS1EZURZxgWIMsSm5c",
+  "googleName": "Vivi Padaria Café e Conveniências",
+  "formattedAddress": "Av. Pres. Juscelino Kubitscheck de Oliveira, 2052 - Balsa, Pelotas - RS, 96020-045, Brazil",
+  "phone": "(53) 3028-1848",
+  "internationalPhone": "+55 53 3028-1848",
+  "website": "https://instagram.com/padariavivi?igshid=Y2I2MzMwZWM3ZA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=10924345984743250023",
+  "rating": 4.8,
+  "reviewCount": 64,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "convenience_store",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -31.7654735,
+    -52.33036269999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vivi-padaria-cafe-e-conveniencias-pelotas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:16:13.505Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "prc-bakery-speightstown",
+  "name": "PRC Bakery",
+  "city": "Speightstown",
+  "country": "Barbados",
+  "placeId": "ChIJ_QbYQ7PvQ4wRg4yIWTECFJA",
+  "googleName": "PRC Bakery",
+  "formattedAddress": "Sand St, Speightstown, Saint Peter Barbados",
+  "phone": "(246) 422-3547",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10381925451974610051",
+  "rating": 4.6,
+  "reviewCount": 160,
+  "coords": [
+    13.2513445,
+    -59.64433449999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/prc-bakery-speightstown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:58:23.795Z"
+}

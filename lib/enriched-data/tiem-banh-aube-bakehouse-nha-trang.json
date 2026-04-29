@@ -1,0 +1,43 @@
+{
+  "slug": "tiem-banh-aube-bakehouse-nha-trang",
+  "name": "Tiệm bánh Aube Bakehouse",
+  "curatedName": "Tiệm bánh Aube Bakehouse",
+  "city": "Nha Trang",
+  "country": "Vietnam",
+  "placeId": "ChIJDyTz-hxncDERV27Im1k1AcU",
+  "googleName": "Tiệm bánh Aube Bakehouse",
+  "formattedAddress": "57 Khúc Thừa Dụ, Phước Trung, Nam Nha Trang, Khánh Hòa, Vietnam",
+  "phone": "0979 891 591",
+  "internationalPhone": "+84 979 891 591",
+  "website": "https://www.facebook.com/aube.bakehouse",
+  "googleMapsUrl": "https://maps.google.com/?cid=14195686159430479447",
+  "rating": 4.9,
+  "reviewCount": 81,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.2178619,
+    109.1939283
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 12:00 PM, 1:00 – 6:00 PM",
+    "Wednesday: 7:00 AM – 12:00 PM, 1:00 – 6:00 PM",
+    "Thursday: 7:00 AM – 12:00 PM, 1:00 – 6:00 PM",
+    "Friday: 7:00 AM – 12:00 PM, 1:00 – 6:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM, 1:00 – 6:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM, 1:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiem-banh-aube-bakehouse-nha-trang/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:18:10.603Z"
+}

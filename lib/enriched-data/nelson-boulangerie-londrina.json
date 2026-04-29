@@ -1,0 +1,43 @@
+{
+  "slug": "nelson-boulangerie-londrina",
+  "name": "Nelson Boulangerie",
+  "curatedName": "Nelson Boulangerie",
+  "city": "Londrina",
+  "country": "Brazil",
+  "placeId": "ChIJe-oNbDhD65QRIcK-iAsJkOU",
+  "googleName": "Nelson Boulangerie",
+  "formattedAddress": "Av. Me. Leônia Milito, 446 - Bela Suiça, Londrina - PR, 86050-270, Brazil",
+  "phone": "(43) 3323-1997",
+  "internationalPhone": "+55 43 3323-1997",
+  "website": "http://www.nelsonboulangerie.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16541731376475324961",
+  "rating": 4.7,
+  "reviewCount": 759,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.3348272,
+    -51.16731619999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nelson-boulangerie-londrina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:41:04.860Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "baguette-co-yerevan",
+  "name": "Baguette & Co.",
+  "city": "Yerevan",
+  "country": "Armenia",
+  "placeId": "ChIJQzh-juS8akAR-ND-8qwqMvQ",
+  "googleName": "Baguette & Co.",
+  "formattedAddress": "20 Abovyan poxoc, Yerevan, Armenia",
+  "phone": "(012) 202299",
+  "website": "http://www.baguetteandco.am/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17596173616389476600",
+  "rating": 4.4,
+  "reviewCount": 456,
+  "coords": [
+    40.18242910000001,
+    44.5178485
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baguette-co-yerevan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:21:50.011Z"
+}

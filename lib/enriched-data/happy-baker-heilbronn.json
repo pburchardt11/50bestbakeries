@@ -1,0 +1,43 @@
+{
+  "slug": "happy-baker-heilbronn",
+  "name": "Happy Baker",
+  "curatedName": "Happy Baker",
+  "city": "Heilbronn",
+  "country": "Germany",
+  "placeId": "ChIJR8FS-ygvmEcR2YPqCcZVix8",
+  "googleName": "Happy Baker",
+  "formattedAddress": "Charlottenstraße 17, 74074 Heilbronn, Germany",
+  "phone": "07131 1247453",
+  "internationalPhone": "+49 7131 1247453",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2273004745996796889",
+  "rating": 4.6,
+  "reviewCount": 362,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.1302901,
+    9.217996
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/happy-baker-heilbronn/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:28.863Z"
+}

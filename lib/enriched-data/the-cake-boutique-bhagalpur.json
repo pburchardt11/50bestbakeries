@@ -1,0 +1,41 @@
+{
+  "slug": "the-cake-boutique-bhagalpur",
+  "name": "The cake boutique",
+  "curatedName": "The cake boutique",
+  "city": "Bhagalpur",
+  "country": "India",
+  "placeId": "ChIJHUh4WwRK8DkRbvDQETE_fTU",
+  "googleName": "The Cake Boutique",
+  "formattedAddress": "D N Singh Road, Variety Chowk, Sujaganj, Bhagalpur, Bihar 812001, India",
+  "phone": "092346 67688",
+  "internationalPhone": "+91 92346 67688",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3854306336083865710",
+  "rating": 3.8,
+  "reviewCount": 12,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.2447764,
+    86.97598579999999
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:15 PM",
+    "Tuesday: 11:00 AM – 9:15 PM",
+    "Wednesday: 11:00 AM – 9:15 PM",
+    "Thursday: 11:00 AM – 9:15 PM",
+    "Friday: 11:00 AM – 9:15 PM",
+    "Saturday: 11:00 AM – 9:15 PM",
+    "Sunday: 11:00 AM – 9:15 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T03:37:00.402Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "panificadora-eliza-manaus",
+  "name": "Panificadora Eliza",
+  "curatedName": "Panificadora Eliza",
+  "city": "Manaus",
+  "country": "Brazil",
+  "placeId": "ChIJtXsvIwsbbJIRhaulGMc_OZM",
+  "googleName": "Panificadora Eliza",
+  "formattedAddress": "Av. Paraiba, 20 - Adrianópolis, Manaus - AM, 69057-020, Brazil",
+  "phone": "(92) 98617-4334",
+  "internationalPhone": "+55 92 98617-4334",
+  "website": "https://www.instagram.com/panificadoraeliza?igsh=MW5xc3ZwcGhraDc4dA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=10608580521592466309",
+  "rating": 4.3,
+  "reviewCount": 1943,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -3.1017665,
+    -60.0096232
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-eliza-manaus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:14:43.289Z"
+}

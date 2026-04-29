@@ -1,0 +1,35 @@
+{
+  "slug": "nom-nom-craft-bakery-palma",
+  "name": "Nom Nom Craft Bakery",
+  "curatedName": "Nom Nom Craft Bakery",
+  "city": "Palma",
+  "country": "Spain",
+  "placeId": "ChIJW3P3S8KTlxIR_ywKnPYJAVg",
+  "googleName": "Nom Nom Craft Bakery",
+  "formattedAddress": "Carrer de Sant Vicenç de Paül, 7B, Bajos, Norte, 07010 Palma, Illes Balears, Spain",
+  "phone": "627 49 56 42",
+  "internationalPhone": "+34 627 49 56 42",
+  "website": "https://mailchi.mp/e10a367173fa/nomnom_craftbakery_menus",
+  "googleMapsUrl": "https://maps.google.com/?cid=6341360705098886399",
+  "rating": 5,
+  "reviewCount": 175,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.5928338,
+    2.6452855
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nom-nom-craft-bakery-palma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:57:41.633Z"
+}

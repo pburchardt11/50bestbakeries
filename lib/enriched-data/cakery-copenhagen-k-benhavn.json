@@ -1,0 +1,44 @@
+{
+  "slug": "cakery-copenhagen-k-benhavn",
+  "name": "Cakery Copenhagen",
+  "curatedName": "Cakery Copenhagen",
+  "city": "København",
+  "country": "Denmark",
+  "placeId": "ChIJS7a3NmpTUkYR2FfHGxzPtIM",
+  "googleName": "Cakery Copenhagen",
+  "formattedAddress": "Borgergade 17F, 1300 København, Denmark",
+  "phone": "71 40 00 45",
+  "internationalPhone": "+45 71 40 00 45",
+  "website": "http://www.cakerycopenhagen.dk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9490438034408560600",
+  "rating": 4.8,
+  "reviewCount": 489,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    55.6847788,
+    12.5857796
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: 11:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakery-copenhagen-k-benhavn/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:20.421Z"
+}

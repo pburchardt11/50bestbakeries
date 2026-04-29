@@ -1,0 +1,44 @@
+{
+  "slug": "thien-an-bakery-cafe-thu-uc",
+  "name": "Thiên Ân Bakery & Cafe",
+  "curatedName": "Thiên Ân Bakery & Cafe",
+  "city": "Thủ Đức",
+  "country": "Vietnam",
+  "placeId": "ChIJa6Z6m6IndTERWCJcBZ8gBCw",
+  "googleName": "Thiên Ân Bakery & Cafe",
+  "formattedAddress": "127 Đ. Võ Văn Ngân, Linh Chiểu, Thủ Đức, Hồ Chí Minh, Vietnam",
+  "phone": "028 3722 5986",
+  "internationalPhone": "+84 28 3722 5986",
+  "website": "https://thienanbakery-cafe.vn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3171695904937484888",
+  "rating": 4.2,
+  "reviewCount": 1383,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    10.8508193,
+    106.7609635
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thien-an-bakery-cafe-thu-uc/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:09:55.089Z"
+}

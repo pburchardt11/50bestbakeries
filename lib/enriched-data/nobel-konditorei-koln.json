@@ -1,0 +1,44 @@
+{
+  "slug": "nobel-konditorei-koln",
+  "name": "Nobel Konditorei",
+  "curatedName": "Nobel Konditorei",
+  "city": "Köln",
+  "country": "Germany",
+  "placeId": "ChIJO2mOBgAlv0cRtSy0Yk4C28w",
+  "googleName": "Nobel Konditorei شیرینی سرای نوبل",
+  "formattedAddress": "Hohenstaufenring 24, 50674 Köln, Germany",
+  "phone": "0221 54810000",
+  "internationalPhone": "+49 221 54810000",
+  "website": "https://www.konditorei-nobel.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14761394739323612341",
+  "rating": 4.8,
+  "reviewCount": 762,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    50.9309839,
+    6.941406
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 11:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nobel-konditorei-koln/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:31:31.826Z"
+}

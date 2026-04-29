@@ -1,0 +1,43 @@
+{
+  "slug": "mielle-reposteria-mexicali",
+  "name": "Mielle Reposteria",
+  "curatedName": "Mielle Reposteria",
+  "city": "Mexicali",
+  "country": "Mexico",
+  "placeId": "ChIJBSQVM4pw14AR0MVYe16xpBc",
+  "googleName": "Mielle Repostería",
+  "formattedAddress": "Av. Mariano Arista 1786-3, Nueva, 21100 Mexicali, B.C., Mexico",
+  "phone": "686 842 8570",
+  "internationalPhone": "+52 686 842 8570",
+  "website": "https://m.facebook.com/profile.php/?id=100064873500430&name=xhp_nt__fb__action__open_user",
+  "googleMapsUrl": "https://maps.google.com/?cid=1703681578407347664",
+  "rating": 4.7,
+  "reviewCount": 265,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    32.6599008,
+    -115.4599751
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 9:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mielle-reposteria-mexicali/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:42.743Z"
+}

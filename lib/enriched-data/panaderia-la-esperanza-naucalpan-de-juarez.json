@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-la-esperanza-naucalpan-de-juarez",
+  "name": "Panadería La Esperanza",
+  "curatedName": "Panadería La Esperanza",
+  "city": "Naucalpan de Juárez",
+  "country": "Mexico",
+  "placeId": "ChIJ-S_Nb-QC0oURMLtlpKila4M",
+  "googleName": "Panadería La Esperanza",
+  "formattedAddress": "Av. Dr. Gustavo Baz 185, Hacienda de Echegaray, 53300 Naucalpan de Juárez, Méx., Mexico",
+  "phone": "55 6285 0400 ext. 5201",
+  "internationalPhone": "+52 55 6285 0400 ext. 5201",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9469844785207819056",
+  "rating": 4.2,
+  "reviewCount": 522,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4914242,
+    -99.2279679
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-esperanza-naucalpan-de-juarez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:23.642Z"
+}

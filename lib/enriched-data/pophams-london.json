@@ -1,0 +1,44 @@
+{
+  "slug": "pophams-london",
+  "name": "Pophams",
+  "curatedName": "Pophams",
+  "city": "London",
+  "country": "United Kingdom",
+  "placeId": "ChIJYb_MfNUddkgR59EyFxTw62w",
+  "googleName": "Pophams London Fields",
+  "formattedAddress": "197 Richmond Rd, London E8 3NJ, UK",
+  "phone": "020 8525 1416",
+  "internationalPhone": "+44 20 8525 1416",
+  "website": "https://www.pophamsbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7848630744702439911",
+  "rating": 4.5,
+  "reviewCount": 1230,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5436252,
+    -0.0575894
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Bright, Scandinavian-style artisanal cafe-bakery for sourdough, flavoured pastries & coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pophams-london/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:21.964Z"
+}

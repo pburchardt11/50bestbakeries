@@ -1,0 +1,32 @@
+{
+  "slug": "planet-donut-and-bakery",
+  "name": "Planet Donut and Bakery",
+  "city": "المنامة",
+  "country": "Bahrain",
+  "placeId": "ChIJ2zciBRavST4R_eDcX71I_es",
+  "googleName": "Planet Donut & Bakery",
+  "formattedAddress": "Shop A0004 Road 30 Block 330 Abu Ghazal، Manama, Bahrain",
+  "phone": "1723 3034",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17004827746215190781",
+  "rating": 4.3,
+  "reviewCount": 89,
+  "coords": [
+    26.209634,
+    50.575219
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/planet-donut-and-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:48:49.731Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "baylan-kad-koy",
+  "name": "Baylan",
+  "curatedName": "Baylan",
+  "city": "Kadıköy",
+  "country": "Türkiye",
+  "placeId": "ChIJYeZr6me4yhQRRtlqAlFv5_A",
+  "googleName": "Baylan",
+  "formattedAddress": "Caferağa, Muvakkıthane Cd. No: 9/A, 34710 Kadıköy/İstanbul, Türkiye",
+  "phone": "(0216) 346 63 50",
+  "internationalPhone": "+90 216 346 63 50",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17358965682446457158",
+  "rating": 4.2,
+  "reviewCount": 4513,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.9903897,
+    29.0237951
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Traditional patisserie with indoor seating & garden, specializing in cakes, chocolates & ice cream.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baylan-kad-koy/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:32.224Z"
+}

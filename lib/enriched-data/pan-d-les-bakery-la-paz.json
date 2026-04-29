@@ -1,0 +1,43 @@
+{
+  "slug": "pan-d-les-bakery-la-paz",
+  "name": "Pan D' Les  Bakery",
+  "curatedName": "Pan D' Les  Bakery",
+  "city": "La Paz",
+  "country": "Mexico",
+  "placeId": "ChIJrwNxy1jTr4YRnfpvt7i2icE",
+  "googleName": "Pan D'Les Bakery",
+  "formattedAddress": "Ignacio Ramírez 1650, entre 16 de Septiembre y Santos Degollado, Zona Central, 23000 La Paz, B.C.S., Mexico",
+  "phone": "612 122 5339",
+  "internationalPhone": "+52 612 122 5339",
+  "website": "https://www.facebook.com/PanD.Les/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13945878625597258397",
+  "rating": 4.9,
+  "reviewCount": 128,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.1572451,
+    -110.3123984
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:30 PM",
+    "Tuesday: 8:00 AM – 2:30 PM",
+    "Wednesday: 8:00 AM – 2:30 PM",
+    "Thursday: 8:00 AM – 2:30 PM",
+    "Friday: 8:00 AM – 2:30 PM",
+    "Saturday: 8:00 AM – 2:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-d-les-bakery-la-paz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:55:55.112Z"
+}

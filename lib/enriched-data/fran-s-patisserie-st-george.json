@@ -1,0 +1,32 @@
+{
+  "slug": "fran-s-patisserie-st-george",
+  "name": "Fran's Patisserie",
+  "city": "St. George",
+  "country": "Dominica",
+  "placeId": "ChIJQx-PoS_VFIwR2ed_qdmWEjE",
+  "googleName": "Fran's Patisserie/Soul Delights",
+  "formattedAddress": "64 Independence St, Roseau, Dominica",
+  "phone": "(767) 440-8275",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3536054519035062233",
+  "rating": 3.3,
+  "reviewCount": 7,
+  "coords": [
+    15.299498,
+    -61.3862274
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fran-s-patisserie-st-george/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:57:00.668Z"
+}

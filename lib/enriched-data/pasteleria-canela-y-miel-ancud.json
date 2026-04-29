@@ -1,0 +1,32 @@
+{
+  "slug": "pasteleria-canela-y-miel-ancud",
+  "name": "Pastelería Canela y Miel",
+  "city": "Ancud",
+  "country": "Chile",
+  "placeId": "ChIJnXgZ-WONIpYR9X91Hsc7ryk",
+  "googleName": "Pasteleria Canela Y Miel",
+  "formattedAddress": "Nicolás Mascardi 1198, 5710231 Ancud, Los Lagos, Chile",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3003685202874957813",
+  "rating": 3.8,
+  "reviewCount": 9,
+  "coords": [
+    -41.869981,
+    -73.8118065
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-canela-y-miel-ancud/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:43:45.119Z"
+}

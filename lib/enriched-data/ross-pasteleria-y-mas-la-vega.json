@@ -1,0 +1,32 @@
+{
+  "slug": "ross-pasteleria-y-mas-la-vega",
+  "name": "Ross Pasteleria y Más",
+  "city": "La Vega",
+  "country": "Dominican Republic",
+  "placeId": "ChIJ7UXmBHotsI4RpIgeQpwQAbI",
+  "googleName": "Ross Pasteleria y Mas",
+  "formattedAddress": "Calle #4, Casa #7, Residencial Universitario 41000, La Vega 41000, Dominican Republic",
+  "phone": "(829) 312-7137",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12826551477038123172",
+  "rating": 4.8,
+  "reviewCount": 5,
+  "coords": [
+    19.227388,
+    -70.5194048
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ross-pasteleria-y-mas-la-vega/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:59:01.172Z"
+}

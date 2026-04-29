@@ -1,0 +1,43 @@
+{
+  "slug": "heart-my-cake-bangkok",
+  "name": "HEART MY CAKE Bangkok",
+  "curatedName": "HEART MY CAKE Bangkok",
+  "city": "กรุงเทพมหานคร",
+  "country": "Thailand",
+  "placeId": "ChIJd_CVvUVDi0gRl2wR93TbzzI",
+  "googleName": "HEART MY CAKE Bangkok",
+  "formattedAddress": "1659, 1657 1661 Sukhumvit Rd, Khwaeng Phra Khanong Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+  "phone": "080 569 6690",
+  "internationalPhone": "+66 80 569 6690",
+  "website": "https://treats.app/heartmycakebangkok",
+  "googleMapsUrl": "https://maps.google.com/?cid=3661386317483306135",
+  "rating": 4.8,
+  "reviewCount": 149,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    13.7135574,
+    100.5938345
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/heart-my-cake-bangkok/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:42.833Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "yosun-pastanesi-yenimahalle",
+  "name": "Yosun Pastanesi",
+  "curatedName": "Yosun Pastanesi",
+  "city": "Yenimahalle",
+  "country": "Türkiye",
+  "placeId": "ChIJp57-1axO0xQRV78hUFJsbwc",
+  "googleName": "Yosun Pastanesi",
+  "formattedAddress": "Ragıp Tüzün, Ragıp Tüzün Cd. No:145 D:A, 06170 Yenimahalle/Ankara, Türkiye",
+  "phone": "(0312) 327 42 14",
+  "internationalPhone": "+90 312 327 42 14",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=535765981467885399",
+  "rating": 4.2,
+  "reviewCount": 707,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.9659885,
+    32.8089574
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:30 PM",
+    "Tuesday: 6:00 AM – 10:30 PM",
+    "Wednesday: 6:00 AM – 10:30 PM",
+    "Thursday: 6:00 AM – 10:30 PM",
+    "Friday: 6:00 AM – 10:30 PM",
+    "Saturday: 6:00 AM – 10:30 PM",
+    "Sunday: 6:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yosun-pastanesi-yenimahalle/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:40.949Z"
+}

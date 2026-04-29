@@ -1,0 +1,43 @@
+{
+  "slug": "nikon-cakes-cagayan-de-oro-city",
+  "name": "Nikon Cakes",
+  "curatedName": "Nikon Cakes",
+  "city": "Cagayan de Oro City",
+  "country": "Philippines",
+  "placeId": "ChIJZUDhntfy_zIRr5cnqcJf7R0",
+  "googleName": "Nikon Cakes",
+  "formattedAddress": "2nd Flr. Beehive Bldg, Zone 1, Yakal St, Cagayan De Oro City, Misamis Oriental, Philippines",
+  "phone": "0917 709 8800",
+  "internationalPhone": "+63 917 709 8800",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2156485086246573999",
+  "rating": 4.4,
+  "reviewCount": 29,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    8.4819972,
+    124.6375201
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 6:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nikon-cakes-cagayan-de-oro-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:57.556Z"
+}

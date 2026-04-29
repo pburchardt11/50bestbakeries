@@ -1,0 +1,32 @@
+{
+  "slug": "carter-s-bakery-bridgetown",
+  "name": "Carter's Bakery",
+  "city": "Bridgetown",
+  "country": "Barbados",
+  "placeId": "ChIJ____P1vxQ4wRgtEkM7GZSTU",
+  "googleName": "Carter's Bakery",
+  "formattedAddress": "4CJJ+H2F, Froster Hall, Saint George Barbados",
+  "phone": "(246) 436-5211",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3839769143656370562",
+  "rating": 4.4,
+  "reviewCount": 74,
+  "coords": [
+    13.1314327,
+    -59.56995209999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/carter-s-bakery-bridgetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:56:21.820Z"
+}

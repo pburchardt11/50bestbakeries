@@ -1,0 +1,43 @@
+{
+  "slug": "cake-of-the-day-bengaluru",
+  "name": "Cake of the Day",
+  "curatedName": "Cake of the Day",
+  "city": "Bengaluru",
+  "country": "India",
+  "placeId": "ChIJ8yzPeys-rjsR4AFYVMnsfXA",
+  "googleName": "Cake of The Day",
+  "formattedAddress": "297/B, Outer Ring Rd, 7th Block, Kathriguppe IV Phase, Gururaja Layout, Hosakerehalli, Bengaluru, Rajeev Nagar, Karnataka 560085, India",
+  "phone": "080 2297 7725",
+  "internationalPhone": "+91 80 2297 7725",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8105895253784396256",
+  "rating": 4,
+  "reviewCount": 1431,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.9226656,
+    77.55640799999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-of-the-day-bengaluru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:38:24.073Z"
+}

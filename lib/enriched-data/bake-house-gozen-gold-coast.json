@@ -1,0 +1,43 @@
+{
+  "slug": "bake-house-gozen-gold-coast",
+  "name": "Bake House Gozen",
+  "curatedName": "Bake House Gozen",
+  "city": "Gold Coast",
+  "country": "Australia",
+  "placeId": "ChIJTbQHH18RkWsRqAJbUmlh1zI",
+  "googleName": "Bake House Gozen",
+  "formattedAddress": "Shop7B/458 Olsen Ave, Molendinar QLD 4214, Australia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.instagram.com/bakehousegozen",
+  "googleMapsUrl": "https://maps.google.com/?cid=3663503926870344360",
+  "rating": 4.8,
+  "reviewCount": 144,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.9700358,
+    153.3757298
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 7:00 AM – 1:00 PM",
+    "Friday: 7:00 AM – 1:00 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-house-gozen-gold-coast/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:11.020Z"
+}

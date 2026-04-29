@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-versailles-guarulhos",
+  "name": "Padaria Versailles",
+  "curatedName": "Padaria Versailles",
+  "city": "Guarulhos",
+  "country": "Brazil",
+  "placeId": "ChIJ6cwX_gT1zpQRZMg2uTc0Law",
+  "googleName": "Padaria Versailles",
+  "formattedAddress": "Av. Dr. Timóteo Penteado, 2312 - Picanço, Guarulhos - SP, 07094-000, Brazil",
+  "phone": "(11) 2451-9022",
+  "internationalPhone": "+55 11 2451-9022",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12406629962410805348",
+  "rating": 4.5,
+  "reviewCount": 9428,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.4487407,
+    -46.5480126
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-versailles-guarulhos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:51.763Z"
+}

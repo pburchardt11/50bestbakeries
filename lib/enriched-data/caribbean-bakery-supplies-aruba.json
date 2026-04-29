@@ -1,0 +1,32 @@
+{
+  "slug": "caribbean-bakery-supplies-aruba",
+  "name": "Caribbean Bakery Supplies",
+  "city": "Aruba",
+  "country": "Aruba",
+  "placeId": "ChIJ0daBS59HhY4RhwaasV4By48",
+  "googleName": "Caribbean Bakery Supplies Aruba",
+  "formattedAddress": "Schotlandstraat 60, Aruba",
+  "phone": "588 5666",
+  "website": "http://www.cbsaruba.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10361376873914173063",
+  "rating": 4.8,
+  "reviewCount": 41,
+  "coords": [
+    12.5386465,
+    -70.0512323
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:30 PM",
+    "Tuesday: 8:00 AM – 5:30 PM",
+    "Wednesday: 8:00 AM – 5:30 PM",
+    "Thursday: 8:00 AM – 5:30 PM",
+    "Friday: 8:00 AM – 5:30 PM",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/caribbean-bakery-supplies-aruba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:28:34.972Z"
+}

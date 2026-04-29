@@ -1,0 +1,44 @@
+{
+  "slug": "dessert-gallery-bakery-cafe-the-woodlands",
+  "name": "Dessert Gallery Bakery & Cafe",
+  "curatedName": "Dessert Gallery Bakery & Cafe",
+  "city": "The Woodlands",
+  "country": "United States",
+  "placeId": "ChIJVVJ59gY3R4YRU_mzHclOQRg",
+  "googleName": "Dessert Gallery Bakery & Cafe",
+  "formattedAddress": "25 Waterway Ave Ste. A-125, The Woodlands, TX 77380, USA",
+  "phone": "(713) 386-6199",
+  "internationalPhone": "+1 713-386-6199",
+  "website": "https://www.dessertgallery.com/the-woodlands-bakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1747764756090190163",
+  "rating": 4.1,
+  "reviewCount": 146,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.160879,
+    -95.45952
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 10:00 PM",
+    "Tuesday: 11:00 AM – 10:00 PM",
+    "Wednesday: 11:00 AM – 10:00 PM",
+    "Thursday: 11:00 AM – 10:00 PM",
+    "Friday: 11:00 AM – 12:00 AM",
+    "Saturday: 11:00 AM – 12:00 AM",
+    "Sunday: 12:00 – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dessert-gallery-bakery-cafe-the-woodlands/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:08:15.191Z"
+}

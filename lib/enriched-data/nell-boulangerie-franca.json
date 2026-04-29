@@ -1,0 +1,43 @@
+{
+  "slug": "nell-boulangerie-franca",
+  "name": "NELL Boulangerie",
+  "curatedName": "NELL Boulangerie",
+  "city": "Franca",
+  "country": "Brazil",
+  "placeId": "ChIJj1PO2kWnsJQRYLsQl9CDa70",
+  "googleName": "Néll Boulangerie",
+  "formattedAddress": "Av. Maj. Nicácio, 2176 - São José, Franca - SP, 14403-462, Brazil",
+  "phone": "(16) 99204-0653",
+  "internationalPhone": "+55 16 99204-0653",
+  "website": "https://nellboulangerie.menudino.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13649148027587312480",
+  "rating": 4.9,
+  "reviewCount": 69,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.5363127,
+    -47.3928995
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 10:30 PM",
+    "Thursday: 11:00 AM – 11:00 PM",
+    "Friday: 11:00 AM – 11:00 PM",
+    "Saturday: 11:00 AM – 11:00 PM",
+    "Sunday: 6:00 – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nell-boulangerie-franca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:44:01.144Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "la-chontalpa-san-nicolas-de-los-garza",
+  "name": "La Chontalpa",
+  "curatedName": "La Chontalpa",
+  "city": "San Nicolás de los Garza",
+  "country": "Mexico",
+  "placeId": "ChIJG1acXsWUYoYRLAS22ipBYR4",
+  "googleName": "La Chontalpa",
+  "formattedAddress": "Av. Cordillera de los Andes 1001-12 Sector, Residencial las Puentes, 66460 San Nicolás de los Garza, N.L., Mexico",
+  "phone": "81 8330 0054",
+  "internationalPhone": "+52 81 8330 0054",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2189102546192565292",
+  "rating": null,
+  "reviewCount": null,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.7379116,
+    -100.2714829
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-chontalpa-san-nicolas-de-los-garza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:53.944Z"
+}

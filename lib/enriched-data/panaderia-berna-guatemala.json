@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-berna-guatemala",
+  "name": "Panadería Berna",
+  "curatedName": "Panadería Berna",
+  "city": "Guatemala",
+  "country": "Guatemala",
+  "placeId": "ChIJWYFNFBeiiYURPR17tBmimco",
+  "googleName": "Panadería Berna",
+  "formattedAddress": "Guatemala City, Guatemala",
+  "phone": "2221 0591",
+  "internationalPhone": "+502 2221 0591",
+  "website": "https://www.facebook.com/Panaderia-BERNA-464841423602066/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14598877898384022845",
+  "rating": 4.6,
+  "reviewCount": 8595,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.6390622,
+    -90.5150218
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:30 PM",
+    "Tuesday: 7:00 AM – 7:30 PM",
+    "Wednesday: 7:00 AM – 7:30 PM",
+    "Thursday: 7:00 AM – 7:30 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-berna-guatemala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:40.933Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "sunny-hills-taipei-minsheng-park-store",
+  "name": "Sunny Hills Taipei Minsheng Park Store",
+  "curatedName": "Sunny Hills Taipei Minsheng Park Store",
+  "city": "台北市",
+  "country": "Taiwan",
+  "placeId": "ChIJq4s2Bu2rQjQRfjAcdNLFsrY",
+  "googleName": "Sunny Hills Taipei Minsheng Park Store",
+  "formattedAddress": "105, Taiwan, Taipei City, Songshan District, Alley 4, Lane 36, Section 5, Minsheng E Rd, 1號1樓",
+  "phone": "02 2760 0508",
+  "internationalPhone": "+886 2 2760 0508",
+  "website": "http://www.sunnyhills.com.tw/index/zh-tw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13164802168439189630",
+  "rating": 4.5,
+  "reviewCount": 8115,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.0578988,
+    121.5571641
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sunny-hills-taipei-minsheng-park-store/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:12.340Z"
+}

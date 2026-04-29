@@ -1,0 +1,32 @@
+{
+  "slug": "ciabatta-bakery-bak",
+  "name": "Ciabatta Bakery",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJAY77PwB9MEARHf6xJSDGUAY",
+  "googleName": "Ciabatta Bakery",
+  "formattedAddress": "157 Səməd Vurğun, Bakı, Azerbaijan",
+  "phone": "050 444 93 93",
+  "website": "https://ciabatta.az/",
+  "googleMapsUrl": "https://maps.google.com/?cid=455081403738095133",
+  "rating": 4.3,
+  "reviewCount": 68,
+  "coords": [
+    40.39324879999999,
+    49.8343925
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:00 AM",
+    "Tuesday: 7:30 AM – 12:00 AM",
+    "Wednesday: 7:30 AM – 12:00 AM",
+    "Thursday: 7:30 AM – 12:00 AM",
+    "Friday: 7:30 AM – 12:00 AM",
+    "Saturday: 7:30 AM – 12:00 AM",
+    "Sunday: 7:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ciabatta-bakery-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:36:51.926Z"
+}

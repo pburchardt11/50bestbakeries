@@ -1,0 +1,32 @@
+{
+  "slug": "avarua-bakery-avarua",
+  "name": "Avarua Bakery",
+  "city": "Avarua",
+  "country": "Cook Islands",
+  "placeId": "ChIJY3MaaSjSV3ERrN6Rae83Cdk",
+  "googleName": "Avarua Bakery",
+  "formattedAddress": "Ara Metua, Avarua, Cook Islands",
+  "phone": "25 550",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15639092682428636844",
+  "rating": 4.9,
+  "reviewCount": 7,
+  "coords": [
+    -21.2059234,
+    -159.7624326
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/avarua-bakery-avarua/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:46:31.621Z"
+}

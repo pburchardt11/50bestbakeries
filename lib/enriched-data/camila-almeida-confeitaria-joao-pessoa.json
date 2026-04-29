@@ -1,0 +1,44 @@
+{
+  "slug": "camila-almeida-confeitaria-joao-pessoa",
+  "name": "Camila Almeida Confeitaria",
+  "curatedName": "Camila Almeida Confeitaria",
+  "city": "João Pessoa",
+  "country": "Brazil",
+  "placeId": "ChIJ_2k2AyLdrAcRQt0W6byYFCc",
+  "googleName": "Camila Almeida Confeitaria",
+  "formattedAddress": "R. Paulo Peixoto de Vasconcelos, 77 - Brisamar, João Pessoa - PB, 58033-270, Brazil",
+  "phone": "(83) 99419-8415",
+  "internationalPhone": "+55 83 99419-8415",
+  "website": "https://camilaalmeidaconfeitaria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2816043604145265986",
+  "rating": 4.9,
+  "reviewCount": 1354,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.1130592,
+    -34.8399271
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 8:00 PM",
+    "Tuesday: 11:00 AM – 8:00 PM",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 8:00 PM",
+    "Saturday: 11:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/camila-almeida-confeitaria-joao-pessoa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:41:53.909Z"
+}

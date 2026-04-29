@@ -1,0 +1,44 @@
+{
+  "slug": "liliha-bakery-honolulu",
+  "name": "Liliha Bakery",
+  "curatedName": "Liliha Bakery",
+  "city": "Honolulu",
+  "country": "United States",
+  "placeId": "ChIJQ9anT39uAHwR3nYOPjeqsF8",
+  "googleName": "Liliha Bakery",
+  "formattedAddress": "515 N Kuakini St, Honolulu, HI 96817, USA",
+  "phone": "(808) 531-1651",
+  "internationalPhone": "+1 808-531-1651",
+  "website": "http://www.lilihabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6895198183745287902",
+  "rating": 4.6,
+  "reviewCount": 4672,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.3240097,
+    -157.8579347
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Bakery & diner since 1950, popular for its breakfasts, comfort food & coco puffs.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/liliha-bakery-honolulu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:45.658Z"
+}

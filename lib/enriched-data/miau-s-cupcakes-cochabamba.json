@@ -1,0 +1,32 @@
+{
+  "slug": "miau-s-cupcakes-cochabamba",
+  "name": "Miau's Cupcakes",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJVwYrc4dz45MRXRa8WubcG0Q",
+  "googleName": "Miau's Cupcakes",
+  "formattedAddress": "Acre, Cochabamba, Bolivia",
+  "phone": "76992225",
+  "website": "http://www.facebook.com/miauscupcakes",
+  "googleMapsUrl": "https://maps.google.com/?cid=4907759100873152093",
+  "rating": 4.6,
+  "reviewCount": 11,
+  "coords": [
+    -17.3951023,
+    -66.1805534
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/miau-s-cupcakes-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:14:25.770Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "rosetta-bakery-miami",
+  "name": "Rosetta Bakery",
+  "curatedName": "Rosetta Bakery",
+  "city": "Miami",
+  "country": "United States",
+  "placeId": "ChIJFeL_fYS22YgRgFp3LQDnONg",
+  "googleName": "Rosetta Bakery",
+  "formattedAddress": "824 S Miami Ave, Miami, FL 33130, USA",
+  "phone": "(786) 805-6861",
+  "internationalPhone": "+1 786-805-6861",
+  "website": "https://www.rosettabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15580456898837043840",
+  "rating": 4.3,
+  "reviewCount": 1325,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.7658663,
+    -80.1934349
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 10:30 PM",
+    "Sunday: 7:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rosetta-bakery-miami/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:10.422Z"
+}

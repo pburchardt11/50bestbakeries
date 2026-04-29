@@ -1,0 +1,44 @@
+{
+  "slug": "panaderia-el-itacate-ciudad-madero",
+  "name": "Panadería el Itacate",
+  "curatedName": "Panadería el Itacate",
+  "city": "Ciudad Madero",
+  "country": "Mexico",
+  "placeId": "ChIJ4XWhPZX514URCQwxRl4-lCM",
+  "googleName": "Panadería el Itacate",
+  "formattedAddress": "C. 10 215, Jardín 20 de Noviembre, 89440 Cd Madero, Tamps., Mexico",
+  "phone": "833 216 2030",
+  "internationalPhone": "+52 833 216 2030",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2563742662506122249",
+  "rating": 4.5,
+  "reviewCount": 2508,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.2644081,
+    -97.8522933
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-el-itacate-ciudad-madero/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:41.599Z"
+}

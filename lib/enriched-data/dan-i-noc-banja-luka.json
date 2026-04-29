@@ -1,0 +1,32 @@
+{
+  "slug": "dan-i-noc-banja-luka",
+  "name": "Dan i Noc",
+  "city": "Banja Luka",
+  "country": "Bosnia & Herzegovina",
+  "placeId": "ChIJaw5k2CMDXkcRI_HnJSCQRPU",
+  "googleName": "Dan i noć",
+  "formattedAddress": "Q57M+PJF, Kralja Petra I Karađorđevića, Banja Luka 78000, Bosnia and Herzegovina",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17673409305457979683",
+  "rating": 4.6,
+  "reviewCount": 474,
+  "coords": [
+    44.7643192,
+    17.1840388
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dan-i-noc-banja-luka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:16:30.905Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "supreme-bakers-ernakulam",
+  "name": "Supreme Bakers",
+  "curatedName": "Supreme Bakers",
+  "city": "Ernakulam",
+  "country": "India",
+  "placeId": "ChIJm7b72vMNCDsRJXchmTRe3tw",
+  "googleName": "Supreme Bakers",
+  "formattedAddress": "Ponnurunni, Vyttila, Ernakulam, Kochi, Kerala 682019, India",
+  "phone": "086060 19922",
+  "internationalPhone": "+91 86060 19922",
+  "website": "http://supremebakers.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15915261713174329125",
+  "rating": 4.3,
+  "reviewCount": 3342,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    9.977436599999999,
+    76.317899
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/supreme-bakers-ernakulam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:36.466Z"
+}

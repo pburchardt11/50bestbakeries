@@ -1,0 +1,43 @@
+{
+  "slug": "konditorei-peter-nurnberg",
+  "name": "Konditorei Peter",
+  "curatedName": "Konditorei Peter",
+  "city": "Nürnberg",
+  "country": "Germany",
+  "placeId": "ChIJ6xTewA2fDEERmrHa6MELro8",
+  "googleName": "Konditorei Peter",
+  "formattedAddress": "Ostendstraße 173, 90482 Nürnberg, Germany",
+  "phone": "0911 543505",
+  "internationalPhone": "+49 911 543505",
+  "website": "http://konditorei-peter.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10353225520834589082",
+  "rating": 4.9,
+  "reviewCount": 250,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    49.4578205,
+    11.1247786
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 10:00 AM – 4:00 PM",
+    "Thursday: 10:00 AM – 4:00 PM",
+    "Friday: Closed",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: 1:00 – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditorei-peter-nurnberg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:01.219Z"
+}

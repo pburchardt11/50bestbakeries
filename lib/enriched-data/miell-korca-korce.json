@@ -1,0 +1,32 @@
+{
+  "slug": "miell-korca-korce",
+  "name": "Miell Korça",
+  "city": "Korçë",
+  "country": "Albania",
+  "placeId": "ChIJU7u_vXWZUBMRYU9ezYJEFb8",
+  "googleName": "Miell Korca",
+  "formattedAddress": "Pirg - Korce,Albania Rruga Nacionale ,Km 25 Korce, 7016, Albania",
+  "phone": "067 699 4747",
+  "website": "http://www.miellkorca.al/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13768986764337106785",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    40.7924392,
+    20.7086066
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/miell-korca-korce/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:59.384Z"
+}

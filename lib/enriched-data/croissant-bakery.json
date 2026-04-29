@@ -1,0 +1,43 @@
+{
+  "slug": "croissant-bakery",
+  "name": "Croissant Bakery",
+  "curatedName": "Croissant Bakery",
+  "city": "Екатеринбург",
+  "country": "Russia",
+  "placeId": "ChIJ87-DZU1vwUMRa4DAZ-3tCMs",
+  "googleName": "Bon Brunel",
+  "formattedAddress": "Ulitsa Kraulya, 63, Yekaterinburg, Sverdlovskaya oblast', Russia, 620131",
+  "phone": "8 (343) 268-40-00",
+  "internationalPhone": "+7 343 268-40-00",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14630204993416757355",
+  "rating": 4.2,
+  "reviewCount": 15,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    56.8305275,
+    60.5482168
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/croissant-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:04.840Z"
+}

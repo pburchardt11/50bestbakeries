@@ -1,0 +1,44 @@
+{
+  "slug": "bread-panaderos-artesanales-san-pedro-garza-garcia",
+  "name": "BREAD Panaderos Artesanales",
+  "curatedName": "BREAD Panaderos Artesanales",
+  "city": "San Pedro Garza García",
+  "country": "Mexico",
+  "placeId": "ChIJJZS4vZq9YoYR2dKkUe3yU1o",
+  "googleName": "BreAd Panaderos Artesanales",
+  "formattedAddress": "Av. Humberto Lobo, Del Valle, 66220 San Pedro Garza García, N.L., Mexico",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.breadpanaderos.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6508812987571426009",
+  "rating": 4.7,
+  "reviewCount": 2225,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.6570778,
+    -100.3844452
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Artisanal breads & pastries pair with coffee at this cozy, popular bakery with some eat-in tables.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-panaderos-artesanales-san-pedro-garza-garcia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:13.243Z"
+}

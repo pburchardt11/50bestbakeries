@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-rocio-toluca",
+  "name": "Panaderia ROCIO",
+  "curatedName": "Panaderia ROCIO",
+  "city": "Toluca",
+  "country": "Mexico",
+  "placeId": "ChIJF-5JvvSJzYURV032yGBZPSI",
+  "googleName": "Panaderia ROCIO",
+  "formattedAddress": "Jaime Nuno 110, Reforma y FFCC Nacionales, 50070 Toluca de Lerdo, Méx., Mexico",
+  "phone": "722 215 4022",
+  "internationalPhone": "+52 722 215 4022",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2467226443092217175",
+  "rating": 4.5,
+  "reviewCount": 624,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.2908704,
+    -99.63845800000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-rocio-toluca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:46:29.590Z"
+}

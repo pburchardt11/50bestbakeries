@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-nos-sabor-willemstad",
+  "name": "Panaderia Nos Sabor",
+  "city": "Willemstad",
+  "country": "Curaçao",
+  "placeId": "ChIJg4jDPjV9g44Ra6s2m3_iI_0",
+  "googleName": "PANADERIA NOS SABOR CAS CORAWEG 66",
+  "formattedAddress": "66C Cas Coraweg, Willemstad, Curaçao",
+  "phone": "9 788 0154",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18240671953473416043",
+  "rating": 4.3,
+  "reviewCount": 6,
+  "coords": [
+    12.1277437,
+    -68.89418909999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-nos-sabor-willemstad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:43.430Z"
+}

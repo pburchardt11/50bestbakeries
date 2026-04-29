@@ -1,0 +1,32 @@
+{
+  "slug": "pasticeri-apolonia-fier",
+  "name": "Pastiçeri Apolonia",
+  "city": "Fier",
+  "country": "Albania",
+  "placeId": "ChIJieloM7hSRRMRAROygWojtKY",
+  "googleName": "Pastiçeri Apolonia",
+  "formattedAddress": "PHC4+M9P, Rr. Ramiz Aranitasi, Fier 9300, Albania",
+  "phone": "069 871 5268",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12012265046453392129",
+  "rating": 4.8,
+  "reviewCount": 112,
+  "coords": [
+    40.7214807,
+    19.5558024
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:30 PM",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 9:30 PM",
+    "Thursday: 9:00 AM – 9:30 PM",
+    "Friday: 9:00 AM – 9:30 PM",
+    "Saturday: 9:00 AM – 9:30 PM",
+    "Sunday: 9:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasticeri-apolonia-fier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:18.740Z"
+}

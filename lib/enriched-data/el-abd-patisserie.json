@@ -1,0 +1,43 @@
+{
+  "slug": "el-abd-patisserie",
+  "name": "El Abd Patisserie",
+  "curatedName": "El Abd Patisserie",
+  "city": "العجوزة",
+  "country": "Egypt",
+  "placeId": "ChIJPxdswvlBWBQRDa-ALOI6e58",
+  "googleName": "El Abd Patisserie",
+  "formattedAddress": "14 Gameat Al Dewal Al Arabeya, Gazirat Mit Oqbah, Agouza, Giza Governorate 3753611, Egypt",
+  "phone": "02 21600102",
+  "internationalPhone": "+20 2 21600102",
+  "website": "https://elabdfoods.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11491843617249603341",
+  "rating": 4.5,
+  "reviewCount": 1140,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.0582445,
+    31.2056571
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-abd-patisserie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:17.583Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "boulangerie-louis-lamour-bordeaux",
+  "name": "Boulangerie Louis Lamour",
+  "curatedName": "Boulangerie Louis Lamour",
+  "city": "Bordeaux",
+  "country": "France",
+  "placeId": "ChIJY-Ghfs8nVQ0RNNrCxleYdsA",
+  "googleName": "Boulangerie Louis Lamour",
+  "formattedAddress": "7 Rue Ravez, 33000 Bordeaux, France",
+  "phone": "05 57 30 25 43",
+  "internationalPhone": "+33 5 57 30 25 43",
+  "website": "http://www.bouloulam.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13868439605298256436",
+  "rating": 4.7,
+  "reviewCount": 844,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    44.8371437,
+    -0.5728487999999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Laid-back bakery showcasing housemade breads, pastries & creative baked treats, plus coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-louis-lamour-bordeaux/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:47:01.324Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "noz-cafe-e-paes-limeira",
+  "name": "Nóz Café e Pães",
+  "curatedName": "Nóz Café e Pães",
+  "city": "Limeira",
+  "country": "Brazil",
+  "placeId": "ChIJ96TX-PuAyJQRUuvcs3krOhg",
+  "googleName": "Nóz Café e Pães",
+  "formattedAddress": "R. Dr. Francisco Ferreira da Rosa, 500 - Vila São Cristovam, Limeira - SP, 13480-580, Brazil",
+  "phone": "(19) 3442-6838",
+  "internationalPhone": "+55 19 3442-6838",
+  "website": "http://www.nozcafeepaes.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1745755607268125522",
+  "rating": 4.9,
+  "reviewCount": 6844,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.5770141,
+    -47.4047377
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/noz-cafe-e-paes-limeira/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:43:31.098Z"
+}

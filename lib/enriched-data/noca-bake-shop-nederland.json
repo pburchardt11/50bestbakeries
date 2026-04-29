@@ -1,0 +1,32 @@
+{
+  "slug": "noca-bake-shop-nederland",
+  "name": "Noça Bake Shop",
+  "city": "Nederland",
+  "country": "Curaçao",
+  "placeId": "ChIJNyzHNP99g44Rw7uoC4EQb6A",
+  "googleName": "Noça Bake Shop",
+  "formattedAddress": "23 Mahaaiweg, Willemstad, Curaçao",
+  "phone": "9 529 4296",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11560476914915785667",
+  "rating": 4.7,
+  "reviewCount": 76,
+  "coords": [
+    12.1268251,
+    -68.8979375
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/noca-bake-shop-nederland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:27.558Z"
+}

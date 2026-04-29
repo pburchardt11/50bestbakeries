@@ -1,0 +1,32 @@
+{
+  "slug": "angel-food-dhaka",
+  "name": "Angel Food",
+  "city": "Dhaka",
+  "country": "Bangladesh",
+  "placeId": "ChIJe2ifbgDDVTcRbUKLsUstp1Y",
+  "googleName": "Cafe Angel Drop",
+  "formattedAddress": "V998+HR9, north metro station, Dhaka 1230, Bangladesh",
+  "phone": "01755-253380",
+  "website": "https://www.cafeangeldrop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6244009211496972909",
+  "rating": 4.4,
+  "reviewCount": 85,
+  "coords": [
+    23.8689371,
+    90.36710219999999
+  ],
+  "openingHours": [
+    "Monday: 11:30 AM – 11:30 PM",
+    "Tuesday: 11:30 AM – 11:30 PM",
+    "Wednesday: 11:30 AM – 11:30 PM",
+    "Thursday: 11:30 AM – 11:30 PM",
+    "Friday: 11:30 AM – 11:30 PM",
+    "Saturday: 11:30 AM – 11:30 PM",
+    "Sunday: 11:30 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/angel-food-dhaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:51:55.252Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pasteleria-riquipiqui-higuey",
+  "name": "Pasteleria Riquipiqui",
+  "city": "Higüey",
+  "country": "Dominican Republic",
+  "placeId": "ChIJi4QvXNyTqI4R93x7MyEfAmg",
+  "googleName": "Impricake",
+  "formattedAddress": "23000, Punta Cana 23000, Dominican Republic",
+  "phone": "(829) 610-0800",
+  "website": "https://www.instagram.com/impricake/?hl=es-la",
+  "googleMapsUrl": "https://maps.google.com/?cid=7494586957356039415",
+  "rating": 4.2,
+  "reviewCount": 5,
+  "coords": [
+    18.6095581,
+    -68.4106231
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 6:00 PM",
+    "Sunday: 11:00 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-riquipiqui-higuey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:58:12.143Z"
+}

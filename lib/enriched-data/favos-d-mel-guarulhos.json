@@ -1,0 +1,44 @@
+{
+  "slug": "favos-d-mel-guarulhos",
+  "name": "Favos D'Mel",
+  "curatedName": "Favos D'Mel",
+  "city": "Guarulhos",
+  "country": "Brazil",
+  "placeId": "ChIJ30l8naj1zpQRTyXu4TUfiBM",
+  "googleName": "Favos D'Mel",
+  "formattedAddress": "Av. Dr. Timóteo Penteado, 3640 - Vila Galvão, Guarulhos - SP, 07061-002, Brazil",
+  "phone": "(11) 2086-7500",
+  "internationalPhone": "+55 11 2086-7500",
+  "website": "https://mechamenozap.com.br/favosdmel/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1407409199837488463",
+  "rating": 4.4,
+  "reviewCount": 7052,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.4550032,
+    -46.55788889999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/favos-d-mel-guarulhos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:24.095Z"
+}

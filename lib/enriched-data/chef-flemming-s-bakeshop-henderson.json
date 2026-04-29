@@ -1,0 +1,43 @@
+{
+  "slug": "chef-flemming-s-bakeshop-henderson",
+  "name": "Chef Flemming's Bakeshop",
+  "curatedName": "Chef Flemming's Bakeshop",
+  "city": "Henderson",
+  "country": "United States",
+  "placeId": "ChIJ1WjrarrWyIARVH4JawCF4MM",
+  "googleName": "Chef Flemming's Bakeshop",
+  "formattedAddress": "7 S Water St # B, Henderson, NV 89015, USA",
+  "phone": "(702) 566-6500",
+  "internationalPhone": "+1 702-566-6500",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14114427469021412948",
+  "rating": 4.8,
+  "reviewCount": 579,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    36.035913,
+    -114.986019
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Snug, homey local bakery offering breads, cookies & more, plus custom-order cakes & cafe seating.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chef-flemming-s-bakeshop-henderson/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:10:22.658Z"
+}

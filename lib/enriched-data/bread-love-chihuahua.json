@@ -1,0 +1,43 @@
+{
+  "slug": "bread-love-chihuahua",
+  "name": "Bread&Love",
+  "curatedName": "Bread&Love",
+  "city": "Chihuahua",
+  "country": "Mexico",
+  "placeId": "ChIJe4_u0k5D6oYRsRcrUA4ajo0",
+  "googleName": "Bread&Love",
+  "formattedAddress": "Avenida Mirador, Rio de Janeiro &, Campestre II Etapa, Campestre-Lomas, 31213 Chihuahua, Chih., Mexico",
+  "phone": "614 104 6962",
+  "internationalPhone": "+52 614 104 6962",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10200118854817617841",
+  "rating": 4.6,
+  "reviewCount": 170,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    28.6436089,
+    -106.1119059
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:30 AM – 7:00 PM",
+    "Wednesday: 9:30 AM – 7:00 PM",
+    "Thursday: 9:30 AM – 7:00 PM",
+    "Friday: 9:30 AM – 7:00 PM",
+    "Saturday: 9:30 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-love-chihuahua/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:49.891Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "dess-art",
+  "name": "Dess Art",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJr9GumVS9akARXC9xg76CpOA",
+  "googleName": "Dess Art",
+  "formattedAddress": "7/10, Bagratuniats St, Yerevan, Armenia",
+  "phone": "041 880588",
+  "website": "https://www.facebook.com/Dess-Art-116717147694890",
+  "googleMapsUrl": "https://maps.google.com/?cid=16187206715437035356",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    40.1541079,
+    44.4799816
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dess-art/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:22:31.224Z"
+}

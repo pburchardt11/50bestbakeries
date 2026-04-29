@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-nona-cochabamba",
+  "name": "Panadería La Nona",
+  "city": "Cochabamba",
+  "country": "Bolivia",
+  "placeId": "ChIJlb9XUNB145MRt_LWD84Gk9s",
+  "googleName": "Panadería La Nona",
+  "formattedAddress": "JRQ7+5Q2, Cochabamba, Bolivia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15821997397981459127",
+  "rating": 4.1,
+  "reviewCount": 96,
+  "coords": [
+    -17.3621132,
+    -66.1856107
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-nona-cochabamba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:13:10.470Z"
+}

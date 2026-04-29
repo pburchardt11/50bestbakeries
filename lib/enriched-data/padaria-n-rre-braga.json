@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-n-rre-braga",
+  "name": "Padaria Nørre",
+  "curatedName": "Padaria Nørre",
+  "city": "Braga",
+  "country": "Portugal",
+  "placeId": "ChIJk9-1YJT_JA0R9tKSekUsIN0",
+  "googleName": "Padaria Nørre",
+  "formattedAddress": "R. do Alferes Alfredo Ferreira 71, 4700-304 Braga, Portugal",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.norre.pt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15933784158557623030",
+  "rating": 4.8,
+  "reviewCount": 227,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.5533817,
+    -8.4282819
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:30 AM – 6:00 PM",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-n-rre-braga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:54:40.164Z"
+}

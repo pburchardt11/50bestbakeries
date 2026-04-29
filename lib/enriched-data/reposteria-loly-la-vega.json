@@ -1,0 +1,32 @@
+{
+  "slug": "reposteria-loly-la-vega",
+  "name": "Reposteria Loly",
+  "city": "La Vega",
+  "country": "Dominican Republic",
+  "placeId": "ChIJQy4XXQAtsI4Ri0EqtJx5fTU",
+  "googleName": "Reposteria Loly",
+  "formattedAddress": "6F8C+CX5, Los Robles, La Vega 33, Dominican Republic",
+  "phone": "(809) 573-8212",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3854370570043539851",
+  "rating": 4.2,
+  "reviewCount": 15,
+  "coords": [
+    19.2160161,
+    -70.52750859999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/reposteria-loly-la-vega/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:59:05.983Z"
+}

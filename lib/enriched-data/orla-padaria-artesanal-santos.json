@@ -1,0 +1,43 @@
+{
+  "slug": "orla-padaria-artesanal-santos",
+  "name": "ORLA Padaria Artesanal",
+  "curatedName": "ORLA Padaria Artesanal",
+  "city": "Santos",
+  "country": "Brazil",
+  "placeId": "ChIJAQCM-wYDzpQRoDWaG4lR6_I",
+  "googleName": "ORLA Padaria Artesanal",
+  "formattedAddress": "R. Azevedo Sodré, 63 13 99658.6246 - Vila Rica, Santos - SP, 11055-050, Brazil",
+  "phone": "(13) 99658-6246",
+  "internationalPhone": "+55 13 99658-6246",
+  "website": "http://www.instagram.com/orla.padariaartesanal/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17504174026021025184",
+  "rating": 4.6,
+  "reviewCount": 160,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.9665268,
+    -46.3268065
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orla-padaria-artesanal-santos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:45.044Z"
+}

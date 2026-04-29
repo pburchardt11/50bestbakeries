@@ -1,0 +1,43 @@
+{
+  "slug": "croissant-croissant-bari",
+  "name": "Croissant Croissant",
+  "curatedName": "Croissant Croissant",
+  "city": "Bari",
+  "country": "Italy",
+  "placeId": "ChIJIREcUvXoRxMRMmOQyd1imVQ",
+  "googleName": "Croissant Croissant",
+  "formattedAddress": "Via Quintino Sella, 91, 70122 Bari BA, Italy",
+  "phone": "393 836 3172",
+  "internationalPhone": "+39 393 836 3172",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6096012275331654450",
+  "rating": 4.7,
+  "reviewCount": 338,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.1227751,
+    16.864214
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM, 6:30 PM – 2:00 AM",
+    "Tuesday: 8:00 AM – 2:00 PM, 6:30 PM – 2:00 AM",
+    "Wednesday: 8:00 AM – 2:00 PM, 6:30 PM – 2:00 AM",
+    "Thursday: 8:00 AM – 2:00 PM, 6:30 PM – 2:00 AM",
+    "Friday: 8:00 AM – 2:00 PM, 6:30 PM – 2:00 AM",
+    "Saturday: 8:00 AM – 2:00 PM, 6:30 PM – 2:00 AM",
+    "Sunday: 8:00 AM – 2:00 PM, 6:30 PM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/croissant-croissant-bari/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:41:36.683Z"
+}

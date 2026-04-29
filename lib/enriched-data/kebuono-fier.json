@@ -1,0 +1,32 @@
+{
+  "slug": "kebuono-fier",
+  "name": "KeBuono",
+  "city": "Fier",
+  "country": "Albania",
+  "placeId": "ChIJl5uC8PJTRRMR13Bt7ERcLEA",
+  "googleName": "KeBuono! Pastiçeri & Gelateria Sociale",
+  "formattedAddress": "PHG4+X7C, Rruga Jakov Mile, Fier, Albania",
+  "phone": null,
+  "website": "https://www.facebook.com/KeBuonoPasticeriSociale/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4624172368496783575",
+  "rating": 5,
+  "reviewCount": 8,
+  "coords": [
+    40.7274357,
+    19.5556359
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kebuono-fier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:14:24.838Z"
+}

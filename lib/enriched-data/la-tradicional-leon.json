@@ -1,0 +1,43 @@
+{
+  "slug": "la-tradicional-leon",
+  "name": "La Tradicional",
+  "curatedName": "La Tradicional",
+  "city": "León",
+  "country": "Mexico",
+  "placeId": "ChIJtSRjawq_K4QRmv7eeKCcq9M",
+  "googleName": "La Tradicional",
+  "formattedAddress": "Ignacio Altamirano 210-A, San Juan de Dios, 37000 León de los Aldama, Gto., Mexico",
+  "phone": "477 157 6291",
+  "internationalPhone": "+52 477 157 6291",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15252456776056897178",
+  "rating": 4.6,
+  "reviewCount": 1232,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.1180655,
+    -101.6799403
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-tradicional-leon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:53:18.327Z"
+}

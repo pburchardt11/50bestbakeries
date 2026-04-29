@@ -1,0 +1,32 @@
+{
+  "slug": "mini-pekara-donja-stubica",
+  "name": "Mini pekara Donja Stubica",
+  "city": "Donja Stubica",
+  "country": "Croatia",
+  "placeId": "ChIJB5BhA6jdZUcR5svvppX6v0w",
+  "googleName": "Mini pekara \"Donja Stubica\"",
+  "formattedAddress": "Golubovečka ul. 6, 49240, Donja Stubica, Croatia",
+  "phone": "091 898 7548",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5530414388092062694",
+  "rating": 4.5,
+  "reviewCount": 64,
+  "coords": [
+    45.9802174,
+    15.9740346
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 4:00 PM",
+    "Tuesday: 5:00 AM – 2:00 PM",
+    "Wednesday: 5:00 AM – 2:00 PM",
+    "Thursday: 5:00 AM – 2:00 PM",
+    "Friday: 5:00 AM – 2:00 PM",
+    "Saturday: 5:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mini-pekara-donja-stubica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:50:12.090Z"
+}

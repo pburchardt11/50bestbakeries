@@ -1,0 +1,32 @@
+{
+  "slug": "la-churreria-antiguo-cuscatlan",
+  "name": "La Churrería",
+  "city": "Antiguo Cuscatlán",
+  "country": "El Salvador",
+  "placeId": "ChIJcZrqK9ExY48RRMv88-5_HM0",
+  "googleName": "Original Spanish Churros",
+  "formattedAddress": "C. Cuscatlan Pte., El Salvador",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14779828741395499844",
+  "rating": 4.3,
+  "reviewCount": 32,
+  "coords": [
+    13.673023,
+    -89.24175369999999
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-churreria-antiguo-cuscatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:02:42.095Z"
+}

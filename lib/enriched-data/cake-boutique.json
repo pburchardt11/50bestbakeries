@@ -1,0 +1,32 @@
+{
+  "slug": "cake-boutique",
+  "name": "Cake Boutique",
+  "city": "المنامة",
+  "country": "Bahrain",
+  "placeId": "ChIJBZVKiHqlST4RS_mqU0nOieQ",
+  "googleName": "Cake Boutique",
+  "formattedAddress": "Building 2050 Rd No 2825, Seef, Bahrain",
+  "phone": "1755 2253",
+  "website": "http://www.cakeboutiquebh.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16467920326788577611",
+  "rating": 4.1,
+  "reviewCount": 232,
+  "coords": [
+    26.2334019,
+    50.5390191
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-boutique/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:48:54.710Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "pie-face",
+  "name": "Pie Face",
+  "curatedName": "Pie Face",
+  "city": "京都市下京区",
+  "country": "Japan",
+  "placeId": "ChIJTYyF864IAWAR6dZmJG6n0KE",
+  "googleName": "Pie Face",
+  "formattedAddress": "Japan, 〒600-8216 Kyoto, Shimogyo Ward, Higashishiokōjichō, 2F 京都府京都市下京区烏丸通塩小路下る 東塩小路町901（JR京都駅ビル2F）",
+  "phone": "075-365-3326",
+  "internationalPhone": "+81 75-365-3326",
+  "website": "http://www.duskin.co.jp/service/pieface/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11660003526761174761",
+  "rating": 3.9,
+  "reviewCount": 40,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    34.9859241,
+    135.7585389
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pie-face/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:22:20.766Z"
+}

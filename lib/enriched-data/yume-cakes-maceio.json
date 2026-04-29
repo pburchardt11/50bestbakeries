@@ -1,0 +1,43 @@
+{
+  "slug": "yume-cakes-maceio",
+  "name": "Yume Cakes",
+  "curatedName": "Yume Cakes",
+  "city": "Maceió",
+  "country": "Brazil",
+  "placeId": "ChIJf4QK0g1FAQcRfw5BYVL6ezI",
+  "googleName": "Yume Cakes",
+  "formattedAddress": "Av. Luiz Ramalho de Castro, 525 - Jatiúca, Maceió - AL, 57036-380, Brazil",
+  "phone": "(82) 99614-3700",
+  "internationalPhone": "+55 82 99614-3700",
+  "website": "https://www.instagram.com/yume.cakes/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3637776355757723263",
+  "rating": 4.6,
+  "reviewCount": 217,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -9.649973899999999,
+    -35.7058515
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 1:00 – 9:00 PM",
+    "Wednesday: 1:30 – 9:00 PM",
+    "Thursday: 1:00 – 9:00 PM",
+    "Friday: 1:00 – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yume-cakes-maceio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:41.592Z"
+}

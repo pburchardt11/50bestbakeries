@@ -1,0 +1,32 @@
+{
+  "slug": "bakezavod",
+  "name": "BakeZavod",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJ8SvYGZ_F20YRuU3HZjGchH4",
+  "googleName": "Bake zavod",
+  "formattedAddress": "vulica Navavilienskaja 27, Minsk, Minskaja voblasć 220053, Belarus",
+  "phone": "8 029 178-00-55",
+  "website": "https://www.instagram.com/bakezavod/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9116583281696394681",
+  "rating": 4,
+  "reviewCount": 13,
+  "coords": [
+    53.9339549,
+    27.5357528
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:00 PM",
+    "Tuesday: 8:30 AM – 10:00 PM",
+    "Wednesday: 8:30 AM – 10:00 PM",
+    "Thursday: 8:30 AM – 10:00 PM",
+    "Friday: 8:30 AM – 10:00 PM",
+    "Saturday: 8:30 AM – 10:00 PM",
+    "Sunday: 8:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakezavod/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:02:50.348Z"
+}

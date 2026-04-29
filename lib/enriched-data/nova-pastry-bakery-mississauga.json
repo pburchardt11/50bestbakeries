@@ -1,0 +1,43 @@
+{
+  "slug": "nova-pastry-bakery-mississauga",
+  "name": "Nova Pastry & Bakery",
+  "curatedName": "Nova Pastry & Bakery",
+  "city": "Mississauga",
+  "country": "Canada",
+  "placeId": "ChIJ5wXPnW1HK4gR6kb7GCso51g",
+  "googleName": "Nova Pastry & Bakery",
+  "formattedAddress": "3635 Cawthra Rd, Mississauga, ON L5A 2Y5, Canada",
+  "phone": "(905) 279-3206",
+  "internationalPhone": "+1 905-279-3206",
+  "website": "http://www.novabakery.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6406133160525645546",
+  "rating": 4.4,
+  "reviewCount": 1583,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6076068,
+    -79.61714409999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Down-to-earth bakery & small market with outdoor tables selling Portuguese breads & pastries.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nova-pastry-bakery-mississauga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:26:28.057Z"
+}

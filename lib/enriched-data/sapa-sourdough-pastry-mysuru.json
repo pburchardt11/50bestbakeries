@@ -1,0 +1,43 @@
+{
+  "slug": "sapa-sourdough-pastry-mysuru",
+  "name": "SAPA sourdough & pastry",
+  "curatedName": "SAPA sourdough & pastry",
+  "city": "Mysuru",
+  "country": "India",
+  "placeId": "ChIJZaSncnB7rzsRr0vTHBjxYcA",
+  "googleName": "SAPA Sourdough & Pastry",
+  "formattedAddress": "3037, 1st Main Rd, Gokulam 1st Stage, Gokulam, Mysuru, Karnataka 570002, India",
+  "phone": "063605 71579",
+  "internationalPhone": "+91 63605 71579",
+  "website": "https://www.sapabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13862626213888215983",
+  "rating": 4,
+  "reviewCount": 4873,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    12.3280716,
+    76.6315719
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 8:30 PM",
+    "Wednesday: 9:00 AM – 8:30 PM",
+    "Thursday: 9:00 AM – 8:30 PM",
+    "Friday: 9:00 AM – 8:30 PM",
+    "Saturday: 9:00 AM – 8:30 PM",
+    "Sunday: 9:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": "Cosy, charming bakery with outdoor seating offering handcrafted bread, pastries & desserts.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sapa-sourdough-pastry-mysuru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:50:54.389Z"
+}

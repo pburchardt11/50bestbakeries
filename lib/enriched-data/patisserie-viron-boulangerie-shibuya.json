@@ -1,0 +1,43 @@
+{
+  "slug": "patisserie-viron-boulangerie-shibuya",
+  "name": "Patisserie VIRON Boulangerie Shibuya",
+  "curatedName": "Patisserie VIRON Boulangerie Shibuya",
+  "city": "渋谷区",
+  "country": "Japan",
+  "placeId": "ChIJu1WnAAWNGGARGO-gOQGUK6o",
+  "googleName": "Patisserie VIRON Boulangerie Shibuya",
+  "formattedAddress": "Japan, 〒150-0042 Tokyo, Shibuya, Udagawachō, 33−８ １F",
+  "phone": "03-5458-1770",
+  "internationalPhone": "+81 3-5458-1770",
+  "website": "https://www.instagram.com/viron_shibuya",
+  "googleMapsUrl": "https://maps.google.com/?cid=12262057143429033752",
+  "rating": 4.2,
+  "reviewCount": 218,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    35.6608763,
+    139.6967766
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-viron-boulangerie-shibuya/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:24.688Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "aux-merveilleux-de-fred-toronto",
+  "name": "Aux Merveilleux de Fred",
+  "curatedName": "Aux Merveilleux de Fred",
+  "city": "Toronto",
+  "country": "Canada",
+  "placeId": "ChIJyWVuP941K4gRmQJrMfbO4dM",
+  "googleName": "Aux Merveilleux de Fred",
+  "formattedAddress": "224 Queen St W, Toronto, ON M5V 1Z6, Canada",
+  "phone": "(647) 812-5982",
+  "internationalPhone": "+1 647-812-5982",
+  "website": "http://www.marvelousbyfred.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15267711768549065369",
+  "rating": 4.6,
+  "reviewCount": 1576,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6503179,
+    -79.3899258
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 8:00 AM – 7:30 PM",
+    "Sunday: 8:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aux-merveilleux-de-fred-toronto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:16.380Z"
+}

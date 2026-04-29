@@ -1,0 +1,43 @@
+{
+  "slug": "la-bonne-baguette-azcapotzalco",
+  "name": "La Bonne Baguette",
+  "curatedName": "La Bonne Baguette",
+  "city": "Azcapotzalco",
+  "country": "Mexico",
+  "placeId": "ChIJKwUJinL50YUROCIT1FgH4-M",
+  "googleName": "La Bonne Baguette",
+  "formattedAddress": "Ignacio Allende 222, Claveria, Azcapotzalco, 02080 Ciudad de México, CDMX, Mexico",
+  "phone": "55 9039 8152",
+  "internationalPhone": "+52 55 9039 8152",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16420976744419500600",
+  "rating": 4.7,
+  "reviewCount": 103,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4669229,
+    -99.1792287
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-bonne-baguette-azcapotzalco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:48:32.952Z"
+}

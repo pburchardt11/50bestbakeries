@@ -1,0 +1,43 @@
+{
+  "slug": "cerea-artisan-bakery-torino",
+  "name": "Cerea Artisan Bakery",
+  "curatedName": "Cerea Artisan Bakery",
+  "city": "Torino",
+  "country": "Italy",
+  "placeId": "ChIJ9yA67WVtiEcRxLuRV5wAlow",
+  "googleName": "Cerea Artisan Bakery",
+  "formattedAddress": "Via Giuseppe Barbaroux, 8, 10122 Torino TO, Italy",
+  "phone": "351 719 4846",
+  "internationalPhone": "+39 351 719 4846",
+  "website": "https://www.cereaartisanbakery.it/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10130285083300576196",
+  "rating": 4.7,
+  "reviewCount": 278,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.0711392,
+    7.682908999999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cerea-artisan-bakery-torino/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:51:45.161Z"
+}

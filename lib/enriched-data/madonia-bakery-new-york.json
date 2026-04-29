@@ -1,0 +1,43 @@
+{
+  "slug": "madonia-bakery-new-york",
+  "name": "Madonia Bakery",
+  "curatedName": "Madonia Bakery",
+  "city": "New York",
+  "country": "United States",
+  "placeId": "ChIJ0amSWof0wokRDOH_B8GxbYM",
+  "googleName": "Madonia Bakery",
+  "formattedAddress": "2348 Arthur Ave, Bronx, NY 10458, USA",
+  "phone": "(718) 295-5573",
+  "internationalPhone": "+1 718-295-5573",
+  "website": "http://www.madoniabakery.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9470421034051035404",
+  "rating": 4.6,
+  "reviewCount": 385,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    40.8543424,
+    -73.8882829
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "Snug, old-school Italian bakeshop offering traditional & savory breads, cookies & cannoli.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/madonia-bakery-new-york/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:15:42.827Z"
+}

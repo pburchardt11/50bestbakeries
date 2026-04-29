@@ -1,0 +1,43 @@
+{
+  "slug": "wonder-bakery-solo-surakarta",
+  "name": "Wonder Bakery Solo",
+  "curatedName": "Wonder Bakery Solo",
+  "city": "Surakarta",
+  "country": "Indonesia",
+  "placeId": "ChIJFzXhB4YWei4RWIxk9lrDtq0",
+  "googleName": "Wonder Bakery Solo",
+  "formattedAddress": "Jl. Gajahmada No.132 A, Ketelan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57132, Indonesia",
+  "phone": "0811-3111-385",
+  "internationalPhone": "+62 811-3111-385",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12517407009771129944",
+  "rating": 4.6,
+  "reviewCount": 5351,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -7.561150899999999,
+    110.8196281
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:30 PM",
+    "Sunday: 7:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wonder-bakery-solo-surakarta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:52.780Z"
+}

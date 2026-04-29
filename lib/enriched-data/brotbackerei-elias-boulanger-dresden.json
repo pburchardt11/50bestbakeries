@@ -1,0 +1,44 @@
+{
+  "slug": "brotbackerei-elias-boulanger-dresden",
+  "name": "Brotbäckerei Elias Boulanger",
+  "curatedName": "Brotbäckerei Elias Boulanger",
+  "city": "Dresden",
+  "country": "Germany",
+  "placeId": "ChIJFdjInK3PCUcRVX6hz3N7JDg",
+  "googleName": "Brotbäckerei Elias Boulanger",
+  "formattedAddress": "An d. Dreikönigskirche 5, 01097 Dresden, Germany",
+  "phone": "0351 81068352",
+  "internationalPhone": "+49 351 81068352",
+  "website": "http://www.eliasboulanger.de/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4045494102620470869",
+  "rating": 4.5,
+  "reviewCount": 183,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.0608623,
+    13.7426814
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brotbackerei-elias-boulanger-dresden/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:21.679Z"
+}

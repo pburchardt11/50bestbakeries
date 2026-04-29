@@ -1,0 +1,43 @@
+{
+  "slug": "kuwa-bakery-marikina",
+  "name": "Kuwa Bakery",
+  "curatedName": "Kuwa Bakery",
+  "city": "Marikina",
+  "country": "Philippines",
+  "placeId": "ChIJffTKksK5lzMRrN0LKFtTCVY",
+  "googleName": "Kuwa Bakery",
+  "formattedAddress": "44 Lilac St, Marikina, 1811 Metro Manila, Philippines",
+  "phone": "0954 472 4067",
+  "internationalPhone": "+63 954 472 4067",
+  "website": "https://www.kuwabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6199578013031194028",
+  "rating": 4.7,
+  "reviewCount": 36,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.6427534,
+    121.1220659
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kuwa-bakery-marikina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:58:03.559Z"
+}

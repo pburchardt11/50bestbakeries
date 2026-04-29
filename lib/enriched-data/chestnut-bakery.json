@@ -1,0 +1,43 @@
+{
+  "slug": "chestnut-bakery",
+  "name": "Chestnut Bakery",
+  "curatedName": "Chestnut Bakery",
+  "city": "الرياض",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJvSrR46HjLj4RKR9uNrn7vgE",
+  "googleName": "Chestnut Bakery",
+  "formattedAddress": "3213 As Safarjal, 7993, Riyadh 12364, Saudi Arabia",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/chestnut.sa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=125814612513660713",
+  "rating": 4.4,
+  "reviewCount": 5563,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    24.7386547,
+    46.6459765
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chestnut-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:06.583Z"
+}

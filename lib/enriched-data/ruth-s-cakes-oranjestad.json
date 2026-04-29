@@ -1,0 +1,32 @@
+{
+  "slug": "ruth-s-cakes-oranjestad",
+  "name": "Ruth's Cakes",
+  "city": "Oranjestad",
+  "country": "Aruba",
+  "placeId": "ChIJSR3qkec4hY4RF7gcjGnEtSI",
+  "googleName": "Ruth’s Cakes Aruba",
+  "formattedAddress": "GX4H+7G6, Watty Vos Blvd, Oranjestad, Aruba",
+  "phone": "562 2389",
+  "website": "https://www.facebook.com/RuthsCakeAruba/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2501121125675481111",
+  "rating": 4.5,
+  "reviewCount": 51,
+  "coords": [
+    12.5056615,
+    -70.0212459
+  ],
+  "openingHours": [
+    "Monday: 2:00 – 6:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ruth-s-cakes-oranjestad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:30:07.690Z"
+}

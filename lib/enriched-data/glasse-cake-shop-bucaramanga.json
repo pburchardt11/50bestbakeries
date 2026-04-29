@@ -1,0 +1,43 @@
+{
+  "slug": "glasse-cake-shop-bucaramanga",
+  "name": "Glassé Cake Shop",
+  "curatedName": "Glassé Cake Shop",
+  "city": "Bucaramanga",
+  "country": "Colombia",
+  "placeId": "ChIJFzu34N0_aI4Rar908GAnPMk",
+  "googleName": "Glassé Cake Shop",
+  "formattedAddress": "Cra 29 #49-10, Sotomayor, Bucaramanga, Santander, Colombia",
+  "phone": "316 3136784",
+  "internationalPhone": "+57 316 3136784",
+  "website": "https://www.glassepasteleria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14500508197530681194",
+  "rating": 4.9,
+  "reviewCount": 621,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    7.1152701,
+    -73.11276219999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 6:00 PM",
+    "Sunday: 9:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/glasse-cake-shop-bucaramanga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:50.368Z"
+}

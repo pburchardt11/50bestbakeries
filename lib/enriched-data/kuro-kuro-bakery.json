@@ -1,0 +1,43 @@
+{
+  "slug": "kuro-kuro-bakery",
+  "name": "Kuro Kuro Bakery",
+  "curatedName": "Kuro Kuro Bakery",
+  "city": "高雄市",
+  "country": "Taiwan",
+  "placeId": "ChIJPVXeMZ0FbjQR5ITX4m-s5tw",
+  "googleName": "Kuro Kuro bakery",
+  "formattedAddress": "No. 169號, Suiyuan 1st St, Sanmin District, Kaohsiung City, Taiwan 80756",
+  "phone": "07 322 8396",
+  "internationalPhone": "+886 7 322 8396",
+  "website": "https://m.facebook.com/KuroKuroBakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15917599529534719204",
+  "rating": 4.8,
+  "reviewCount": 238,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.6488036,
+    120.3038951
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kuro-kuro-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:01:12.271Z"
+}

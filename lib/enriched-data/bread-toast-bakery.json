@@ -1,0 +1,32 @@
+{
+  "slug": "bread-toast-bakery",
+  "name": "Bread Toast bakery",
+  "city": "البديع",
+  "country": "Bahrain",
+  "placeId": "ChIJ_cTM1my6ST4RcvPTxOUy47I",
+  "googleName": "Bread Toast bakery",
+  "formattedAddress": "53, Budaiya 973, Bahrain",
+  "phone": "1769 9719",
+  "website": "https://www.breadtoast-bh.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12890202520895615858",
+  "rating": 4.2,
+  "reviewCount": 363,
+  "coords": [
+    26.2073993,
+    50.4520256
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-toast-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:45:48.161Z"
+}

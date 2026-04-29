@@ -1,0 +1,32 @@
+{
+  "slug": "pasteleria-mariluz-aserri",
+  "name": "Pastelería Mariluz",
+  "city": "Aserri",
+  "country": "Costa Rica",
+  "placeId": "ChIJdePxMa7ioI8R1JV0orh8a4I",
+  "googleName": "Pastelería Mariluz",
+  "formattedAddress": "San José Province, Aserri, Costa Rica",
+  "phone": "2230 5860",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9397742179880048084",
+  "rating": 4.8,
+  "reviewCount": 57,
+  "coords": [
+    9.860701899999999,
+    -84.09367449999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-mariluz-aserri/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:48:29.829Z"
+}

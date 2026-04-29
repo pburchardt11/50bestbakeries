@@ -1,0 +1,32 @@
+{
+  "slug": "ii-sofia",
+  "name": "II",
+  "city": "Sofia",
+  "country": "Bulgaria",
+  "placeId": "ChIJW-aQ_XCFqkAR-Jp0kkiUOPQ",
+  "googleName": "St. Sofia Church",
+  "formattedAddress": "Old City Center, ul. \"Paris\" 2, 1000 Sofia, Bulgaria",
+  "phone": "02 987 0971",
+  "website": "http://www.hramsvetasofia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17597978583365884664",
+  "rating": 4.7,
+  "reviewCount": 3832,
+  "coords": [
+    42.6965874,
+    23.3313339
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": "6th-century Byzantine church with a largely brick interior, paintings & an underground crypt.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ii-sofia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:23:16.825Z"
+}

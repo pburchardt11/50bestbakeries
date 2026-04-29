@@ -1,0 +1,35 @@
+{
+  "slug": "loaf-fleet",
+  "name": "Loaf",
+  "curatedName": "Loaf",
+  "city": "Fleet",
+  "country": "United Kingdom",
+  "placeId": "ChIJ____huArdEgR1FkQTRsAM4M",
+  "googleName": "Loaf Bakery, Fleet",
+  "formattedAddress": "1, Hart Shopping Centre, Fleet GU51 3LA, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.loafbakery.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9453900160037837268",
+  "rating": 4.3,
+  "reviewCount": 55,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    51.2805749,
+    -0.8426828
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/loaf-fleet/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:24:27.122Z"
+}

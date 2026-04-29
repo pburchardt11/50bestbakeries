@@ -1,0 +1,43 @@
+{
+  "slug": "nostri-sapori-cordoba",
+  "name": "Nostri Sapori",
+  "curatedName": "Nostri Sapori",
+  "city": "Córdoba",
+  "country": "Argentina",
+  "placeId": "ChIJpbbTocGiMpQRxt4UqyN4PgI",
+  "googleName": "NOSTRI SAPORI",
+  "formattedAddress": "Valencia 1307, X5014AZA Córdoba, Argentina",
+  "phone": "0351 654-7270",
+  "internationalPhone": "+54 351 654-7270",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=161698731221376710",
+  "rating": 4.6,
+  "reviewCount": 2628,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -31.43418669999999,
+    -64.16852519999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Tuesday: 7:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Wednesday: 7:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Thursday: 7:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Friday: 7:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Saturday: 8:00 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Sunday: 8:00 AM – 1:30 PM, 4:30 – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nostri-sapori-cordoba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:11:34.627Z"
+}

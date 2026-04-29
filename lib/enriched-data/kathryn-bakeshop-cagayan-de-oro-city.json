@@ -1,0 +1,43 @@
+{
+  "slug": "kathryn-bakeshop-cagayan-de-oro-city",
+  "name": "Kathryn Bakeshop",
+  "curatedName": "Kathryn Bakeshop",
+  "city": "Cagayan de Oro City",
+  "country": "Philippines",
+  "placeId": "ChIJtcvQ9NDy_zIRcmZcl3ry3FY",
+  "googleName": "Kathryn Bakeshop",
+  "formattedAddress": "FJHV+452 R.N Abejuela, Divisoria Arcade, Rizal St, Cagayan De Oro City, 9000 Misamis Oriental, Philippines",
+  "phone": "0917 724 9176",
+  "internationalPhone": "+63 917 724 9176",
+  "website": "https://www.facebook.com/kathrynbakeshop1989/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6259144190477493874",
+  "rating": 4.2,
+  "reviewCount": 60,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    8.477778599999999,
+    124.6428645
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kathryn-bakeshop-cagayan-de-oro-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:52:49.860Z"
+}

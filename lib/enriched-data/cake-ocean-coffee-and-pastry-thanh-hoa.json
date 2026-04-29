@@ -1,0 +1,44 @@
+{
+  "slug": "cake-ocean-coffee-and-pastry-thanh-hoa",
+  "name": "Cake Ocean Coffee and Pastry",
+  "curatedName": "Cake Ocean Coffee and Pastry",
+  "city": "Thanh Hóa",
+  "country": "Vietnam",
+  "placeId": "ChIJQdLbjRxXNjERspmMLCvBJ_Q",
+  "googleName": "Cake Ocean Coffee and Pastry",
+  "formattedAddress": "01 Trịnh Tùng, P. Ngọc Trang, Hạc Thành, Thanh Hóa 441430, Vietnam",
+  "phone": "0932 379 094",
+  "internationalPhone": "+84 932 379 094",
+  "website": "https://cakeocean.vn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17593242860521298354",
+  "rating": 4.6,
+  "reviewCount": 37,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.7969527,
+    105.7842709
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-ocean-coffee-and-pastry-thanh-hoa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:10:51.662Z"
+}

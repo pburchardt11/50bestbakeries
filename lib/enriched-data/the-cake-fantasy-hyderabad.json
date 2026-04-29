@@ -1,0 +1,35 @@
+{
+  "slug": "the-cake-fantasy-hyderabad",
+  "name": "The Cake Fantasy",
+  "curatedName": "The Cake Fantasy",
+  "city": "Hyderabad",
+  "country": "India",
+  "placeId": "ChIJOeVG2EmTyzsRi07K6odQnWs",
+  "googleName": "The Cake Fantasy (HOMEBAKER)",
+  "formattedAddress": "Nallagandla, Telangana 500046, India",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.facebook.com/The-Cake-Fantasy-116640486797475/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7754442678091796107",
+  "rating": 4.5,
+  "reviewCount": 8,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "CLOSED_TEMPORARILY",
+  "coords": [
+    17.4695055,
+    78.31270339999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-fantasy-hyderabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:38:27.012Z"
+}

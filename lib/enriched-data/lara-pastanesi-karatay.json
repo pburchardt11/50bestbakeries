@@ -1,0 +1,45 @@
+{
+  "slug": "lara-pastanesi-karatay",
+  "name": "Lara Pastanesi",
+  "curatedName": "Lara Pastanesi",
+  "city": "Karatay",
+  "country": "Türkiye",
+  "placeId": "ChIJt4VjeWOF0BQReMsxY3wsHV8",
+  "googleName": "Lara Pastanesi",
+  "formattedAddress": "Araplar, Beyman Sultan Sk. No:5/C, 42050 Karatay/Konya, Türkiye",
+  "phone": "(0332) 235 58 18",
+  "internationalPhone": "+90 332 235 58 18",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6853683120679537528",
+  "rating": 4.3,
+  "reviewCount": 613,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.893563,
+    32.5055424
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:30 PM",
+    "Tuesday: 7:00 AM – 11:30 PM",
+    "Wednesday: 7:00 AM – 11:30 PM",
+    "Thursday: 7:00 AM – 11:30 PM",
+    "Friday: 7:00 AM – 11:30 PM",
+    "Saturday: 7:00 AM – 11:30 PM",
+    "Sunday: 7:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lara-pastanesi-karatay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:02:50.172Z"
+}

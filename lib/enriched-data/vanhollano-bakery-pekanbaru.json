@@ -1,0 +1,43 @@
+{
+  "slug": "vanhollano-bakery-pekanbaru",
+  "name": "Vanhollano Bakery",
+  "curatedName": "Vanhollano Bakery",
+  "city": "Pekanbaru",
+  "country": "Indonesia",
+  "placeId": "ChIJ9yKdqr2u1TERt_py7YA5ucE",
+  "googleName": "Vanhollano Bakery",
+  "formattedAddress": "Jl. Jend. Sudirman No.405-409, Cinta Raja, Kec. Sail, Kota Pekanbaru, Riau 28126, Indonesia",
+  "phone": "0811-7686-470",
+  "internationalPhone": "+62 811-7686-470",
+  "website": "https://jnp-g.com/brand/4/vanhollano-bakery-and-cafe",
+  "googleMapsUrl": "https://maps.google.com/?cid=13959251745913895607",
+  "rating": 4.6,
+  "reviewCount": 448,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    0.5038026,
+    101.4539629
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vanhollano-bakery-pekanbaru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:04.382Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "paul-bakery-bak",
+  "name": "Paul Bakery",
+  "city": "Bakı",
+  "country": "Azerbaijan",
+  "placeId": "ChIJR7ijAwF9MEARBaF6T53wgSY",
+  "googleName": "Paul Bakery",
+  "formattedAddress": "9VG6+98H, Baku, Azerbaijan",
+  "phone": "(012) 464 07 70",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2774763403870904581",
+  "rating": 4.3,
+  "reviewCount": 328,
+  "coords": [
+    40.3759332,
+    49.8608625
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-bakery-bak/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:38:24.781Z"
+}

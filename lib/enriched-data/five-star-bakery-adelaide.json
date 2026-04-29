@@ -1,0 +1,43 @@
+{
+  "slug": "five-star-bakery-adelaide",
+  "name": "Five Star Bakery",
+  "curatedName": "Five Star Bakery",
+  "city": "Adelaide",
+  "country": "Australia",
+  "placeId": "ChIJ99KGJ9HOsGoRTDATNKTk9kk",
+  "googleName": "Five Star Bakery",
+  "formattedAddress": "61 Hyde St, Adelaide SA 5000, Australia",
+  "phone": "(08) 8223 2877",
+  "internationalPhone": "+61 8 8223 2877",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5329698602939002956",
+  "rating": 4.8,
+  "reviewCount": 48,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -34.9262902,
+    138.6045322
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/five-star-bakery-adelaide/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:51.523Z"
+}

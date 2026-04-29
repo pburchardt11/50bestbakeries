@@ -1,0 +1,43 @@
+{
+  "slug": "padaria-mundo-novo-em-franca",
+  "name": "Padaria Mundo Novo em Franca",
+  "curatedName": "Padaria Mundo Novo em Franca",
+  "city": "Franca",
+  "country": "Brazil",
+  "placeId": "ChIJiVxsIqupsJQR18Gt_Acfpy4",
+  "googleName": "Padaria Mundo Novo em Franca",
+  "formattedAddress": "R. Leonardo de Souza Ângelo, 2701 - Parque Mundo Novo, Franca - SP, 14404-005, Brazil",
+  "phone": "(16) 3701-9851",
+  "internationalPhone": "+55 16 3701-9851",
+  "website": "https://www.instagram.com/mundonovo_padaria/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3361689766019842519",
+  "rating": 4.7,
+  "reviewCount": 333,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.5738589,
+    -47.3883123
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-mundo-novo-em-franca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:23:29.591Z"
+}

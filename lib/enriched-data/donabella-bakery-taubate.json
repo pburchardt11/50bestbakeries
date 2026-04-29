@@ -1,0 +1,44 @@
+{
+  "slug": "donabella-bakery-taubate",
+  "name": "DonaBella Bakery",
+  "curatedName": "DonaBella Bakery",
+  "city": "Taubaté",
+  "country": "Brazil",
+  "placeId": "ChIJb5aH6P74zJQRzgMj_hl9EGk",
+  "googleName": "DonaBella Bakery",
+  "formattedAddress": "Praça Félix Guisard, 229 - Praça da CTI, Taubaté - SP, 12020-350, Brazil",
+  "phone": "(12) 99179-5288",
+  "internationalPhone": "+55 12 99179-5288",
+  "website": "https://www.instagram.com/donabellataubate?igsh=NWdrYjNiNjNwbW01",
+  "googleMapsUrl": "https://maps.google.com/?cid=7570688524201165774",
+  "rating": 4.3,
+  "reviewCount": 3225,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.0255556,
+    -45.5663889
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/donabella-bakery-taubate/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:45.093Z"
+}

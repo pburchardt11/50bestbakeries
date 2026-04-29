@@ -1,0 +1,43 @@
+{
+  "slug": "la-bakery-by-deia-marseille",
+  "name": "La Bakery by Deïa",
+  "curatedName": "La Bakery by Deïa",
+  "city": "Marseille",
+  "country": "France",
+  "placeId": "ChIJR32QeOTByRIRHLXm6QTns08",
+  "googleName": "La Bakery by Deïa",
+  "formattedAddress": "5 Rue Saint-Saëns, 13001 Marseille, France",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/labakery.deia?igsh=MXN4OHdzOGN2OTB5MQ%3D%3D&utm_source=qr",
+  "googleMapsUrl": "https://maps.google.com/?cid=5743187958117610780",
+  "rating": 4.9,
+  "reviewCount": 417,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.2939213,
+    5.3761455
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-bakery-by-deia-marseille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:39.450Z"
+}

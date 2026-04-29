@@ -1,0 +1,44 @@
+{
+  "slug": "pao-do-cambui-bakery-campinas",
+  "name": "Pão do Cambuí Bakery",
+  "curatedName": "Pão do Cambuí Bakery",
+  "city": "Campinas",
+  "country": "Brazil",
+  "placeId": "ChIJZdmlf0jPyJQRPSPWtICeJoo",
+  "googleName": "Pão do Cambuí Bakery",
+  "formattedAddress": "R. Dr. Emílio Ribas, 70 - Cambuí, Campinas - SP, 13025-190, Brazil",
+  "phone": "(19) 3252-3224",
+  "internationalPhone": "+55 19 3252-3224",
+  "website": "https://www.paodocambui.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9954818301975995197",
+  "rating": 4.5,
+  "reviewCount": 7207,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.9036935,
+    -47.0488447
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 10:00 PM",
+    "Tuesday: 5:30 AM – 10:00 PM",
+    "Wednesday: 5:30 AM – 10:00 PM",
+    "Thursday: 5:30 AM – 10:00 PM",
+    "Friday: 5:30 AM – 11:00 PM",
+    "Saturday: 5:30 AM – 11:00 PM",
+    "Sunday: 5:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Gateaux, tarts & bread in a long-established bakery, plus a cafe with European dishes & desserts.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pao-do-cambui-bakery-campinas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:34.753Z"
+}

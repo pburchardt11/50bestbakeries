@@ -1,0 +1,43 @@
+{
+  "slug": "le-croissanti-patisserie-seyhan",
+  "name": "Le Croissanti Patisserie",
+  "curatedName": "Le Croissanti Patisserie",
+  "city": "Seyhan",
+  "country": "Türkiye",
+  "placeId": "ChIJr8xNieyJKBURJoLkKr5R8_c",
+  "googleName": "Le Croissanti Patisserie",
+  "formattedAddress": "Gürselpaşa, 75334. Sk. Üçgül Cadde İş Merkezi No:3 C1 Blok, 01100 Seyhan/Adana, Türkiye",
+  "phone": "0530 844 84 01",
+  "internationalPhone": "+90 530 844 84 01",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17866714023914144294",
+  "rating": 4.4,
+  "reviewCount": 55,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.0219101,
+    35.2610125
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 11:00 PM",
+    "Tuesday: 12:00 – 11:00 PM",
+    "Wednesday: 12:00 – 11:00 PM",
+    "Thursday: 12:00 – 11:00 PM",
+    "Friday: 12:00 – 11:00 PM",
+    "Saturday: 12:00 – 11:00 PM",
+    "Sunday: 12:00 – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-croissanti-patisserie-seyhan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:02:00.182Z"
+}

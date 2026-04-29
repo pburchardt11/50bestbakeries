@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-copacabana-bauru",
+  "name": "Padaria Copacabana",
+  "curatedName": "Padaria Copacabana",
+  "city": "Bauru",
+  "country": "Brazil",
+  "placeId": "ChIJ-UqISaZnv5QRU6FKc6_Kg-4",
+  "googleName": "Padaria Copacabana",
+  "formattedAddress": "R. Rio Branco, 15-28 - Centro, Bauru - SP, 17015-311, Brazil",
+  "phone": "(14) 3214-1400",
+  "internationalPhone": "+55 14 3214-1400",
+  "website": "http://www.padariacopacabana.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17186803457878303059",
+  "rating": 4.6,
+  "reviewCount": 4124,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.3286893,
+    -49.0704396
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:30 PM",
+    "Tuesday: 6:30 AM – 8:30 PM",
+    "Wednesday: 6:30 AM – 8:30 PM",
+    "Thursday: 6:30 AM – 8:30 PM",
+    "Friday: 6:30 AM – 8:30 PM",
+    "Saturday: 6:30 AM – 8:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-copacabana-bauru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:20:11.582Z"
+}

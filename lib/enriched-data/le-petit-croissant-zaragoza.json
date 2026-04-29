@@ -1,0 +1,44 @@
+{
+  "slug": "le-petit-croissant-zaragoza",
+  "name": "Le Petit Croissant",
+  "curatedName": "Le Petit Croissant",
+  "city": "Zaragoza",
+  "country": "Spain",
+  "placeId": "ChIJhc2h7sIUWQ0RPGZ5dx7TtOM",
+  "googleName": "Le Petit Croissant",
+  "formattedAddress": "C. de Hernán Cortés, 3, 50004 Zaragoza, Spain",
+  "phone": "976 23 05 41",
+  "internationalPhone": "+34 976 23 05 41",
+  "website": "http://www.lepetitcroissant.es/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16407971470224483900",
+  "rating": 4.6,
+  "reviewCount": 507,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.6492971,
+    -0.8880435999999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-petit-croissant-zaragoza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:50.938Z"
+}

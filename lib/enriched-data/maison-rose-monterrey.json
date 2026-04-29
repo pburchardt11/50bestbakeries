@@ -1,0 +1,43 @@
+{
+  "slug": "maison-rose-monterrey",
+  "name": "Maison Rose",
+  "curatedName": "Maison Rose",
+  "city": "Monterrey",
+  "country": "Mexico",
+  "placeId": "ChIJMXQgtYiXYoYRMctB8QU-8YA",
+  "googleName": "Maison Rose",
+  "formattedAddress": "Av. Anillo Periferico 1604, San Jeronimo, 64635 Monterrey, N.L., Mexico",
+  "phone": "81 8690 7188",
+  "internationalPhone": "+52 81 8690 7188",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9291275701485423409",
+  "rating": 4.9,
+  "reviewCount": 91,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.6913951,
+    -100.3778211
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: 10:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-rose-monterrey/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:56.778Z"
+}

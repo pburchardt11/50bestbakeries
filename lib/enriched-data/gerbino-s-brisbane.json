@@ -1,0 +1,45 @@
+{
+  "slug": "gerbino-s-brisbane",
+  "name": "Gerbino's",
+  "curatedName": "Gerbino's",
+  "city": "Brisbane",
+  "country": "Australia",
+  "placeId": "ChIJp4DrqEJXkWsRzzeZXxuCUzE",
+  "googleName": "Gerbino's",
+  "formattedAddress": "166 Ashgrove Ave, Ashgrove QLD 4060, Australia",
+  "phone": "(07) 3356 7913",
+  "internationalPhone": "+61 7 3356 7913",
+  "website": "http://www.gerbinos.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3554327585005057999",
+  "rating": 4.5,
+  "reviewCount": 1068,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "grocery_or_supermarket",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -27.437476,
+    153.00224
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 5:00 PM",
+    "Tuesday: 6:30 AM – 5:00 PM",
+    "Wednesday: 6:30 AM – 5:00 PM",
+    "Thursday: 6:30 AM – 5:00 PM",
+    "Friday: 6:30 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Artisanal Italian breads and sweets, plus gelato and pizza, in a relaxed space with outdoor seats.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gerbino-s-brisbane/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:41.865Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "merci-croissants-artesanais-teresina",
+  "name": "Merci Croissants Artesanais",
+  "curatedName": "Merci Croissants Artesanais",
+  "city": "Teresina",
+  "country": "Brazil",
+  "placeId": "ChIJwRFkCjc5jgcRxLMmH0JO3uw",
+  "googleName": "Merci Croissants Artesanais",
+  "formattedAddress": "R. Angélica, 1099 - Fátima, Teresina - PI, 64049-532, Brazil",
+  "phone": "(86) 98813-1516",
+  "internationalPhone": "+55 86 98813-1516",
+  "website": "https://app.cardapioweb.com/merci_padaria",
+  "googleMapsUrl": "https://maps.google.com/?cid=17068165683678196676",
+  "rating": 4.5,
+  "reviewCount": 84,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -5.0709664,
+    -42.7931877
+  ],
+  "openingHours": [
+    "Monday: 7:10 AM – 8:00 PM",
+    "Tuesday: 7:10 AM – 8:00 PM",
+    "Wednesday: 7:10 AM – 8:00 PM",
+    "Thursday: 7:10 AM – 8:00 PM",
+    "Friday: 7:10 AM – 8:00 PM",
+    "Saturday: 7:10 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM, 2:30 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/merci-croissants-artesanais-teresina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:19:14.582Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "bon-ton-bakery-edmonton",
+  "name": "Bon Ton Bakery",
+  "curatedName": "Bon Ton Bakery",
+  "city": "Edmonton",
+  "country": "Canada",
+  "placeId": "ChIJEZBEr7AhoFMRdHyijef5o38",
+  "googleName": "Bon Ton Bakery",
+  "formattedAddress": "8720 149 St, Edmonton, AB T5R 1B6, Canada",
+  "phone": "(780) 489-7717",
+  "internationalPhone": "+1 780-489-7717",
+  "website": "http://www.bonton.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9197469636929682548",
+  "rating": 4.7,
+  "reviewCount": 1332,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.5203277,
+    -113.5785801
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Warm stop with over 80 varieties of bread, baked goods, cakes & cookies.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bon-ton-bakery-edmonton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:45:18.111Z"
+}

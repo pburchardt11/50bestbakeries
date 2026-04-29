@@ -1,0 +1,43 @@
+{
+  "slug": "holy-grain-sourdough-bakery-manchester",
+  "name": "Holy Grain Sourdough Bakery",
+  "curatedName": "Holy Grain Sourdough Bakery",
+  "city": "Manchester",
+  "country": "United Kingdom",
+  "placeId": "ChIJO4o3co6xe0gReMMmQJDLVVs",
+  "googleName": "Holy Grain Sourdough Bakery",
+  "formattedAddress": "253 Deansgate Great Northern Mews, Manchester M3 4EN, UK",
+  "phone": "07938 455609",
+  "internationalPhone": "+44 7938 455609",
+  "website": "https://www.thegreatnorthern.com/unit/holy-grain/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6581390250883859320",
+  "rating": 4.9,
+  "reviewCount": 88,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.4766246,
+    -2.2502413
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 3:30 PM",
+    "Wednesday: 8:30 AM – 3:30 PM",
+    "Thursday: 8:30 AM – 3:30 PM",
+    "Friday: 8:30 AM – 3:30 PM",
+    "Saturday: 8:30 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/holy-grain-sourdough-bakery-manchester/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:06:11.384Z"
+}

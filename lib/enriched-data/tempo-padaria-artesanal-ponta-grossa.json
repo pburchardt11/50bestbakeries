@@ -1,0 +1,43 @@
+{
+  "slug": "tempo-padaria-artesanal-ponta-grossa",
+  "name": "Tempo Padaria Artesanal",
+  "curatedName": "Tempo Padaria Artesanal",
+  "city": "Ponta Grossa",
+  "country": "Brazil",
+  "placeId": "ChIJE-oRkKkb6JQRFof76hHV4Vk",
+  "googleName": "Tempo Padaria Artesanal",
+  "formattedAddress": "R. Profa. Izaura Tôrres Cruz, 255 - Jardim Carvalho, Ponta Grossa - PR, 84015-550, Brazil",
+  "phone": "(42) 99114-0806",
+  "internationalPhone": "+55 42 99114-0806",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6476692012068996886",
+  "rating": 5,
+  "reviewCount": 89,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -25.0836791,
+    -50.1577059
+  ],
+  "openingHours": [
+    "Monday: 2:00 – 7:00 PM",
+    "Tuesday: 2:00 – 7:00 PM",
+    "Wednesday: 2:00 – 7:00 PM",
+    "Thursday: 2:00 – 7:00 PM",
+    "Friday: 2:00 – 7:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tempo-padaria-artesanal-ponta-grossa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:20:59.297Z"
+}

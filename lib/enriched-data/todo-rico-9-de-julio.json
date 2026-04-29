@@ -1,0 +1,32 @@
+{
+  "slug": "todo-rico-9-de-julio",
+  "name": "Todo Rico",
+  "city": "9 de Julio",
+  "country": "Argentina",
+  "placeId": "ChIJ76IMycMLfpYRSSHwLSI1woE",
+  "googleName": "Todo Rico Comida - Delivery",
+  "formattedAddress": "Sarmiento 637, M5501MKD Godoy Cruz, Mendoza, Argentina",
+  "phone": "452-3060",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9350094197290443081",
+  "rating": 3.5,
+  "reviewCount": 1284,
+  "coords": [
+    -32.939006,
+    -68.8390324
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM, 6:00 – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/todo-rico-9-de-julio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:21:18.980Z"
+}

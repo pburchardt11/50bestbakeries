@@ -1,0 +1,32 @@
+{
+  "slug": "delmon-bakery",
+  "name": "Delmon Bakery",
+  "city": "المحرق",
+  "country": "Bahrain",
+  "placeId": "ChIJFxAKdhimST4Rr1MGS6O0Ssw",
+  "googleName": "Delmon Bakery",
+  "formattedAddress": "7J48+QR3, Al Khalifa Ave, Muharraq, Bahrain",
+  "phone": "1734 4426",
+  "website": "http://spainforsale.properties/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14720776945445262255",
+  "rating": 4.1,
+  "reviewCount": 901,
+  "coords": [
+    26.2568992,
+    50.6170369
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delmon-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:47:35.587Z"
+}

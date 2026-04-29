@@ -1,0 +1,43 @@
+{
+  "slug": "las-delicias-bakery-san-miguel-de-tucuman",
+  "name": "Las Delicias Bakery",
+  "curatedName": "Las Delicias Bakery",
+  "city": "San Miguel de Tucumán",
+  "country": "Argentina",
+  "placeId": "ChIJ79egT0JcIpQR84fli3GYX0k",
+  "googleName": "Las Delicias Bakery",
+  "formattedAddress": "T4000DLG, Don Bosco 1725, T4000DLG San Miguel de Tucumán, Tucumán, Argentina",
+  "phone": "0381 423-3902",
+  "internationalPhone": "+54 381 423-3902",
+  "website": "https://www.instagram.com/lasdeliciasptucuman",
+  "googleMapsUrl": "https://maps.google.com/?cid=5287112101002053619",
+  "rating": 4.6,
+  "reviewCount": 1439,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.8227298,
+    -65.2224604
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Tuesday: 6:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Wednesday: 6:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Thursday: 6:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Friday: 6:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Saturday: 6:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Sunday: 7:00 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/las-delicias-bakery-san-miguel-de-tucuman/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:38:42.666Z"
+}

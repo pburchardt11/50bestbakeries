@@ -1,0 +1,43 @@
+{
+  "slug": "table-talk-pies-worcester",
+  "name": "Table Talk Pies",
+  "curatedName": "Table Talk Pies",
+  "city": "Worcester",
+  "country": "United States",
+  "placeId": "ChIJQYj4-csF5IkRziwJ8NY3j5M",
+  "googleName": "Table Talk Pies",
+  "formattedAddress": "58 Gardner St, Worcester, MA 01610, USA",
+  "phone": "(508) 438-1500",
+  "internationalPhone": "+1 508-438-1500",
+  "website": "http://www.tabletalkpie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10632778641534692558",
+  "rating": 4.2,
+  "reviewCount": 66,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    42.2494643,
+    -71.816255
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/table-talk-pies-worcester/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:24:03.793Z"
+}

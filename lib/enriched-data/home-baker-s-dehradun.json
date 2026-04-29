@@ -1,0 +1,43 @@
+{
+  "slug": "home-baker-s-dehradun",
+  "name": "Home Baker's dehradun",
+  "curatedName": "Home Baker's dehradun",
+  "city": "Dehradun",
+  "country": "India",
+  "placeId": "ChIJ02x13j4rCTkRuWxTXR3A02g",
+  "googleName": "Home Baker’s Dehradun",
+  "formattedAddress": "41, Van Vihar, Ballupur, Dehradun, Uttarakhand 248001, India",
+  "phone": null,
+  "internationalPhone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7553592232382786745",
+  "rating": 4.9,
+  "reviewCount": 137,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    30.3368481,
+    78.0141242
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/home-baker-s-dehradun/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:37:05.955Z"
+}

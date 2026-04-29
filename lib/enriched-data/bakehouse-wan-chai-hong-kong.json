@@ -1,0 +1,45 @@
+{
+  "slug": "bakehouse-wan-chai-hong-kong",
+  "name": "Bakehouse (Wan Chai)",
+  "curatedName": "Bakehouse (Wan Chai)",
+  "city": "Hong Kong",
+  "country": "Hong Kong SAR China",
+  "placeId": "ChIJ_5lZxVwABDQR5n9qhZtGvQQ",
+  "googleName": "Bakehouse (Wan Chai)",
+  "formattedAddress": "14 Tai Wong St E, Wan Chai, Hong Kong",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.bakehouse.hk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=341506780522250214",
+  "rating": 4.4,
+  "reviewCount": 3122,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    22.2758732,
+    114.1713876
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: 8:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": "Popular local bakery selling sourdough breads, pastries & tarts, with a weekend brunch menu.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakehouse-wan-chai-hong-kong/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:34:02.737Z"
+}

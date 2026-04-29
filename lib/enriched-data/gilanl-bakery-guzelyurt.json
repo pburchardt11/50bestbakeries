@@ -1,0 +1,32 @@
+{
+  "slug": "gilanl-bakery-guzelyurt",
+  "name": "Gilanlı Bakery",
+  "city": "Güzelyurt",
+  "country": "Cyprus",
+  "placeId": "ChIJOaQYLGn_3RQR8KMmGnv4mQw",
+  "googleName": "Gilanlı Pastanesi",
+  "formattedAddress": "Kutlu Adalı Bulvarı, Güzelyurt 9970",
+  "phone": "0533 856 83 40",
+  "website": "https://www.gilanli.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=908030007495271408",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    35.1908465,
+    32.9929742
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 5:00 PM",
+    "Tuesday: 11:00 AM – 5:00 PM",
+    "Wednesday: 11:00 AM – 5:00 PM",
+    "Thursday: 11:00 AM – 5:00 PM",
+    "Friday: 11:00 AM – 5:00 PM",
+    "Saturday: 11:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gilanl-bakery-guzelyurt/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:53:34.123Z"
+}

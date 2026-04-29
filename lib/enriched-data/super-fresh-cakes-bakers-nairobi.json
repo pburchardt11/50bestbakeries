@@ -1,0 +1,43 @@
+{
+  "slug": "super-fresh-cakes-bakers-nairobi",
+  "name": "Super Fresh Cakes Bakers",
+  "curatedName": "Super Fresh Cakes Bakers",
+  "city": "Nairobi",
+  "country": "Kenya",
+  "placeId": "ChIJrxyP5hQTLxgR_O6p4M1H-ys",
+  "googleName": "Super Fresh Cakes Bakers",
+  "formattedAddress": "Kenya Builders, Taj Mall Airport North Road, Nairobi, Kenya",
+  "phone": "0710 529399",
+  "internationalPhone": "+254 710 529399",
+  "website": "https://superfreshcakes.co.ke/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3169205712348376828",
+  "rating": 4.9,
+  "reviewCount": 30,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -1.3226261,
+    36.8941737
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/super-fresh-cakes-bakers-nairobi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:42:35.891Z"
+}

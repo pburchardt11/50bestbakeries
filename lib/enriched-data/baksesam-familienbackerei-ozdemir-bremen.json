@@ -1,0 +1,43 @@
+{
+  "slug": "baksesam-familienbackerei-ozdemir-bremen",
+  "name": "Baksesam, Familienbäckerei Özdemir",
+  "curatedName": "Baksesam, Familienbäckerei Özdemir",
+  "city": "Bremen",
+  "country": "Germany",
+  "placeId": "ChIJyX63Y2ApsUcRVIAPWOsVEXE",
+  "googleName": "Baksesam Familienbäckerei Özdemir",
+  "formattedAddress": "Faulenstraße 65, 28195 Bremen, Germany",
+  "phone": "0178 4064077",
+  "internationalPhone": "+49 178 4064077",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8147317301428846676",
+  "rating": 4.8,
+  "reviewCount": 69,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.0810685,
+    8.7969847
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:30 PM",
+    "Tuesday: 6:00 AM – 7:30 PM",
+    "Wednesday: 6:00 AM – 7:30 PM",
+    "Thursday: 6:00 AM – 7:30 PM",
+    "Friday: 6:00 AM – 7:30 PM",
+    "Saturday: 6:00 AM – 7:30 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baksesam-familienbackerei-ozdemir-bremen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:32:41.050Z"
+}

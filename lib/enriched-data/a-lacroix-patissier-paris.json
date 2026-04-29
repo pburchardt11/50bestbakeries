@@ -1,0 +1,44 @@
+{
+  "slug": "a-lacroix-patissier-paris",
+  "name": "A. Lacroix Pâtissier",
+  "curatedName": "A. Lacroix Pâtissier",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJq6q6UeFx5kcR1FKzM1UDuyQ",
+  "googleName": "A. Lacroix Pâtissier",
+  "formattedAddress": "11 Quai de Montebello, 75005 Paris, France",
+  "phone": "01 74 64 14 86",
+  "internationalPhone": "+33 1 74 64 14 86",
+  "website": "http://www.alacroixparis.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2646712870484792020",
+  "rating": 4.7,
+  "reviewCount": 2084,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8517312,
+    2.3494362
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": "Specialty coffees, sweet pastries & savory treats in a hip cafe with views of Notre-Dame cathedral.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-lacroix-patissier-paris/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:46:36.895Z"
+}

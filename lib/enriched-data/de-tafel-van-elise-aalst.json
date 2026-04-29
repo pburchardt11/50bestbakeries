@@ -1,0 +1,32 @@
+{
+  "slug": "de-tafel-van-elise-aalst",
+  "name": "De tafel van Elise",
+  "city": "Aalst",
+  "country": "Belgium",
+  "placeId": "ChIJTw5iWw29w0cRn6khF6DxCdw",
+  "googleName": "De Tafel van Elise",
+  "formattedAddress": "Erembodegem-Dorp 39, 9320 Aalst, Belgium",
+  "phone": "053 21 62 66",
+  "website": "http://www.detafelvanelise.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15855469633019685279",
+  "rating": 4.4,
+  "reviewCount": 159,
+  "coords": [
+    50.9200807,
+    4.0579465
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 1:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 7:30 AM – 1:00 PM",
+    "Friday: 7:30 AM – 1:00 PM",
+    "Saturday: 7:30 AM – 1:00 PM",
+    "Sunday: 7:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/de-tafel-van-elise-aalst/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:03:53.529Z"
+}

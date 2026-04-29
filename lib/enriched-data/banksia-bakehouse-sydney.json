@@ -1,0 +1,43 @@
+{
+  "slug": "banksia-bakehouse-sydney",
+  "name": "Banksia Bakehouse",
+  "curatedName": "Banksia Bakehouse",
+  "city": "Sydney",
+  "country": "Australia",
+  "placeId": "ChIJUxTGrJGvEmsR9nLxM7lfajM",
+  "googleName": "Banksia Bakehouse",
+  "formattedAddress": "225 George St, Tenancy 4 Grosvenor Place, Sydney NSW 2000, Australia",
+  "phone": "0401 588 491",
+  "internationalPhone": "+61 401 588 491",
+  "website": "http://www.banksia.sydney/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3704878892510704374",
+  "rating": 4.5,
+  "reviewCount": 631,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -33.862388,
+    151.2073333
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 4:00 PM",
+    "Tuesday: 7:30 AM – 4:00 PM",
+    "Wednesday: 7:30 AM – 4:00 PM",
+    "Thursday: 7:30 AM – 4:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/banksia-bakehouse-sydney/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:39:02.572Z"
+}

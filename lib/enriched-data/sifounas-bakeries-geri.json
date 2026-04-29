@@ -1,0 +1,32 @@
+{
+  "slug": "sifounas-bakeries-geri",
+  "name": "Sifounas Bakeries",
+  "city": "Geri",
+  "country": "Cyprus",
+  "placeId": "ChIJdxGqP_UY3hQRrH20DCllpRQ",
+  "googleName": "Sifounas Bakeries | Geri",
+  "formattedAddress": "F102 19, Geri 2200, Cyprus",
+  "phone": "22 488576",
+  "website": "http://www.sifounasbakeries.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1487706478897036716",
+  "rating": 4.2,
+  "reviewCount": 79,
+  "coords": [
+    35.1058312,
+    33.4184961
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sifounas-bakeries-geri/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:52:50.194Z"
+}

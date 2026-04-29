@@ -1,0 +1,32 @@
+{
+  "slug": "mum-bakery-pekan-tutong",
+  "name": "Mum Bakery",
+  "city": "Pekan Tutong",
+  "country": "Brunei",
+  "placeId": "ChIJ9RNj4eVuIjIRIgWtKEm-f5E",
+  "googleName": "Mum Bakery",
+  "formattedAddress": "27, 8 Jalan Enchi Awang, Tutong, Brunei",
+  "phone": "426 0777",
+  "website": "https://m.facebook.com/pages/Mums-Bakery/427655357264268",
+  "googleMapsUrl": "https://maps.google.com/?cid=10484307678966121762",
+  "rating": 4.4,
+  "reviewCount": 28,
+  "coords": [
+    4.804590699999999,
+    114.6560853
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mum-bakery-pekan-tutong/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:22:46.417Z"
+}

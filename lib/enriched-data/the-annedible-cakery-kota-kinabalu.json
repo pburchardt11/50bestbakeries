@@ -1,0 +1,44 @@
+{
+  "slug": "the-annedible-cakery-kota-kinabalu",
+  "name": "The AnnEdible Cakery",
+  "curatedName": "The AnnEdible Cakery",
+  "city": "Kota Kinabalu",
+  "country": "Malaysia",
+  "placeId": "ChIJw-wbckFtOzIR6WxPEC7tUxY",
+  "googleName": "The AnnEdible Cakery",
+  "formattedAddress": "Wisma D, Sulaman Square, Jalan Sulaman, 88450 Kota Kinabalu, Sabah, Malaysia",
+  "phone": "016-631 6314",
+  "internationalPhone": "+60 16-631 6314",
+  "website": "https://www.instagram.com/theannedible",
+  "googleMapsUrl": "https://maps.google.com/?cid=1608890273999318249",
+  "rating": 4.8,
+  "reviewCount": 303,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    6.0441138,
+    116.1472816
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-annedible-cakery-kota-kinabalu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:52:53.889Z"
+}

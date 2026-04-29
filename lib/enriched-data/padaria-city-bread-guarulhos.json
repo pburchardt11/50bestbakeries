@@ -1,0 +1,44 @@
+{
+  "slug": "padaria-city-bread-guarulhos",
+  "name": "Padaria City Bread",
+  "curatedName": "Padaria City Bread",
+  "city": "Guarulhos",
+  "country": "Brazil",
+  "placeId": "ChIJTyCSz1D1zpQRMhrnlbkrWf4",
+  "googleName": "Padaria City Bread",
+  "formattedAddress": "Av. Paulo Faccini, 449 - Macedo, Guarulhos - SP, 07110-150, Brazil",
+  "phone": "(11) 2229-0465",
+  "internationalPhone": "+55 11 2229-0465",
+  "website": "http://facebook.com/citybread",
+  "googleMapsUrl": "https://maps.google.com/?cid=18327728234644838962",
+  "rating": 4.1,
+  "reviewCount": 9146,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.4671623,
+    -46.5240026
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-city-bread-guarulhos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:15:20.156Z"
+}

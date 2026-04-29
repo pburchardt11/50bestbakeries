@@ -1,0 +1,32 @@
+{
+  "slug": "kb-bakery-deli-nassau",
+  "name": "KB Bakery & Deli",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJx9lMbHt9L4kR1r-BprdMwe8",
+  "googleName": "KB Bakery & Deli",
+  "formattedAddress": "3M43+627, West End Avenue, Nassau, The Bahamas",
+  "phone": "(242) 429-0505",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17276173997226180566",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    25.0555277,
+    -77.3474506
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kb-bakery-deli-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:42:57.984Z"
+}

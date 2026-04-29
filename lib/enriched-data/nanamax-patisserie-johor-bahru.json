@@ -1,0 +1,44 @@
+{
+  "slug": "nanamax-patisserie-johor-bahru",
+  "name": "Nanamax Patisserie",
+  "curatedName": "Nanamax Patisserie",
+  "city": "Johor Bahru",
+  "country": "Malaysia",
+  "placeId": "ChIJ9XFi3l5t2jER19Hz5OSJT2k",
+  "googleName": "Nanamax Patisserie",
+  "formattedAddress": "MY Johor Johor Bahru Kota Southkey, C Persiaran Southkey 1, Southkey, 80150 Johor Bahru, Johor Darul Ta'zim, Malaysia",
+  "phone": "012-227 3001",
+  "internationalPhone": "+60 12-227 3001",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7588435513329308119",
+  "rating": 4.7,
+  "reviewCount": 151,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.4976264,
+    103.7786196
+  ],
+  "openingHours": [
+    "Monday: 12:30 – 7:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 12:30 – 7:00 PM",
+    "Thursday: 12:30 – 7:00 PM",
+    "Friday: 12:30 – 7:00 PM",
+    "Saturday: 12:30 – 7:00 PM",
+    "Sunday: 12:30 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nanamax-patisserie-johor-bahru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:01.516Z"
+}

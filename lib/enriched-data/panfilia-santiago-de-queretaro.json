@@ -1,0 +1,43 @@
+{
+  "slug": "panfilia-santiago-de-queretaro",
+  "name": "Panfilia",
+  "curatedName": "Panfilia",
+  "city": "Santiago de Querétaro",
+  "country": "Mexico",
+  "placeId": "ChIJpzo2NMBb04URwSgGJNrgGYE",
+  "googleName": "Panfilia",
+  "formattedAddress": "C. 16 de Septiembre 77-A, La Santa Cruz, Centro, 76000 Santiago de Querétaro, Qro., Mexico",
+  "phone": "442 459 5752",
+  "internationalPhone": "+52 442 459 5752",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9302713732822345921",
+  "rating": 4.8,
+  "reviewCount": 255,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.5958627,
+    -100.3875788
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panfilia-santiago-de-queretaro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:37:41.203Z"
+}

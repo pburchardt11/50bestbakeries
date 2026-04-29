@@ -1,0 +1,43 @@
+{
+  "slug": "olympic-bakery-makassar",
+  "name": "Olympic Bakery",
+  "curatedName": "Olympic Bakery",
+  "city": "Makassar",
+  "country": "Indonesia",
+  "placeId": "ChIJIXXOiKoCvy0RLwVYsLpxI2U",
+  "googleName": "Olympic Bakery",
+  "formattedAddress": "Jl. Gn. Merapi No.187-189, Pisang Sel., Kec. Ujung Pandang, Kota Makassar, Sulawesi Selatan 90141, Indonesia",
+  "phone": "0858-2435-6281",
+  "internationalPhone": "+62 858-2435-6281",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7287793668652008751",
+  "rating": 4.5,
+  "reviewCount": 633,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -5.1437186,
+    119.4177312
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/olympic-bakery-makassar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:39:06.790Z"
+}

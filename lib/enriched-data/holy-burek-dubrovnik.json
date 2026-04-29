@@ -1,0 +1,32 @@
+{
+  "slug": "holy-burek-dubrovnik",
+  "name": "Holy Burek Dubrovnik",
+  "city": "Dubrovnik",
+  "country": "Croatia",
+  "placeId": "ChIJd764XRkLTBMRZnQnGuGeqlk",
+  "googleName": "Holy Burek",
+  "formattedAddress": "Ul. od Puča 22, 20000, Dubrovnik, Croatia",
+  "phone": "099 444 4440",
+  "website": "http://www.holyburek.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6461151305060021350",
+  "rating": 4.5,
+  "reviewCount": 1094,
+  "coords": [
+    42.6411765,
+    18.1076684
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/holy-burek-dubrovnik/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:50:18.132Z"
+}

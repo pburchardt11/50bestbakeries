@@ -1,0 +1,32 @@
+{
+  "slug": "dulce-canela-alajuela",
+  "name": "Dulce Canela",
+  "city": "Alajuela",
+  "country": "Costa Rica",
+  "placeId": "ChIJWanx4-H3oI8RMoNWU4_W2ow",
+  "googleName": "Dulce Canela",
+  "formattedAddress": "Canoas Alajuela contiguo a futbol 5 liga de campeones Alajuela Canoas 245, Provincia de Alajuela, Alajuela, 2050, Costa Rica",
+  "phone": "7171 2267",
+  "website": "http://www.dulcecanelacr.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10149660621299680050",
+  "rating": 4.2,
+  "reviewCount": 5,
+  "coords": [
+    10.0358774,
+    -84.1986901
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:00 PM",
+    "Tuesday: 5:00 AM – 7:00 PM",
+    "Wednesday: 5:00 AM – 7:00 PM",
+    "Thursday: 5:00 AM – 7:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 5:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dulce-canela-alajuela/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:47:42.073Z"
+}

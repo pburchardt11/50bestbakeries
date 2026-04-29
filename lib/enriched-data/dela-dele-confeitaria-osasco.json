@@ -1,0 +1,44 @@
+{
+  "slug": "dela-dele-confeitaria-osasco",
+  "name": "Dela Dele Confeitaria",
+  "curatedName": "Dela Dele Confeitaria",
+  "city": "Osasco",
+  "country": "Brazil",
+  "placeId": "ChIJ8dfRDAv_zpQRs-JS_goryF0",
+  "googleName": "Dela Dele Confeitaria",
+  "formattedAddress": "Av. Dom Pedro Primeiro, 138 - Vila Osasco, Osasco - SP, 06083-005, Brazil",
+  "phone": "(11) 4620-2010",
+  "internationalPhone": "+55 11 4620-2010",
+  "website": "http://www.deladeleconfeitaria.com.br/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6757698567085941427",
+  "rating": 4.6,
+  "reviewCount": 1109,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.5403234,
+    -46.78294
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:30 AM – 7:00 PM",
+    "Wednesday: 10:30 AM – 7:00 PM",
+    "Thursday: 10:30 AM – 7:00 PM",
+    "Friday: 10:30 AM – 7:00 PM",
+    "Saturday: 10:30 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dela-dele-confeitaria-osasco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:17:19.956Z"
+}

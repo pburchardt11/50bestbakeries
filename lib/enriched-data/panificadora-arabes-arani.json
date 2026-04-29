@@ -1,0 +1,32 @@
+{
+  "slug": "panificadora-arabes-arani",
+  "name": "Panificadora Árabes",
+  "city": "Arani",
+  "country": "Bolivia",
+  "placeId": "ChIJw28EhvWf5JMRhppylvB4qw8",
+  "googleName": "Panificadora Árabes",
+  "formattedAddress": "Calle Juan Manuel Sánchez s/n, Arani, Bolivia",
+  "phone": "75981193",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1129129106298018438",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -17.5726617,
+    -65.7666016
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:30 PM",
+    "Wednesday: 6:30 AM – 6:30 PM",
+    "Thursday: 6:30 AM – 6:30 PM",
+    "Friday: 6:30 AM – 6:30 PM",
+    "Saturday: 6:30 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panificadora-arabes-arani/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:11:26.257Z"
+}

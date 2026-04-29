@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-san-martin-ciudad-merliot-antiguo-cuscatlan",
+  "name": "Panadería San Martín, Ciudad Merliot",
+  "city": "Antiguo Cuscatlán",
+  "country": "El Salvador",
+  "placeId": "ChIJOcN_JDUuY48RNKEpwuB6UtA",
+  "googleName": "San Martin Bakery",
+  "formattedAddress": "Av. Jayaque ZC9, Blvr. Merliot Local 1, Santa Tecla, El Salvador",
+  "phone": "2213 5851",
+  "website": "https://sanmartinbakery.com.sv/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15011195613728055604",
+  "rating": 4.5,
+  "reviewCount": 5169,
+  "coords": [
+    13.6804226,
+    -89.26379399999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-san-martin-ciudad-merliot-antiguo-cuscatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:02:46.452Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "wild-bakery-fremantle",
+  "name": "Wild Bakery",
+  "curatedName": "Wild Bakery",
+  "city": "Fremantle",
+  "country": "Australia",
+  "placeId": "ChIJ184AQYahMioRqYn_VWYPGQI",
+  "googleName": "Wild Bakery",
+  "formattedAddress": "346 South Terrace, South Fremantle WA 6162, Australia",
+  "phone": "0468 787 581",
+  "internationalPhone": "+61 468 787 581",
+  "website": "http://www.wildbakery.com.au/",
+  "googleMapsUrl": "https://maps.google.com/?cid=151168994697513385",
+  "rating": 4.7,
+  "reviewCount": 872,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -32.0703181,
+    115.7530831
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 3:00 PM",
+    "Tuesday: 6:00 AM – 3:00 PM",
+    "Wednesday: 6:00 AM – 3:00 PM",
+    "Thursday: 6:00 AM – 3:00 PM",
+    "Friday: 6:00 AM – 3:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wild-bakery-fremantle/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:47.572Z"
+}

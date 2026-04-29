@@ -1,0 +1,32 @@
+{
+  "slug": "dao-xiang-cun-beijing",
+  "name": "Dao Xiang Cun",
+  "city": "Beijing",
+  "country": "China",
+  "placeId": "ChIJVSKEAMqs8TURO8z-2HVETPQ",
+  "googleName": "Beijing Daoxiangcun",
+  "formattedAddress": "19 Gui Jie, Dongzhimen, Dong Cheng Qu, Bei Jing Shi, China, 100010",
+  "phone": "010 6401 1631",
+  "website": "http://www.daoxiangcun.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17603520316426865723",
+  "rating": 4.8,
+  "reviewCount": 9,
+  "coords": [
+    39.941331,
+    116.425129
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dao-xiang-cun-beijing/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:44:24.438Z"
+}

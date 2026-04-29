@@ -1,0 +1,44 @@
+{
+  "slug": "hachimitsu-parque-do-inga-maringa",
+  "name": "Hachimitsu Parque do Ingá",
+  "curatedName": "Hachimitsu Parque do Ingá",
+  "city": "Maringá",
+  "country": "Brazil",
+  "placeId": "ChIJwR2lM9LQ7JQRizi0TiwobZE",
+  "googleName": "Hachimitsu Parque do Ingá",
+  "formattedAddress": "Av. São Paulo, 1700 - Zona 02, Maringá - PR, 87010-355, Brazil",
+  "phone": "(44) 3041-0003",
+  "internationalPhone": "+55 44 3041-0003",
+  "website": "https://linktr.ee/hachimga",
+  "googleMapsUrl": "https://maps.google.com/?cid=10479076078725118091",
+  "rating": 4.7,
+  "reviewCount": 1990,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.4280615,
+    -51.93289559999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hachimitsu-parque-do-inga-maringa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:13.510Z"
+}

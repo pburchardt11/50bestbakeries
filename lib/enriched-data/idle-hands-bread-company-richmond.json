@@ -1,0 +1,44 @@
+{
+  "slug": "idle-hands-bread-company-richmond",
+  "name": "Idle Hands Bread Company",
+  "curatedName": "Idle Hands Bread Company",
+  "city": "Richmond",
+  "country": "United States",
+  "placeId": "ChIJB53edTkRsYkRXI5hTxFwk_A",
+  "googleName": "Idle Hands Bread Company",
+  "formattedAddress": "404 N Robinson St, Richmond, VA 23220, USA",
+  "phone": "(804) 409-5540",
+  "internationalPhone": "+1 804-409-5540",
+  "website": "http://www.idlehandsbreadcompany.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17335322610327719516",
+  "rating": 4.6,
+  "reviewCount": 378,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.55691640000001,
+    -77.4707372
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/idle-hands-bread-company-richmond/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:13:10.462Z"
+}

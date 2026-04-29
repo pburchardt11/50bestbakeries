@@ -1,0 +1,43 @@
+{
+  "slug": "blue-dream-bread-a-lat",
+  "name": "Blue Dream Bread",
+  "curatedName": "Blue Dream Bread",
+  "city": "Đà Lạt",
+  "country": "Vietnam",
+  "placeId": "ChIJAZleLZ4TcTER7yUD2MgHpkY",
+  "googleName": "Blue Dream Bread",
+  "formattedAddress": "14 Vạn Hạnh, Phường 8, Lâm Viên - Đà Lạt, Lâm Đồng 670000, Vietnam",
+  "phone": "0834 304 050",
+  "internationalPhone": "+84 834 304 050",
+  "website": "https://www.facebook.com/bluedreambread.saigon",
+  "googleMapsUrl": "https://maps.google.com/?cid=5090764987987863023",
+  "rating": 4.5,
+  "reviewCount": 1265,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    11.9623458,
+    108.4440349
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:00 PM",
+    "Tuesday: 8:30 AM – 10:00 PM",
+    "Wednesday: 8:30 AM – 10:00 PM",
+    "Thursday: 8:30 AM – 10:00 PM",
+    "Friday: 8:30 AM – 10:00 PM",
+    "Saturday: 8:30 AM – 10:00 PM",
+    "Sunday: 8:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blue-dream-bread-a-lat/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:18:46.676Z"
+}

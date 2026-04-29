@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-ideal-cuauhtemoc",
+  "name": "Pastelería Ideal",
+  "curatedName": "Pastelería Ideal",
+  "city": "Cuauhtémoc",
+  "country": "Mexico",
+  "placeId": "ChIJxQIyiNL-0YURl5L-Q2Wr89I",
+  "googleName": "Pastelería Ideal",
+  "formattedAddress": "República de Uruguay 74, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",
+  "phone": "55 5512 2522",
+  "internationalPhone": "+52 55 5512 2522",
+  "website": "http://www.pasteleriaideal.com.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15200681618726359703",
+  "rating": 4.6,
+  "reviewCount": 24201,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.4304758,
+    -99.1355208
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 9:00 PM",
+    "Tuesday: 5:00 AM – 9:00 PM",
+    "Wednesday: 5:00 AM – 9:00 PM",
+    "Thursday: 5:00 AM – 9:00 PM",
+    "Friday: 5:00 AM – 9:00 PM",
+    "Saturday: 5:00 AM – 9:00 PM",
+    "Sunday: 5:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-ideal-cuauhtemoc/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:32:45.409Z"
+}

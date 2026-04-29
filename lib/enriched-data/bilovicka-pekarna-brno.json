@@ -1,0 +1,32 @@
+{
+  "slug": "bilovicka-pekarna-brno",
+  "name": "Bílovická Pekárna",
+  "city": "Brno",
+  "country": "Czech Republic",
+  "placeId": "ChIJL9cl9viTEkcRc4yr91A_VbE",
+  "googleName": "Bílovická pekárna, s.r.o.",
+  "formattedAddress": "162, Palackého tř. 1891, 612 00 Brno-Královo Pole, Czechia",
+  "phone": "736 222 370",
+  "website": "http://www.podperovapekarna.cz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12778189134718798963",
+  "rating": 4.4,
+  "reviewCount": 21,
+  "coords": [
+    49.2317934,
+    16.5903786
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 7:00 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bilovicka-pekarna-brno/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:55:08.743Z"
+}

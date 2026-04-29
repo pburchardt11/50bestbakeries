@@ -1,0 +1,43 @@
+{
+  "slug": "aj-bakery-cake-jakarta-utara",
+  "name": "AJ Bakery & Cake",
+  "curatedName": "AJ Bakery & Cake",
+  "city": "Jakarta Utara",
+  "country": "Indonesia",
+  "placeId": "ChIJ8Z9T9Sj1aS4RM-HDQ4xbFPE",
+  "googleName": "AJ Bakery & Cake",
+  "formattedAddress": "Jalan Boulevard Raya Blok DF II No.9-10, RT.4/RW.17, East Kelapa Gading, Kelapa Gading, North Jakarta City, Jakarta 14240, Indonesia",
+  "phone": "(021) 4528467",
+  "internationalPhone": "+62 21 4528467",
+  "website": "http://www.ajbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17371610320665305395",
+  "rating": 4.6,
+  "reviewCount": 2413,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -6.172422699999999,
+    106.8982206
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aj-bakery-cake-jakarta-utara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:37:29.308Z"
+}

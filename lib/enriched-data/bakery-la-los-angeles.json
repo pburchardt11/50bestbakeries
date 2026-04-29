@@ -1,0 +1,45 @@
+{
+  "slug": "bakery-la-los-angeles",
+  "name": "Bakery La",
+  "curatedName": "Bakery La",
+  "city": "Los Angeles",
+  "country": "United States",
+  "placeId": "ChIJEaB_DwC7woARSqWpxZ85zBQ",
+  "googleName": "Bakery LA",
+  "formattedAddress": "10759 W Pico Blvd, Los Angeles, CA 90064, USA",
+  "phone": "(424) 208-3835",
+  "internationalPhone": "+1 424-208-3835",
+  "website": "http://bakery.la/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1498636134386345290",
+  "rating": 4.9,
+  "reviewCount": 253,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.0412431,
+    -118.4265728
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-la-los-angeles/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:47.186Z"
+}

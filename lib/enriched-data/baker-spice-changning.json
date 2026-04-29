@@ -1,0 +1,32 @@
+{
+  "slug": "baker-spice-changning",
+  "name": "Baker & Spice",
+  "city": "Changning",
+  "country": "China",
+  "placeId": "ChIJvR-8ZVNlsjURz5OgJaUNh_8",
+  "googleName": "Baker & Spice",
+  "formattedAddress": "195 An Fu Lu, Xu Hui Qu, Shang Hai Shi, China, 200020",
+  "phone": "021 5404 2733",
+  "website": "http://www.bakerandspice.com.cn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18412700604479607759",
+  "rating": 4.4,
+  "reviewCount": 139,
+  "coords": [
+    31.21394,
+    121.443716
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-spice-changning/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:44:35.910Z"
+}

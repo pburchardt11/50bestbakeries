@@ -1,0 +1,45 @@
+{
+  "slug": "oxbow-seattle",
+  "name": "Oxbow",
+  "curatedName": "Oxbow",
+  "city": "Seattle",
+  "country": "United States",
+  "placeId": "ChIJHTNKasAVkFQR9HGgjH7MvAc",
+  "googleName": "Oxbow Bakery",
+  "formattedAddress": "2307 24th Ave E, Seattle, WA 98112, USA",
+  "phone": "(206) 322-6617",
+  "internationalPhone": "+1 206-322-6617",
+  "website": "https://www.oxbowmontlake.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=557545297784369652",
+  "rating": 4.6,
+  "reviewCount": 431,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.6398321,
+    -122.3022971
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oxbow-seattle/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:56.774Z"
+}

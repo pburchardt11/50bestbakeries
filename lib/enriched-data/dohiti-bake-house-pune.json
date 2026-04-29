@@ -1,0 +1,44 @@
+{
+  "slug": "dohiti-bake-house-pune",
+  "name": "Dohiti Bake House",
+  "curatedName": "Dohiti Bake House",
+  "city": "Pune",
+  "country": "India",
+  "placeId": "ChIJF5K4-6TBwjsRwCw_98rKQio",
+  "googleName": "Dohiti Bake House",
+  "formattedAddress": "कल्पना विला हाउसिंग सोसाइटी, 4, आनंद विद्यानिकेतन रस्ता, कोणार्क नगर, म्हाडा कॉलनी, विमान नगर, पुणे, महाराष्ट्र 411014, India",
+  "phone": "088304 54474",
+  "internationalPhone": "+91 88304 54474",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3045219271136193728",
+  "rating": 4.6,
+  "reviewCount": 838,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    18.5681096,
+    73.91377530000001
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dohiti-bake-house-pune/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:35:19.460Z"
+}

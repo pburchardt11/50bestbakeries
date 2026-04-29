@@ -1,0 +1,32 @@
+{
+  "slug": "hostess-brands-lenexa",
+  "name": "Hostess Brands",
+  "curatedName": "Hostess Brands",
+  "city": "Lenexa",
+  "country": "United States",
+  "placeId": "ChIJTQNXiN_vwIcRKVST6OXju9A",
+  "googleName": "Hostess Brands LLC",
+  "formattedAddress": "7905 Quivira Rd, Lenexa, KS 66215, USA",
+  "phone": "(816) 701-4600",
+  "internationalPhone": "+1 816-701-4600",
+  "website": "http://www.hostessbrands.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15040865957122888745",
+  "rating": 3,
+  "reviewCount": 25,
+  "priceLevel": null,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "businessStatus": "CLOSED_PERMANENTLY",
+  "coords": [
+    38.9847873,
+    -94.72281609999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hostess-brands-lenexa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:23:49.019Z"
+}

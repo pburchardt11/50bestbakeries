@@ -1,0 +1,43 @@
+{
+  "slug": "rise-bakery",
+  "name": "Rise Bakery",
+  "curatedName": "Rise Bakery",
+  "city": "الرياض",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJR2gQbwClST4REJLttTqzzQ0",
+  "googleName": "Rise Bakehouse",
+  "formattedAddress": "6HRQ+M7M, Rd No 1704, Manama, Bahrain",
+  "phone": "3897 7955",
+  "internationalPhone": "+973 3897 7955",
+  "website": "https://www.instagram.com/risebakehouse.bh?igsh=MTJ0ZDRrdXozcXYyZg==",
+  "googleMapsUrl": "https://maps.google.com/?cid=994648157460468240",
+  "rating": 4.1,
+  "reviewCount": 343,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    26.2417108,
+    50.5881798
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rise-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:35:44.871Z"
+}

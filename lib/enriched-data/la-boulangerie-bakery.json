@@ -1,0 +1,32 @@
+{
+  "slug": "la-boulangerie-bakery",
+  "name": "La Boulangerie Bakery",
+  "city": "Երեւան",
+  "country": "Armenia",
+  "placeId": "ChIJVUJkxxy9akARIZrLutbh3MU",
+  "googleName": "PAUL Armenia",
+  "formattedAddress": "8 Abovyan poxoc, Yerevan 0010, Armenia",
+  "phone": "044 100400",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14257518832721304097",
+  "rating": 4.1,
+  "reviewCount": 607,
+  "coords": [
+    40.1803068,
+    44.5151686
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boulangerie-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:25:28.377Z"
+}

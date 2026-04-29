@@ -1,0 +1,43 @@
+{
+  "slug": "ahorita-padaria-artesanal-salvador",
+  "name": "Ahorita Padaria Artesanal",
+  "curatedName": "Ahorita Padaria Artesanal",
+  "city": "Salvador",
+  "country": "Brazil",
+  "placeId": "ChIJYV7RVJMDFgcR_hxmcnH6Uyc",
+  "googleName": "Ahorita Padaria Artesanal",
+  "formattedAddress": "R. Tupinambás, 423 - Rio Vermelho, Salvador - BA, 41940-090, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.instagram.com/ahoritapadaria/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2833883955703717118",
+  "rating": 4.8,
+  "reviewCount": 246,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -13.0111476,
+    -38.4880218
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 3:00 – 8:00 PM",
+    "Thursday: 3:00 – 8:00 PM",
+    "Friday: 3:00 – 8:00 PM",
+    "Saturday: 9:00 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ahorita-padaria-artesanal-salvador/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:40:43.383Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-torte-9-de-julio",
+  "name": "Panaderia Torte",
+  "city": "9 de Julio",
+  "country": "Argentina",
+  "placeId": "ChIJY4YedZUNv5URWlG_eH9tKbA",
+  "googleName": "Panaderia Torte",
+  "formattedAddress": "B6500EZV, Mendoza 800-898, B6500EZV 9 de Julio, Provincia de Buenos Aires, Argentina",
+  "phone": "02317 50-7626",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12693797418974531930",
+  "rating": 4.7,
+  "reviewCount": 318,
+  "coords": [
+    -35.44683090000001,
+    -60.88666929999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:30 PM, 3:00 – 8:00 PM",
+    "Tuesday: 7:30 AM – 12:30 PM, 3:00 – 8:00 PM",
+    "Wednesday: 7:30 AM – 12:30 PM, 3:00 – 8:00 PM",
+    "Thursday: 7:30 AM – 12:30 PM, 3:00 – 8:00 PM",
+    "Friday: 7:30 AM – 12:30 PM, 3:00 – 8:00 PM",
+    "Saturday: 7:30 AM – 12:30 PM, 3:00 – 8:00 PM",
+    "Sunday: 8:30 AM – 12:30 PM, 3:30 – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-torte-9-de-julio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:21:23.149Z"
+}

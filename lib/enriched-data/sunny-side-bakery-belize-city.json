@@ -1,0 +1,32 @@
+{
+  "slug": "sunny-side-bakery-belize-city",
+  "name": "Sunny Side Bakery",
+  "city": "Belize City",
+  "country": "Belize",
+  "placeId": "ChIJfdf1PDxYXI8RggmojEoMwWQ",
+  "googleName": "Sunny Side Bakery",
+  "formattedAddress": "29 Banak Street, Corner &, Central American Boulevard, Belize City, Belize",
+  "phone": null,
+  "website": "https://www.facebook.com/sunnysidebakerybz",
+  "googleMapsUrl": "https://maps.google.com/?cid=7260097588624886146",
+  "rating": 4.3,
+  "reviewCount": 163,
+  "coords": [
+    17.4965525,
+    -88.1992137
+  ],
+  "openingHours": [
+    "Monday: 3:00 – 6:00 PM",
+    "Tuesday: 3:00 – 6:00 PM",
+    "Wednesday: 3:00 – 6:00 PM",
+    "Thursday: 3:00 – 6:00 PM",
+    "Friday: 3:00 – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sunny-side-bakery-belize-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:05:33.103Z"
+}

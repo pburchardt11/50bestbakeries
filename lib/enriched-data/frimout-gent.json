@@ -1,0 +1,44 @@
+{
+  "slug": "frimout-gent",
+  "name": "Frimout",
+  "curatedName": "Frimout",
+  "city": "Gent",
+  "country": "Belgium",
+  "placeId": "ChIJW44u6ORzw0cRcnFBWd9nS4U",
+  "googleName": "Frimout",
+  "formattedAddress": "Zwijnaardsesteenweg 278, 9000 Gent, Belgium",
+  "phone": "09 222 53 67",
+  "internationalPhone": "+32 9 222 53 67",
+  "website": "https://bakkerfrimout.be/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9604884839270543730",
+  "rating": 4.7,
+  "reviewCount": 334,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.0296562,
+    3.722342799999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/frimout-gent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:13:34.035Z"
+}

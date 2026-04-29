@@ -1,0 +1,32 @@
+{
+  "slug": "tezgiah-bread-bakery",
+  "name": "Tezgiah Bread & Bakery",
+  "city": "Бургас",
+  "country": "Bulgaria",
+  "placeId": "ChIJE3BJtbmUpkARSViO8yWcVz0",
+  "googleName": "Tezgiah Bread & Bakery",
+  "formattedAddress": "ulitsa \"Ferdinandova\" 73, g.k. Vazrazhdane, Boulevard \"Stefan Stambolov 13, 8000 Burgas, Bulgaria",
+  "phone": "087 788 8252",
+  "website": "http://tezgiah.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4420173246101346377",
+  "rating": 4.6,
+  "reviewCount": 179,
+  "coords": [
+    42.4924741,
+    27.4649978
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:30 PM",
+    "Tuesday: 7:30 AM – 6:30 PM",
+    "Wednesday: 7:30 AM – 6:30 PM",
+    "Thursday: 7:30 AM – 6:30 PM",
+    "Friday: 7:30 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tezgiah-bread-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:26:35.570Z"
+}

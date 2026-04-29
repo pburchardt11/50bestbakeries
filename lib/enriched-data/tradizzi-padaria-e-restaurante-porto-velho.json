@@ -1,0 +1,43 @@
+{
+  "slug": "tradizzi-padaria-e-restaurante-porto-velho",
+  "name": "Tradizzi Padaria e Restaurante",
+  "curatedName": "Tradizzi Padaria e Restaurante",
+  "city": "Porto Velho",
+  "country": "Brazil",
+  "placeId": "ChIJE2K9bJJdMpIRV-sMiPAm29g",
+  "googleName": "Tradizzi Padaria e Restaurante",
+  "formattedAddress": "Av. Farquar, 1601 - Caiari, Porto Velho - RO, 76801-021, Brazil",
+  "phone": "(69) 3222-8328",
+  "internationalPhone": "+55 69 3222-8328",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15626126146608622423",
+  "rating": 4.4,
+  "reviewCount": 518,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -8.762418,
+    -63.9090674
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 7:30 PM",
+    "Sunday: 6:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tradizzi-padaria-e-restaurante-porto-velho/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:30.958Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "lagkagehuset-aabenraa",
+  "name": "Lagkagehuset",
+  "city": "Aabenraa",
+  "country": "Denmark",
+  "placeId": "ChIJqRKfGNFTs0cRTLcLM4O60KE",
+  "googleName": "Lagkagehuset",
+  "formattedAddress": "H P Hanssens Gade 25, 6200 Aabenraa, Denmark",
+  "phone": "74 62 80 00",
+  "website": "https://lagkagehuset.dk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11660024507922102092",
+  "rating": 4.1,
+  "reviewCount": 313,
+  "coords": [
+    55.0452494,
+    9.421757099999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:30 PM",
+    "Tuesday: 6:00 AM – 5:30 PM",
+    "Wednesday: 6:00 AM – 5:30 PM",
+    "Thursday: 6:00 AM – 5:30 PM",
+    "Friday: 6:00 AM – 5:30 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: 6:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lagkagehuset-aabenraa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:55:42.944Z"
+}

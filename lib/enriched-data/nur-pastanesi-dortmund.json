@@ -1,0 +1,45 @@
+{
+  "slug": "nur-pastanesi-dortmund",
+  "name": "Nur Pastanesi",
+  "curatedName": "Nur Pastanesi",
+  "city": "Dortmund",
+  "country": "Germany",
+  "placeId": "ChIJQRec_lUXuUcRw4PFnRYWHYQ",
+  "googleName": "Nur Pastanesi",
+  "formattedAddress": "Bornstraße 160, 44145 Dortmund, Germany",
+  "phone": "0231 18971597",
+  "internationalPhone": "+49 231 18971597",
+  "website": "http://nur-pastanesi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9519789473723155395",
+  "rating": 4.6,
+  "reviewCount": 813,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    51.5299643,
+    7.4710766
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 1:00 AM",
+    "Saturday: 8:00 AM – 1:00 AM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nur-pastanesi-dortmund/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:33:24.466Z"
+}

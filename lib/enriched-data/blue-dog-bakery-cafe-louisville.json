@@ -1,0 +1,46 @@
+{
+  "slug": "blue-dog-bakery-cafe-louisville",
+  "name": "Blue Dog Bakery & Cafe",
+  "curatedName": "Blue Dog Bakery & Cafe",
+  "city": "Louisville",
+  "country": "United States",
+  "placeId": "ChIJk83R3l5zaYgRtdrFowfWYw4",
+  "googleName": "Blue Dog Bakery & Cafe",
+  "formattedAddress": "2868 Frankfort Ave, Louisville, KY 40206, USA",
+  "phone": "(502) 899-9800",
+  "internationalPhone": "+1 502-899-9800",
+  "website": "http://www.bluedogbakeryandcafe.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1036907667526113973",
+  "rating": 4.7,
+  "reviewCount": 730,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    38.25450379999999,
+    -85.6873834
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Artisanal breads, plus light brunch & lunch fare featuring house charcuterie, served in homey digs.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blue-dog-bakery-cafe-louisville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:14:33.815Z"
+}

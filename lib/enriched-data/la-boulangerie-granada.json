@@ -1,0 +1,43 @@
+{
+  "slug": "la-boulangerie-granada",
+  "name": "La Boulangerie",
+  "curatedName": "La Boulangerie",
+  "city": "Granada",
+  "country": "Spain",
+  "placeId": "ChIJoXBdIsr9cQ0R7O84wy3W7Qo",
+  "googleName": "La Boulangerie",
+  "formattedAddress": "C. Gran Vía de Colón, 54, Centro, 18010 Granada, Spain",
+  "phone": "661 48 50 77",
+  "internationalPhone": "+34 661 48 50 77",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=787521001896865772",
+  "rating": 4.8,
+  "reviewCount": 81,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    37.1821197,
+    -3.600810099999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 3:00 PM, 5:30 – 8:00 PM",
+    "Tuesday: 9:00 AM – 3:00 PM, 5:30 – 8:00 PM",
+    "Wednesday: 9:00 AM – 3:00 PM, 5:30 – 8:00 PM",
+    "Thursday: 9:00 AM – 3:00 PM, 5:30 – 8:00 PM",
+    "Friday: 9:00 AM – 3:00 PM, 5:30 – 8:00 PM",
+    "Saturday: 10:00 AM – 2:30 PM",
+    "Sunday: 10:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boulangerie-granada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:58:33.436Z"
+}

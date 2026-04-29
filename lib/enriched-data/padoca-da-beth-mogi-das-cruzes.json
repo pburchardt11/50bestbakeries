@@ -1,0 +1,44 @@
+{
+  "slug": "padoca-da-beth-mogi-das-cruzes",
+  "name": "Padoca da Beth",
+  "curatedName": "Padoca da Beth",
+  "city": "Mogi das Cruzes",
+  "country": "Brazil",
+  "placeId": "ChIJK-VJw0nYzZQRI8d4vyKJK1I",
+  "googleName": "Padoca da Beth",
+  "formattedAddress": "Av. Cap. Manoel Rudge, 943 - Parque Monte Libano, Mogi das Cruzes - SP, 08780-290, Brazil",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://sites.google.com/view/padocadabeth/in%C3%ADcio/card%C3%A1pio-sal%C3%A3o?authuser=0",
+  "googleMapsUrl": "https://maps.google.com/?cid=5920976917442905891",
+  "rating": 4.1,
+  "reviewCount": 2085,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.522412,
+    -46.1771317
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padoca-da-beth-mogi-das-cruzes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:22:11.901Z"
+}

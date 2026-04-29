@@ -1,0 +1,32 @@
+{
+  "slug": "crumbles-cafe",
+  "name": "Crumbles Cafe",
+  "city": "الرفاع الشمالي",
+  "country": "Bahrain",
+  "placeId": "ChIJCRUKjw-tST4RReMev-OztUE",
+  "googleName": "Crumbles Cafe",
+  "formattedAddress": "4GMX+M87, Riffa, Bahrain",
+  "phone": "7733 3316",
+  "website": "https://instagram.com/crumblescafe_bh?igshid=YTQwZjQ0NmI0OA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=4734888373995365189",
+  "rating": 4.2,
+  "reviewCount": 77,
+  "coords": [
+    26.1341649,
+    50.5483129
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crumbles-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:46:15.640Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "pavlova-pasteleria-y-cafe-puerto-vallarta",
+  "name": "Pavlova Pasteleria y Café",
+  "curatedName": "Pavlova Pasteleria y Café",
+  "city": "Puerto Vallarta",
+  "country": "Mexico",
+  "placeId": "ChIJb1Z0ZodPIYQREsSz9wqqKoU",
+  "googleName": "Pavlova Pastelería y Café",
+  "formattedAddress": "C. Pavo Real 142, Las Aralias, 48328 Puerto Vallarta, Jal., Mexico",
+  "phone": "322 188 6686",
+  "internationalPhone": "+52 322 188 6686",
+  "website": "https://pavlovapv.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9595668920148411410",
+  "rating": 4.6,
+  "reviewCount": 1723,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.6404962,
+    -105.2189375
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pavlova-pasteleria-y-cafe-puerto-vallarta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:56:39.066Z"
+}

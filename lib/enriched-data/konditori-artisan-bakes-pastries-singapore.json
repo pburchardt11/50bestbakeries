@@ -1,0 +1,43 @@
+{
+  "slug": "konditori-artisan-bakes-pastries-singapore",
+  "name": "Konditori Artisan Bakes & Pastries",
+  "curatedName": "Konditori Artisan Bakes & Pastries",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJJUQOGbEZ2jERAThPRZweeM8",
+  "googleName": "Konditori Artisan Bakes & Pastries",
+  "formattedAddress": "33 Bussorah St, Singapore 199451",
+  "phone": "6209 8580",
+  "internationalPhone": "+65 6209 8580",
+  "website": "http://www.konditori.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14949732619582912513",
+  "rating": 4.4,
+  "reviewCount": 591,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    1.3016522,
+    103.859667
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/konditori-artisan-bakes-pastries-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:27.497Z"
+}

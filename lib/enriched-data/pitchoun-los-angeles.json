@@ -1,0 +1,46 @@
+{
+  "slug": "pitchoun-los-angeles",
+  "name": "Pitchoun",
+  "curatedName": "Pitchoun",
+  "city": "Los Angeles",
+  "country": "United States",
+  "placeId": "ChIJUZymwbTHwoAR1RJIniCE5vw",
+  "googleName": "Pitchoun!",
+  "formattedAddress": "545 S Olive St, Los Angeles, CA 90013, USA",
+  "phone": "(213) 689-3240",
+  "internationalPhone": "+1 213-689-3240",
+  "website": "http://www.pitchounbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18223398217830634197",
+  "rating": 4.4,
+  "reviewCount": 1823,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    34.0485296,
+    -118.2539871
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": "Rustic French bakery & cafe with fireplace offering classic pastries, savory items & coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pitchoun-los-angeles/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:08:04.645Z"
+}

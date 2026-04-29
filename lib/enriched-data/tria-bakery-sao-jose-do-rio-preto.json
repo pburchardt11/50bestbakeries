@@ -1,0 +1,43 @@
+{
+  "slug": "tria-bakery-sao-jose-do-rio-preto",
+  "name": "Tria Bakery",
+  "curatedName": "Tria Bakery",
+  "city": "São José do Rio Preto",
+  "country": "Brazil",
+  "placeId": "ChIJIcW0GiyzvZQR9j_DR4NwiGw",
+  "googleName": "Tria Bakery",
+  "formattedAddress": "R. Antônio de Godoy, 3117 - Centro, São José do Rio Preto - SP, 15015-100, Brazil",
+  "phone": "(17) 99707-2984",
+  "internationalPhone": "+55 17 99707-2984",
+  "website": "http://www.instagram.com/triabakery_br",
+  "googleMapsUrl": "https://maps.google.com/?cid=7820624462075871222",
+  "rating": 4.9,
+  "reviewCount": 52,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -20.8140073,
+    -49.3796372
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tria-bakery-sao-jose-do-rio-preto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:18:28.647Z"
+}

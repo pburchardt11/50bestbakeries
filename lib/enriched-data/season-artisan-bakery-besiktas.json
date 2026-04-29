@@ -1,0 +1,45 @@
+{
+  "slug": "season-artisan-bakery-besiktas",
+  "name": "SEASON Artisan Bakery",
+  "curatedName": "SEASON Artisan Bakery",
+  "city": "Beşiktaş",
+  "country": "Türkiye",
+  "placeId": "ChIJX8_fnDG3yhQRkelrZ6TVqlA",
+  "googleName": "SEASON Artisan Bakery",
+  "formattedAddress": "Bebek, Küçük Bebek Cd. No:15-17, 34342 Beşiktaş/İstanbul, Türkiye",
+  "phone": "0552 661 95 71",
+  "internationalPhone": "+90 552 661 95 71",
+  "website": "http://www.seasonbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5812693171161524625",
+  "rating": 4.6,
+  "reviewCount": 408,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0795033,
+    29.0448874
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 7:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/season-artisan-bakery-besiktas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:36:01.819Z"
+}

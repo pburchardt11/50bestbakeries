@@ -1,0 +1,43 @@
+{
+  "slug": "primitivo-artisan-bakery-cuenca",
+  "name": "Primitivo Artisan Bakery",
+  "curatedName": "Primitivo Artisan Bakery",
+  "city": "Cuenca",
+  "country": "Ecuador",
+  "placeId": "ChIJ6chklC0ZzZERsRUMjD2JL8Y",
+  "googleName": "Primitivo Artisan Bakery",
+  "formattedAddress": "Rafael Torres Beltrán 3-103 y, 010150 Cuenca, Ecuador",
+  "phone": "099 186 2074",
+  "internationalPhone": "+593 99 186 2074",
+  "website": "https://instagram.com/primitivo_bakery?utm_medium=copy_link",
+  "googleMapsUrl": "https://maps.google.com/?cid=14280783840850744753",
+  "rating": 4.5,
+  "reviewCount": 26,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -2.9125006,
+    -79.0005629
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/primitivo-artisan-bakery-cuenca/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:28:36.974Z"
+}

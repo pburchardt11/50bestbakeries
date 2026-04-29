@@ -1,0 +1,43 @@
+{
+  "slug": "crumb-sheffield",
+  "name": "Crumb",
+  "curatedName": "Crumb",
+  "city": "Sheffield",
+  "country": "United Kingdom",
+  "placeId": "ChIJ50vN9aODeUgR2bxOLHOMaOg",
+  "googleName": "Crumb",
+  "formattedAddress": "992 Abbeydale Rd, Sheffield S7 2QF, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.facebook.com/crumb.sheffield/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16746789640669674713",
+  "rating": 4.7,
+  "reviewCount": 331,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.3462627,
+    -1.4969271
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 8:30 AM – 3:00 PM",
+    "Sunday: 8:30 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crumb-sheffield/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:05:40.713Z"
+}

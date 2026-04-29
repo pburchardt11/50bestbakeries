@@ -1,0 +1,43 @@
+{
+  "slug": "montelena-padaria-artesanal-piracicaba",
+  "name": "Montelena Padaria Artesanal",
+  "curatedName": "Montelena Padaria Artesanal",
+  "city": "Piracicaba",
+  "country": "Brazil",
+  "placeId": "ChIJd12ncS4xxpQRoitgNUvRMr0",
+  "googleName": "Montelena Padaria Artesanal",
+  "formattedAddress": "R. José Ferraz de Camargo, 390 - São Dimas, Piracicaba - SP, 13416-060, Brazil",
+  "phone": "(19) 98980-7507",
+  "internationalPhone": "+55 19 98980-7507",
+  "website": "https://instagram.com/montelenapadaria",
+  "googleMapsUrl": "https://maps.google.com/?cid=13633189142952160162",
+  "rating": 4.8,
+  "reviewCount": 367,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -22.7140451,
+    -47.6439803
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/montelena-padaria-artesanal-piracicaba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:42:34.964Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "dylan-patisserie-makati",
+  "name": "Dylan Patisserie Makati",
+  "curatedName": "Dylan Patisserie Makati",
+  "city": "Makati",
+  "country": "Philippines",
+  "placeId": "ChIJ5zt7C2DJlzMRYhEsHx1ZDwo",
+  "googleName": "Dylan Patisserie Makati",
+  "formattedAddress": "116 Jupiter, Makati City, 1209 Metro Manila, Philippines",
+  "phone": "0917 877 2999",
+  "internationalPhone": "+63 917 877 2999",
+  "website": "https://www.dylanpatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=724896046641844578",
+  "rating": 4.7,
+  "reviewCount": 1141,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5627525,
+    121.0266838
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 9:00 PM",
+    "Tuesday: 8:30 AM – 9:00 PM",
+    "Wednesday: 8:30 AM – 9:00 PM",
+    "Thursday: 8:30 AM – 9:00 PM",
+    "Friday: 8:30 AM – 9:00 PM",
+    "Saturday: 8:30 AM – 9:00 PM",
+    "Sunday: 8:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dylan-patisserie-makati/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:34:30.177Z"
+}

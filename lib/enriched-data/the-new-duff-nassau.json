@@ -1,0 +1,32 @@
+{
+  "slug": "the-new-duff-nassau",
+  "name": "The New Duff",
+  "city": "Nassau",
+  "country": "Bahamas",
+  "placeId": "ChIJD7W18OF9L4kRt7RIODPBfng",
+  "googleName": "The New Duff",
+  "formattedAddress": "139 W Bay St, Nassau, The Bahamas",
+  "phone": "(242) 824-3000",
+  "website": "http://www.thenewduff.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8682589557348676791",
+  "rating": 4.9,
+  "reviewCount": 1486,
+  "coords": [
+    25.0796525,
+    -77.3628746
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:30 PM",
+    "Tuesday: 7:30 AM – 5:30 PM",
+    "Wednesday: 7:30 AM – 5:30 PM",
+    "Thursday: 7:30 AM – 5:30 PM",
+    "Friday: 7:30 AM – 5:30 PM",
+    "Saturday: 8:30 AM – 6:30 PM",
+    "Sunday: 8:30 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-new-duff-nassau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:44:08.640Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "pastarell-torino",
+  "name": "Pastarell",
+  "curatedName": "Pastarell",
+  "city": "Torino",
+  "country": "Italy",
+  "placeId": "ChIJcVjiKA9tiEcRiGDWN5GOYOg",
+  "googleName": "Pastarell",
+  "formattedAddress": "Piazza XVIII Dicembre, 3, 10122 Torino TO, Italy",
+  "phone": "011 440 7696",
+  "internationalPhone": "+39 011 440 7696",
+  "website": "http://www.pastarell.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16744540168921702536",
+  "rating": 4.5,
+  "reviewCount": 3209,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "bar",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    45.0744256,
+    7.669053900000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "Snug venue showcasing artisanal baked goods, cakes, pastries & tarts, plus coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastarell-torino/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:40:57.313Z"
+}

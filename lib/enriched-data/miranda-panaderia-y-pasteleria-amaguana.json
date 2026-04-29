@@ -1,0 +1,32 @@
+{
+  "slug": "miranda-panaderia-y-pasteleria-amaguana",
+  "name": "Miranda Panadería y Pastelería",
+  "city": "Amaguaña",
+  "country": "Ecuador",
+  "placeId": "ChIJAZiLpyej1ZERIxi25hyr3ro",
+  "googleName": "Panaderia Miranda",
+  "formattedAddress": "Rio Napo Oe1-39, 170809 Quito, Ecuador",
+  "phone": "098 604 0113",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13465388076502489123",
+  "rating": 4.4,
+  "reviewCount": 30,
+  "coords": [
+    -0.3320526,
+    -78.4893848
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/miranda-panaderia-y-pasteleria-amaguana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:59:34.974Z"
+}

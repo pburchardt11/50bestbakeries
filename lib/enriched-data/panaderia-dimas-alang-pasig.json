@@ -1,0 +1,43 @@
+{
+  "slug": "panaderia-dimas-alang-pasig",
+  "name": "Panaderia Dimas Alang",
+  "curatedName": "Panaderia Dimas Alang",
+  "city": "Pasig",
+  "country": "Philippines",
+  "placeId": "ChIJdStzqXnIlzMRPFmh4-UlwR8",
+  "googleName": "Panaderia Dimas-Alang",
+  "formattedAddress": "52, 1600 A. Mabini Street, Pasig, Metro Manila, Philippines",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://www.spot.ph/eatdrink/56049/revisiting-favorites-panaderia-dimas-alang",
+  "googleMapsUrl": "https://maps.google.com/?cid=2288151754977663292",
+  "rating": 4.6,
+  "reviewCount": 415,
+  "priceLevel": 1,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    14.5634679,
+    121.0760434
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 9:00 PM",
+    "Tuesday: 5:00 AM – 9:00 PM",
+    "Wednesday: 5:00 AM – 9:00 PM",
+    "Thursday: 5:00 AM – 9:00 PM",
+    "Friday: 5:00 AM – 9:00 PM",
+    "Saturday: 5:00 AM – 9:00 PM",
+    "Sunday: 5:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-dimas-alang-pasig/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:47.457Z"
+}

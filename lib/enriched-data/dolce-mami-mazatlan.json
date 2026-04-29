@@ -1,0 +1,43 @@
+{
+  "slug": "dolce-mami-mazatlan",
+  "name": "Dolce Mami",
+  "curatedName": "Dolce Mami",
+  "city": "Mazatlán",
+  "country": "Mexico",
+  "placeId": "ChIJu_LPAACrmIYR3ufkpZFPRuo",
+  "googleName": "Dolce Mami",
+  "formattedAddress": "Marina Kelly, 82112 Mazatlán, Sin., Mexico",
+  "phone": "669 239 8356",
+  "internationalPhone": "+52 669 239 8356",
+  "website": "https://dolcemami.mx/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16881267740216977374",
+  "rating": 3.9,
+  "reviewCount": 17,
+  "priceLevel": null,
+  "types": [
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    23.2884645,
+    -106.4720165
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dolce-mami-mazatlan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:49:19.543Z"
+}

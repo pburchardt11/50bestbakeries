@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-ideal-nezahualcoyotl",
+  "name": "Pastelería Ideal",
+  "curatedName": "Pastelería Ideal",
+  "city": "Nezahualcóyotl",
+  "country": "Mexico",
+  "placeId": "ChIJAbzUYxz90YURk1o1tZJe-Ww",
+  "googleName": "Pastelería Ideal",
+  "formattedAddress": "Av. Adolfo López Mateos 178, Metropolitana 1ra Secc, 57730 Cdad. Nezahualcóyotl, Méx., Mexico",
+  "phone": "55 5793 4239",
+  "internationalPhone": "+52 55 5793 4239",
+  "website": "https://www.pasteleriaideal.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7852411409495579283",
+  "rating": 4.4,
+  "reviewCount": 3206,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    19.3978672,
+    -99.0304149
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 9:30 PM",
+    "Tuesday: 5:30 AM – 9:30 PM",
+    "Wednesday: 5:30 AM – 9:30 PM",
+    "Thursday: 5:30 AM – 9:30 PM",
+    "Friday: 5:30 AM – 9:30 PM",
+    "Saturday: 5:30 AM – 9:30 PM",
+    "Sunday: 5:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-ideal-nezahualcoyotl/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:54:12.435Z"
+}

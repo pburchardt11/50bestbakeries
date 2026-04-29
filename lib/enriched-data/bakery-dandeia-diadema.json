@@ -1,0 +1,46 @@
+{
+  "slug": "bakery-dandeia-diadema",
+  "name": "Bakery Dandeia",
+  "curatedName": "Bakery Dandeia",
+  "city": "Diadema",
+  "country": "Brazil",
+  "placeId": "ChIJhyXf1M5EzpQRRS8cASwUDQw",
+  "googleName": "Bakery Dandeia",
+  "formattedAddress": "R. Paraopeba, 454 - Taboão, Diadema - SP, 09932-080, Brazil",
+  "phone": "(11) 94723-8325",
+  "internationalPhone": "+55 11 94723-8325",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=868372482382114629",
+  "rating": 4.3,
+  "reviewCount": 332,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -23.663662,
+    -46.617508
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-dandeia-diadema/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:24:36.975Z"
+}

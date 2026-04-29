@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-rouss-tlaquepaque",
+  "name": "Pasteleria Rouss",
+  "curatedName": "Pasteleria Rouss",
+  "city": "Tlaquepaque",
+  "country": "Mexico",
+  "placeId": "ChIJlWlLM7myKIQRCAQJRap-ugo",
+  "googleName": "Pasteleria Rouss",
+  "formattedAddress": "C. Río Amazonas 543A, El Vergel, 45595 San Pedro Tlaquepaque, Jal., Mexico",
+  "phone": "33 3606 2309",
+  "internationalPhone": "+52 33 3606 2309",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=773069555815220232",
+  "rating": 4.7,
+  "reviewCount": 417,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.5903538,
+    -103.3395302
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-rouss-tlaquepaque/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:01.109Z"
+}

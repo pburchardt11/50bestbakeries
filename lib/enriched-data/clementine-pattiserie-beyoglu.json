@@ -1,0 +1,43 @@
+{
+  "slug": "clementine-pattiserie-beyoglu",
+  "name": "Clementine Pattiserie",
+  "curatedName": "Clementine Pattiserie",
+  "city": "Beyoğlu",
+  "country": "Türkiye",
+  "placeId": "ChIJX0aKPF-5yhQRd0MHe00n_Zw",
+  "googleName": "Clementine Pattiserie",
+  "formattedAddress": "Asmalı Mescit, İstiklal Cd. NO:184, 34421 Beyoğlu/İstanbul, Türkiye",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://clementinepatisserie.com/hello/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11312241052754592631",
+  "rating": 4.5,
+  "reviewCount": 2309,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    41.0287474,
+    28.974588
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/clementine-pattiserie-beyoglu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:59:56.852Z"
+}

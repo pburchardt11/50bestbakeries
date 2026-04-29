@@ -1,0 +1,32 @@
+{
+  "slug": "c-ral-bakery-girne",
+  "name": "Çıralı Bakery",
+  "city": "Girne",
+  "country": "Cyprus",
+  "placeId": "ChIJ4TAhGq5s3hQRUbJ-tYacP9Y",
+  "googleName": "Çıralı Bakery",
+  "formattedAddress": "Çatalköy Cd, Ozanköy 99320",
+  "phone": "0533 889 33 00",
+  "website": "http://www.ciralibakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15438230150033879633",
+  "rating": 4,
+  "reviewCount": 606,
+  "coords": [
+    35.3321119,
+    33.3379855
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/c-ral-bakery-girne/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:53:18.594Z"
+}

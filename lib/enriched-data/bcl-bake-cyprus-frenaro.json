@@ -1,0 +1,30 @@
+{
+  "slug": "bcl-bake-cyprus-frenaro",
+  "name": "BCL BAKE Cyprus",
+  "city": "Frenaro",
+  "country": "Cyprus",
+  "placeId": "ChIJ_0a-mPTO3xQRFbKtT1LqZtE",
+  "googleName": "B.c.l Bake Cyprus",
+  "formattedAddress": "Kavallou 14, Frenaros 5350, Cyprus",
+  "phone": "23 822818",
+  "website": "https://www.bakecyprus.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15089005240796426773",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    35.0345423,
+    33.90890950000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T07:52:19.670Z"
+}

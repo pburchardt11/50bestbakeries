@@ -1,0 +1,32 @@
+{
+  "slug": "blanche-cakes-douala",
+  "name": "Blanche Cakes",
+  "city": "Douala",
+  "country": "Cameroon",
+  "placeId": "ChIJYxO3lPENYRARPM4T6NUr5k0",
+  "googleName": "Maison Blanche, Douala",
+  "formattedAddress": "3PHJ+3XH, Douala, Cameroon",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5613222183285542460",
+  "rating": 3.5,
+  "reviewCount": 228,
+  "coords": [
+    4.0776923,
+    9.7324947
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blanche-cakes-douala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:36:10.500Z"
+}

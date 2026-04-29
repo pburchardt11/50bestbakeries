@@ -1,0 +1,43 @@
+{
+  "slug": "munch-bakery",
+  "name": "Munch Bakery",
+  "curatedName": "Munch Bakery",
+  "city": "جدة",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJZWU7T_vPwxURyJmclxODluM",
+  "googleName": "Munch Bakery",
+  "formattedAddress": "Arafat Street، Al Andalus, Jeddah 23325, Saudi Arabia",
+  "phone": "9200 15010",
+  "internationalPhone": "+966 9200 15010",
+  "website": "https://www.munchbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16399439213287479752",
+  "rating": 4.3,
+  "reviewCount": 2341,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    21.53829,
+    39.1643443
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 2:00 – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/munch-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:55:11.175Z"
+}

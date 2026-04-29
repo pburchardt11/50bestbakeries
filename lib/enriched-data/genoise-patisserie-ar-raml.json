@@ -1,0 +1,32 @@
+{
+  "slug": "genoise-patisserie-ar-raml",
+  "name": "Genoise Patisserie",
+  "city": "Ar Raml",
+  "country": "Egypt",
+  "placeId": "ChIJebxcNkeT9RQR1Ztd9TkF5no",
+  "googleName": "Genoise",
+  "formattedAddress": "2P5W+W4X, Cairo - Borg El-Arab Desert Rd, Ekeingy Maryout (Sharq WA Gharb), Amreya 1, Alexandria Governorate 5247068, Egypt",
+  "phone": "012 71702761",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8855771463758486485",
+  "rating": 4.7,
+  "reviewCount": 51,
+  "coords": [
+    31.0098535,
+    29.7453593
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 12:00 AM",
+    "Tuesday: 10:00 AM – 12:00 AM",
+    "Wednesday: 10:00 AM – 12:00 AM",
+    "Thursday: 10:00 AM – 12:00 AM",
+    "Friday: 10:00 AM – 12:00 AM",
+    "Saturday: 10:00 AM – 12:00 AM",
+    "Sunday: 10:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/genoise-patisserie-ar-raml/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T08:01:49.930Z"
+}

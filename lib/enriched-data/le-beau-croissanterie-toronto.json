@@ -1,0 +1,44 @@
+{
+  "slug": "le-beau-croissanterie-toronto",
+  "name": "Le Beau Croissanterie",
+  "curatedName": "Le Beau Croissanterie",
+  "city": "Toronto",
+  "country": "Canada",
+  "placeId": "ChIJQVAEtXnL1IkRmlAcU4oDGQ8",
+  "googleName": "'Le Beau' Croissanterie",
+  "formattedAddress": "665 Dundas St E, Toronto, ON M5A 0P4, Canada",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.lebeaulab.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1087904677621420186",
+  "rating": 4.6,
+  "reviewCount": 1458,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    43.6607631,
+    -79.3594687
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": "Espresso drinks & French-style pastries such as croissants & tarts served in a minimalist setting.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-beau-croissanterie-toronto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:25:18.904Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "cafe-dear-leon-baltimore",
+  "name": "Cafe Dear Leon",
+  "curatedName": "Cafe Dear Leon",
+  "city": "Baltimore",
+  "country": "United States",
+  "placeId": "ChIJ0biUE8cDyIkRzEPgI_0uZXQ",
+  "googleName": "Café Dear Leon",
+  "formattedAddress": "2929 O'Donnell St, Baltimore, MD 21224, USA",
+  "phone": "(667) 335-9160",
+  "internationalPhone": "+1 667-335-9160",
+  "website": "http://cafedearleon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8387161545810920396",
+  "rating": 4.8,
+  "reviewCount": 779,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    39.27991129999999,
+    -76.57435
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 3:00 PM",
+    "Wednesday: 6:00 AM – 3:00 PM",
+    "Thursday: 6:00 AM – 3:00 PM",
+    "Friday: 6:00 AM – 3:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-dear-leon-baltimore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:07:50.454Z"
+}

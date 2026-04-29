@@ -1,0 +1,32 @@
+{
+  "slug": "pan-pana-ciudad-de-la-habana",
+  "name": "Pan Pana",
+  "city": "Ciudad de la Habana",
+  "country": "Cuba",
+  "placeId": "ChIJYcn-GMl3zYgRpamDpckntdg",
+  "googleName": "Pan Pana (panadería/dulcería)",
+  "formattedAddress": "4JR4+P2X, Havana, Cuba",
+  "phone": "05 0290501",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15615431029995841957",
+  "rating": 5,
+  "reviewCount": 12,
+  "coords": [
+    23.141867,
+    -82.3950875
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-pana-ciudad-de-la-habana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:50:35.269Z"
+}

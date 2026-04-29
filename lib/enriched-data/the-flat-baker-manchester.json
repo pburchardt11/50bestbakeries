@@ -1,0 +1,43 @@
+{
+  "slug": "the-flat-baker-manchester",
+  "name": "The Flat Baker",
+  "curatedName": "The Flat Baker",
+  "city": "Manchester",
+  "country": "United Kingdom",
+  "placeId": "ChIJ6eJM6Pyxe0gRfD_qz-pQZ2o",
+  "googleName": "The Flat Baker",
+  "formattedAddress": "97 Jersey St, Ancoats, Manchester M4 6JG, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "http://www.theflatbaker.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7667185860062363516",
+  "rating": 4.8,
+  "reviewCount": 513,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.4849673,
+    -2.2256556
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-flat-baker-manchester/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:04:50.005Z"
+}

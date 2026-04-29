@@ -1,0 +1,43 @@
+{
+  "slug": "supreme-bakers-thiruvananthapuram",
+  "name": "Supreme Bakers",
+  "curatedName": "Supreme Bakers",
+  "city": "Thiruvananthapuram",
+  "country": "India",
+  "placeId": "ChIJvaULtdm7BTsRPmCof0BYMVQ",
+  "googleName": "Supreme Bakers",
+  "formattedAddress": "Ground Floor Musaliar Buildings, Pattom - Kowdiar Rd, Kuravankonam, Thiruvananthapuram, Kerala 695003, India",
+  "phone": "0471 272 3322",
+  "internationalPhone": "+91 471 272 3322",
+  "website": "http://www.supremebakers.in/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6066727207087661118",
+  "rating": 4.3,
+  "reviewCount": 6485,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    8.5228627,
+    76.9513566
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 11:00 PM",
+    "Tuesday: 9:30 AM – 11:00 PM",
+    "Wednesday: 9:30 AM – 11:00 PM",
+    "Thursday: 9:30 AM – 11:00 PM",
+    "Friday: 9:30 AM – 11:00 PM",
+    "Saturday: 9:30 AM – 11:00 PM",
+    "Sunday: 9:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/supreme-bakers-thiruvananthapuram/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:36:24.586Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "t2pan-sourdough-boutique-oranjestad",
+  "name": "T2Pan Sourdough Boutique",
+  "city": "Oranjestad",
+  "country": "Aruba",
+  "placeId": "ChIJ22UKIcM5hY4RcS_Yp3euKL4",
+  "googleName": "T2 Sourdough Boutique",
+  "formattedAddress": "CAYA TARATATA 11, Noord, Aruba",
+  "phone": "560 9064",
+  "website": "https://www.t2pan.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13702393695215038321",
+  "rating": 4.7,
+  "reviewCount": 192,
+  "coords": [
+    12.540238,
+    -70.0525608
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/t2pan-sourdough-boutique-oranjestad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:28:55.379Z"
+}

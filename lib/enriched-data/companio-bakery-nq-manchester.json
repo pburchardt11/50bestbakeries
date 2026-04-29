@@ -1,0 +1,43 @@
+{
+  "slug": "companio-bakery-nq-manchester",
+  "name": "Companio Bakery NQ",
+  "curatedName": "Companio Bakery NQ",
+  "city": "Manchester",
+  "country": "United Kingdom",
+  "placeId": "ChIJy3eXiQqxe0gRANdceSzv-8E",
+  "googleName": "Companio Bakery NQ",
+  "formattedAddress": "Unit 1, 60 Spear St, Manchester M1 1AW, UK",
+  "phone": null,
+  "internationalPhone": null,
+  "website": "https://companiobakery.co.uk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13978028842768193280",
+  "rating": 4.6,
+  "reviewCount": 187,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    53.4836402,
+    -2.2330986
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 2:00 PM",
+    "Wednesday: 8:00 AM – 2:00 PM",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/companio-bakery-nq-manchester/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T05:06:06.648Z"
+}

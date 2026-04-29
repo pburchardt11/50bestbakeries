@@ -1,0 +1,43 @@
+{
+  "slug": "gran-pan-guadalajara",
+  "name": "Gran Pan",
+  "curatedName": "Gran Pan",
+  "city": "Guadalajara",
+  "country": "Mexico",
+  "placeId": "ChIJl4_D-bCvKIQRjwd7n8CbQHY",
+  "googleName": "Gran Pan",
+  "formattedAddress": "C. Garibaldi 1202, Santa Teresita, 44200 Guadalajara, Jal., Mexico",
+  "phone": "33 5113 6798",
+  "internationalPhone": "+52 33 5113 6798",
+  "website": "https://granpan.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8520981746596644751",
+  "rating": 4.6,
+  "reviewCount": 736,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    20.6812565,
+    -103.3639463
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gran-pan-guadalajara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:43:27.555Z"
+}

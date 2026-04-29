@@ -1,0 +1,43 @@
+{
+  "slug": "pasteleria-lolita-saltillo",
+  "name": "Pasteleria Lolita",
+  "curatedName": "Pasteleria Lolita",
+  "city": "Saltillo",
+  "country": "Mexico",
+  "placeId": "ChIJUTXUT7YSiIYRPSPsWaOBVws",
+  "googleName": "Pastelería Lolita",
+  "formattedAddress": "Blvrd Rufino Tamayo 152, San Isidro, 25254 Saltillo, Coah., Mexico",
+  "phone": "844 416 0297",
+  "internationalPhone": "+52 844 416 0297",
+  "website": "https://www.facebook.com/PasteleriaLolita",
+  "googleMapsUrl": "https://maps.google.com/?cid=817264395979334461",
+  "rating": 4.5,
+  "reviewCount": 95,
+  "priceLevel": 3,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    25.4608676,
+    -100.9725317
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pasteleria-lolita-saltillo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:37:36.818Z"
+}

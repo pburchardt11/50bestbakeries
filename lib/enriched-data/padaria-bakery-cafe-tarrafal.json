@@ -1,0 +1,32 @@
+{
+  "slug": "padaria-bakery-cafe-tarrafal",
+  "name": "Padaria Bakery Café",
+  "city": "Tarrafal",
+  "country": "Cape Verde",
+  "placeId": "ChIJOeCGRrB0SgkRigqpgUq6OKs",
+  "googleName": "Padaria Bakery Café",
+  "formattedAddress": "Tarrafal, Cabo Verde",
+  "phone": "982 69 33",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12337816008347159178",
+  "rating": 4.1,
+  "reviewCount": 101,
+  "coords": [
+    15.2765757,
+    -23.7533497
+  ],
+  "openingHours": [
+    "Monday: 6:15 AM – 9:00 PM",
+    "Tuesday: 6:15 AM – 9:00 PM",
+    "Wednesday: 6:15 AM – 9:00 PM",
+    "Thursday: 6:15 AM – 9:00 PM",
+    "Friday: 6:15 AM – 9:00 PM",
+    "Saturday: 6:15 AM – 9:00 PM",
+    "Sunday: 6:15 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/padaria-bakery-cafe-tarrafal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:40:47.744Z"
+}

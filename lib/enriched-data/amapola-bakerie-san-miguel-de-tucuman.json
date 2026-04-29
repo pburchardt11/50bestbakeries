@@ -1,0 +1,43 @@
+{
+  "slug": "amapola-bakerie-san-miguel-de-tucuman",
+  "name": "Amapola Bakerie",
+  "curatedName": "Amapola Bakerie",
+  "city": "San Miguel de Tucumán",
+  "country": "Argentina",
+  "placeId": "ChIJr0gcIr5dIpQRO9rn0i91sC8",
+  "googleName": "Amapola Bakerie",
+  "formattedAddress": "Italia 3322, T4000 San Miguel de Tucumán, Tucumán, Argentina",
+  "phone": "0381 667-2782",
+  "internationalPhone": "+54 381 667-2782",
+  "website": "https://www.instagram.com/amapolabakerie?igsh=MXcxcW5yMjBhOXp6eA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=3436375363946011195",
+  "rating": 5,
+  "reviewCount": 34,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    -26.8080806,
+    -65.243273
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 1:15 PM, 4:00 – 8:00 PM",
+    "Wednesday: 9:00 AM – 1:00 PM, 4:00 – 8:00 PM",
+    "Thursday: 9:00 AM – 1:00 PM, 4:00 – 8:00 PM",
+    "Friday: 9:00 AM – 1:00 PM, 4:00 – 8:30 PM",
+    "Saturday: 10:00 AM – 1:30 PM, 4:00 – 8:00 PM",
+    "Sunday: 10:30 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amapola-bakerie-san-miguel-de-tucuman/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:12:00.147Z"
+}

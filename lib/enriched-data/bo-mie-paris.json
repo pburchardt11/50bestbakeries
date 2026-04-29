@@ -1,0 +1,45 @@
+{
+  "slug": "bo-mie-paris",
+  "name": "BO&MIE",
+  "curatedName": "BO&MIE",
+  "city": "Paris",
+  "country": "France",
+  "placeId": "ChIJE-_aPBpu5kcRxrlogXWX7N8",
+  "googleName": "BO&MIE",
+  "formattedAddress": "18 R. de Turbigo, 75002 Paris, France",
+  "phone": "09 80 53 79 53",
+  "internationalPhone": "+33 9 80 53 79 53",
+  "website": "https://www.boetmie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16135438095899736518",
+  "rating": 4.4,
+  "reviewCount": 6131,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "cafe",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    48.8640778,
+    2.3504509
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "House-baked sweet & savory pastries, breads & coffee in a relaxed, stylish cafe.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bo-mie-paris/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:29:06.926Z"
+}

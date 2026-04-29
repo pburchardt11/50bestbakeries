@@ -1,0 +1,43 @@
+{
+  "slug": "maison-azar",
+  "name": "Maison AZAR",
+  "curatedName": "Maison AZAR",
+  "city": "الدار البيضاء",
+  "country": "Morocco",
+  "placeId": "ChIJf1mj63HTpw0RaqoQLKmqyz8",
+  "googleName": "Maison AZAR",
+  "formattedAddress": "5, rue Abdelhak Bnou Said, Bd d'Anfa, Casablanca 20250, Morocco",
+  "phone": "05 20 16 53 94",
+  "internationalPhone": "+212 5 20 16 53 94",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4596955488227207786",
+  "rating": 4.7,
+  "reviewCount": 31,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    33.5944286,
+    -7.627192399999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: 9:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maison-azar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T04:50:19.859Z"
+}

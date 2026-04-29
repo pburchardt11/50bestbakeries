@@ -1,0 +1,43 @@
+{
+  "slug": "encore-kafe-konditori-oslo",
+  "name": "Encore Kafe & Konditori Oslo",
+  "curatedName": "Encore Kafe & Konditori Oslo",
+  "city": "Oslo",
+  "country": "Norway",
+  "placeId": "ChIJcSTlI09tQUYR-LL8lDDOMLI",
+  "googleName": "Encore Kafe & Konditori Oslo",
+  "formattedAddress": "Pilestredet 75C, 0354 Oslo, Norway",
+  "phone": "90 93 03 28",
+  "internationalPhone": "+47 90 93 03 28",
+  "website": "https://encoreoslo.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12839989245686625016",
+  "rating": 4.9,
+  "reviewCount": 308,
+  "priceLevel": null,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    59.92686990000001,
+    10.7288055
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/encore-kafe-konditori-oslo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:57:32.168Z"
+}

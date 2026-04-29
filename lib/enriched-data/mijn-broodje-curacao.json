@@ -1,0 +1,32 @@
+{
+  "slug": "mijn-broodje-curacao",
+  "name": "Mijn broodje",
+  "city": "Curacao",
+  "country": "Curaçao",
+  "placeId": "ChIJY351KnR9g44R3hA7Low2ILo",
+  "googleName": "Mijn Broodje",
+  "formattedAddress": "268 Caracasbaaiweg, Willemstad, Curaçao",
+  "phone": "9 767 0666",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13411779666008281310",
+  "rating": 4.7,
+  "reviewCount": 315,
+  "coords": [
+    12.1038405,
+    -68.8857549
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 3:00 PM",
+    "Tuesday: 6:00 AM – 3:00 PM",
+    "Wednesday: 6:00 AM – 3:00 PM",
+    "Thursday: 6:00 AM – 3:00 PM",
+    "Friday: 6:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mijn-broodje-curacao/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:51:13.938Z"
+}

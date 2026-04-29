@@ -1,0 +1,32 @@
+{
+  "slug": "napoleon-by",
+  "name": "Napoleon.by",
+  "city": "Мінск",
+  "country": "Belarus",
+  "placeId": "ChIJEY4VVIXQ20YRvylFtE-TIMo",
+  "googleName": "Napoleon.by",
+  "formattedAddress": "praspiekt Dziaržynskaha 131, Minsk, Minskaja voblasć, Belarus",
+  "phone": "8 029 277-90-30",
+  "website": "http://napoleon.by/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14564803165452315071",
+  "rating": 5,
+  "reviewCount": 108,
+  "coords": [
+    53.8450502,
+    27.4740653
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 10:00 PM",
+    "Tuesday: 11:00 AM – 10:00 PM",
+    "Wednesday: 11:00 AM – 10:00 PM",
+    "Thursday: 11:00 AM – 10:00 PM",
+    "Friday: 11:00 AM – 10:00 PM",
+    "Saturday: 11:00 AM – 10:00 PM",
+    "Sunday: 11:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/napoleon-by/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T06:59:46.949Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "don-zura-ambato",
+  "name": "Don Zura",
+  "city": "Ambato",
+  "country": "Ecuador",
+  "placeId": "ChIJhWtc6yGC05ERMNG1H7zMNj0",
+  "googleName": "Panadería Don Zura",
+  "formattedAddress": "Víctor Hugo, 180103 Ambato, Ecuador",
+  "phone": "098 439 4948",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4410937993413906736",
+  "rating": 4.4,
+  "reviewCount": 276,
+  "coords": [
+    -1.2702586,
+    -78.6375978
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/don-zura-ambato/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T07:59:44.490Z"
+}

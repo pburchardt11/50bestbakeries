@@ -1,0 +1,43 @@
+{
+  "slug": "freyja-the-croissant-story-budapest",
+  "name": "Freyja - The Croissant Story",
+  "curatedName": "Freyja - The Croissant Story",
+  "city": "Budapest",
+  "country": "Hungary",
+  "placeId": "ChIJ8xS6Ej3dQUcRcDVMIcqMw0U",
+  "googleName": "Freyja - the croissant story",
+  "formattedAddress": "Budapest, Szövetség u. 10-12, 1074 Hungary",
+  "phone": "06 30 449 4630",
+  "internationalPhone": "+36 30 449 4630",
+  "website": "https://www.facebook.com/freyjathecroissantstory",
+  "googleMapsUrl": "https://maps.google.com/?cid=5027016408845530480",
+  "rating": 4.6,
+  "reviewCount": 2992,
+  "priceLevel": 2,
+  "types": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "coords": [
+    47.4996287,
+    19.0737425
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": "Neighborhood cafe specializing in unique sweet & savory croissants, plus sandwiches & coffee.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/freyja-the-croissant-story-budapest/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T03:48:50.297Z"
+}
