@@ -1,0 +1,32 @@
+{
+  "slug": "bakerville",
+  "name": "Bakerville",
+  "city": "Вінниця",
+  "country": "Ukraine",
+  "placeId": "ChIJYS8NjURcLUcRgiQpZMCzLzI",
+  "googleName": "Baskerville",
+  "formattedAddress": "Keletska St, 106, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21030",
+  "phone": "067 433 3577",
+  "website": "https://baskerville.com.ua/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3616306664697308290",
+  "rating": 4.5,
+  "reviewCount": 171,
+  "coords": [
+    49.2276078,
+    28.4026827
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakerville/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:10.551Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "xlib-coffee",
+  "name": "Xlib&Coffee",
+  "city": "Ірпінь",
+  "country": "Ukraine",
+  "placeId": "ChIJHZoGsawzK0cRgusYlphfuM4",
+  "googleName": "Xlib&Coffee.SADOVA",
+  "formattedAddress": "Sadova St, 31, Irpin, Kyivs'ka oblast, Ukraine, 08200",
+  "phone": "067 185 0777",
+  "website": "https://xlibcoffee.choiceqr.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14895760876485798786",
+  "rating": 4.4,
+  "reviewCount": 76,
+  "coords": [
+    50.5242575,
+    30.2345361
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/xlib-coffee/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:52.056Z"
+}

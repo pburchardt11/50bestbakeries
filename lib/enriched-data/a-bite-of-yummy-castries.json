@@ -1,0 +1,32 @@
+{
+  "slug": "a-bite-of-yummy-castries",
+  "name": "A Bite of Yummy",
+  "city": "Castries",
+  "country": "St. Lucia",
+  "placeId": "ChIJCav-6NVnQIwRxInFNr2GmFQ",
+  "googleName": "A Bite of Yummy",
+  "formattedAddress": "Carellie Castries, St Lucia",
+  "phone": "(758) 719-2286",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6095770242871822788",
+  "rating": 5,
+  "reviewCount": 8,
+  "coords": [
+    14.0164958,
+    -60.9695104
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 4:00 – 6:00 PM",
+    "Wednesday: 4:00 – 8:00 PM",
+    "Thursday: Closed",
+    "Friday: 4:00 – 8:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-bite-of-yummy-castries/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:57.789Z"
+}

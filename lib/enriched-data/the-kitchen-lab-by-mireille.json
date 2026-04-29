@@ -1,0 +1,32 @@
+{
+  "slug": "the-kitchen-lab-by-mireille",
+  "name": "The Kitchen Lab by Mireille",
+  "city": "بوشر",
+  "country": "Oman",
+  "placeId": "ChIJDUywXZcBjj4RVDAGXxbq4CA",
+  "googleName": "The Kitchen Lab by Mireille",
+  "formattedAddress": "4831 Way, Muscat, Oman",
+  "phone": "9433 1177",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2369150785801302100",
+  "rating": 4.7,
+  "reviewCount": 36,
+  "coords": [
+    23.6009892,
+    58.3582212
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/the-kitchen-lab-by-mireille/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:47:32.646Z"
+}

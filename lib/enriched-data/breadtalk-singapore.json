@@ -1,0 +1,32 @@
+{
+  "slug": "breadtalk-singapore",
+  "name": "BreadTalk",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJp77eP40X2jERqBp3UcROGas",
+  "googleName": "BreadTalk IHQ",
+  "formattedAddress": "Tai Seng St, BreadTalk IHQ, Singapore 534013",
+  "phone": "6285 6116",
+  "website": "http://breadtalkihq.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12328972059990760104",
+  "rating": 4,
+  "reviewCount": 1763,
+  "coords": [
+    1.3342817,
+    103.8898862
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadtalk-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:20.327Z"
+}

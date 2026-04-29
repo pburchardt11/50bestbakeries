@@ -1,0 +1,32 @@
+{
+  "slug": "crumbs-bake-shop-ramallah",
+  "name": "Crumbs Bake Shop",
+  "city": "Ramallah",
+  "country": "Palestine",
+  "placeId": "ChIJe2FfkzArHRURDsm5BmYyE7M",
+  "googleName": "K5M Cakes",
+  "formattedAddress": "Rukab, Ramallah",
+  "phone": "02 295 6813",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12903712771127494926",
+  "rating": 4.3,
+  "reviewCount": 24,
+  "coords": [
+    31.90440349999999,
+    35.1998008
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/crumbs-bake-shop-ramallah/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:50:57.026Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "vincenzo-bakery",
+  "name": "VINCENZO bakery",
+  "city": "Владикавказ",
+  "country": "Russia",
+  "placeId": "ChIJJ_X5v3igWkARoGHTmkddZ4s",
+  "googleName": "Vincenzo",
+  "formattedAddress": "Ulitsa Maksima Gor'kogo, 13, Vladikavkaz, Respublika Severnaya Osetiya — Alaniya, Russia, 362040",
+  "phone": "8 (867) 233-33-90",
+  "website": "https://www.mercadagroup.ru/restaurants/vincenczo-xleb/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10045100055994786208",
+  "rating": 4.1,
+  "reviewCount": 172,
+  "coords": [
+    43.0281721,
+    44.68021950000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/vincenzo-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:16.692Z"
+}

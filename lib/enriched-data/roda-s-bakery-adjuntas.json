@@ -1,0 +1,32 @@
+{
+  "slug": "roda-s-bakery-adjuntas",
+  "name": "Roda's Bakery",
+  "city": "Adjuntas",
+  "country": "Puerto Rico",
+  "placeId": "ChIJIw5KkoLTAowRZwRY3i7-tYI",
+  "googleName": "Kamal Bakery",
+  "formattedAddress": "7 Cll Barriada Rodriguez, Adjuntas, 00601, Puerto Rico",
+  "phone": "(787) 987-8788",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9418713672967521383",
+  "rating": 4.6,
+  "reviewCount": 75,
+  "coords": [
+    18.1603056,
+    -66.71944450000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/roda-s-bakery-adjuntas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:00:42.969Z"
+}

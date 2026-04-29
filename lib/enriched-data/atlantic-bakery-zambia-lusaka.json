@@ -1,0 +1,32 @@
+{
+  "slug": "atlantic-bakery-zambia-lusaka",
+  "name": "Atlantic Bakery Zambia",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJhTQt-HP1QBkRHxHtc-xQNsI",
+  "googleName": "Atlantic Bakery Zambia",
+  "formattedAddress": "Plot B5-1H, Lumumba Rd, Lusaka, Zambia",
+  "phone": "0211 240 228",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13994461868587815199",
+  "rating": 4.9,
+  "reviewCount": 13,
+  "coords": [
+    -15.3839085,
+    28.2692202
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 5:00 PM",
+    "Tuesday: 5:30 AM – 5:00 PM",
+    "Wednesday: 5:30 AM – 5:00 PM",
+    "Thursday: 5:30 AM – 5:00 PM",
+    "Friday: 5:30 AM – 5:00 PM",
+    "Saturday: 5:30 AM – 3:00 PM",
+    "Sunday: 5:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/atlantic-bakery-zambia-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:35.025Z"
+}

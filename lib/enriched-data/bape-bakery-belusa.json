@@ -1,0 +1,32 @@
+{
+  "slug": "bape-bakery-belusa",
+  "name": "Bape Bakery",
+  "city": "Beluša",
+  "country": "Slovakia",
+  "placeId": "ChIJR9tGxcmPFEcRY_fdMb1a_44",
+  "googleName": "Bape spol. Ltd. - Bakery",
+  "formattedAddress": "Farská 1156/53, 018 61 Beluša, Slovakia",
+  "phone": "042 462 43 82",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10304054241078933347",
+  "rating": 4.5,
+  "reviewCount": 214,
+  "coords": [
+    49.0639029,
+    18.3276323
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 5:00 PM",
+    "Tuesday: 5:30 AM – 5:00 PM",
+    "Wednesday: 5:30 AM – 5:00 PM",
+    "Thursday: 5:30 AM – 5:00 PM",
+    "Friday: 5:30 AM – 5:00 PM",
+    "Saturday: 5:30 – 11:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bape-bakery-belusa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:22:24.865Z"
+}

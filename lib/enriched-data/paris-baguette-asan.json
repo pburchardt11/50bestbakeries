@@ -1,0 +1,32 @@
+{
+  "slug": "paris-baguette-asan",
+  "name": "PARIS BAGUETTE",
+  "city": "Asan",
+  "country": "South Korea",
+  "placeId": "ChIJy0trtFrYejUR01jmRP9NV_o",
+  "googleName": "파리바게뜨 배방연화점",
+  "formattedAddress": "20-14 Saeasan-ro, Baebang-eup, Asan-si, Chungcheongnam-do, South Korea",
+  "phone": "041-544-0459",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18038972591223757011",
+  "rating": 3.9,
+  "reviewCount": 59,
+  "coords": [
+    36.7835808,
+    127.0934363
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Cafe & bakery chain serving French pastries, bread, cakes & sandwiches, plus tea & coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-asan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:27:31.083Z"
+}

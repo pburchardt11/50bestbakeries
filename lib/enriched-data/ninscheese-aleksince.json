@@ -1,0 +1,32 @@
+{
+  "slug": "ninscheese-aleksince",
+  "name": "Ninscheese",
+  "city": "Alekšince",
+  "country": "Slovakia",
+  "placeId": "ChIJPQ0P6atGa0cREXeTOWE1fOI",
+  "googleName": "Pizzeria Alekšince",
+  "formattedAddress": "Alekšince 488, 951 22 Alekšince, Slovakia",
+  "phone": "037 782 21 61",
+  "website": "https://www.pizzeria-aleksince.eu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16319977841377900305",
+  "rating": 4.2,
+  "reviewCount": 304,
+  "coords": [
+    48.3630243,
+    17.9448879
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:00 PM",
+    "Tuesday: 11:00 AM – 9:00 PM",
+    "Wednesday: 11:00 AM – 9:00 PM",
+    "Thursday: 11:00 AM – 9:00 PM",
+    "Friday: 11:00 AM – 10:00 PM",
+    "Saturday: 11:00 AM – 10:00 PM",
+    "Sunday: 11:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ninscheese-aleksince/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:21:37.879Z"
+}

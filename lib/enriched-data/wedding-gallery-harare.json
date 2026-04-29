@@ -1,0 +1,32 @@
+{
+  "slug": "wedding-gallery-harare",
+  "name": "Wedding Gallery",
+  "city": "Harare",
+  "country": "Zimbabwe",
+  "placeId": "ChIJK7kvL-SkMRkRmLjAJQZeOjc",
+  "googleName": "First Floor Gallery Harare",
+  "formattedAddress": "3, Castille Court, 65 Josiah Tongogara St, Harare, Zimbabwe",
+  "phone": "077 570 9031",
+  "website": "http://www.firstfloorgalleryharare.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3979596601231456408",
+  "rating": 4.3,
+  "reviewCount": 70,
+  "coords": [
+    -17.8166238,
+    31.0454179
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 11:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wedding-gallery-harare/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:02:08.699Z"
+}

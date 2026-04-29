@@ -1,0 +1,32 @@
+{
+  "slug": "marieborgs-bageri-alingsas",
+  "name": "Marieborgs Bageri",
+  "city": "Alingsås",
+  "country": "Sweden",
+  "placeId": "ChIJv_YsLIBNRUYR1Eg8bZNP8cc",
+  "googleName": "Marieborgs Bageri (Aspsjö bröd och bakverk AB)",
+  "formattedAddress": "Skolgatan 76, 441 35 Alingsås, Sweden",
+  "phone": "0322-196 38",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14407384177546381524",
+  "rating": 4.5,
+  "reviewCount": 149,
+  "coords": [
+    57.938431,
+    12.5344762
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marieborgs-bageri-alingsas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:33:45.640Z"
+}

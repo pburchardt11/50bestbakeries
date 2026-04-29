@@ -1,0 +1,24 @@
+{
+  "slug": "arad",
+  "name": "Arad",
+  "city": "Arad",
+  "country": "Romania",
+  "placeId": "ChIJw1lco0uYRUcRkYRVPkoHcA8",
+  "googleName": "Arad",
+  "formattedAddress": "Arad, Romania",
+  "phone": null,
+  "website": "http://www.primariaarad.ro/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1112397123415278737",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    46.1865606,
+    21.3122677
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/arad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:47.765Z"
+}

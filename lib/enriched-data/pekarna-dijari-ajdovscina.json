@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-dijari-ajdovscina",
+  "name": "Pekarna Dijari",
+  "city": "Ajdovščina",
+  "country": "Slovenia",
+  "placeId": "ChIJj1GbYDAZe0cRlG3C5shYyOs",
+  "googleName": "Pekarna Kukaj Sinan Kukaj s.p.",
+  "formattedAddress": "Gregorčičeva ulica 8, 5270 Ajdovščina, Slovenia",
+  "phone": "(05) 366 33 53",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16989927214143401364",
+  "rating": 4,
+  "reviewCount": 22,
+  "coords": [
+    45.8884525,
+    13.9040253
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-dijari-ajdovscina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:44.791Z"
+}

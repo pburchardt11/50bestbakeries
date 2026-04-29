@@ -1,0 +1,32 @@
+{
+  "slug": "rustique-panaderia-artesanal-canelones",
+  "name": "Rustique Panadería Artesanal",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJWbczXOOJn5URdf6uRjbMLr4",
+  "googleName": "Rustique Panadería Artesanal",
+  "formattedAddress": "El Bosque Burgers, 15000 Ciudad de la Costa, Departamento de Canelones, Uruguay",
+  "phone": "2681 7644",
+  "website": "http://www.facebook.com/RustiquePanaderiaArtesanal",
+  "googleMapsUrl": "https://maps.google.com/?cid=13704115249621171829",
+  "rating": 4.4,
+  "reviewCount": 123,
+  "coords": [
+    -34.8398395,
+    -55.9713603
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rustique-panaderia-artesanal-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:42.150Z"
+}

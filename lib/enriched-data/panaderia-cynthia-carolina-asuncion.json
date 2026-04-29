@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-cynthia-carolina-asuncion",
+  "name": "Panaderia Cynthia Carolina",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJtcH1aF6nXZQRnF_f8B6IJiM",
+  "googleName": "Cynthia Carolina",
+  "formattedAddress": "PCMM+X4G, Marcelino Pérez Martínez, Asunción 001521, Paraguay",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2532861506914049948",
+  "rating": 4.5,
+  "reviewCount": 44,
+  "coords": [
+    -25.2650551,
+    -57.5671581
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 1:00 PM, 4:30 – 8:30 PM",
+    "Tuesday: 6:30 AM – 1:00 PM, 4:30 – 8:30 PM",
+    "Wednesday: 6:30 AM – 1:00 PM, 4:30 – 8:30 PM",
+    "Thursday: 6:30 AM – 1:00 PM, 4:30 – 8:30 PM",
+    "Friday: 6:30 AM – 1:00 PM, 4:30 – 8:30 PM",
+    "Saturday: 6:30 AM – 1:00 PM, 4:30 – 8:30 PM",
+    "Sunday: 6:30 AM – 1:00 PM, 4:30 – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-cynthia-carolina-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:59.439Z"
+}

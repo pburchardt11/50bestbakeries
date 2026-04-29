@@ -1,0 +1,32 @@
+{
+  "slug": "breadly",
+  "name": "Breadly",
+  "city": "Ташкент",
+  "country": "Uzbekistan",
+  "placeId": "ChIJm8wvXuuKrjgRGBVEInLvG68",
+  "googleName": "Breadly",
+  "formattedAddress": "Abdulla Kaxxar ko'chasi д.24, Тоshkent, Toshkent, Uzbekistan",
+  "phone": "78 122 25 25",
+  "website": "https://breadly.uz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12617942054488773912",
+  "rating": 4.3,
+  "reviewCount": 125,
+  "coords": [
+    41.2847851,
+    69.2580736
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breadly/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:56:34.043Z"
+}

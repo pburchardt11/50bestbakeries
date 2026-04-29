@@ -1,0 +1,32 @@
+{
+  "slug": "dulces-tentaciones-ciudad-de-panama",
+  "name": "Dulces Tentaciones",
+  "city": "Ciudad de Panamá",
+  "country": "Panama",
+  "placeId": "ChIJD2FLmKiprI8RRO6vTLsrmHY",
+  "googleName": "Dulces Tentaciones Panama",
+  "formattedAddress": "PH Don Peter, Panamá, Provincia de Panamá, Panama",
+  "phone": "6616-2431",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8545628376380993092",
+  "rating": 4.7,
+  "reviewCount": 28,
+  "coords": [
+    9.0079675,
+    -79.5033225
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/dulces-tentaciones-ciudad-de-panama/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:21.516Z"
+}

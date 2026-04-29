@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-blue-moon",
+  "name": "Pâtisserie Blue Moon",
+  "city": "الحمامات",
+  "country": "Tunisia",
+  "placeId": "ChIJVw3e-vFh_RIRurOk7sX0hWY",
+  "googleName": "Blue Moon",
+  "formattedAddress": "CJ43+8C2, C28, Hammamet, Tunisia",
+  "phone": "26 799 792",
+  "website": "http://www.patisseriebluemoon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7387579894720672698",
+  "rating": 3.8,
+  "reviewCount": 44,
+  "coords": [
+    36.4057686,
+    10.6035058
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-blue-moon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:46:08.264Z"
+}

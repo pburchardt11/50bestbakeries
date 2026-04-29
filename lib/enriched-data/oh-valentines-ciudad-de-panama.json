@@ -1,0 +1,32 @@
+{
+  "slug": "oh-valentines-ciudad-de-panama",
+  "name": "Oh Valentines",
+  "city": "Ciudad de Panamá",
+  "country": "Panama",
+  "placeId": "ChIJr6xvGQBVq48REyfw26lZ-UE",
+  "googleName": "Oh Valentines",
+  "formattedAddress": "Calle 6 a 400, Panamá, Provincia de Panamá, Panama",
+  "phone": "6132-5437",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4753929467740563219",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    9.0514869,
+    -79.4129224
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 6:30 PM",
+    "Tuesday: 10:30 AM – 6:30 PM",
+    "Wednesday: 10:30 AM – 6:30 PM",
+    "Thursday: 10:30 AM – 6:30 PM",
+    "Friday: 10:30 AM – 6:30 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/oh-valentines-ciudad-de-panama/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:02.957Z"
+}

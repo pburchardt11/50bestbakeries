@@ -1,0 +1,32 @@
+{
+  "slug": "bakkerij-dengsasy-albina",
+  "name": "Bakkerij Dengsasy",
+  "city": "Albina",
+  "country": "Suriname",
+  "placeId": "ChIJc1XNE1gzCI0RTAKbItyd1bU",
+  "googleName": "De Kleine Bakker",
+  "formattedAddress": "RQWF+68C, Paramaribo, Suriname",
+  "phone": "850-7766",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13102552259703276108",
+  "rating": 4.2,
+  "reviewCount": 22,
+  "coords": [
+    5.8455749,
+    -55.22674259999999
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 10:00 PM",
+    "Tuesday: 11:00 AM – 10:00 PM",
+    "Wednesday: 11:00 AM – 10:00 PM",
+    "Thursday: 11:00 AM – 10:00 PM",
+    "Friday: 11:00 AM – 10:00 PM",
+    "Saturday: 11:00 AM – 10:00 PM",
+    "Sunday: 11:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-dengsasy-albina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:31:54.314Z"
+}

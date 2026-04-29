@@ -1,0 +1,32 @@
+{
+  "slug": "el-galpon-canelones",
+  "name": "El Galpon",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJT54Hc9aHn5URJMHKU6it_fg",
+  "googleName": "THE BARN IMPORTS",
+  "formattedAddress": "C. el Dorado 85, 15000 Ciudad de la Costa, Departamento de Canelones, Uruguay",
+  "phone": "2600 2837",
+  "website": "http://www.elgalponimports.com.uy/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17941687428985831716",
+  "rating": 3.8,
+  "reviewCount": 33,
+  "coords": [
+    -34.8486848,
+    -56.0264154
+  ],
+  "openingHours": [
+    "Monday: 1:00 – 6:30 PM",
+    "Tuesday: 1:00 – 6:30 PM",
+    "Wednesday: 1:00 – 6:30 PM",
+    "Thursday: 9:00 AM – 1:00 PM",
+    "Friday: Closed",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/el-galpon-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:54:48.917Z"
+}

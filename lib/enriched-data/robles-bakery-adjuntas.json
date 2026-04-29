@@ -1,0 +1,32 @@
+{
+  "slug": "robles-bakery-adjuntas",
+  "name": "Robles Bakery",
+  "city": "Adjuntas",
+  "country": "Puerto Rico",
+  "placeId": "ChIJIxpE3_rTAowRRldpDU5jcVA",
+  "googleName": "Robles Bakery",
+  "formattedAddress": "577G+QG5, PR-5516, Adjuntas, 00601, Puerto Rico",
+  "phone": "(787) 829-0605",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5796523382286145350",
+  "rating": 4.7,
+  "reviewCount": 401,
+  "coords": [
+    18.1643879,
+    -66.7236368
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:00 PM",
+    "Tuesday: 5:00 AM – 6:00 PM",
+    "Wednesday: 5:00 AM – 6:00 PM",
+    "Thursday: 5:00 AM – 6:00 PM",
+    "Friday: 5:00 AM – 6:00 PM",
+    "Saturday: 5:00 AM – 6:00 PM",
+    "Sunday: 5:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/robles-bakery-adjuntas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:00:36.800Z"
+}

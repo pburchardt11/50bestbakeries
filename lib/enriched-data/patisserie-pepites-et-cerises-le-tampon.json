@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-pepites-et-cerises-le-tampon",
+  "name": "Pâtisserie Pépites et Cerises",
+  "city": "Le Tampon",
+  "country": "Réunion",
+  "placeId": "ChIJU4xePYx1eCER1W7gPQfyg4w",
+  "googleName": "Pâtisserie Pépites et Cerises",
+  "formattedAddress": "96 B Rue du Père Favron, Le Tampon 97418, Réunion",
+  "phone": "0692 04 32 81",
+  "website": "https://www.facebook.com/PepitesEtCerises",
+  "googleMapsUrl": "https://maps.google.com/?cid=10125202500175818453",
+  "rating": 5,
+  "reviewCount": 10,
+  "coords": [
+    -21.2345741,
+    55.5679706
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 8:30 AM – 6:00 PM",
+    "Friday: 8:30 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-pepites-et-cerises-le-tampon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:12:04.119Z"
+}

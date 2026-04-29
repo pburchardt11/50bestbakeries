@@ -1,0 +1,32 @@
+{
+  "slug": "home-bakery-bratislava",
+  "name": "Home Bakery",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJa4769l6JbEcRff-uBgNStoQ",
+  "googleName": "Home Bakery",
+  "formattedAddress": "Kaštieľska 1131/30, 821 05 Bratislava-Ružinov, Slovakia",
+  "phone": "0904 729 904",
+  "website": "http://www.homebakery.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9562921031718338429",
+  "rating": 4.9,
+  "reviewCount": 18,
+  "coords": [
+    48.1459093,
+    17.1683427
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 2:00 PM",
+    "Tuesday: 9:00 AM – 2:00 PM",
+    "Wednesday: 9:00 AM – 2:00 PM",
+    "Thursday: 9:00 AM – 2:00 PM",
+    "Friday: 9:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/home-bakery-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:37.968Z"
+}

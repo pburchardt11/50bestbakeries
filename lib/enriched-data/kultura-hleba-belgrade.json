@@ -1,0 +1,32 @@
+{
+  "slug": "kultura-hleba-belgrade",
+  "name": "Kultura Hleba",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJHeVg9lh7WkcRg8r8wzRJbKs",
+  "googleName": "Kultura Hleba",
+  "formattedAddress": "Kumanovska 2a, Beograd, Serbia",
+  "phone": "062 9327310",
+  "website": "https://kulturahleba.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12352328368945678979",
+  "rating": 4.8,
+  "reviewCount": 30,
+  "coords": [
+    44.805618,
+    20.473894
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kultura-hleba-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:24.988Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sasko-bakeries-akasia",
+  "name": "Sasko Bakeries",
+  "city": "Akasia",
+  "country": "South Africa",
+  "placeId": "ChIJAz0c-mfQvx4RITUb1zKNsFU",
+  "googleName": "Sasko Bakeries",
+  "formattedAddress": "Sasko Building, Piet Rautenbach St, Rosslyn, Pretoria, 0152, South Africa",
+  "phone": "012 541 4075",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6174590338621715745",
+  "rating": 3.8,
+  "reviewCount": 30,
+  "coords": [
+    -25.6150706,
+    28.0889058
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 3:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sasko-bakeries-akasia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:26:05.782Z"
+}

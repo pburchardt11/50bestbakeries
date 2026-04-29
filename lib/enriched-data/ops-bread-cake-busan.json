@@ -1,0 +1,32 @@
+{
+  "slug": "ops-bread-cake-busan",
+  "name": "(OPS Bread & Cake)",
+  "city": "Busan",
+  "country": "South Korea",
+  "placeId": "ChIJQ8zHkGeNaDURiWBWoDoXAT8",
+  "googleName": "OPS Haeundae",
+  "formattedAddress": "31 Jungdong 1-ro, Haeundae, Busan, South Korea",
+  "phone": "051-747-6886",
+  "website": "http://ops.co.kr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4539935439931728009",
+  "rating": 4,
+  "reviewCount": 1724,
+  "coords": [
+    35.1627911,
+    129.1628989
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ops-bread-cake-busan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:28:04.879Z"
+}

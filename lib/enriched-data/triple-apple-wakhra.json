@@ -1,0 +1,32 @@
+{
+  "slug": "triple-apple-wakhra",
+  "name": "Triple Apple",
+  "city": "Wakhra",
+  "country": "Qatar",
+  "placeId": "ChIJd4DZv5TNRT4RrhTulU39tvE",
+  "googleName": "Applebee’s Ezdan Mall (Al Wakra)",
+  "formattedAddress": "Ezdan Mall, Al Wakrah, Qatar",
+  "phone": "4427 7184",
+  "website": "https://applebeesme.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17417387118571689134",
+  "rating": 4.8,
+  "reviewCount": 1010,
+  "coords": [
+    25.1706378,
+    51.589081
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 12:00 AM",
+    "Tuesday: 11:00 AM – 12:00 AM",
+    "Wednesday: 11:00 AM – 12:00 AM",
+    "Thursday: 11:00 AM – 12:00 AM",
+    "Friday: 1:00 PM – 12:00 AM",
+    "Saturday: 11:00 AM – 12:00 AM",
+    "Sunday: 11:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/triple-apple-wakhra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:05:12.655Z"
+}

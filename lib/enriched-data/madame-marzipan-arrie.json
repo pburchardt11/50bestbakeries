@@ -1,0 +1,32 @@
+{
+  "slug": "madame-marzipan-arrie",
+  "name": "Madame Marzipan",
+  "city": "Arrie",
+  "country": "Sweden",
+  "placeId": "ChIJBWyoJfifU0YRYt-QNavVogE",
+  "googleName": "Madame Marzipan",
+  "formattedAddress": "Prästagårdsvägen 4, 235 94 Vellinge, Sweden",
+  "phone": "070-670 03 32",
+  "website": "http://www.madamemarzipan.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=117891471579864930",
+  "rating": 4.9,
+  "reviewCount": 53,
+  "coords": [
+    55.5143293,
+    13.0830346
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 1:00 PM",
+    "Friday: Closed",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/madame-marzipan-arrie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:33.577Z"
+}

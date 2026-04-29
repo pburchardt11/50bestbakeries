@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-del-museo-canelones",
+  "name": "Panadería Del Museo",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJ9-v6AJiJn5URQUPzT6nukuc",
+  "googleName": "Panadería Del Museo",
+  "formattedAddress": "15800 Ciudad de la Costa, Canelones Department, Uruguay",
+  "phone": "2696 1767",
+  "website": "http://www.delmuseo.amawebs.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16686661980319335233",
+  "rating": 4.4,
+  "reviewCount": 1406,
+  "coords": [
+    -34.8225625,
+    -55.9579375
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-del-museo-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:47.547Z"
+}

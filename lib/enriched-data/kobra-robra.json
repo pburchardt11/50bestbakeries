@@ -1,0 +1,32 @@
+{
+  "slug": "kobra-robra",
+  "name": "Kobra Robra",
+  "city": "Владивосток",
+  "country": "Russia",
+  "placeId": "ChIJczRe3GWNs18RRmYghOXiPnI",
+  "googleName": "Kobra Robra",
+  "formattedAddress": "Ulitsa Kalinina, 8, Vladivostok, Primorskiy kray, Russia, 690035",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8232266644271949382",
+  "rating": 3.8,
+  "reviewCount": 5,
+  "coords": [
+    43.1029769,
+    131.9174028
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/kobra-robra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:59.015Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "go-destiny-cafe-lago-adjuntas",
+  "name": "Go Destiny Cafe Lago",
+  "city": "Adjuntas",
+  "country": "Puerto Rico",
+  "placeId": "ChIJIwasxpjTAowRy47_kxvdmeg",
+  "googleName": "Go Destiny Cafe Lago",
+  "formattedAddress": "47P8+C3W, Saltillo, Adjuntas 00601, Puerto Rico",
+  "phone": "(787) 829-3232",
+  "website": "http://www.facebook.com/godestinycafepr",
+  "googleMapsUrl": "https://maps.google.com/?cid=16760670598752865995",
+  "rating": 4.7,
+  "reviewCount": 119,
+  "coords": [
+    18.1361067,
+    -66.7348049
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/go-destiny-cafe-lago-adjuntas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:00:44.891Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bagel-s-park-beograd",
+  "name": "Bagel's Park",
+  "city": "Beograd",
+  "country": "Serbia",
+  "placeId": "ChIJp_5Xfcp7WkcRBaLWB9_AXDg",
+  "googleName": "Sunshine Bagel",
+  "formattedAddress": "Svetozara Markovića 40a, Beograd, Serbia",
+  "phone": "065 4000080",
+  "website": "https://sunshinebagel.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4061333028123091461",
+  "rating": 4.8,
+  "reviewCount": 393,
+  "coords": [
+    44.80559909999999,
+    20.4660427
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bagel-s-park-beograd/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:18:10.382Z"
+}

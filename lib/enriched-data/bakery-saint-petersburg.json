@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-saint-petersburg",
+  "name": "Bakery",
+  "city": "Saint Petersburg",
+  "country": "Russia",
+  "placeId": "ChIJbx5plA8xlkYRPCWU5JjOiTA",
+  "googleName": "Pyshechnaya",
+  "formattedAddress": "Bolshaya Konyushennaya St, 25, Sankt-Peterburg, Russia, 191186",
+  "phone": "8 (812) 314-08-68",
+  "website": "https://pyshki1958.ru/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3497553741695165756",
+  "rating": 4.7,
+  "reviewCount": 14883,
+  "coords": [
+    59.93750499999999,
+    30.322441
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": "This popular local fixture with a Soviet-era feel serves up traditional donuts, plus coffee & tea.",
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/bakery-saint-petersburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:12.993Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "la-parisienne-cafe-port-vila",
+  "name": "La Parisienne Café",
+  "city": "Port Vila",
+  "country": "Vanuatu",
+  "placeId": "ChIJ3RKnbeJhiW4RL-_CQ45VRU4",
+  "googleName": "BOULANGERIE MILO LA PARISIENNE",
+  "formattedAddress": "7889+XW4 Port, Port Vila, Vanuatu",
+  "phone": "22493",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5640008177861979951",
+  "rating": 4.3,
+  "reviewCount": 13,
+  "coords": [
+    -17.7326022,
+    168.3198163
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 PM",
+    "Tuesday: 6:00 AM – 2:00 PM",
+    "Wednesday: 6:00 AM – 2:00 PM",
+    "Thursday: 6:00 AM – 2:00 PM",
+    "Friday: 6:00 AM – 2:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-parisienne-cafe-port-vila/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:56:35.918Z"
+}

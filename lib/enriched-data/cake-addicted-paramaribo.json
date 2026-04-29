@@ -1,0 +1,32 @@
+{
+  "slug": "cake-addicted-paramaribo",
+  "name": "Cake addicted",
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "placeId": "ChIJWc4qCc7KCY0RJVTAiZRWjt0",
+  "googleName": "The Sweetest Thing",
+  "formattedAddress": "Tweede Rijweg 94, Paramaribo, Suriname",
+  "phone": "883-4483",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15964792925041218597",
+  "rating": 4.4,
+  "reviewCount": 23,
+  "coords": [
+    5.8316776,
+    -55.2022189
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: 10:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-addicted-paramaribo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:32:38.439Z"
+}

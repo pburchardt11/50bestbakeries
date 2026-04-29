@@ -1,0 +1,32 @@
+{
+  "slug": "the-baking-room-victoria",
+  "name": "The Baking Room",
+  "city": "Victoria",
+  "country": "Seychelles",
+  "placeId": "ChIJo0hqR6Ap4CIR0xo21H7QrHA",
+  "googleName": "The Baking Room",
+  "formattedAddress": "La Retraite, Mahe, Seychelles",
+  "phone": "2 534 781",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8119093471386933971",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -4.5859779,
+    55.4562938
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-baking-room-victoria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:18:52.419Z"
+}

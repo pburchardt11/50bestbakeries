@@ -1,0 +1,32 @@
+{
+  "slug": "patiseria-centru-aiud",
+  "name": "Patiseria Centru",
+  "city": "Aiud",
+  "country": "Romania",
+  "placeId": "ChIJkX-Y5cJWSUcR6GXmecb2b5M",
+  "googleName": "Patiseria Centru",
+  "formattedAddress": "Strada Transilvaniei 7, 515200 Aiud, Romania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10623981378299389416",
+  "rating": 4.7,
+  "reviewCount": 641,
+  "coords": [
+    46.3108526,
+    23.7194759
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 9:00 PM",
+    "Tuesday: 5:30 AM – 9:00 PM",
+    "Wednesday: 5:30 AM – 9:00 PM",
+    "Thursday: 5:30 AM – 9:00 PM",
+    "Friday: 5:30 AM – 9:00 PM",
+    "Saturday: 5:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/patiseria-centru-aiud/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:13.677Z"
+}

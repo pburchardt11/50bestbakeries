@@ -1,0 +1,32 @@
+{
+  "slug": "praba-ampara",
+  "name": "Praba",
+  "city": "Ampara",
+  "country": "Sri Lanka",
+  "placeId": "ChIJ3Vy5UOkZ5ToRvfAcfaqVj2c",
+  "googleName": "Prabhodha Hospital Pvt Ltd",
+  "formattedAddress": "No.21 Pandukabaya Mawatha, Ampara 32000, Sri Lanka",
+  "phone": "0632 223 606",
+  "website": "https://www.facebook.com/prabhodhaampara/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7462347667052228797",
+  "rating": 3.9,
+  "reviewCount": 53,
+  "coords": [
+    7.2918078,
+    81.6757586
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/praba-ampara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:28:46.933Z"
+}

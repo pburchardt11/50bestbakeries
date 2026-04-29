@@ -1,0 +1,30 @@
+{
+  "slug": "patisserie-alalem",
+  "name": "Pâtisserie Alalem",
+  "city": "الجم",
+  "country": "Tunisia",
+  "placeId": "ChIJdyklzoL8ARMRoW64RV3KlBs",
+  "googleName": "Patisserie El Alem مرطبات العالم",
+  "formattedAddress": "7PX5+53F, El Jem, Tunisia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1987435837527715489",
+  "rating": 4,
+  "reviewCount": 2,
+  "coords": [
+    35.2979304,
+    10.7076816
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:46:01.724Z"
+}

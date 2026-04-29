@@ -1,0 +1,32 @@
+{
+  "slug": "jo-yi-bakery-bukit-batok",
+  "name": "Jo-Yi Bakery",
+  "city": "Bukit Batok",
+  "country": "Singapore",
+  "placeId": "ChIJT6tq-XsR2jER0hCQYZcm2PY",
+  "googleName": "Jo-Yi Bakery",
+  "formattedAddress": "4 Hillview Rise, #02-09, HillV2, Singapore 667969",
+  "phone": "9759 9762",
+  "website": "https://www.instagram.com/jo.yi.bakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17787009159918522578",
+  "rating": 4,
+  "reviewCount": 46,
+  "coords": [
+    1.3636424,
+    103.7643919
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jo-yi-bakery-bukit-batok/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:29.753Z"
+}

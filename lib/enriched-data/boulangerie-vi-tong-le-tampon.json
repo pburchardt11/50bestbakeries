@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-vi-tong-le-tampon",
+  "name": "Boulangerie Vi-Tong",
+  "city": "Le Tampon",
+  "country": "Réunion",
+  "placeId": "ChIJQ352KcYKeCERjKI_rdcJSZc",
+  "googleName": "Boulangerie Vi-Tong",
+  "formattedAddress": "25 Rue Vallon Hoarau, Le Tampon 97430, Réunion",
+  "phone": "0262 27 08 66",
+  "website": "http://www.boulangerie-vi-tong-reunion.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10901255194956243596",
+  "rating": 4,
+  "reviewCount": 196,
+  "coords": [
+    -21.2842159,
+    55.5168042
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:45 PM",
+    "Tuesday: 5:30 AM – 6:45 PM",
+    "Wednesday: 5:30 AM – 6:45 PM",
+    "Thursday: 5:30 AM – 6:45 PM",
+    "Friday: 5:30 AM – 6:45 PM",
+    "Saturday: 5:30 AM – 6:45 PM",
+    "Sunday: 5:30 AM – 12:15 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-vi-tong-le-tampon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:12:32.080Z"
+}

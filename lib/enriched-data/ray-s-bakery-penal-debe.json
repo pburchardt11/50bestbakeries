@@ -1,0 +1,30 @@
+{
+  "slug": "ray-s-bakery-penal-debe",
+  "name": "Ray's Bakery",
+  "city": "Penal-Debe",
+  "country": "Trinidad & Tobago",
+  "placeId": "ChIJtTvIm2mJNYwREYI7nFgbsL0",
+  "googleName": "Ray's Bakery",
+  "formattedAddress": "5H6W+4PJ, Clarke Rd, TT, Trinidad and Tobago",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13668454936461672977",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    10.1603354,
+    -61.4032269
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:44:16.434Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pastry-kitchen",
+  "name": "Pastry Kitchen",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJ0eVPHlHDRT4RUkrl7sHyaNk",
+  "googleName": "Dinara Kasko Gastronomy Art- Central Kitchen",
+  "formattedAddress": "Qanat Quartier 02 Murano Building 5 Palazzo 1 Unit 16 The Pearl, الدوحة، Qatar",
+  "phone": "5550 9374",
+  "website": "http://www.dinarakasko.qa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15666038218558884434",
+  "rating": 4.7,
+  "reviewCount": 83,
+  "coords": [
+    25.3783167,
+    51.5441425
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/pastry-kitchen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:51.177Z"
+}

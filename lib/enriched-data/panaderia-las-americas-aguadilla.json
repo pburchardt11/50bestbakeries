@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-las-americas-aguadilla",
+  "name": "Panaderia Las Americas",
+  "city": "Aguadilla",
+  "country": "Puerto Rico",
+  "placeId": "ChIJ7cSY_RO9AowRxK6l0hBK1-w",
+  "googleName": "Panaderia Las Americas",
+  "formattedAddress": "FR7R+XJ2, Borinquen, Aguadilla 00603, Puerto Rico",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17066190749057789636",
+  "rating": 4.8,
+  "reviewCount": 42,
+  "coords": [
+    18.4648778,
+    -67.1584749
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-las-americas-aguadilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:22.390Z"
+}

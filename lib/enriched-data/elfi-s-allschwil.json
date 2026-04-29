@@ -1,0 +1,24 @@
+{
+  "slug": "elfi-s-allschwil",
+  "name": "Elfi's",
+  "city": "Allschwil",
+  "country": "Switzerland",
+  "placeId": "ChIJEX7aCdy4kUcRTdkMLxG7aKE",
+  "googleName": "ELFI'S",
+  "formattedAddress": "Fabrikstrasse 10, 4123 Allschwil, Switzerland",
+  "phone": "077 435 55 60",
+  "website": "http://www.elfis.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11630751720162515277",
+  "rating": 3.6,
+  "reviewCount": 32,
+  "coords": [
+    47.5492947,
+    7.547424099999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elfi-s-allschwil/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:00.375Z"
+}

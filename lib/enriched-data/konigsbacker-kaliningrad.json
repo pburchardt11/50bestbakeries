@@ -1,0 +1,32 @@
+{
+  "slug": "konigsbacker-kaliningrad",
+  "name": "Königsbäcker",
+  "city": "Kaliningrad",
+  "country": "Russia",
+  "placeId": "ChIJTSp5oQMW40YR6AEJs00Jzxc",
+  "googleName": "Bakery \"Konigsbacker\"",
+  "formattedAddress": "Ulitsa Teatral'naya, 21, Kaliningrad, Kaliningradskaya oblast', Russia, 236006",
+  "phone": "8 (401) 230-30-40",
+  "website": "https://kruassanfamily.ru/konigsbacker/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1715600212372292072",
+  "rating": 4.1,
+  "reviewCount": 127,
+  "coords": [
+    54.7166156,
+    20.5007468
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/konigsbacker-kaliningrad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:36.764Z"
+}

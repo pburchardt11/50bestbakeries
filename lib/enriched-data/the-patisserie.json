@@ -1,0 +1,32 @@
+{
+  "slug": "the-patisserie",
+  "name": "The Patisserie",
+  "city": "بوشر",
+  "country": "Oman",
+  "placeId": "ChIJ8Y2G8Bb_kT4RIHTMqa28nBM",
+  "googleName": "The Patisserie مركز الحلويات",
+  "formattedAddress": "Bawshar St, Muscat, Oman",
+  "phone": "9262 8265",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1413211837151605792",
+  "rating": 4.1,
+  "reviewCount": 35,
+  "coords": [
+    23.5601873,
+    58.40309489999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/the-patisserie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:46:53.369Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "oven-art-craft-bakery-harare",
+  "name": "Oven Art Craft Bakery",
+  "city": "Harare",
+  "country": "Zimbabwe",
+  "placeId": "ChIJ3ydvnwK7MRkREdXd4T6jVwQ",
+  "googleName": "The Bakehouse Zimbabwe",
+  "formattedAddress": "Kamfinsa Shopping Centre, Harare, Zimbabwe",
+  "phone": "078 294 7970",
+  "website": "https://www.facebook.com/TheBakehouseZimbabwe",
+  "googleMapsUrl": "https://maps.google.com/?cid=312898189598250257",
+  "rating": 4.6,
+  "reviewCount": 7,
+  "coords": [
+    -17.8194327,
+    31.1202136
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 6:00 PM",
+    "Sunday: 7:30 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oven-art-craft-bakery-harare/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:01:47.787Z"
+}

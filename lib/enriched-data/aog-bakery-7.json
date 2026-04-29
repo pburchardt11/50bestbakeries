@@ -1,0 +1,32 @@
+{
+  "slug": "aog-bakery-7",
+  "name": "AOG Bakery",
+  "city": "7통",
+  "country": "South Korea",
+  "placeId": "ChIJXbzNAACjfDURMqnygODgDcs",
+  "googleName": "Bakery AGoong",
+  "formattedAddress": "6 Ujeongguk-ro, Jongno District, Seoul, South Korea",
+  "phone": "050-71424-4248",
+  "website": "https://www.instagram.com/agoong_bakery.official/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14631598019237292338",
+  "rating": 4.8,
+  "reviewCount": 152,
+  "coords": [
+    37.5693838,
+    126.983241
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 2:30 – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aog-bakery-7/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:27:17.208Z"
+}

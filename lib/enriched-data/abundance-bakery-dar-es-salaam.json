@@ -1,0 +1,32 @@
+{
+  "slug": "abundance-bakery-dar-es-salaam",
+  "name": "Abundance Bakery",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJr9pxAY9OXBgRdiIIFlfGmas",
+  "googleName": "Abundance Bakery Limited Tanzanite Tower",
+  "formattedAddress": "66JF+3WJ, Dar es Salaam, Tanzania",
+  "phone": "0746 787 878",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12365132329256493686",
+  "rating": 4.4,
+  "reviewCount": 411,
+  "coords": [
+    -6.769794999999999,
+    39.2247554
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 10:30 PM",
+    "Tuesday: 5:30 AM – 10:30 PM",
+    "Wednesday: 5:30 AM – 10:30 PM",
+    "Thursday: 5:30 AM – 10:30 PM",
+    "Friday: 5:30 AM – 10:30 PM",
+    "Saturday: 5:30 AM – 10:30 PM",
+    "Sunday: 5:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/abundance-bakery-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:40:10.426Z"
+}

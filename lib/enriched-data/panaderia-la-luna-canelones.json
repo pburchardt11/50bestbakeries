@@ -1,0 +1,30 @@
+{
+  "slug": "panaderia-la-luna-canelones",
+  "name": "Panadería La Luna",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJP_DoTn7ToZUR8UH4k3v_gyE",
+  "googleName": "Panadería La Luna",
+  "formattedAddress": "C. Progreso 1, 15900 Las Piedras, Departamento de Canelones, Uruguay",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2415054731429298673",
+  "rating": 4.5,
+  "reviewCount": 17,
+  "coords": [
+    -34.7227598,
+    -56.2125689
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:54:16.036Z"
+}

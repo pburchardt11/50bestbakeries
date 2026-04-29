@@ -1,0 +1,32 @@
+{
+  "slug": "cluster-dakar",
+  "name": "Cluster",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJYTh2h44NwQ4RaBrVKeD3u6k",
+  "googleName": "CLUSTER",
+  "formattedAddress": "Patte d'oie Builders Rue 11 villa K6, Dakar, Senegal",
+  "phone": "76 481 92 05",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12230641755201280616",
+  "rating": 5,
+  "reviewCount": 12,
+  "coords": [
+    14.7450504,
+    -17.4437064
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 1:00 PM, 3:00 – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cluster-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:09.582Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "ngoda-oven-harare",
+  "name": "Ngoda oven",
+  "city": "Harare",
+  "country": "Zimbabwe",
+  "placeId": "ChIJw8ML4janMRkR_N8xdyLxg_k",
+  "googleName": "Ngoda Granites",
+  "formattedAddress": "6918 Corner Golden Quarry Road &, A5, Harare, Zimbabwe",
+  "phone": "071 483 9761",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17979479267724091388",
+  "rating": 3.8,
+  "reviewCount": 26,
+  "coords": [
+    -17.8248252,
+    30.9855861
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ngoda-oven-harare/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:02:06.902Z"
+}

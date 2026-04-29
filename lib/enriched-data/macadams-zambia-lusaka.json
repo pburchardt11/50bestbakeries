@@ -1,0 +1,32 @@
+{
+  "slug": "macadams-zambia-lusaka",
+  "name": "Macadams Zambia",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJhXdpMvf1QBkRZZzr5XyYZWQ",
+  "googleName": "Macadams Sales Zambia",
+  "formattedAddress": "mungwi road, Lumumba Rd, Lusaka 10001, Zambia",
+  "phone": "096 8559211",
+  "website": "https://www.macadams.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7234356038641359973",
+  "rating": 3.8,
+  "reviewCount": 4,
+  "coords": [
+    -15.4004389,
+    28.2642319
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/macadams-zambia-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:30.007Z"
+}

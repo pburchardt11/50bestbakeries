@@ -1,0 +1,32 @@
+{
+  "slug": "meena-cafe-amphoe-khanom",
+  "name": "MEENA CAFE",
+  "city": "Amphoe Khanom",
+  "country": "Thailand",
+  "placeId": "ChIJ2zEqGyNlVDARSB7Esaiml1g",
+  "googleName": "MEENA CAFE'",
+  "formattedAddress": "52 2, Tambon Thong Nian, Amphoe Khanom, Chang Wat Nakhon Si Thammarat 80210, Thailand",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6383754240288104008",
+  "rating": 4.6,
+  "reviewCount": 31,
+  "coords": [
+    9.272862,
+    99.78972279999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: Closed",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/meena-cafe-amphoe-khanom/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:41:18.970Z"
+}

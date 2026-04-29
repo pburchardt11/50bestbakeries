@@ -1,0 +1,32 @@
+{
+  "slug": "golden-chef-bakeshop-cafeteria",
+  "name": "Golden Chef Bakeshop & Cafeteria",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJsWfUVNvdRT4RJc4VZf7dt5E",
+  "googleName": "Golden Chef Bakeshop & Cafeteria",
+  "formattedAddress": "Ibn Mahmoud St, Doha, Qatar",
+  "phone": "3399 7600",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10500105140924960293",
+  "rating": 3.5,
+  "reviewCount": 11,
+  "coords": [
+    25.2855763,
+    51.5147487
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 2:00 – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/golden-chef-bakeshop-cafeteria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:10.954Z"
+}

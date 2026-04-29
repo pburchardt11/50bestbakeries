@@ -1,0 +1,32 @@
+{
+  "slug": "mandarina-belgrado",
+  "name": "Mandarina",
+  "city": "Belgrado",
+  "country": "Serbia",
+  "placeId": "ChIJ30btGE1lWkcRn9YoUv41tIg",
+  "googleName": "Mandarina",
+  "formattedAddress": "Gračanička 16, Beograd 11000, Serbia",
+  "phone": "060 6136124",
+  "website": "https://mandarinacakeshop.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9850557651382490783",
+  "rating": 4.6,
+  "reviewCount": 1460,
+  "coords": [
+    44.81755039999999,
+    20.4543961
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Tiny, modern counter serve dishing up gourmet pastries & creative cakes, cookies & confections.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mandarina-belgrado/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:50.017Z"
+}

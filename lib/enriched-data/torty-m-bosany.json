@@ -1,0 +1,32 @@
+{
+  "slug": "torty-m-bosany",
+  "name": "Torty M.",
+  "city": "Bošany",
+  "country": "Slovakia",
+  "placeId": "ChIJXe9sySvLFEcRvGo9d0Tz3JU",
+  "googleName": "Torty M. ®",
+  "formattedAddress": "Hviezdoslavova 228, 956 18 Bošany, Slovakia",
+  "phone": null,
+  "website": "http://www.tortym.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10798773481911446204",
+  "rating": 4.8,
+  "reviewCount": 66,
+  "coords": [
+    48.5776769,
+    18.2472694
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 3:30 PM",
+    "Saturday: 10:00 – 10:20 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/torty-m-bosany/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:22:44.697Z"
+}

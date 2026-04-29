@@ -1,0 +1,32 @@
+{
+  "slug": "thomas-bakery-saint-croix-district",
+  "name": "Thomas Bakery",
+  "city": "Saint Croix District",
+  "country": "U.S. Virgin Islands",
+  "placeId": "ChIJP2M0gI7JGowRou6jwlcWJ0Y",
+  "googleName": "Thomas Bakery",
+  "formattedAddress": "P7G3+HHP, 4500 Queen Mary Hwy, Christiansted, St Croix 00823, USVI",
+  "phone": "(340) 778-2625",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5055033672930160290",
+  "rating": 4.5,
+  "reviewCount": 381,
+  "coords": [
+    17.7263601,
+    -64.7459494
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: 5:30 AM – 7:00 PM",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: 5:30 AM – 7:00 PM",
+    "Saturday: 5:30 AM – 6:00 PM",
+    "Sunday: 5:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thomas-bakery-saint-croix-district/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:47:10.174Z"
+}

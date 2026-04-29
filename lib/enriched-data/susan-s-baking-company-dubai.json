@@ -1,0 +1,32 @@
+{
+  "slug": "susan-s-baking-company-dubai",
+  "name": "Susan’s Baking Company",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJ01GhzZtpXz4R-BLk_SMz1CE",
+  "googleName": "Susan's Baking Co & Cafe Dubai - The Best American Cafe & Diner",
+  "formattedAddress": "Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+  "phone": "04 375 3281",
+  "website": "https://susanscoffee.ae/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2437629527990735608",
+  "rating": 4.5,
+  "reviewCount": 790,
+  "coords": [
+    25.1946677,
+    55.2830778
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/susan-s-baking-company-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:48:47.125Z"
+}

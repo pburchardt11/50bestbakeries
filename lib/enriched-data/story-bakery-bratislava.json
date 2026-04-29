@@ -1,0 +1,32 @@
+{
+  "slug": "story-bakery-bratislava",
+  "name": "Story Bakery",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJczg5JiSJbEcRNfqz-8qldbs",
+  "googleName": "Story Bakery",
+  "formattedAddress": "Mlynské nivy 4963/56, 821 09 Bratislava, Slovakia",
+  "phone": "0903 916 520",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13507884948592523829",
+  "rating": 4.5,
+  "reviewCount": 4,
+  "coords": [
+    48.1427661,
+    17.1430357
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 1:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 1:00 PM",
+    "Thursday: Closed",
+    "Friday: 9:00 AM – 1:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/story-bakery-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:42.540Z"
+}

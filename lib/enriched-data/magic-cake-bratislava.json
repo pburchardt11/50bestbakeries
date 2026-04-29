@@ -1,0 +1,24 @@
+{
+  "slug": "magic-cake-bratislava",
+  "name": "Magic Cake",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJwd8RQ7-JbEcRLhp0MvASPtE",
+  "googleName": "Magic Cake",
+  "formattedAddress": "Znievska 3027/1, 851 06 Bratislava-Petržalka, Slovakia",
+  "phone": "0951 540 377",
+  "website": "http://www.magiccake.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15077509425330919982",
+  "rating": 5,
+  "reviewCount": 42,
+  "coords": [
+    48.1039459,
+    17.1061584
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magic-cake-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:22:53.287Z"
+}

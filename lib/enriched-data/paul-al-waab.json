@@ -1,0 +1,32 @@
+{
+  "slug": "paul-al-waab",
+  "name": "Paul",
+  "city": "Al Waab",
+  "country": "Qatar",
+  "placeId": "ChIJLS2f3zzaRT4RDaSmje2q4V8",
+  "googleName": "PAUL Bakery & Restaurant",
+  "formattedAddress": "Al Waab St, Doha, Qatar",
+  "phone": "4495 9815",
+  "website": "http://paularabia.com/?y_source=1_ODI2MTQ5MDYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://maps.google.com/?cid=6908991240623531021",
+  "rating": 4.2,
+  "reviewCount": 466,
+  "coords": [
+    25.2589077,
+    51.4427213
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 – 11:30 AM, 12:30 – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/paul-al-waab/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:46.871Z"
+}

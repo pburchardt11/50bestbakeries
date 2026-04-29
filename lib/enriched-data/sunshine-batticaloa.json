@@ -1,0 +1,32 @@
+{
+  "slug": "sunshine-batticaloa",
+  "name": "Sunshine",
+  "city": "Batticaloa",
+  "country": "Sri Lanka",
+  "placeId": "ChIJT4i24lvN-joRDs9RQngehYg",
+  "googleName": "Sunshine",
+  "formattedAddress": "136 Trinco Rd, Batticaloa 30000, Sri Lanka",
+  "phone": "0654 927 927",
+  "website": "http://www.tomato.lk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9837302462918283022",
+  "rating": 3.6,
+  "reviewCount": 877,
+  "coords": [
+    7.7198346,
+    81.6969166
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 10:30 PM",
+    "Tuesday: 10:30 AM – 10:30 PM",
+    "Wednesday: 10:30 AM – 10:30 PM",
+    "Thursday: 10:30 AM – 10:30 PM",
+    "Friday: 10:30 AM – 10:30 PM",
+    "Saturday: 10:30 AM – 10:30 PM",
+    "Sunday: 10:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sunshine-batticaloa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:14.851Z"
+}

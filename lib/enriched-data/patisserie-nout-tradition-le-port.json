@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-nout-tradition-le-port",
+  "name": "Patisserie Nout'Tradition",
+  "city": "Le Port",
+  "country": "Réunion",
+  "placeId": "ChIJp7_O2AaJgiEReAWrBfGn8q4",
+  "googleName": "Pâtisserie Nout'Tradition",
+  "formattedAddress": "54 Rue de Saint-Paul, Le Port 97420, Réunion",
+  "phone": "0262 33 53 99",
+  "website": "https://www.facebook.com/NoutTradition974/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12606322960587490680",
+  "rating": 4.3,
+  "reviewCount": 15,
+  "coords": [
+    -20.9398827,
+    55.2895814
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 12:00 PM",
+    "Tuesday: 5:00 AM – 12:00 PM",
+    "Wednesday: 5:00 AM – 12:00 PM",
+    "Thursday: 5:00 AM – 12:00 PM",
+    "Friday: 5:00 AM – 12:00 PM",
+    "Saturday: 5:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-nout-tradition-le-port/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:11:52.876Z"
+}

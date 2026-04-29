@@ -1,0 +1,32 @@
+{
+  "slug": "al-fawaris-modern-coffee-shop",
+  "name": "Al Fawaris Modern Coffee Shop",
+  "city": "بوشر",
+  "country": "Oman",
+  "placeId": "ChIJuUVC8ov_kT4RbcFiYSW2eKo",
+  "googleName": "Al Fawaris Modern Coffee Shop",
+  "formattedAddress": "Al Maha St, Muscat, Oman",
+  "phone": "9922 4213",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12283768255316935021",
+  "rating": 4.2,
+  "reviewCount": 228,
+  "coords": [
+    23.5768367,
+    58.4182721
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/al-fawaris-modern-coffee-shop/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:47:02.845Z"
+}

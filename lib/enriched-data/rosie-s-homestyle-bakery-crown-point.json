@@ -1,0 +1,32 @@
+{
+  "slug": "rosie-s-homestyle-bakery-crown-point",
+  "name": "Rosie's Homestyle Bakery",
+  "city": "Crown Point",
+  "country": "Trinidad & Tobago",
+  "placeId": "ChIJs5n3as-zSYwR3hSTSYMgiwA",
+  "googleName": "Rosie's Homestyle Bakery",
+  "formattedAddress": "Milford Road, Bon Accord, Tobago, Trinidad and Tobago",
+  "phone": "(868) 234-0456",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=39160770009961694",
+  "rating": 4.2,
+  "reviewCount": 409,
+  "coords": [
+    11.1576577,
+    -60.8246547
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:50 PM",
+    "Tuesday: 8:00 AM – 4:50 PM",
+    "Wednesday: 8:00 AM – 4:50 PM",
+    "Thursday: 8:00 AM – 4:50 PM",
+    "Friday: 8:00 AM – 4:50 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rosie-s-homestyle-bakery-crown-point/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:43:46.938Z"
+}

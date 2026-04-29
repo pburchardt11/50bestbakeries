@@ -1,0 +1,32 @@
+{
+  "slug": "den-glade-baker-asker",
+  "name": "Den Glade Baker",
+  "city": "Asker",
+  "country": "Norway",
+  "placeId": "ChIJ1zeoIbcVQUYR1BXIsp81L4Y",
+  "googleName": "Den Glade Baker",
+  "formattedAddress": "Strøket 6, 1383 Asker, Norway",
+  "phone": "90 76 77 30",
+  "website": "http://www.dengladebaker.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9669005885003273684",
+  "rating": 4.5,
+  "reviewCount": 105,
+  "coords": [
+    59.8351725,
+    10.4339373
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/den-glade-baker-asker/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:04.351Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cloud-9-bakery-cafe",
+  "name": "Cloud 9 Bakery Cafe",
+  "city": "بوشر",
+  "country": "Oman",
+  "placeId": "ChIJdVrSz2v-kT4R2BkvbGx0JUo",
+  "googleName": "Cloud 9 Bakery Cafe",
+  "formattedAddress": "Bawshar St, Muscat, Oman",
+  "phone": "9440 0866",
+  "website": "https://instagram.com/cloud9cafe.om?igshid=ZDU1ZDhlY2E=",
+  "googleMapsUrl": "https://maps.google.com/?cid=5342804541965277656",
+  "rating": 4,
+  "reviewCount": 82,
+  "coords": [
+    23.549384,
+    58.39946699999999
+  ],
+  "openingHours": [
+    "Monday: 3:00 – 11:00 PM",
+    "Tuesday: 3:00 – 11:00 PM",
+    "Wednesday: 3:00 – 11:00 PM",
+    "Thursday: 3:00 – 11:00 PM",
+    "Friday: 3:00 – 10:00 PM",
+    "Saturday: 3:00 – 10:00 PM",
+    "Sunday: 3:00 – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cloud-9-bakery-cafe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:47:24.913Z"
+}

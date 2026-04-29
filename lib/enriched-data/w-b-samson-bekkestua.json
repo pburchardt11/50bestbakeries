@@ -1,0 +1,32 @@
+{
+  "slug": "w-b-samson-bekkestua",
+  "name": "W.B. Samson",
+  "city": "Bekkestua",
+  "country": "Norway",
+  "placeId": "ChIJY1uFENFsQUYRBs6CsWsc_qs",
+  "googleName": "W.B. Samson - Bekkestua",
+  "formattedAddress": "Gamle Ringeriksvei 38, 1357 Bekkestua, Norway",
+  "phone": "22 54 23 80",
+  "website": "http://www.samson.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12393374473435401734",
+  "rating": 4.3,
+  "reviewCount": 708,
+  "coords": [
+    59.91748080000001,
+    10.5871707
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/w-b-samson-bekkestua/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:54.234Z"
+}

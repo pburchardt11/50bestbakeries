@@ -1,0 +1,32 @@
+{
+  "slug": "l-express-french-bakery-saint-martin",
+  "name": "L’Express French Bakery",
+  "city": "Saint-Martin",
+  "country": "St. Martin",
+  "placeId": "ChIJ3e-hn4xvDowRJVoEoJwiiUE",
+  "googleName": "The Express by Bacchus",
+  "formattedAddress": "CENTRE COMMERCIAL AVENTURA, HOPE ESTATE ST MARTIN, 97150, St Martin",
+  "phone": "0590 77 55 55",
+  "website": "http://www.lexpressbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4722343740369558053",
+  "rating": 4.2,
+  "reviewCount": 387,
+  "coords": [
+    18.0961418,
+    -63.039833
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:30 PM",
+    "Tuesday: 6:30 AM – 6:30 PM",
+    "Wednesday: 6:30 AM – 6:30 PM",
+    "Thursday: 6:30 AM – 6:30 PM",
+    "Friday: 6:30 AM – 6:30 PM",
+    "Saturday: 6:30 AM – 6:30 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-express-french-bakery-saint-martin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:31:23.760Z"
+}

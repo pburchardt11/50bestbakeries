@@ -1,0 +1,32 @@
+{
+  "slug": "02-dolce-salato-domagnano",
+  "name": "02 Dolce Salato",
+  "city": "Domagnano",
+  "country": "San Marino",
+  "placeId": "ChIJN03yjM3rLBMRi3AJ2vF5-w0",
+  "googleName": "02 Dolce Salato",
+  "formattedAddress": "Via XXV Marzo, 21, 47895 Domagnano, San Marino",
+  "phone": "0549 907748",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1007533021299568779",
+  "rating": 4.6,
+  "reviewCount": 12,
+  "coords": [
+    43.9495921,
+    12.4650925
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 PM",
+    "Tuesday: 7:00 AM – 1:00 PM",
+    "Wednesday: 7:00 AM – 1:00 PM",
+    "Thursday: 7:00 AM – 1:00 PM",
+    "Friday: 7:00 AM – 1:00 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/02-dolce-salato-domagnano/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:12:52.707Z"
+}

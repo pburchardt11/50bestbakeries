@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-laboratory-pte-ltd-singapore",
+  "name": "Bakery Laboratory Pte Ltd",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJdZ78wgsG2jERchUUdFLVr2k",
+  "googleName": "Bakery Laboratory Pte Ltd",
+  "formattedAddress": "23 Tuas Bay Walk, Singapore 637764",
+  "phone": "6558 7585",
+  "website": "http://www.bakelab.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7615540045018305906",
+  "rating": 4.2,
+  "reviewCount": 5,
+  "coords": [
+    1.3127193,
+    103.6319339
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:30 PM",
+    "Tuesday: 8:30 AM – 5:30 PM",
+    "Wednesday: 8:30 AM – 5:30 PM",
+    "Thursday: 8:30 AM – 5:30 PM",
+    "Friday: 8:30 AM – 5:30 PM",
+    "Saturday: 8:30 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-laboratory-pte-ltd-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:49.019Z"
+}

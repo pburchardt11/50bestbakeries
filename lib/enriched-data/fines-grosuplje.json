@@ -1,0 +1,32 @@
+{
+  "slug": "fines-grosuplje",
+  "name": "FINES",
+  "city": "Grosuplje",
+  "country": "Slovenia",
+  "placeId": "ChIJacP4ygsmZUcRBcDT4Oj7K_o",
+  "googleName": "Fines - production of bakery, pastry, pizza ovens and combi steamers",
+  "formattedAddress": "Industrijska cesta 5, 1290 Grosuplje, Slovenia",
+  "phone": "(01) 788 83 40",
+  "website": "http://www.fines.si/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18026778911103500293",
+  "rating": 5,
+  "reviewCount": 8,
+  "coords": [
+    45.9548797,
+    14.6507434
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fines-grosuplje/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:25:12.193Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "delight-cafe-al-ajman",
+  "name": "Delight Cafe",
+  "city": "Al Ajman",
+  "country": "UAE",
+  "placeId": "ChIJl01e7LL39T4R0hj_zUK-aVw",
+  "googleName": "Delight Cafe",
+  "formattedAddress": "9HR6+M2R - Al Raqaib 2 - Ajman - United Arab Emirates",
+  "phone": "054 797 7638",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6659062718177155282",
+  "rating": 4.3,
+  "reviewCount": 6,
+  "coords": [
+    25.3909661,
+    55.5602871
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 12:00 AM",
+    "Saturday: 10:00 AM – 12:00 AM",
+    "Sunday: 10:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delight-cafe-al-ajman/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:47:45.511Z"
+}

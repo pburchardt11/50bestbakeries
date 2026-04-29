@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-kubler-aesch",
+  "name": "Bäckerei Kübler",
+  "city": "Aesch",
+  "country": "Switzerland",
+  "placeId": "ChIJ9XPU3wvHkUcRGRPN5dPg8Qc",
+  "googleName": "Bäckerei Kübler",
+  "formattedAddress": "Hauptstrasse 76, 4147 Aesch, Switzerland",
+  "phone": "061 751 16 41",
+  "website": "http://www.baeckerei-kuebler.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=572485828350907161",
+  "rating": 4,
+  "reviewCount": 339,
+  "coords": [
+    47.4677061,
+    7.597939999999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:30 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-kubler-aesch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:30.836Z"
+}

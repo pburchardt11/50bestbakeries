@@ -1,0 +1,32 @@
+{
+  "slug": "sweet-delices-la-possession",
+  "name": "Sweet Délices",
+  "city": "La Possession",
+  "country": "Réunion",
+  "placeId": "ChIJeS1oWnOHgiERUZEXtomcxJE",
+  "googleName": "Sweet Délices",
+  "formattedAddress": "8b Rue Mahatma Gandhi, La Possession 97419, Réunion",
+  "phone": "0262 01 51 88",
+  "website": "https://www.sweet-delices.fr/boutique-sweet-delices-reunion-la-possession",
+  "googleMapsUrl": "https://maps.google.com/?cid=10503692346214289745",
+  "rating": 4.5,
+  "reviewCount": 16,
+  "coords": [
+    -20.9586643,
+    55.3225018
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweet-delices-la-possession/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:11:39.648Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "breb-s-bakery-belle-garden",
+  "name": "Breb's Bakery",
+  "city": "Belle Garden",
+  "country": "Trinidad & Tobago",
+  "placeId": "ChIJQVVJ3exVSIwRoW6VPiYGzIE",
+  "googleName": "Breb's Bakery",
+  "formattedAddress": "Windward Rd, Belle Garden, Trinidad and Tobago",
+  "phone": "(868) 613-9599",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9352857287470182049",
+  "rating": 4.6,
+  "reviewCount": 24,
+  "coords": [
+    11.231557,
+    -60.59994330000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/breb-s-bakery-belle-garden/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:43:02.510Z"
+}

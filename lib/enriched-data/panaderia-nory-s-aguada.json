@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-nory-s-aguada",
+  "name": "Panadería Nory's",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJbSLN0CK7AowRexIn4NCOr7Y",
+  "googleName": "Panadería Nory's",
+  "formattedAddress": "9RFJ+CP3, Aguada, 00602, Puerto Rico",
+  "phone": "(787) 658-6047",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13163897263592247931",
+  "rating": 4.4,
+  "reviewCount": 407,
+  "coords": [
+    18.3735123,
+    -67.1682168
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:45 PM",
+    "Tuesday: 6:00 AM – 9:45 PM",
+    "Wednesday: 6:00 AM – 9:45 PM",
+    "Thursday: 6:00 AM – 9:45 PM",
+    "Friday: 6:00 AM – 9:45 PM",
+    "Saturday: 6:00 AM – 9:45 PM",
+    "Sunday: 6:00 AM – 9:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-nory-s-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:02:18.083Z"
+}

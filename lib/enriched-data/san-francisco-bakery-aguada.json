@@ -1,0 +1,32 @@
+{
+  "slug": "san-francisco-bakery-aguada",
+  "name": "San Francisco Bakery",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJb5yOXW67AowRB_NTLAO5xt4",
+  "googleName": "San Francisco Bakery",
+  "formattedAddress": "218 C. Colon, Aguada, 00602, Puerto Rico",
+  "phone": "(787) 868-5656",
+  "website": "https://www.sanfranciscobakery.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16052721345088451335",
+  "rating": 4.6,
+  "reviewCount": 32,
+  "coords": [
+    18.3799102,
+    -67.18807749999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/san-francisco-bakery-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:02:08.656Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "padaria-pastelaria-pereira-abrantes",
+  "name": "Padaria Pastelaria Pereira",
+  "city": "Abrantes",
+  "country": "Portugal",
+  "placeId": "ChIJtU9LZqxtGA0RSZtUF4E_lwk",
+  "googleName": "Padaria Pastelaria Pereira",
+  "formattedAddress": "1 2200, Via Industrial 1 4, 2200 Abrantes, Portugal",
+  "phone": "920 072 551",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=691090891499412297",
+  "rating": 4.4,
+  "reviewCount": 62,
+  "coords": [
+    39.49052229999999,
+    -8.1840876
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/padaria-pastelaria-pereira-abrantes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:57:29.644Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "a-ceifeira-albergaria-a-velha",
+  "name": "A Ceifeira",
+  "city": "Albergaria-a-Velha",
+  "country": "Portugal",
+  "placeId": "ChIJ0-Cb2Sl2Iw0RfS3SPoNZPbg",
+  "googleName": "Pastelaria Ceifeira",
+  "formattedAddress": "EM533 8, 3850-570, Portugal",
+  "phone": "234 547 070",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13275865696787639677",
+  "rating": 4.1,
+  "reviewCount": 291,
+  "coords": [
+    40.7609149,
+    -8.4840071
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/a-ceifeira-albergaria-a-velha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:58:10.852Z"
+}

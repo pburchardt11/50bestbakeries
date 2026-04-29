@@ -1,0 +1,32 @@
+{
+  "slug": "beso-cake-beit-jala",
+  "name": "Beso Cake",
+  "city": "Beit Jala",
+  "country": "Palestine",
+  "placeId": "ChIJ2fZGmHDYAhURFkPC-Um3dJY",
+  "googleName": "Choclates",
+  "formattedAddress": "طريق اس او اس",
+  "phone": "02 275 3292",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10841491731338380054",
+  "rating": 4.8,
+  "reviewCount": 21,
+  "coords": [
+    31.7083255,
+    35.2078607
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/beso-cake-beit-jala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:50:10.791Z"
+}

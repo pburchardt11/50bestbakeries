@@ -1,0 +1,32 @@
+{
+  "slug": "tartin-bakery-cafe-dushanbe",
+  "name": "Tartin Bakery & Cafe",
+  "city": "Dushanbe",
+  "country": "Tajikistan",
+  "placeId": "ChIJtUG97S3RtTgRaoNPblEcEDg",
+  "googleName": "Tartin",
+  "formattedAddress": "Husseinzoda Street 20, Dushanbe, Tajikistan",
+  "phone": "11 080 8080",
+  "website": "https://www.instagram.com/tartintj/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4039760001819968362",
+  "rating": 4.3,
+  "reviewCount": 412,
+  "coords": [
+    38.5688626,
+    68.78913109999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:00 PM",
+    "Tuesday: 7:30 AM – 11:00 PM",
+    "Wednesday: 7:30 AM – 11:00 PM",
+    "Thursday: 7:30 AM – 11:00 PM",
+    "Friday: 7:30 AM – 11:00 PM",
+    "Saturday: 7:30 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tartin-bakery-cafe-dushanbe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:24.031Z"
+}

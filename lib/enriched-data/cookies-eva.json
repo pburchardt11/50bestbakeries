@@ -1,0 +1,24 @@
+{
+  "slug": "cookies-eva",
+  "name": "Cookies Eva",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJW5bWAgzFRT4RyvE2FA0XKTc",
+  "googleName": "My Cookie Dough",
+  "formattedAddress": "8GFG+2CF The GateMall, Ground floor, Doha, Qatar",
+  "phone": "5995 6005",
+  "website": "https://toqrmenu.com/restaurant/mycookiedough",
+  "googleMapsUrl": "https://maps.google.com/?cid=3974733491072332234",
+  "rating": 4.3,
+  "reviewCount": 78,
+  "coords": [
+    25.3225646,
+    51.52604119999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cookies-eva/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:05:44.312Z"
+}

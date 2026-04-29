@@ -1,0 +1,32 @@
+{
+  "slug": "bread-bazaar",
+  "name": "Bread Bazaar",
+  "city": "بوشر",
+  "country": "Oman",
+  "placeId": "ChIJfQY_d5f_kT4RMc550ruvU30",
+  "googleName": "Bread Bazaar",
+  "formattedAddress": "Al Dhayafa St 23.588972, 58.395892, مسقط، Oman",
+  "phone": "9296 8968",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9030754899032919601",
+  "rating": 4.8,
+  "reviewCount": 154,
+  "coords": [
+    23.5889566,
+    58.39588029999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 11:00 PM",
+    "Tuesday: 6:30 AM – 11:00 PM",
+    "Wednesday: 6:30 AM – 11:00 PM",
+    "Thursday: 6:30 AM – 11:00 PM",
+    "Friday: 6:30 AM – 11:00 PM",
+    "Saturday: 6:30 AM – 11:00 PM",
+    "Sunday: 6:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/bread-bazaar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:47:16.852Z"
+}

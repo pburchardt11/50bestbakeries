@@ -1,0 +1,32 @@
+{
+  "slug": "baked-fantasies-vieux-fort",
+  "name": "Baked Fantasies",
+  "city": "Vieux Fort",
+  "country": "St. Lucia",
+  "placeId": "ChIJFfuTQwvzQIwRPE4T34kLxdY",
+  "googleName": "Baked Fantasies",
+  "formattedAddress": "Augier, St Lucia",
+  "phone": "(758) 460-0961",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15475788381309587004",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    13.7644492,
+    -60.9787385
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-fantasies-vieux-fort/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:31:15.276Z"
+}

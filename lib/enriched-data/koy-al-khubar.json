@@ -1,0 +1,32 @@
+{
+  "slug": "koy-al-khubar",
+  "name": "KOY",
+  "city": "Al Khubar",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJlx6_MujpST4RD0Vw2jA86Jo",
+  "googleName": "KOY & BAKERY HOUSE",
+  "formattedAddress": "Al Bandariyah, Al Khobar 34424, Saudi Arabia",
+  "phone": "055 044 0720",
+  "website": "http://instagram.com/koy_bakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=11162237856958661903",
+  "rating": 4.4,
+  "reviewCount": 4386,
+  "coords": [
+    26.3041815,
+    50.21124770000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:30 PM",
+    "Tuesday: 7:00 AM – 11:30 PM",
+    "Wednesday: 7:00 AM – 11:30 PM",
+    "Thursday: 7:00 AM – 11:30 PM",
+    "Friday: 7:00 – 10:30 AM, 12:30 – 11:30 PM",
+    "Saturday: 7:00 AM – 11:30 PM",
+    "Sunday: 7:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/koy-al-khubar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:13:52.641Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "la-canela-arequipa",
+  "name": "La Canela",
+  "city": "Arequipa",
+  "country": "Peru",
+  "placeId": "ChIJGyZGuO9LQpERXDgyj8hCQ6c",
+  "googleName": "LA CANELA PASTELERIA",
+  "formattedAddress": "04004 CAL, C. Los Andes 510 URB, Alto Selva Alegre 04004, Peru",
+  "phone": "951 251 037",
+  "website": "https://www.facebook.com/p/La-Canela-Pasteler%C3%ADa-100063524683989/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12052550456936904796",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -16.3808272,
+    -71.51918549999999
+  ],
+  "openingHours": [
+    "Monday: 1:00 – 9:00 PM",
+    "Tuesday: 1:00 – 9:00 PM",
+    "Wednesday: 1:00 – 9:00 PM",
+    "Thursday: 1:00 – 9:00 PM",
+    "Friday: 1:00 – 9:00 PM",
+    "Saturday: 1:00 – 9:00 PM",
+    "Sunday: 1:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/la-canela-arequipa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:56:42.833Z"
+}

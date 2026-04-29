@@ -1,0 +1,32 @@
+{
+  "slug": "by-bakery-amphoe-pho-thale",
+  "name": "by Bakery",
+  "city": "Amphoe Pho Thale",
+  "country": "Thailand",
+  "placeId": "ChIJX3cWJ2MT4DAR6a8VipnD8VQ",
+  "googleName": "สุทิน เบเกอรี่ by ใหม่",
+  "formattedAddress": "278F+5V, Bang Khlan, Pho Thale District, Phichit 66130, Thailand",
+  "phone": "063 109 2926",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6120888432787304425",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    16.015468,
+    100.274636
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 7:00 PM",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: 11:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/by-bakery-amphoe-pho-thale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:41:44.147Z"
+}

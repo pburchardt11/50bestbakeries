@@ -1,0 +1,32 @@
+{
+  "slug": "five-o-clock",
+  "name": "Five O'Clock",
+  "city": "Владивосток",
+  "country": "Russia",
+  "placeId": "ChIJzaNIlPmNs18RpoYuVdnJhc4",
+  "googleName": "Five o`clock",
+  "formattedAddress": "Ulitsa Admirala Fokina, 6, Vladivostok, Primorskiy kray, Russia, 690091",
+  "phone": "8 (908) 994-55-31",
+  "website": "https://taplink.cc/fiveoclock.cafe",
+  "googleMapsUrl": "https://maps.google.com/?cid=14881522478989870758",
+  "rating": 4.4,
+  "reviewCount": 1350,
+  "coords": [
+    43.1176584,
+    131.8813433
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/five-o-clock/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:01.498Z"
+}

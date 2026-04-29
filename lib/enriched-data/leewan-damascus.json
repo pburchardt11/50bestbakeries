@@ -1,0 +1,32 @@
+{
+  "slug": "leewan-damascus",
+  "name": "Leewan",
+  "city": "Damascus",
+  "country": "Syria",
+  "placeId": "ChIJTz0y7TnnGBURYy5Kvw1N2N8",
+  "googleName": "Al_lewan",
+  "formattedAddress": "G7CQ+WMQ, Ziad Ibn Abi Softyan, Damascus, Syria",
+  "phone": "011 333 2345",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16129726786866654819",
+  "rating": 4.1,
+  "reviewCount": 47,
+  "coords": [
+    33.5223284,
+    36.2892365
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/leewan-damascus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:36.177Z"
+}

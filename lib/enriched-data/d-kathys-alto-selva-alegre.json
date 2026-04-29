@@ -1,0 +1,32 @@
+{
+  "slug": "d-kathys-alto-selva-alegre",
+  "name": "D'Kathys",
+  "city": "Alto Selva Alegre",
+  "country": "Peru",
+  "placeId": "ChIJgWOAInpLQpERM6khdGjRtM8",
+  "googleName": "D'Kathys",
+  "formattedAddress": "51, Av. Gutenberg 504, Alto Selva Alegre 04001, Peru",
+  "phone": "983 309 375",
+  "website": "https://linktr.ee/dkathys",
+  "googleMapsUrl": "https://maps.google.com/?cid=14966817708214167859",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    -16.3843353,
+    -71.525356
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/d-kathys-alto-selva-alegre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:55:53.860Z"
+}

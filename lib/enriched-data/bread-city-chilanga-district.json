@@ -1,0 +1,32 @@
+{
+  "slug": "bread-city-chilanga-district",
+  "name": "Bread City",
+  "city": "Chilanga District",
+  "country": "Zambia",
+  "placeId": "ChIJxZNH03XtQBkRpUMEUdCyKyg",
+  "googleName": "Bread City",
+  "formattedAddress": "C7CG+35P, Chilanga, Zambia",
+  "phone": "097 7907883",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2894603793297851301",
+  "rating": 3.5,
+  "reviewCount": 83,
+  "coords": [
+    -15.5797935,
+    28.2754416
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bread-city-chilanga-district/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:58:29.179Z"
+}

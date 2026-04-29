@@ -1,0 +1,32 @@
+{
+  "slug": "9-bakery-amphoe-bang-phli",
+  "name": "9 Bakery",
+  "city": "Amphoe Bang Phli",
+  "country": "Thailand",
+  "placeId": "ChIJmZmP2bFbHTERjDGq7V1EJ1I",
+  "googleName": "ร้าน9เบเกอรี่",
+  "formattedAddress": "ตลาดแฟลต3 เคหะบางพลี บางเสาธง Tambon Bang Sao Thong, Amphoe Bang Sao Thong, Chang Wat Samut Prakan 10570, Thailand",
+  "phone": "085 890 8943",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5919775405411807628",
+  "rating": 4.3,
+  "reviewCount": 6,
+  "coords": [
+    13.5598852,
+    100.765789
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/9-bakery-amphoe-bang-phli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:40:54.654Z"
+}

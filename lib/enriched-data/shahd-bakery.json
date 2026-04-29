@@ -1,0 +1,32 @@
+{
+  "slug": "shahd-bakery",
+  "name": "Shahd Bakery",
+  "city": "الخور و الذخيرة",
+  "country": "Qatar",
+  "placeId": "ChIJAeQYKfT5RT4RzirujhufSwA",
+  "googleName": "Shahd Bakery",
+  "formattedAddress": "SOUQ ALBAYT, Al Khawr, Qatar",
+  "phone": "7790 0294",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=21285563964205774",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    25.6664894,
+    51.48788159999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 3:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/shahd-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:05:38.464Z"
+}

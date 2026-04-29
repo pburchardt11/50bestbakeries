@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-abu-dhabi",
+  "name": "Cinnabon",
+  "city": "Abu Dhabi",
+  "country": "UAE",
+  "placeId": "ChIJ5a0qD1FmXj4RDEwS366HF-M",
+  "googleName": "Cinnabon - Abu Dhabi Mall",
+  "formattedAddress": "Level 3, Abu Dhabi Mall - شارع ١٠ - الزاهية - شرق 16 1 - أبو ظبي - United Arab Emirates",
+  "phone": "054 792 8857",
+  "website": "https://www.cinnabon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16363696956210564108",
+  "rating": 4.2,
+  "reviewCount": 292,
+  "coords": [
+    24.4962659,
+    54.3835253
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Counter-serve chain serving cinnamon rolls plus other baked goods & specialty frozen beverages.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnabon-abu-dhabi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:47:35.867Z"
+}

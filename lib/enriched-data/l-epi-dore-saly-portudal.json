@@ -1,0 +1,32 @@
+{
+  "slug": "l-epi-dore-saly-portudal",
+  "name": "L'epi Dore",
+  "city": "Saly Portudal",
+  "country": "Senegal",
+  "placeId": "ChIJQTWNbYSJwQ4Rbd_m7RqNiiQ",
+  "googleName": "L'epi Doré",
+  "formattedAddress": "CXWJ+V3C, Rte de Saly, M'bour, Senegal",
+  "phone": "33 957 77 33",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2633072078951473005",
+  "rating": 3.9,
+  "reviewCount": 128,
+  "coords": [
+    14.4471948,
+    -17.0198556
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 1:30 PM, 4:00 – 8:15 PM",
+    "Tuesday: 6:30 AM – 1:30 PM, 4:00 – 8:15 PM",
+    "Wednesday: 6:30 AM – 1:30 PM, 4:00 – 8:15 PM",
+    "Thursday: 6:30 AM – 1:30 PM, 4:00 – 8:15 PM",
+    "Friday: 6:30 AM – 1:30 PM, 4:00 – 8:15 PM",
+    "Saturday: 6:30 AM – 1:30 PM, 4:00 – 8:15 PM",
+    "Sunday: 6:30 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-epi-dore-saly-portudal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:16:48.170Z"
+}

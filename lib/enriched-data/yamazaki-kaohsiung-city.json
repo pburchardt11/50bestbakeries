@@ -1,0 +1,32 @@
+{
+  "slug": "yamazaki-kaohsiung-city",
+  "name": "Yamazaki",
+  "city": "Kaohsiung City",
+  "country": "Taiwan",
+  "placeId": "ChIJ9ynbhx4FbjQRas_JkU_HyUk",
+  "googleName": "Yamazaki",
+  "formattedAddress": "No. 463號, Minzu 1st Rd, Sanmin District, Kaohsiung City, Taiwan 807",
+  "phone": "07 392 7502",
+  "website": "http://www.yamazaki-bc.com.tw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5316999979649847146",
+  "rating": 3.5,
+  "reviewCount": 123,
+  "coords": [
+    22.6591039,
+    120.3153657
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:30 PM",
+    "Sunday: 10:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yamazaki-kaohsiung-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:37:47.917Z"
+}

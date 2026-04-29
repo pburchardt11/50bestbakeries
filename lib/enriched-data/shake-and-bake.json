@@ -1,0 +1,32 @@
+{
+  "slug": "shake-and-bake",
+  "name": "Shake and Bake",
+  "city": "السيب",
+  "country": "Oman",
+  "placeId": "ChIJZQj9Aqb8jT4R01EBz76lNkQ",
+  "googleName": "Shake & Bake",
+  "formattedAddress": "M622+H8H, Seeb, Oman",
+  "phone": "9888 8547",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4915298282256814547",
+  "rating": 3.9,
+  "reviewCount": 7,
+  "coords": [
+    23.6514369,
+    58.20085309999999
+  ],
+  "openingHours": [
+    "Monday: 12:00 PM – 12:00 AM",
+    "Tuesday: 12:00 PM – 12:00 AM",
+    "Wednesday: 12:00 PM – 12:00 AM",
+    "Thursday: 12:00 PM – 12:00 AM",
+    "Friday: 12:00 PM – 12:00 AM",
+    "Saturday: 12:00 PM – 12:00 AM",
+    "Sunday: 12:00 PM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/shake-and-bake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:46:33.368Z"
+}

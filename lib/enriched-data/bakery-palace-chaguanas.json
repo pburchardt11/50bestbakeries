@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-palace-chaguanas",
+  "name": "Bakery Palace",
+  "city": "Chaguanas",
+  "country": "Trinidad & Tobago",
+  "placeId": "ChIJ5236gB35SYwR2oiYcEj33DE",
+  "googleName": "Cake Decor & Baking Supplies",
+  "formattedAddress": "Level 2, 12 Southern Main Rd, Chaguanas, Trinidad and Tobago",
+  "phone": "(868) 271-6684",
+  "website": "http://www.cakedecortt.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3593018493233563866",
+  "rating": 4.4,
+  "reviewCount": 51,
+  "coords": [
+    10.5132236,
+    -61.4093021
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 4:45 PM",
+    "Tuesday: 10:00 AM – 4:45 PM",
+    "Wednesday: 10:00 AM – 4:45 PM",
+    "Thursday: 10:00 AM – 4:45 PM",
+    "Friday: 10:00 AM – 4:45 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-palace-chaguanas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:43:36.043Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "gourmandine-dakar",
+  "name": "Gourmandine",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJXafbWrNzwQ4R-89fDZMnqcU",
+  "googleName": "Gourmandine",
+  "formattedAddress": "MH99+RG7, Dakar, Senegal",
+  "phone": "33 822 22 34",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14242958809073963003",
+  "rating": 4,
+  "reviewCount": 1257,
+  "coords": [
+    14.6695386,
+    -17.4311997
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gourmandine-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:16:18.420Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cake-studio-zimbabwe-harare",
+  "name": "Cake Studio Zimbabwe",
+  "city": "Harare",
+  "country": "Zimbabwe",
+  "placeId": "ChIJoy9VN7SkMRkRO_Q51G2V8VY",
+  "googleName": "Cake Studio Zimbabwe",
+  "formattedAddress": "14305 Madokero Estates, Harare, Zimbabwe",
+  "phone": "078 432 0632",
+  "website": "https://cakestudio.co.zw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6264952855593612347",
+  "rating": 4.7,
+  "reviewCount": 32,
+  "coords": [
+    -17.787382,
+    30.9627791
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 4:30 PM",
+    "Saturday: 8:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-studio-zimbabwe-harare/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:02:02.136Z"
+}

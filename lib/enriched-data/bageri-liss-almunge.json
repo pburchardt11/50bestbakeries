@@ -1,0 +1,32 @@
+{
+  "slug": "bageri-liss-almunge",
+  "name": "Bageri Liss",
+  "city": "Almunge",
+  "country": "Sweden",
+  "placeId": "ChIJbbqdWYvDX0YRlG1W306TFwE",
+  "googleName": "Bageri Liss",
+  "formattedAddress": "Lilla Väsby 15, 741 97 Almunge, Sweden",
+  "phone": "072-446 13 23",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=78693485465988500",
+  "rating": 4.9,
+  "reviewCount": 23,
+  "coords": [
+    59.8686368,
+    18.0703777
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 3:15 PM",
+    "Thursday: 8:00 AM – 2:30 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bageri-liss-almunge/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:33:53.568Z"
+}

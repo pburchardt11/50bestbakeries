@@ -1,0 +1,32 @@
+{
+  "slug": "queens-bakes-and-baking-supplies-alberton",
+  "name": "Queens Bakes and Baking Supplies",
+  "city": "Alberton",
+  "country": "South Africa",
+  "placeId": "ChIJg1JW3RQFlR4RB2bNHYPH-Rg",
+  "googleName": "Queen's BAKES & Baking Supplies",
+  "formattedAddress": "37 Kamferbos St, Brackendowns, Alberton, 1454, South Africa",
+  "phone": "060 428 1434",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1799688892065867271",
+  "rating": 5,
+  "reviewCount": 8,
+  "coords": [
+    -26.3353013,
+    28.0929925
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/queens-bakes-and-baking-supplies-alberton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:26:59.914Z"
+}

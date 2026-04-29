@@ -1,0 +1,32 @@
+{
+  "slug": "trpkovic-belgrade",
+  "name": "Trpković",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJn06ZzglwWkcRpkgPD7lY8NY",
+  "googleName": "Trpkovic Bakery",
+  "formattedAddress": "Nemanjina 32, Beograd, Serbia",
+  "phone": "011 3611268",
+  "website": "http://pekaratrpkovic.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15487976670371989670",
+  "rating": 4.6,
+  "reviewCount": 6135,
+  "coords": [
+    44.8031272,
+    20.4641657
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/trpkovic-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:01.492Z"
+}

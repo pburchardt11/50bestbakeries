@@ -1,0 +1,32 @@
+{
+  "slug": "john-s-bakery-bocas-del-toro",
+  "name": "John's Bakery",
+  "city": "Bocas del Toro",
+  "country": "Panama",
+  "placeId": "ChIJ4WSawLwdpo8RHj_5GtuilwU",
+  "googleName": "John's Bakery",
+  "formattedAddress": "C. 3a, Bocas del Toro, Provincia de Bocas del Toro, Panama",
+  "phone": "6665-0806",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=402969753607028510",
+  "rating": 4.2,
+  "reviewCount": 202,
+  "coords": [
+    9.339211599999999,
+    -82.2407049
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/john-s-bakery-bocas-del-toro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:52:15.553Z"
+}

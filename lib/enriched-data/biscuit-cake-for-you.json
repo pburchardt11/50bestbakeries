@@ -1,0 +1,32 @@
+{
+  "slug": "biscuit-cake-for-you",
+  "name": "Biscuit Cake for You",
+  "city": "Броварський район",
+  "country": "Ukraine",
+  "placeId": "ChIJkYLGyyTZ1EARQ6Qw3YAS6fw",
+  "googleName": "Biscuit Cake for You",
+  "formattedAddress": "Vesniana St, 8, Brovary, Kyivs'ka oblast, Ukraine, 07400",
+  "phone": "093 366 2794",
+  "website": "http://www.cake4you.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18224117711807489091",
+  "rating": 4.6,
+  "reviewCount": 14,
+  "coords": [
+    50.51409719999999,
+    30.76135709999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 7:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/biscuit-cake-for-you/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:03.359Z"
+}

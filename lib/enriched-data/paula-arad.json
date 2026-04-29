@@ -1,0 +1,30 @@
+{
+  "slug": "paula-arad",
+  "name": "Paula",
+  "city": "Arad",
+  "country": "Romania",
+  "placeId": "ChIJC6rRPwCZRUcRQu5t4F0FOKI",
+  "googleName": "Paula Bakery",
+  "formattedAddress": "Strada Renașterii 34 317405, 317405 Arad, Romania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11689098733595520578",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    46.1718037,
+    21.357952
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:07:51.816Z"
+}

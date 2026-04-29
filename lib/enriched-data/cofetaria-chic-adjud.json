@@ -1,0 +1,32 @@
+{
+  "slug": "cofetaria-chic-adjud",
+  "name": "Cofetăria Chic",
+  "city": "Adjud",
+  "country": "Romania",
+  "placeId": "ChIJJVnFBcW1tUARXE-zIfGXF7M",
+  "googleName": "Cofetăria Chic",
+  "formattedAddress": "Strada Alexandru Ioan Cuza 2, 625100 Adjud, Romania",
+  "phone": "0745 613 179",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12904950319161757532",
+  "rating": 3.7,
+  "reviewCount": 240,
+  "coords": [
+    46.0993794,
+    27.1808049
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cofetaria-chic-adjud/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:01.621Z"
+}

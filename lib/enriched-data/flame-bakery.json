@@ -1,0 +1,24 @@
+{
+  "slug": "flame-bakery",
+  "name": "Flame Bakery",
+  "city": "Горішні Плавні",
+  "country": "Ukraine",
+  "placeId": "ChIJr_cxRaP_2UARKgZHotwcpKo",
+  "googleName": "Flame Bakery",
+  "formattedAddress": "Heroiv Dnipra Ave, 73, Horishni Plavni, Poltavs'ka oblast, Ukraine, 39800",
+  "phone": "097 801 6700",
+  "website": "https://www.bflamecoffee.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12295984616569243178",
+  "rating": 4.6,
+  "reviewCount": 193,
+  "coords": [
+    49.0093352,
+    33.6278804
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flame-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:29.320Z"
+}

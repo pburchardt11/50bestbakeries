@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-jaguey-aguada",
+  "name": "Panadería Jagüey",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJKWurPi-lAowR1ar1yJXz27o",
+  "googleName": "Panadería Jagüey",
+  "formattedAddress": "PR-411, Aguada, 00602, Puerto Rico",
+  "phone": "(787) 320-6560",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13464623335601449685",
+  "rating": 4.4,
+  "reviewCount": 131,
+  "coords": [
+    18.3601929,
+    -67.19952070000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:30 PM",
+    "Tuesday: 6:00 AM – 8:30 PM",
+    "Wednesday: 6:00 AM – 8:30 PM",
+    "Thursday: 6:00 AM – 8:30 PM",
+    "Friday: 6:00 AM – 8:30 PM",
+    "Saturday: 6:00 AM – 8:30 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-jaguey-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:01:43.722Z"
+}

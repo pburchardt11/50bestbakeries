@@ -1,0 +1,32 @@
+{
+  "slug": "etecake-busan",
+  "name": "etecake",
+  "city": "Busan",
+  "country": "South Korea",
+  "placeId": "ChIJm_J3vSuNaDUR6iSKzNPMl5k",
+  "googleName": "Horangi Jella Tteok Rice Cake",
+  "formattedAddress": "South Korea, Busan, Haeundae, Dalmaji-gil 62beon-gil, 38 1층 115호,116호",
+  "phone": "050-71302-4130",
+  "website": "https://instagram.com/horang2__gelatteok",
+  "googleMapsUrl": "https://maps.google.com/?cid=11067539819328054506",
+  "rating": 4,
+  "reviewCount": 515,
+  "coords": [
+    35.15849,
+    129.1711889
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 4:00 PM, 5:30 – 9:30 PM",
+    "Tuesday: 12:00 – 4:00 PM, 5:30 – 9:30 PM",
+    "Wednesday: 12:00 – 4:00 PM, 5:30 – 9:30 PM",
+    "Thursday: 12:00 – 4:00 PM, 5:30 – 9:30 PM",
+    "Friday: 12:00 – 4:00 PM, 5:30 – 9:30 PM",
+    "Saturday: 12:00 – 4:00 PM, 5:30 – 9:30 PM",
+    "Sunday: 12:00 – 4:00 PM, 5:30 – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/etecake-busan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:27:47.048Z"
+}

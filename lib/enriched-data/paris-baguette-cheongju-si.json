@@ -1,0 +1,30 @@
+{
+  "slug": "paris-baguette-cheongju-si",
+  "name": "Paris Baguette",
+  "city": "Cheongju-si",
+  "country": "South Korea",
+  "placeId": "ChIJm2HNx6cnZTURQn4lVW4widA",
+  "googleName": "Paris Baguette",
+  "formattedAddress": "South Korea, Chungcheongbuk-do, Cheongju, Cheongwon-gu, 율량.사천동 413-15",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15026594882131426882",
+  "rating": 4.6,
+  "reviewCount": 14,
+  "coords": [
+    36.6639707,
+    127.4754971
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:28:21.776Z"
+}

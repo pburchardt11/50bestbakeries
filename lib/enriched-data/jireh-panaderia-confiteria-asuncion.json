@@ -1,0 +1,32 @@
+{
+  "slug": "jireh-panaderia-confiteria-asuncion",
+  "name": "JIREH Panadería & Confitería",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJ79xcf-tmA4wRD-2TpUairuM",
+  "googleName": "Panadería Jireh",
+  "formattedAddress": "658-1070 Av. P.º de los Gigantes, Carolina, 00983, Puerto Rico",
+  "phone": "(939) 204-4648",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16406228916866641167",
+  "rating": 4.4,
+  "reviewCount": 752,
+  "coords": [
+    18.406461,
+    -65.98066299999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 6:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/jireh-panaderia-confiteria-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:54:11.136Z"
+}

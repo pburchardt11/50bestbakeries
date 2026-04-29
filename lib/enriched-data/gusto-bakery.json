@@ -1,0 +1,32 @@
+{
+  "slug": "gusto-bakery",
+  "name": "Gusto Bakery",
+  "city": "Владивосток",
+  "country": "Russia",
+  "placeId": "ChIJ6RUFIWaNs18RatkV2mu4-cQ",
+  "googleName": "GUSTO Bakery",
+  "formattedAddress": "Okeanskiy Prospekt, 12, Vladivostok, Primorskiy kray, Russia, 690091",
+  "phone": "8 (984) 192-12-63",
+  "website": "https://gustobakery.ru/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14193578473994705258",
+  "rating": 4.1,
+  "reviewCount": 29,
+  "coords": [
+    43.1174899,
+    131.88647
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/gusto-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:03.694Z"
+}

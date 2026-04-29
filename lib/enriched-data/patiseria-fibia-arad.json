@@ -1,0 +1,32 @@
+{
+  "slug": "patiseria-fibia-arad",
+  "name": "Patiseria Fibia",
+  "city": "Arad",
+  "country": "Romania",
+  "placeId": "ChIJ6xUWxneZRUcRJsfqGuLL7J0",
+  "googleName": "Patiseria Fibia",
+  "formattedAddress": "Strada Andrei Șaguna 15, 317426 Arad, Romania",
+  "phone": "0745 987 711",
+  "website": "https://patiseria-fibia.web.app/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11379694530433042214",
+  "rating": 4.4,
+  "reviewCount": 15,
+  "coords": [
+    46.1800863,
+    21.3090306
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/patiseria-fibia-arad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:13.262Z"
+}

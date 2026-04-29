@@ -1,0 +1,32 @@
+{
+  "slug": "bake-my-day-dubai",
+  "name": "Bake My Day",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJr1EkTLAVXz4RGJ82-7BaK8o",
+  "googleName": "Bake My Day Dubai Dutch Bakery",
+  "formattedAddress": "The Beach Building JBR 51912 No. 1402 - مرسى دبي - دبي مارينا - دبي - United Arab Emirates",
+  "phone": "04 243 7023",
+  "website": "https://bakemyday.ae/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14567837135835406104",
+  "rating": 4.7,
+  "reviewCount": 2798,
+  "coords": [
+    25.0781432,
+    55.1330493
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:30 AM",
+    "Tuesday: 7:00 AM – 1:30 AM",
+    "Wednesday: 7:00 AM – 1:30 AM",
+    "Thursday: 7:00 AM – 1:30 AM",
+    "Friday: 7:00 AM – 1:30 AM",
+    "Saturday: 7:00 AM – 1:30 AM",
+    "Sunday: 7:00 AM – 1:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-my-day-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:48:31.840Z"
+}

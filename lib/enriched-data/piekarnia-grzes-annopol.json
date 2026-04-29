@@ -1,0 +1,32 @@
+{
+  "slug": "piekarnia-grzes-annopol",
+  "name": "Piekarnia GRZEŚ",
+  "city": "Annopol",
+  "country": "Poland",
+  "placeId": "ChIJVR-rREu5IkcRbsVopVWZkVw",
+  "googleName": "Piekarnia GRZEŚ",
+  "formattedAddress": "Radomska 32, 23-235 Annopol, Poland",
+  "phone": "15 834 44 68",
+  "website": "https://pl-pl.facebook.com/pages/category/Bakery/Piekarnia-Grze%C5%9B-336196206399595/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6670281116238792046",
+  "rating": 4.6,
+  "reviewCount": 28,
+  "coords": [
+    50.8856263,
+    21.8502974
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: 3:00 – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/piekarnia-grzes-annopol/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:57:25.299Z"
+}

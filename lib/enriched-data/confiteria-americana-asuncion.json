@@ -1,0 +1,32 @@
+{
+  "slug": "confiteria-americana-asuncion",
+  "name": "Confitería Americana",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJnfFmuO-nXZQRxSefLHrkwRs",
+  "googleName": "CONFITERIA AMERICANA",
+  "formattedAddress": "Cerro Corá 555, Asunción 001101, Paraguay",
+  "phone": "(021) 448 228",
+  "website": "https://www.facebook.com/Panader%C3%ADa-Confiteria-Americana-1400316203542278/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2000130922914981829",
+  "rating": 4.4,
+  "reviewCount": 234,
+  "coords": [
+    -25.2859283,
+    -57.63104869999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:30 PM, 2:30 – 5:15 PM",
+    "Tuesday: 7:30 AM – 12:30 PM, 2:30 – 5:15 PM",
+    "Wednesday: 7:30 AM – 12:30 PM, 2:30 – 5:15 PM",
+    "Thursday: 7:30 AM – 12:30 PM, 2:30 – 5:15 PM",
+    "Friday: 7:30 AM – 12:30 PM, 2:30 – 5:15 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/confiteria-americana-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:55:17.542Z"
+}

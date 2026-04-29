@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-mendez-artigas",
+  "name": "Panadería Mendez",
+  "city": "Artigas",
+  "country": "Uruguay",
+  "placeId": "ChIJJwbRU1kJq5URM7i7lTHm9g8",
+  "googleName": "Panadería Mendez",
+  "formattedAddress": "Tomas Berreta 482, 55000 Artigas, Departamento de Artigas, Uruguay",
+  "phone": "4772 6348",
+  "website": "https://1122.com.uy/local/panaderia-mendez/LOC371170001",
+  "googleMapsUrl": "https://maps.google.com/?cid=1150359855479633971",
+  "rating": 4.4,
+  "reviewCount": 553,
+  "coords": [
+    -30.4034147,
+    -56.4669458
+  ],
+  "openingHours": [
+    "Monday: 6:45 AM – 12:30 PM, 2:30 – 7:30 PM",
+    "Tuesday: 6:45 AM – 12:30 PM, 2:30 – 7:30 PM",
+    "Wednesday: 6:45 AM – 12:30 PM, 2:30 – 7:30 PM",
+    "Thursday: 6:45 AM – 12:30 PM, 2:30 – 7:30 PM",
+    "Friday: 6:45 AM – 12:30 PM, 2:30 – 7:30 PM",
+    "Saturday: 6:45 AM – 12:30 PM, 2:30 – 7:30 PM",
+    "Sunday: 6:45 AM – 1:00 PM, 3:30 – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-mendez-artigas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:25.397Z"
+}

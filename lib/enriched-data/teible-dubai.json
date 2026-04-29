@@ -1,0 +1,24 @@
+{
+  "slug": "teible-dubai",
+  "name": "Teible",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJpRVkcvZdXz4R0mxgUIAa-3Q",
+  "googleName": "Teible",
+  "formattedAddress": "Teible Restaurant Jameel Arts Centre - Ground Floor - Al Jadaf - Jaddaf Waterfront - Dubai - United Arab Emirates",
+  "phone": "04 243 6683",
+  "website": "https://www.teible.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8429360265960647890",
+  "rating": 4.5,
+  "reviewCount": 492,
+  "coords": [
+    25.2290283,
+    55.3413935
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/teible-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:48:26.599Z"
+}

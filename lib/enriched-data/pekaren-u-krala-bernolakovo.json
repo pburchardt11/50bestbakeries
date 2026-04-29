@@ -1,0 +1,32 @@
+{
+  "slug": "pekaren-u-krala-bernolakovo",
+  "name": "Pekáreň u Kráľa",
+  "city": "Bernolákovo",
+  "country": "Slovakia",
+  "placeId": "ChIJPTHRr82FbEcRTTTCTu3HNb8",
+  "googleName": "Pekáreň u Kráľa",
+  "formattedAddress": "Dukelská 26, 900 27 Bernolákovo, Slovakia",
+  "phone": "0918 074 772",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13778138457052427341",
+  "rating": 4.9,
+  "reviewCount": 105,
+  "coords": [
+    48.2033263,
+    17.2972174
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 7:30 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekaren-u-krala-bernolakovo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:22:31.762Z"
+}

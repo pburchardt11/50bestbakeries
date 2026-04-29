@@ -1,0 +1,32 @@
+{
+  "slug": "mavi-s-samoa-mini-mart-apia",
+  "name": "Mavi's Samoa Mini Mart",
+  "city": "Apia",
+  "country": "Samoa",
+  "placeId": "ChIJxbATqem1unERUOePXWudzkI",
+  "googleName": "I'AULUALO Mini Mart & MARNITTAS Bakery",
+  "formattedAddress": "Fa'a'ala, Samoa",
+  "phone": "75 12245",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4813958136162412368",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    -13.7580173,
+    -172.2920853
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 3:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mavi-s-samoa-mini-mart-apia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:12:40.814Z"
+}

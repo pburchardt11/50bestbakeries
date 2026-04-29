@@ -1,0 +1,30 @@
+{
+  "slug": "paris-baguette-changwon",
+  "name": "PARIS BAGUETTE",
+  "city": "Changwon",
+  "country": "South Korea",
+  "placeId": "ChIJzwo-dIfQaDURCiO3l4MlPsE",
+  "googleName": "Paris Baguette",
+  "formattedAddress": "Yongwon-dong, Jinhae-gu, Changwon-si, Gyeongsangnam-do, South Korea",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13924608344992457482",
+  "rating": 3.3,
+  "reviewCount": 9,
+  "coords": [
+    35.0887375,
+    128.8129408
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:28:11.492Z"
+}

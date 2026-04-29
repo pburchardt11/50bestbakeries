@@ -1,0 +1,32 @@
+{
+  "slug": "the-magic-oven-arangala",
+  "name": "The Magic Oven",
+  "city": "Arangala",
+  "country": "Sri Lanka",
+  "placeId": "ChIJa-CYHddR4joRcodCmM5wLBQ",
+  "googleName": "Magic Oven by Nisha",
+  "formattedAddress": "500/6A, Jayagath Mawatah,Hokandara North, Malabe 10118, Sri Lanka",
+  "phone": "022 392 8412",
+  "website": "https://magicoven.co.nz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1453660812353898354",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    6.883927099999999,
+    79.9622622
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-magic-oven-arangala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:29:03.552Z"
+}

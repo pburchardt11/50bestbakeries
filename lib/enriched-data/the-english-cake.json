@@ -1,0 +1,32 @@
+{
+  "slug": "the-english-cake",
+  "name": "The English Cake",
+  "city": "ירושלים",
+  "country": "Palestine",
+  "placeId": "ChIJqbnxHyAoAxUR0vlfxO4voY0",
+  "googleName": "English Cake",
+  "formattedAddress": "Rivka St 19, Jerusalem, Israel",
+  "phone": "02-673-4424",
+  "website": "http://www.englishcake.co.il/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10205490933141600722",
+  "rating": 4.3,
+  "reviewCount": 404,
+  "coords": [
+    31.7547876,
+    35.2157863
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:00 AM – 3:30 PM",
+    "Saturday: Closed",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/the-english-cake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:51:16.820Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "lilikoi-patisserie-ciudad-de-panama",
+  "name": "Lilikoi Patisserie",
+  "city": "Ciudad de Panamá",
+  "country": "Panama",
+  "placeId": "ChIJ-fnspYmrrY8Rh76pAx1XtFw",
+  "googleName": "Lali Bakery & Coffee Shop",
+  "formattedAddress": "Playa Blanca Resort, Río Hato, Provincia de Coclé, Panama",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6680059929424412295",
+  "rating": 4.5,
+  "reviewCount": 18,
+  "coords": [
+    8.3532878,
+    -80.1470095
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 8:30 AM – 4:30 PM",
+    "Thursday: 8:30 AM – 4:30 PM",
+    "Friday: 8:30 AM – 4:30 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/lilikoi-patisserie-ciudad-de-panama/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:16.108Z"
+}

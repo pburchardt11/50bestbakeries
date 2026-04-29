@@ -1,0 +1,24 @@
+{
+  "slug": "s-s-rostov-on-don",
+  "name": "S S",
+  "city": "Rostov-on-Don",
+  "country": "Russia",
+  "placeId": "ChIJ77a0w3fH40ARBE2L5FG0SII",
+  "googleName": "Rostov-on-Don",
+  "formattedAddress": "Rostov-on-Don, Rostov Oblast, Russia",
+  "phone": null,
+  "website": "http://www.rostov-gorod.ru/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9387951687073484036",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    47.2357137,
+    39.701505
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/s-s-rostov-on-don/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:05.889Z"
+}

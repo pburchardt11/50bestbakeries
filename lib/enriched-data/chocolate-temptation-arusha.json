@@ -1,0 +1,32 @@
+{
+  "slug": "chocolate-temptation-arusha",
+  "name": "Chocolate Temptation",
+  "city": "Arusha",
+  "country": "Tanzania",
+  "placeId": "ChIJ7YvdzuMcNxgRgwBMeao3SDA",
+  "googleName": "Chocolate Temptation",
+  "formattedAddress": "JMF4+57Q AIM Mall, Arusha, Tanzania",
+  "phone": "0754 696 993",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3479091917462700163",
+  "rating": 4.1,
+  "reviewCount": 10,
+  "coords": [
+    -3.3770346,
+    36.6557457
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chocolate-temptation-arusha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:33.941Z"
+}

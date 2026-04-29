@@ -1,0 +1,32 @@
+{
+  "slug": "maskrtky-u-janky-boleraz",
+  "name": "Maškrtky u Janky",
+  "city": "Boleráz",
+  "country": "Slovakia",
+  "placeId": "ChIJBSts-DelbEcRARTC5MjOR-Q",
+  "googleName": "Maškrtky u Janky",
+  "formattedAddress": "Boleráz 473, 919 08 Boleráz, Slovakia",
+  "phone": "0905 343 683",
+  "website": "http://www.maskrtkyujanky.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16449343526220731393",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    48.4655472,
+    17.4919448
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM",
+    "Tuesday: 8:00 AM – 2:00 PM",
+    "Wednesday: 8:00 AM – 2:00 PM",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: 7:00 – 10:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maskrtky-u-janky-boleraz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:22:42.463Z"
+}

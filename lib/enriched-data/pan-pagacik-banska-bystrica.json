@@ -1,0 +1,32 @@
+{
+  "slug": "pan-pagacik-banska-bystrica",
+  "name": "Pán Pagáčik",
+  "city": "Banská Bystrica",
+  "country": "Slovakia",
+  "placeId": "ChIJI6wP-iI9FUcR7uVZAwbl6pE",
+  "googleName": "Pán Pagáčik",
+  "formattedAddress": "Námestie Š. Moysesa 29, 974 01 Banská Bystrica, Slovakia",
+  "phone": "0917 560 234",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10514468094038631918",
+  "rating": 5,
+  "reviewCount": 32,
+  "coords": [
+    48.737194,
+    19.1458162
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 4:00 PM",
+    "Tuesday: 10:00 AM – 4:00 PM",
+    "Wednesday: 10:00 AM – 4:00 PM",
+    "Thursday: 10:00 AM – 4:00 PM",
+    "Friday: 10:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pan-pagacik-banska-bystrica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:21:53.020Z"
+}

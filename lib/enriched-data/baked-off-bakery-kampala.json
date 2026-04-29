@@ -1,0 +1,32 @@
+{
+  "slug": "baked-off-bakery-kampala",
+  "name": "Baked off bakery",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJ0dmeKFa7fRcRNGT2ZCYWwTI",
+  "googleName": "Baked off bakery",
+  "formattedAddress": "109B Hoima Rd, Kampala, Uganda",
+  "phone": "0785 698323",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3657228726559990836",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    0.3250589,
+    32.5587864
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baked-off-bakery-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:50:00.258Z"
+}

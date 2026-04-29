@@ -1,0 +1,32 @@
+{
+  "slug": "go-nuts-4-donuts-dar-es-salaam",
+  "name": "Go Nuts 4 Donuts",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJz3twvQhLXBgR1fizjDohGRs",
+  "googleName": "Go Nuts 4 Donuts",
+  "formattedAddress": "Jamhuri Street, Dar es Salaam Daressalaam TZ, Dar es Salaam 21512, Tanzania",
+  "phone": "0774 400 435",
+  "website": "http://gonuts4donuts.co.tz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1952628448794245333",
+  "rating": 4.4,
+  "reviewCount": 175,
+  "coords": [
+    -6.817495399999999,
+    39.283
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 10:30 PM",
+    "Tuesday: 9:30 AM – 10:30 PM",
+    "Wednesday: 9:30 AM – 10:30 PM",
+    "Thursday: 9:30 AM – 10:30 PM",
+    "Friday: 9:30 AM – 10:30 PM",
+    "Saturday: 9:30 AM – 11:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/go-nuts-4-donuts-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:39:30.343Z"
+}

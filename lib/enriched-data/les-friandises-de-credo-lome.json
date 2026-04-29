@@ -1,0 +1,32 @@
+{
+  "slug": "les-friandises-de-credo-lome",
+  "name": "Les Friandises de Credo",
+  "city": "Lomé",
+  "country": "Togo",
+  "placeId": "ChIJDfKFgwfhIxARrqmuXIBeSZw",
+  "googleName": "Les Friandises de Credo",
+  "formattedAddress": "BP: 13336 1046,rue 153 Amemaka-Libla, Bé Bassadji, Lomé, Togo",
+  "phone": "99 06 98 65",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11261636248620411310",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    6.1436918,
+    1.2357741
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-friandises-de-credo-lome/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:42:40.545Z"
+}

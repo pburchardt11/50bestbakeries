@@ -1,0 +1,24 @@
+{
+  "slug": "al-amana-bakery",
+  "name": "Al Amana Bakery",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJz6vtjDXFRT4Ru0II6zMnhaU",
+  "googleName": "Al Amana Bakery",
+  "formattedAddress": "Al Rayyan Bldg Ibn Al Atheer St, Doha, Qatar",
+  "phone": "4435 4778",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11926982292100629179",
+  "rating": 4.3,
+  "reviewCount": 41,
+  "coords": [
+    25.2800824,
+    51.5188663
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/al-amana-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:13.240Z"
+}

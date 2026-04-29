@@ -1,0 +1,32 @@
+{
+  "slug": "the-bake-studio-bazaar-west",
+  "name": "The Bake Studio",
+  "city": "Bazaar West",
+  "country": "Sri Lanka",
+  "placeId": "ChIJRYMELLJb4joRKeCSXK2fEuI",
+  "googleName": "The Bake Store",
+  "formattedAddress": "327/12-2/6, Paragon Residencies, Nawala Rd, Sri Jayawardenepura Kotte 00500, Sri Lanka",
+  "phone": "077 719 9712",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16290258369083793449",
+  "rating": 4.8,
+  "reviewCount": 111,
+  "coords": [
+    6.8892662,
+    79.8873452
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bake-studio-bazaar-west/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:23.277Z"
+}

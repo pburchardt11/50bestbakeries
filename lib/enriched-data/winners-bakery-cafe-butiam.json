@@ -1,0 +1,32 @@
+{
+  "slug": "winners-bakery-cafe-butiam",
+  "name": "Winners Bakery & Cafe",
+  "city": "Butiam",
+  "country": "Tanzania",
+  "placeId": "ChIJQW10rXoA0xkRVCYNGq-hjlM",
+  "googleName": "Winners Bakery & Cafe",
+  "formattedAddress": "1102 Street, Musoma 31101, Tanzania",
+  "phone": "0763 799 309",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6020927525269349972",
+  "rating": 4.3,
+  "reviewCount": 7,
+  "coords": [
+    -1.4952197,
+    33.8078684
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:30 PM",
+    "Tuesday: 7:30 AM – 9:30 PM",
+    "Wednesday: 7:30 AM – 9:30 PM",
+    "Thursday: 7:30 AM – 9:30 PM",
+    "Friday: 7:30 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 10:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/winners-bakery-cafe-butiam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:41.898Z"
+}

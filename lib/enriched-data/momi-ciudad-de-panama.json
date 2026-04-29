@@ -1,0 +1,32 @@
+{
+  "slug": "momi-ciudad-de-panama",
+  "name": "Momi",
+  "city": "Ciudad de Panamá",
+  "country": "Panama",
+  "placeId": "ChIJe_mn2n1Xq48RN6xkVAeM5W4",
+  "googleName": "Dulcería Momi",
+  "formattedAddress": "Momi El Dorado, C. 74 Oeste, Urb, Provincia de Panamá, Panama",
+  "phone": "236-6664",
+  "website": "https://www.momi.com.pa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7990947076947356727",
+  "rating": 4.4,
+  "reviewCount": 864,
+  "coords": [
+    9.011465099999999,
+    -79.5329982
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/momi-ciudad-de-panama/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:00.253Z"
+}

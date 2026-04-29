@@ -1,0 +1,32 @@
+{
+  "slug": "sun-ice-n-v-paramaribo",
+  "name": "Sun Ice N.V.",
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "placeId": "ChIJi0Xi38zKCY0REQ8NIgAd-ks",
+  "googleName": "Sun Ice N.V.",
+  "formattedAddress": "Johan Adolf Pengel Straat 60, Paramaribo, Suriname",
+  "phone": "476-094",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5474720183430745873",
+  "rating": 4.2,
+  "reviewCount": 43,
+  "coords": [
+    5.830639,
+    -55.1678815
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sun-ice-n-v-paramaribo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:32:47.102Z"
+}

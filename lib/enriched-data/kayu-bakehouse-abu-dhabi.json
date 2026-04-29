@@ -1,0 +1,32 @@
+{
+  "slug": "kayu-bakehouse-abu-dhabi",
+  "name": "Kayu Bakehouse",
+  "city": "Abu Dhabi",
+  "country": "UAE",
+  "placeId": "ChIJ0b4DYzBnXj4R3B4SpITMO1M",
+  "googleName": "KAYU Bistro",
+  "formattedAddress": "Ground Flour - Galleria Mall - جزيرة المارية - المارية 2 - أبو ظبي - United Arab Emirates",
+  "phone": "02 235 8401",
+  "website": "http://trykayu.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5997612198834347740",
+  "rating": 4.6,
+  "reviewCount": 180,
+  "coords": [
+    24.4983717,
+    54.3891206
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kayu-bakehouse-abu-dhabi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:47:27.151Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-pasteleria-cuba-abancay",
+  "name": "Panaderia y Pasteleria Cuba",
+  "city": "Abancay",
+  "country": "Peru",
+  "placeId": "ChIJ63Di8VUDbZERo38m155ghNA",
+  "googleName": "Panadería y Pastelería CUBA",
+  "formattedAddress": "Ave Nuñez 03001, Abancay 03001, Peru",
+  "phone": "983 102 818",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15025240492145541027",
+  "rating": 4.3,
+  "reviewCount": 35,
+  "coords": [
+    -13.6278877,
+    -72.87550449999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 – 11:00 AM, 4:00 – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-y-pasteleria-cuba-abancay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:55:33.656Z"
+}

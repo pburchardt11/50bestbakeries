@@ -1,0 +1,32 @@
+{
+  "slug": "muscat-bakery",
+  "name": "Muscat Bakery",
+  "city": "صحار",
+  "country": "Oman",
+  "placeId": "ChIJzWKK40xbiz4RwpGDc2qCzZw",
+  "googleName": "Modern Oman Bakery, Sohar | مخبز عمان الحديث",
+  "formattedAddress": "الهمبار،,Humber , Sohar، Sohar, Oman",
+  "phone": "9916 7197",
+  "website": "https://modernomanbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11298830433858589122",
+  "rating": 4.2,
+  "reviewCount": 136,
+  "coords": [
+    24.3371704,
+    56.7431816
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:30 PM",
+    "Tuesday: 8:30 AM – 10:30 PM",
+    "Wednesday: 8:30 AM – 10:30 PM",
+    "Thursday: 8:30 AM – 10:30 PM",
+    "Friday: 8:30 AM – 10:30 PM",
+    "Saturday: 8:30 AM – 10:30 PM",
+    "Sunday: 8:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/muscat-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:47:40.128Z"
+}

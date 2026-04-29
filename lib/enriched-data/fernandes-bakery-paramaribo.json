@@ -1,0 +1,32 @@
+{
+  "slug": "fernandes-bakery-paramaribo",
+  "name": "Fernandes Bakery",
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "placeId": "ChIJsZb0fSnLCY0RTeZccJLDu_o",
+  "googleName": "Fernandes Bakery Kernkampweg",
+  "formattedAddress": "Professor W.J. Kernkampweg 82-84, Paramaribo, Suriname",
+  "phone": "493-628",
+  "website": "https://www.fernandesbakkerij.com/wbw/warmebakkerwinkels.html",
+  "googleMapsUrl": "https://maps.google.com/?cid=18067249363844654669",
+  "rating": 4.1,
+  "reviewCount": 103,
+  "coords": [
+    5.8282786,
+    -55.184746
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: 3:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fernandes-bakery-paramaribo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:33:05.894Z"
+}

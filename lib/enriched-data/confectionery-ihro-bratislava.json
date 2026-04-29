@@ -1,0 +1,32 @@
+{
+  "slug": "confectionery-ihro-bratislava",
+  "name": "Confectionery Ihro",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJA3Nx9S-PbEcRs8dz5RH-Dus",
+  "googleName": "Confectionery Ihro",
+  "formattedAddress": "Raketová 1955/1, 821 02 Bratislava-Ružinov, Slovakia",
+  "phone": "0905 353 426",
+  "website": "http://www.ihro.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16937754601404483507",
+  "rating": 4.5,
+  "reviewCount": 648,
+  "coords": [
+    48.1614703,
+    17.1752571
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/confectionery-ihro-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:24.774Z"
+}

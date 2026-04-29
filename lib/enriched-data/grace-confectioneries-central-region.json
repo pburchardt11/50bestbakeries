@@ -1,0 +1,32 @@
+{
+  "slug": "grace-confectioneries-central-region",
+  "name": "Grace Confectioneries",
+  "city": "Central Region",
+  "country": "Uganda",
+  "placeId": "ChIJvyaOE5O4jogR4ROfXc13Zvg",
+  "googleName": "Grace Confectioneries",
+  "formattedAddress": "Kireku Mpya Rd, Kampala, Uganda",
+  "phone": "0756 490935",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17899125492953322465",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "coords": [
+    0.3487844,
+    32.6677514
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/grace-confectioneries-central-region/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:49:09.913Z"
+}

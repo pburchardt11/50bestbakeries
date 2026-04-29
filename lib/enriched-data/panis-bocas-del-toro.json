@@ -1,0 +1,32 @@
+{
+  "slug": "panis-bocas-del-toro",
+  "name": "Panis",
+  "city": "Bocas del Toro",
+  "country": "Panama",
+  "placeId": "ChIJ4agMvVofpo8RUAQUf3HEsHw",
+  "googleName": "Panis -a bakery exploration-",
+  "formattedAddress": "Isla Colón in front of 3R Mall, Bocas del Toro, Provincia de Bocas del Toro, Panama",
+  "phone": "6169-4686",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8984897248346506320",
+  "rating": 4.8,
+  "reviewCount": 196,
+  "coords": [
+    9.3424905,
+    -82.2415593
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM",
+    "Tuesday: 8:00 AM – 2:00 PM",
+    "Wednesday: 8:00 AM – 2:00 PM",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panis-bocas-del-toro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:52:11.937Z"
+}

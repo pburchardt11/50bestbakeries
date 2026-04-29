@@ -1,0 +1,32 @@
+{
+  "slug": "the-big-london-bake-sierra-leone-freetown",
+  "name": "The Big London Bake Sierra Leone",
+  "city": "Freetown",
+  "country": "Sierra Leone",
+  "placeId": "ChIJ_01g6LwddkgR2iUeBO0NOeA",
+  "googleName": "The Big London Bake East",
+  "formattedAddress": "Under the Bridge, Lee St, London E8 4ED, UK",
+  "phone": null,
+  "website": "http://www.thebiglondonbake.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16156960449795859930",
+  "rating": 4.9,
+  "reviewCount": 773,
+  "coords": [
+    51.538311,
+    -0.0753645
+  ],
+  "openingHours": [
+    "Monday: 4:30 – 10:30 PM",
+    "Tuesday: 4:30 – 10:30 PM",
+    "Wednesday: 4:30 – 10:30 PM",
+    "Thursday: 4:30 – 10:30 PM",
+    "Friday: 2:30 – 10:30 PM",
+    "Saturday: 9:30 AM – 10:30 PM",
+    "Sunday: 9:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-big-london-bake-sierra-leone-freetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:20.406Z"
+}

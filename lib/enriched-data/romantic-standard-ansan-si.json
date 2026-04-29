@@ -1,0 +1,32 @@
+{
+  "slug": "romantic-standard-ansan-si",
+  "name": "Romantic Standard",
+  "city": "Ansan-si",
+  "country": "South Korea",
+  "placeId": "ChIJ35Rk8g1vezURTZQgI0-d3gk",
+  "googleName": "노브랜드 안산이동점",
+  "formattedAddress": "23 Jungbo-ro, Sangnok-gu, Ansan-si, Gyeonggi-do, South Korea",
+  "phone": "02-380-5111",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=711178754388431949",
+  "rating": 4.2,
+  "reviewCount": 286,
+  "coords": [
+    37.3061182,
+    126.8499661
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 10:00 PM",
+    "Tuesday: 10:30 AM – 10:00 PM",
+    "Wednesday: 10:30 AM – 10:00 PM",
+    "Thursday: 10:30 AM – 10:00 PM",
+    "Friday: 10:30 AM – 10:00 PM",
+    "Saturday: 10:30 AM – 10:00 PM",
+    "Sunday: 10:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/romantic-standard-ansan-si/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:27:20.887Z"
+}

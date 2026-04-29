@@ -1,0 +1,32 @@
+{
+  "slug": "a-food-and-bakery-dili",
+  "name": "A Food and Bakery",
+  "city": "Dili",
+  "country": "Timor-Leste",
+  "placeId": "ChIJK3iTWWrdAS0R-DnOYM0_gnU",
+  "googleName": "Aru Bakery & Cafe",
+  "formattedAddress": "FG3W+HQM, Dili, Timor-Leste",
+  "phone": "331 2880",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8467400400734927352",
+  "rating": 4.4,
+  "reviewCount": 67,
+  "coords": [
+    -8.5460424,
+    125.5469137
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/a-food-and-bakery-dili/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:42:03.944Z"
+}

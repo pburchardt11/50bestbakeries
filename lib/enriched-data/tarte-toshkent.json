@@ -1,0 +1,32 @@
+{
+  "slug": "tarte-toshkent",
+  "name": "Tarte",
+  "city": "Toshkent",
+  "country": "Uzbekistan",
+  "placeId": "ChIJQb7VtMqLrjgR9lP3o-f8efg",
+  "googleName": "Tarte",
+  "formattedAddress": "Юнусабадский район массив Минор 96А, Tashkent, Uzbekistan",
+  "phone": "93 555 94 24",
+  "website": "https://www.instagram.com/tarte.uz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17904619865406657526",
+  "rating": 3.9,
+  "reviewCount": 8,
+  "coords": [
+    41.3317935,
+    69.2775965
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tarte-toshkent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:55:39.744Z"
+}

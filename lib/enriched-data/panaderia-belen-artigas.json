@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-belen-artigas",
+  "name": "Panaderia Belén",
+  "city": "Artigas",
+  "country": "Uruguay",
+  "placeId": "ChIJBdOGLzfdrZURiQXwko81mRA",
+  "googleName": "Belén Casa de Pan",
+  "formattedAddress": "Artigas 683, 50000 Salto, Departamento de Salto, Uruguay",
+  "phone": "098 827 138",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1196046066805376393",
+  "rating": 4.2,
+  "reviewCount": 6,
+  "coords": [
+    -31.3884157,
+    -57.9671463
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:00 PM, 3:30 – 7:00 PM",
+    "Tuesday: 7:30 AM – 12:00 PM, 3:30 – 7:00 PM",
+    "Wednesday: 7:30 AM – 12:00 PM, 3:30 – 7:00 PM",
+    "Thursday: 7:30 AM – 12:00 PM, 3:30 – 7:00 PM",
+    "Friday: 7:30 AM – 12:00 PM, 3:30 – 7:00 PM",
+    "Saturday: 8:00 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-belen-artigas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:23.736Z"
+}

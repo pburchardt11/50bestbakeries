@@ -1,0 +1,32 @@
+{
+  "slug": "ha-ges-brod-arboga",
+  "name": "Hå-Ges Bröd",
+  "city": "Arboga",
+  "country": "Sweden",
+  "placeId": "ChIJu26KcZknXEYR3MfCah-oLEA",
+  "googleName": "Hå-Ges Bröd",
+  "formattedAddress": "Nygatan 26, 732 30 Arboga, Sweden",
+  "phone": "0589-103 35",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4624255770291259356",
+  "rating": 4.6,
+  "reviewCount": 189,
+  "coords": [
+    59.39510719999999,
+    15.8410098
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ha-ges-brod-arboga/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:18.555Z"
+}

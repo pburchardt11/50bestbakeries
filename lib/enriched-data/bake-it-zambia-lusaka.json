@@ -1,0 +1,32 @@
+{
+  "slug": "bake-it-zambia-lusaka",
+  "name": "Bake it zambia",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJrUgxcRL1QBkRdJFiyaSvbJQ",
+  "googleName": "Bake It Limited",
+  "formattedAddress": "Number 3B, CEEC Facility, MSMED Kafue Industrial Yard, Lusaka 10101, Zambia",
+  "phone": "096 4714292",
+  "website": "https://bakeitgroup.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10695116337386262900",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -15.4076556,
+    28.2711982
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-it-zambia-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:00:06.290Z"
+}

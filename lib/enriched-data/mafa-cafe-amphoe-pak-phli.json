@@ -1,0 +1,32 @@
+{
+  "slug": "mafa-cafe-amphoe-pak-phli",
+  "name": "MAFA Cafe",
+  "city": "Amphoe Pak Phli",
+  "country": "Thailand",
+  "placeId": "ChIJq2nwyJGtHTER8LpjE9WlXoY",
+  "googleName": "มาฟาคาเฟ่",
+  "formattedAddress": "เลขที่ 59/3 หมู่ 1 33 หมู่บ้าน \"_\" ซอย Tambon Pak Phli, Amphoe Pak Phli, Chang Wat Nakhon Nayok 26130, Thailand",
+  "phone": "090 954 6465",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9682358583465065200",
+  "rating": 4.6,
+  "reviewCount": 137,
+  "coords": [
+    14.1515983,
+    101.2763729
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 3:30 PM",
+    "Wednesday: 8:00 AM – 3:30 PM",
+    "Thursday: 8:00 AM – 3:30 PM",
+    "Friday: 8:00 AM – 3:30 PM",
+    "Saturday: 8:00 AM – 3:30 PM",
+    "Sunday: 8:00 AM – 3:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mafa-cafe-amphoe-pak-phli/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:41:40.124Z"
+}

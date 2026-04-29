@@ -1,0 +1,32 @@
+{
+  "slug": "lviv-croissants-zaporizhia",
+  "name": "Lviv croissants",
+  "city": "Zaporizhia",
+  "country": "Ukraine",
+  "placeId": "ChIJY9oLM9Zm3EARDJ9HUXZ79Z0",
+  "googleName": "Lviv Croissants",
+  "formattedAddress": "Sobornyi Ave, 171, Zaporizhzhia, Zaporiz'ka oblast, Ukraine, 69000",
+  "phone": "097 476 6009",
+  "website": "https://lvivcroissants.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11382139381348802316",
+  "rating": 4.4,
+  "reviewCount": 822,
+  "coords": [
+    47.8530751,
+    35.1126152
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lviv-croissants-zaporizhia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:18.005Z"
+}

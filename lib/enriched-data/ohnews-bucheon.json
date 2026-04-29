@@ -1,0 +1,32 @@
+{
+  "slug": "ohnews-bucheon",
+  "name": "ohnews",
+  "city": "Bucheon",
+  "country": "South Korea",
+  "placeId": "ChIJC_-Oz1t9ezURsqkRb6MJwq8",
+  "googleName": "Ohnews",
+  "formattedAddress": "South Korea, Gyeonggi-do, Bucheon, 원미구 Pyeongcheon-ro, 698 1층",
+  "phone": "032-677-0560",
+  "website": "https://instagram.com/ohnews",
+  "googleMapsUrl": "https://maps.google.com/?cid=12664695699667003826",
+  "rating": 4.8,
+  "reviewCount": 8,
+  "coords": [
+    37.51488519999999,
+    126.7682723
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:30 AM – 8:00 PM",
+    "Wednesday: 9:30 AM – 8:00 PM",
+    "Thursday: 9:30 AM – 8:00 PM",
+    "Friday: 9:30 AM – 8:00 PM",
+    "Saturday: 9:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ohnews-bucheon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:27:36.729Z"
+}

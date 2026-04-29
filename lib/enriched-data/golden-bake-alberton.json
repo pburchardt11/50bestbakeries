@@ -1,0 +1,32 @@
+{
+  "slug": "golden-bake-alberton",
+  "name": "Golden Bake",
+  "city": "Alberton",
+  "country": "South Africa",
+  "placeId": "ChIJ2dN71xUblR4RNEIFgpV07fk",
+  "googleName": "Golden Bake",
+  "formattedAddress": "Shop No.05, Cliffy's, Bosworth St, Alrode, Johannesburg, 1426, South Africa",
+  "phone": "011 864 2375",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18009178670404813364",
+  "rating": 4.8,
+  "reviewCount": 21,
+  "coords": [
+    -26.3250988,
+    28.1383392
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/golden-bake-alberton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:27:09.430Z"
+}

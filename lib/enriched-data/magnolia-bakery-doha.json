@@ -1,0 +1,32 @@
+{
+  "slug": "magnolia-bakery-doha",
+  "name": "MAGNOLIA BAKERY ( )",
+  "city": "Doha",
+  "country": "Qatar",
+  "placeId": "ChIJgT5bP3TQRT4Rs17vHYjowJg",
+  "googleName": "Magnolia Bakery",
+  "formattedAddress": "Dar Al Salam Mall، Doha, Qatar",
+  "phone": "4450 9407",
+  "website": "https://www.magnolia.qa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11007053160608915123",
+  "rating": 4.3,
+  "reviewCount": 532,
+  "coords": [
+    25.2474959,
+    51.4898709
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Cheerful bakeshop serving classic homemade cupcakes, pies & other treats at the counter.",
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/magnolia-bakery-doha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:53.971Z"
+}

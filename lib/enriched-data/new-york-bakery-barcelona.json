@@ -1,0 +1,32 @@
+{
+  "slug": "new-york-bakery-barcelona",
+  "name": "New York Bakery",
+  "city": "Barcelona",
+  "country": "Venezuela",
+  "placeId": "ChIJFztYVIGVAjERf-82EzLKKYk",
+  "googleName": "New York Bakery",
+  "formattedAddress": "241 Soi Phatthaya Klang 6, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+  "phone": "080 636 2592",
+  "website": "https://www.facebook.com/share/19tpDTWYK7/?mibextid=wwXIfr",
+  "googleMapsUrl": "https://maps.google.com/?cid=9883653173660807039",
+  "rating": 4.8,
+  "reviewCount": 274,
+  "coords": [
+    12.9344884,
+    100.8934133
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/new-york-bakery-barcelona/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:57:13.082Z"
+}

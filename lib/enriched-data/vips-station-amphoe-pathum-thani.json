@@ -1,0 +1,32 @@
+{
+  "slug": "vips-station-amphoe-pathum-thani",
+  "name": "VIPS Station",
+  "city": "Amphoe Pathum Thani",
+  "country": "Thailand",
+  "placeId": "ChIJmTdogmiH4jAREVkzfJIs_5M",
+  "googleName": "VIPS Station (Gingerbread House Co., Ltd.)",
+  "formattedAddress": "189 261 Tambon Bang Khu Wat, เมือง Chang Wat Pathum Thani 12000, Thailand",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10664291450297211153",
+  "rating": 4.9,
+  "reviewCount": 10,
+  "coords": [
+    13.981475,
+    100.5007107
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vips-station-amphoe-pathum-thani/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:41:41.660Z"
+}

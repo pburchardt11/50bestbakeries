@@ -1,0 +1,32 @@
+{
+  "slug": "ja-ela-bakers-badulla",
+  "name": "Ja-Ela Bakers",
+  "city": "Badulla",
+  "country": "Sri Lanka",
+  "placeId": "ChIJg-OWCj5i5DoR4RC3KRFgi2g",
+  "googleName": "Ja-Ela Bakers",
+  "formattedAddress": "X3M5+XHJ, Cocowatte Road, Badulla, Sri Lanka",
+  "phone": "0552 222 528",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7533220428537860321",
+  "rating": 3.7,
+  "reviewCount": 29,
+  "coords": [
+    6.9849523,
+    81.0588756
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ja-ela-bakers-badulla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:29:17.544Z"
+}

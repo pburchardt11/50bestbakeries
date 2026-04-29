@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-volgograd",
+  "name": "Cinnabon",
+  "city": "Volgograd",
+  "country": "Russia",
+  "placeId": "ChIJaaWXhTVvwUMRETCDVydD-hQ",
+  "googleName": "Cinnabon",
+  "formattedAddress": "Prospekt Lenina, 44, Yekaterinburg, Sverdlovskaya oblast', Russia, 620000",
+  "phone": "8 (343) 287-70-57",
+  "website": "https://cinnabonrussia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1511594461187223569",
+  "rating": 4.2,
+  "reviewCount": 23,
+  "coords": [
+    56.839094,
+    60.613524
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Counter-serve chain serving cinnamon rolls plus other baked goods & specialty frozen beverages.",
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cinnabon-volgograd/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:29.671Z"
+}

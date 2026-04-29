@@ -1,0 +1,32 @@
+{
+  "slug": "daily-loaf-bakery-kampala",
+  "name": "Daily Loaf Bakery",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJ4dIdyGO7fRcRjyVYniAjvR4",
+  "googleName": "Daily Loaf Bakery",
+  "formattedAddress": "355 Sir Apollo Kaggwa Rd, Kampala, Uganda",
+  "phone": "0703 637523",
+  "website": "http://www.dailyloafbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2214965214738654607",
+  "rating": 4,
+  "reviewCount": 151,
+  "coords": [
+    0.3184409,
+    32.5670697
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/daily-loaf-bakery-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:50:43.518Z"
+}

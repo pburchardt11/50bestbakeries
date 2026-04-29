@@ -1,0 +1,32 @@
+{
+  "slug": "fraites-bakery-bourryau",
+  "name": "Fraites Bakery",
+  "city": "Bourryau",
+  "country": "St. Kitts & Nevis",
+  "placeId": "ChIJhwvs8ksDEowRUROwscBPon8",
+  "googleName": "Fraites and Sons Bakery",
+  "formattedAddress": "969X+9PV, Molineux, St Kitts & Nevis",
+  "phone": "(869) 465-4629",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9197001078077395793",
+  "rating": 4.6,
+  "reviewCount": 66,
+  "coords": [
+    17.3684773,
+    -62.75071020000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:00 PM",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fraites-bakery-bourryau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:42.965Z"
+}

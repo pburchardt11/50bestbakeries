@@ -1,0 +1,32 @@
+{
+  "slug": "nachos-bakery-and-deli-frederiksted",
+  "name": "Nachos Bakery And Deli",
+  "city": "Frederiksted",
+  "country": "U.S. Virgin Islands",
+  "placeId": "ChIJTzcqfDXOGowRbG_yps0kiyU",
+  "googleName": "Nachos Bakery And Deli",
+  "formattedAddress": "21 King St, Frederiksted, St Croix 00840, USVI",
+  "phone": "(340) 719-0488",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2705296466853916524",
+  "rating": 4.5,
+  "reviewCount": 108,
+  "coords": [
+    17.7116557,
+    -64.882392
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 9:30 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nachos-bakery-and-deli-frederiksted/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:47:04.093Z"
+}

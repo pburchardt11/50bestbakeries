@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-vita-pan-asuncion",
+  "name": "Panadería Vita Pan",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJjbICu-2oXZQRJ1SFts2EkLk",
+  "googleName": "Vitapan - Los Laureles",
+  "formattedAddress": "Av. Eusebio Ayala Esquina, Asunción 001420, Paraguay",
+  "phone": "(021) 660 097",
+  "website": "https://www.facebook.com/VITAPAN.SRL/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13371333312728355879",
+  "rating": 4,
+  "reviewCount": 1260,
+  "coords": [
+    -25.3119354,
+    -57.58543389999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-vita-pan-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:55:27.820Z"
+}

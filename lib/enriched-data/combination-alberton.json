@@ -1,0 +1,32 @@
+{
+  "slug": "combination-alberton",
+  "name": "Combination",
+  "city": "Alberton",
+  "country": "South Africa",
+  "placeId": "ChIJ3dsYznEFlR4RFIbegE0G0XI",
+  "googleName": "Combination",
+  "formattedAddress": "40 School Rd, Hartzenbergfontein, 1876, South Africa",
+  "phone": "061 526 9115",
+  "website": "http://www.combination.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8273400920400627220",
+  "rating": 4.9,
+  "reviewCount": 13,
+  "coords": [
+    -26.3981154,
+    27.9611566
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/combination-alberton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:27:04.267Z"
+}

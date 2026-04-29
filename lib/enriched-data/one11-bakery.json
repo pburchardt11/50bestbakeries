@@ -1,0 +1,32 @@
+{
+  "slug": "one11-bakery",
+  "name": "One11 Bakery",
+  "city": "Вишгородський район",
+  "country": "Ukraine",
+  "placeId": "ChIJm0DLOf8rK0cRLrSuG4eEs8I",
+  "googleName": "111Bakery",
+  "formattedAddress": "Vatutina St, 111, Vyshhorod, Kyivs'ka oblast, Ukraine, 07300",
+  "phone": "050 675 2858",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14029702980009112622",
+  "rating": 4.3,
+  "reviewCount": 29,
+  "coords": [
+    50.598653,
+    30.4766362
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/one11-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:08.202Z"
+}

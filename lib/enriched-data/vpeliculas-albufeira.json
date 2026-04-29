@@ -1,0 +1,32 @@
+{
+  "slug": "vpeliculas-albufeira",
+  "name": "Vpelículas",
+  "city": "Albufeira",
+  "country": "Portugal",
+  "placeId": "ChIJkWTHNFDOGg0RSzOXk8ZtwhI",
+  "googleName": "Vpelículas - Algarve",
+  "formattedAddress": "N125, 8200-285 Albufeira, Portugal",
+  "phone": "914 278 060",
+  "website": "http://www.vpeliculas.pt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1351763537811682123",
+  "rating": 4.7,
+  "reviewCount": 59,
+  "coords": [
+    37.1284626,
+    -8.2750602
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/vpeliculas-albufeira/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:58:38.154Z"
+}

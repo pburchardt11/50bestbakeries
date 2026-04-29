@@ -1,0 +1,32 @@
+{
+  "slug": "sohar-beach-bakery-and-stores",
+  "name": "Sohar Beach Bakery and Stores",
+  "city": "صحار",
+  "country": "Oman",
+  "placeId": "ChIJQfxnau9Fiz4RQ3qKuntxITI",
+  "googleName": "Sohar Beach Bakery and Stores",
+  "formattedAddress": "8PRR+J38, Sohar, Oman",
+  "phone": "7156 1575",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3612293152352401987",
+  "rating": 4,
+  "reviewCount": 134,
+  "coords": [
+    24.3415375,
+    56.7401955
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:00 PM",
+    "Tuesday: 7:30 AM – 11:00 PM",
+    "Wednesday: 7:30 AM – 11:00 PM",
+    "Thursday: 7:30 AM – 11:00 PM",
+    "Friday: 7:30 AM – 12:00 PM, 1:00 – 11:00 PM",
+    "Saturday: 7:30 AM – 11:00 PM",
+    "Sunday: 7:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/sohar-beach-bakery-and-stores/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:47:34.738Z"
+}

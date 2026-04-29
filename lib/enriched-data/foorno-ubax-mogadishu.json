@@ -1,0 +1,32 @@
+{
+  "slug": "foorno-ubax-mogadishu",
+  "name": "Foorno Ubax",
+  "city": "Mogadishu",
+  "country": "Somalia",
+  "placeId": "ChIJk_bJflxCWD0RPgRIqKWLBW8",
+  "googleName": "Foorno Ubax",
+  "formattedAddress": "384F+G25, Mogadishu, Somalia",
+  "phone": "61 6438058",
+  "website": "http://www.facebook.com/foorno.ubax",
+  "googleMapsUrl": "https://maps.google.com/?cid=7999953856702710846",
+  "rating": 4.2,
+  "reviewCount": 75,
+  "coords": [
+    2.0562641,
+    45.3226
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/foorno-ubax-mogadishu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:25:47.657Z"
+}

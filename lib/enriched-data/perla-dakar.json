@@ -1,0 +1,32 @@
+{
+  "slug": "perla-dakar",
+  "name": "Perla",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJEfJP2ylzwQ4R1CkmKqSricw",
+  "googleName": "Perla",
+  "formattedAddress": "23 Rue 6, Dakar, Senegal",
+  "phone": "77 428 41 41",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14738499977116789204",
+  "rating": 4.1,
+  "reviewCount": 52,
+  "coords": [
+    14.6769748,
+    -17.4517319
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 11:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/perla-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:16:22.981Z"
+}

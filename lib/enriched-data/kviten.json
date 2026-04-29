@@ -1,0 +1,32 @@
+{
+  "slug": "kviten",
+  "name": "Kviten",
+  "city": "Дніпро",
+  "country": "Ukraine",
+  "placeId": "ChIJ7ylWtBHj20ARWbVlkKpemmQ",
+  "googleName": "Kvitenʹ",
+  "formattedAddress": "Mykoly Rudenka St, 67/А, Дніпро́, Dnipropetrovs'ka oblast, Ukraine, 49130",
+  "phone": "067 634 4351",
+  "website": "https://kviten.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7249210636866270553",
+  "rating": 3.9,
+  "reviewCount": 399,
+  "coords": [
+    48.4523095,
+    35.0132927
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 12:00 – 8:00 AM, 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kviten/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:58.897Z"
+}

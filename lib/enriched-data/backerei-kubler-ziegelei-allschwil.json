@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-kubler-ziegelei-allschwil",
+  "name": "Bäckerei Kübler Ziegelei",
+  "city": "Allschwil",
+  "country": "Switzerland",
+  "placeId": "ChIJJ_3uxN64kUcRSYVIwBy-soo",
+  "googleName": "Bäckerei Kübler Ziegelei",
+  "formattedAddress": "Baslerstrasse 176, 4123 Allschwil, Switzerland",
+  "phone": "061 481 02 20",
+  "website": "http://www.baeckerei-kuebler.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9994259553782891849",
+  "rating": 4,
+  "reviewCount": 228,
+  "coords": [
+    47.5517867,
+    7.549091599999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-kubler-ziegelei-allschwil/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:02.937Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "deli-bakery-cianjin-district",
+  "name": "Deli & Bakery",
+  "city": "Cianjin District",
+  "country": "Taiwan",
+  "placeId": "ChIJVeeJuH8EbjQREaGY4UMpm4E",
+  "googleName": "Deli & Bakery",
+  "formattedAddress": "No. 266號, Chenggong 1st Rd, Qianjin District, Kaohsiung City, Taiwan 801",
+  "phone": "07 213 5788#7098",
+  "website": "https://www.hilai-foods.com/brand-content/23#branch-43",
+  "googleMapsUrl": "https://maps.google.com/?cid=9339103623807279377",
+  "rating": 4.5,
+  "reviewCount": 99,
+  "coords": [
+    22.61951,
+    120.2967637
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:30 PM",
+    "Tuesday: 10:00 AM – 9:30 PM",
+    "Wednesday: 10:00 AM – 9:30 PM",
+    "Thursday: 10:00 AM – 9:30 PM",
+    "Friday: 10:00 AM – 9:30 PM",
+    "Saturday: 10:00 AM – 9:30 PM",
+    "Sunday: 10:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/deli-bakery-cianjin-district/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:37:19.422Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "yummy-kampala",
+  "name": "Yummy",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJJysGbre7fRcRBXqAI7LY-L8",
+  "googleName": "Yummy",
+  "formattedAddress": "Lugogo Mall, Kampala, Uganda",
+  "phone": "0708 526671",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13833044515079879173",
+  "rating": 4.4,
+  "reviewCount": 385,
+  "coords": [
+    0.3263,
+    32.6068123
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yummy-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:50:49.521Z"
+}

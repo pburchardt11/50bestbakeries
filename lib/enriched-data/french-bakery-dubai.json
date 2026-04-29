@@ -1,0 +1,32 @@
+{
+  "slug": "french-bakery-dubai",
+  "name": "French Bakery",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJiRKoTZFpXz4R8pHX4vk4BT0",
+  "googleName": "French Bakery",
+  "formattedAddress": "Dubai - Hadaeq Sheikh Mohammed Bin Rashid - Dubai - United Arab Emirates",
+  "phone": "055 123 3134",
+  "website": "https://frenchbakery.cafe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4396983257100947954",
+  "rating": 4.5,
+  "reviewCount": 714,
+  "coords": [
+    25.1104717,
+    55.2443086
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:30 PM",
+    "Tuesday: 7:30 AM – 10:30 PM",
+    "Wednesday: 7:30 AM – 10:30 PM",
+    "Thursday: 7:30 AM – 10:30 PM",
+    "Friday: 7:30 AM – 10:30 PM",
+    "Saturday: 7:30 AM – 10:30 PM",
+    "Sunday: 7:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/french-bakery-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:48:15.514Z"
+}

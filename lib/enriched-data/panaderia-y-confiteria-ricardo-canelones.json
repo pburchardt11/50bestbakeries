@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-confiteria-ricardo-canelones",
+  "name": "Panadería y Confitería Ricardo",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJJYGLxCQjoJURs9T5tlNQfkY",
+  "googleName": "Panadería y confitería Ricardo",
+  "formattedAddress": "Gral. José Artigas & 82, 15600 Empalme Olmos, Departamento de Canelones, Uruguay",
+  "phone": "2293 9299",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5079585750202832051",
+  "rating": 4.6,
+  "reviewCount": 158,
+  "coords": [
+    -34.68965439999999,
+    -55.89893069999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:30 PM",
+    "Tuesday: 7:00 AM – 9:30 PM",
+    "Wednesday: 7:00 AM – 9:30 PM",
+    "Thursday: 7:00 AM – 9:30 PM",
+    "Friday: 7:00 AM – 9:30 PM",
+    "Saturday: 7:00 AM – 9:30 PM",
+    "Sunday: 7:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-confiteria-ricardo-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:54:27.477Z"
+}

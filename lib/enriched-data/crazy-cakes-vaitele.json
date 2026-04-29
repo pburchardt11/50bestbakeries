@@ -1,0 +1,30 @@
+{
+  "slug": "crazy-cakes-vaitele",
+  "name": "Crazy Cakes",
+  "city": "Vaitele",
+  "country": "Samoa",
+  "placeId": "ChIJ_4yVhI0VpXER300vdZQuBSo",
+  "googleName": "Crazy Cakes",
+  "formattedAddress": "Apia, Samoa",
+  "phone": "77 00332",
+  "website": "https://www.facebook.com/CrazyCakesSamoa",
+  "googleMapsUrl": "https://maps.google.com/?cid=3027877539632598495",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -13.8477939,
+    -171.7790632
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:12:46.159Z"
+}

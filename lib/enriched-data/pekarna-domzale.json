@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-domzale",
+  "name": "Pekarna",
+  "city": "Domžale",
+  "country": "Slovenia",
+  "placeId": "ChIJ77Cp2281ZUcRGP-3WrmxMxE",
+  "googleName": "Pekarna Domžale",
+  "formattedAddress": "Slamnikarska cesta 1, 1230 Domžale, Slovenia",
+  "phone": "040 329 373",
+  "website": "https://domzalec.si/s-prihodom-happypeka-je-v-domzalah-zadisalo-po-srecnem-kruhu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1239529732106092312",
+  "rating": 4.6,
+  "reviewCount": 353,
+  "coords": [
+    46.1377621,
+    14.5970391
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-domzale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:24:57.092Z"
+}

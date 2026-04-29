@@ -1,0 +1,32 @@
+{
+  "slug": "honey-bee-cakes-lusaka",
+  "name": "Honey Bee Cakes",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJj-IWuLqJQBkRl3hzj8PkoCs",
+  "googleName": "Honey Bee Cakes",
+  "formattedAddress": "Kalundu, Lusaka, Zambia",
+  "phone": "097 5022929",
+  "website": "https://honeybee-cakes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3143764068481071255",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -15.3791559,
+    28.325739
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:30 PM",
+    "Tuesday: 8:00 AM – 5:30 PM",
+    "Wednesday: 8:00 AM – 5:30 PM",
+    "Thursday: 8:00 AM – 5:30 PM",
+    "Friday: 8:00 AM – 5:30 PM",
+    "Saturday: 8:00 AM – 2:30 PM",
+    "Sunday: 8:00 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/honey-bee-cakes-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:43.129Z"
+}

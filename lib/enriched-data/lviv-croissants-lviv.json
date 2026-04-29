@@ -1,0 +1,32 @@
+{
+  "slug": "lviv-croissants-lviv",
+  "name": "Lviv Croissants",
+  "city": "Lviv",
+  "country": "Ukraine",
+  "placeId": "ChIJKwDQB27dOkcRKxLn9djaGps",
+  "googleName": "Lviv Croissants",
+  "formattedAddress": "Svobody Ave, 9, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+  "phone": "097 585 9194",
+  "website": "https://lvivcroissants.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11176486050646659627",
+  "rating": 4.4,
+  "reviewCount": 4284,
+  "coords": [
+    49.84029959999999,
+    24.0277293
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lviv-croissants-lviv/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:11.389Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cake-fairy-zim-bulawayo",
+  "name": "Cake Fairy Zim",
+  "city": "Bulawayo",
+  "country": "Zimbabwe",
+  "placeId": "ChIJiXYtGhhVtR4RRFcqdlx0W0s",
+  "googleName": "Cake Fairy",
+  "formattedAddress": "127E Robert Mugabe Way, Bulawayo, Zimbabwe",
+  "phone": "077 321 8242",
+  "website": "http://www.cakefairy1.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5430061716193564484",
+  "rating": 4.1,
+  "reviewCount": 556,
+  "coords": [
+    -20.1633604,
+    28.585061
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-fairy-zim-bulawayo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:00:45.286Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mity-meat-haus-central-province",
+  "name": "Mity Meat Haus",
+  "city": "Central Province",
+  "country": "Papua New Guinea",
+  "placeId": "ChIJOYZuzs8wAmkRFkDmVx1zSNQ",
+  "googleName": "Mity Meat Haus",
+  "formattedAddress": "Cameron Rd, Port Moresby National Capital District, Papua New Guinea",
+  "phone": "207 8080",
+  "website": "https://fpr.com.pg/meat-haus/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15296602704229842966",
+  "rating": 4.3,
+  "reviewCount": 225,
+  "coords": [
+    -9.443282,
+    147.1826984
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:30 PM",
+    "Tuesday: 7:30 AM – 6:30 PM",
+    "Wednesday: 7:30 AM – 6:30 PM",
+    "Thursday: 7:30 AM – 6:30 PM",
+    "Friday: 7:30 AM – 6:30 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: 7:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/mity-meat-haus-central-province/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:30.917Z"
+}

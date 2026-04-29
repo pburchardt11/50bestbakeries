@@ -1,0 +1,32 @@
+{
+  "slug": "bb-bakery",
+  "name": "BB Bakery",
+  "city": "Астрахань",
+  "country": "Russia",
+  "placeId": "ChIJMXiz1AkFqUERjEdfxYl23HA",
+  "googleName": "BB Bakery",
+  "formattedAddress": "Ulitsa Botvina, 91а, Astrakhan, Astrakhanskaya oblast', Russia, 414052",
+  "phone": "8 (851) 299-83-33 ext. 1",
+  "website": "https://bbbakery.ru/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8132505361218226060",
+  "rating": 4.6,
+  "reviewCount": 100,
+  "coords": [
+    46.3645873,
+    48.0630387
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/bb-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:41.363Z"
+}

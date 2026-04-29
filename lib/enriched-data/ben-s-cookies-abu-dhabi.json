@@ -1,0 +1,32 @@
+{
+  "slug": "ben-s-cookies-abu-dhabi",
+  "name": "Ben's Cookies",
+  "city": "Abu Dhabi",
+  "country": "UAE",
+  "placeId": "ChIJAeuEeQ1lXj4RvQBOVHzPNeg",
+  "googleName": "Ben's Cookies‎",
+  "formattedAddress": "Kiosk #GK09, Ground Floor, Marina Mall - Al Kasir - Kasser Al Amwaj - Abu Dhabi - United Arab Emirates",
+  "phone": "02 586 8741",
+  "website": "https://www.benscookies.ae/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16732508123462238397",
+  "rating": 4.6,
+  "reviewCount": 55,
+  "coords": [
+    24.4755562,
+    54.32153779999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 12:00 AM",
+    "Saturday: 10:00 AM – 12:00 AM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ben-s-cookies-abu-dhabi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:47:38.981Z"
+}

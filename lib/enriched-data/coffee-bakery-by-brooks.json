@@ -1,0 +1,32 @@
+{
+  "slug": "coffee-bakery-by-brooks",
+  "name": "Coffee&Bakery by Brooks",
+  "city": "Дніпро",
+  "country": "Ukraine",
+  "placeId": "ChIJD11MI6Lj20ARwlez4f8g7mE",
+  "googleName": "BROOKS eats & drinks",
+  "formattedAddress": "Viacheslava Lypynskoho St, 4, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+  "phone": "063 535 3333",
+  "website": "https://varfamily.com.ua/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7056613949511522242",
+  "rating": 4.4,
+  "reviewCount": 929,
+  "coords": [
+    48.4643136,
+    35.0494589
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:30 PM",
+    "Tuesday: 8:00 AM – 10:30 PM",
+    "Wednesday: 8:00 AM – 10:30 PM",
+    "Thursday: 8:00 AM – 10:30 PM",
+    "Friday: 8:00 AM – 10:30 PM",
+    "Saturday: 8:00 AM – 10:30 PM",
+    "Sunday: 8:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/coffee-bakery-by-brooks/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:37.403Z"
+}

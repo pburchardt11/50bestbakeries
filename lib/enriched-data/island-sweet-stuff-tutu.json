@@ -1,0 +1,32 @@
+{
+  "slug": "island-sweet-stuff-tutu",
+  "name": "Island Sweet Stuff",
+  "city": "Tutu",
+  "country": "U.S. Virgin Islands",
+  "placeId": "ChIJoQwBjgkRBYwRlx0WyuQbsdw",
+  "googleName": "Island Sweet Stuff",
+  "formattedAddress": "St. Thomas, 2004 Bakery Square Ste. 5C, Charlotte Amalie, St Thomas 00802, USVI",
+  "phone": "(340) 201-6436",
+  "website": "https://www.islandsweetstuff.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15902522428678872471",
+  "rating": 4.8,
+  "reviewCount": 71,
+  "coords": [
+    18.3424754,
+    -64.9317168
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 10:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/island-sweet-stuff-tutu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:47:13.684Z"
+}

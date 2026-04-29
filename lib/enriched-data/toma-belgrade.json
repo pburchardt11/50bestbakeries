@@ -1,0 +1,32 @@
+{
+  "slug": "toma-belgrade",
+  "name": "Toma",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJKzeynahlWkcRkBt93CUL6kc",
+  "googleName": "Pekara MB Toma",
+  "formattedAddress": "Davidovićeva 5, Beograd 11080, Serbia",
+  "phone": "062 242791",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5181966578484059024",
+  "rating": 4.2,
+  "reviewCount": 53,
+  "coords": [
+    44.8426577,
+    20.4139602
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/toma-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:03.329Z"
+}

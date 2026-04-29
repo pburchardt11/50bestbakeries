@@ -1,0 +1,32 @@
+{
+  "slug": "gino-pasco-new-taipei-city",
+  "name": "Gino Pasco",
+  "city": "New Taipei City",
+  "country": "Taiwan",
+  "placeId": "ChIJhSers26pQjQRR05GiecQl3c",
+  "googleName": "GinoPasco",
+  "formattedAddress": "10491, Taiwan, Taipei City, Zhongshan District, Jingye 3rd Rd, 20號B1樓",
+  "phone": "02 2175 3019",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8617374998623309383",
+  "rating": 4.5,
+  "reviewCount": 541,
+  "coords": [
+    25.0833072,
+    121.5571648
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 10:00 PM",
+    "Tuesday: 11:00 AM – 10:00 PM",
+    "Wednesday: 11:00 AM – 10:00 PM",
+    "Thursday: 11:00 AM – 10:00 PM",
+    "Friday: 11:00 AM – 10:00 PM",
+    "Saturday: 11:00 AM – 10:00 PM",
+    "Sunday: 11:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gino-pasco-new-taipei-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:13.025Z"
+}

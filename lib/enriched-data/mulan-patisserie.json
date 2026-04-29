@@ -1,0 +1,32 @@
+{
+  "slug": "mulan-patisserie",
+  "name": "Mulan Patisserie",
+  "city": "גבעת יואב",
+  "country": "Syria",
+  "placeId": "ChIJgZZfg_4RHBUR_dSyYeHNFw8",
+  "googleName": "מולאן פטיסרי - Mulan Patisserie",
+  "formattedAddress": "באיי גאלי, גבעת יואב",
+  "phone": "052-242-6808",
+  "website": "https://mulanpatisserie.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1087564202923709693",
+  "rating": 4.7,
+  "reviewCount": 458,
+  "coords": [
+    32.7934094,
+    35.6770446
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 1:00 PM",
+    "Wednesday: 9:00 AM – 1:00 PM",
+    "Thursday: 9:00 AM – 1:00 PM",
+    "Friday: 9:00 AM – 1:00 PM",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: 9:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mulan-patisserie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:54.943Z"
+}

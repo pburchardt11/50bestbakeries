@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-pierrot-h-le-tampon",
+  "name": "Boulangerie Pierrot H",
+  "city": "Le Tampon",
+  "country": "Réunion",
+  "placeId": "ChIJT_q47nB1eCERA7lb_K3kah0",
+  "googleName": "Boulangerie Pierrot H",
+  "formattedAddress": "324 Chemin Emile Zola, Le Tampon 97430, Réunion",
+  "phone": "0692 70 03 38",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2119758010545584387",
+  "rating": 4.4,
+  "reviewCount": 20,
+  "coords": [
+    -21.2361856,
+    55.5043691
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Tuesday: 6:30 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Wednesday: 6:30 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Thursday: 6:30 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Friday: 6:30 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Saturday: 6:30 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Sunday: 6:30 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-pierrot-h-le-tampon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:12:14.075Z"
+}

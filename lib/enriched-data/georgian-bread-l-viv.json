@@ -1,0 +1,32 @@
+{
+  "slug": "georgian-bread-l-viv",
+  "name": "Georgian Bread",
+  "city": "L'viv",
+  "country": "Ukraine",
+  "placeId": "ChIJmaDEagDdOkcRyffyhSBrRBI",
+  "googleName": "Chachito",
+  "formattedAddress": "Kryva Lypa Passage, 8, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+  "phone": "098 047 4195",
+  "website": "https://expz.link/chachito",
+  "googleMapsUrl": "https://maps.google.com/?cid=1316294778529445833",
+  "rating": 4.9,
+  "reviewCount": 808,
+  "coords": [
+    49.84080400000001,
+    24.0256715
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 11:00 PM",
+    "Tuesday: 12:00 – 11:00 PM",
+    "Wednesday: 12:00 – 11:00 PM",
+    "Thursday: 12:00 – 11:00 PM",
+    "Friday: 12:00 – 11:00 PM",
+    "Saturday: 12:00 – 11:00 PM",
+    "Sunday: 12:00 – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/georgian-bread-l-viv/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:09.377Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "malodunajska-pekaren-bratislava",
+  "name": "Malodunajská pekáreň",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJwbIlxcSJbEcRNfWxRdOyDl0",
+  "googleName": "Malodunajská pekáreň",
+  "formattedAddress": "Estónska 1, 821 06 Bratislava, Slovakia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6705493515678381365",
+  "rating": 4.9,
+  "reviewCount": 45,
+  "coords": [
+    48.1419592,
+    17.1988559
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 4:30 PM",
+    "Tuesday: 6:30 AM – 4:30 PM",
+    "Wednesday: 6:30 AM – 5:30 PM",
+    "Thursday: 6:30 AM – 5:30 PM",
+    "Friday: 6:30 AM – 4:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/malodunajska-pekaren-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:19.512Z"
+}

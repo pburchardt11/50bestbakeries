@@ -1,0 +1,32 @@
+{
+  "slug": "kitamu-gourmet-basket-arusha",
+  "name": "Kitamu Gourmet Basket",
+  "city": "Arusha",
+  "country": "Tanzania",
+  "placeId": "ChIJhajchWMdNxgRwBcu97lSplE",
+  "googleName": "Kitamu Gourmet Basket Arusha",
+  "formattedAddress": "Njiro Complex, Arusha, Tanzania",
+  "phone": "0699 869 353",
+  "website": "http://kitamugourmetbasket.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5883480921875552192",
+  "rating": 4,
+  "reviewCount": 25,
+  "coords": [
+    -3.406668,
+    36.7056334
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kitamu-gourmet-basket-arusha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:27.171Z"
+}

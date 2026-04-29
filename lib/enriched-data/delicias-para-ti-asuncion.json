@@ -1,0 +1,32 @@
+{
+  "slug": "delicias-para-ti-asuncion",
+  "name": "Delicias Para Ti",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJ_9FWDJ0JXZQRMlEEWExI9FY",
+  "googleName": "Delicias Para Ti",
+  "formattedAddress": "Monseñor Hernando de Trejo y Sanabria 1118 Casi, Asunción 001006, Paraguay",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6265712474310594866",
+  "rating": 4,
+  "reviewCount": 12,
+  "coords": [
+    -25.2939538,
+    -57.6640548
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/delicias-para-ti-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:54:09.431Z"
+}

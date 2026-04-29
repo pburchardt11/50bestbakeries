@@ -1,0 +1,32 @@
+{
+  "slug": "empire-bakery-batticaloa",
+  "name": "Empire Bakery",
+  "city": "Batticaloa",
+  "country": "Sri Lanka",
+  "placeId": "ChIJ-4TEU1nN-joRz1EiEPZU4wU",
+  "googleName": "New Empire Bakery",
+  "formattedAddress": "319 Trincomalee Hwy, Batticaloa 30000, Sri Lanka",
+  "phone": "0652 223 105",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=424276205712331215",
+  "rating": 4.1,
+  "reviewCount": 221,
+  "coords": [
+    7.720339099999999,
+    81.6962235
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/empire-bakery-batticaloa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:16.991Z"
+}

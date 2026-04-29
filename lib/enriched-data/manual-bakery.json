@@ -1,0 +1,32 @@
+{
+  "slug": "manual-bakery",
+  "name": "Manual Bakery",
+  "city": "السيب",
+  "country": "Oman",
+  "placeId": "ChIJ08uKgvXljT4R27gRBPdQpVA",
+  "googleName": "Manual Bakery",
+  "formattedAddress": "M5JJ+HHX، شارع البنؤد، Sib, Oman",
+  "phone": "7923 7246",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5811139916046907611",
+  "rating": 4.1,
+  "reviewCount": 15,
+  "coords": [
+    23.6814752,
+    58.18149
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/manual-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:46:15.218Z"
+}

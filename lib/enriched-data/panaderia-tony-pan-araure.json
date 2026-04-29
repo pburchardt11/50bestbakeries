@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-tony-pan-araure",
+  "name": "Panaderia Tony Pan",
+  "city": "Araure",
+  "country": "Venezuela",
+  "placeId": "ChIJGdupTZvBfY4R9Te5pCaKttw",
+  "googleName": "Tony Pan Bakery",
+  "formattedAddress": "esquina calle 29 Av. Romulo Gallegos, Acarigua 3301, Portuguesa, Venezuela",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15904051032682477557",
+  "rating": 4.4,
+  "reviewCount": 177,
+  "coords": [
+    9.568436199999999,
+    -69.2045009
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-tony-pan-araure/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:57:07.079Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pretop-bakery-belgrade",
+  "name": "Pretop Bakery",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJU9LmiBhlWkcRtnBmQ0TAD-Y",
+  "googleName": "Pretop Bakery",
+  "formattedAddress": "Cara Dušana 117, Beograd, Serbia",
+  "phone": "060 5520038",
+  "website": "https://www.instagram.com/pretop_bakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=16577680152795181238",
+  "rating": 4.6,
+  "reviewCount": 106,
+  "coords": [
+    44.8526171,
+    20.3930162
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 3:00 PM",
+    "Wednesday: 7:00 AM – 3:00 PM",
+    "Thursday: 7:00 AM – 3:00 PM",
+    "Friday: 7:00 AM – 3:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pretop-bakery-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:15.729Z"
+}

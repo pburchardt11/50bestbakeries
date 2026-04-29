@@ -1,0 +1,32 @@
+{
+  "slug": "drova-muka",
+  "name": "Drova Muka",
+  "city": "Ізмаїльський район",
+  "country": "Ukraine",
+  "placeId": "ChIJJVx6w6llt0ARrBOymrE0deA",
+  "googleName": "ДроваМука: піца, кава, десерти, крафтова пекарня, кав'ярня",
+  "formattedAddress": "Suvorov Ave, 59а, Izmail, Odes'ka oblast, Ukraine, 68601",
+  "phone": "067 389 9889",
+  "website": "https://drovamuka.com/?utm_source=google%20maps&utm_medium=referral",
+  "googleMapsUrl": "https://maps.google.com/?cid=16173891574180221868",
+  "rating": 4.4,
+  "reviewCount": 149,
+  "coords": [
+    45.3485362,
+    28.8350721
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/drova-muka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:43.834Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pro-ema-bakery-dili",
+  "name": "Pro-Ema Bakery",
+  "city": "Dili",
+  "country": "Timor-Leste",
+  "placeId": "ChIJE45IFsTnAS0R2u0BrBMWB3E",
+  "googleName": "Pro-Ema Restaurant School",
+  "formattedAddress": "Bidau Lecidere, Restaurante Escola, Díli, Timor-Leste",
+  "phone": "7862 8966",
+  "website": "https://web.facebook.com/proema.restaurantescola/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8144502724868828634",
+  "rating": 4.8,
+  "reviewCount": 133,
+  "coords": [
+    -8.552400800000001,
+    125.5843312
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 11:30 AM – 2:30 PM, 6:00 – 10:00 PM",
+    "Wednesday: 11:30 AM – 2:30 PM, 6:00 – 10:00 PM",
+    "Thursday: 11:30 AM – 2:30 PM, 6:00 – 10:00 PM",
+    "Friday: 11:30 AM – 2:30 PM, 6:00 – 10:00 PM",
+    "Saturday: 11:30 AM – 2:30 PM, 6:00 – 10:00 PM",
+    "Sunday: 6:00 – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pro-ema-bakery-dili/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:42:01.114Z"
+}

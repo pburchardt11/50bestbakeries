@@ -1,0 +1,32 @@
+{
+  "slug": "delices-du-fouladou-kolda",
+  "name": "Délices Du Fouladou",
+  "city": "Kolda",
+  "country": "Senegal",
+  "placeId": "ChIJMxiixlfj5Q4R-85DjRrRhPo",
+  "googleName": "Les Délices du Fouladou",
+  "formattedAddress": "V3Q6+J6M Rue Demba Koita, Kolda, Senegal",
+  "phone": "33 996 29 09",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18051783118377176827",
+  "rating": 4.7,
+  "reviewCount": 6,
+  "coords": [
+    12.8890933,
+    -14.9394633
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delices-du-fouladou-kolda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:16:31.695Z"
+}

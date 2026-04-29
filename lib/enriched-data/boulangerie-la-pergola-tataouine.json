@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-la-pergola-tataouine",
+  "name": "Boulangerie La Pergola",
+  "city": "Tataouine",
+  "country": "Tunisia",
+  "placeId": "ChIJKUAtUXi3VBIRE47_l_g0SKg",
+  "googleName": "Boulangerie la pergola",
+  "formattedAddress": "XF35+M2V, Tataouine, Tunisia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12126000239001701907",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    32.954228,
+    10.4575345
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-la-pergola-tataouine/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:45:27.650Z"
+}

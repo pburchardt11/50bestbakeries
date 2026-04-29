@@ -1,0 +1,32 @@
+{
+  "slug": "carl-and-sons-bakery-philipsburg",
+  "name": "Carl and Sons Bakery",
+  "city": "Philipsburg",
+  "country": "Sint Maarten",
+  "placeId": "ChIJC5vEvnpuDowRaw1qlE6R1iE",
+  "googleName": "Carl & Sons Bakery / Cafe",
+  "formattedAddress": "Walter A. Nisbeth Rd, Philipsburg, Sint Maarten",
+  "phone": "(721) 543-1059",
+  "website": "http://www.carlnsons.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2438296014951157099",
+  "rating": 4.1,
+  "reviewCount": 170,
+  "coords": [
+    18.0264068,
+    -63.05131489999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 1:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/carl-and-sons-bakery-philipsburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:21:20.183Z"
+}

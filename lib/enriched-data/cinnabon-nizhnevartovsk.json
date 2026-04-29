@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-nizhnevartovsk",
+  "name": "Cinnabon",
+  "city": "Nizhnevartovsk",
+  "country": "Russia",
+  "placeId": "ChIJhUpU2fc7bUMRNUGmPuyRFrM",
+  "googleName": "Cinnabon",
+  "formattedAddress": "ТК \"Европа-Сити\", Ulitsa Chapayeva, 27, Nizhnevartovsk, Khanty-Mansiyskiy avtonomnyy okrug, Russia, 628600",
+  "phone": "8 (346) 648-06-10",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12904662226126127413",
+  "rating": 3.6,
+  "reviewCount": 16,
+  "coords": [
+    60.939974,
+    76.597881
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Counter-serve chain serving cinnamon rolls plus other baked goods & specialty frozen beverages.",
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cinnabon-nizhnevartovsk/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:59.244Z"
+}

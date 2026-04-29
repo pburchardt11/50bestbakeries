@@ -1,0 +1,30 @@
+{
+  "slug": "klas-beograd",
+  "name": "Klas",
+  "city": "Beograd",
+  "country": "Serbia",
+  "placeId": "ChIJdW1DfnpwWkcRu7Q9uOGEDfs",
+  "googleName": "Klas",
+  "formattedAddress": "112 JUZNI BULEVAR, 11000, Belgrade (grad), Belgrade county, Beograd, Serbia",
+  "phone": "011 2041400",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18090261383210710203",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    44.7935872,
+    20.4815282
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:17:59.055Z"
+}

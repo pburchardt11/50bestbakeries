@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-jaune-dakar",
+  "name": "Boulangerie Jaune",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJL2-2N7BywQ4R9aBf9jhiPuY",
+  "googleName": "Boulangerie Jaune (Boulangerie,Pâtisserie,Restauration)",
+  "formattedAddress": "Dakar, Senegal",
+  "phone": "33 827 80 65",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16590806074070638837",
+  "rating": 3.7,
+  "reviewCount": 1492,
+  "coords": [
+    14.7189003,
+    -17.4664667
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:00 AM",
+    "Tuesday: 7:30 AM – 12:00 AM",
+    "Wednesday: 7:30 AM – 12:00 AM",
+    "Thursday: 7:30 AM – 12:00 AM",
+    "Friday: 7:30 AM – 12:00 AM",
+    "Saturday: 7:30 AM – 12:00 AM",
+    "Sunday: 7:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-jaune-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:56.037Z"
+}

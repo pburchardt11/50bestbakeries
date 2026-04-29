@@ -1,0 +1,32 @@
+{
+  "slug": "tashkinova-bakery",
+  "name": "Tashkinova bakery",
+  "city": "Владивосток",
+  "country": "Russia",
+  "placeId": "ChIJC90_7BuRs18RrL0-rXnrybA",
+  "googleName": "Tashkinova bakery",
+  "formattedAddress": "пр-т. 100-летия Владивостока 155 цех 2 вход 10, Vladivostok, Primorskiy kray, Russia, 690068",
+  "phone": "8 (902) 557-15-01",
+  "website": "https://tashkinovabakery.ru/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12738971928824298924",
+  "rating": 4.2,
+  "reviewCount": 5,
+  "coords": [
+    43.1790695,
+    131.918757
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/tashkinova-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:08.606Z"
+}

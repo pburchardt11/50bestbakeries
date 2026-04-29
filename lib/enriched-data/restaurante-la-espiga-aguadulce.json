@@ -1,0 +1,32 @@
+{
+  "slug": "restaurante-la-espiga-aguadulce",
+  "name": "Restaurante La Espiga",
+  "city": "Aguadulce",
+  "country": "Panama",
+  "placeId": "ChIJs6NQbirJrY8RyWg23fNhYAQ",
+  "googleName": "Restaurante La Espiga",
+  "formattedAddress": "Av. Rodolfo Chiari, Aguadulce, Provincia de Coclé, Panama",
+  "phone": "997-4333",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=315359673932212425",
+  "rating": 4.1,
+  "reviewCount": 489,
+  "coords": [
+    8.241468099999999,
+    -80.54018909999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/restaurante-la-espiga-aguadulce/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:51:18.597Z"
+}

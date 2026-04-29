@@ -1,0 +1,30 @@
+{
+  "slug": "vasils-bakery-kampala",
+  "name": "Vasils Bakery",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJj3y2EKO9fRcROU2zpEF9dcc",
+  "googleName": "Vasils Bakery (Nandos)",
+  "formattedAddress": "Kampala Road, Kampala, Uganda",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14372531506712366393",
+  "rating": 2,
+  "reviewCount": 1,
+  "coords": [
+    0.3133896,
+    32.5809203
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:50:24.847Z"
+}

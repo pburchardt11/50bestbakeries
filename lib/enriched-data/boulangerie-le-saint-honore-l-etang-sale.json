@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-le-saint-honore-l-etang-sale",
+  "name": "Boulangerie Le Saint Honoré",
+  "city": "L'Étang-Salé",
+  "country": "Réunion",
+  "placeId": "ChIJnbHCGV-igiERZvUr5mjGnJs",
+  "googleName": "Boulangerie Le Saint Honoré",
+  "formattedAddress": "157 Av. Raymond Barre, L'Étang-Salé 97427, Réunion",
+  "phone": "0262 88 53 29",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11213055326086231398",
+  "rating": 3.9,
+  "reviewCount": 210,
+  "coords": [
+    -21.261923,
+    55.360735
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: 5:30 AM – 5:30 PM",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: 5:30 AM – 7:00 PM",
+    "Saturday: 5:30 AM – 7:00 PM",
+    "Sunday: 5:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-le-saint-honore-l-etang-sale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:58.910Z"
+}

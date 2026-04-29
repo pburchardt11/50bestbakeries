@@ -1,0 +1,32 @@
+{
+  "slug": "frasetti-bakverk-arlov",
+  "name": "Frasetti Bakverk",
+  "city": "Arlöv",
+  "country": "Sweden",
+  "placeId": "ChIJOwEFF_-iU0YRr3jsodPRl7k",
+  "googleName": "Frasetti Bakverk AB",
+  "formattedAddress": "Hantverkaregatan 30, 232 34 Arlöv, Sweden",
+  "phone": "040-43 19 72",
+  "website": "http://www.frasetti.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13373388325384911023",
+  "rating": 4.4,
+  "reviewCount": 422,
+  "coords": [
+    55.6409884,
+    13.0819019
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 5:30 PM",
+    "Tuesday: 6:30 AM – 5:30 PM",
+    "Wednesday: 6:30 AM – 5:30 PM",
+    "Thursday: 6:30 AM – 5:30 PM",
+    "Friday: 6:30 AM – 5:30 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/frasetti-bakverk-arlov/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:29.983Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "hiro-takahashi-adliswil",
+  "name": "Hiro Takahashi",
+  "city": "Adliswil",
+  "country": "Switzerland",
+  "placeId": "ChIJN2DlIykIkEcRTLOMPaSMb6Y",
+  "googleName": "Bakery Hiro Takahashi",
+  "formattedAddress": "Im Sihlhof 10, 8134 Adliswil, Switzerland",
+  "phone": "044 709 22 44",
+  "website": "http://www.hirotakahashi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11992958969746076492",
+  "rating": 4.8,
+  "reviewCount": 239,
+  "coords": [
+    47.3216849,
+    8.5219278
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hiro-takahashi-adliswil/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:28.698Z"
+}

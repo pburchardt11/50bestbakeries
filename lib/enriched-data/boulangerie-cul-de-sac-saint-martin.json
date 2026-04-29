@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-cul-de-sac-saint-martin",
+  "name": "Boulangerie Cul de Sac",
+  "city": "Saint-Martin",
+  "country": "St. Martin",
+  "placeId": "ChIJxxsFQDhlDowRub9LQisJiRM",
+  "googleName": "French Bakery",
+  "formattedAddress": "Cul-de-Sac 97150, Cul-de-Sac 97150, St Martin",
+  "phone": "0690 77 21 88",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1407666439930494905",
+  "rating": 4.7,
+  "reviewCount": 86,
+  "coords": [
+    18.1019911,
+    -63.0296327
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-cul-de-sac-saint-martin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:31:25.432Z"
+}

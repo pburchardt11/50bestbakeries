@@ -1,0 +1,32 @@
+{
+  "slug": "b-markfood-supply-dar-es-salaam",
+  "name": "B Markfood Supply",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJYwqigu5PXBgRkPNWr3T9VIc",
+  "googleName": "Simba Food Products",
+  "formattedAddress": "Mikocheni, Dar es Salaam 14112, Tanzania",
+  "phone": "0677 222 606",
+  "website": "http://www.simbafoods.co.tz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9751697770763711376",
+  "rating": 4.9,
+  "reviewCount": 7,
+  "coords": [
+    -6.7660046,
+    39.2350712
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/b-markfood-supply-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:39:56.902Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "gokoku-japanese-bakery-singapore",
+  "name": "Gokoku Japanese Bakery",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJAQAALJMP2jER53xqQsaH7as",
+  "googleName": "Gokoku Japanese Bakery",
+  "formattedAddress": "1 Jurong West Central 2, #B1-79/82, Singapore 648886",
+  "phone": "6795 6714",
+  "website": "https://gokoku.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12388707435553651943",
+  "rating": 4.6,
+  "reviewCount": 457,
+  "coords": [
+    1.3393437,
+    103.7063114
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:30 PM",
+    "Tuesday: 10:00 AM – 9:30 PM",
+    "Wednesday: 10:00 AM – 9:30 PM",
+    "Thursday: 10:00 AM – 9:30 PM",
+    "Friday: 10:00 AM – 9:30 PM",
+    "Saturday: 10:00 AM – 9:30 PM",
+    "Sunday: 10:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gokoku-japanese-bakery-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:24.882Z"
+}

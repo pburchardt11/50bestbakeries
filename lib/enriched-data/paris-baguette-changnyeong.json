@@ -1,0 +1,32 @@
+{
+  "slug": "paris-baguette-changnyeong",
+  "name": "PARIS BAGUETTE",
+  "city": "Changnyeong",
+  "country": "South Korea",
+  "placeId": "ChIJK3h96-NPbzURa1ejKuwcY2Q",
+  "googleName": "파리바게뜨 경남창녕",
+  "formattedAddress": "91-2 Gyoha-ri, Changnyeong-eup, Changyeong, Gyeongsangnam-do, South Korea",
+  "phone": "055-533-8279",
+  "website": "https://www.paris.co.kr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7233657227140355947",
+  "rating": 3.9,
+  "reviewCount": 66,
+  "coords": [
+    35.5408622,
+    128.4995745
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Cafe & bakery chain serving French pastries, bread, cakes & sandwiches, plus tea & coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-changnyeong/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:28:10.610Z"
+}

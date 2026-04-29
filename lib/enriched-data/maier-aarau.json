@@ -1,0 +1,32 @@
+{
+  "slug": "maier-aarau",
+  "name": "Maier",
+  "city": "Aarau",
+  "country": "Switzerland",
+  "placeId": "ChIJLc54z-g7kEcRa5CUmEvQb7o",
+  "googleName": "Maier",
+  "formattedAddress": "Rain 12, 5000 Aarau, Switzerland",
+  "phone": "062 822 12 10",
+  "website": "http://www.beck-maier.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13434185236570476651",
+  "rating": 4.1,
+  "reviewCount": 551,
+  "coords": [
+    47.39118999999999,
+    8.044312999999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maier-aarau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:53.402Z"
+}

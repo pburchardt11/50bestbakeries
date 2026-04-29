@@ -1,0 +1,32 @@
+{
+  "slug": "batteel-bakery-abou-hamour",
+  "name": "Batteel Bakery Abou Hamour",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJAw_bpBbQRT4R73MopHU3M5o",
+  "googleName": "Batteel Bakery & Cafe - Abu Hamour",
+  "formattedAddress": "Doha, Qatar",
+  "phone": "7078 1380",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11111285684057961455",
+  "rating": 4.2,
+  "reviewCount": 200,
+  "coords": [
+    25.2380964,
+    51.4998427
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:30 PM",
+    "Tuesday: 7:00 AM – 11:30 PM",
+    "Wednesday: 7:00 AM – 11:30 PM",
+    "Thursday: 7:00 AM – 11:30 PM",
+    "Friday: 7:00 AM – 11:30 PM",
+    "Saturday: 7:00 AM – 11:30 PM",
+    "Sunday: 7:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/batteel-bakery-abou-hamour/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:59.265Z"
+}

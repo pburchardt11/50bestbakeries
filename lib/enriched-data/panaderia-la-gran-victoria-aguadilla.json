@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-gran-victoria-aguadilla",
+  "name": "Panadería La Gran Victoria",
+  "city": "Aguadilla",
+  "country": "Puerto Rico",
+  "placeId": "ChIJ-0qQI528AowRmjpFtr2EnbE",
+  "googleName": "La Gran Victoria Bakery",
+  "formattedAddress": "PR-111, Aguadilla, 00603, Puerto Rico",
+  "phone": "(787) 551-7060",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12798531666398493338",
+  "rating": 4.7,
+  "reviewCount": 159,
+  "coords": [
+    18.4082437,
+    -67.15488619999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:30 PM",
+    "Tuesday: 6:00 AM – 5:30 PM",
+    "Wednesday: 6:00 AM – 5:30 PM",
+    "Thursday: 6:00 AM – 5:30 PM",
+    "Friday: 6:00 AM – 5:30 PM",
+    "Saturday: 6:00 AM – 5:30 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-la-gran-victoria-aguadilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:03:56.016Z"
+}

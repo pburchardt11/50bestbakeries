@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-confiteria-germania-asuncion",
+  "name": "Panadería y Confitería Germania",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJpyv_bvSnXZQR202azePLYD4",
+  "googleName": "Panadería y Confitería Germania",
+  "formattedAddress": "15 De Agosto 642, Asunción 001012, Paraguay",
+  "phone": "0985 218107",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4494816607383211483",
+  "rating": 4.4,
+  "reviewCount": 52,
+  "coords": [
+    -25.2827546,
+    -57.6391905
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:30 PM",
+    "Tuesday: 6:30 AM – 7:30 PM",
+    "Wednesday: 6:30 AM – 7:30 PM",
+    "Thursday: 6:30 AM – 7:30 PM",
+    "Friday: 6:30 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-y-confiteria-germania-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:54:58.853Z"
+}

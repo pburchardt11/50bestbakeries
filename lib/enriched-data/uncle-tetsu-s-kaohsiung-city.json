@@ -1,0 +1,32 @@
+{
+  "slug": "uncle-tetsu-s-kaohsiung-city",
+  "name": "Uncle Tetsu's",
+  "city": "Kaohsiung City",
+  "country": "Taiwan",
+  "placeId": "ChIJNQ_ssggFbjQRsEkmoHbQq70",
+  "googleName": "Uncle Tetsu's Cheese Cake",
+  "formattedAddress": "B1, No. 777號, Bo-ai 2nd Rd, Zuoying District, Kaohsiung City, Taiwan 81355",
+  "phone": "07 586 9870",
+  "website": "https://www.facebook.com/tetsuojisantw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13667246702097484208",
+  "rating": 3.1,
+  "reviewCount": 117,
+  "coords": [
+    22.6700345,
+    120.3030467
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 10:00 PM",
+    "Tuesday: 11:00 AM – 10:00 PM",
+    "Wednesday: 11:00 AM – 10:00 PM",
+    "Thursday: 11:00 AM – 10:00 PM",
+    "Friday: 11:00 AM – 10:30 PM",
+    "Saturday: 11:00 AM – 10:30 PM",
+    "Sunday: 11:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/uncle-tetsu-s-kaohsiung-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:37:52.630Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "lorenzo-bakery-akasia",
+  "name": "Lorenzo Bakery",
+  "city": "Akasia",
+  "country": "South Africa",
+  "placeId": "ChIJ9ZeNrVfXvx4ROj8vIE95RdQ",
+  "googleName": "Lorenzo Bakery",
+  "formattedAddress": "1 Heinrich Ave, Karenpark, Akasia, 0118, South Africa",
+  "phone": "012 549 0805",
+  "website": "https://www.africanadvice.com/1332772/Bakery_Pastry_Shops/Pretoria/Lorenzo_Bakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15295765090183102266",
+  "rating": 4.5,
+  "reviewCount": 280,
+  "coords": [
+    -25.676881,
+    28.1091486
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lorenzo-bakery-akasia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:26:18.588Z"
+}

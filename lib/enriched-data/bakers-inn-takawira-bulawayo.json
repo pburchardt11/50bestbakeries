@@ -1,0 +1,32 @@
+{
+  "slug": "bakers-inn-takawira-bulawayo",
+  "name": "Bakers Inn Takawira",
+  "city": "Bulawayo",
+  "country": "Zimbabwe",
+  "placeId": "ChIJK1cWDPVTtR4Rgh-ln7uNlcM",
+  "googleName": "Bakers Inn Takawira",
+  "formattedAddress": "Cnr Fort Street &, Leopold Takawira Ave, Bulawayo, Zimbabwe",
+  "phone": "073 120 0026",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14093326445902634882",
+  "rating": 4,
+  "reviewCount": 11,
+  "coords": [
+    -20.1527162,
+    28.5813607
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-inn-takawira-bulawayo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:00:31.009Z"
+}

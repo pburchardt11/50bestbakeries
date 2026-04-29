@@ -1,0 +1,32 @@
+{
+  "slug": "fratelli-buletti-airolo",
+  "name": "Fratelli Buletti",
+  "city": "Airolo",
+  "country": "Switzerland",
+  "placeId": "ChIJLZuJMKV1hUcRAFr8wvIrCjg",
+  "googleName": "Fratelli Buletti",
+  "formattedAddress": "Via della Stazione 39, 6780 Airolo, Switzerland",
+  "phone": "091 869 12 73",
+  "website": "http://buletti.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4038088337544468992",
+  "rating": 4.7,
+  "reviewCount": 64,
+  "coords": [
+    46.5279051,
+    8.6094759
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:15 PM, 3:30 – 6:30 PM",
+    "Tuesday: 6:00 AM – 12:15 PM, 3:30 – 6:30 PM",
+    "Wednesday: 6:00 AM – 12:15 PM, 3:30 – 6:30 PM",
+    "Thursday: 6:00 AM – 12:15 PM, 3:30 – 6:30 PM",
+    "Friday: 6:00 AM – 12:15 PM, 3:30 – 6:30 PM",
+    "Saturday: 6:00 AM – 12:15 PM, 3:00 – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fratelli-buletti-airolo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:52.816Z"
+}

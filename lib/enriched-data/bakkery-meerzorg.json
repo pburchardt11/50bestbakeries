@@ -1,0 +1,24 @@
+{
+  "slug": "bakkery-meerzorg",
+  "name": "Bakkery",
+  "city": "Meerzorg",
+  "country": "Suriname",
+  "placeId": "ChIJizr7YxXLCY0RPnAgaBrG9UI",
+  "googleName": "Bakkery",
+  "formattedAddress": "Oost-West Verbinding 98, Meerzorg, Suriname",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4824980392515760190",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    5.8143384,
+    -55.1450976
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkery-meerzorg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:32:13.353Z"
+}

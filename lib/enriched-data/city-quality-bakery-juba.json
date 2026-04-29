@@ -1,0 +1,32 @@
+{
+  "slug": "city-quality-bakery-juba",
+  "name": "City Quality Bakery",
+  "city": "Juba",
+  "country": "South Sudan",
+  "placeId": "ChIJabmEqVyBEhcRrIUfI-Feo44",
+  "googleName": "City Quality Bakery - Juba",
+  "formattedAddress": "Suk Melisia, Opposite Jerusalem Pharmacy, Juba, South Sudan",
+  "phone": "0926 111 109",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10278163095639524780",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    4.8654457,
+    31.5764052
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:30 PM",
+    "Tuesday: 6:00 AM – 11:30 PM",
+    "Wednesday: 6:00 AM – 11:30 PM",
+    "Thursday: 6:00 AM – 11:30 PM",
+    "Friday: 6:00 AM – 11:30 PM",
+    "Saturday: 6:00 AM – 11:30 PM",
+    "Sunday: 6:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/city-quality-bakery-juba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:28:31.075Z"
+}

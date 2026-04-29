@@ -1,0 +1,32 @@
+{
+  "slug": "auntie-anne-s-ang-mo-kio",
+  "name": "Auntie Anne’s",
+  "city": "Ang Mo Kio",
+  "country": "Singapore",
+  "placeId": "ChIJ8WJVCd8X2jERvASe2-6JdhQ",
+  "googleName": "Auntie Anne's @ Ang Mo Kio",
+  "formattedAddress": "53 Ang Mo Kio Ave 3, #01-09/10, Singapore 569933",
+  "phone": null,
+  "website": "http://auntieannesg.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1474517586990204092",
+  "rating": 4.3,
+  "reviewCount": 102,
+  "coords": [
+    1.3696302,
+    103.8482042
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:00 PM",
+    "Tuesday: 11:00 AM – 9:00 PM",
+    "Wednesday: 11:00 AM – 9:00 PM",
+    "Thursday: 11:00 AM – 9:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/auntie-anne-s-ang-mo-kio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:24.511Z"
+}

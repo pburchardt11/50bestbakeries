@@ -1,0 +1,32 @@
+{
+  "slug": "brood-bakery-kololo-kampala",
+  "name": "Brood Bakery, Kololo",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJD3m3K4S7fRcRNqQO81rGSwg",
+  "googleName": "BBROOD Garden City",
+  "formattedAddress": "Kampala, Uganda",
+  "phone": "0200 924116",
+  "website": "http://www.healthyoption.ug/",
+  "googleMapsUrl": "https://maps.google.com/?cid=597789469483902006",
+  "rating": 4.2,
+  "reviewCount": 32,
+  "coords": [
+    0.3199246,
+    32.5907632
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brood-bakery-kololo-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:49:47.959Z"
+}

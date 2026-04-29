@@ -1,0 +1,32 @@
+{
+  "slug": "daisy-treats-zm-lusaka",
+  "name": "Daisy Treats Zm",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJZz2rgmmLQBkR3ue15yy2Cg4",
+  "googleName": "gelos treats",
+  "formattedAddress": "5587 Lufubu Rd, Lusaka, Zambia",
+  "phone": "097 7543774",
+  "website": "https://www.gelostreats.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1011821370280372190",
+  "rating": 4.3,
+  "reviewCount": 12,
+  "coords": [
+    -15.3866727,
+    28.3241939
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 9:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/daisy-treats-zm-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:59.404Z"
+}

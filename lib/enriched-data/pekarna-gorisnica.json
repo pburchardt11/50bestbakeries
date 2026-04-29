@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-gorisnica",
+  "name": "Pekarna Gorišnica",
+  "city": "Gorišnica",
+  "country": "Slovenia",
+  "placeId": "ChIJ-VPnQDRcb0cRmi9qYPN-8t0",
+  "googleName": "Pekarna Gorišnica",
+  "formattedAddress": "Gorišnica 35a, 2272 Gorišnica, Slovenia",
+  "phone": "040 378 879",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15992984810505777050",
+  "rating": 4.5,
+  "reviewCount": 45,
+  "coords": [
+    46.4132044,
+    16.0099683
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 9:00 PM",
+    "Tuesday: 5:00 AM – 9:00 PM",
+    "Wednesday: 5:00 AM – 9:00 PM",
+    "Thursday: 5:00 AM – 9:00 PM",
+    "Friday: 5:00 AM – 9:00 PM",
+    "Saturday: 5:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-gorisnica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:25:01.679Z"
+}

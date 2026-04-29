@@ -1,0 +1,32 @@
+{
+  "slug": "chef-asili-modern-bakery-dodoma",
+  "name": "Chef Asili Modern Bakery",
+  "city": "Dodoma",
+  "country": "Tanzania",
+  "placeId": "ChIJY_zZZ3_lTRgR25Nh7rpTHoc",
+  "googleName": "Chef Asili Coffee Shop",
+  "formattedAddress": "Kisasa Sheli, RQPQ+66C, Dodoma, Tanzania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9736311506749985755",
+  "rating": 4.2,
+  "reviewCount": 165,
+  "coords": [
+    -6.1644423,
+    35.7880232
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chef-asili-modern-bakery-dodoma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:40:28.524Z"
+}

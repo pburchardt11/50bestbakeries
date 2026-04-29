@@ -1,0 +1,32 @@
+{
+  "slug": "carl-and-sons-unique-bakery-nederland",
+  "name": "Carl and Sons Unique Bakery",
+  "city": "Nederland",
+  "country": "Sint Maarten",
+  "placeId": "ChIJBbFOmZduDowRUE4M9x-T3dA",
+  "googleName": "Carl & Sons Unique Bakery",
+  "formattedAddress": "20 Orange Grove Rd, Cole Bay, Sint Maarten",
+  "phone": "(721) 544-2462",
+  "website": "http://www.carlnsons.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15050347295240113744",
+  "rating": 4.1,
+  "reviewCount": 189,
+  "coords": [
+    18.0333368,
+    -63.0829181
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 5:00 PM",
+    "Sunday: 6:30 – 10:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/carl-and-sons-unique-bakery-nederland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:21:06.364Z"
+}

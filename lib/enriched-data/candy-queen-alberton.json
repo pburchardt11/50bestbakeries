@@ -1,0 +1,30 @@
+{
+  "slug": "candy-queen-alberton",
+  "name": "Candy Queen",
+  "city": "Alberton",
+  "country": "South Africa",
+  "placeId": "ChIJFexbqCQblR4RPs9wM-6DmeU",
+  "googleName": "ROCK CANDY",
+  "formattedAddress": "4 Borax St, Alrode, Johannesburg, 1614, South Africa",
+  "phone": "011 908 1928",
+  "website": "http://www.kingsofrock.co.za",
+  "googleMapsUrl": "https://maps.google.com/?cid=16544399765210713918",
+  "rating": 4.1,
+  "reviewCount": 13,
+  "coords": [
+    -26.3205396,
+    28.1297466
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:26:46.880Z"
+}

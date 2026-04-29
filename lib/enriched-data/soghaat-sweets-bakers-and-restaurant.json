@@ -1,0 +1,32 @@
+{
+  "slug": "soghaat-sweets-bakers-and-restaurant",
+  "name": "Soghaat Sweets Bakers and Restaurant",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJo8yKuLbaRT4R-H4-GMNbuSs",
+  "googleName": "Soghaat Sweets Bakers & Restaurant",
+  "formattedAddress": "Al Maha Centre, Salwa Rd, Doha, Qatar",
+  "phone": "4001 3448",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3150650307805871864",
+  "rating": 4.2,
+  "reviewCount": 1547,
+  "coords": [
+    25.2723697,
+    51.5084793
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/soghaat-sweets-bakers-and-restaurant/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:26.160Z"
+}

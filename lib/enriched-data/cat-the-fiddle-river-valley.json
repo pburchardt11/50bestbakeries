@@ -1,0 +1,32 @@
+{
+  "slug": "cat-the-fiddle-river-valley",
+  "name": "Cat & The Fiddle",
+  "city": "River Valley",
+  "country": "Singapore",
+  "placeId": "ChIJiQOEYtoZ2jERpKnVCxxkwZU",
+  "googleName": "Here Kitty Kitty",
+  "formattedAddress": "3E River Valley Rd, #02-01 E, Clarke Quay, Singapore 179024",
+  "phone": "9489 8357",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10791016253776832932",
+  "rating": 4.4,
+  "reviewCount": 182,
+  "coords": [
+    1.290195,
+    103.846359
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 5:00 – 11:00 PM",
+    "Wednesday: 5:00 PM – 3:00 AM",
+    "Thursday: 6:00 PM – 4:00 AM",
+    "Friday: 6:00 PM – 4:00 AM",
+    "Saturday: 6:00 PM – 4:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cat-the-fiddle-river-valley/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:00.686Z"
+}

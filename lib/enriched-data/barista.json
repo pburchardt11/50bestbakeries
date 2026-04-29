@@ -1,0 +1,32 @@
+{
+  "slug": "barista",
+  "name": "Barista",
+  "city": "Вінниця",
+  "country": "Ukraine",
+  "placeId": "ChIJHySLFH1bLUcRdvCqiJT33cA",
+  "googleName": "Barista",
+  "formattedAddress": "Khlibna St, 7, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13897536242455343222",
+  "rating": 4.5,
+  "reviewCount": 354,
+  "coords": [
+    49.2344842,
+    28.4608018
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/barista/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:23.150Z"
+}

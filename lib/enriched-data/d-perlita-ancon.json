@@ -1,0 +1,32 @@
+{
+  "slug": "d-perlita-ancon",
+  "name": "D'Perlita",
+  "city": "Ancon",
+  "country": "Peru",
+  "placeId": "ChIJxwZPsIl_BpERA_M1o_CfFBk",
+  "googleName": "De Perlita",
+  "formattedAddress": "Av. Jose Carlos Mariategui - Ex Marginal 9, Ancón 15123, Peru",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1807245206361600771",
+  "rating": 3.9,
+  "reviewCount": 56,
+  "coords": [
+    -11.776659,
+    -77.1635585
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/d-perlita-ancon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:56:16.998Z"
+}

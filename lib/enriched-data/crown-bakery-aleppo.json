@@ -1,0 +1,30 @@
+{
+  "slug": "crown-bakery-aleppo",
+  "name": "Crown Bakery",
+  "city": "Aleppo",
+  "country": "Syria",
+  "placeId": "ChIJP3pbkZz5LxURs4x-ejpa130",
+  "googleName": "Crown bakery",
+  "formattedAddress": "646M+JM5، دوار المحافظه، Aleppo, Syria",
+  "phone": "0998 674 674",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9067815581943499955",
+  "rating": 4,
+  "reviewCount": 1,
+  "coords": [
+    36.2115196,
+    37.1342343
+  ],
+  "openingHours": [
+    "Monday: 11:12 AM – 12:01 PM",
+    "Tuesday: 11:12 AM – 12:01 PM",
+    "Wednesday: 11:12 AM – 12:01 PM",
+    "Thursday: 11:12 AM – 12:01 PM",
+    "Friday: 11:12 AM – 12:01 PM",
+    "Saturday: 11:12 AM – 12:01 PM",
+    "Sunday: 11:12 AM – 12:01 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:36:17.576Z"
+}

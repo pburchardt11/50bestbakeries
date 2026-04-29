@@ -1,0 +1,32 @@
+{
+  "slug": "joe-s-bakery-al-khobar",
+  "name": "Joe’s Bakery",
+  "city": "Al Khobar",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJ_USadrXpST4R4Ku0_DDltjQ",
+  "googleName": "Joe's Bakery",
+  "formattedAddress": "2954 Musa Ibn Nussair St, Al Rakah Al Janubiyah, Al Khobar 34227, Saudi Arabia",
+  "phone": "055 998 1667",
+  "website": "https://instagram.com/joes.bakery.sa?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=3798475334294481888",
+  "rating": 4.3,
+  "reviewCount": 5419,
+  "coords": [
+    26.3437116,
+    50.2033132
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 11:30 PM",
+    "Tuesday: 6:30 AM – 11:30 PM",
+    "Wednesday: 6:30 AM – 11:30 PM",
+    "Thursday: 6:30 AM – 11:30 PM",
+    "Friday: 6:30 AM – 11:30 PM",
+    "Saturday: 6:30 AM – 11:30 PM",
+    "Sunday: 6:30 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/joe-s-bakery-al-khobar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:13:16.712Z"
+}

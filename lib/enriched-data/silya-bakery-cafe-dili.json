@@ -1,0 +1,32 @@
+{
+  "slug": "silya-bakery-cafe-dili",
+  "name": "Silya Bakery & Cafe",
+  "city": "Dili",
+  "country": "Timor-Leste",
+  "placeId": "ChIJX_LsM5TdAS0RGTXrssezjYU",
+  "googleName": "Silya Bakery & Cafe",
+  "formattedAddress": "Bebora Maloa, Díli, Timor-Leste",
+  "phone": "7490 0090",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9623545649042240793",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -8.5547518,
+    125.5644987
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/silya-bakery-cafe-dili/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:42:11.450Z"
+}

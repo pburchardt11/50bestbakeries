@@ -1,0 +1,32 @@
+{
+  "slug": "herfy-bakery-ar-riyad",
+  "name": "Herfy Bakery",
+  "city": "Ar Riyad",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJmfHPVwYQLz4R4F-BgoVWX6I",
+  "googleName": "Herfy | هرفي",
+  "formattedAddress": "6386 Al Souweidi Al Aam, As Suwaidi, Riyadh 12788, Saudi Arabia",
+  "phone": "9200 01111",
+  "website": "http://www.herfy.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11700165488351993824",
+  "rating": 3.9,
+  "reviewCount": 892,
+  "coords": [
+    24.58468,
+    46.66310300000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 3:00 AM",
+    "Tuesday: 9:00 AM – 3:00 AM",
+    "Wednesday: 9:00 AM – 3:00 AM",
+    "Thursday: 9:00 AM – 3:30 AM",
+    "Friday: 11:00 AM – 3:30 AM",
+    "Saturday: 9:00 AM – 3:00 AM",
+    "Sunday: 9:00 AM – 3:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/herfy-bakery-ar-riyad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:14:17.806Z"
+}

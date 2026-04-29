@@ -1,0 +1,32 @@
+{
+  "slug": "flaky-pastry-dubai",
+  "name": "Flaky Pastry",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJVzgHIe1DXz4RPMs02sBSpBo",
+  "googleName": "Flaky Pastry Croissant Co. City Walk",
+  "formattedAddress": "Al Wasl & Al Safa Road Junction, Al Mustaqbal Street, City Walk II - الوصل - دبي - United Arab Emirates",
+  "phone": "054 998 4434",
+  "website": "https://www.instagram.com/flakypastrydubai/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1919750329414765372",
+  "rating": 4.6,
+  "reviewCount": 1253,
+  "coords": [
+    25.2033588,
+    55.2626234
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:00 AM",
+    "Tuesday: 7:30 AM – 12:00 AM",
+    "Wednesday: 7:30 AM – 12:00 AM",
+    "Thursday: 7:30 AM – 12:00 AM",
+    "Friday: 7:30 AM – 12:00 AM",
+    "Saturday: 7:30 AM – 12:00 AM",
+    "Sunday: 7:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flaky-pastry-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:48:39.912Z"
+}

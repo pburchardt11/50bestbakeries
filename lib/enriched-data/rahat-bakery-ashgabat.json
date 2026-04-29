@@ -1,0 +1,32 @@
+{
+  "slug": "rahat-bakery-ashgabat",
+  "name": "Rahat Bakery",
+  "city": "Ashgabat",
+  "country": "Turkmenistan",
+  "placeId": "ChIJ9WKglHsBcD8RNe05WJx4OxY",
+  "googleName": "Rahat cafe & bakery",
+  "formattedAddress": "Mollanepes köçesi 15 tapgyr, Aşgabat, Turkmenistan",
+  "phone": "(8 12) 41-54-15",
+  "website": "https://apps.apple.com/ua/app/rahat/id1463273999",
+  "googleMapsUrl": "https://maps.google.com/?cid=1602006705350765877",
+  "rating": 4.3,
+  "reviewCount": 36,
+  "coords": [
+    37.8805747,
+    58.3889299
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:45 PM",
+    "Tuesday: 8:00 AM – 10:45 PM",
+    "Wednesday: 8:00 AM – 10:45 PM",
+    "Thursday: 8:00 AM – 10:45 PM",
+    "Friday: 8:00 AM – 10:45 PM",
+    "Saturday: 8:00 AM – 10:45 PM",
+    "Sunday: 8:00 AM – 10:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rahat-bakery-ashgabat/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:46:34.854Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mi-mundo-dulce-sr-canelones",
+  "name": "Mi mundo dulce SR",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJ14xir_nNoZURAdzYMmUBaAw",
+  "googleName": "Mi mundo dulce SR",
+  "formattedAddress": "18 de mayo Vista linda M116 S19, Blas de la Madera esquina, 15900 Las Piedras, Departamento de Canelones, Uruguay",
+  "phone": "092 183 542",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=893966060189441025",
+  "rating": 4.5,
+  "reviewCount": 10,
+  "coords": [
+    -34.690484,
+    -56.2222985
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:30 PM",
+    "Tuesday: 9:00 AM – 6:30 PM",
+    "Wednesday: 9:00 AM – 6:30 PM",
+    "Thursday: 9:00 AM – 6:30 PM",
+    "Friday: 9:00 AM – 6:30 PM",
+    "Saturday: 9:00 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mi-mundo-dulce-sr-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:54:20.352Z"
+}

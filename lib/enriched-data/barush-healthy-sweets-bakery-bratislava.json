@@ -1,0 +1,32 @@
+{
+  "slug": "barush-healthy-sweets-bakery-bratislava",
+  "name": "Barush - healthy sweets bakery",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJ859WK12JbEcRegTKHTQPMJM",
+  "googleName": "Kormuth Confectionery",
+  "formattedAddress": "8, Sedlárska 363, 811 01 Bratislava-Staré Mesto, Slovakia",
+  "phone": "02 544 325 37",
+  "website": "https://www.konditoreikormuth.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10605993838970012794",
+  "rating": 4.2,
+  "reviewCount": 1362,
+  "coords": [
+    48.14350839999999,
+    17.1073554
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/barush-healthy-sweets-bakery-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:35.149Z"
+}

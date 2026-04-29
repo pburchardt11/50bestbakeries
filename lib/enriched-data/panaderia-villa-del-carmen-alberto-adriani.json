@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-villa-del-carmen-alberto-adriani",
+  "name": "Panadería Villa del Carmen",
+  "city": "Alberto Adriani",
+  "country": "Venezuela",
+  "placeId": "ChIJOQeNcDgMZI4R2OToegg_nDk",
+  "googleName": "Panadería Villa Del Carmen",
+  "formattedAddress": "+58, El Vigía 5145, Mérida, Venezuela",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4151262262183126232",
+  "rating": 4.6,
+  "reviewCount": 59,
+  "coords": [
+    8.6157342,
+    -71.64404180000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-villa-del-carmen-alberto-adriani/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:56:44.881Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "milos-belgrade",
+  "name": "Miloš",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJB1549AxvWkcRUC3Nn-dSQsc",
+  "googleName": "Milos Bakery",
+  "formattedAddress": "Jurija Gagarina 221, Beograd, Serbia",
+  "phone": "064 5300777",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14358129716782509392",
+  "rating": 4.4,
+  "reviewCount": 432,
+  "coords": [
+    44.7983529,
+    20.3769133
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/milos-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:41.020Z"
+}

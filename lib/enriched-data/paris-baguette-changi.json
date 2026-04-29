@@ -1,0 +1,32 @@
+{
+  "slug": "paris-baguette-changi",
+  "name": "Paris Baguette",
+  "city": "Changi",
+  "country": "Singapore",
+  "placeId": "ChIJUbmAXcc82jERoLPYeo4kf5Q",
+  "googleName": "Paris Baguette Changi Airport Terminal 4 Arrival",
+  "formattedAddress": "10 Airport Blvd., #01-05, Singapore 819665",
+  "phone": "6214 4504",
+  "website": "http://www.parisbaguettesg.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10700311434020565920",
+  "rating": 4.5,
+  "reviewCount": 420,
+  "coords": [
+    1.3384416,
+    103.9836789
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-changi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:33.424Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "eric-kayser-dakar",
+  "name": "Eric Kayser",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJo38L8kpywQ4R_01uZqqXJr8",
+  "googleName": "Artisan Boulanger Eric Kayser",
+  "formattedAddress": "3 Boulevard de la République, Rue de la République, Dakar, Senegal",
+  "phone": "33 822 81 80",
+  "website": "http://www.maison-kayser.com/fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13773863268477980159",
+  "rating": 4.2,
+  "reviewCount": 1229,
+  "coords": [
+    14.6646201,
+    -17.4343039
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eric-kayser-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:16:20.699Z"
+}

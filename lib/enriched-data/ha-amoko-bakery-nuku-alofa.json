@@ -1,0 +1,32 @@
+{
+  "slug": "ha-amoko-bakery-nuku-alofa",
+  "name": "Ha'Amoko Bakery",
+  "city": "Nuku'alofa",
+  "country": "Tonga",
+  "placeId": "ChIJp_aCCY2j9HERobGaDBsm-Ck",
+  "googleName": "Cowley Bakery",
+  "formattedAddress": "VR65+J8M, Fasi-moe-afi Rd, Nuku'alofa, Tonga",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3024209047396725153",
+  "rating": 4.6,
+  "reviewCount": 38,
+  "coords": [
+    -21.1384067,
+    -175.1916963
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ha-amoko-bakery-nuku-alofa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:42:50.313Z"
+}

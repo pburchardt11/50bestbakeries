@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-kovac-brezovica",
+  "name": "Pekarna Kovač",
+  "city": "Brezovica",
+  "country": "Slovenia",
+  "placeId": "ChIJy7sEKx3TekcRBVoX-f7QHAk",
+  "googleName": "Pekarna Kovač",
+  "formattedAddress": "Tržaška c. 527, 1351 Brezovica pri Ljubljani, Slovenia",
+  "phone": "040 872 294",
+  "website": "http://www.pekarnakovac.si/",
+  "googleMapsUrl": "https://maps.google.com/?cid=656629439208577541",
+  "rating": 4.4,
+  "reviewCount": 49,
+  "coords": [
+    46.0238342,
+    14.4184251
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 3:00 PM",
+    "Tuesday: 5:30 AM – 3:00 PM",
+    "Wednesday: 5:30 AM – 3:00 PM",
+    "Thursday: 5:30 AM – 3:00 PM",
+    "Friday: 5:30 AM – 3:00 PM",
+    "Saturday: 6:30 – 11:30 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-kovac-brezovica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:24:09.375Z"
+}

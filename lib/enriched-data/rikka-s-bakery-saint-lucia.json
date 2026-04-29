@@ -1,0 +1,30 @@
+{
+  "slug": "rikka-s-bakery-saint-lucia",
+  "name": "Rikka's Bakery",
+  "city": "Saint Lucia",
+  "country": "St. Lucia",
+  "placeId": "ChIJs_pKQ-9nQIwROdPCkoabLhk",
+  "googleName": "Rikka’s Bakery",
+  "formattedAddress": "Hospital Rd, Castries, St Lucia",
+  "phone": "(758) 712-7776",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1814558702167053113",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    14.0082971,
+    -60.9970026
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM, 8:00 PM – 12:00 AM",
+    "Thursday: 12:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM, 9:00 PM – 12:00 AM",
+    "Saturday: 12:00 AM – 5:00 PM, 8:30 PM – 12:00 AM",
+    "Sunday: 12:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:31:09.827Z"
+}

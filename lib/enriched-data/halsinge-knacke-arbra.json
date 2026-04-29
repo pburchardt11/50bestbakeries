@@ -1,0 +1,30 @@
+{
+  "slug": "halsinge-knacke-arbra",
+  "name": "Hälsinge Knäcke",
+  "city": "Arbrå",
+  "country": "Sweden",
+  "placeId": "ChIJJ6bkRc3sZkYRcltNssACQFk",
+  "googleName": "Hälsinge Trailer AB",
+  "formattedAddress": "Rikesgatan 4, 821 60 Arbrå, Sweden",
+  "phone": "0278-401 10",
+  "website": "http://www.halsingetrailer.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6431143294533458802",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    61.4650804,
+    16.3766252
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:34:19.155Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-los-ratones-aguada",
+  "name": "Panadería Los Ratones",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJJX_5cAC7AowRN2Apmb5yzL4",
+  "googleName": "Panadería Los Ratones 🐭",
+  "formattedAddress": "9VC2+3F8, Aguada, 00602, Puerto Rico",
+  "phone": "(787) 252-5587",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13748489925394260023",
+  "rating": 4.6,
+  "reviewCount": 34,
+  "coords": [
+    18.3702016,
+    -67.1484358
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-los-ratones-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:03:51.958Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sugardaddybakes-dar-es-salaam",
+  "name": "Sugardaddybakes",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJS1vwfhBLXBgRA7oxcFPIjSs",
+  "googleName": "Sugardaddybakes",
+  "formattedAddress": "Livingstone, Mafia St, Dar es Salaam, Tanzania",
+  "phone": "0653 334 943",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3138384776037251587",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -6.8176516,
+    39.2770804
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sugardaddybakes-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:39:34.171Z"
+}

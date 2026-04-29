@@ -1,0 +1,32 @@
+{
+  "slug": "kolac-z-lasky-banska-bystrica",
+  "name": "Koláč z lásky",
+  "city": "Banská Bystrica",
+  "country": "Slovakia",
+  "placeId": "ChIJHxGrtb09FUcRLFFbjU6JyTU",
+  "googleName": "Koláč z lásky",
+  "formattedAddress": "Dolná 171/38, 974 01 Banská Bystrica, Slovakia",
+  "phone": "0940 756 780",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3875779924801048876",
+  "rating": 5,
+  "reviewCount": 54,
+  "coords": [
+    48.7333793,
+    19.1421869
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kolac-z-lasky-banska-bystrica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:21:50.295Z"
+}

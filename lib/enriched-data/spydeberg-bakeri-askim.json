@@ -1,0 +1,32 @@
+{
+  "slug": "spydeberg-bakeri-askim",
+  "name": "Spydeberg Bakeri",
+  "city": "Askim",
+  "country": "Norway",
+  "placeId": "ChIJcxHJt2TjQ0YRKoyMQUahtSo",
+  "googleName": "Spydeberg Bakeri & Konditori AS, avd. Askim",
+  "formattedAddress": "Henstad alle 3B, 1830 Askim, Norway",
+  "phone": "69 88 09 88",
+  "website": "http://www.spydebergbakeri.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3077543243497114666",
+  "rating": 4.4,
+  "reviewCount": 94,
+  "coords": [
+    59.58478770000001,
+    11.1670651
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/spydeberg-bakeri-askim/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:32.499Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "jamaican-bakery-charlestown",
+  "name": "Jamaican Bakery",
+  "city": "Charlestown",
+  "country": "St. Kitts & Nevis",
+  "placeId": "ChIJbze71_w9EowRsAzxe2bYG0s",
+  "googleName": "Jamaican Bakery",
+  "formattedAddress": "49QC+Q53, Charlestown, St Kitts & Nevis",
+  "phone": "(869) 663-3876",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5412157311893441712",
+  "rating": 4.7,
+  "reviewCount": 15,
+  "coords": [
+    17.1393852,
+    -62.62957040000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 6:30 PM",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jamaican-bakery-charlestown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:45.879Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "dragon-alba-iulia",
+  "name": "Dragon",
+  "city": "Alba Iulia",
+  "country": "Romania",
+  "placeId": "ChIJ4fZakWyoTkcRqxd_24O7dcI",
+  "googleName": "Dragon",
+  "formattedAddress": "Strada Arieșului, 510001 Alba Iulia, Romania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14012311990630815659",
+  "rating": 3.9,
+  "reviewCount": 67,
+  "coords": [
+    46.0835197,
+    23.5830706
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/dragon-alba-iulia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:19.100Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "chlieb-nas-trnava-bratislava",
+  "name": "Chlieb Náš Trnava",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJndKwzIagbEcRlg3syRb1Gig",
+  "googleName": "Chlieb Náš Trnava",
+  "formattedAddress": "Štefánikova 93/3, 917 01 Trnava, Slovakia",
+  "phone": null,
+  "website": "http://trnka.sk/chlieb-nas",
+  "googleMapsUrl": "https://maps.google.com/?cid=2889891589137370518",
+  "rating": 4.5,
+  "reviewCount": 56,
+  "coords": [
+    48.3783793,
+    17.5853636
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 – 11:30 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chlieb-nas-trnava-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:22:48.340Z"
+}

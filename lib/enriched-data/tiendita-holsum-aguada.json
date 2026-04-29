@@ -1,0 +1,32 @@
+{
+  "slug": "tiendita-holsum-aguada",
+  "name": "Tiendita Holsum",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJ3f6Z0yK7AowRULMlzY_vMZA",
+  "googleName": "Tiendita Holsum",
+  "formattedAddress": "9RFJ+GPX, Aguada, 00602, Puerto Rico",
+  "phone": null,
+  "website": "https://www.holsumpr.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10390349216221606736",
+  "rating": 4.7,
+  "reviewCount": 182,
+  "coords": [
+    18.3738633,
+    -67.1681517
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/tiendita-holsum-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:02:16.562Z"
+}

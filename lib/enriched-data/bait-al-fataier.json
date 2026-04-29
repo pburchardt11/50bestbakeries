@@ -1,0 +1,32 @@
+{
+  "slug": "bait-al-fataier",
+  "name": "Bait Al Fataier",
+  "city": "السيب",
+  "country": "Oman",
+  "placeId": "ChIJx61iBfjijT4RnHZ3LAOfe0A",
+  "googleName": "Fatayer Ala Al Tayer",
+  "formattedAddress": "، الخوض السادسة،، شارع أبوبكر الصديق، Sib, Oman",
+  "phone": "7156 0910",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4646482276542543516",
+  "rating": 3.9,
+  "reviewCount": 453,
+  "coords": [
+    23.5909611,
+    58.1443497
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 1:30 AM",
+    "Tuesday: 8:00 AM – 1:30 AM",
+    "Wednesday: 8:00 AM – 1:30 AM",
+    "Thursday: 8:00 AM – 1:30 AM",
+    "Friday: 4:00 PM – 1:30 AM",
+    "Saturday: 8:00 AM – 1:30 AM",
+    "Sunday: 8:00 AM – 1:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/bait-al-fataier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:46:26.373Z"
+}

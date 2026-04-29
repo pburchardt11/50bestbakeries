@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-colmado-yoyo-aguadilla",
+  "name": "Panadería y colmado yoyo",
+  "city": "Aguadilla",
+  "country": "Puerto Rico",
+  "placeId": "ChIJJVPKwFO8AowRGpeXWgBVvZo",
+  "googleName": "Panadería Yoyo",
+  "formattedAddress": "401-407 Cll 6, Aguadilla, 00603, Puerto Rico",
+  "phone": "(787) 882-2984",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11150161712447461146",
+  "rating": 4.6,
+  "reviewCount": 159,
+  "coords": [
+    18.4436095,
+    -67.1338992
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-y-colmado-yoyo-aguadilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:19.207Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-eileen-aguada",
+  "name": "Panaderia Eileen, Aguada",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJj5A6suSkAowREiiP0aDvqrk",
+  "googleName": "Eileen's Bakery",
+  "formattedAddress": "9QGG+H2Q, PR-115, Aguada, 00602, Puerto Rico",
+  "phone": "(787) 868-4525",
+  "website": "https://www.facebook.com/panaderiaeileen/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13378769117047105554",
+  "rating": 4.6,
+  "reviewCount": 432,
+  "coords": [
+    18.3764587,
+    -67.2248776
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 9:00 PM",
+    "Tuesday: 5:30 AM – 9:00 PM",
+    "Wednesday: 5:30 AM – 9:00 PM",
+    "Thursday: 5:30 AM – 9:00 PM",
+    "Friday: 5:30 AM – 9:00 PM",
+    "Saturday: 5:30 AM – 9:00 PM",
+    "Sunday: 5:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-eileen-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:01:52.169Z"
+}

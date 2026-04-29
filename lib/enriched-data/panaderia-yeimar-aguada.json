@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-yeimar-aguada",
+  "name": "Panadería Yeimar",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJadK8XF67AowRFWsF_N1cPyg",
+  "googleName": "Panadería Yeimar",
+  "formattedAddress": "Carretera 442 Km. 1.0 Aguada, P.R., Aguada 00602, Puerto Rico",
+  "phone": "(787) 891-2187",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2900138793535630101",
+  "rating": 4.5,
+  "reviewCount": 268,
+  "coords": [
+    18.4045863,
+    -67.1635276
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-yeimar-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:02:57.608Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "nesa-aran-elovac",
+  "name": "Neša",
+  "city": "Aranđelovac",
+  "country": "Serbia",
+  "placeId": "ChIJ4a0e3D1NV0cR2bMlqy23hcM",
+  "googleName": "Neša",
+  "formattedAddress": "Knjaza Miloša 243, Aranđelovac, Serbia",
+  "phone": "060 6900248",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14088868416071250905",
+  "rating": 4.4,
+  "reviewCount": 346,
+  "coords": [
+    44.3059606,
+    20.5615622
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nesa-aran-elovac/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:16:49.698Z"
+}

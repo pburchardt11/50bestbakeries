@@ -1,0 +1,32 @@
+{
+  "slug": "bizcocheria-parada-23-canelones",
+  "name": "Bizcocheria Parada 23",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJO1NGAoIooJURgHPfPsQOk3U",
+  "googleName": "Bizcochería \"PARADA 23\"",
+  "formattedAddress": "15500 Barros Blancos, Canelones Department, Uruguay",
+  "phone": "091 799 692",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8472131560045245312",
+  "rating": 4.3,
+  "reviewCount": 81,
+  "coords": [
+    -34.7702755,
+    -56.02549519999999
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 4:00 PM",
+    "Tuesday: 5:30 AM – 4:00 PM",
+    "Wednesday: 5:30 AM – 4:00 PM",
+    "Thursday: 5:30 AM – 4:00 PM",
+    "Friday: 5:30 AM – 4:00 PM",
+    "Saturday: 5:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bizcocheria-parada-23-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:54:51.203Z"
+}

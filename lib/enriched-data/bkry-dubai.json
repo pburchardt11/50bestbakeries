@@ -1,0 +1,32 @@
+{
+  "slug": "bkry-dubai",
+  "name": "bkry",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJHzdLeL1DXz4R2FTqe2fS7bk",
+  "googleName": "bkry",
+  "formattedAddress": "Alserkal Avenue - Al Qouz Ind.first - Al Quoz - Dubai - United Arab Emirates",
+  "phone": "04 832 2433",
+  "website": "https://behindthecup.ae/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13397595808399512792",
+  "rating": 4.5,
+  "reviewCount": 5788,
+  "coords": [
+    25.1426522,
+    55.2245473
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bkry-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:49:01.640Z"
+}

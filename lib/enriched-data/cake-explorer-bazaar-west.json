@@ -1,0 +1,32 @@
+{
+  "slug": "cake-explorer-bazaar-west",
+  "name": "Cake Explorer",
+  "city": "Bazaar West",
+  "country": "Sri Lanka",
+  "placeId": "ChIJr0j2NRVa4joR4lo8ABaByFU",
+  "googleName": "Everybody Loves Cupcakes",
+  "formattedAddress": "411A Kotte Rd, Sri Jayawardenepura Kotte 10100, Sri Lanka",
+  "phone": "077 270 5397",
+  "website": "http://www.elc.lk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6181332420059224802",
+  "rating": 4.1,
+  "reviewCount": 74,
+  "coords": [
+    6.8828242,
+    79.9016698
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 6:15 PM",
+    "Tuesday: 9:30 AM – 6:15 PM",
+    "Wednesday: 9:30 AM – 6:15 PM",
+    "Thursday: 9:30 AM – 6:15 PM",
+    "Friday: 9:30 AM – 6:15 PM",
+    "Saturday: 9:30 AM – 6:15 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-explorer-bazaar-west/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:21.322Z"
+}

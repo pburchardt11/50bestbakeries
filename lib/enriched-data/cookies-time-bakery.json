@@ -1,0 +1,32 @@
+{
+  "slug": "cookies-time-bakery",
+  "name": "Cookies Time Bakery",
+  "city": "هرغيسا",
+  "country": "Somalia",
+  "placeId": "ChIJFU_d9hG_KBYR-zgA7SaVcyE",
+  "googleName": "Cookies Time Bakery",
+  "formattedAddress": "Wadada Madax-tooyada Road, H25X+J4R, Shacabka, Darasalam Square, Somaliland, Hargeysa, Somalia",
+  "phone": "63 8330006",
+  "website": "https://www.cookiestimebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2410434219990857979",
+  "rating": 4.6,
+  "reviewCount": 40,
+  "coords": [
+    9.5590362,
+    44.0477778
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 4:00 – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cookies-time-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:25:59.667Z"
+}

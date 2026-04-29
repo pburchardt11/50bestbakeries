@@ -1,0 +1,32 @@
+{
+  "slug": "quesos-chela-capira",
+  "name": "Quesos Chela",
+  "city": "Capira",
+  "country": "Panama",
+  "placeId": "ChIJH6C2v3qYrI8RxvEQRyDgf8I",
+  "googleName": "Quesos Chela",
+  "formattedAddress": "Quesos Chela, panamericana, Q43C+69R, Carretera Panamericana, Capira, Provincia de Panamá Oeste, Panama",
+  "phone": "6201-8507",
+  "website": "https://www.quesoschela.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14015166994636140998",
+  "rating": 4.5,
+  "reviewCount": 11589,
+  "coords": [
+    8.753083499999999,
+    -79.8790367
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/quesos-chela-capira/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:52:26.393Z"
+}

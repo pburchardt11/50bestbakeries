@@ -1,0 +1,32 @@
+{
+  "slug": "timnos-bakery-akasia",
+  "name": "TimNos Bakery",
+  "city": "Akasia",
+  "country": "South Africa",
+  "placeId": "ChIJhaucUR7Pvx4RPM8lqbuCW5A",
+  "googleName": "TimNos Bakery",
+  "formattedAddress": "Butchery Soshanguve, Soshanguve South, Pretoria, 0152, South Africa",
+  "phone": "063 717 3670",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10402051506850615100",
+  "rating": 4.1,
+  "reviewCount": 15,
+  "coords": [
+    -25.5820272,
+    28.0714855
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 5:00 PM",
+    "Tuesday: 6:00 AM – 5:00 PM",
+    "Wednesday: 6:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 5:00 PM",
+    "Friday: 6:00 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/timnos-bakery-akasia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:26:13.164Z"
+}

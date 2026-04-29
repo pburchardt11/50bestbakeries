@@ -1,0 +1,32 @@
+{
+  "slug": "the-cake-lovers-lusaka",
+  "name": "The Cake Lovers",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJCQw8G2SNQBkRdYvNAcSpCQo",
+  "googleName": "The Cake Lovers",
+  "formattedAddress": "Off, Plot 9 off Buluwe Rd, Lusaka, Zambia",
+  "phone": "097 8964813",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=723295874478607221",
+  "rating": 4.6,
+  "reviewCount": 27,
+  "coords": [
+    -15.4492014,
+    28.3506804
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: 9:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-lovers-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:00:11.363Z"
+}

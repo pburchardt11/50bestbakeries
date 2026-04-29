@@ -1,0 +1,32 @@
+{
+  "slug": "santos-bakery-n-v-nederland",
+  "name": "Santos Bakery N.V",
+  "city": "Nederland",
+  "country": "Sint Maarten",
+  "placeId": "ChIJY3dVF4pvDowRLjp0hol1v1w",
+  "googleName": "Santos Bakery N.V",
+  "formattedAddress": "Across Sak pasè barber shop, 40 Sint Peters Road, Sint Maarten",
+  "phone": "(721) 527-3731",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6683189605567838766",
+  "rating": 4.6,
+  "reviewCount": 39,
+  "coords": [
+    18.0519143,
+    -63.067373
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/santos-bakery-n-v-nederland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:21:15.555Z"
+}

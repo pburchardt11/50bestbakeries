@@ -1,0 +1,24 @@
+{
+  "slug": "poema-2-belgrade",
+  "name": "Poema 2",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJ25sGg616WkcRzRx6938QvPs",
+  "googleName": "Pekara Poema 2",
+  "formattedAddress": "Zeleni Venac 2, Beograd 11000, Serbia",
+  "phone": "011 3284231",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18139391540940381389",
+  "rating": 2.6,
+  "reviewCount": 5,
+  "coords": [
+    44.8142791,
+    20.4584325
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/poema-2-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:34.743Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "francois",
+  "name": "François",
+  "city": "Дніпро",
+  "country": "Ukraine",
+  "placeId": "ChIJRROMkq3j20AR0f621DiAhzo",
+  "googleName": "\"Французький простір\" - Centre Franco-Ukrainien de la Langue et de la Culture",
+  "formattedAddress": "19, avenue D. Yavornitskogo, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49006",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4217480557631045329",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    48.45477760000001,
+    35.0634672
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/francois/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:54.636Z"
+}

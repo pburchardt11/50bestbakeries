@@ -1,0 +1,32 @@
+{
+  "slug": "fresh-patisserie-aleppo",
+  "name": "Fresh Patisserie",
+  "city": "Aleppo",
+  "country": "Syria",
+  "placeId": "ChIJi55Tpwb5LxUR1AFfIebhC5A",
+  "googleName": "Fresh Patisserie",
+  "formattedAddress": "648J+HXQ، Unnamed Road، حلب، Syria",
+  "phone": "021 263 4034",
+  "website": "https://www.facebook.com/freshpatisserie0/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10379638144724042196",
+  "rating": 4.6,
+  "reviewCount": 34,
+  "coords": [
+    36.2164604,
+    37.1324939
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 1:00 – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fresh-patisserie-aleppo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:23.492Z"
+}

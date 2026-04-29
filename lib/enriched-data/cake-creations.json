@@ -1,0 +1,32 @@
+{
+  "slug": "cake-creations",
+  "name": "Cake Creations",
+  "city": "السيب",
+  "country": "Oman",
+  "placeId": "ChIJiy83czz9jT4RggZ-zjHs5-E",
+  "googleName": "Cake Creations",
+  "formattedAddress": "شارع الشباب، Sib, Oman",
+  "phone": "9440 2212",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16278239076815865474",
+  "rating": 4.2,
+  "reviewCount": 766,
+  "coords": [
+    23.6209001,
+    58.2122116
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cake-creations/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:46:28.508Z"
+}

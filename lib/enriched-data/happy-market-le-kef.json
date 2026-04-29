@@ -1,0 +1,32 @@
+{
+  "slug": "happy-market-le-kef",
+  "name": "Happy Market Le Kef",
+  "city": "Le Kef",
+  "country": "Tunisia",
+  "placeId": "ChIJy0jUP_mk-xIRZiL-S45Yk0o",
+  "googleName": "Happy Market",
+  "formattedAddress": "5P56+C9P, P5, El Kef, Tunisia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5373736148566680166",
+  "rating": 4.2,
+  "reviewCount": 34,
+  "coords": [
+    36.158588,
+    8.710941799999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/happy-market-le-kef/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:45:03.973Z"
+}

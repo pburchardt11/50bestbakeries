@@ -1,0 +1,32 @@
+{
+  "slug": "gust-ekstedts-bageri-cafe-alingsas",
+  "name": "Gust. Ekstedts Bageri & Café",
+  "city": "Alingsås",
+  "country": "Sweden",
+  "placeId": "ChIJMfuuxIBSRUYRQe_Ayr72ny4",
+  "googleName": "Ekstedts Bageri & Café",
+  "formattedAddress": "Drottninggatan 26, 441 30 Alingsås, Sweden",
+  "phone": "0322-125 72",
+  "website": "http://www.ekstedtsbageri.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3359675146347540289",
+  "rating": 4.4,
+  "reviewCount": 583,
+  "coords": [
+    57.9310774,
+    12.53503
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gust-ekstedts-bageri-cafe-alingsas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:33:44.068Z"
+}

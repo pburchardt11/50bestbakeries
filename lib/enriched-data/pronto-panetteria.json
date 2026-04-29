@@ -1,0 +1,32 @@
+{
+  "slug": "pronto-panetteria",
+  "name": "Pronto Panetteria",
+  "city": "Галицький район",
+  "country": "Ukraine",
+  "placeId": "ChIJ15VJdFTBMEcRqezHukZPi5E",
+  "googleName": "Пронто Піца ІФ | Доставка Суші Івано-Франківськ | PRONTO",
+  "formattedAddress": "Halyts'ka St, 112д, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76000",
+  "phone": "097 277 0757",
+  "website": "https://prontopizza.ua/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10487563322462301353",
+  "rating": 4.8,
+  "reviewCount": 1614,
+  "coords": [
+    48.9437163,
+    24.6980266
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pronto-panetteria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:27.399Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pastelaria-do-vale-albufeira",
+  "name": "Pastelaria do Vale",
+  "city": "Albufeira",
+  "country": "Portugal",
+  "placeId": "ChIJqek_0ny2Gg0RSLtHEXEcA4A",
+  "googleName": "Pastelaria Vale Doce",
+  "formattedAddress": "EM1295 402Z, 8100-333 Loulé, Portugal",
+  "phone": "964 548 556",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9224247733731703624",
+  "rating": 4.3,
+  "reviewCount": 140,
+  "coords": [
+    37.1167951,
+    -8.093497
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/pastelaria-do-vale-albufeira/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:58:40.318Z"
+}

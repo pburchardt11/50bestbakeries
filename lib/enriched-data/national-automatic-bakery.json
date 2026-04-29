@@ -1,0 +1,32 @@
+{
+  "slug": "national-automatic-bakery",
+  "name": "National Automatic Bakery",
+  "city": "صلالة",
+  "country": "Oman",
+  "placeId": "ChIJJ7ZuzOzf0z0RviUmmLDZkAo",
+  "googleName": "National Bakery",
+  "formattedAddress": "235X+JPH, Salalah, Oman",
+  "phone": "9261 4378",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=761347689515722174",
+  "rating": 4,
+  "reviewCount": 189,
+  "coords": [
+    17.0090582,
+    54.0993726
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:30 PM",
+    "Tuesday: 7:00 AM – 11:30 PM",
+    "Wednesday: 7:00 AM – 11:30 PM",
+    "Thursday: 7:00 AM – 11:30 PM",
+    "Friday: 7:00 AM – 11:30 PM",
+    "Saturday: 7:00 AM – 11:30 PM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/national-automatic-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:48:04.484Z"
+}

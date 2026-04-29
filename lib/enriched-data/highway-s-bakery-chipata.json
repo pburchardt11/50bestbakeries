@@ -1,0 +1,32 @@
+{
+  "slug": "highway-s-bakery-chipata",
+  "name": "Highway's Bakery",
+  "city": "Chipata",
+  "country": "Zambia",
+  "placeId": "ChIJRedSTvvrGBkRg_HULHiybvY",
+  "googleName": "Highway's Bakery",
+  "formattedAddress": "9J7Q+HCC, T4, Chipata, Zambia",
+  "phone": "097 4656101",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17757326609986417027",
+  "rating": 4.1,
+  "reviewCount": 259,
+  "coords": [
+    -13.6360722,
+    32.6385307
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/highway-s-bakery-chipata/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:58:36.074Z"
+}

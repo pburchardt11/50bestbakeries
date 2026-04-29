@@ -1,0 +1,32 @@
+{
+  "slug": "dan-ts-as-asker",
+  "name": "Dånøts AS",
+  "city": "Asker",
+  "country": "Norway",
+  "placeId": "ChIJUdjnVNoVQUYREh1FnCgBhhU",
+  "googleName": "Dånøts AS",
+  "formattedAddress": "Strøket 8, 1383 Asker, Norway",
+  "phone": "41 33 38 64",
+  "website": "http://www.danots.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1550928395607809298",
+  "rating": 4.7,
+  "reviewCount": 56,
+  "coords": [
+    59.83546059999999,
+    10.4328194
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 5:00 PM",
+    "Wednesday: 11:00 AM – 5:00 PM",
+    "Thursday: 11:00 AM – 5:00 PM",
+    "Friday: 11:00 AM – 5:00 PM",
+    "Saturday: 11:00 AM – 5:00 PM",
+    "Sunday: 12:00 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/dan-ts-as-asker/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:07.433Z"
+}

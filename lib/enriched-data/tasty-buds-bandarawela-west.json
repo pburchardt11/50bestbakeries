@@ -1,0 +1,32 @@
+{
+  "slug": "tasty-buds-bandarawela-west",
+  "name": "Tasty Buds",
+  "city": "Bandarawela West",
+  "country": "Sri Lanka",
+  "placeId": "ChIJExyMw_1v5DoRx1llf52LNQc",
+  "googleName": "Tasty Buds",
+  "formattedAddress": "RXHQ+XFM, Bandarawela, Sri Lanka",
+  "phone": "072 596 0096",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=519474840594635207",
+  "rating": 3.8,
+  "reviewCount": 9,
+  "coords": [
+    6.8299711,
+    80.9886806
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 12:00 AM",
+    "Tuesday: 5:00 AM – 12:00 AM",
+    "Wednesday: 5:00 AM – 12:00 AM",
+    "Thursday: 5:00 AM – 12:00 AM",
+    "Friday: 5:00 AM – 12:00 AM",
+    "Saturday: 5:00 AM – 12:00 AM",
+    "Sunday: 5:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tasty-buds-bandarawela-west/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:29:31.138Z"
+}

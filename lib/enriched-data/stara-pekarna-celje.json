@@ -1,0 +1,32 @@
+{
+  "slug": "stara-pekarna-celje",
+  "name": "Stara pekarna",
+  "city": "Celje",
+  "country": "Slovenia",
+  "placeId": "ChIJ-ywU2wJxZUcRQYEu9adtvME",
+  "googleName": "Stara Pekarna",
+  "formattedAddress": "Miklošičeva ulica 2, 3000 Celje, Slovenia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13960153513082126657",
+  "rating": 4.6,
+  "reviewCount": 8,
+  "coords": [
+    46.2314087,
+    15.2650918
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stara-pekarna-celje/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:24:31.508Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "m-cake-factory-battaramulla",
+  "name": "M Cake Factory",
+  "city": "Battaramulla",
+  "country": "Sri Lanka",
+  "placeId": "ChIJA9mmeDNR4joRy6RCyPDGXGE",
+  "googleName": "M Cake Factory",
+  "formattedAddress": "439 Battaramulla - Pannipitiya Rd, Ruhunupura 10116, Sri Lanka",
+  "phone": "076 651 7966",
+  "website": "https://mcake.lk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7015701056990651595",
+  "rating": 4.6,
+  "reviewCount": 131,
+  "coords": [
+    6.8689531,
+    79.9411765
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/m-cake-factory-battaramulla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:05.781Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cote-pain-l-etang-sale",
+  "name": "Côté Pain",
+  "city": "L'Étang-Salé",
+  "country": "Réunion",
+  "placeId": "ChIJoffi8t-igiEROhkcfNzw7f4",
+  "googleName": "Côté Pain",
+  "formattedAddress": "Rue d'Escaldes Engordany, L'Étang-Salé 97427, Réunion",
+  "phone": "0262 91 71 26",
+  "website": "http://www.cotepain.re/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18369603284879808826",
+  "rating": 4.5,
+  "reviewCount": 502,
+  "coords": [
+    -21.2723808,
+    55.3352143
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cote-pain-l-etang-sale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:11:11.470Z"
+}

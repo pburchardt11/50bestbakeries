@@ -1,0 +1,32 @@
+{
+  "slug": "tortas-miski-wasi-abancay",
+  "name": "Tortas Miski Wasi",
+  "city": "Abancay",
+  "country": "Peru",
+  "placeId": "ChIJn_lEmQgDbZERsC2sic9V6lg",
+  "googleName": "Tortas Miski Wasi - Centro",
+  "formattedAddress": "Jr. Huancavelica N° 318, Abancay 03001, Peru",
+  "phone": "981 119 144",
+  "website": "https://miskiwasi-per.ola.click/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6407027769744305584",
+  "rating": 3.7,
+  "reviewCount": 3,
+  "coords": [
+    -13.6358425,
+    -72.8778356
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:30 PM",
+    "Tuesday: 8:00 AM – 9:30 PM",
+    "Wednesday: 8:00 AM – 9:30 PM",
+    "Thursday: 8:00 AM – 9:30 PM",
+    "Friday: 8:00 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: 8:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/tortas-miski-wasi-abancay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:55:38.360Z"
+}

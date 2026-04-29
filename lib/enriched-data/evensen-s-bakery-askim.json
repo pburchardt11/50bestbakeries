@@ -1,0 +1,32 @@
+{
+  "slug": "evensen-s-bakery-askim",
+  "name": "Evensen's Bakery",
+  "city": "Askim",
+  "country": "Norway",
+  "placeId": "ChIJVYgID2XjQ0YRFEj-rciy4Ug",
+  "googleName": "Evensen's Bakery",
+  "formattedAddress": "Guderudgata 7, 1830 Askim, Norway",
+  "phone": "69 88 22 61",
+  "website": "https://www.bakerias.com/NO/Askim/307819719245426/Evensens-Bakeri-Askim",
+  "googleMapsUrl": "https://maps.google.com/?cid=5251675215473035284",
+  "rating": 4.5,
+  "reviewCount": 95,
+  "coords": [
+    59.5827781,
+    11.1622814
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 2:00 PM",
+    "Tuesday: 9:00 AM – 2:00 PM",
+    "Wednesday: 9:00 AM – 2:00 PM",
+    "Thursday: 9:00 AM – 2:00 PM",
+    "Friday: 9:00 AM – 2:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/evensen-s-bakery-askim/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:30.547Z"
+}

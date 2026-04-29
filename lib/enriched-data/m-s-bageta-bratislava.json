@@ -1,0 +1,32 @@
+{
+  "slug": "m-s-bageta-bratislava",
+  "name": "M&S Bageta",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJM9Za17SObEcReGnNMvHYSHQ",
+  "googleName": "Bagetka na Račku",
+  "formattedAddress": "Račianske mýto, 831 04 Bratislava, Slovakia",
+  "phone": "0915 532 113",
+  "website": "https://www.bagetkanaracku.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8379185637173848440",
+  "rating": 4.8,
+  "reviewCount": 570,
+  "coords": [
+    48.1579499,
+    17.1196262
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:30 PM",
+    "Tuesday: 6:00 AM – 7:30 PM",
+    "Wednesday: 6:00 AM – 7:30 PM",
+    "Thursday: 6:00 AM – 7:30 PM",
+    "Friday: 6:00 AM – 7:30 PM",
+    "Saturday: 8:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/m-s-bageta-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:16.582Z"
+}

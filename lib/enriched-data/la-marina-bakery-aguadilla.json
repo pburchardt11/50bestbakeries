@@ -1,0 +1,32 @@
+{
+  "slug": "la-marina-bakery-aguadilla",
+  "name": "La Marina Bakery",
+  "city": "Aguadilla",
+  "country": "Puerto Rico",
+  "placeId": "ChIJCxXi4aW9AowRu_U4t0nBMZY",
+  "googleName": "La Marina Bakery",
+  "formattedAddress": "calle Sthal #71, Aguadilla, 00603, Puerto Rico",
+  "phone": "(787) 398-4255",
+  "website": "https://www.lamarinabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10822643901898749371",
+  "rating": 4.5,
+  "reviewCount": 76,
+  "coords": [
+    18.4336399,
+    -67.1548782
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:00 PM",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 6:00 AM – 3:00 PM",
+    "Sunday: 6:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/la-marina-bakery-aguadilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:00.478Z"
+}

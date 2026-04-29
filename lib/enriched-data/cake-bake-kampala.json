@@ -1,0 +1,32 @@
+{
+  "slug": "cake-bake-kampala",
+  "name": "Cake&bake",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJsxBxX4i7fRcRgffNtp4DUyo",
+  "googleName": "Bake 4 Me",
+  "formattedAddress": "Nakulabye, Kampala, Uganda",
+  "phone": "0772 501987",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3049785352866625409",
+  "rating": 4.3,
+  "reviewCount": 421,
+  "coords": [
+    0.3233676,
+    32.5563621
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-bake-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:50:21.229Z"
+}

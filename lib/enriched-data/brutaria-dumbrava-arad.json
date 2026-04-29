@@ -1,0 +1,32 @@
+{
+  "slug": "brutaria-dumbrava-arad",
+  "name": "Brutăria Dumbrava",
+  "city": "Arad",
+  "country": "Romania",
+  "placeId": "ChIJi4-62mmYRUcR3sptUdptTOY",
+  "googleName": "Brutăria \"Dumbrava\"",
+  "formattedAddress": "Strada Școalei 32, 300100 Arad, Romania",
+  "phone": "0257 275 200",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16594759511389883102",
+  "rating": 4.5,
+  "reviewCount": 57,
+  "coords": [
+    46.1919641,
+    21.3009517
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 PM, 6:00 – 8:00 PM",
+    "Tuesday: 6:00 AM – 2:00 PM, 6:00 – 8:00 PM",
+    "Wednesday: 6:00 AM – 2:00 PM, 6:00 – 8:00 PM",
+    "Thursday: 6:00 AM – 2:00 PM, 6:00 – 8:00 PM",
+    "Friday: 6:00 AM – 2:00 PM, 6:00 – 8:00 PM",
+    "Saturday: 6:00 – 10:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/brutaria-dumbrava-arad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:18.862Z"
+}

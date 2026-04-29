@@ -1,0 +1,32 @@
+{
+  "slug": "papparoti-dubai",
+  "name": "PappaRoti",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJJerZb_NDXz4Rx7uIJwriqCU",
+  "googleName": "PappaRoti باباروتي - Dubai Mall level 2",
+  "formattedAddress": "The Dubai Mall Level- 2 - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+  "phone": "04 325 3174",
+  "website": "http://papparoti.ae/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2713667308731546567",
+  "rating": 4.3,
+  "reviewCount": 1297,
+  "coords": [
+    25.1960653,
+    55.2799778
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 12:00 AM",
+    "Tuesday: 10:00 AM – 12:00 AM",
+    "Wednesday: 10:00 AM – 12:00 AM",
+    "Thursday: 10:00 AM – 1:00 AM",
+    "Friday: 10:00 AM – 1:00 AM",
+    "Saturday: 10:00 AM – 1:00 AM",
+    "Sunday: 10:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/papparoti-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:48:52.706Z"
+}

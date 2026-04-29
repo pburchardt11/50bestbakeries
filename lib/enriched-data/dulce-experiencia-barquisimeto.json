@@ -1,0 +1,32 @@
+{
+  "slug": "dulce-experiencia-barquisimeto",
+  "name": "Dulce Experiencia",
+  "city": "Barquisimeto",
+  "country": "Venezuela",
+  "placeId": "ChIJCbA2KnZnh44RfdLXJNgixaM",
+  "googleName": "Dulce Experiencia",
+  "formattedAddress": "3MMQ+V2Q, Calle 1, Barquisimeto 3001, Lara, Venezuela",
+  "phone": "0412-1555108",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11800876710320657021",
+  "rating": 4.8,
+  "reviewCount": 9,
+  "coords": [
+    10.0847126,
+    -69.312375
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dulce-experiencia-barquisimeto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:58:10.427Z"
+}

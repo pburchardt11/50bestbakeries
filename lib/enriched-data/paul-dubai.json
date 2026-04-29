@@ -1,0 +1,32 @@
+{
+  "slug": "paul-dubai",
+  "name": "Paul",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJb8oXfIJCXz4RlzPcGCHYzUM",
+  "googleName": "PAUL Bakery & Restaurant",
+  "formattedAddress": "G, Dubai Mall - Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+  "phone": "04 339 8036",
+  "website": "http://www.paularabia.com/?y_source=1_ODI2MTQ4ODQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://maps.google.com/?cid=4885798807429460887",
+  "rating": 4.6,
+  "reviewCount": 5424,
+  "coords": [
+    25.1958013,
+    55.2785608
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 1:00 AM",
+    "Saturday: 8:00 AM – 1:00 AM",
+    "Sunday: 8:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:48:13.178Z"
+}

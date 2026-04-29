@@ -1,0 +1,32 @@
+{
+  "slug": "rusk-artisanal-bakery",
+  "name": "Rusk Artisanal Bakery",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJVYJvYcjFRT4RPgLzQ-a9NZc",
+  "googleName": "Rusk Artisanal Bakery",
+  "formattedAddress": "Doha, Qatar",
+  "phone": "6667 7830",
+  "website": "https://instagram.com/rusk.qa?utm_medium=copy_link",
+  "googleMapsUrl": "https://maps.google.com/?cid=10895823670172910142",
+  "rating": 4.4,
+  "reviewCount": 2241,
+  "coords": [
+    25.2870227,
+    51.52459349999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:30 PM",
+    "Tuesday: 6:00 AM – 10:30 PM",
+    "Wednesday: 6:00 AM – 10:30 PM",
+    "Thursday: 6:00 AM – 11:30 PM",
+    "Friday: 6:00 AM – 11:30 PM",
+    "Saturday: 6:00 AM – 10:30 PM",
+    "Sunday: 6:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/rusk-artisanal-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:06.565Z"
+}

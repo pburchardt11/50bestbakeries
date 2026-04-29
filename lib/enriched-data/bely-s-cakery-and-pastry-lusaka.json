@@ -1,0 +1,32 @@
+{
+  "slug": "bely-s-cakery-and-pastry-lusaka",
+  "name": "Bely's Cakery and Pastry",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJn2ecpFD1QBkRyGnGUtt2wno",
+  "googleName": "Blair's Cakery",
+  "formattedAddress": "Corner of Dushambe and Church Road Near Evelyn Hone College Lusaka ZM, Lusaka 30029, Zambia",
+  "phone": "097 1000955",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8845763302467725768",
+  "rating": 4.6,
+  "reviewCount": 10,
+  "coords": [
+    -15.4154061,
+    28.2881366
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 2:00 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bely-s-cakery-and-pastry-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:00:01.886Z"
+}

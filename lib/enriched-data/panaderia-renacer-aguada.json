@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-renacer-aguada",
+  "name": "Panaderia Renacer",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJqfW6Oma7AowRi-ja4FiN6hk",
+  "googleName": "Panaderia (Bakery) Renacer",
+  "formattedAddress": "9RWQ+G7C, Aguada 00602, Puerto Rico",
+  "phone": "(787) 868-7500",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1867460408367573131",
+  "rating": 4.4,
+  "reviewCount": 376,
+  "coords": [
+    18.3963129,
+    -67.1618548
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-renacer-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:02:55.248Z"
+}

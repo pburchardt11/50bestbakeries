@@ -1,0 +1,32 @@
+{
+  "slug": "piekarnia-marczynski-andrychow",
+  "name": "Piekarnia Marczyński",
+  "city": "Andrychów",
+  "country": "Poland",
+  "placeId": "ChIJhyc9gDCFFkcRzjFmXiETCs4",
+  "googleName": "Piekarnia Marczyński",
+  "formattedAddress": "Krakowska 122, 34-120 Andrychów, Poland",
+  "phone": "33 875 26 64",
+  "website": "https://piekarniamarczynski.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14846700155618865614",
+  "rating": 4.4,
+  "reviewCount": 44,
+  "coords": [
+    49.85493020000001,
+    19.3399809
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 5:00 PM",
+    "Tuesday: 5:30 AM – 5:00 PM",
+    "Wednesday: 5:30 AM – 5:00 PM",
+    "Thursday: 5:30 AM – 5:00 PM",
+    "Friday: 5:30 AM – 5:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/piekarnia-marczynski-andrychow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:57:20.034Z"
+}

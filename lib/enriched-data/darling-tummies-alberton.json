@@ -1,0 +1,32 @@
+{
+  "slug": "darling-tummies-alberton",
+  "name": "Darling Tummies",
+  "city": "Alberton",
+  "country": "South Africa",
+  "placeId": "ChIJhwdfGXQblR4RtQn05GlH4-8",
+  "googleName": "Darling Tummies",
+  "formattedAddress": "18 Poplar St, Mayberry, Alberton, 1448, South Africa",
+  "phone": "073 931 8911",
+  "website": "http://www.darlingtummies.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17285738314916432309",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -26.3277916,
+    28.123132
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/darling-tummies-alberton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:26:57.688Z"
+}

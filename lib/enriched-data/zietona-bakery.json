@@ -1,0 +1,30 @@
+{
+  "slug": "zietona-bakery",
+  "name": "Zietona Bakery",
+  "city": "ناحية مركز السويداء",
+  "country": "Syria",
+  "placeId": "ChIJaURUZnx_GRURfg9HNBbdmj8",
+  "googleName": "Zietona Bakery",
+  "formattedAddress": "PHF9+J33 North pole position, Soueïda, Syria",
+  "phone": "016 310 159",
+  "website": "https://www.facebook.com/ZaitonaSweetsBakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4583218658238992254",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    32.7240116,
+    36.5676707
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:37:10.321Z"
+}

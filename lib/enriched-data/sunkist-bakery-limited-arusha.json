@@ -1,0 +1,32 @@
+{
+  "slug": "sunkist-bakery-limited-arusha",
+  "name": "Sunkist Bakery Limited",
+  "city": "Arusha",
+  "country": "Tanzania",
+  "placeId": "ChIJH76AM7cENxgRK2VwotG9N8c",
+  "googleName": "Sunkist Bakery Ltd",
+  "formattedAddress": "HPW7+X2Q, Arusha, Tanzania",
+  "phone": "0782 819 000",
+  "website": "http://www.sunkistgroup.com",
+  "googleMapsUrl": "https://maps.google.com/?cid=14355151045337834795",
+  "rating": 4.2,
+  "reviewCount": 100,
+  "coords": [
+    -3.4025371,
+    36.7126075
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sunkist-bakery-limited-arusha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:39.017Z"
+}

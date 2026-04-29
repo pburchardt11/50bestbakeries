@@ -1,0 +1,24 @@
+{
+  "slug": "home-bakery",
+  "name": "Home bakery",
+  "city": "مقديشو",
+  "country": "Somalia",
+  "placeId": "ChIJobMsWtNDWD0R4zjCCAJYKqo",
+  "googleName": "Home Bakery",
+  "formattedAddress": "28MR+MCC Via Marwaas, Muqdisho, Somalia",
+  "phone": "61 4787850",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12261709701229721827",
+  "rating": 4.5,
+  "reviewCount": 15,
+  "coords": [
+    2.0341896,
+    45.3410036
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/home-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:25:57.252Z"
+}

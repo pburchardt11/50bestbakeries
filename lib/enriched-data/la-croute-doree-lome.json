@@ -1,0 +1,32 @@
+{
+  "slug": "la-croute-doree-lome",
+  "name": "la croute dorée",
+  "city": "Lomé",
+  "country": "Togo",
+  "placeId": "ChIJFffeAe3hIxARoyzcakOsjgM",
+  "googleName": "La Croûte dorée",
+  "formattedAddress": "Lomé, Togo",
+  "phone": "22 21 61 52",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=256331634362297507",
+  "rating": 4,
+  "reviewCount": 613,
+  "coords": [
+    6.138731099999999,
+    1.2292993
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 7:00 PM",
+    "Sunday: 6:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-croute-doree-lome/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:42:31.118Z"
+}

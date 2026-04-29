@@ -1,0 +1,32 @@
+{
+  "slug": "mannee-s-bakery-gros-islet",
+  "name": "Mannee's Bakery",
+  "city": "Gros Islet",
+  "country": "St. Lucia",
+  "placeId": "ChIJWxkc2OJnQIwRsJkaPq7yZP4",
+  "googleName": "Mannee's Bakery Ltd. (Corinth Bakery)",
+  "formattedAddress": "22WM+4C5, Corinth, St Lucia",
+  "phone": "(758) 457-4241",
+  "website": "https://manneesbakerysaintlucia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18331043213484923312",
+  "rating": 3.6,
+  "reviewCount": 67,
+  "coords": [
+    14.0452653,
+    -60.966404
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mannee-s-bakery-gros-islet/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:31:04.532Z"
+}

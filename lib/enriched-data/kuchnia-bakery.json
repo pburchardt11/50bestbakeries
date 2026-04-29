@@ -1,0 +1,32 @@
+{
+  "slug": "kuchnia-bakery",
+  "name": "Kuchnia Bakery",
+  "city": "Івано-Франківськ",
+  "country": "Ukraine",
+  "placeId": "ChIJM7BjsWvBMEcROxufY3WAjBg",
+  "googleName": "Restoratsiya Kukhnya",
+  "formattedAddress": "Sichovykh Stril'tsiv St, 41, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76000",
+  "phone": "050 255 1100",
+  "website": "https://restauracjakuchnia.choiceqr.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1768929995320662843",
+  "rating": 4.5,
+  "reviewCount": 1243,
+  "coords": [
+    48.9189033,
+    24.7130853
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kuchnia-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:27.058Z"
+}

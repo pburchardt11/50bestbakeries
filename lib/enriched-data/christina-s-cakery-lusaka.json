@@ -1,0 +1,32 @@
+{
+  "slug": "christina-s-cakery-lusaka",
+  "name": "Christina's Cakery",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJo7xkcw3zQBkRzAaWlmJLoxY",
+  "googleName": "Christina’s Cakery",
+  "formattedAddress": "Lusaka, Zambia",
+  "phone": "096 6102411",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1631230376843544268",
+  "rating": 4.6,
+  "reviewCount": 278,
+  "coords": [
+    -15.4348257,
+    28.2917689
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/christina-s-cakery-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:00:17.971Z"
+}

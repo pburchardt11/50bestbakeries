@@ -1,0 +1,32 @@
+{
+  "slug": "dot-bakery-cafe-al-khobar",
+  "name": "DOT. Bakery & Café",
+  "city": "Al Khobar",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJn0GiG8rpST4R3SBR7llsvGw",
+  "googleName": "Dot Bakery & Cafe",
+  "formattedAddress": "Prince Turkey Street, Alkurnaish, Al Khobar 34414, Saudi Arabia",
+  "phone": "055 434 4997",
+  "website": "http://dotbakery.sa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7835256585224003805",
+  "rating": 4.6,
+  "reviewCount": 3698,
+  "coords": [
+    26.2820671,
+    50.2219407
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:45 PM",
+    "Tuesday: 6:00 AM – 11:45 PM",
+    "Wednesday: 6:00 AM – 11:45 PM",
+    "Thursday: 6:00 AM – 11:45 PM",
+    "Friday: 6:00 – 11:30 AM, 12:30 – 11:45 PM",
+    "Saturday: 6:00 AM – 11:45 PM",
+    "Sunday: 6:00 AM – 11:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dot-bakery-cafe-al-khobar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:13:41.928Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "lebovski-belgrade",
+  "name": "Lebovski",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJR7TlZbd6WkcRvtx6IeHEZtQ",
+  "googleName": "Lebovski pekara",
+  "formattedAddress": "Knez-Miletina 24, Beograd, Serbia",
+  "phone": "064 8850184",
+  "website": "https://www.lebovski.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15305136854873595070",
+  "rating": 4.5,
+  "reviewCount": 410,
+  "coords": [
+    44.818617,
+    20.4711736
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lebovski-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:11.406Z"
+}

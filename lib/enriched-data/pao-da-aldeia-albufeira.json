@@ -1,0 +1,32 @@
+{
+  "slug": "pao-da-aldeia-albufeira",
+  "name": "Pão da Aldeia",
+  "city": "Albufeira",
+  "country": "Portugal",
+  "placeId": "ChIJjwiNYhvMGg0R-hPqq0hfYG4",
+  "googleName": "Pão da Aldeia",
+  "formattedAddress": "R. de Dunfermline, 8200-278 Albufeira, Portugal",
+  "phone": "289 586 885",
+  "website": "http://www.paodaaldeia.pt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7953461707662824442",
+  "rating": 4.4,
+  "reviewCount": 1681,
+  "coords": [
+    37.09221,
+    -8.232892999999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/pao-da-aldeia-albufeira/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:58:34.551Z"
+}

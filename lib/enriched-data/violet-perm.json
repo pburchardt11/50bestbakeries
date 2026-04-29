@@ -1,0 +1,32 @@
+{
+  "slug": "violet-perm",
+  "name": "Violet",
+  "city": "Perm",
+  "country": "Russia",
+  "placeId": "ChIJXctoXynH6EMRZMyjCzG6Y5A",
+  "googleName": "Violet",
+  "formattedAddress": "Komsomol'skiy Prospekt, 24, Perm, Permskiy kray, Russia, 614045",
+  "phone": "8 (982) 477-91-19",
+  "website": "http://violetperm.ru/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10404364283967425636",
+  "rating": 4.8,
+  "reviewCount": 184,
+  "coords": [
+    58.0119766,
+    56.2386968
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/violet-perm/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:01.443Z"
+}

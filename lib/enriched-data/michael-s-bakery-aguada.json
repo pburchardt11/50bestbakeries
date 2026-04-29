@@ -1,0 +1,32 @@
+{
+  "slug": "michael-s-bakery-aguada",
+  "name": "Michael's Bakery",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJAyvWYxi7AowRDq95sftXjQE",
+  "googleName": "Michael's Bakery",
+  "formattedAddress": "PR-417 Km 2.7, Aguada, 00602, Puerto Rico",
+  "phone": "(787) 868-1990",
+  "website": "https://www.facebook.com/MichaelsBakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=111842304280080142",
+  "rating": 4.6,
+  "reviewCount": 312,
+  "coords": [
+    18.37125,
+    -67.1641669
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 9:30 PM",
+    "Tuesday: 5:30 AM – 9:30 PM",
+    "Wednesday: 5:30 AM – 9:30 PM",
+    "Thursday: 5:30 AM – 9:30 PM",
+    "Friday: 5:30 AM – 9:30 PM",
+    "Saturday: 5:30 AM – 9:30 PM",
+    "Sunday: 5:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/michael-s-bakery-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:02:47.763Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "swee-heng-bakery-singapore",
+  "name": "Swee Heng Bakery",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJudwp5E8T2jERomb7BQ0WMas",
+  "googleName": "Swee Heng Bakery Pte Ltd",
+  "formattedAddress": "16 Senoko Ave, Singapore 758306",
+  "phone": "6345 9898",
+  "website": "https://www.sweeheng.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12335665099535247010",
+  "rating": 4.1,
+  "reviewCount": 34,
+  "coords": [
+    1.4682294,
+    103.8099575
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/swee-heng-bakery-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:11.695Z"
+}

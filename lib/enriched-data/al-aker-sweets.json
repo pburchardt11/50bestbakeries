@@ -1,0 +1,32 @@
+{
+  "slug": "al-aker-sweets",
+  "name": "Al Aker Sweets",
+  "city": "أم صلال",
+  "country": "Qatar",
+  "placeId": "ChIJW-Qahq7gRT4RdiToO8Yshas",
+  "googleName": "Al Aker sweets Umm Salal Branch حلويات العكر فرع ام صلال",
+  "formattedAddress": "Umm Slal Mohammad, Doha, Qatar",
+  "phone": "4411 1178",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12359333982308410486",
+  "rating": 4.1,
+  "reviewCount": 378,
+  "coords": [
+    25.409331,
+    51.41958229999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/al-aker-sweets/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:05:30.111Z"
+}

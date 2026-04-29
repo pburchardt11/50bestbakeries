@@ -1,0 +1,32 @@
+{
+  "slug": "the-smart-cookies",
+  "name": "The Smart Cookies",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJgagEAxHDRT4REAPdu6PVSTc",
+  "googleName": "The Smart Cookies",
+  "formattedAddress": "Al Jazeera St, Doha, Qatar",
+  "phone": "5517 1472",
+  "website": "http://www.thesmartcookies.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3983950244594123536",
+  "rating": 5,
+  "reviewCount": 55,
+  "coords": [
+    25.2852088,
+    51.5078908
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:30 PM",
+    "Tuesday: 9:00 AM – 5:30 PM",
+    "Wednesday: 9:00 AM – 5:30 PM",
+    "Thursday: 9:00 AM – 5:30 PM",
+    "Friday: 9:00 AM – 5:30 PM",
+    "Saturday: 9:00 AM – 5:30 PM",
+    "Sunday: 9:00 AM – 5:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/the-smart-cookies/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:32.542Z"
+}

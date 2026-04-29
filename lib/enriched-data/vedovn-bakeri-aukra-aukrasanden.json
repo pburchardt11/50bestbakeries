@@ -1,0 +1,32 @@
+{
+  "slug": "vedovn-bakeri-aukra-aukrasanden",
+  "name": "Vedovn Bakeri Aukra",
+  "city": "Aukrasanden",
+  "country": "Norway",
+  "placeId": "ChIJTTOhixtPEUYRJ4_bnh0TW-k",
+  "googleName": "Bunnpris Aukra",
+  "formattedAddress": "Falkhyttrøra 10, 6480 Aukra, Norway",
+  "phone": "71 17 45 03",
+  "website": "https://www.bunnpris.no/butikker/bunnpris-aukra",
+  "googleMapsUrl": "https://maps.google.com/?cid=16815054651658047271",
+  "rating": 4,
+  "reviewCount": 97,
+  "coords": [
+    62.8053687,
+    6.889766000000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/vedovn-bakeri-aukra-aukrasanden/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:34.747Z"
+}

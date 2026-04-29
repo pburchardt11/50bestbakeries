@@ -1,0 +1,32 @@
+{
+  "slug": "tashkent-bakery-buxoro",
+  "name": "Tashkent Bakery",
+  "city": "Buxoro",
+  "country": "Uzbekistan",
+  "placeId": "ChIJq3b32q6LrjgRatUJ7SA5okU",
+  "googleName": "BAHOR BAKERY",
+  "formattedAddress": "Кв 31, Kushbegi St, 100022, Tashkent, Uzbekistan",
+  "phone": "97 443 03 26",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5017635748422735210",
+  "rating": 5,
+  "reviewCount": 10,
+  "coords": [
+    41.2678477,
+    69.2447616
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tashkent-bakery-buxoro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:55:01.313Z"
+}

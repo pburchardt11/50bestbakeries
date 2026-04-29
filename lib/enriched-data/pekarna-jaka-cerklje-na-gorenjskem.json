@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-jaka-cerklje-na-gorenjskem",
+  "name": "Pekarna Jaka",
+  "city": "Cerklje na Gorenjskem",
+  "country": "Slovenia",
+  "placeId": "ChIJ5WQQi8y1ekcRXWc8NQxy1rc",
+  "googleName": "Pekarna Jaka",
+  "formattedAddress": "Slovenska cesta 36, 4207 Cerklje na Gorenjskem, Slovenia",
+  "phone": "030 689 609",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13246900750715217757",
+  "rating": 4.5,
+  "reviewCount": 152,
+  "coords": [
+    46.2490727,
+    14.4863315
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-jaka-cerklje-na-gorenjskem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:24:40.751Z"
+}

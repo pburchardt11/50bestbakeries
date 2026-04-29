@@ -1,0 +1,32 @@
+{
+  "slug": "italian-bakery-supermarket-bethlehem",
+  "name": "Italian Bakery & Supermarket",
+  "city": "Bethlehem",
+  "country": "Palestine",
+  "placeId": "ChIJfcNl4xs_xIkRJcmB2nN5b0U",
+  "googleName": "Grazia's Italian Market",
+  "formattedAddress": "2112 Schoenersville Rd, Bethlehem, PA 18018, USA",
+  "phone": "(610) 419-0999",
+  "website": "http://www.graziasmarket.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5003351249526049061",
+  "rating": 4.7,
+  "reviewCount": 89,
+  "coords": [
+    40.6396881,
+    -75.39857549999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/italian-bakery-supermarket-bethlehem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:50:29.627Z"
+}

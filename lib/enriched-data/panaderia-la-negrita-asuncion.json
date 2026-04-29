@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-negrita-asuncion",
+  "name": "Panadería La Negrita",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJ3R872vWnXZQRE-kOOkkKVjc",
+  "googleName": "Panadería La Negrita SRL (Matriz)",
+  "formattedAddress": "Piribebuy esquina, Asunción 001012, Paraguay",
+  "phone": "(021) 492 874",
+  "website": "https://www.lanegrita.com.py/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3987385829706098963",
+  "rating": 4.4,
+  "reviewCount": 1984,
+  "coords": [
+    -25.284812,
+    -57.64197890000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-la-negrita-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:54:55.317Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-omar-aguadilla",
+  "name": "Panadería Omar",
+  "city": "Aguadilla",
+  "country": "Puerto Rico",
+  "placeId": "ChIJLbSHvQK9AowRKDlyZBUP72o",
+  "googleName": "Panadería Omar",
+  "formattedAddress": "Residencial La Montaña, Cll Jose Mamaros, Jayuya, Aguadilla 00664, Puerto Rico",
+  "phone": "(787) 891-4640",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7705394072008145192",
+  "rating": 4.5,
+  "reviewCount": 548,
+  "coords": [
+    18.4511557,
+    -67.15216339999999
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 10:00 PM",
+    "Tuesday: 5:30 AM – 10:00 PM",
+    "Wednesday: 5:30 AM – 10:00 PM",
+    "Thursday: 5:30 AM – 10:00 PM",
+    "Friday: 5:30 AM – 10:00 PM",
+    "Saturday: 5:30 AM – 10:00 PM",
+    "Sunday: 5:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-omar-aguadilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:11.657Z"
+}

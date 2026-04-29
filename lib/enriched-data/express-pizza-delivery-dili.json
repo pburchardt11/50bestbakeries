@@ -1,0 +1,22 @@
+{
+  "slug": "express-pizza-delivery-dili",
+  "name": "Express Pizza Delivery",
+  "city": "Dili",
+  "country": "Timor-Leste",
+  "placeId": "ChIJWZV8eZ_nAS0RLvuRjvIrnjs",
+  "googleName": "Express Pizza Delivery",
+  "formattedAddress": "CHVP+GVW, Dili, Timor-Leste",
+  "phone": "7701 2111",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4295919415332043566",
+  "rating": 2.5,
+  "reviewCount": 2,
+  "coords": [
+    -8.5561299,
+    125.5871932
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:42:06.746Z"
+}

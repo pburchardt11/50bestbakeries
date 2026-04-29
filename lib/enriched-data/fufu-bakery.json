@@ -1,0 +1,30 @@
+{
+  "slug": "fufu-bakery",
+  "name": "Fufu Bakery",
+  "city": "منطقة أ",
+  "country": "XW",
+  "placeId": "ChIJHR3QQ0PYAhURs1O9Cfxdeqo",
+  "googleName": "Fufu Bakery",
+  "formattedAddress": "طريق بيت جالا",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12284234270682993587",
+  "rating": 4.4,
+  "reviewCount": 5,
+  "coords": [
+    31.715,
+    35.188355
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 10:30 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:58:24.488Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-eric-aguadilla",
+  "name": "Panaderia Eric",
+  "city": "Aguadilla",
+  "country": "Puerto Rico",
+  "placeId": "ChIJnSGdbfy8AowRzBROLv7HC8Y",
+  "googleName": "Erick's Bakery",
+  "formattedAddress": "17 Av. Severiano Cuevas, Aguadilla, 00603, Puerto Rico",
+  "phone": "(787) 891-9315",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14270719738766038220",
+  "rating": 4.4,
+  "reviewCount": 597,
+  "coords": [
+    18.4451753,
+    -67.14941220000001
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 10:00 PM",
+    "Tuesday: 5:30 AM – 10:00 PM",
+    "Wednesday: 5:30 AM – 10:00 PM",
+    "Thursday: 5:30 AM – 10:00 PM",
+    "Friday: 5:30 AM – 10:00 PM",
+    "Saturday: 5:30 AM – 8:30 PM",
+    "Sunday: 5:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-eric-aguadilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:06.166Z"
+}

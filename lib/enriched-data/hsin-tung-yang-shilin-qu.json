@@ -1,0 +1,32 @@
+{
+  "slug": "hsin-tung-yang-shilin-qu",
+  "name": "Hsin Tung Yang",
+  "city": "Shilin Qu",
+  "country": "Taiwan",
+  "placeId": "ChIJR37Cm7yuQjQRo2Q5HQs8CZ4",
+  "googleName": "Hsin Tung Yang",
+  "formattedAddress": "111, Taiwan, Taipei City, Shilin District, Section 2, Zhongcheng Rd, 55號B1樓",
+  "phone": "02 2831 7520",
+  "website": "https://www.hty.com.tw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11387699151215617187",
+  "rating": 4.3,
+  "reviewCount": 4,
+  "coords": [
+    25.1118264,
+    121.5315215
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:30 PM",
+    "Tuesday: 11:00 AM – 9:30 PM",
+    "Wednesday: 11:00 AM – 9:30 PM",
+    "Thursday: 11:00 AM – 9:30 PM",
+    "Friday: 11:00 AM – 9:30 PM",
+    "Saturday: 11:00 AM – 9:30 PM",
+    "Sunday: 11:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hsin-tung-yang-shilin-qu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:15.498Z"
+}

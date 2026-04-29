@@ -1,0 +1,30 @@
+{
+  "slug": "bakers-bakery-central-province",
+  "name": "Bakers Bakery",
+  "city": "Central Province",
+  "country": "Papua New Guinea",
+  "placeId": "ChIJydnlmxMxAmkR2VPnkHGu4zE",
+  "googleName": "Bakers Bakery",
+  "formattedAddress": "Sec 1, hohola, Lot 14 Mango St, Port Moresby 121 National Capital District, Papua New Guinea",
+  "phone": "7111 2323",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3594908730357404633",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    -9.454177399999999,
+    147.1744697
+  ],
+  "openingHours": [
+    "Monday: 4:30 AM – 5:45 PM",
+    "Tuesday: 4:30 AM – 5:45 PM",
+    "Wednesday: 4:30 AM – 5:45 PM",
+    "Thursday: 4:30 AM – 5:45 PM",
+    "Friday: 4:30 AM – 5:45 PM",
+    "Saturday: 4:30 AM – 5:45 PM",
+    "Sunday: 4:30 AM – 5:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:53:27.553Z"
+}

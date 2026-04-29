@@ -1,0 +1,32 @@
+{
+  "slug": "new-empire-red-batticaloa",
+  "name": "New Empire Red",
+  "city": "Batticaloa",
+  "country": "Sri Lanka",
+  "placeId": "ChIJxd4KHwDT-joRpgI5syMWYS4",
+  "googleName": "New Empire Red",
+  "formattedAddress": "599 Trincomalee Hwy, Batticaloa, Sri Lanka",
+  "phone": "0652 224 247",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3341976741072143014",
+  "rating": 4.2,
+  "reviewCount": 18,
+  "coords": [
+    7.726601,
+    81.68725289999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:30 PM",
+    "Tuesday: 7:00 AM – 8:30 PM",
+    "Wednesday: 7:00 AM – 8:30 PM",
+    "Thursday: 7:00 AM – 8:30 PM",
+    "Friday: 7:00 AM – 8:30 PM",
+    "Saturday: 7:00 AM – 8:30 PM",
+    "Sunday: 7:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/new-empire-red-batticaloa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:18.611Z"
+}

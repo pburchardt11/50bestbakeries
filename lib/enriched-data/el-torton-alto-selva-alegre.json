@@ -1,0 +1,32 @@
+{
+  "slug": "el-torton-alto-selva-alegre",
+  "name": "El Torton",
+  "city": "Alto Selva Alegre",
+  "country": "Peru",
+  "placeId": "ChIJP1CVGpJLQpERVcmgnZN1K0Q",
+  "googleName": "El Torton - Arequipa",
+  "formattedAddress": "Alfonso Ugarte 208, Gráficos, Alto Selva Alegre, 04001, Peru",
+  "phone": "977 458 871",
+  "website": "https://www.facebook.com/eltortonaqp?hc_ref=ARRlgFqI3vj7BBl809a8H7IyvR1mgcY0JZfiGXyF8F892ygtpzorH1Vh_cLCGYewh1c&fref=nf&__xts__[0]=68.ARCukxSU6yVfBrs2MOavUK3zRSYL--AKGR9MZPBxNZ-dc2uFINFzoM4aUBTIePbHioBtqj2BUPq_3be_JQ7BlFK10jJCAx7VPIYpoRprRk_1LJqdV829RjR0GrXDPyeTpqGAA5vvkbme0o3uxyXaWdRBWEbs9RmuxrUeHsFv1XcqRNF4kRdo-HLWV5OMHNCmAQx2x_92gE6qTgL2X_W0MSq3D2eiv3lsVnMrECe_vWUzVCu2y-OCb8pVRDjQ9bd95EJbdhSLoXFX-ILJlR2nWkBLTNH7ry6_fEmAN2CVvsDM_0dnQ4Q",
+  "googleMapsUrl": "https://maps.google.com/?cid=4912149095442860373",
+  "rating": 2.6,
+  "reviewCount": 5,
+  "coords": [
+    -16.3834331,
+    -71.5247869
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/el-torton-alto-selva-alegre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:55:56.426Z"
+}

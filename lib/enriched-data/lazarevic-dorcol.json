@@ -1,0 +1,32 @@
+{
+  "slug": "lazarevic-dorcol",
+  "name": "Lazarević",
+  "city": "Dorćol",
+  "country": "Serbia",
+  "placeId": "ChIJD1KiTEhlWkcR_yu7DHsllnQ",
+  "googleName": "Statue of Despot Stefan Lazarević",
+  "formattedAddress": "Belgrade 11000, Serbia",
+  "phone": "062 337766",
+  "website": "http://www.beogradskatvrdjava.co.rs",
+  "googleMapsUrl": "https://maps.google.com/?cid=8400943365331037183",
+  "rating": 4.8,
+  "reviewCount": 62,
+  "coords": [
+    44.8242736,
+    20.4508949
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lazarevic-dorcol/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:18:18.285Z"
+}

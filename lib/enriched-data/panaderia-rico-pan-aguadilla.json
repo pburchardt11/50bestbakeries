@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-rico-pan-aguadilla",
+  "name": "Panaderia Rico Pan",
+  "city": "Aguadilla",
+  "country": "Puerto Rico",
+  "placeId": "ChIJJ0z5zpu9AowRTSUMZBDD4zg",
+  "googleName": "Panaderia Rico Pan",
+  "formattedAddress": "FVG8+MJ9, Camaceyes, Aguadilla 00603, Puerto Rico",
+  "phone": "(787) 882-0793",
+  "website": "https://m.facebook.com/RicoPanBakeryAguadilla/?ref=py_c",
+  "googleMapsUrl": "https://maps.google.com/?cid=4099334561002693965",
+  "rating": 4.3,
+  "reviewCount": 300,
+  "coords": [
+    18.4766669,
+    -67.1333812
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 7:00 PM",
+    "Sunday: 6:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-rico-pan-aguadilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:31.197Z"
+}

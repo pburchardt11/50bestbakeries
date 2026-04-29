@@ -1,0 +1,32 @@
+{
+  "slug": "badar-bakery-faisalabad",
+  "name": "Badar Bakery",
+  "city": "Faisalabad",
+  "country": "Pakistan",
+  "placeId": "ChIJydIF9udCIjkR5QzqsRR6Nbo",
+  "googleName": "Badar Bakery",
+  "formattedAddress": "Bakar Mandi Rd, 1-B Block B Liaquat Town, Faisalabad, 38000, Pakistan",
+  "phone": "(041) 2551228",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13417764894123101413",
+  "rating": 4.1,
+  "reviewCount": 1390,
+  "coords": [
+    31.4169077,
+    73.0512238
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 1:00 AM",
+    "Tuesday: 6:00 AM – 1:00 AM",
+    "Wednesday: 6:00 AM – 1:00 AM",
+    "Thursday: 6:00 AM – 1:00 AM",
+    "Friday: 6:00 AM – 1:00 AM",
+    "Saturday: 6:00 AM – 1:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/badar-bakery-faisalabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:49:57.564Z"
+}

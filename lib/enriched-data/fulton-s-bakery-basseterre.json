@@ -1,0 +1,24 @@
+{
+  "slug": "fulton-s-bakery-basseterre",
+  "name": "Fulton's Bakery",
+  "city": "Basseterre",
+  "country": "St. Kitts & Nevis",
+  "placeId": "ChIJS9JBGcAbEowRjI4jhhUZSvM",
+  "googleName": "Fulton's Bakery",
+  "formattedAddress": "77WH+7Q7, Basseterre, St Kitts & Nevis",
+  "phone": "(869) 465-2940",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17530852079728561804",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "coords": [
+    17.2956609,
+    -62.7205775
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fulton-s-bakery-basseterre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:40.362Z"
+}

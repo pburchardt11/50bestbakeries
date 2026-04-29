@@ -1,0 +1,32 @@
+{
+  "slug": "tonie-s-cake-shop-dar-es-salaam",
+  "name": "Tonie's cake shop",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJ2y88ptS8Yw4RyN1olewCAOk",
+  "googleName": "ennys cakes",
+  "formattedAddress": "Butembo St, Dar es Salaam 14113, Tanzania",
+  "phone": "0656 974 791",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16789422625979424200",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -6.778849999999999,
+    39.2347583
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:30 PM",
+    "Saturday: 9:00 AM – 9:30 PM",
+    "Sunday: 11:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tonie-s-cake-shop-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:39:39.291Z"
+}

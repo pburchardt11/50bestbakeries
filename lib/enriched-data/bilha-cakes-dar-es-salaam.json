@@ -1,0 +1,32 @@
+{
+  "slug": "bilha-cakes-dar-es-salaam",
+  "name": "Bilha Cakes",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJdcpTPGRJXBgRoawTGoT61w4",
+  "googleName": "Bilha_cakes_tz",
+  "formattedAddress": "Musoma, Tanzania",
+  "phone": "0718 515 907",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1069598881803906209",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -6.841498899999999,
+    39.2047379
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bilha-cakes-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:58.022Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "langosica-arad",
+  "name": "Langoşica",
+  "city": "Arad",
+  "country": "Romania",
+  "placeId": "ChIJZziQMQCZRUcRqj_ZM0ahM8A",
+  "googleName": "Langoşica",
+  "formattedAddress": "Bulevardul Ștefan Augustin Doinaș 5, 310089 Arad, Romania",
+  "phone": "0753 133 278",
+  "website": "https://www.facebook.com/profile.php?id=61557138020587",
+  "googleMapsUrl": "https://maps.google.com/?cid=13849590601984065450",
+  "rating": 4.6,
+  "reviewCount": 66,
+  "coords": [
+    46.1804212,
+    21.3163244
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 4:30 PM",
+    "Wednesday: 7:30 AM – 4:30 PM",
+    "Thursday: 7:30 AM – 4:30 PM",
+    "Friday: 7:30 AM – 4:30 PM",
+    "Saturday: 8:00 AM – 1:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/langosica-arad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:05.283Z"
+}

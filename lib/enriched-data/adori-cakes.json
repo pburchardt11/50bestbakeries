@@ -1,0 +1,32 @@
+{
+  "slug": "adori-cakes",
+  "name": "Adori Cakes",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJrUR_DoPDRT4RQ34iiI-PbEA",
+  "googleName": "ORKADO CHOCOLATE",
+  "formattedAddress": "11, 20 La Croisette, Doha, Qatar",
+  "phone": "3331 3511",
+  "website": "http://orkado.qa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4642243162539195971",
+  "rating": 4.2,
+  "reviewCount": 63,
+  "coords": [
+    25.3699605,
+    51.5484855
+  ],
+  "openingHours": [
+    "Monday: 12:00 PM – 12:00 AM",
+    "Tuesday: 12:00 PM – 12:00 AM",
+    "Wednesday: 12:00 PM – 12:00 AM",
+    "Thursday: 12:00 PM – 12:00 AM",
+    "Friday: 12:00 PM – 12:00 AM",
+    "Saturday: 12:00 PM – 12:00 AM",
+    "Sunday: 12:00 PM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/adori-cakes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:39.302Z"
+}

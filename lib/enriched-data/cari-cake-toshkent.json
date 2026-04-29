@@ -1,0 +1,32 @@
+{
+  "slug": "cari-cake-toshkent",
+  "name": "Cari-Cake",
+  "city": "Toshkent",
+  "country": "Uzbekistan",
+  "placeId": "ChIJt58cP9P0rjgRhCxpZruVEgQ",
+  "googleName": "Cari Cake Cafe",
+  "formattedAddress": "O'zbekiston Ovozi ko'chasi 2, 100047, Тоshkent, Toshkent, Uzbekistan",
+  "phone": "97 701 11 22",
+  "website": "https://facebook.com/caricakecafe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=293461557842095236",
+  "rating": 4.3,
+  "reviewCount": 13,
+  "coords": [
+    41.3110037,
+    69.2861702
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cari-cake-toshkent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:55:55.886Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-dubai",
+  "name": "Cinnabon",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJlVvtq-JpXz4RPrSv9EKoZig",
+  "googleName": "Cinnabon - The Dubai Mall",
+  "formattedAddress": "The Dubai Mall - Level 2 Financial Center Rd - near Food Court - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+  "phone": null,
+  "website": "https://www.cinnabon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2911199214668067902",
+  "rating": 4.1,
+  "reviewCount": 209,
+  "coords": [
+    25.1966623,
+    55.28016040000001
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "Counter-serve chain serving cinnamon rolls plus other baked goods & specialty frozen beverages.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cinnabon-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:48:28.776Z"
+}

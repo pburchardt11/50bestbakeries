@@ -1,0 +1,32 @@
+{
+  "slug": "cherry-merry",
+  "name": "Cherry Merry",
+  "city": "Барнаул",
+  "country": "Russia",
+  "placeId": "ChIJldUNCFqk3UIRxXfaSoBBnbE",
+  "googleName": "Cherry Merry",
+  "formattedAddress": "Ulitsa Baltiyskaya, 2, Barnaul, Altayskiy kray, Russia, 656006",
+  "phone": "8 (961) 992-41-86",
+  "website": "https://cherry.uds.app/c/goods",
+  "googleMapsUrl": "https://maps.google.com/?cid=12798457735324268485",
+  "rating": 4.8,
+  "reviewCount": 174,
+  "coords": [
+    53.3343636,
+    83.6910711
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cherry-merry/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:44.235Z"
+}

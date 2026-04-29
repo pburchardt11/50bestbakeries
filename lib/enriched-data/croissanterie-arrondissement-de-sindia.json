@@ -1,0 +1,32 @@
+{
+  "slug": "croissanterie-arrondissement-de-sindia",
+  "name": "Croissanterie",
+  "city": "Arrondissement de Sindia",
+  "country": "Senegal",
+  "placeId": "ChIJZ9s4WSWJwQ4RSS7momPwC3c",
+  "googleName": "Croissanterie",
+  "formattedAddress": "Rte Nguekokh-Ngaparou, M'bour, Senegal",
+  "phone": "76 861 77 13",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8578214225982664265",
+  "rating": 4.2,
+  "reviewCount": 10,
+  "coords": [
+    14.4837547,
+    -17.0313374
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 2:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/croissanterie-arrondissement-de-sindia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:00.117Z"
+}

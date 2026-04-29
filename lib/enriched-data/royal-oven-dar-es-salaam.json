@@ -1,0 +1,32 @@
+{
+  "slug": "royal-oven-dar-es-salaam",
+  "name": "Royal Oven",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJwSFzxN9NXBgRizgP4YAUocg",
+  "googleName": "Royal Oven",
+  "formattedAddress": "Old Bagamoyo Rd, Dar es Salaam, Tanzania",
+  "phone": "0767 335 500",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14456858822600243339",
+  "rating": 4.2,
+  "reviewCount": 1296,
+  "coords": [
+    -6.744723199999999,
+    39.23886
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/royal-oven-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:40:12.569Z"
+}

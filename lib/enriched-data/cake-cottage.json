@@ -1,0 +1,32 @@
+{
+  "slug": "cake-cottage",
+  "name": "Cake cottage",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJW1XTKjTbRT4R7rue9B4nrsM",
+  "googleName": "The Cake Corner",
+  "formattedAddress": "340, Doha, Qatar",
+  "phone": "5025 3375",
+  "website": "https://linktr.ee/the.Cake.corner",
+  "googleMapsUrl": "https://maps.google.com/?cid=14100250497250147310",
+  "rating": 4.8,
+  "reviewCount": 519,
+  "coords": [
+    25.2689444,
+    51.5044261
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cake-cottage/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:36.842Z"
+}

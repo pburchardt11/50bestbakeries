@@ -1,0 +1,32 @@
+{
+  "slug": "old-baker",
+  "name": "Old Baker",
+  "city": "Івано-Франківськ",
+  "country": "Ukraine",
+  "placeId": "ChIJvzhcUFrBMEcRam8T5lvrRK0",
+  "googleName": "OLD BAKER",
+  "formattedAddress": "Stepana Bandery St, 51, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76000",
+  "phone": "099 490 0285",
+  "website": "https://old-baker.choiceqr.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12485362846912442218",
+  "rating": 4.8,
+  "reviewCount": 260,
+  "coords": [
+    48.911815,
+    24.7170655
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/old-baker/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:23.493Z"
+}

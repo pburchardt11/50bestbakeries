@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-boss-lusaka",
+  "name": "Bakery Boss",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJKaeiaAD1QBkRqKwZXdU-OXo",
+  "googleName": "Bakery Boss",
+  "formattedAddress": "H7VP+8V4, Great East Rd, Lusaka, Zambia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8807139632410635432",
+  "rating": 3,
+  "reviewCount": 2,
+  "coords": [
+    -15.4067349,
+    28.287196
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-boss-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:45.336Z"
+}

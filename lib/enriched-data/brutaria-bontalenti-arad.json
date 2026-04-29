@@ -1,0 +1,32 @@
+{
+  "slug": "brutaria-bontalenti-arad",
+  "name": "Brutăria Bontalenti",
+  "city": "Arad",
+  "country": "Romania",
+  "placeId": "ChIJnUjtDvKZRUcRiNxnLFNbXW8",
+  "googleName": "Brutăria Bontalenti",
+  "formattedAddress": "Strada Mărășești, 310032 Arad, Romania",
+  "phone": "0779 209 105",
+  "website": "https://www.instagram.com/bontalenti.raw",
+  "googleMapsUrl": "https://maps.google.com/?cid=8024670523829509256",
+  "rating": 4.3,
+  "reviewCount": 200,
+  "coords": [
+    46.1748969,
+    21.3122331
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:00 PM",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/brutaria-bontalenti-arad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:14.731Z"
+}

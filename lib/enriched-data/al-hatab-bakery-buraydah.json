@@ -1,0 +1,32 @@
+{
+  "slug": "al-hatab-bakery-buraydah",
+  "name": "Al Hatab Bakery",
+  "city": "Buraydah",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJt7gYw2pXfxURuO_PPW0yNSo",
+  "googleName": "ALHATAB BAKERY",
+  "formattedAddress": "Al Amir Faisal Ibn Bandar Ibn Abdul Aziz, Al Safra', Buraydah 52382, Saudi Arabia",
+  "phone": "9200 02281",
+  "website": "https://alhatab.com.sa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3041392568128499640",
+  "rating": 4.2,
+  "reviewCount": 1634,
+  "coords": [
+    26.3546263,
+    43.95494920000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 1:00 AM",
+    "Saturday: 6:00 AM – 1:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-hatab-bakery-buraydah/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:14:38.161Z"
+}

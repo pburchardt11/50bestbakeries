@@ -1,0 +1,32 @@
+{
+  "slug": "happy-cake-aguada",
+  "name": "Happy Cake Aguada",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJH2iKWRm7AowRPgu-h8yWsdk",
+  "googleName": "Happy Cake",
+  "formattedAddress": "PR-417, Luyando, Aguada 00602, Puerto Rico",
+  "phone": "(787) 589-7120",
+  "website": "https://m.facebook.com/happycakeaguada/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15686484782303021886",
+  "rating": 4.7,
+  "reviewCount": 67,
+  "coords": [
+    18.3682325,
+    -67.1600496
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/happy-cake-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:01:39.395Z"
+}

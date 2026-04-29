@@ -1,0 +1,32 @@
+{
+  "slug": "brood-kampala",
+  "name": "Brood",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJSQQ9OD68fRcROrszL73hCLE",
+  "googleName": "Bbrood Muyenga",
+  "formattedAddress": "Kampala, Uganda",
+  "phone": "0200 924092",
+  "website": "http://www.bbrood.ug/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12756694147183917882",
+  "rating": 4.2,
+  "reviewCount": 362,
+  "coords": [
+    0.2989924,
+    32.6086908
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/brood-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:50:46.227Z"
+}

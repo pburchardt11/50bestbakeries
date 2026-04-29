@@ -1,0 +1,24 @@
+{
+  "slug": "testo",
+  "name": "Testo",
+  "city": "Бериславський район",
+  "country": "Ukraine",
+  "placeId": "ChIJW18NB5-Dw0ARbez8X8NfMGc",
+  "googleName": "Testo",
+  "formattedAddress": "Vulytsya 1 Travnya, 192В, Beryslav, Khersons'ka oblast, Ukraine, 74300",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7435548277522361453",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    46.8343248,
+    33.4166192
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/testo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:01.018Z"
+}

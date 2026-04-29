@@ -1,0 +1,32 @@
+{
+  "slug": "emirates-bakery",
+  "name": "Emirates Bakery",
+  "city": "صحار",
+  "country": "Oman",
+  "placeId": "ChIJAQZR67lEiz4RiQ40TOdlvAc",
+  "googleName": "Emirates Bakery",
+  "formattedAddress": "8PPH+JCP, Sohar, Oman",
+  "phone": "9702 3255",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=557432497977429641",
+  "rating": 4.1,
+  "reviewCount": 349,
+  "coords": [
+    24.3365884,
+    56.7285881
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 1:00 AM",
+    "Tuesday: 6:00 AM – 1:00 AM",
+    "Wednesday: 6:00 AM – 1:00 AM",
+    "Thursday: 6:00 AM – 1:00 AM",
+    "Friday: 6:00 AM – 1:00 AM",
+    "Saturday: 6:00 AM – 1:00 AM",
+    "Sunday: 6:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/emirates-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:47:37.409Z"
+}

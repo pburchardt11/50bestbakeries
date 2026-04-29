@@ -1,0 +1,32 @@
+{
+  "slug": "zanat-belgrade",
+  "name": "Zanat",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJv6_NR6Z6WkcRU0k_Dc9WFAg",
+  "googleName": "Bakery Zanat",
+  "formattedAddress": "Resavska 33, Beograd 11000, Serbia",
+  "phone": "065 9800104",
+  "website": "http://www.zanat.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=582185699118106963",
+  "rating": 4.7,
+  "reviewCount": 169,
+  "coords": [
+    44.8069758,
+    20.464955
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zanat-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:28.645Z"
+}

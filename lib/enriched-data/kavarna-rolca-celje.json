@@ -1,0 +1,32 @@
+{
+  "slug": "kavarna-rolca-celje",
+  "name": "Kavarna Rolca",
+  "city": "Celje",
+  "country": "Slovenia",
+  "placeId": "ChIJG8VUg4NxZUcRDdiQPN-q8hg",
+  "googleName": "Kavarna Rolca",
+  "formattedAddress": "Gubčeva ulica 1, 3000 Celje, Slovenia",
+  "phone": "070 552 051",
+  "website": "https://rolca.si/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1797687077044803597",
+  "rating": 4.5,
+  "reviewCount": 82,
+  "coords": [
+    46.2293215,
+    15.2659578
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kavarna-rolca-celje/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:24:35.424Z"
+}

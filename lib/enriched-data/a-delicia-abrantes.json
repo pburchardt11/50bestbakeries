@@ -1,0 +1,32 @@
+{
+  "slug": "a-delicia-abrantes",
+  "name": "A Delícia",
+  "city": "Abrantes",
+  "country": "Portugal",
+  "placeId": "ChIJQbbOQj9sGA0Ra5_VBPejm7I",
+  "googleName": "Delicias da Deolinda",
+  "formattedAddress": "Av. Dom João I 616, 2200-233 Abrantes, Portugal",
+  "phone": "241 332 180",
+  "website": "http://deliciasdadeolinda.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12870060641474682731",
+  "rating": 4.3,
+  "reviewCount": 166,
+  "coords": [
+    39.4697589,
+    -8.2000862
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 3:00 PM, 5:00 – 8:00 PM",
+    "Tuesday: 10:00 AM – 3:00 PM, 5:00 – 8:00 PM",
+    "Wednesday: 10:00 AM – 3:00 PM, 5:00 – 8:00 PM",
+    "Thursday: 10:00 AM – 3:00 PM, 5:00 – 8:00 PM",
+    "Friday: 10:00 AM – 3:00 PM, 5:00 – 8:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM, 5:00 – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/a-delicia-abrantes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:57:42.820Z"
+}

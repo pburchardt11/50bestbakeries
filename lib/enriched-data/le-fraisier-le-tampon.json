@@ -1,0 +1,32 @@
+{
+  "slug": "le-fraisier-le-tampon",
+  "name": "Le Fraisier",
+  "city": "Le Tampon",
+  "country": "Réunion",
+  "placeId": "ChIJe_-U65Z1eCERZGVafCGkm_g",
+  "googleName": "Le Fraisier",
+  "formattedAddress": "6 Imp. des Pommiers, Le Tampon 97430, Réunion",
+  "phone": "0262 54 34 02",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17914092406523454820",
+  "rating": 3.4,
+  "reviewCount": 71,
+  "coords": [
+    -21.2176642,
+    55.55173670000001
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: 5:30 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-fraisier-le-tampon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:12:08.310Z"
+}

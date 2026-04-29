@@ -1,0 +1,32 @@
+{
+  "slug": "blooming-cakes-koticek-srece-idrija",
+  "name": "Blooming cakes -Kotiček sreče",
+  "city": "Idrija",
+  "country": "Slovenia",
+  "placeId": "ChIJNajajt_hekcRCxnOtoMj6cg",
+  "googleName": "Blooming cakes -Kotiček sreče",
+  "formattedAddress": "Slovenska cesta 6, 5281 Spodnja Idrija, Slovenia",
+  "phone": "040 241 833",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14477141525773818123",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    46.0326528,
+    14.0257
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/blooming-cakes-koticek-srece-idrija/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:25:30.104Z"
+}

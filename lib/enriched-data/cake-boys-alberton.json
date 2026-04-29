@@ -1,0 +1,32 @@
+{
+  "slug": "cake-boys-alberton",
+  "name": "Cake Boys",
+  "city": "Alberton",
+  "country": "South Africa",
+  "placeId": "ChIJXaXFKq8alR4RUBST-xZbJM8",
+  "googleName": "Cake Boys, Designer Cakes for every occasion.",
+  "formattedAddress": "6 Lenin St, Raceview, Alberton, 1449, South Africa",
+  "phone": "011 869 4187",
+  "website": "http://www.cakeboys.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14926155219280794704",
+  "rating": 4.8,
+  "reviewCount": 89,
+  "coords": [
+    -26.2743449,
+    28.1211508
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-boys-alberton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:26:46.043Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-la-perla-anaco",
+  "name": "Bakery La Perla",
+  "city": "Anaco",
+  "country": "Venezuela",
+  "placeId": "ChIJm7jqa4il0o0RcpF6YT79nbE",
+  "googleName": "Bakery La Perla",
+  "formattedAddress": "Av. José Antonio Anzoátegui, Anaco 6003, Anzoátegui, Venezuela",
+  "phone": "0282-4245446",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12798664160422039922",
+  "rating": 3.8,
+  "reviewCount": 205,
+  "coords": [
+    9.4377227,
+    -64.4662642
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": "Upscale boutique for the company's high-fashion lingerie, loungewear, bridal collection & sleepwear.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-la-perla-anaco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:56:53.295Z"
+}

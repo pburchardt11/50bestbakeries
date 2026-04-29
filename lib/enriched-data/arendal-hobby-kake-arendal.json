@@ -1,0 +1,32 @@
+{
+  "slug": "arendal-hobby-kake-arendal",
+  "name": "Arendal hobby kake",
+  "city": "Arendal",
+  "country": "Norway",
+  "placeId": "ChIJDw_1bWCTR0YRhTdXKHkf4zI",
+  "googleName": "Bakeriet Stoa Sam Berg",
+  "formattedAddress": "Stoa Vest, Arendal, Norway",
+  "phone": "37 09 95 10",
+  "website": "http://www.samberg.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3666809126838024069",
+  "rating": 4.4,
+  "reviewCount": 17,
+  "coords": [
+    58.4653128,
+    8.7138672
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 4:00 PM",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 10:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/arendal-hobby-kake-arendal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:40.651Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "crusty-delights-kigali",
+  "name": "Crusty Delights",
+  "city": "Kigali",
+  "country": "Rwanda",
+  "placeId": "ChIJKVZSaJen3BkRzMgubymEJUA",
+  "googleName": "Crusty Delights",
+  "formattedAddress": "St, Gacuriro Estate 2020, KG 406 St, Kigali, Rwanda",
+  "phone": "0784 373 427",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4622245906059544780",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -1.927459,
+    30.0917724
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:30 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/crusty-delights-kigali/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:36.132Z"
+}

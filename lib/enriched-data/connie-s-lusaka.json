@@ -1,0 +1,32 @@
+{
+  "slug": "connie-s-lusaka",
+  "name": "Connie's",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJz1SS3YyLQBkRIfU34KjMmjw",
+  "googleName": "Chinni's Pub and Restaurant",
+  "formattedAddress": "7352 Nangwenya Rd, Lusaka, Zambia",
+  "phone": "097 4627368",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4367027814377452833",
+  "rating": 4.3,
+  "reviewCount": 44,
+  "coords": [
+    -15.404724,
+    28.3115731
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/connie-s-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:28.317Z"
+}

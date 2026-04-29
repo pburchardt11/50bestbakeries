@@ -1,0 +1,30 @@
+{
+  "slug": "phillips-bakery-kingstown",
+  "name": "Phillips' Bakery",
+  "city": "Kingstown",
+  "country": "St. Vincent & Grenadines",
+  "placeId": "ChIJC4DFdQBRR4wRmzYP1O_U71M",
+  "googleName": "Phillips Bakery",
+  "formattedAddress": "5Q4F+74W, Lower Middle St, Kingstown, St Vincent and the Grenadines",
+  "phone": "(784) 457-2869",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6048286951101904539",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    13.1557357,
+    -61.2271693
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 8:00 PM",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 5:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:31:45.052Z"
+}

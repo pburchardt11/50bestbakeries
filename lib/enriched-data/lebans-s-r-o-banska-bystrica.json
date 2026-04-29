@@ -1,0 +1,32 @@
+{
+  "slug": "lebans-s-r-o-banska-bystrica",
+  "name": "LEBANS s.r.o.",
+  "city": "Banská Bystrica",
+  "country": "Slovakia",
+  "placeId": "ChIJd9D0rYA9FUcRDOigph7ePgY",
+  "googleName": "LEBANS s.r.o.",
+  "formattedAddress": "PEKÁREŇ, Rakytovská cesta 86/97405, Rakytovce, 974 05 Banská Bystrica, Slovakia",
+  "phone": "0905 505 572",
+  "website": "http://www.lebans.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=450041236009576460",
+  "rating": 4.8,
+  "reviewCount": 30,
+  "coords": [
+    48.67805689999999,
+    19.1245765
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM",
+    "Tuesday: 8:00 AM – 2:00 PM",
+    "Wednesday: 8:00 AM – 2:00 PM",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lebans-s-r-o-banska-bystrica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:21:43.641Z"
+}

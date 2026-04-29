@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-backerei-gornja-radgona",
+  "name": "Pekarna Backerei",
+  "city": "Gornja Radgona",
+  "country": "Slovenia",
+  "placeId": "ChIJBSBcUIAUb0cRgK50l_mnMcg",
+  "googleName": "Pekarna Bäckerei",
+  "formattedAddress": "9250 Gornja Radgona, Slovenia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14425495771874111104",
+  "rating": 4.7,
+  "reviewCount": 33,
+  "coords": [
+    46.67390169999999,
+    15.9934978
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Closed",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-backerei-gornja-radgona/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:25:03.131Z"
+}

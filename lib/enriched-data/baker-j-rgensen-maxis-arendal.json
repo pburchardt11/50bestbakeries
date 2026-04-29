@@ -1,0 +1,32 @@
+{
+  "slug": "baker-j-rgensen-maxis-arendal",
+  "name": "Baker Jørgensen Maxis",
+  "city": "Arendal",
+  "country": "Norway",
+  "placeId": "ChIJ65esHceUR0YRSRgSpcWc4Q4",
+  "googleName": "Baker Jørgensen Maxissenteret",
+  "formattedAddress": "Vesterveien 44, 4839 Arendal, Norway",
+  "phone": "47 77 00 42",
+  "website": "http://www.bakerjorgensen.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1072310558982805577",
+  "rating": 3.6,
+  "reviewCount": 28,
+  "coords": [
+    58.4545088,
+    8.7473128
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/baker-j-rgensen-maxis-arendal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:47.578Z"
+}

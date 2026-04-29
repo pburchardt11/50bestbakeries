@@ -1,0 +1,32 @@
+{
+  "slug": "la-criolla-asuncion",
+  "name": "La Criolla",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJV6d5tv0HXZQRr2XdF54YlLM",
+  "googleName": "La Criolla",
+  "formattedAddress": "M8VX+VP8, Av. Sebastian Gaboto y, Asunción 001111, Paraguay",
+  "phone": "(021) 372 657",
+  "website": "https://www.lacriolla.com.py/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12939994696626562479",
+  "rating": 4.3,
+  "reviewCount": 1025,
+  "coords": [
+    -25.3055938,
+    -57.65115049999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/la-criolla-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:54:14.929Z"
+}

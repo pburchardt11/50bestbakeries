@@ -1,0 +1,32 @@
+{
+  "slug": "yamanote-atelier-dubai",
+  "name": "Yamanote Atelier",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJTbHILihoXz4Rlg9kJDywv0c",
+  "googleName": "Yamanote Atelier The Dubai Mall",
+  "formattedAddress": "Unit LG - 117 [level LG - Unit LG - 098 - 2 - شارع المركز المالي - برج خليفة - وسط مدينة دبي - دبي - United Arab Emirates",
+  "phone": "04 380 7891",
+  "website": "http://www.yamanoteatelier.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5170044669599682454",
+  "rating": 4.5,
+  "reviewCount": 793,
+  "coords": [
+    25.1965398,
+    55.2777807
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 1:00 AM",
+    "Saturday: 9:00 AM – 1:00 AM",
+    "Sunday: 9:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/yamanote-atelier-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:48:48.929Z"
+}

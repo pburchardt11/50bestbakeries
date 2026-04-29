@@ -1,0 +1,32 @@
+{
+  "slug": "happy-home-bakery-toshkent",
+  "name": "Happy Home Bakery",
+  "city": "Toshkent",
+  "country": "Uzbekistan",
+  "placeId": "ChIJo40DeGaLrjgRaCgphhL_-yI",
+  "googleName": "Happy Cakes",
+  "formattedAddress": "ул. Алишера Навои 21, 100004, Тоshkent, Toshkent, Uzbekistan",
+  "phone": "90 043 22 46",
+  "website": "http://happycakes.uz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2520888871469262952",
+  "rating": 4.6,
+  "reviewCount": 28,
+  "coords": [
+    41.3206786,
+    69.2577512
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/happy-home-bakery-toshkent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:56:06.483Z"
+}

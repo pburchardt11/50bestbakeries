@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-alfonzos-arroyos-y-esteros",
+  "name": "Panaderia Alfonzos",
+  "city": "Arroyos y Esteros",
+  "country": "Paraguay",
+  "placeId": "ChIJs0z94NndXZQRAHFj4jY7ljg",
+  "googleName": "Panaderia Alfonzos",
+  "formattedAddress": "Ruta Caraguatay - Arroyos y Esteros, Arroyos y Esteros 9042, Paraguay",
+  "phone": "0982 523542",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4077511619543003392",
+  "rating": 5,
+  "reviewCount": 18,
+  "coords": [
+    -25.0684822,
+    -57.0664224
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 PM, 2:00 – 8:00 PM",
+    "Tuesday: 7:00 AM – 12:00 PM, 2:00 – 8:00 PM",
+    "Wednesday: 7:00 AM – 12:00 PM, 2:00 – 8:00 PM",
+    "Thursday: 7:00 AM – 12:00 PM, 2:00 – 8:00 PM",
+    "Friday: 7:00 AM – 12:00 PM, 2:00 – 8:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM, 2:00 – 8:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM, 4:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-alfonzos-arroyos-y-esteros/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:57.450Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "kunafati",
+  "name": "Kunafati",
+  "city": "بوشر",
+  "country": "Oman",
+  "placeId": "ChIJI0Z2XQT_kT4R-MJ6tVe-ZOY",
+  "googleName": "Knafati Sweets & Cafe",
+  "formattedAddress": "HCPG+G4F، Al Khuwair South Street، Muscat, Oman",
+  "phone": "7147 0077",
+  "website": "http://www.kunafaty.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16601603410310644472",
+  "rating": 4.2,
+  "reviewCount": 346,
+  "coords": [
+    23.5863094,
+    58.4253044
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/kunafati/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:47:01.070Z"
+}

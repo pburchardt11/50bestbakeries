@@ -1,0 +1,32 @@
+{
+  "slug": "patiseria-super-arad",
+  "name": "Patiseria SUPER",
+  "city": "Arad",
+  "country": "Romania",
+  "placeId": "ChIJLfuwJwWZRUcRivuCxSEBt5U",
+  "googleName": "Patiseria Super",
+  "formattedAddress": "Strada Octavian Goga 8-24, Arad, Romania",
+  "phone": "0744 918 256",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10788092676948556682",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    46.1757061,
+    21.3117623
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 11:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/patiseria-super-arad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:10.317Z"
+}

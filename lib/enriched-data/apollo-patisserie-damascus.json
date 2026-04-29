@@ -1,0 +1,32 @@
+{
+  "slug": "apollo-patisserie-damascus",
+  "name": "Apollo patisserie",
+  "city": "Damascus",
+  "country": "Syria",
+  "placeId": "ChIJtQAmEzHnGBURQGiqaMP9_Ag",
+  "googleName": "Apollo Patisseries",
+  "formattedAddress": "G78R+MR7, Maysaloon, Damascus, Syria",
+  "phone": "011 333 3313",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=647671462150957120",
+  "rating": 4.6,
+  "reviewCount": 16,
+  "coords": [
+    33.5166699,
+    36.2920378
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/apollo-patisserie-damascus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:34.054Z"
+}

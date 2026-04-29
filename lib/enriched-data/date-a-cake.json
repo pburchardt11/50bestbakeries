@@ -1,0 +1,24 @@
+{
+  "slug": "date-a-cake",
+  "name": "Date a Cake",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJISvgEgnFRT4RTuAa70tIUW8",
+  "googleName": "Date a Cake",
+  "formattedAddress": "street 860, zone 13, الدوحة، Qatar",
+  "phone": "3106 1114",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8021271902294827086",
+  "rating": 5,
+  "reviewCount": 15,
+  "coords": [
+    25.2813056,
+    51.5198808
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/date-a-cake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:15.710Z"
+}

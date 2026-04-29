@@ -1,0 +1,32 @@
+{
+  "slug": "aperitivos-don-julio-alto-selva-alegre",
+  "name": "Aperitivos Don Julio",
+  "city": "Alto Selva Alegre",
+  "country": "Peru",
+  "placeId": "ChIJby7KHKZLQpER7shfOfI1Dro",
+  "googleName": "Aperitivos Don Julio",
+  "formattedAddress": "Av Brasil 101A, Alto Selva Alegre 04004, Peru",
+  "phone": "959 333 795",
+  "website": "https://www.facebook.com/profile.php?id=61557395214734&sk=about",
+  "googleMapsUrl": "https://maps.google.com/?cid=13406712455189481710",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -16.3824725,
+    -71.5219598
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/aperitivos-don-julio-alto-selva-alegre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:55:49.390Z"
+}

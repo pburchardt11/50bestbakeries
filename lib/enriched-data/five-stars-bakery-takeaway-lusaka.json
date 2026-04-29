@@ -1,0 +1,32 @@
+{
+  "slug": "five-stars-bakery-takeaway-lusaka",
+  "name": "Five Stars Bakery & Takeaway",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJj-2ccSj1QBkRlzYG55z6g4M",
+  "googleName": "Five Stars Bakery & Takeaway",
+  "formattedAddress": "J7JQ+788, Lusaka, Zambia",
+  "phone": "097 9453395",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9476693592715441815",
+  "rating": 4.5,
+  "reviewCount": 6,
+  "coords": [
+    -15.3693292,
+    28.2883335
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/five-stars-bakery-takeaway-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:24.121Z"
+}

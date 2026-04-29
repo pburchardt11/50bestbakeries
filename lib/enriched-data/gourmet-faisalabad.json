@@ -1,0 +1,32 @@
+{
+  "slug": "gourmet-faisalabad",
+  "name": "Gourmet",
+  "city": "Faisalabad",
+  "country": "Pakistan",
+  "placeId": "ChIJl1jTxbhCIjkRjUyW5ktKamI",
+  "googleName": "Gourmet Foods",
+  "formattedAddress": "C368+X99, Jhang Rd, Harcharnpura 2 Qasim Abad, Faisalabad, 38000, Pakistan",
+  "phone": "0322 2227777",
+  "website": "https://www.gourmetpakistan.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7091562253099879565",
+  "rating": 4,
+  "reviewCount": 868,
+  "coords": [
+    31.4124248,
+    73.0659689
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/gourmet-faisalabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:49:41.280Z"
+}

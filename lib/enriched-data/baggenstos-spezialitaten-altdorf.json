@@ -1,0 +1,32 @@
+{
+  "slug": "baggenstos-spezialitaten-altdorf",
+  "name": "Baggenstos Spezialitäten",
+  "city": "Altdorf",
+  "country": "Switzerland",
+  "placeId": "ChIJjw6NwWdDhUcRwKUBVkQzM1Q",
+  "googleName": "Baggenstos Spezialitäten AG",
+  "formattedAddress": "Rynächtstrasse 13, 6460 Altdorf, Switzerland",
+  "phone": "041 871 08 32",
+  "website": "http://www.baggenstos-spezialitaeten.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6067249491591931328",
+  "rating": 5,
+  "reviewCount": 16,
+  "coords": [
+    46.872336,
+    8.632919
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 1:00 PM",
+    "Tuesday: 6:00 AM – 1:00 PM",
+    "Wednesday: 6:00 AM – 1:00 PM",
+    "Thursday: 6:00 AM – 1:00 PM",
+    "Friday: 6:00 AM – 1:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baggenstos-spezialitaten-altdorf/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:16.910Z"
+}

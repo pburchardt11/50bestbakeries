@@ -1,0 +1,32 @@
+{
+  "slug": "knead-bakers-pizza-abbottabad",
+  "name": "Knead Bakers & Pizza",
+  "city": "Abbottabad",
+  "country": "Pakistan",
+  "placeId": "ChIJoXyKMOYZ3jgR2yFCJrb9RMM",
+  "googleName": "Knead Cafe Balakot",
+  "formattedAddress": "N-15, Mansehra, 21300, Pakistan",
+  "phone": "0329 5629050",
+  "website": "https://knead.pk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14070650094580015579",
+  "rating": 4.7,
+  "reviewCount": 252,
+  "coords": [
+    34.4585256,
+    73.3318044
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/knead-bakers-pizza-abbottabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:48:08.610Z"
+}

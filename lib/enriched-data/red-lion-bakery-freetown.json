@@ -1,0 +1,32 @@
+{
+  "slug": "red-lion-bakery-freetown",
+  "name": "Red lion Bakery",
+  "city": "Freetown",
+  "country": "Sierra Leone",
+  "placeId": "ChIJV53ueqPDBA8RUZv4bFGmDtU",
+  "googleName": "Red Lion Bread Shop",
+  "formattedAddress": "65 Siaka Stevens St, Freetown, Sierra Leone",
+  "phone": "(077) 001944",
+  "website": "https://redlionbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15352391048403393361",
+  "rating": 4.7,
+  "reviewCount": 15,
+  "coords": [
+    8.4847378,
+    -13.2380543
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/red-lion-bakery-freetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:09.753Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "zesty-zoe-lusaka",
+  "name": "Zesty Zoe",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJIylx9teJQBkRgcFJ07yoGG4",
+  "googleName": "Zoey Gardens",
+  "formattedAddress": "32 Ngwerere Ave, Lusaka, Zambia",
+  "phone": "097 9336221",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7933276272565272961",
+  "rating": 4.1,
+  "reviewCount": 246,
+  "coords": [
+    -15.3705847,
+    28.3935009
+  ],
+  "openingHours": [
+    "Monday: 12:00 PM – 12:00 AM",
+    "Tuesday: 12:00 PM – 12:00 AM",
+    "Wednesday: 12:00 PM – 12:00 AM",
+    "Thursday: 12:00 PM – 12:00 AM",
+    "Friday: 10:00 AM – 12:00 AM",
+    "Saturday: 10:00 AM – 12:00 AM",
+    "Sunday: 10:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zesty-zoe-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:37.437Z"
+}

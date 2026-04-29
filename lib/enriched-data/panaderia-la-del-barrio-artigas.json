@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-del-barrio-artigas",
+  "name": "Panadería La Del Barrio",
+  "city": "Artigas",
+  "country": "Uruguay",
+  "placeId": "ChIJl1y4tRmAn5URc-yjn-PG6jo",
+  "googleName": "Panadería Segunda Artigas",
+  "formattedAddress": "Av Gral Rondeau 2467, 11800 Montevideo, Departamento de Montevideo, Uruguay",
+  "phone": "2209 9171",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4245424279688309875",
+  "rating": 4.1,
+  "reviewCount": 168,
+  "coords": [
+    -34.8847066,
+    -56.193818
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:30 PM",
+    "Tuesday: 6:30 AM – 6:30 PM",
+    "Wednesday: 6:30 AM – 6:30 PM",
+    "Thursday: 6:30 AM – 6:30 PM",
+    "Friday: 6:30 AM – 6:30 PM",
+    "Saturday: 6:30 AM – 2:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-del-barrio-artigas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:09.894Z"
+}

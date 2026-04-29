@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-las-colinas-barcelona",
+  "name": "Panaderia Las Colinas",
+  "city": "Barcelona",
+  "country": "Venezuela",
+  "placeId": "ChIJDVs8GhFzLYwR37iZcsmM8eI",
+  "googleName": "Panaderia Las Colinas",
+  "formattedAddress": "5898+447, Av. Guzmán Lander, Barcelona 6001, Anzoátegui, Venezuela",
+  "phone": "0281-2868715",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16353006518797973727",
+  "rating": 4.1,
+  "reviewCount": 874,
+  "coords": [
+    10.1677949,
+    -64.684715
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:30 PM",
+    "Tuesday: 6:30 AM – 8:30 PM",
+    "Wednesday: 6:30 AM – 8:30 PM",
+    "Thursday: 6:30 AM – 8:30 PM",
+    "Friday: 6:30 AM – 8:30 PM",
+    "Saturday: 6:30 AM – 8:30 PM",
+    "Sunday: 6:45 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-las-colinas-barcelona/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:57:17.796Z"
+}

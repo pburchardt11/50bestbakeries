@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-costa-dorada-canelones",
+  "name": "Bakery Costa Dorada",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJBekz7FaIn5URXt5ePpozENI",
+  "googleName": "Bakery Costa Dorada",
+  "formattedAddress": "Avda. Giannattasio Km. 21,100 esquina, Río Sta. Lucía, 15000 Ciudad de la Costa, Departamento de Canelones, Uruguay",
+  "phone": "2682 2761",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15136655085156621918",
+  "rating": 4.6,
+  "reviewCount": 2033,
+  "coords": [
+    -34.8383745,
+    -55.9876374
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 1:00 PM, 4:00 – 8:00 PM",
+    "Wednesday: 7:30 AM – 1:00 PM, 4:00 – 8:00 PM",
+    "Thursday: 7:30 AM – 1:00 PM, 4:00 – 8:00 PM",
+    "Friday: 7:30 AM – 1:00 PM, 4:00 – 8:00 PM",
+    "Saturday: 7:30 AM – 1:30 PM, 4:00 – 8:00 PM",
+    "Sunday: 7:30 AM – 1:30 PM, 4:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-costa-dorada-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:55.935Z"
+}

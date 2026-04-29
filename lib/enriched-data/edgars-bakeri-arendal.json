@@ -1,0 +1,32 @@
+{
+  "slug": "edgars-bakeri-arendal",
+  "name": "Edgars Bakeri Arendal",
+  "city": "Arendal",
+  "country": "Norway",
+  "placeId": "ChIJx1LU3N6VR0YRDIc3dR9tgSI",
+  "googleName": "Edgars Bakeri Avd. Arendal",
+  "formattedAddress": "Peder Thomassons gate 8, 4836 Arendal, Norway",
+  "phone": "94 84 44 25",
+  "website": "http://edgars.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2486388451163211532",
+  "rating": 3.7,
+  "reviewCount": 40,
+  "coords": [
+    58.4602713,
+    8.765804800000002
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:00 PM",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/edgars-bakeri-arendal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:54.195Z"
+}

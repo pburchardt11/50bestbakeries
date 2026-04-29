@@ -1,0 +1,32 @@
+{
+  "slug": "vatra-calda-arad",
+  "name": "Vatra Calda",
+  "city": "Arad",
+  "country": "Romania",
+  "placeId": "ChIJG4dIolSZRUcREVcMR898SYM",
+  "googleName": "VATRA CALDA SRL - Brutarie artizanala",
+  "formattedAddress": "Calea Timișorii 55, Arad, Romania",
+  "phone": "0759 576 055",
+  "website": "https://www.facebook.com/vatracalda",
+  "googleMapsUrl": "https://maps.google.com/?cid=9460229721960503057",
+  "rating": 4.6,
+  "reviewCount": 323,
+  "coords": [
+    46.1525913,
+    21.3222424
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:30 PM",
+    "Tuesday: 9:00 AM – 5:30 PM",
+    "Wednesday: 9:00 AM – 5:30 PM",
+    "Thursday: 9:00 AM – 5:30 PM",
+    "Friday: 9:00 AM – 5:30 PM",
+    "Saturday: 9:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/vatra-calda-arad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:46.311Z"
+}

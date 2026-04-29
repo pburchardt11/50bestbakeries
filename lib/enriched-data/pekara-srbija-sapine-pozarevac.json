@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-srbija-sapine-pozarevac",
+  "name": "Pekara Srbija Sapine-Pozarevac",
+  "city": "Pozarevac",
+  "country": "Serbia",
+  "placeId": "ChIJcWRlEGjvUEcR_4FahAIE8Zc",
+  "googleName": "pekara\"Srbija\"",
+  "formattedAddress": "Šumadijska bb, Požarevac 12000, Serbia",
+  "phone": "064 4793043",
+  "website": "http://www.pekarasrbija.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10948536577971356159",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    44.6192102,
+    21.1808056
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 2:00 PM",
+    "Tuesday: 6:00 AM – 2:00 PM",
+    "Wednesday: 6:00 AM – 2:00 PM",
+    "Thursday: 6:00 AM – 2:00 PM",
+    "Friday: 6:00 AM – 2:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: 6:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-srbija-sapine-pozarevac/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:18:49.945Z"
+}

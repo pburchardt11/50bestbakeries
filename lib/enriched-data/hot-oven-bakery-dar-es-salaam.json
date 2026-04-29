@@ -1,0 +1,32 @@
+{
+  "slug": "hot-oven-bakery-dar-es-salaam",
+  "name": "Hot Oven Bakery",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJswHH34RPXBgRw7_ipytqn6U",
+  "googleName": "Royal Oven - Bakery",
+  "formattedAddress": "7698+C3W, Alesika St, Dar es Salaam, Tanzania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11934374273287897027",
+  "rating": 4.4,
+  "reviewCount": 85,
+  "coords": [
+    -6.731378899999999,
+    39.215188
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:30 PM",
+    "Tuesday: 7:00 AM – 10:30 PM",
+    "Wednesday: 7:00 AM – 10:30 PM",
+    "Thursday: 7:00 AM – 10:30 PM",
+    "Friday: 7:00 AM – 10:30 PM",
+    "Saturday: 7:00 AM – 10:30 PM",
+    "Sunday: 7:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hot-oven-bakery-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:48.449Z"
+}

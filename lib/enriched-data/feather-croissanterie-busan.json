@@ -1,0 +1,32 @@
+{
+  "slug": "feather-croissanterie-busan",
+  "name": "Feather Croissanterie",
+  "city": "Busan",
+  "country": "South Korea",
+  "placeId": "ChIJlSuWQ2XraDUR6i9Pe90AguE",
+  "googleName": "La Feuille Croissant Bakery 라푀유크로와상",
+  "formattedAddress": "South Korea, Busan, Busanjin District, Jungang-daero 680beonga-gil, 38 1층 111호",
+  "phone": null,
+  "website": "https://naver.me/Fu67fQyv",
+  "googleMapsUrl": "https://maps.google.com/?cid=16249551356762730474",
+  "rating": 4.6,
+  "reviewCount": 53,
+  "coords": [
+    35.1551399,
+    129.0614386
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 9:30 PM",
+    "Tuesday: 10:30 AM – 9:30 PM",
+    "Wednesday: 10:30 AM – 9:30 PM",
+    "Thursday: 10:30 AM – 9:30 PM",
+    "Friday: 10:30 AM – 9:30 PM",
+    "Saturday: 10:30 AM – 9:30 PM",
+    "Sunday: 10:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/feather-croissanterie-busan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:27:53.986Z"
+}

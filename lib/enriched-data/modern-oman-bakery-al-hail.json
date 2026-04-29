@@ -1,0 +1,32 @@
+{
+  "slug": "modern-oman-bakery-al-hail",
+  "name": "Modern Oman Bakery Al Hail",
+  "city": "السيب",
+  "country": "Oman",
+  "placeId": "ChIJLxukMgD9jT4R7yfdQXxN5wU",
+  "googleName": "Modern Oman Bakery Al Hail",
+  "formattedAddress": "Building No 6816, Block No 314, Way No1458, Sib 116, Oman",
+  "phone": "9916 7197",
+  "website": "https://www.modernomanbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=425393885886097391",
+  "rating": 3.8,
+  "reviewCount": 16,
+  "coords": [
+    23.6306391,
+    58.2335781
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:30 PM",
+    "Tuesday: 8:00 AM – 10:30 PM",
+    "Wednesday: 8:00 AM – 10:30 PM",
+    "Thursday: 8:00 AM – 10:30 PM",
+    "Friday: 9:00 AM – 12:00 PM",
+    "Saturday: 9:00 AM – 10:30 PM",
+    "Sunday: 8:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/modern-oman-bakery-al-hail/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:46:20.937Z"
+}

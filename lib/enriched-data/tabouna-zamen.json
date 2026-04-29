@@ -1,0 +1,32 @@
+{
+  "slug": "tabouna-zamen",
+  "name": "Tabouna Zamen",
+  "city": "الزهراء",
+  "country": "Tunisia",
+  "placeId": "ChIJGViB8RpJ_RIR0TH1TabdPVA",
+  "googleName": "Tabouna Zamen – Ezzahra",
+  "formattedAddress": "Rue 2 Mars 1934, Ez Zahra 2034, Tunisia",
+  "phone": "29 799 222",
+  "website": "https://tabounazamen.tn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5782021202955809233",
+  "rating": 4.4,
+  "reviewCount": 13,
+  "coords": [
+    36.7372733,
+    10.3108446
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tabouna-zamen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:46:17.982Z"
+}

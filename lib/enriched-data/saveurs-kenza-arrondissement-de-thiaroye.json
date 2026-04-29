@@ -1,0 +1,32 @@
+{
+  "slug": "saveurs-kenza-arrondissement-de-thiaroye",
+  "name": "Saveurs kenza",
+  "city": "Arrondissement de Thiaroye",
+  "country": "Senegal",
+  "placeId": "ChIJhfA7tHELwQ4R5zb-MFjBhTU",
+  "googleName": "Saveurs kenza",
+  "formattedAddress": "Thiaroye Azur, Dakar 17000, Senegal",
+  "phone": "78 291 42 34",
+  "website": "https://dev-saveurkenza.pantheonsite.io/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3856701240435947239",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    14.7421297,
+    -17.35971
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/saveurs-kenza-arrondissement-de-thiaroye/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:02.984Z"
+}

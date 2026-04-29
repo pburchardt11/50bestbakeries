@@ -1,0 +1,32 @@
+{
+  "slug": "thimons-konditori-aneby",
+  "name": "Thimons Konditori",
+  "city": "Aneby",
+  "country": "Sweden",
+  "placeId": "ChIJqaIJ2g8fWkYRqaL5n_U3nhM",
+  "googleName": "Thimons Konditori",
+  "formattedAddress": "Storgatan 50, 578 32 Aneby, Sweden",
+  "phone": "0380-413 39",
+  "website": "http://www.thimons.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1413628861131367081",
+  "rating": 4.2,
+  "reviewCount": 256,
+  "coords": [
+    57.8390157,
+    14.8184908
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thimons-konditori-aneby/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:07.498Z"
+}

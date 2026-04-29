@@ -1,0 +1,32 @@
+{
+  "slug": "al-rawda-bakeries-aleppo",
+  "name": "Al Rawda Bakeries",
+  "city": "Aleppo",
+  "country": "Syria",
+  "placeId": "ChIJ_0chpcv5LxUR-0aKMXKtDGw",
+  "googleName": "حلويات الروضة",
+  "formattedAddress": "648H+96Q, Aleppo, Syria",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7785788561785767675",
+  "rating": 3.8,
+  "reviewCount": 4,
+  "coords": [
+    36.2159746,
+    37.12811430000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-rawda-bakeries-aleppo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:22.037Z"
+}

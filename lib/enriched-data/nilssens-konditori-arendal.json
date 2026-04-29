@@ -1,0 +1,32 @@
+{
+  "slug": "nilssens-konditori-arendal",
+  "name": "Nilssens konditori",
+  "city": "Arendal",
+  "country": "Norway",
+  "placeId": "ChIJYxUrON2UR0YRLs8HaRJ-4qs",
+  "googleName": "Baker Jørgensen Alti Arendal",
+  "formattedAddress": "Vesterveien 4, 4836 Arendal, Norway",
+  "phone": "47 77 00 41",
+  "website": "http://www.bakerjorgensen.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12385600542758915886",
+  "rating": 3.8,
+  "reviewCount": 27,
+  "coords": [
+    58.45976409999999,
+    8.7636918
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/nilssens-konditori-arendal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:43.087Z"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "wendy-confiteria-comedor-asuncion",
+  "name": "Wendy Confiteria ( Comedor)",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJfy8TNrynXZQRHJ0M9JRSbZg",
+  "googleName": "Comedor Wendy",
+  "formattedAddress": "25 de Mayo 992 casi, Asunción 1902, Paraguay",
+  "phone": "0981 614408",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10983525865929612572",
+  "rating": 5,
+  "reviewCount": 7,
+  "coords": [
+    -25.2876024,
+    -57.62673659999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:55:20.277Z"
+}

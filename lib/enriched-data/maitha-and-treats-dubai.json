@@ -1,0 +1,32 @@
+{
+  "slug": "maitha-and-treats-dubai",
+  "name": "Maitha and Treats",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJCUuxSCQhyYgR2crtkkYmSqU",
+  "googleName": "Maitha and Treats",
+  "formattedAddress": "74545 - 168 Street 1B - Umm Suqeim Third - Umm Suqeim 3 - Dubai - United Arab Emirates",
+  "phone": "050 868 2441",
+  "website": "https://maithaandtreats.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11910374249089321689",
+  "rating": 4.9,
+  "reviewCount": 30,
+  "coords": [
+    25.1392981,
+    55.2028297
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:30 PM",
+    "Tuesday: 10:00 AM – 8:30 PM",
+    "Wednesday: 10:00 AM – 8:30 PM",
+    "Thursday: 10:00 AM – 8:30 PM",
+    "Friday: 10:00 AM – 8:30 PM",
+    "Saturday: 10:00 AM – 8:30 PM",
+    "Sunday: 10:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maitha-and-treats-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:48:59.935Z"
+}

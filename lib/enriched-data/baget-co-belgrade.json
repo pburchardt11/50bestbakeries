@@ -1,0 +1,32 @@
+{
+  "slug": "baget-co-belgrade",
+  "name": "BAGET&CO",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJ42hQQmt7WkcRyvxvleFACfs",
+  "googleName": "Bakery Baget & Co.",
+  "formattedAddress": "BW Aria, Bulevar Vudroa Vilsona 6, Beograd 11000, Serbia",
+  "phone": "011 7342360",
+  "website": "https://bagetandco.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18089060715929271498",
+  "rating": 4.4,
+  "reviewCount": 398,
+  "coords": [
+    44.8090318,
+    20.4512994
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baget-co-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:32.613Z"
+}

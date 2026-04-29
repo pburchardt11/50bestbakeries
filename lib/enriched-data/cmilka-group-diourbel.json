@@ -1,0 +1,32 @@
+{
+  "slug": "cmilka-group-diourbel",
+  "name": "Cmilka Group Diourbel",
+  "city": "Diourbel",
+  "country": "Senegal",
+  "placeId": "ChIJPUD5YPgX6g4RqEac460GbfY",
+  "googleName": "Chez Milka",
+  "formattedAddress": "Diourbel, Senegal",
+  "phone": "77 321 45 45",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17756856249709512360",
+  "rating": 4.1,
+  "reviewCount": 128,
+  "coords": [
+    14.6449592,
+    -16.2222476
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cmilka-group-diourbel/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:16:25.123Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "seb-s-bakery-horjul",
+  "name": "Seb's Bakery",
+  "city": "Horjul",
+  "country": "Slovenia",
+  "placeId": "ChIJrfTwLBjRekcRzTa99upzSzs",
+  "googleName": "Seb`s Bakery, Sebastjan Šibau s.p.",
+  "formattedAddress": "Stara cesta 13, 1354 Horjul, Slovenia",
+  "phone": "051 243 968",
+  "website": "https://www.instagram.com/sebs_bakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4272636124490184397",
+  "rating": 5,
+  "reviewCount": 19,
+  "coords": [
+    46.02324249999999,
+    14.3019726
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: Closed",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/seb-s-bakery-horjul/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:25:18.432Z"
+}

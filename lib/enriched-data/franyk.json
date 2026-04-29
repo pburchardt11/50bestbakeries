@@ -1,0 +1,32 @@
+{
+  "slug": "franyk",
+  "name": "Franyk",
+  "city": "Дніпро",
+  "country": "Ukraine",
+  "placeId": "ChIJvdDmnZ_j20ARDw00S9oid8s",
+  "googleName": "Франик Дніпро",
+  "formattedAddress": "Mykhaila Hrushevskoho St, 4, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+  "phone": "099 204 4525",
+  "website": "https://franyk-ua.choiceqr.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14661225432887856399",
+  "rating": 4.8,
+  "reviewCount": 460,
+  "coords": [
+    48.4625942,
+    35.0462306
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/franyk/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:45.217Z"
+}

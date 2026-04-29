@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-kod-nas-belgrade",
+  "name": "Pekara Kod nas",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJn0viEmtwWkcRHLwXnpwg_Yw",
+  "googleName": "Roštilj Kod Nas",
+  "formattedAddress": "Dr Milutina Ivkovića 2a, Beograd 11000, Serbia",
+  "phone": "061 2019000",
+  "website": "http://pekarakodnas.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10159312191457049628",
+  "rating": 4.2,
+  "reviewCount": 1161,
+  "coords": [
+    44.787979,
+    20.4653251
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-kod-nas-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:30.949Z"
+}

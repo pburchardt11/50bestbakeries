@@ -1,0 +1,32 @@
+{
+  "slug": "toko-roti-batticaloa",
+  "name": "Toko-Roti",
+  "city": "Batticaloa",
+  "country": "Sri Lanka",
+  "placeId": "ChIJB14zrlbN-joRY-N4hiaxA3k",
+  "googleName": "Candy Land Batticaloa",
+  "formattedAddress": "No. 603/39 5th Cross, Selvanayagam Rd, Batticaloa 30000, Sri Lanka",
+  "phone": "077 101 0641",
+  "website": "https://candyland.lk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8720008082542355299",
+  "rating": 5,
+  "reviewCount": 13,
+  "coords": [
+    7.729649,
+    81.68668149999999
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/toko-roti-batticaloa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:12.912Z"
+}

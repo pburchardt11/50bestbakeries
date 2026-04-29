@@ -1,0 +1,24 @@
+{
+  "slug": "bake-off-toshkent",
+  "name": "Bake off",
+  "city": "Toshkent",
+  "country": "Uzbekistan",
+  "placeId": "ChIJQZxxl5KNrjgRiLP-gpV09Mw",
+  "googleName": "Bake off",
+  "formattedAddress": "979P+429, 100190, Tashkent, Uzbekistan",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14768557263551378312",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    41.3677767,
+    69.2851046
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-off-toshkent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:55:27.214Z"
+}

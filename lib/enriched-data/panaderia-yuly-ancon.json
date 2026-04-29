@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-yuly-ancon",
+  "name": "Panadería YULY",
+  "city": "Ancon",
+  "country": "Peru",
+  "placeId": "ChIJjfFGNiPVBZERMO3VlZhkgBU",
+  "googleName": "Panadería YULY",
+  "formattedAddress": "C2, Ancón 07076, Peru",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1549348878327082288",
+  "rating": 3.7,
+  "reviewCount": 6,
+  "coords": [
+    -11.8131497,
+    -77.1309141
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-yuly-ancon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:56:15.158Z"
+}

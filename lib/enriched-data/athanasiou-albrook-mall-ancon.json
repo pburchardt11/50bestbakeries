@@ -1,0 +1,32 @@
+{
+  "slug": "athanasiou-albrook-mall-ancon",
+  "name": "Athanasiou | Albrook Mall",
+  "city": "Ancón",
+  "country": "Panama",
+  "placeId": "ChIJoccJOaKorI8RrhgMT6myx2M",
+  "googleName": "Athanasiou | Albrook Mall",
+  "formattedAddress": "Av. de la Amistad, Panamá, Provincia de Panamá, Panama",
+  "phone": "203-1010",
+  "website": "http://www.athanasioupastry.com.pa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7189911770365696174",
+  "rating": 4.3,
+  "reviewCount": 703,
+  "coords": [
+    8.9728979,
+    -79.5535803
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 7:30 PM",
+    "Tuesday: 9:30 AM – 7:30 PM",
+    "Wednesday: 9:30 AM – 7:30 PM",
+    "Thursday: 9:30 AM – 7:30 PM",
+    "Friday: 9:30 AM – 7:30 PM",
+    "Saturday: 11:00 AM – 7:30 PM",
+    "Sunday: 9:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/athanasiou-albrook-mall-ancon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:51:38.491Z"
+}

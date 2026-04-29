@@ -1,0 +1,32 @@
+{
+  "slug": "al-hatab-bakery-al-khobar",
+  "name": "Al Hatab Bakery",
+  "city": "Al Khobar",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJm87n8lrpST4Re0PcyQ8WbJE",
+  "googleName": "Alhatab Bakery",
+  "formattedAddress": "4844 Prince Faisal Bin Fahd Road, Al Hizam Al Akhdar, Al Khobar 34433, Saudi Arabia",
+  "phone": "9200 02281",
+  "website": "https://alhatab.com.sa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10478774690051277691",
+  "rating": 4.3,
+  "reviewCount": 1666,
+  "coords": [
+    26.3036894,
+    50.20461539999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 1:00 AM",
+    "Saturday: 6:00 AM – 1:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-hatab-bakery-al-khobar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:13:30.651Z"
+}

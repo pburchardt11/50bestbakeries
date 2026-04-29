@@ -1,0 +1,32 @@
+{
+  "slug": "pich",
+  "name": "«Pich»",
+  "city": "Дніпро",
+  "country": "Ukraine",
+  "placeId": "ChIJ9YRNWgTj20ARViexeAzbb7E",
+  "googleName": "«Pich» хліб спот",
+  "formattedAddress": "Volodymyra Monomakha, 21, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+  "phone": "075 111 2665",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12785678713739093846",
+  "rating": 4.8,
+  "reviewCount": 66,
+  "coords": [
+    48.46819439999999,
+    35.0462266
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pich/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:57.213Z"
+}

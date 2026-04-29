@@ -1,0 +1,32 @@
+{
+  "slug": "maloni-s-pizza-and-more-paramaribo",
+  "name": "Maloni’s pizza and more",
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "placeId": "ChIJI2mcLwDLCY0Rc7NFVrrb5Ao",
+  "googleName": "Maloni’s pizza and more",
+  "formattedAddress": "Nieuw Weergevondenweg 183, Paramaribo, Suriname",
+  "phone": "810-3746",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=784993828427117427",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    5.7911413,
+    -55.21063669999999
+  ],
+  "openingHours": [
+    "Monday: 4:00 PM – 12:00 AM",
+    "Tuesday: 4:00 PM – 12:00 AM",
+    "Wednesday: 4:00 PM – 12:00 AM",
+    "Thursday: 4:00 PM – 12:00 AM",
+    "Friday: 4:00 PM – 12:00 AM",
+    "Saturday: 4:00 PM – 12:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maloni-s-pizza-and-more-paramaribo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:32:20.354Z"
+}

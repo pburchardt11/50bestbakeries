@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-duquesa-araure",
+  "name": "Panaderia La Duquesa",
+  "city": "Araure",
+  "country": "Venezuela",
+  "placeId": "ChIJnwVrX3PBfY4RtXxCq1vlTzU",
+  "googleName": "Panaderia La Duquesa",
+  "formattedAddress": "HQ5M+3XH, Araure 3303, Portuguesa, Venezuela",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3841541189048368309",
+  "rating": 4.1,
+  "reviewCount": 394,
+  "coords": [
+    9.5576987,
+    -69.2150078
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-duquesa-araure/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:57:09.214Z"
+}

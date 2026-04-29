@@ -1,0 +1,32 @@
+{
+  "slug": "bakers-inn-retail-stores-chitungwiza",
+  "name": "Bakers Inn Retail Stores",
+  "city": "Chitungwiza",
+  "country": "Zimbabwe",
+  "placeId": "ChIJcYxyiQelMRkRGlDv-pHFre4",
+  "googleName": "Bakers Inn Reliance House",
+  "formattedAddress": "Seke Rd, Chitungwiza, Zimbabwe",
+  "phone": "073 120 0485",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17198619782768709658",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -18.0101366,
+    31.1031145
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-inn-retail-stores-chitungwiza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:01:04.467Z"
+}

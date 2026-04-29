@@ -1,0 +1,32 @@
+{
+  "slug": "pro",
+  "name": "Pro",
+  "city": "Днепр",
+  "country": "Ukraine",
+  "placeId": "ChIJ20Z5qOfi20AR5eZe29oh_Jk",
+  "googleName": "Grand Hotel Ukraine",
+  "formattedAddress": "Dmytra Yavornytskoho Ave, 67 К, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+  "phone": "093 309 0201",
+  "website": "http://www.grand-hotel-ukraine.dp.ua/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11095780805801076453",
+  "rating": 4.3,
+  "reviewCount": 441,
+  "coords": [
+    48.4651772,
+    35.0437122
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "Laid-back quarters in a casual hotel featuring a restaurant & a spa, plus a fitness center.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:32.186Z"
+}

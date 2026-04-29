@@ -1,0 +1,32 @@
+{
+  "slug": "roma-cafe-bakery",
+  "name": "ROMA Café & Bakery",
+  "city": "ירושלים",
+  "country": "Palestine",
+  "placeId": "ChIJ_6_1EHopAxURPCbuVXvMAY4",
+  "googleName": "Pizza Roma",
+  "formattedAddress": "طريق اريحا، القدس",
+  "phone": "052-227-6306",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10232684658457191996",
+  "rating": 4.7,
+  "reviewCount": 41,
+  "coords": [
+    31.773065,
+    35.2495643
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 2:00 AM",
+    "Tuesday: 10:00 AM – 2:00 AM",
+    "Wednesday: 10:00 AM – 2:00 AM",
+    "Thursday: 10:00 AM – 2:00 AM",
+    "Friday: 10:00 AM – 2:30 AM",
+    "Saturday: 10:00 AM – 2:00 AM",
+    "Sunday: 10:00 AM – 2:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/roma-cafe-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:51:12.464Z"
+}

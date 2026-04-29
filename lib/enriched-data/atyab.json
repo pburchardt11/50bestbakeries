@@ -1,0 +1,32 @@
+{
+  "slug": "atyab",
+  "name": "Atyab",
+  "city": "بركاء",
+  "country": "Oman",
+  "placeId": "ChIJSdnE5v3ajT4RHVpwB5aQYDo",
+  "googleName": "ATYAB FOOD INDUSTRIES",
+  "formattedAddress": "طريق مسقط السريع، مسقط، Oman",
+  "phone": "26 881444",
+  "website": "http://atyabfoodindustries.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4206521026008341021",
+  "rating": 4.2,
+  "reviewCount": 192,
+  "coords": [
+    23.6283411,
+    57.8697575
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:30 AM",
+    "Tuesday: 8:00 AM – 4:30 AM",
+    "Wednesday: 8:00 AM – 4:30 AM",
+    "Thursday: 8:00 AM – 4:30 AM",
+    "Friday: Closed",
+    "Saturday: Closed",
+    "Sunday: 8:00 AM – 4:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/atyab/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:46:48.079Z"
+}

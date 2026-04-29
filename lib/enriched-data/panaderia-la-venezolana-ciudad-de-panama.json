@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-venezolana-ciudad-de-panama",
+  "name": "Panaderia La Venezolana",
+  "city": "Ciudad de Panamá",
+  "country": "Panama",
+  "placeId": "ChIJF-2ZMLWorI8R3wSrkIm-7CI",
+  "googleName": "Panaderia La Venezolana",
+  "formattedAddress": "C. 14 Oeste, Panamá, Provincia de Panamá, Panama",
+  "phone": "228-7642",
+  "website": "https://instagram.com/panaderialavenezolana",
+  "googleMapsUrl": "https://maps.google.com/?cid=2516595789840188639",
+  "rating": 4.2,
+  "reviewCount": 19,
+  "coords": [
+    8.9530692,
+    -79.53975559999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: 6:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-la-venezolana-ciudad-de-panama/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:24.126Z"
+}

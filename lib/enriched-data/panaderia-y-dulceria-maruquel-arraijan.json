@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-dulceria-maruquel-arraijan",
+  "name": "Panaderia y Dulceria Maruquel",
+  "city": "Arraiján",
+  "country": "Panama",
+  "placeId": "ChIJHQME7xijrI8RjwuD6qiRUz4",
+  "googleName": "Panadería y Dulcería Maruquel",
+  "formattedAddress": "Arraiján Cabecera, frente a la Parroquia San Nicolás de, C. El Pescao, Arraiján, Provincia de Panamá Oeste, Panama",
+  "phone": "6541-3118",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4491093408093506447",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    8.951074499999999,
+    -79.6530944
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:00 PM",
+    "Tuesday: 5:00 AM – 7:00 PM",
+    "Wednesday: 5:00 AM – 7:00 PM",
+    "Thursday: 5:00 AM – 7:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 5:00 AM – 12:00 PM",
+    "Sunday: 5:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-y-dulceria-maruquel-arraijan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:51:45.721Z"
+}

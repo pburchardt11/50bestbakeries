@@ -1,0 +1,32 @@
+{
+  "slug": "brutaria-natur-aiud",
+  "name": "Brutaria Natur",
+  "city": "Aiud",
+  "country": "Romania",
+  "placeId": "ChIJ02uo2S9XSUcRUeuV1SZLtq8",
+  "googleName": "Brutaria Natur",
+  "formattedAddress": "515200 Aiud, Romania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12661390032562940753",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    46.3105406,
+    23.72755
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/brutaria-natur-aiud/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:10.631Z"
+}

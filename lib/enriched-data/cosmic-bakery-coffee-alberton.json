@@ -1,0 +1,32 @@
+{
+  "slug": "cosmic-bakery-coffee-alberton",
+  "name": "Cosmic Bakery & Coffee",
+  "city": "Alberton",
+  "country": "South Africa",
+  "placeId": "ChIJoXHOnAcQlR4Rc3d7ztFETFo",
+  "googleName": "Cosmic Bakery & Coffee",
+  "formattedAddress": "18, Trust Centre, 18 Penzance St & Voortrekker Rd, New Redruth, Johannesburg, 1450, South Africa",
+  "phone": "011 027 5656",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6506651229546575731",
+  "rating": 3,
+  "reviewCount": 1,
+  "coords": [
+    -26.268148,
+    28.121282
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 10:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cosmic-bakery-coffee-alberton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:26:33.689Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "simit-saray-dubai",
+  "name": "Simit Sarayı",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJJ6QolCBtXz4RTHGE6R5BwpM",
+  "googleName": "Simit Sarayi",
+  "formattedAddress": "Emaar Dubai Meadows Mall - Al Thanyah Fourth - Dubai - United Arab Emirates",
+  "phone": "04 298 2329",
+  "website": "http://www.simitsarayi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10647144070079869260",
+  "rating": 4.1,
+  "reviewCount": 193,
+  "coords": [
+    25.0639375,
+    55.1579788
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/simit-saray-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:48:41.529Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "cuyiwaffles-asuncion",
+  "name": "Cuyiwaffles",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJ15WZ6z0JXZQRkHCY2BNkDDY",
+  "googleName": "Cuyiwaffles",
+  "formattedAddress": "Av. Costanera Sur, Asunción 001306, Paraguay",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3894597814169661584",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -25.3439898,
+    -57.641904
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 1:00 – 6:00 PM",
+    "Sunday: 1:30 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cuyiwaffles-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:54:04.979Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "beard-papa-s-geylang",
+  "name": "Beard Papa's",
+  "city": "Geylang",
+  "country": "Singapore",
+  "placeId": "ChIJPSDRrhkY2jERKqKAwTcC96Y",
+  "googleName": "Beard Papa's - SingPost Centre",
+  "formattedAddress": "SingPost Centre, # B1-161, 10 Eunos Rd 8, Singapore 408600",
+  "phone": "6221 4831",
+  "website": "http://www.beardpapa.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12031087368036459050",
+  "rating": 3.7,
+  "reviewCount": 34,
+  "coords": [
+    1.3185514,
+    103.8940735
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 8:45 PM",
+    "Tuesday: 11:00 AM – 8:45 PM",
+    "Wednesday: 11:00 AM – 8:45 PM",
+    "Thursday: 11:00 AM – 8:45 PM",
+    "Friday: 11:00 AM – 8:45 PM",
+    "Saturday: 11:00 AM – 8:45 PM",
+    "Sunday: 11:00 AM – 8:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beard-papa-s-geylang/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:36.358Z"
+}

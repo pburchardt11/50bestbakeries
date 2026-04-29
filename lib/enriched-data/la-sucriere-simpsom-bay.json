@@ -1,0 +1,32 @@
+{
+  "slug": "la-sucriere-simpsom-bay",
+  "name": "La Sucriere",
+  "city": "Simpsom Bay",
+  "country": "Sint Maarten",
+  "placeId": "ChIJY4J43KJuDowRyaEmiie2tZI",
+  "googleName": "La Sucriere",
+  "formattedAddress": "130 Welfare Rd, Simpson Bay, Sint Maarten",
+  "phone": "(721) 544-3549",
+  "website": "http://www.la-sucriere.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10571555981259874761",
+  "rating": 4.5,
+  "reviewCount": 778,
+  "coords": [
+    18.0319035,
+    -63.0878781
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-sucriere-simpsom-bay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:21:31.138Z"
+}

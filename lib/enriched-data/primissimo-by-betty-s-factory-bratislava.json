@@ -1,0 +1,32 @@
+{
+  "slug": "primissimo-by-betty-s-factory-bratislava",
+  "name": "Primissimo by Betty's Factory",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJDUWKBqKJbEcRGc2fLLMaPSE",
+  "googleName": "Primissimo by Bettys",
+  "formattedAddress": "Mierová 2084/109, 821 05 Bratislava-Ružinov, Slovakia",
+  "phone": "0910 421 221",
+  "website": "http://www.primissimo.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2395099933681110297",
+  "rating": 4.9,
+  "reviewCount": 20,
+  "coords": [
+    48.1489182,
+    17.1770007
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 1:00 PM",
+    "Tuesday: 10:00 AM – 1:00 PM",
+    "Wednesday: 10:00 AM – 1:00 PM",
+    "Thursday: 10:00 AM – 1:00 PM",
+    "Friday: 10:00 AM – 1:00 PM",
+    "Saturday: 8:30 – 10:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/primissimo-by-betty-s-factory-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:29.936Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "hot-loaf-bakery-ltd-kampala",
+  "name": "Hot Loaf Bakery Ltd",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJZWN-mY27fRcRpu6N26cdwKY",
+  "googleName": "Hotloaf Bakery",
+  "formattedAddress": "Plot # 89 Jinja Road, Kampala, Uganda",
+  "phone": "0200 903402",
+  "website": "https://hotloaf.ug/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12015636412604739238",
+  "rating": 4.1,
+  "reviewCount": 176,
+  "coords": [
+    0.3227586,
+    32.6015881
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hot-loaf-bakery-ltd-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:50:50.735Z"
+}

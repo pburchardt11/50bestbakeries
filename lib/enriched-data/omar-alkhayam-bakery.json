@@ -1,0 +1,32 @@
+{
+  "slug": "omar-alkhayam-bakery",
+  "name": "Omar AlKhayam Bakery",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJ3QTkEkPFRT4RAgX_gMhftNc",
+  "googleName": "Omar Alkhayam Bakery",
+  "formattedAddress": "Wadi Rasheeda St, Doha, Qatar",
+  "phone": "4008 1765",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15543153528724718850",
+  "rating": 4.4,
+  "reviewCount": 277,
+  "coords": [
+    25.2725871,
+    51.5240795
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/omar-alkhayam-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:55.870Z"
+}

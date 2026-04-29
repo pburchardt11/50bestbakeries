@@ -1,0 +1,32 @@
+{
+  "slug": "au-bon-pain-amphoe-bang-lamung",
+  "name": "Au Bon Pain",
+  "city": "Amphoe Bang Lamung",
+  "country": "Thailand",
+  "placeId": "ChIJA1GtcluVAjER7-HtwmbYdG4",
+  "googleName": "Au Bon Pain",
+  "formattedAddress": "Little walk pattaya 8/111, เมืองพัทยา อำเภอบางละมุง ชลบุรี 20150, Thailand",
+  "phone": "065 940 7115",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7959224377339142639",
+  "rating": 4.2,
+  "reviewCount": 156,
+  "coords": [
+    12.9360133,
+    100.9028486
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 6:30 PM",
+    "Sunday: 7:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": "Counter-service chain cafe serving soups, salads & sandwiches along with breads & other baked goods.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-bon-pain-amphoe-bang-lamung/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:40:42.154Z"
+}

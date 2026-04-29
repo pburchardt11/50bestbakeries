@@ -1,0 +1,32 @@
+{
+  "slug": "sweets-palace-bakery",
+  "name": "Sweets Palace Bakery",
+  "city": "السيب",
+  "country": "Oman",
+  "placeId": "ChIJtwSwqGzkjT4Rsp1-rY3YYhc",
+  "googleName": "Sweets Palace Bakery",
+  "formattedAddress": "M43C+GM2, Seeb, Oman",
+  "phone": "9755 9855",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1685147313602731442",
+  "rating": 3.7,
+  "reviewCount": 55,
+  "coords": [
+    23.6537625,
+    58.12164059999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/sweets-palace-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:46:38.747Z"
+}

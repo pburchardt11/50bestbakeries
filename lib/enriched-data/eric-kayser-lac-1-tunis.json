@@ -1,0 +1,32 @@
+{
+  "slug": "eric-kayser-lac-1-tunis",
+  "name": "Eric Kayser - Lac 1",
+  "city": "Tunis",
+  "country": "Tunisia",
+  "placeId": "ChIJ4fejoUE1_RIRXVYdpkQ_ndQ",
+  "googleName": "Eric Kayser Lac1",
+  "formattedAddress": "Tunis, Tunisia",
+  "phone": "28 918 572",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15320471071461561949",
+  "rating": 3,
+  "reviewCount": 369,
+  "coords": [
+    36.8356276,
+    10.2418034
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eric-kayser-lac-1-tunis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:45:44.553Z"
+}

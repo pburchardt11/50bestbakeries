@@ -1,0 +1,32 @@
+{
+  "slug": "rdm-boulangerie-patisserie-bras-panon",
+  "name": "RDM boulangerie patisserie",
+  "city": "Bras-Panon",
+  "country": "Réunion",
+  "placeId": "ChIJtUoE37ZieCERpHdXyMJ79SA",
+  "googleName": "Boulangerie patisserie PARIS Frédéric",
+  "formattedAddress": "72-74 Route Nationale 2002, Bras-Panon 97412, Réunion",
+  "phone": "0262 51 59 65",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2374940455022852004",
+  "rating": 4.2,
+  "reviewCount": 289,
+  "coords": [
+    -20.9951617,
+    55.67724279999999
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:00 PM",
+    "Tuesday: 5:00 AM – 7:00 PM",
+    "Wednesday: 5:00 AM – 7:00 PM",
+    "Thursday: 5:00 AM – 7:00 PM",
+    "Friday: 5:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 5:00 AM – 12:15 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rdm-boulangerie-patisserie-bras-panon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:46.815Z"
+}

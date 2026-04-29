@@ -1,0 +1,32 @@
+{
+  "slug": "piece-of-cake-dubai",
+  "name": "Piece Of Cake",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJk6ddd0ZhXz4R-fI2xn38GxQ",
+  "googleName": "The House of Cakes Bakery Dubai",
+  "formattedAddress": "49WP+PR2 Al Jaber Building - Warsan Fourth - International City Phase(2) - Dubai - United Arab Emirates",
+  "phone": "052 669 9670",
+  "website": "https://houseofcakes-dubai.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1449029322256347897",
+  "rating": 4.6,
+  "reviewCount": 573,
+  "coords": [
+    25.1468532,
+    55.38708
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Bakery specialising in creative, made-to-order celebration cakes, plus cookies and cupcakes.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/piece-of-cake-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:48:08.125Z"
+}

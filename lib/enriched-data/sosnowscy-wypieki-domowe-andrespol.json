@@ -1,0 +1,32 @@
+{
+  "slug": "sosnowscy-wypieki-domowe-andrespol",
+  "name": "Sosnowscy Wypieki Domowe",
+  "city": "Andrespol",
+  "country": "Poland",
+  "placeId": "ChIJwRL6Fq7SG0cRpfs3dOZ0s3o",
+  "googleName": "Sosnowscy Wypieki Domowe",
+  "formattedAddress": "Mazowiecka 10, 95-020 Nowy Bedoń, Poland",
+  "phone": "42 213 43 71",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8841539026599541669",
+  "rating": 4.8,
+  "reviewCount": 240,
+  "coords": [
+    51.7380082,
+    19.6546426
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 10:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/sosnowscy-wypieki-domowe-andrespol/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:57:12.643Z"
+}

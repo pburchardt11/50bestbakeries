@@ -1,0 +1,32 @@
+{
+  "slug": "zain-bakery-ramallah",
+  "name": "ZAIN Bakery",
+  "city": "Ramallah",
+  "country": "Palestine",
+  "placeId": "ChIJdUa9doArHRUReJYf0qrdgG8",
+  "googleName": "ZAIN Bakery",
+  "formattedAddress": "خليل السكاكيني 9, Ramallah",
+  "phone": "02 295 9262",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8034665460968429176",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    31.9005062,
+    35.2003887
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: Closed",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/zain-bakery-ramallah/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:50:50.092Z"
+}

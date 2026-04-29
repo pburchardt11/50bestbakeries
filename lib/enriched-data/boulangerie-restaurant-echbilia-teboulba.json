@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-restaurant-echbilia-teboulba",
+  "name": "Boulangerie + Restaurant Echbilia",
+  "city": "Teboulba",
+  "country": "Tunisia",
+  "placeId": "ChIJW7OcRP0XAhMRIKzol9dpWLE",
+  "googleName": "Pâtisserie FLANID Teboulba",
+  "formattedAddress": "Pâtisserie FLANID rue fadhline teboulba, 0 5080, Tunisia",
+  "phone": "41 663 663",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12779080317351275552",
+  "rating": 4,
+  "reviewCount": 3,
+  "coords": [
+    35.6430105,
+    10.9722958
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:00 PM",
+    "Tuesday: 8:30 AM – 8:00 PM",
+    "Wednesday: 8:30 AM – 8:00 PM",
+    "Thursday: 8:30 AM – 8:00 PM",
+    "Friday: 8:30 AM – 8:00 PM",
+    "Saturday: 8:30 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-restaurant-echbilia-teboulba/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:45:31.806Z"
+}

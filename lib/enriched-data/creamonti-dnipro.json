@@ -1,0 +1,32 @@
+{
+  "slug": "creamonti-dnipro",
+  "name": "Creamonti",
+  "city": "Dnipro",
+  "country": "Ukraine",
+  "placeId": "ChIJQ7jnqczi20ARyJgCPafHkjM",
+  "googleName": "Aquarium of Freshwater Fish",
+  "formattedAddress": "Monastyrskyi ostriv St, 12, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+  "phone": "056 766 4969",
+  "website": "http://www.dnu.dp.ua/view/akvarium",
+  "googleMapsUrl": "https://maps.google.com/?cid=3716252163631126728",
+  "rating": 4.1,
+  "reviewCount": 2223,
+  "coords": [
+    48.4605006,
+    35.0814271
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 12:00 – 5:00 PM",
+    "Thursday: 12:00 – 5:00 PM",
+    "Friday: 12:00 – 5:00 PM",
+    "Saturday: 12:00 – 5:00 PM",
+    "Sunday: 12:00 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/creamonti-dnipro/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:50:53.393Z"
+}

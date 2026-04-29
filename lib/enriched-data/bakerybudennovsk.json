@@ -1,0 +1,32 @@
+{
+  "slug": "bakerybudennovsk",
+  "name": "BakeryBudennovsk",
+  "city": "Будённовский район",
+  "country": "Russia",
+  "placeId": "ChIJo2KR7Q3XVUARqF4G2SJUplU",
+  "googleName": "Panda Market",
+  "formattedAddress": "Leninskaya Ulitsa, 61, Budyonnovsk, Stavropolskiy kray, Russia, 356801",
+  "phone": "8 (800) 600-65-63",
+  "website": "http://pandamarket.ru/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6171712848004538024",
+  "rating": 4.1,
+  "reviewCount": 114,
+  "coords": [
+    44.784094,
+    44.15760849999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/bakerybudennovsk/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:51.615Z"
+}

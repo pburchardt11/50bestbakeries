@@ -1,0 +1,32 @@
+{
+  "slug": "mikrobageriet-arendal",
+  "name": "Mikrobageriet",
+  "city": "Arendal",
+  "country": "Norway",
+  "placeId": "ChIJl_xQcc-VR0YRCks-b7UrBg8",
+  "googleName": "Mikrobageriet",
+  "formattedAddress": "Krøgenesveien, 4841 Arendal, Norway",
+  "phone": "90 79 56 12",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1082600818684611338",
+  "rating": 4.4,
+  "reviewCount": 7,
+  "coords": [
+    58.47408279999999,
+    8.8159484
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/mikrobageriet-arendal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:57.581Z"
+}

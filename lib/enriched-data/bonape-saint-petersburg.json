@@ -1,0 +1,32 @@
+{
+  "slug": "bonape-saint-petersburg",
+  "name": "Bonapé",
+  "city": "Saint Petersburg",
+  "country": "Russia",
+  "placeId": "ChIJe21F9bkxlkYRnAEAd1WoTP8",
+  "googleName": "BonApé",
+  "formattedAddress": "Naberezhnaya Reki Smolenki, 3 корпус 2, Sankt-Peterburg, Russia, 199178",
+  "phone": "8 (911) 982-07-47",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18396263662923809180",
+  "rating": 4.3,
+  "reviewCount": 11,
+  "coords": [
+    59.94944439999999,
+    30.2623434
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/bonape-saint-petersburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:07.496Z"
+}

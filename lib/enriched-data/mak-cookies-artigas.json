@@ -1,0 +1,32 @@
+{
+  "slug": "mak-cookies-artigas",
+  "name": "MAK Cookies",
+  "city": "Artigas",
+  "country": "Uruguay",
+  "placeId": "ChIJp0d-GTQJq5URAczm5q6Wimc",
+  "googleName": "MAK Cookies",
+  "formattedAddress": "Av. Cnel.Carlos Lecueder 712, 55000 Artigas, Departamento de Artigas, Uruguay",
+  "phone": "098 270 509",
+  "website": "https://www.instagram.com/makcookies1?igsh=MWU3eTgwbTg2MG9yMw==",
+  "googleMapsUrl": "https://maps.google.com/?cid=7460941410635009025",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    -30.4059825,
+    -56.4712183
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 1:30 PM, 4:00 – 8:00 PM",
+    "Tuesday: 12:00 – 1:30 PM, 4:00 – 8:00 PM",
+    "Wednesday: 12:00 – 1:30 PM, 4:00 – 8:00 PM",
+    "Thursday: 12:00 – 1:30 PM, 4:00 – 8:00 PM",
+    "Friday: 12:00 – 1:30 PM, 4:00 – 8:00 PM",
+    "Saturday: 4:00 – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mak-cookies-artigas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:20.720Z"
+}

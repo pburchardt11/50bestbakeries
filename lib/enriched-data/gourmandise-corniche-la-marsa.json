@@ -1,0 +1,32 @@
+{
+  "slug": "gourmandise-corniche-la-marsa",
+  "name": "Gourmandise Corniche",
+  "city": "La Marsa",
+  "country": "Tunisia",
+  "placeId": "ChIJxXYTqY604hIRvfgRhlfRTuU",
+  "googleName": "Gourmandise La Marsa",
+  "formattedAddress": "Av. Habib Bourguiba, Marsa, Tunisia",
+  "phone": "23 570 000",
+  "website": "http://www.gourmandise.com.tn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16523374256710613181",
+  "rating": 3.8,
+  "reviewCount": 411,
+  "coords": [
+    36.8852565,
+    10.3294662
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gourmandise-corniche-la-marsa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:45:02.055Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "delicias-don-chemo-candelaria",
+  "name": "Delicias Don Chemo",
+  "city": "Candelaria",
+  "country": "Panama",
+  "placeId": "ChIJ3cls3U41rI8RdTEVDPej1tQ",
+  "googleName": "Delicias Don Chemo",
+  "formattedAddress": "Carr. Panamericana, Río Grande, Provincia de Coclé, Panama",
+  "phone": "6371-7776",
+  "website": "https://deliciasdonchemo.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15336625862511767925",
+  "rating": 4.5,
+  "reviewCount": 62,
+  "coords": [
+    8.4335738,
+    -80.48900490000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 8:30 AM – 3:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/delicias-don-chemo-candelaria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:52:21.380Z"
+}

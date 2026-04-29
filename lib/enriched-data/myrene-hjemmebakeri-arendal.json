@@ -1,0 +1,32 @@
+{
+  "slug": "myrene-hjemmebakeri-arendal",
+  "name": "Myrene Hjemmebakeri",
+  "city": "Arendal",
+  "country": "Norway",
+  "placeId": "ChIJWeU8SJWUR0YRLSTopP-zkPw",
+  "googleName": "Myrene Hjemmebakeri",
+  "formattedAddress": "Kloppenebakken 12, 4847 Arendal, Norway",
+  "phone": "90 22 49 64",
+  "website": "http://www.myrenehjemmebakeri.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18199244004768883757",
+  "rating": 4.4,
+  "reviewCount": 116,
+  "coords": [
+    58.46309129999999,
+    8.7496572
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/myrene-hjemmebakeri-arendal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:49.707Z"
+}

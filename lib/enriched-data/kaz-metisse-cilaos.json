@@ -1,0 +1,32 @@
+{
+  "slug": "kaz-metisse-cilaos",
+  "name": "Kaz Metisse",
+  "city": "Cilaos",
+  "country": "Réunion",
+  "placeId": "ChIJo-JC2XSdgiERgDb-sGNlxe4",
+  "googleName": "Kaz Métisse (Chez Tatie Rosine)",
+  "formattedAddress": "68 48 Rue du Pere Boiteau, Cilaos 97413, Réunion",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17205269430284465792",
+  "rating": 4.8,
+  "reviewCount": 462,
+  "coords": [
+    -21.1354461,
+    55.4702771
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kaz-metisse-cilaos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:51.764Z"
+}

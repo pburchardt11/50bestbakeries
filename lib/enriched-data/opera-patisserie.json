@@ -1,0 +1,32 @@
+{
+  "slug": "opera-patisserie",
+  "name": "Opera Patisserie",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJUd_XmsPaRT4R2WhYc5ts3gg",
+  "googleName": "Opera Patisserie",
+  "formattedAddress": "343 Al Sadd St, Doha, Qatar",
+  "phone": "4442 8887",
+  "website": "http://www.operaqatar.qa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=639067612044093657",
+  "rating": 4.3,
+  "reviewCount": 798,
+  "coords": [
+    25.280436,
+    51.4986055
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 10:00 – 11:00 AM, 12:30 – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/opera-patisserie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:46.933Z"
+}

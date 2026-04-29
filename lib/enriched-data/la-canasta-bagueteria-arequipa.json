@@ -1,0 +1,32 @@
+{
+  "slug": "la-canasta-bagueteria-arequipa",
+  "name": "La Canasta Bagueteria",
+  "city": "Arequipa",
+  "country": "Peru",
+  "placeId": "ChIJ7XU2_lBKQpERFRj_1ZCx97c",
+  "googleName": "La Canasta",
+  "formattedAddress": "C. Jerusalén 115, Cercado De Arequipa 04001, Peru",
+  "phone": "(054) 287138",
+  "website": "http://www.lacanastabagueteria.pe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13256259263812016149",
+  "rating": 4.4,
+  "reviewCount": 99,
+  "coords": [
+    -16.3982115,
+    -71.53493279999999
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: 8:30 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/la-canasta-bagueteria-arequipa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:56:49.566Z"
+}

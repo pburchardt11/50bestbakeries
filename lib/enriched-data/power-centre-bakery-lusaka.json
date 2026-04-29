@@ -1,0 +1,32 @@
+{
+  "slug": "power-centre-bakery-lusaka",
+  "name": "Power Centre Bakery",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJbeK1C9fzQBkRqjTWzNkaNfY",
+  "googleName": "The Bakers Galore",
+  "formattedAddress": "24 Raphael Kombe Rd, Lusaka 10101, Zambia",
+  "phone": "095 5000490",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17741115829842752682",
+  "rating": 4.4,
+  "reviewCount": 220,
+  "coords": [
+    -15.4221958,
+    28.2987414
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 9:00 AM – 12:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/power-centre-bakery-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:00:09.241Z"
+}

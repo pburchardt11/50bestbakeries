@@ -1,0 +1,32 @@
+{
+  "slug": "bakers-inn-makoni-chitungwiza",
+  "name": "Bakers Inn Makoni",
+  "city": "Chitungwiza",
+  "country": "Zimbabwe",
+  "placeId": "ChIJBTteeeKXMRkRcMsjA-RTkTA",
+  "googleName": "Bakers Inn Makoni",
+  "formattedAddress": "Unnamed Road, Chitungwiza, Zimbabwe",
+  "phone": "073 120 0481",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3499670624213912432",
+  "rating": 3.5,
+  "reviewCount": 10,
+  "coords": [
+    -18.0156938,
+    31.1044646
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-inn-makoni-chitungwiza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:01:02.139Z"
+}

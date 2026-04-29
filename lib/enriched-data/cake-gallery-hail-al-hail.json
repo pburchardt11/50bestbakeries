@@ -1,0 +1,32 @@
+{
+  "slug": "cake-gallery-hail-al-hail",
+  "name": "Cake Gallery (Hail)",
+  "city": "Al Hail",
+  "country": "Oman",
+  "placeId": "ChIJ7cJWYNb8jT4RrV7EujA7lXY",
+  "googleName": "Sweet Gallery",
+  "formattedAddress": "Al Mazoon St, Sib, Oman",
+  "phone": "9090 1110",
+  "website": "https://www.google.com/url?sa=t&source=web&rct=j&url=http://sweetgalleryllc.com/&ved=2ahUKEwi4iofFzr7pAhVQ_qQKHV-0Cd4QFjADegQIAhAB&usg=AOvVaw0S8W1nIkqF-cg6VD-RsWID",
+  "googleMapsUrl": "https://maps.google.com/?cid=8544800948483284653",
+  "rating": 4.2,
+  "reviewCount": 118,
+  "coords": [
+    23.6153015,
+    58.1963157
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:55 PM",
+    "Tuesday: 7:00 AM – 11:55 PM",
+    "Wednesday: 7:00 AM – 11:55 PM",
+    "Thursday: 7:00 AM – 11:55 PM",
+    "Friday: 7:00 AM – 11:55 PM",
+    "Saturday: 7:00 AM – 11:55 PM",
+    "Sunday: 7:00 AM – 11:55 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cake-gallery-hail-al-hail/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:57.071Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-la-megrinoise-megrine",
+  "name": "Pâtisserie La Megrinoise",
+  "city": "Mégrine",
+  "country": "Tunisia",
+  "placeId": "ChIJ_ZDFQwo2_RIRkG4l6A9tcK4",
+  "googleName": "la mégrinoise",
+  "formattedAddress": "7 Avenue Habib Bourguiba Mégrine, Mégrine, Ben Arous 2033, Tunisia",
+  "phone": "71 432 777",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12569666475077758608",
+  "rating": 3.2,
+  "reviewCount": 105,
+  "coords": [
+    36.76783030000001,
+    10.2413837
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-la-megrinoise-megrine/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:45:14.927Z"
+}

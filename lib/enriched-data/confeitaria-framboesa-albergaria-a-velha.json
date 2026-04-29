@@ -1,0 +1,32 @@
+{
+  "slug": "confeitaria-framboesa-albergaria-a-velha",
+  "name": "Confeitaria Framboesa",
+  "city": "Albergaria-a-Velha",
+  "country": "Portugal",
+  "placeId": "ChIJX9qUDOd1Iw0RHT6ETTZIWrE",
+  "googleName": "Confeitaria Framboesa - Prato do dia",
+  "formattedAddress": "edifício, R. Padre Matos 9, 3850-091 Albergaria-a-Velha, Portugal",
+  "phone": "234 524 450",
+  "website": "http://confeitariaframboesa.pt/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12779606290683149853",
+  "rating": 4.3,
+  "reviewCount": 758,
+  "coords": [
+    40.6882105,
+    -8.4729502
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/confeitaria-framboesa-albergaria-a-velha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:58:32.411Z"
+}

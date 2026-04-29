@@ -1,0 +1,32 @@
+{
+  "slug": "baker-s-brew-river-valley",
+  "name": "Baker’s Brew",
+  "city": "River Valley",
+  "country": "Singapore",
+  "placeId": "ChIJzfbjYl8Z2jER_RTUH1-mKb8",
+  "googleName": "Baker's Brew @ Great World City",
+  "formattedAddress": "1 Kim Seng Promenade B1, K103, Singapore 237994",
+  "phone": "6235 1539",
+  "website": "https://www.bakersbrew.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13774723862775469309",
+  "rating": 4.8,
+  "reviewCount": 428,
+  "coords": [
+    1.2938788,
+    103.8317821
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:00 PM",
+    "Tuesday: 11:00 AM – 9:00 PM",
+    "Wednesday: 11:00 AM – 9:00 PM",
+    "Thursday: 11:00 AM – 9:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-s-brew-river-valley/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:57.737Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "d-alcolobre-abrantes",
+  "name": "D'Alcolobre",
+  "city": "Abrantes",
+  "country": "Portugal",
+  "placeId": "ChIJVU-ue2ZpGA0Rsx-HXKgaO90",
+  "googleName": "Trilho da Ribeira de Alcolobre",
+  "formattedAddress": "2205 Tramagal, Portugal",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15941364616417189811",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    39.412627,
+    -8.2616546
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/d-alcolobre-abrantes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:57:45.900Z"
+}

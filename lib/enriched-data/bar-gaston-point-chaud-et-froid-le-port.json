@@ -1,0 +1,24 @@
+{
+  "slug": "bar-gaston-point-chaud-et-froid-le-port",
+  "name": "Bar Gaston - Point Chaud et Froid",
+  "city": "Le Port",
+  "country": "Réunion",
+  "placeId": "ChIJmXXAK42JgiERCsfidpOaa2c",
+  "googleName": "Snack",
+  "formattedAddress": "Le Port 97420, Réunion",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7452219966560061194",
+  "rating": 3.6,
+  "reviewCount": 5,
+  "coords": [
+    -20.9363888,
+    55.30407340000001
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bar-gaston-point-chaud-et-froid-le-port/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:11:56.255Z"
+}

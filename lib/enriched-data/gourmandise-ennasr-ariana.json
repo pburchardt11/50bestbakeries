@@ -1,0 +1,32 @@
+{
+  "slug": "gourmandise-ennasr-ariana",
+  "name": "Gourmandise Ennasr",
+  "city": "Ariana",
+  "country": "Tunisia",
+  "placeId": "ChIJxQyeNFbL4hIRyvVrRmqz-_s",
+  "googleName": "Gourmandise",
+  "formattedAddress": "V59C+9GQ, Ariana, Tunisia",
+  "phone": "71 818 422",
+  "website": "http://www.gourmandise.com.tn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18157303591703672266",
+  "rating": 3.7,
+  "reviewCount": 121,
+  "coords": [
+    36.8684748,
+    10.1713507
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gourmandise-ennasr-ariana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:44:50.892Z"
+}

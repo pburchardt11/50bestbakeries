@@ -1,0 +1,32 @@
+{
+  "slug": "shabang-shabang-diego-martin",
+  "name": "Shabang Shabang",
+  "city": "Diego Martin",
+  "country": "Trinidad & Tobago",
+  "placeId": "ChIJx0kWGHoJNowREiQTI_rdVJ4",
+  "googleName": "Shabang Shabang",
+  "formattedAddress": "Unit no.11 Royal Palm Hotel Plaza #7, Saddle Road, Port of Spain, Trinidad and Tobago",
+  "phone": "(868) 342-6511",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11408987822436328466",
+  "rating": 4.7,
+  "reviewCount": 35,
+  "coords": [
+    10.6830259,
+    -61.52366479999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shabang-shabang-diego-martin/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:43:52.193Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "tasty-bakes-freetown",
+  "name": "Tasty Bakes",
+  "city": "Freetown",
+  "country": "Sierra Leone",
+  "placeId": "ChIJ_2YUrkvFBA8RM__rZAG9zk0",
+  "googleName": "Tasty Bakes",
+  "formattedAddress": "38 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "(099) 080888",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5606626399808651059",
+  "rating": 4,
+  "reviewCount": 11,
+  "coords": [
+    8.4831106,
+    -13.2683036
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tasty-bakes-freetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:15.769Z"
+}

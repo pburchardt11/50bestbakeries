@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-moskovskiy",
+  "name": "Cinnabon",
+  "city": "Moskovskiy",
+  "country": "Russia",
+  "placeId": "ChIJ6QuCKfmzSkERhsg-Dum-rdg",
+  "googleName": "Cinnabon",
+  "formattedAddress": "Chongarskiy Bul'var, 7, Moskva, Russia, 117556",
+  "phone": "8 (985) 394-88-11",
+  "website": "https://cinnabonrussia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15613345391339030662",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    55.6513595,
+    37.6123763
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cinnabon-moskovskiy/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:56.261Z"
+}

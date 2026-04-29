@@ -1,0 +1,32 @@
+{
+  "slug": "roggenart-beograd",
+  "name": "Roggenart",
+  "city": "Beograd",
+  "country": "Serbia",
+  "placeId": "ChIJZa7WK-h7WkcR--pg98FAyAo",
+  "googleName": "Gurme",
+  "formattedAddress": "Kraljice Marije 1, Beograd 11000, Serbia",
+  "phone": null,
+  "website": "https://www.instagram.com/gurme.beograd/",
+  "googleMapsUrl": "https://maps.google.com/?cid=776942137544600315",
+  "rating": 4.4,
+  "reviewCount": 193,
+  "coords": [
+    44.80956459999999,
+    20.4760592
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roggenart-beograd/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:52.268Z"
+}

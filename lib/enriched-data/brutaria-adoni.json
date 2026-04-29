@@ -1,0 +1,32 @@
+{
+  "slug": "brutaria-adoni",
+  "name": "Brutaria Adoni",
+  "city": "Adoni",
+  "country": "Romania",
+  "placeId": "ChIJI5f6N8O_R0cRF2LK1xud0oI",
+  "googleName": "Brutaria Adoni",
+  "formattedAddress": "Adoni nr. 273, 417571 Tarcea, Romania",
+  "phone": "0772 115 003",
+  "website": "https://brutariaadoni.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9426769712949912087",
+  "rating": 3.9,
+  "reviewCount": 29,
+  "coords": [
+    47.4280646,
+    22.1764372
+  ],
+  "openingHours": [
+    "Monday: 1:00 – 10:00 PM",
+    "Tuesday: 1:00 – 10:00 PM",
+    "Wednesday: 1:00 – 10:00 PM",
+    "Thursday: 1:00 – 10:00 PM",
+    "Friday: 1:00 – 10:00 PM",
+    "Saturday: 1:00 – 10:00 PM",
+    "Sunday: 1:00 – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/brutaria-adoni/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:04.951Z"
+}

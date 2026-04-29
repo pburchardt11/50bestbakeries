@@ -1,0 +1,32 @@
+{
+  "slug": "modern-oman-bakery",
+  "name": "Modern Oman Bakery",
+  "city": "صلالة",
+  "country": "Oman",
+  "placeId": "ChIJS10A0Ylg0T0R4iTtACeaVB0",
+  "googleName": "Modern Oman Bakery, Awqad | مخبز عمان الحديث",
+  "formattedAddress": "223R+J7V, Salalah, Oman",
+  "phone": "9916 7197",
+  "website": "https://modernomanbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2113483617453548770",
+  "rating": 4.2,
+  "reviewCount": 100,
+  "coords": [
+    17.0039885,
+    54.04039460000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:30 PM",
+    "Tuesday: 9:00 AM – 10:30 PM",
+    "Wednesday: 9:00 AM – 10:30 PM",
+    "Thursday: 9:00 AM – 10:30 PM",
+    "Friday: 9:00 AM – 10:30 PM",
+    "Saturday: 9:00 AM – 10:30 PM",
+    "Sunday: 9:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/modern-oman-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:47:57.137Z"
+}

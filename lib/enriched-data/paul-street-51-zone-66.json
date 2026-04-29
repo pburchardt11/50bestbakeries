@@ -1,0 +1,32 @@
+{
+  "slug": "paul-street-51-zone-66",
+  "name": "Paul",
+  "city": "Street 51, Zone 66",
+  "country": "Qatar",
+  "placeId": "ChIJs6KmbhTDRT4RxF2wlJbMXzM",
+  "googleName": "Paul",
+  "formattedAddress": "The Pearl، Doha, Qatar",
+  "phone": "4451 3065",
+  "website": "http://paularabia.com/?y_source=1_ODI2MTQ5MDktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://maps.google.com/?cid=3701902365833584068",
+  "rating": 4.4,
+  "reviewCount": 1366,
+  "coords": [
+    25.3698748,
+    51.5402849
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 – 11:30 AM, 12:30 – 11:00 PM",
+    "Saturday: 8:00 AM – 11:30 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/paul-street-51-zone-66/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:05:07.552Z"
+}

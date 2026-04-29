@@ -1,0 +1,32 @@
+{
+  "slug": "croissant-arequipa",
+  "name": "Croissant",
+  "city": "Arequipa",
+  "country": "Peru",
+  "placeId": "ChIJUZLJNQBLQpERMncwAYmI6Zs",
+  "googleName": "Sweet Memories - Pastry, Bakery & Coffee",
+  "formattedAddress": "Calle Pte. Bolognesi 210, Arequipa 04001, Peru",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11234660867464263474",
+  "rating": 4.8,
+  "reviewCount": 256,
+  "coords": [
+    -16.3986542,
+    -71.5390864
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:30 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/croissant-arequipa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:56:38.151Z"
+}

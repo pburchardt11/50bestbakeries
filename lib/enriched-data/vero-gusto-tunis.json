@@ -1,0 +1,32 @@
+{
+  "slug": "vero-gusto-tunis",
+  "name": "Vero Gusto",
+  "city": "Tunis",
+  "country": "Tunisia",
+  "placeId": "ChIJYZj8BRoz_RIRgrBEXDtBWzA",
+  "googleName": "Vero Gusto",
+  "formattedAddress": "R4PP+GGQ, Tunis, Tunisia",
+  "phone": "71 887 374",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3484450459908092034",
+  "rating": 3.9,
+  "reviewCount": 620,
+  "coords": [
+    36.8363449,
+    10.1363675
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:00 AM",
+    "Tuesday: 6:30 AM – 12:00 AM",
+    "Wednesday: 6:30 AM – 12:00 AM",
+    "Thursday: 6:30 AM – 12:00 AM",
+    "Friday: 6:30 AM – 12:00 AM",
+    "Saturday: 6:30 AM – 12:00 AM",
+    "Sunday: 6:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/vero-gusto-tunis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:45:47.917Z"
+}

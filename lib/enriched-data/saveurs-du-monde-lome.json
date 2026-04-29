@@ -1,0 +1,32 @@
+{
+  "slug": "saveurs-du-monde-lome",
+  "name": "Saveurs Du Monde",
+  "city": "Lomé",
+  "country": "Togo",
+  "placeId": "ChIJR6DOTVXhIxARKZ6_Cp-Q3l8",
+  "googleName": "Saveurs du Monde",
+  "formattedAddress": "3456, Lomé, Togo",
+  "phone": "22 22 96 97",
+  "website": "https://www.saveursdumonde.tg/fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6908117891187449385",
+  "rating": 3.9,
+  "reviewCount": 16,
+  "coords": [
+    6.133336000000001,
+    1.2476975
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 8:00 PM",
+    "Tuesday: 6:30 AM – 8:00 PM",
+    "Wednesday: 6:30 AM – 8:00 PM",
+    "Thursday: 6:30 AM – 8:00 PM",
+    "Friday: 6:30 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 8:00 PM",
+    "Sunday: 6:30 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/saveurs-du-monde-lome/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:42:38.471Z"
+}

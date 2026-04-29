@@ -1,0 +1,32 @@
+{
+  "slug": "cofetarie-laborator-rodica-alba-iulia",
+  "name": "Cofetarie Laborator Rodica",
+  "city": "Alba Iulia",
+  "country": "Romania",
+  "placeId": "ChIJsbxarv0fSEcRZkqtFOGTy_A",
+  "googleName": "Laborator de Cofetarie Rodica",
+  "formattedAddress": "Pribilesti 92, 437277 Pribilești, Romania",
+  "phone": "0749 398 459",
+  "website": "https://www.facebook.com/LaboratorCofetarieRodica/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17351124584298793574",
+  "rating": 5,
+  "reviewCount": 16,
+  "coords": [
+    47.56207029999999,
+    23.3670316
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 – 10:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cofetarie-laborator-rodica-alba-iulia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:22.097Z"
+}

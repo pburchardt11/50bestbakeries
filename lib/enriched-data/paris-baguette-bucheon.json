@@ -1,0 +1,32 @@
+{
+  "slug": "paris-baguette-bucheon",
+  "name": "PARIS BAGUETTE",
+  "city": "Bucheon",
+  "country": "South Korea",
+  "placeId": "ChIJZUNusNRiezURBNtdi1KWH5s",
+  "googleName": "Paris Baguette Bucheon Station Branch",
+  "formattedAddress": "South Korea, Gyeonggi-do, Bucheon, 소사구 심곡동 316-2",
+  "phone": "032-654-0003",
+  "website": "http://www.paris.co.kr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11177818081426529028",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    37.484097,
+    126.7825743
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Cafe & bakery chain serving French pastries, bread, cakes & sandwiches, plus tea & coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-bucheon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:27:33.986Z"
+}

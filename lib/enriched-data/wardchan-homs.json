@@ -1,0 +1,32 @@
+{
+  "slug": "wardchan-homs",
+  "name": "WARDCHAN",
+  "city": "Homs",
+  "country": "Syria",
+  "placeId": "ChIJLer4HL4PIxURjC6XL-tmUBU",
+  "googleName": "WARDCHAN",
+  "formattedAddress": "PPC5+8GV, Homs‎, Syria",
+  "phone": "0962 541 373",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1535840633235123852",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    34.7208745,
+    36.7087974
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 12:00 – 2:00 PM, 4:00 – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wardchan-homs/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:42.137Z"
+}

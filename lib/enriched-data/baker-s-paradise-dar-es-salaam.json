@@ -1,0 +1,32 @@
+{
+  "slug": "baker-s-paradise-dar-es-salaam",
+  "name": "Baker's Paradise",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJm9ZUsHZLXBgRFTq9r8CAfGI",
+  "googleName": "Baker's Paradise",
+  "formattedAddress": "Opp. Madina Butchery, Malik Rd, Dar es Salaam, Tanzania",
+  "phone": "0684 443 042",
+  "website": "https://bakersparadise.co.tz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7096688677899549205",
+  "rating": 4.4,
+  "reviewCount": 245,
+  "coords": [
+    -6.8046981,
+    39.2834974
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/baker-s-paradise-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:40:01.685Z"
+}

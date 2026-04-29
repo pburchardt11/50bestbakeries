@@ -1,0 +1,32 @@
+{
+  "slug": "bread-cakes-vladivostok",
+  "name": "Bread & Cakes",
+  "city": "Vladivostok",
+  "country": "Russia",
+  "placeId": "ChIJdxpiXe6Ns18RKWdE5BfSAN4",
+  "googleName": "Breads & Cakes Bakery Shop",
+  "formattedAddress": "Pos'yetskaya Ulitsa, 20, Vladivostok, Primorskiy kray, Russia, 690003",
+  "phone": "8 (423) 241-34-11",
+  "website": "http://bakerycafe.ru/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15997016876475770665",
+  "rating": 3,
+  "reviewCount": 2,
+  "coords": [
+    43.110187,
+    131.878977
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/bread-cakes-vladivostok/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:27.916Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-cramatte-alle",
+  "name": "Boulangerie Cramatte",
+  "city": "Alle",
+  "country": "Switzerland",
+  "placeId": "ChIJTSd27SbxkUcRte_bCsaMtYQ",
+  "googleName": "Boulangerie Cramatte",
+  "formattedAddress": "Rue de l'Eglise 51, 2942 Alle, Switzerland",
+  "phone": "032 471 11 88",
+  "website": "https://yellow.local.ch/d/PDhKurXEMz2BWw5_bKS7zw",
+  "googleMapsUrl": "https://maps.google.com/?cid=9562704166004715445",
+  "rating": 4.3,
+  "reviewCount": 52,
+  "coords": [
+    47.4275426,
+    7.1322211
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 1:00 PM, 4:00 – 6:30 PM",
+    "Tuesday: 5:00 AM – 1:00 PM, 4:00 – 6:30 PM",
+    "Wednesday: 5:00 AM – 1:00 PM, 4:00 – 6:30 PM",
+    "Thursday: 5:00 AM – 1:00 PM, 4:00 – 6:30 PM",
+    "Friday: 5:00 AM – 1:00 PM, 4:00 – 6:30 PM",
+    "Saturday: 5:00 AM – 1:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-cramatte-alle/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:54.799Z"
+}

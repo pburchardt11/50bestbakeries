@@ -1,0 +1,32 @@
+{
+  "slug": "85c-hualien-city",
+  "name": "85C",
+  "city": "Hualien City",
+  "country": "Taiwan",
+  "placeId": "ChIJaSxRl5WfaDQRnHwKEmbqjT0",
+  "googleName": "85°C Daily Cafe",
+  "formattedAddress": "No. 460號, Heping Rd, Hualien City, Hualien County, Taiwan 970",
+  "phone": "03 832 5178",
+  "website": "https://www.85cafe.com/Product.php?datatid=3",
+  "googleMapsUrl": "https://maps.google.com/?cid=4435458932140047516",
+  "rating": 3.8,
+  "reviewCount": 490,
+  "coords": [
+    23.9762658,
+    121.6017908
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:30 PM",
+    "Tuesday: 7:00 AM – 10:30 PM",
+    "Wednesday: 7:00 AM – 10:30 PM",
+    "Thursday: 7:00 AM – 10:30 PM",
+    "Friday: 7:00 AM – 10:30 PM",
+    "Saturday: 7:00 AM – 10:30 PM",
+    "Sunday: 7:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": "Bakery/cafe chain with roots in Taiwan, offering coffee & tea plus international desserts & breads.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/85c-hualien-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:37:40.075Z"
+}

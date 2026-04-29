@@ -1,0 +1,30 @@
+{
+  "slug": "la-royale-patisserie-kampala",
+  "name": "La Royale Patisserie Kampala",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJ-cRZL6K7fRcRzT06wFMRcq4",
+  "googleName": "La Royale Patisserie",
+  "formattedAddress": "Forest mall, Lugogo By-Pass, Kampala, Uganda",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12570128561349475789",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    0.324821,
+    32.58426
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:49:48.652Z"
+}

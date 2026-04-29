@@ -1,0 +1,32 @@
+{
+  "slug": "triple-k-bakery-chaguanas",
+  "name": "Triple K Bakery",
+  "city": "Chaguanas",
+  "country": "Trinidad & Tobago",
+  "placeId": "ChIJccgSpV75NYwR6lbppOKxj1M",
+  "googleName": "Triple K Bakery",
+  "formattedAddress": "GHFP+F3H, Caroni Savannah Rd, Charlieville, Trinidad and Tobago",
+  "phone": "(868) 671-3202",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6021226813805123306",
+  "rating": 4.3,
+  "reviewCount": 175,
+  "coords": [
+    10.5236842,
+    -61.41476849999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: Closed",
+    "Sunday: 10:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/triple-k-bakery-chaguanas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:43:14.538Z"
+}

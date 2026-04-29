@@ -1,0 +1,32 @@
+{
+  "slug": "auroras-hjemmebakeri-aver-y",
+  "name": "Auroras Hjemmebakeri",
+  "city": "Averøy",
+  "country": "Norway",
+  "placeId": "ChIJkccj1kDdE0YRnNV0dkEm33s",
+  "googleName": "Auroras Hjemmebakeri",
+  "formattedAddress": "Næringsveien 22, 6530 Averøy, Norway",
+  "phone": "41 12 57 25",
+  "website": "http://aurorashjemmebakeri.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8925895049073710492",
+  "rating": 4.9,
+  "reviewCount": 27,
+  "coords": [
+    63.0681228,
+    7.647047799999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/auroras-hjemmebakeri-aver-y/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:45.910Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-as-benedikt",
+  "name": "Pekarna As benedikt",
+  "city": "Benedikt",
+  "country": "Slovenia",
+  "placeId": "ChIJief6NK1tb0cR-0VDvWd051o",
+  "googleName": "Slaščičarna in kavarna Šijanec",
+  "formattedAddress": "Industrijska cesta 9, 2234 Benedikt, Slovenia",
+  "phone": "(02) 703 60 12",
+  "website": "https://www.facebook.com/SlascicarnaSijanec/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6550332171939431931",
+  "rating": 4.6,
+  "reviewCount": 206,
+  "coords": [
+    46.61027,
+    15.894637
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 5:00 PM",
+    "Sunday: 7:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-as-benedikt/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:52.579Z"
+}

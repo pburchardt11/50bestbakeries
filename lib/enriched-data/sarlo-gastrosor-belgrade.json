@@ -1,0 +1,32 @@
+{
+  "slug": "sarlo-gastrosor-belgrade",
+  "name": "Šarlo Gastrošor",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJPU9gX2R7WkcRS7xKYWQL80g",
+  "googleName": "Šarlo Gastrošor",
+  "formattedAddress": "Žorža Klemansoa 29g, Beograd 11000, Serbia",
+  "phone": "063 619971",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5256557715828423755",
+  "rating": 4.7,
+  "reviewCount": 43,
+  "coords": [
+    44.8252439,
+    20.4708891
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sarlo-gastrosor-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:16:59.451Z"
+}

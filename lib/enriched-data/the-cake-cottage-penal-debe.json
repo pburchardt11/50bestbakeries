@@ -1,0 +1,32 @@
+{
+  "slug": "the-cake-cottage-penal-debe",
+  "name": "The Cake Cottage",
+  "city": "Penal-Debe",
+  "country": "Trinidad & Tobago",
+  "placeId": "ChIJM9j5kHuNNYwRk_Xcu032Svs",
+  "googleName": "The Cake Cottage",
+  "formattedAddress": "Dumfries Rd, Trinidad and Tobago",
+  "phone": "(868) 308-1205",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18107556065521235347",
+  "rating": 4.8,
+  "reviewCount": 4,
+  "coords": [
+    10.2505731,
+    -61.4735737
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 5:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-cottage-penal-debe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:44:33.264Z"
+}

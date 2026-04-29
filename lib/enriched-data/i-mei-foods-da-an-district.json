@@ -1,0 +1,32 @@
+{
+  "slug": "i-mei-foods-da-an-district",
+  "name": "I-Mei Foods",
+  "city": "Da-an District",
+  "country": "Taiwan",
+  "placeId": "ChIJWZTqSNOrQjQRlxXax838-ZY",
+  "googleName": "I-Mei Foods",
+  "formattedAddress": "No. 33-1, Section 2, Fuxing S Rd, Da’an District, Taipei City, Taiwan 106",
+  "phone": "02 2708 5675",
+  "website": "http://www.imeifoods.com.tw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10879004335641597335",
+  "rating": 4.2,
+  "reviewCount": 136,
+  "coords": [
+    25.0317125,
+    121.5437687
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/i-mei-foods-da-an-district/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:37:24.099Z"
+}

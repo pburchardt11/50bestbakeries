@@ -1,0 +1,32 @@
+{
+  "slug": "pekaren-banska-stiavnica",
+  "name": "Pekáreň",
+  "city": "Banská Štiavnica",
+  "country": "Slovakia",
+  "placeId": "ChIJW7uQQMzMakcRU3uMjVdw0p8",
+  "googleName": "bakery Antol",
+  "formattedAddress": "Kolpašská 1, 969 01 Banská Štiavnica, Slovakia",
+  "phone": "0918 909 197",
+  "website": "http://www.antonantol.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11516390718479039315",
+  "rating": 4.3,
+  "reviewCount": 124,
+  "coords": [
+    48.4494243,
+    18.9106525
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 8:00 PM",
+    "Tuesday: 5:00 AM – 8:00 PM",
+    "Wednesday: 5:00 AM – 8:00 PM",
+    "Thursday: 5:00 AM – 8:00 PM",
+    "Friday: 5:00 AM – 8:00 PM",
+    "Saturday: 5:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekaren-banska-stiavnica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:22:10.042Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "two-men-bagel-house-singapore",
+  "name": "Two Men Bagel House",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJpZh7TmsZ2jERUtSFj2K7Db0",
+  "googleName": "Two Men Bagel House Tanjong Pagar",
+  "formattedAddress": "16 Enggor St, #01-12 Icon Village Altez, Singapore 079717",
+  "phone": "6304 3080",
+  "website": "http://www.twomenbagels.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13622750479854720082",
+  "rating": 4.5,
+  "reviewCount": 1591,
+  "coords": [
+    1.2744873,
+    103.8443179
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:30 PM",
+    "Tuesday: 8:00 AM – 3:30 PM",
+    "Wednesday: 8:00 AM – 3:30 PM",
+    "Thursday: 8:00 AM – 3:30 PM",
+    "Friday: 8:00 AM – 3:30 PM",
+    "Saturday: 8:00 AM – 3:30 PM",
+    "Sunday: 8:00 AM – 3:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/two-men-bagel-house-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:55.060Z"
+}

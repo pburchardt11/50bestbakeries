@@ -1,0 +1,32 @@
+{
+  "slug": "the-golden-bakery-bethlehem",
+  "name": "The Golden Bakery",
+  "city": "Bethlehem",
+  "country": "Palestine",
+  "placeId": "ChIJQyLC_DHfGBUR4Jms_-F1k6g",
+  "googleName": "Golden Bakery",
+  "formattedAddress": "G746+7VJ, Fayez Mansour, Damascus, Syria",
+  "phone": null,
+  "website": "https://www.facebook.com/goldenbakerysy/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12147182233465952736",
+  "rating": 4.7,
+  "reviewCount": 20,
+  "coords": [
+    33.5056665,
+    36.2622981
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/the-golden-bakery-bethlehem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:50:19.938Z"
+}

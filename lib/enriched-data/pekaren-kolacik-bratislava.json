@@ -1,0 +1,32 @@
+{
+  "slug": "pekaren-kolacik-bratislava",
+  "name": "Pekáreň Koláčik",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJ2auWUaqIbEcRkZBo2pVTNW0",
+  "googleName": "Pekáreň KOLÁČIK",
+  "formattedAddress": "Rajecká 8692/9, 821 07 Bratislava, Slovakia",
+  "phone": "0911 988 833",
+  "website": "http://www.kolacik.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7869287826979328145",
+  "rating": 4.7,
+  "reviewCount": 124,
+  "coords": [
+    48.1434096,
+    17.2063326
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekaren-kolacik-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:21.776Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "al-hatab-bakery-ar-riyadh",
+  "name": "Al Hatab Bakery",
+  "city": "Ar Riyadh",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJQ-t-R3n-Lj4Rst-isTnpQuU",
+  "googleName": "Al Hatab Bakery",
+  "formattedAddress": "Dammam Branch Rd, Ghirnatah, Riyadh 13242, Saudi Arabia",
+  "phone": "9200 02281",
+  "website": "https://alhatab.com.sa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16520022817151049650",
+  "rating": 4.3,
+  "reviewCount": 2626,
+  "coords": [
+    24.804371,
+    46.751532
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: 6:00 AM – 12:00 AM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 6:00 AM – 1:00 AM",
+    "Saturday: 6:00 AM – 1:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/al-hatab-bakery-ar-riyadh/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:14:21.226Z"
+}

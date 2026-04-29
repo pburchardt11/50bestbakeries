@@ -1,0 +1,32 @@
+{
+  "slug": "pasteleria-alemana-alto-boquete",
+  "name": "Pastelería Alemana",
+  "city": "Alto Boquete",
+  "country": "Panama",
+  "placeId": "ChIJQU3ImyeTpY8RoMU38kKuV2k",
+  "googleName": "Pastelería Alemana",
+  "formattedAddress": "Vía a Boquete, Alto Boquete, Provincia de Chiriquí, Panama",
+  "phone": "6509-5888",
+  "website": "https://instagram.com/pasteleriaalemanabqt",
+  "googleMapsUrl": "https://maps.google.com/?cid=7590727299511076256",
+  "rating": 4.6,
+  "reviewCount": 254,
+  "coords": [
+    8.747337,
+    -82.43260289999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 7:30 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 8:30 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/pasteleria-alemana-alto-boquete/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:51:24.696Z"
+}

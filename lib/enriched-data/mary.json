@@ -1,0 +1,32 @@
+{
+  "slug": "mary",
+  "name": "Mary",
+  "city": "Білоцерківський район",
+  "country": "Ukraine",
+  "placeId": "ChIJ18S0Vc5D00AR5HNqsHcRhys",
+  "googleName": "Bakery and confectionery products MARY",
+  "formattedAddress": "Bulʹvar Oleksandriysʹkyy, 175, Bila Tserkva, Kyivs'ka oblast, Ukraine, 09100",
+  "phone": "073 352 5252",
+  "website": "http://www.marybakery.com.ua/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3136494871245386724",
+  "rating": 4.5,
+  "reviewCount": 334,
+  "coords": [
+    49.8139425,
+    30.0799157
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mary/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:06.097Z"
+}

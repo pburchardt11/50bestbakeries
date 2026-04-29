@@ -1,0 +1,32 @@
+{
+  "slug": "catharei",
+  "name": "Catharei",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJs_KmBgfbRT4RTdhJtAKBqho",
+  "googleName": "Catharei",
+  "formattedAddress": "Salwa Rd, Doha, Qatar",
+  "phone": "5094 2255",
+  "website": "https://catharei.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1921490039641593933",
+  "rating": 4.4,
+  "reviewCount": 117,
+  "coords": [
+    25.2425559,
+    51.4594252
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/catharei/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:05:40.932Z"
+}

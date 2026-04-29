@@ -1,0 +1,32 @@
+{
+  "slug": "skroz-dobra-pekara-novi-beograd",
+  "name": "Skroz dobra pekara",
+  "city": "Novi Beograd",
+  "country": "Serbia",
+  "placeId": "ChIJ777bsndlWkcRI0xSTH7M81g",
+  "googleName": "Skroz Dobra Bakery",
+  "formattedAddress": "Otona Župančiča 2A, Beograd, Serbia",
+  "phone": "064 8031043",
+  "website": "http://www.skrozdobrapekara.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6409691537496755235",
+  "rating": 4.2,
+  "reviewCount": 1682,
+  "coords": [
+    44.826473,
+    20.4089065
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/skroz-dobra-pekara-novi-beograd/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:18:30.409Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "nutifafa-s-foods-lome",
+  "name": "Nutifafa's Foods",
+  "city": "Lomé",
+  "country": "Togo",
+  "placeId": "ChIJtckSfEzhIxARUsGL_ccw9aY",
+  "googleName": "STREET FOODS",
+  "formattedAddress": "Adjidogome, Lomé, Togo",
+  "phone": "91 50 26 21",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12030575615100567890",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    6.129557699999999,
+    1.2196502
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nutifafa-s-foods-lome/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:42:36.328Z"
+}

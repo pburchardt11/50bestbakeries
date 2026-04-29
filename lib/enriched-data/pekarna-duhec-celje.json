@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-duhec-celje",
+  "name": "Pekarna Duhec",
+  "city": "Celje",
+  "country": "Slovenia",
+  "placeId": "ChIJcSbvVPxxZUcR5oBcl68otR8",
+  "googleName": "Pekarna Duhec Matej Duh s.p.",
+  "formattedAddress": "Podjavorškova ulica 1, 3000 Celje, Slovenia",
+  "phone": "070 427 123",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2284777120584204518",
+  "rating": 4.6,
+  "reviewCount": 43,
+  "coords": [
+    46.2460904,
+    15.2761708
+  ],
+  "openingHours": [
+    "Monday: 7:00 – 10:00 AM",
+    "Tuesday: 7:00 – 10:00 AM",
+    "Wednesday: 7:00 – 10:00 AM",
+    "Thursday: 7:00 – 10:00 AM",
+    "Friday: 7:00 AM – 2:00 AM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-duhec-celje/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:24:23.075Z"
+}

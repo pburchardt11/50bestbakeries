@@ -1,0 +1,32 @@
+{
+  "slug": "malouf-patisserie",
+  "name": "Malouf.patisserie",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJS9qs-JbbRT4RoqzLri7QX-A",
+  "googleName": "MALOUF COFFEE SHOP",
+  "formattedAddress": "Al Mirqab Al Jadeed St, Doha, Qatar",
+  "phone": "7158 0075",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16167870086203026594",
+  "rating": 4.2,
+  "reviewCount": 24,
+  "coords": [
+    25.2753944,
+    51.5076759
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 AM",
+    "Tuesday: 8:00 AM – 4:00 AM",
+    "Wednesday: 8:00 AM – 4:00 AM",
+    "Thursday: 8:00 AM – 4:00 AM",
+    "Friday: 8:00 AM – 4:00 AM",
+    "Saturday: 8:00 AM – 4:00 AM",
+    "Sunday: 8:00 AM – 4:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/malouf-patisserie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:03.187Z"
+}

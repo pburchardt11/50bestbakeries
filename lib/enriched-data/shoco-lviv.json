@@ -1,0 +1,32 @@
+{
+  "slug": "shoco-lviv",
+  "name": "SHOco.",
+  "city": "Lviv",
+  "country": "Ukraine",
+  "placeId": "ChIJQblSCX3dOkcRFDXMkqIVjNE",
+  "googleName": "SHOco",
+  "formattedAddress": "Akademika Andriya Sakharova St, 44, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+  "phone": "050 430 7575",
+  "website": "https://shoco.ua/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15099467438658172180",
+  "rating": 4.6,
+  "reviewCount": 2196,
+  "coords": [
+    49.8285371,
+    24.0121127
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shoco-lviv/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:14.309Z"
+}

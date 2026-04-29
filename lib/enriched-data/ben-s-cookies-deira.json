@@ -1,0 +1,32 @@
+{
+  "slug": "ben-s-cookies-deira",
+  "name": "Ben's Cookies",
+  "city": "Deira",
+  "country": "UAE",
+  "placeId": "ChIJFYpIC4JCXz4RuM_1bCGKlhI",
+  "googleName": "Ben’s Cookies",
+  "formattedAddress": "The Dubai Mall - Second Level - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+  "phone": "04 325 5223",
+  "website": "https://www.benscookies.ae/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1339409815355903928",
+  "rating": 4.5,
+  "reviewCount": 542,
+  "coords": [
+    25.1972652,
+    55.27974649999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 12:00 AM",
+    "Tuesday: 10:00 AM – 12:00 AM",
+    "Wednesday: 10:00 AM – 12:00 AM",
+    "Thursday: 10:00 AM – 12:00 AM",
+    "Friday: 10:00 AM – 1:00 AM",
+    "Saturday: 10:00 AM – 1:00 AM",
+    "Sunday: 10:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": "Retail chain producing handmade cookies, with added nuts, chocolate or fruit.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ben-s-cookies-deira/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:47:52.109Z"
+}

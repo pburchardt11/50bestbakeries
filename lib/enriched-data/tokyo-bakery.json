@@ -1,0 +1,32 @@
+{
+  "slug": "tokyo-bakery",
+  "name": "Tokyo Bakery",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJ1WbXgqLFRT4Rcmj01mPVdHw",
+  "googleName": "Yamanote Atelier Msheireb",
+  "formattedAddress": "SK 977, Sikkat Al Nakheel St, Doha, Qatar",
+  "phone": "3388 8705",
+  "website": "https://yamanoteatelier.com/yamanote-doha/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8968027382786320498",
+  "rating": 4.7,
+  "reviewCount": 675,
+  "coords": [
+    25.2837346,
+    51.5255276
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/tokyo-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:53.898Z"
+}

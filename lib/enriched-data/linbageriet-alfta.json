@@ -1,0 +1,32 @@
+{
+  "slug": "linbageriet-alfta",
+  "name": "Linbageriet",
+  "city": "Alfta",
+  "country": "Sweden",
+  "placeId": "ChIJfVJRM-zxZkYRu44D2lV9gas",
+  "googleName": "Linbageriet",
+  "formattedAddress": "Krangatan 1B, 822 30 Alfta, Sweden",
+  "phone": "076-243 38 33",
+  "website": "http://linbageriet.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12358296660164710075",
+  "rating": 4.5,
+  "reviewCount": 224,
+  "coords": [
+    61.3444361,
+    16.0710951
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:30 PM",
+    "Tuesday: 9:00 AM – 5:30 PM",
+    "Wednesday: 9:00 AM – 5:30 PM",
+    "Thursday: 9:00 AM – 5:30 PM",
+    "Friday: 9:00 AM – 5:30 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/linbageriet-alfta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:33:33.399Z"
+}

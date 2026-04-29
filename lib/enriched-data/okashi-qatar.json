@@ -1,0 +1,32 @@
+{
+  "slug": "okashi-qatar",
+  "name": "Okashi Qatar",
+  "city": "أم صلال",
+  "country": "Qatar",
+  "placeId": "ChIJcYZzfUDfRT4RUSHoRUDNV8g",
+  "googleName": "Okashi Qatar",
+  "formattedAddress": "381 Al Zaghwa St, Umm Salal Muhammed, Qatar",
+  "phone": "7710 2232",
+  "website": "https://okashiqa.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14436232806493856081",
+  "rating": 4.4,
+  "reviewCount": 50,
+  "coords": [
+    25.3699102,
+    51.4227313
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/okashi-qatar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:05:17.475Z"
+}

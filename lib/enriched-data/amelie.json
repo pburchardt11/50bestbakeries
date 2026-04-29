@@ -1,0 +1,32 @@
+{
+  "slug": "amelie",
+  "name": "Amelie",
+  "city": "Донецьк",
+  "country": "Ukraine",
+  "placeId": "ChIJE85IFVuQ4EARPf37Ny14oXQ",
+  "googleName": "Amelie",
+  "formattedAddress": "Artema St, 80А, Donetsk, Donets'ka oblast, Ukraine, 83000",
+  "phone": "06233 44033",
+  "website": "http://vk.com/amelie_dn",
+  "googleMapsUrl": "https://maps.google.com/?cid=8404130515258178877",
+  "rating": 4.7,
+  "reviewCount": 462,
+  "coords": [
+    48.0046513,
+    37.8028098
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 7:00 PM",
+    "Tuesday: 8:30 AM – 7:00 PM",
+    "Wednesday: 8:30 AM – 7:00 PM",
+    "Thursday: 8:30 AM – 7:00 PM",
+    "Friday: 8:30 AM – 7:00 PM",
+    "Saturday: 9:30 AM – 8:00 PM",
+    "Sunday: 9:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/amelie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:05.600Z"
+}

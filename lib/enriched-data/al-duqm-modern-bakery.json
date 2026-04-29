@@ -1,0 +1,32 @@
+{
+  "slug": "al-duqm-modern-bakery",
+  "name": "Al duqm modern bakery",
+  "city": "الدقم",
+  "country": "Oman",
+  "placeId": "ChIJUxa8J7hjgj4R0YXtPz73OZY",
+  "googleName": "Al duqm modern bakery",
+  "formattedAddress": "JJHP+RQV, 32, Duqm, Oman",
+  "phone": "9483 0877",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10824955026094261713",
+  "rating": 3.7,
+  "reviewCount": 11,
+  "coords": [
+    19.6296137,
+    57.63691129999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:00 PM, 4:00 – 9:00 PM",
+    "Tuesday: 6:30 AM – 12:00 PM, 4:00 – 9:00 PM",
+    "Wednesday: 6:30 AM – 12:00 PM, 4:00 – 9:00 PM",
+    "Thursday: 6:30 AM – 12:00 PM, 4:00 – 9:00 PM",
+    "Friday: 6:30 AM – 12:00 PM, 4:00 – 9:00 PM",
+    "Saturday: 6:30 AM – 12:00 PM, 4:00 – 9:00 PM",
+    "Sunday: 6:30 AM – 12:00 PM, 4:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/al-duqm-modern-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:46:10.158Z"
+}

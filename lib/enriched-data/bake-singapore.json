@@ -1,0 +1,32 @@
+{
+  "slug": "bake-singapore",
+  "name": "Bake",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJxy_lB60Z2jERVVmDkudaziU",
+  "googleName": "Bake it Babe",
+  "formattedAddress": "105 Desker Rd, Singapore 209627",
+  "phone": null,
+  "website": "https://bakeitbabesg.cococart.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2724214775247755605",
+  "rating": 4.7,
+  "reviewCount": 11,
+  "coords": [
+    1.3084674,
+    103.8563087
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:16.963Z"
+}

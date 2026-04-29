@@ -1,0 +1,32 @@
+{
+  "slug": "humble-bakery-hougang",
+  "name": "Humble Bakery",
+  "city": "Hougang",
+  "country": "Singapore",
+  "placeId": "ChIJL_P7t3WvEmsR2FdX7BUN4g0",
+  "googleName": "Humble Bakery - Circular Quay",
+  "formattedAddress": "16, Shop 19/20 Loftus Ln, Sydney NSW 2000, Australia",
+  "phone": "(02) 9435 0801",
+  "website": "https://www.humblesydney.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1000376455040292824",
+  "rating": 4.6,
+  "reviewCount": 61,
+  "coords": [
+    -33.8629056,
+    151.2106119
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 2:00 PM",
+    "Tuesday: 10:00 AM – 2:00 PM",
+    "Wednesday: 10:00 AM – 2:00 PM",
+    "Thursday: 10:00 AM – 2:00 PM",
+    "Friday: 10:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/humble-bakery-hougang/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:40.952Z"
+}

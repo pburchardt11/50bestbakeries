@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-102-canelones",
+  "name": "Panadería 102",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJlVHsTzSJn5URpk-gXISk9hA",
+  "googleName": "Panadería 102",
+  "formattedAddress": "Perimetral Wilson Ferreira Aldunate km 24 manzana 87 solar 48, 15000 Gral. Líber Seregni, Departamento de Canelones, Uruguay",
+  "phone": "095 688 753",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1222345237274316710",
+  "rating": 4.6,
+  "reviewCount": 27,
+  "coords": [
+    -34.8172664,
+    -56.02372339999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-102-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:53.319Z"
+}

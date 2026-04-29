@@ -1,0 +1,32 @@
+{
+  "slug": "star-bakery",
+  "name": "Star Bakery",
+  "city": "بدبد",
+  "country": "Oman",
+  "placeId": "ChIJN7heYw39jT4RxQ2J9bGp3kM",
+  "googleName": "Star Turkish Sweets",
+  "formattedAddress": "South alhail السيب‎muscat OM، Sib 413, Oman",
+  "phone": "7927 2274",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4890532827164642757",
+  "rating": 4.1,
+  "reviewCount": 207,
+  "coords": [
+    23.6289443,
+    58.23323519999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:45 PM",
+    "Tuesday: 7:30 AM – 10:45 PM",
+    "Wednesday: 7:30 AM – 10:45 PM",
+    "Thursday: 7:30 AM – 10:45 PM",
+    "Friday: 7:30 AM – 10:45 PM",
+    "Saturday: 7:30 AM – 10:45 PM",
+    "Sunday: 7:30 AM – 10:45 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/star-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:46:44.941Z"
+}

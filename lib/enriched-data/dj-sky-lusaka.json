@@ -1,0 +1,32 @@
+{
+  "slug": "dj-sky-lusaka",
+  "name": "DJ SKY",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJ0bOLo6eMQBkR_jrFAedhicY",
+  "googleName": "DJ JORZII THE FUTURE",
+  "formattedAddress": "Lusaka, Zambia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14306073336114133758",
+  "rating": 3.5,
+  "reviewCount": 690,
+  "coords": [
+    -15.4116979,
+    28.313577
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 11:00 PM",
+    "Tuesday: 10:00 AM – 11:00 PM",
+    "Wednesday: 10:00 AM – 11:00 PM",
+    "Thursday: 10:00 AM – 11:00 PM",
+    "Friday: 10:00 AM – 11:00 PM",
+    "Saturday: 10:00 AM – 11:00 PM",
+    "Sunday: 10:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dj-sky-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:57.141Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "paris-baguette-anyang-si",
+  "name": "PARIS BAGUETTE",
+  "city": "Anyang-si",
+  "country": "South Korea",
+  "placeId": "ChIJ1QPZEM1gezURa5QA4LZw6pk",
+  "googleName": "Paris Baguette",
+  "formattedAddress": "South Korea, Gyeonggi-do, Anyang, Manan-gu, Samdeok-ro, 14 1층",
+  "phone": "031-464-4190",
+  "website": "http://www.paris.co.kr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11090800963097760875",
+  "rating": 4.1,
+  "reviewCount": 43,
+  "coords": [
+    37.3935338,
+    126.9237893
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Cafe & bakery chain serving French pastries, bread, cakes & sandwiches, plus tea & coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-anyang-si/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:27:28.305Z"
+}

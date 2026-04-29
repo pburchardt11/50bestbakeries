@@ -1,0 +1,32 @@
+{
+  "slug": "cukiernia-szulc-aleksandrow-kujawski",
+  "name": "Cukiernia Szulc",
+  "city": "Aleksandrów Kujawski",
+  "country": "Poland",
+  "placeId": "ChIJkyWBi6e2HEcR3_C93NGKg2E",
+  "googleName": "Wuzetka",
+  "formattedAddress": "Fryderyka Chopina 1, 87-700 Aleksandrów Kujawski, Poland",
+  "phone": "602 504 312",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7026612477584339167",
+  "rating": 3.9,
+  "reviewCount": 61,
+  "coords": [
+    52.87632499999999,
+    18.6930291
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 9:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cukiernia-szulc-aleksandrow-kujawski/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:56:52.300Z"
+}

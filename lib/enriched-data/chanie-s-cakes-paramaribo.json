@@ -1,0 +1,32 @@
+{
+  "slug": "chanie-s-cakes-paramaribo",
+  "name": "Chanie's Cakes",
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "placeId": "ChIJvR7jLNzLCY0R2gDddpkBkxA",
+  "googleName": "Cakes by Chaysar",
+  "formattedAddress": "The Emporium Business Center, Leysweg 119, Paramaribo, Suriname",
+  "phone": "860-8797",
+  "website": "https://www.facebook.com/profile.php?id=100057697568402",
+  "googleMapsUrl": "https://maps.google.com/?cid=1194300084819132634",
+  "rating": 3.7,
+  "reviewCount": 3,
+  "coords": [
+    5.8103847,
+    -55.2151722
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 3:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 3:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chanie-s-cakes-paramaribo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:32:35.932Z"
+}

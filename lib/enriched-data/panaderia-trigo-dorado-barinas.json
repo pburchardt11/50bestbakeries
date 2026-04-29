@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-trigo-dorado-barinas",
+  "name": "Panadería Trigo Dorado",
+  "city": "Barinas",
+  "country": "Venezuela",
+  "placeId": "ChIJ0W5PrgxZe44RhVlim7Wz6Dg",
+  "googleName": "Panadería Trigo Dorado",
+  "formattedAddress": "Calle Nicolás Briceño, entre Marqués del Pumar, JQGM+R6V y, Av. 23 de Enero, Barinas 5201, Barinas, Venezuela",
+  "phone": "0414-5498790",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4100725053298203013",
+  "rating": 4.4,
+  "reviewCount": 7,
+  "coords": [
+    8.6271223,
+    -70.2169569
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:00 PM",
+    "Tuesday: 7:30 AM – 7:00 PM",
+    "Wednesday: 7:30 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:30 AM – 7:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 7:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-trigo-dorado-barinas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:57:24.938Z"
+}

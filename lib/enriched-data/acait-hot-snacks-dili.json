@@ -1,0 +1,32 @@
+{
+  "slug": "acait-hot-snacks-dili",
+  "name": "Acait Hot Snacks",
+  "city": "Dili",
+  "country": "Timor-Leste",
+  "placeId": "ChIJ7bNQfWTdAS0R2QEaX9IQ3tY",
+  "googleName": "Agora Food Studio",
+  "formattedAddress": "Timor Plaza, near CBD8, Díli, Timor-Leste",
+  "phone": "7785 9912",
+  "website": "http://timorlestefoodlab.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15482831064671060441",
+  "rating": 4.6,
+  "reviewCount": 95,
+  "coords": [
+    -8.552772299999999,
+    125.5404611
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 4:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/acait-hot-snacks-dili/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:42:05.843Z"
+}

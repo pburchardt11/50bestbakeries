@@ -1,0 +1,32 @@
+{
+  "slug": "hleb-kifle-novi-sad",
+  "name": "Hleb & Kifle",
+  "city": "Novi Sad",
+  "country": "Serbia",
+  "placeId": "ChIJSXsculoQW0cRgOWuNHTpw_s",
+  "googleName": "Hleb&Kifle Bulevar NS",
+  "formattedAddress": "Bulevar oslobođenja 41, Novi Sad 21000, Serbia",
+  "phone": "064 8956286",
+  "website": "https://www.hlebikifle.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18141600409287845248",
+  "rating": 4.1,
+  "reviewCount": 165,
+  "coords": [
+    45.260132,
+    19.832962
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hleb-kifle-novi-sad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:18:33.338Z"
+}

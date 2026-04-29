@@ -1,0 +1,32 @@
+{
+  "slug": "saigon-sunrise-honiara",
+  "name": "Saigon Sunrise",
+  "city": "Honiara",
+  "country": "Solomon Islands",
+  "placeId": "ChIJmU_PWB5dKG8Rtk5ZYLtUe2I",
+  "googleName": "Saigon Sunrise - Honiara Bakery & Vietnamese Restaurant",
+  "formattedAddress": "H2G6+527, Honiara, Solomon Islands",
+  "phone": "77 96600",
+  "website": "https://saigonsunrise.com.sb/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7096358801604431542",
+  "rating": 4.9,
+  "reviewCount": 38,
+  "coords": [
+    -9.4245625,
+    160.0100625
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/saigon-sunrise-honiara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:25:37.060Z"
+}

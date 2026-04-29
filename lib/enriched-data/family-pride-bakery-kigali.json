@@ -1,0 +1,32 @@
+{
+  "slug": "family-pride-bakery-kigali",
+  "name": "Family Pride Bakery",
+  "city": "Kigali",
+  "country": "Rwanda",
+  "placeId": "ChIJP415Ucun3BkRCEyraLRVHhc",
+  "googleName": "Pride Farms Shop",
+  "formattedAddress": "KN 3 Rd, Kigali, Rwanda",
+  "phone": "0791 212 962",
+  "website": "http://pridefarms.rw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1665863145512193032",
+  "rating": 4.8,
+  "reviewCount": 13,
+  "coords": [
+    -1.9695051,
+    30.0875904
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/family-pride-bakery-kigali/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:22.935Z"
+}

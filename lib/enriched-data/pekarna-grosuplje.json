@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-grosuplje",
+  "name": "Pekarna Grosuplje",
+  "city": "Grosuplje",
+  "country": "Slovenia",
+  "placeId": "ChIJXyVGr3YmZUcRcGQNptCKRLA",
+  "googleName": "Pekarna",
+  "formattedAddress": "Gasilska Cesta 2, 1290 Grosuplje, Slovenia",
+  "phone": "(01) 786 69 00",
+  "website": "http://www.pekarna-grosuplje.si/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12701429477835367536",
+  "rating": 3.9,
+  "reviewCount": 94,
+  "coords": [
+    45.9515609,
+    14.661896
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: 12:00 – 11:00 AM",
+    "Sunday: 3:00 AM – 11:59 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-grosuplje/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:25:08.449Z"
+}

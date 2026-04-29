@@ -1,0 +1,32 @@
+{
+  "slug": "paul-ajman",
+  "name": "Paul",
+  "city": "Ajman",
+  "country": "UAE",
+  "placeId": "ChIJMwrpoT1ZXz4RjZWU3z9zTi8",
+  "googleName": "PAUL Bakery & Restaurant",
+  "formattedAddress": "Ajman City Centre - Ground Floor - Al Jerf 2 - Ajman - United Arab Emirates",
+  "phone": "06 741 7367",
+  "website": "http://paularabia.com/?y_source=1_ODI2MTQ4OTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://maps.google.com/?cid=3408788686137234829",
+  "rating": 4.5,
+  "reviewCount": 506,
+  "coords": [
+    25.4001188,
+    55.4787209
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:30 PM",
+    "Tuesday: 8:00 AM – 11:30 PM",
+    "Wednesday: 8:00 AM – 11:30 PM",
+    "Thursday: 8:00 AM – 11:30 PM",
+    "Friday: 8:00 AM – 11:30 PM",
+    "Saturday: 8:00 AM – 11:30 PM",
+    "Sunday: 8:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-ajman/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:47:42.213Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "jaisli-beck-aarau",
+  "name": "Jaisli Beck",
+  "city": "Aarau",
+  "country": "Switzerland",
+  "placeId": "ChIJYXk4teI7kEcR_4nVuWXym5Y",
+  "googleName": "Jaisli-Beck, Graben",
+  "formattedAddress": "Graben 18, 5000 Aarau, Switzerland",
+  "phone": "062 836 10 35",
+  "website": "https://www.jaisli-beck.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10852534245802740223",
+  "rating": 4.6,
+  "reviewCount": 141,
+  "coords": [
+    47.3924979,
+    8.0455417
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:30 PM",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jaisli-beck-aarau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:51.423Z"
+}

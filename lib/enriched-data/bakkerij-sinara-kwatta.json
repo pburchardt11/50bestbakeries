@@ -1,0 +1,32 @@
+{
+  "slug": "bakkerij-sinara-kwatta",
+  "name": "Bakkerij Sinara",
+  "city": "Kwatta",
+  "country": "Suriname",
+  "placeId": "ChIJ11KJOYo1CI0RfygTDd8LJOk",
+  "googleName": "Bakkerij Sinara",
+  "formattedAddress": "RQVJ+JCJ, Kwattaweg, Paramaribo, Suriname",
+  "phone": "851-0130",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16799565562623764607",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    5.844075999999999,
+    -55.2189723
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 8:30 PM",
+    "Tuesday: 12:00 – 8:30 PM",
+    "Wednesday: 12:00 – 8:30 PM",
+    "Thursday: 12:00 – 8:30 PM",
+    "Friday: 12:00 – 8:30 PM",
+    "Saturday: Closed",
+    "Sunday: 2:00 – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-sinara-kwatta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:32:06.966Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "wumai-brick-oven-bakery-da-an-district",
+  "name": "WuMai Brick Oven Bakery",
+  "city": "Da’an District",
+  "country": "Taiwan",
+  "placeId": "ChIJl6z8dPSpQjQRG8MQCNLQ4jw",
+  "googleName": "WUMAI Bakery",
+  "formattedAddress": "No. 203號, Sanxian St, Sanchong District, New Taipei City, Taiwan 241",
+  "phone": "02 8287 6555",
+  "website": "https://www.facebook.com/wu.mai2012/?locale=zh_TW",
+  "googleMapsUrl": "https://maps.google.com/?cid=4387298587509310235",
+  "rating": 4.3,
+  "reviewCount": 182,
+  "coords": [
+    25.0866072,
+    121.4855063
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 1:00 – 8:00 PM",
+    "Wednesday: 1:00 – 8:00 PM",
+    "Thursday: 1:00 – 8:00 PM",
+    "Friday: 1:00 – 8:00 PM",
+    "Saturday: 1:00 – 8:00 PM",
+    "Sunday: 1:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wumai-brick-oven-bakery-da-an-district/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:37:26.924Z"
+}

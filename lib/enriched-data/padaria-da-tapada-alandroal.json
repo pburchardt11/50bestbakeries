@@ -1,0 +1,32 @@
+{
+  "slug": "padaria-da-tapada-alandroal",
+  "name": "Padaria Da Tapada",
+  "city": "Alandroal",
+  "country": "Portugal",
+  "placeId": "ChIJobp2XF_NPA0Ru5gaO5a_CEQ",
+  "googleName": "Tapada Confeitaria",
+  "formattedAddress": "R. Sra. do Castelo 61, 3530-218 Mangualde, Portugal",
+  "phone": "232 622 214",
+  "website": "https://www.facebook.com/QuintadaTapadaFagilde",
+  "googleMapsUrl": "https://maps.google.com/?cid=4902378846350383291",
+  "rating": 4.3,
+  "reviewCount": 48,
+  "coords": [
+    40.6085305,
+    -7.756722799999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/padaria-da-tapada-alandroal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:58:07.531Z"
+}

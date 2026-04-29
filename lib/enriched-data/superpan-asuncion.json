@@ -1,0 +1,32 @@
+{
+  "slug": "superpan-asuncion",
+  "name": "Superpan",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJvXn-FzypXZQR70cXJBKj_qc",
+  "googleName": "SUPERPAN - Sucursal Recoleta",
+  "formattedAddress": "PC57+266, Gral. MacArthur, Asunción 001412, Paraguay",
+  "phone": null,
+  "website": "https://instagram.com/superpan_py?igshid=OGQ5ZDc2ODk2ZA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=12105292146728716271",
+  "rating": 4.7,
+  "reviewCount": 127,
+  "coords": [
+    -25.2924633,
+    -57.58689560000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/superpan-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:55:15.796Z"
+}

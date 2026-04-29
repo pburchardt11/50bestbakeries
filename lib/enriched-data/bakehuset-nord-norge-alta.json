@@ -1,0 +1,30 @@
+{
+  "slug": "bakehuset-nord-norge-alta",
+  "name": "Bakehuset Nord-Norge",
+  "city": "Alta",
+  "country": "Norway",
+  "placeId": "ChIJjXCwD48Tz0URfWlkyKsn7rU",
+  "googleName": "Bakehuset Nord-Norge AS",
+  "formattedAddress": "Thomasbakkveien 9, 9513 Alta, Norway",
+  "phone": "78 43 50 77",
+  "website": "http://www.bakehusetas.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13109459184077007229",
+  "rating": 4.1,
+  "reviewCount": 13,
+  "coords": [
+    69.9585494,
+    23.2385347
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 12:00 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:44:37.120Z"
+}

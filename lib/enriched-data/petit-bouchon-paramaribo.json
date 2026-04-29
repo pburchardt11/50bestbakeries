@@ -1,0 +1,32 @@
+{
+  "slug": "petit-bouchon-paramaribo",
+  "name": "Petit Bouchon",
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "placeId": "ChIJheIMG6bLCY0R4uDPMxPashI",
+  "googleName": "Petit Bouchon",
+  "formattedAddress": "1rst floor, Kleine Waterstraat 1, Paramaribo, Suriname",
+  "phone": "715-1545",
+  "website": "https://www.facebook.com/profile.php?id=61576927597245",
+  "googleMapsUrl": "https://maps.google.com/?cid=1347379014545694946",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    5.8281898,
+    -55.14785999999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/petit-bouchon-paramaribo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:32:44.598Z"
+}

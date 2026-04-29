@@ -1,0 +1,32 @@
+{
+  "slug": "gary-s-bakery-christiansted",
+  "name": "Gary's Bakery",
+  "city": "Christiansted",
+  "country": "U.S. Virgin Islands",
+  "placeId": "ChIJx69-qPG1GowROEqTAUdGmhg",
+  "googleName": "Gary's Bakery",
+  "formattedAddress": "33 King St, Christiansted, St Croix 00820, USVI",
+  "phone": "(340) 773-6361",
+  "website": "https://www.facebook.com/Garys-Bakery-Deli-1034094683290263/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1772806674106763832",
+  "rating": 4.4,
+  "reviewCount": 168,
+  "coords": [
+    17.7435551,
+    -64.7072161
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 6:00 PM",
+    "Tuesday: 5:00 AM – 6:00 PM",
+    "Wednesday: 5:00 AM – 6:00 PM",
+    "Thursday: 5:00 AM – 6:00 PM",
+    "Friday: 5:00 AM – 6:00 PM",
+    "Saturday: 5:00 AM – 6:00 PM",
+    "Sunday: 5:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gary-s-bakery-christiansted/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:47:02.365Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "corderos-bakery-aguada",
+  "name": "Corderos Bakery",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJQw53JsqkAowRaLMCJvIDJA0",
+  "googleName": "Cordero's Bakery",
+  "formattedAddress": "9RMF+C9F, PR-115R, Aguada, 00602, Puerto Rico",
+  "phone": "(787) 868-2648",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=946886160209326952",
+  "rating": 4.3,
+  "reviewCount": 7,
+  "coords": [
+    18.3835684,
+    -67.17657179999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/corderos-bakery-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:02:50.538Z"
+}

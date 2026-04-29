@@ -1,0 +1,32 @@
+{
+  "slug": "piekarnia-ma-gorzata-lipnicka-alwernia",
+  "name": "Piekarnia Małgorzata Lipnicka",
+  "city": "Alwernia",
+  "country": "Poland",
+  "placeId": "ChIJFRppBb_zFkcRph1tTa4E12A",
+  "googleName": "Piekarnia Małgorzata Lipnicka",
+  "formattedAddress": "Św. Kostki 14, 32-566 Kwaczała, Poland",
+  "phone": "506 376 400",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6978051294303690150",
+  "rating": 4.8,
+  "reviewCount": 96,
+  "coords": [
+    50.0641909,
+    19.4936614
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/piekarnia-ma-gorzata-lipnicka-alwernia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:57:08.823Z"
+}

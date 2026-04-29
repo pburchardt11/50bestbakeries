@@ -1,0 +1,32 @@
+{
+  "slug": "roggenart-belgrade",
+  "name": "Roggenart",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJB3GFQoQhyIkR6cxJ7Xc1T_M",
+  "googleName": "Roggenart European Bakery, Bistro & Cafe",
+  "formattedAddress": "9535 Baltimore National Pike, Ellicott City, MD 21042, USA",
+  "phone": "(410) 696-2625",
+  "website": "https://roggenart.com/locations/ellicott-city/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17532290663575047401",
+  "rating": 4,
+  "reviewCount": 481,
+  "coords": [
+    39.2773848,
+    -76.8400451
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/roggenart-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:21.545Z"
+}

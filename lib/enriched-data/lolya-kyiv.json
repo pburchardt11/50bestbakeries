@@ -1,0 +1,32 @@
+{
+  "slug": "lolya-kyiv",
+  "name": "Lolya",
+  "city": "Kyiv",
+  "country": "Ukraine",
+  "placeId": "ChIJ-aASUADJ1EAR7L_416myeIk",
+  "googleName": "Lolya",
+  "formattedAddress": "Kiltseva Rd, 110а, Sofiivska Borshchahivka, Kyivs'ka oblast, Ukraine, 02000",
+  "phone": "063 247 4939",
+  "website": "https://www.lolya.kyiv.ua/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9905863822944026604",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    50.38308,
+    30.43023179999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 11:00 AM – 5:00 PM",
+    "Friday: 11:00 AM – 5:00 PM",
+    "Saturday: 9:30 AM – 5:00 PM",
+    "Sunday: 9:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lolya-kyiv/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:01.374Z"
+}

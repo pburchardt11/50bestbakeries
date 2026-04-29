@@ -1,0 +1,32 @@
+{
+  "slug": "safia-shuxrat-tashkent",
+  "name": "Safia Shuxrat",
+  "city": "Tashkent",
+  "country": "Uzbekistan",
+  "placeId": "ChIJ22tTBFOLrjgRPqxoHxCKi4w",
+  "googleName": "Safia cafe & bakery",
+  "formattedAddress": "Bunyodkor shoh ko'chasi 6, 100027, Тоshkent, Toshkent, Uzbekistan",
+  "phone": "78 113 40 40",
+  "website": "https://safiabakery.uz/ru",
+  "googleMapsUrl": "https://maps.google.com/?cid=10127339988923755582",
+  "rating": 4.2,
+  "reviewCount": 347,
+  "coords": [
+    41.3086594,
+    69.2378305
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": "All-day breakfast and cafe lunches, plus signature coffee blends, in an established, casual chain.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/safia-shuxrat-tashkent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:55:23.017Z"
+}

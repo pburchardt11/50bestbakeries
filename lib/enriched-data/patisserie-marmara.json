@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-marmara",
+  "name": "Patisserie Marmara",
+  "city": "القيروان",
+  "country": "Tunisia",
+  "placeId": "ChIJH4hEvGbF_RIRiivxcKw1SaE",
+  "googleName": "Patisserie Marmara",
+  "formattedAddress": "بجانب إدارة التجهيز, Rue De La Victoire, Kairouan, Tunisia",
+  "phone": "21 088 992",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11621879328151776138",
+  "rating": 3.9,
+  "reviewCount": 17,
+  "coords": [
+    35.6717988,
+    10.0987354
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-marmara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:46:28.113Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "levain-al-khobar",
+  "name": "Levain",
+  "city": "Al Khobar",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJPSoXhnL9ST4RBSkGgRt7nWQ",
+  "googleName": "Levain Artisan Bakery",
+  "formattedAddress": "Prince Saad St, Al Khobar Al Shamalia, Al Khobar 34425, Saudi Arabia",
+  "phone": "056 070 9916",
+  "website": "https://instagram.com/levain.sa?igshid=k4bimkqcajml",
+  "googleMapsUrl": "https://maps.google.com/?cid=7250086333195364613",
+  "rating": 4.3,
+  "reviewCount": 1659,
+  "coords": [
+    26.2960733,
+    50.2190649
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/levain-al-khobar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:13:36.685Z"
+}

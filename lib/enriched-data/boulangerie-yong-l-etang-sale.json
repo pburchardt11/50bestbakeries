@@ -1,0 +1,30 @@
+{
+  "slug": "boulangerie-yong-l-etang-sale",
+  "name": "Boulangerie Yong",
+  "city": "L'Étang-Salé",
+  "country": "Réunion",
+  "placeId": "ChIJ37HEzsmjgiERECjpLuUinIo",
+  "googleName": "Boulangerie Yong",
+  "formattedAddress": "1 Rue de la Boulangerie, L'Étang-Salé 97427, Réunion",
+  "phone": "0262 26 59 69",
+  "website": "http://www.boulangerieyong.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9987896441330804752",
+  "rating": 3.8,
+  "reviewCount": 16,
+  "coords": [
+    -21.2751468,
+    55.3719675
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Wednesday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Thursday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Friday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:11:12.111Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "s-4-f-le-port",
+  "name": "S.4.F",
+  "city": "Le Port",
+  "country": "Réunion",
+  "placeId": "ChIJq1uO8DmJgiERUjsPtyRQwyI",
+  "googleName": "Société Fournitures Fabrication De Fours Et Matériel Frigorifique S.4.F",
+  "formattedAddress": "60 Rue Raymond Venerosy, Port (Le 97420, Réunion",
+  "phone": "0262 43 67 97",
+  "website": "http://www.s4fbouvier.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2504933936368401234",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -20.937775,
+    55.309984
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 PM, 1:30 – 5:00 PM",
+    "Tuesday: 8:00 AM – 12:00 PM, 1:30 – 5:00 PM",
+    "Wednesday: 8:00 AM – 12:00 PM, 1:30 – 5:00 PM",
+    "Thursday: 8:00 AM – 12:00 PM, 1:30 – 5:00 PM",
+    "Friday: 8:00 AM – 12:00 PM, 1:30 – 2:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/s-4-f-le-port/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:11:58.874Z"
+}

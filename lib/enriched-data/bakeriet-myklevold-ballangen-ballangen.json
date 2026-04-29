@@ -1,0 +1,32 @@
+{
+  "slug": "bakeriet-myklevold-ballangen-ballangen",
+  "name": "Bakeriet Myklevold, Ballangen | Ballangen",
+  "city": "Ballangen",
+  "country": "Norway",
+  "placeId": "ChIJD9DUJfXx20UR8KqUPCBq9Rw",
+  "googleName": "Bakeriet Myklevold",
+  "formattedAddress": "Sentrumsveien 69, 8540 Ballangen, Norway",
+  "phone": "76 92 81 26",
+  "website": "https://myklevold.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2086690689043966704",
+  "rating": 4.3,
+  "reviewCount": 40,
+  "coords": [
+    68.3433357,
+    16.8288898
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 4:00 PM",
+    "Tuesday: 7:00 AM – 4:00 PM",
+    "Wednesday: 7:00 AM – 4:00 PM",
+    "Thursday: 7:00 AM – 4:00 PM",
+    "Friday: 7:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/bakeriet-myklevold-ballangen-ballangen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:49.698Z"
+}

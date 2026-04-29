@@ -1,0 +1,32 @@
+{
+  "slug": "l-otentik-le-tampon",
+  "name": "L'Otentik",
+  "city": "Le Tampon",
+  "country": "Réunion",
+  "placeId": "ChIJ32ZTnk91eCEROMKlqoe-rJ4",
+  "googleName": "L'Otentik",
+  "formattedAddress": "2 Rue Charles Baudelaire, Le Tampon 97430, Réunion",
+  "phone": "0262 57 64 74",
+  "website": "https://www.facebook.com/profile.php?id=100057201019672",
+  "googleMapsUrl": "https://maps.google.com/?cid=11433723043879699000",
+  "rating": 4.1,
+  "reviewCount": 133,
+  "coords": [
+    -21.2617347,
+    55.5051157
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Tuesday: 5:30 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Wednesday: 5:30 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Thursday: 5:30 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Friday: 5:30 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Saturday: 5:30 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Sunday: 5:30 AM – 12:15 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-otentik-le-tampon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:12:20.629Z"
+}

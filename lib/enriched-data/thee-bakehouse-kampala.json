@@ -1,0 +1,32 @@
+{
+  "slug": "thee-bakehouse-kampala",
+  "name": "Thee BakeHouse",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJm96KUJuXfRcRCBVoC5fNrNw",
+  "googleName": "The Bread House Bakery (Lweza Kitchen)- Baked today, Sold today.",
+  "formattedAddress": "6GGX+3FR, Kigo Rd, Kampala, Uganda",
+  "phone": "0758 803414",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15901310432953505032",
+  "rating": 4.4,
+  "reviewCount": 517,
+  "coords": [
+    0.2252464,
+    32.5486279
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/thee-bakehouse-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:49:52.846Z"
+}

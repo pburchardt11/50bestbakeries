@@ -1,0 +1,32 @@
+{
+  "slug": "al-hamrya-bakery",
+  "name": "Al Hamrya Bakery",
+  "city": "العامرات",
+  "country": "Oman",
+  "placeId": "ChIJAz7U1jD7kT4RQpM3Sr5aTzY",
+  "googleName": "Hamriya Bakery( AlAmerat) مخبز الحمرية فرع العامرات",
+  "formattedAddress": "FFGR+3RR, Al Amarat, Oman",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3913446374543692610",
+  "rating": 4.1,
+  "reviewCount": 61,
+  "coords": [
+    23.4752473,
+    58.4920128
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:00 PM",
+    "Tuesday: 7:30 AM – 11:00 PM",
+    "Wednesday: 7:30 AM – 11:00 PM",
+    "Thursday: 7:30 AM – 11:00 PM",
+    "Friday: 7:30 AM – 11:00 PM",
+    "Saturday: 7:30 AM – 11:00 PM",
+    "Sunday: 7:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/al-hamrya-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:46:40.529Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "la-boulangerie-francaise",
+  "name": "La Boulangerie Française",
+  "city": "الحمامات",
+  "country": "Tunisia",
+  "placeId": "ChIJCT9bTzyhQTERC4boSFeMQEU",
+  "googleName": "La Boulangerie Francaise",
+  "formattedAddress": "46 Nguyễn Tri Phương, Phú Hội, Thuận Hóa, Huế, Vietnam",
+  "phone": "0234 3837 437",
+  "website": "http://laboulangeriefrancaisehue.fr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4990142693639751179",
+  "rating": 4.4,
+  "reviewCount": 625,
+  "coords": [
+    16.4653036,
+    107.5934206
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:30 PM",
+    "Tuesday: 6:30 AM – 6:30 PM",
+    "Wednesday: 6:30 AM – 6:30 PM",
+    "Thursday: 6:30 AM – 6:30 PM",
+    "Friday: 6:30 AM – 6:30 PM",
+    "Saturday: 6:30 AM – 6:30 PM",
+    "Sunday: 6:30 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-boulangerie-francaise/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:46:15.291Z"
+}

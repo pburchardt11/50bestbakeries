@@ -1,0 +1,32 @@
+{
+  "slug": "magic-oven-bakers-kampala",
+  "name": "Magic Oven Bakers",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJseJGioq3fRcRHVlIjlQdNvo",
+  "googleName": "Magic Oven Cakes UG",
+  "formattedAddress": "Kyaliwajjala, Kampala, Uganda",
+  "phone": "0774 843080",
+  "website": "https://sites.google.com/view/magicovencakesug/home",
+  "googleMapsUrl": "https://maps.google.com/?cid=18029630407225923869",
+  "rating": 5,
+  "reviewCount": 22,
+  "coords": [
+    0.3806055,
+    32.6468304
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magic-oven-bakers-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:50:11.836Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "george-s-bakery-brackenhurst-alberton",
+  "name": "George's Bakery Brackenhurst",
+  "city": "Alberton",
+  "country": "South Africa",
+  "placeId": "ChIJq1kB_vAFlR4RJYyL6T27pZ4",
+  "googleName": "George's Bakery Brackenhurst",
+  "formattedAddress": "Brackenhurst Square C/o, Vermooten Street, 17 Abel Moller St, Brackenhurst, Alberton, 1448, South Africa",
+  "phone": "010 110 7571",
+  "website": "https://www.gbco.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11431749103735508005",
+  "rating": 4.6,
+  "reviewCount": 29,
+  "coords": [
+    -26.3095929,
+    28.1079293
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/george-s-bakery-brackenhurst-alberton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:26:49.479Z"
+}

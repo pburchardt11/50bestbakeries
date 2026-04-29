@@ -1,0 +1,32 @@
+{
+  "slug": "the-bakery-cafe-al-khobar-city",
+  "name": "THE ― Bakery & Café",
+  "city": "Al-Khobar City.",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJN7J3lp7pST4RuqwwOo_E2NQ",
+  "googleName": "THE",
+  "formattedAddress": "King Faisal Ibn Abd Al Aziz, Al Bustan, Al Khobar 34422, Saudi Arabia",
+  "phone": "055 590 5599",
+  "website": "https://www.instagram.com/the.b.a.k.e.r.y.sa",
+  "googleMapsUrl": "https://maps.google.com/?cid=15337224650445860026",
+  "rating": 4.5,
+  "reviewCount": 1382,
+  "coords": [
+    26.325941,
+    50.2142545
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 12:00 AM",
+    "Tuesday: 11:00 AM – 12:00 AM",
+    "Wednesday: 11:00 AM – 12:00 AM",
+    "Thursday: 11:00 AM – 1:00 AM",
+    "Friday: 11:00 AM – 1:00 AM",
+    "Saturday: 11:00 AM – 12:00 AM",
+    "Sunday: 11:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-bakery-cafe-al-khobar-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:14:12.568Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-uruguaya-canelones",
+  "name": "Panaderia La Uruguaya",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJ0ypbqtKLn5UR5NTunkAQEtE",
+  "googleName": "Panadería LA PARAGUAYA",
+  "formattedAddress": "25 de agosto manzna 76 solar 78, 15008 Ciudad de la Costa, Departamento de Canelones, Uruguay",
+  "phone": "2698 5654",
+  "website": "https://panaderialauruguaya.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15065121573238133988",
+  "rating": 4.6,
+  "reviewCount": 103,
+  "coords": [
+    -34.7957769,
+    -55.9357722
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-uruguaya-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:54:55.865Z"
+}

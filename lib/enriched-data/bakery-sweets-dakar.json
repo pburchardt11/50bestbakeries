@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-sweets-dakar",
+  "name": "Bakery & Sweets",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJF1-dUHMTwQ4Rupm-gtBkh2A",
+  "googleName": "La Bakery",
+  "formattedAddress": "QF2W+6G, Route de l'Aéroport, Dakar, Senegal",
+  "phone": "77 889 51 78",
+  "website": "http://www.labakerydakar.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6955638996206524858",
+  "rating": 3.7,
+  "reviewCount": 80,
+  "coords": [
+    14.7499603,
+    -17.5048315
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-sweets-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:35.731Z"
+}

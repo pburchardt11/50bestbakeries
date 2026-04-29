@@ -1,0 +1,32 @@
+{
+  "slug": "batteel-bakery-izghawa",
+  "name": "Batteel Bakery Izghawa",
+  "city": "أم صلال",
+  "country": "Qatar",
+  "placeId": "ChIJwWSfWgDdRT4RRlo9H05qDXY",
+  "googleName": "Batteel Bakery Izghawa",
+  "formattedAddress": "Zekreet St, Gharafa, Qatar",
+  "phone": "4479 3904",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8506572154936842822",
+  "rating": 4,
+  "reviewCount": 5,
+  "coords": [
+    25.3565083,
+    51.4390337
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 – 11:00 AM, 12:30 – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/batteel-bakery-izghawa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:05:21.671Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "nordells-konditori-arvika",
+  "name": "Nordells Konditori",
+  "city": "Arvika",
+  "country": "Sweden",
+  "placeId": "ChIJcSmSCn0SQ0YR0lWuPytUucQ",
+  "googleName": "Nordells Bageri & Konditori",
+  "formattedAddress": "Östra Torggatan 4, 671 31 Arvika, Sweden",
+  "phone": "0570-103 24",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14175453846854063570",
+  "rating": 4.5,
+  "reviewCount": 846,
+  "coords": [
+    59.6542415,
+    12.5924916
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nordells-konditori-arvika/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:35.847Z"
+}

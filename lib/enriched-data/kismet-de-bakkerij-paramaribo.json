@@ -1,0 +1,32 @@
+{
+  "slug": "kismet-de-bakkerij-paramaribo",
+  "name": "Kismet De Bakkerij",
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "placeId": "ChIJL1eG_Z5GxkcRhmqgX41Tv7o",
+  "googleName": "Kismet Bakkerij",
+  "formattedAddress": "Jonckbloetplein 52/53, 2523 AT Den Haag, Netherlands",
+  "phone": "070 393 0845",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13456566078266174086",
+  "rating": 4.3,
+  "reviewCount": 279,
+  "coords": [
+    52.0581983,
+    4.3215315
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 8:00 PM",
+    "Tuesday: 5:00 AM – 8:00 PM",
+    "Wednesday: 5:00 AM – 8:00 PM",
+    "Thursday: 5:00 AM – 8:00 PM",
+    "Friday: 5:00 AM – 8:00 PM",
+    "Saturday: 5:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kismet-de-bakkerij-paramaribo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:33:04.537Z"
+}

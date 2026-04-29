@@ -1,0 +1,32 @@
+{
+  "slug": "bublyk",
+  "name": "Bublyk",
+  "city": "Ізмаїльський район",
+  "country": "Ukraine",
+  "placeId": "ChIJY1X_0lBvt0ARqdYP5Zh01ts",
+  "googleName": "Bublyk",
+  "formattedAddress": "Unnamed Road, Izmail, Odes'ka oblast, Ukraine, 68601",
+  "phone": "093 442 7775",
+  "website": "https://instagram.com/bublik.izmail?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=15840976939349169833",
+  "rating": 4.5,
+  "reviewCount": 300,
+  "coords": [
+    45.3539481,
+    28.82888519999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 9:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bublyk/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:36.479Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "dreamliner-bakery-lusaka",
+  "name": "Dreamliner Bakery",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJVRcGqCiNQBkR-m-DkWP_EUo",
+  "googleName": "DREAMLINER BAKERY (HALAL)",
+  "formattedAddress": "Chilimbulu Rd, Lusaka 10101, Zambia",
+  "phone": "097 6569340",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5337327836518903802",
+  "rating": 3.8,
+  "reviewCount": 6,
+  "coords": [
+    -15.4293603,
+    28.2925785
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dreamliner-bakery-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:00:14.914Z"
+}

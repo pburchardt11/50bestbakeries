@@ -1,0 +1,32 @@
+{
+  "slug": "lillahemmabageriet-ardala",
+  "name": "Lillahemmabageriet",
+  "city": "Ardala",
+  "country": "Sweden",
+  "placeId": "ChIJ2ajP33ApW0YRKZnplcmzmH4",
+  "googleName": "Lilla Bageriet Lidköping",
+  "formattedAddress": "Grevhusgatan 3b, 531 31 Lidköping, Sweden",
+  "phone": "070-221 39 75",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9122238723623852329",
+  "rating": 4.9,
+  "reviewCount": 42,
+  "coords": [
+    58.50373449999999,
+    13.1551507
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lillahemmabageriet-ardala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:22.331Z"
+}

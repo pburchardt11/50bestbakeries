@@ -1,0 +1,32 @@
+{
+  "slug": "kvaskovo-remeselna-pekaren-bratislava",
+  "name": "Kváskovo - remeselná pekáreň",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJn2KleQCHbEcR85WrcBIgumA",
+  "googleName": "Kváskovo Remeselná Pekáreň",
+  "formattedAddress": "Vetvárska 10123/11, 821 06 Bratislava-Podunajské Biskupice, Slovakia",
+  "phone": "0917 567 066",
+  "website": "https://kvaskovo.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6969918636881057267",
+  "rating": 4.6,
+  "reviewCount": 133,
+  "coords": [
+    48.12557470000001,
+    17.211514
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kvaskovo-remeselna-pekaren-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:02.652Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pekaren-haj-bratislava",
+  "name": "Pekáreň Háj",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJfTVXUaeJbEcRMAriUmNBRn0",
+  "googleName": "Pekáreň Háj",
+  "formattedAddress": "Gessayova 9, 851 03 Bratislava-Petržalka, Slovakia",
+  "phone": "0940 390 315",
+  "website": "http://pekarenhaj.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9026974397958851120",
+  "rating": 4.7,
+  "reviewCount": 382,
+  "coords": [
+    48.1192903,
+    17.1147505
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 8:30 AM – 5:00 PM",
+    "Sunday: 8:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekaren-haj-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:00.116Z"
+}

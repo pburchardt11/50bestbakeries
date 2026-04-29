@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-filip-01-melenci",
+  "name": "Pekara Filip 01",
+  "city": "Melenci",
+  "country": "Serbia",
+  "placeId": "ChIJS-c5fQDXWkcRhtgVwMC9OJA",
+  "googleName": "Filip 01",
+  "formattedAddress": "Srpskih Vladara 60, Melenci, Serbia",
+  "phone": "066 8118323",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10392264775711447174",
+  "rating": 4.5,
+  "reviewCount": 28,
+  "coords": [
+    45.51571939999999,
+    20.3170349
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-filip-01-melenci/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:18:22.835Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "lotus-bakes-lusaka",
+  "name": "Lotus Bakes",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJqxFFdOOJQBkR94Udg-rNgR8",
+  "googleName": "Lotus Bakes",
+  "formattedAddress": "J9CW+7P9, Lusaka, Zambia",
+  "phone": "096 4350958",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2270322094277232119",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    -15.3793138,
+    28.396213
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lotus-bakes-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:09.138Z"
+}

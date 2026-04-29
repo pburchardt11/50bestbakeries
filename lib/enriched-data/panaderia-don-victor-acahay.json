@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-don-victor-acahay",
+  "name": "Panaderia Don Victor",
+  "city": "Acahay",
+  "country": "Paraguay",
+  "placeId": "ChIJX5FX1VoPXJQRIAVqdnVS06s",
+  "googleName": "Panaderia Don Victor",
+  "formattedAddress": "Acahay 090201, Paraguay",
+  "phone": "0981 942236",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12381330465022936352",
+  "rating": 4.2,
+  "reviewCount": 45,
+  "coords": [
+    -25.9123961,
+    -57.1125509
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 1:00 PM, 5:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-don-victor-acahay/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:42.225Z"
+}

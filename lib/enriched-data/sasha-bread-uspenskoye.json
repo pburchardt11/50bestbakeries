@@ -1,0 +1,32 @@
+{
+  "slug": "sasha-bread-uspenskoye",
+  "name": "Sasha Bread",
+  "city": "Uspenskoye",
+  "country": "Russia",
+  "placeId": "ChIJAQBkzKo4tUYRxYTHcRXc06k",
+  "googleName": "Sasha Bread кафе",
+  "formattedAddress": "Одинцовский г.о Борки, Borki, Moskovskaya oblast', Russia, 143030",
+  "phone": "8 (930) 914-03-45",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12237366597157094597",
+  "rating": 4.5,
+  "reviewCount": 14,
+  "coords": [
+    55.715058,
+    37.1058189
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/sasha-bread-uspenskoye/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:26.332Z"
+}

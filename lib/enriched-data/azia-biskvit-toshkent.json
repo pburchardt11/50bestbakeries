@@ -1,0 +1,32 @@
+{
+  "slug": "azia-biskvit-toshkent",
+  "name": "Azia Biskvit",
+  "city": "Toshkent",
+  "country": "Uzbekistan",
+  "placeId": "ChIJNW_dP76JrjgRPX9kRF0Kj1s",
+  "googleName": "Azia Biskvit",
+  "formattedAddress": "75FP+X43, Tashkent, Uzbekistan",
+  "phone": "71 272 11 91",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6597503374816739133",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    41.2748929,
+    69.18528359999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/azia-biskvit-toshkent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:56:21.952Z"
+}

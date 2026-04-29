@@ -1,0 +1,32 @@
+{
+  "slug": "biscuiterie-de-medina-dakar",
+  "name": "Biscuiterie de Medina",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJT-XlbMZywQ4RKG1LTdjsPys",
+  "googleName": "Biscuiterie de Medina",
+  "formattedAddress": "PG8X+HM2, Dakar, Senegal",
+  "phone": "70 503 16 82",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3116469880917552424",
+  "rating": 3.7,
+  "reviewCount": 64,
+  "coords": [
+    14.7163956,
+    -17.4508646
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/biscuiterie-de-medina-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:57.652Z"
+}

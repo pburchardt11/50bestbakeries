@@ -1,0 +1,32 @@
+{
+  "slug": "fernandes-warme-bakker-noord-paramaribo",
+  "name": "Fernandes Warme Bakker Noord",
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "placeId": "ChIJsUemwGE1CI0RzMctOTU0oWg",
+  "googleName": "Fernandes Warme Bakker Noord",
+  "formattedAddress": "Gompertstraat 106, Paramaribo, Suriname",
+  "phone": "551-665",
+  "website": "https://fb.me/warmebakkernoord",
+  "googleMapsUrl": "https://maps.google.com/?cid=7539364654392133580",
+  "rating": 4.3,
+  "reviewCount": 38,
+  "coords": [
+    5.8502372,
+    -55.1390666
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fernandes-warme-bakker-noord-paramaribo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:33:16.489Z"
+}

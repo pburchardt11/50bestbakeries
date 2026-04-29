@@ -1,0 +1,32 @@
+{
+  "slug": "le-cafe-by-alex-philipsburg",
+  "name": "Le Cafe by Alex",
+  "city": "Philipsburg",
+  "country": "Sint Maarten",
+  "placeId": "ChIJtT8GWn5vDowRTY8wD7dbXSE",
+  "googleName": "Le café",
+  "formattedAddress": "unit 4, 1 Kanaal Steeg, Philipsburg, Sint Maarten",
+  "phone": "(721) 542-6996",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2404178617877696333",
+  "rating": 4.9,
+  "reviewCount": 50,
+  "coords": [
+    18.0207731,
+    -63.0424277
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 3:00 PM",
+    "Tuesday: 6:30 AM – 3:00 PM",
+    "Wednesday: 6:30 AM – 3:00 PM",
+    "Thursday: 6:30 AM – 3:00 PM",
+    "Friday: 6:30 AM – 3:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-cafe-by-alex-philipsburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:21:25.096Z"
+}

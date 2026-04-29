@@ -1,0 +1,30 @@
+{
+  "slug": "your-pie-samara",
+  "name": "Your Pie",
+  "city": "Samara",
+  "country": "Russia",
+  "placeId": "ChIJRz599sYeZkERtKhPSdeUTaY",
+  "googleName": "Your pie bakery",
+  "formattedAddress": "Ulitsa Novo-Sadovaya, 160М, Samara, Samarskaya oblast', Russia, 443068",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11983397835871594676",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    53.22447020000001,
+    50.16806219999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:09:14.248Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "remy-kitchen-bakery-moscow",
+  "name": "Remy Kitchen Bakery",
+  "city": "Moscow",
+  "country": "Russia",
+  "placeId": "ChIJFeDu_khKtUYRXIqrxBo98K8",
+  "googleName": "Remy Kitchen Bakery",
+  "formattedAddress": "Malaya Bronnaya St, 2, Moskva, Russia, 123104",
+  "phone": "8 (985) 182-96-00",
+  "website": "http://www.remykitchenbakery.ru/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12677700136225966684",
+  "rating": 4,
+  "reviewCount": 1327,
+  "coords": [
+    55.7588574,
+    37.5987383
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/remy-kitchen-bakery-moscow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:47.916Z"
+}

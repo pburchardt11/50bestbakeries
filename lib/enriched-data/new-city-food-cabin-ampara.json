@@ -1,0 +1,32 @@
+{
+  "slug": "new-city-food-cabin-ampara",
+  "name": "New City Food Cabin",
+  "city": "Ampara",
+  "country": "Sri Lanka",
+  "placeId": "ChIJAQpOj-sZ5ToR-cxHmHCFekg",
+  "googleName": "New City Food Cabin",
+  "formattedAddress": "No. 03 D. S. Senanayke Rd, Ampara, Sri Lanka",
+  "phone": "0632 222 493",
+  "website": "http://www.facebook.com/ncfc64",
+  "googleMapsUrl": "https://maps.google.com/?cid=5222633436527185145",
+  "rating": 3.5,
+  "reviewCount": 189,
+  "coords": [
+    7.291342900000001,
+    81.6728984
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/new-city-food-cabin-ampara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:28:49.194Z"
+}

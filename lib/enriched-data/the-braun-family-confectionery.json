@@ -1,0 +1,32 @@
+{
+  "slug": "the-braun-family-confectionery",
+  "name": "The Braun Family Confectionery",
+  "city": "Дніпро",
+  "country": "Ukraine",
+  "placeId": "ChIJj5QjxSbj20ARFn25QSxTRMY",
+  "googleName": "Кондитерская TheBraunFamily",
+  "formattedAddress": "Starokozatska St, 13, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+  "phone": "095 110 0808",
+  "website": "https://braunfamily.com.ua/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14286635367472397590",
+  "rating": 4.8,
+  "reviewCount": 108,
+  "coords": [
+    48.46123069999999,
+    35.0436386
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-braun-family-confectionery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:43.096Z"
+}

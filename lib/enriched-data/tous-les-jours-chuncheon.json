@@ -1,0 +1,32 @@
+{
+  "slug": "tous-les-jours-chuncheon",
+  "name": "Tous Les Jours",
+  "city": "Chuncheon",
+  "country": "South Korea",
+  "placeId": "ChIJoXKU9SfkYjURGWiQwyViWYA",
+  "googleName": "Tous Les Jours",
+  "formattedAddress": "891-2 Toegye-dong, Chuncheon, Gangwon-do, South Korea",
+  "phone": "033-244-0069",
+  "website": "http://www.tlj.co.kr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9248531224116357145",
+  "rating": 4.1,
+  "reviewCount": 55,
+  "coords": [
+    37.8593459,
+    127.723805
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:00 AM",
+    "Tuesday: 7:30 AM – 12:00 AM",
+    "Wednesday: 7:30 AM – 12:00 AM",
+    "Thursday: 7:30 AM – 12:00 AM",
+    "Friday: 7:30 AM – 12:00 AM",
+    "Saturday: 7:30 AM – 12:00 AM",
+    "Sunday: 7:30 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tous-les-jours-chuncheon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:28:27.199Z"
+}

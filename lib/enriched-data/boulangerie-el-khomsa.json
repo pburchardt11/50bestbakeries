@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-el-khomsa",
+  "name": "Boulangerie El Khomsa",
+  "city": "الزهراء",
+  "country": "Tunisia",
+  "placeId": "ChIJa_vMGXNJ_RIRcY3zF5_JxG8",
+  "googleName": "Boulangerie pâtisserie El Khomsa",
+  "formattedAddress": "99 Rue 2 Mars 1934, Ez Zahra, Tunisia",
+  "phone": "20 313 663",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8053783718784109937",
+  "rating": 4.2,
+  "reviewCount": 37,
+  "coords": [
+    36.738677,
+    10.3076878
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 11:30 PM",
+    "Tuesday: 5:00 AM – 11:30 PM",
+    "Wednesday: 5:00 AM – 11:30 PM",
+    "Thursday: 5:00 AM – 11:30 PM",
+    "Friday: 5:00 AM – 11:30 PM",
+    "Saturday: 5:00 AM – 11:30 PM",
+    "Sunday: 5:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-el-khomsa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:46:24.561Z"
+}

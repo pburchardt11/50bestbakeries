@@ -1,0 +1,32 @@
+{
+  "slug": "oszi-pekseg-orahovo-novo-orahovo",
+  "name": "Oszi Pékség Orahovo",
+  "city": "Novo Orahovo",
+  "country": "Serbia",
+  "placeId": "ChIJ9WuxmgyvREcRwSRdx51cDno",
+  "googleName": "Oszi",
+  "formattedAddress": "2/A, 13 Maj 24351, Novo Orahovo 24351, Serbia",
+  "phone": "024 723083",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8795068955025548481",
+  "rating": 4.1,
+  "reviewCount": 15,
+  "coords": [
+    45.8489049,
+    19.7715319
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oszi-pekseg-orahovo-novo-orahovo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:18:39.001Z"
+}

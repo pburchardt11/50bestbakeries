@@ -1,0 +1,32 @@
+{
+  "slug": "juz-bread-singapore",
+  "name": "Juz Bread",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJubCnrC0b2jERwsZ3ydgzJXg",
+  "googleName": "Juz Bread",
+  "formattedAddress": "28 Dover Cres, #01-95 Dover Gardens, Singapore 130028",
+  "phone": null,
+  "website": "https://bakerycuisine.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8657382864875669186",
+  "rating": 3.2,
+  "reviewCount": 33,
+  "coords": [
+    1.3045048,
+    103.7817857
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 12:00 – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/juz-bread-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:06.126Z"
+}

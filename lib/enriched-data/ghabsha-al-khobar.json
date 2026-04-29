@@ -1,0 +1,32 @@
+{
+  "slug": "ghabsha-al-khobar",
+  "name": "Ghabsha",
+  "city": "Al Khobar",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJzb_5eX7pST4Rfq7K5q5X0Ms",
+  "googleName": "Ghabsha Buffet بوفية غبشة",
+  "formattedAddress": "Prince Turkey Street, Alkurnaish, Al Khobar 34445, Saudi Arabia",
+  "phone": "055 409 0991",
+  "website": "https://instagram.com/ghabsha.sa",
+  "googleMapsUrl": "https://maps.google.com/?cid=14686334793563156094",
+  "rating": 3.8,
+  "reviewCount": 695,
+  "coords": [
+    26.3145388,
+    50.2240061
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:00 AM",
+    "Tuesday: 6:00 AM – 12:00 AM",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: 6:00 AM – 12:00 AM",
+    "Sunday: 6:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ghabsha-al-khobar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:13:38.667Z"
+}

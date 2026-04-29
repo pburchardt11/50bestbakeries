@@ -1,0 +1,32 @@
+{
+  "slug": "magenbrot-profi-altburon",
+  "name": "Magenbrot Profi",
+  "city": "Altbüron",
+  "country": "Switzerland",
+  "placeId": "ChIJ_b4LaiIokEcRHRzMRj_eyFk",
+  "googleName": "magenbrot-profi ag",
+  "formattedAddress": "Linden 12, 6147 Altbüron, Switzerland",
+  "phone": "062 917 60 50",
+  "website": "http://www.magenbrot-profi.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6469665228069805085",
+  "rating": 4.4,
+  "reviewCount": 39,
+  "coords": [
+    47.1841192,
+    7.8834312
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Tuesday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Wednesday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Thursday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Friday: 8:00 AM – 12:00 PM, 1:00 – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/magenbrot-profi-altburon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:11.555Z"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "mc-rolls-paramaribo",
+  "name": "Mc Rolls",
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "placeId": "ChIJhUps28FLCI0Rb_Ol7tvL_FM",
+  "googleName": "Mc Rolls",
+  "formattedAddress": "Venusstraat 8, Paramaribo, Suriname",
+  "phone": "852-7176",
+  "website": "https://www.facebook.com/McRolls597/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6051936144741233519",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    5.8387882,
+    -55.1279055
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:32:47.999Z"
+}

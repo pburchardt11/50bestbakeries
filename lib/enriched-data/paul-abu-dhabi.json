@@ -1,0 +1,32 @@
+{
+  "slug": "paul-abu-dhabi",
+  "name": "Paul",
+  "city": "Abu Dhabi",
+  "country": "UAE",
+  "placeId": "ChIJd2IBBlFmXj4RccDRuLO2-xw",
+  "googleName": "Paul Cafe",
+  "formattedAddress": "Zayed The First St - Al Zahiyah - E16 01 - Abu Dhabi - United Arab Emirates",
+  "phone": "02 645 2337",
+  "website": "http://paularabia.com/?y_source=1_ODI2MTQ4ODAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "googleMapsUrl": "https://maps.google.com/?cid=2088463735232512113",
+  "rating": 4.7,
+  "reviewCount": 2241,
+  "coords": [
+    24.4958156,
+    54.38287219999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:30 PM",
+    "Tuesday: 9:00 AM – 11:30 PM",
+    "Wednesday: 9:00 AM – 11:30 PM",
+    "Thursday: 9:00 AM – 11:30 PM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-abu-dhabi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:47:22.220Z"
+}

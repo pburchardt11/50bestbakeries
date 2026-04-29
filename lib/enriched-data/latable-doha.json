@@ -1,0 +1,32 @@
+{
+  "slug": "latable-doha",
+  "name": "Latable",
+  "city": "Doha",
+  "country": "Qatar",
+  "placeId": "ChIJe7hcW2vdRT4RXVRXfaayahs",
+  "googleName": "La Table",
+  "formattedAddress": "Building 133, office 01, Street 102, Lagmeliya Street, لوسيل، Qatar",
+  "phone": "6681 8881",
+  "website": "https://latableqa.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1975587814692574301",
+  "rating": 1,
+  "reviewCount": 2,
+  "coords": [
+    25.412398,
+    51.5056238
+  ],
+  "openingHours": [
+    "Monday: 6:30 – 11:30 PM",
+    "Tuesday: 6:30 – 11:30 PM",
+    "Wednesday: 6:30 – 11:30 PM",
+    "Thursday: 6:30 – 11:30 PM",
+    "Friday: 6:30 – 11:30 PM",
+    "Saturday: 6:30 – 11:30 PM",
+    "Sunday: 6:30 – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/latable-doha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:59.127Z"
+}

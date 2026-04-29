@@ -1,0 +1,32 @@
+{
+  "slug": "win-sin-hq-singapore",
+  "name": "Win Sin HQ",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJna6vyW8T2jERXfi8UavriXI",
+  "googleName": "Win Sin HQ",
+  "formattedAddress": "55 Quality Rd, Singapore 618815",
+  "phone": "6264 4477",
+  "website": "http://www.win-sin.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8253386913176418397",
+  "rating": 5,
+  "reviewCount": 13,
+  "coords": [
+    1.3342164,
+    103.7108016
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/win-sin-hq-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:40.897Z"
+}

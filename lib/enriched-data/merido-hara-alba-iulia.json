@@ -1,0 +1,32 @@
+{
+  "slug": "merido-hara-alba-iulia",
+  "name": "Merido Hara",
+  "city": "Alba Iulia",
+  "country": "Romania",
+  "placeId": "ChIJ72125N6nTkcRn4ErLsBH9is",
+  "googleName": "Miura",
+  "formattedAddress": "Strada Mitropolit Alexandru Șterca Șuluțiu, 510010 Alba Iulia, Romania",
+  "phone": "0775 646 329",
+  "website": "https://one-hotel.ro/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3167798278635618719",
+  "rating": 4.8,
+  "reviewCount": 190,
+  "coords": [
+    46.0688611,
+    23.5731948
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:00 PM",
+    "Tuesday: 7:30 AM – 11:00 PM",
+    "Wednesday: 7:30 AM – 11:00 PM",
+    "Thursday: 7:30 AM – 11:00 PM",
+    "Friday: 7:30 AM – 12:00 AM",
+    "Saturday: 7:30 AM – 12:00 AM",
+    "Sunday: 7:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/merido-hara-alba-iulia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:26.771Z"
+}

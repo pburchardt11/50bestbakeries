@@ -1,0 +1,32 @@
+{
+  "slug": "clayton-s-bakery-ancon",
+  "name": "Clayton's Bakery",
+  "city": "Ancón",
+  "country": "Panama",
+  "placeId": "ChIJbYpjZgiprI8RSO8CZ04bxJE",
+  "googleName": "Clayton’s Bakery ( Panaderia)",
+  "formattedAddress": "Clayton Albrook 133796-2, Panamá, Provincia de Panamá, Panama",
+  "phone": "6151-9288",
+  "website": "https://www.instagram.com/claytonsbakerypty/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10503550254484483912",
+  "rating": 4.9,
+  "reviewCount": 7,
+  "coords": [
+    8.994936000000001,
+    -79.5587303
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:30 PM",
+    "Tuesday: 6:30 AM – 7:30 PM",
+    "Wednesday: 6:30 AM – 7:30 PM",
+    "Thursday: 6:30 AM – 7:30 PM",
+    "Friday: 6:30 AM – 7:30 PM",
+    "Saturday: 7:00 AM – 6:30 PM",
+    "Sunday: 9:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/clayton-s-bakery-ancon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:51:35.212Z"
+}

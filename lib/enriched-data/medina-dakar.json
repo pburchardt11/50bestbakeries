@@ -1,0 +1,24 @@
+{
+  "slug": "medina-dakar",
+  "name": "Medina",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJIfp2Nl9ywQ4RkdSREn-8RwE",
+  "googleName": "Medina",
+  "formattedAddress": "Medina, Dakar, Senegal",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=92249571342800017",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    14.6821999,
+    -17.450951
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/medina-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:59.518Z"
+}

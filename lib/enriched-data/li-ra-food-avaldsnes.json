@@ -1,0 +1,24 @@
+{
+  "slug": "li-ra-food-avaldsnes",
+  "name": "Li-ra Food",
+  "city": "Avaldsnes",
+  "country": "Norway",
+  "placeId": "ChIJdxggCyKgO0YR5HqfUFF300U",
+  "googleName": "Li-ra Food AS",
+  "formattedAddress": "Rehaugvegen 1, 4262 Utvik, Norway",
+  "phone": "48 17 95 21",
+  "website": "http://liramat.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5031496399831661284",
+  "rating": 4.4,
+  "reviewCount": 32,
+  "coords": [
+    59.358419,
+    5.276043
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/li-ra-food-avaldsnes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:43.690Z"
+}

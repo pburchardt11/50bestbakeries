@@ -1,0 +1,32 @@
+{
+  "slug": "el-harinero-asuncion",
+  "name": "El Harinero",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJL4C8QB4IXZQRenkCfYviKlg",
+  "googleName": "El Harinero",
+  "formattedAddress": "Av. Colón 1.005 esq. Manduvirá Asunción, Asunción 1254, Paraguay",
+  "phone": "(021) 442 403",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6353139313085151610",
+  "rating": 4.4,
+  "reviewCount": 1367,
+  "coords": [
+    -25.2845203,
+    -57.6454132
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/el-harinero-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:54:26.722Z"
+}

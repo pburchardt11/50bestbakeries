@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-reposteria-ruiz-aguada",
+  "name": "Panadería Repostería Ruiz",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJp_sTr9akAowRotjkk1T_pX4",
+  "googleName": "Panadería y Repostería Ruiz",
+  "formattedAddress": "9RC3+HJ, Aguada 00602, Puerto Rico",
+  "phone": "(787) 868-4090",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9125980958659762338",
+  "rating": 4.5,
+  "reviewCount": 123,
+  "coords": [
+    18.3713977,
+    -67.1958982
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-reposteria-ruiz-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:01:47.302Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "namanga-bakery-arusha",
+  "name": "Namanga Bakery",
+  "city": "Arusha",
+  "country": "Tanzania",
+  "placeId": "ChIJmTI_cScdNxgRVn2iiowhtS4",
+  "googleName": "Tanzania Best Bakery",
+  "formattedAddress": "JMMF+W3C, Arusha, Tanzania",
+  "phone": "0686 955 660",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3365633184034356566",
+  "rating": 4,
+  "reviewCount": 6,
+  "coords": [
+    -3.3651944,
+    36.6726298
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/namanga-bakery-arusha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:35.871Z"
+}

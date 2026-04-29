@@ -1,0 +1,32 @@
+{
+  "slug": "la-farinel-bras-panon",
+  "name": "La Farinel",
+  "city": "Bras-Panon",
+  "country": "Réunion",
+  "placeId": "ChIJHU5OoOpieCERYs3lk5vcepU",
+  "googleName": "La Farin'el",
+  "formattedAddress": "11 Lotissement Sam Lock, Bras-Panon 97412, Réunion",
+  "phone": "0262 58 70 07",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10771164019569315170",
+  "rating": 3.3,
+  "reviewCount": 64,
+  "coords": [
+    -21.0033573,
+    55.6917906
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 5:45 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Wednesday: 5:45 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Thursday: 5:45 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Friday: 5:45 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Saturday: 5:45 AM – 12:30 PM, 3:00 – 7:00 PM",
+    "Sunday: 6:15 AM – 12:15 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-farinel-bras-panon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:48.342Z"
+}

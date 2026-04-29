@@ -1,0 +1,32 @@
+{
+  "slug": "gooberr-singapore",
+  "name": "gooberr",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJFdeD0WAZ2jERVihrxvfc0U0",
+  "googleName": "Gooberr Lactation Cookies",
+  "formattedAddress": "5 Mandai Link, Singapore 728654",
+  "phone": "8096 8099",
+  "website": "https://gooberr.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5607505967796922454",
+  "rating": 4.9,
+  "reviewCount": 20,
+  "coords": [
+    1.4096813,
+    103.7580399
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gooberr-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:21:03.886Z"
+}

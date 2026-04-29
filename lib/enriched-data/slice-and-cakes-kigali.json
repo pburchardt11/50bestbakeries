@@ -1,0 +1,32 @@
+{
+  "slug": "slice-and-cakes-kigali",
+  "name": "Slice and Cakes",
+  "city": "Kigali",
+  "country": "Rwanda",
+  "placeId": "ChIJl19UgDSh3BkRKDRoHE1ArgE",
+  "googleName": "Slice & Cakes",
+  "formattedAddress": "1st Floor, Kigali Heights, KG 7 Ave, Kigali, Rwanda",
+  "phone": "0780 644 418",
+  "website": "https://www.sliceandcakes.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=121104939918832680",
+  "rating": 4.5,
+  "reviewCount": 181,
+  "coords": [
+    -1.9528405,
+    30.0930006
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 11:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/slice-and-cakes-kigali/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:29.940Z"
+}

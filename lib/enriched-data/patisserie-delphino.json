@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-delphino",
+  "name": "Patisserie Delphino",
+  "city": "الحمامات",
+  "country": "Tunisia",
+  "placeId": "ChIJz2IJgoVh_RIRVsk19Lsc2j8",
+  "googleName": "Bakery Delphino",
+  "formattedAddress": "CH4P+35P, Hammamet Sud, Tunisia",
+  "phone": "72 266 605",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4601021562894010710",
+  "rating": 4,
+  "reviewCount": 47,
+  "coords": [
+    36.4052014,
+    10.5854613
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-delphino/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:46:03.773Z"
+}

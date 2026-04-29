@@ -1,0 +1,32 @@
+{
+  "slug": "rawsome-patisserie-dubai",
+  "name": "Rawsome Patisserie",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJqbZtB8BrXz4RclAb2WCTgAo",
+  "googleName": "SugarMoo Desserts LLC",
+  "formattedAddress": "DIB Warehouse 4 318 road - 46CG+RQR - شارع الأصايل - القوز الصناعية الرابعة - القوز - دبي - United Arab Emirates",
+  "phone": "04 399 7371",
+  "website": "https://www.sugarmoo.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=756766781566832754",
+  "rating": 4.6,
+  "reviewCount": 710,
+  "coords": [
+    25.1219577,
+    55.2270355
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rawsome-patisserie-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:47:58.186Z"
+}

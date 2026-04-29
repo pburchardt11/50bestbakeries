@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-rotiseria-atlantida",
+  "name": "Panaderia y rotiseria Atlantida",
+  "city": "Atlántida",
+  "country": "Uruguay",
+  "placeId": "ChIJc4odr3_2n5URBN9cKvB8yiI",
+  "googleName": "Panadería Rumbo al Este",
+  "formattedAddress": "15200 Atlántida, Canelones Department, Uruguay",
+  "phone": "4372 1418",
+  "website": "https://www.instagram.com/panaderia_rumboaleste/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2506953513529827076",
+  "rating": 4.6,
+  "reviewCount": 2199,
+  "coords": [
+    -34.7658083,
+    -55.7557377
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 1:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-y-rotiseria-atlantida/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:32.023Z"
+}

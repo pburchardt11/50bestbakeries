@@ -1,0 +1,32 @@
+{
+  "slug": "sarah-s-cakes-kampala",
+  "name": "Sarah's Cakes",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJDdF-y367fRcR_j_yrvpsCg4",
+  "googleName": "Sarah's cakes",
+  "formattedAddress": "8HF6+G9X, Hoima Rd, Kampala, Uganda",
+  "phone": "039 2901484",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1011740890230833150",
+  "rating": 4.5,
+  "reviewCount": 139,
+  "coords": [
+    0.3238536,
+    32.5609831
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sarah-s-cakes-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:50:02.400Z"
+}

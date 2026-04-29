@@ -1,0 +1,32 @@
+{
+  "slug": "cake-house-bakery-nederland",
+  "name": "Cake House Bakery",
+  "city": "Nederland",
+  "country": "Sint Maarten",
+  "placeId": "ChIJw_iW0DhvDowRolATdJS5dP4",
+  "googleName": "Cake House Bakery & Supermarket",
+  "formattedAddress": "18 L.B. Scott Rd, Sint Maarten",
+  "phone": "(721) 542-0521",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18335484030185853090",
+  "rating": 3.9,
+  "reviewCount": 135,
+  "coords": [
+    18.0384596,
+    -63.06388949999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 7:00 PM",
+    "Tuesday: 6:30 AM – 7:00 PM",
+    "Wednesday: 6:30 AM – 7:00 PM",
+    "Thursday: 6:30 AM – 7:00 PM",
+    "Friday: 6:30 AM – 7:00 PM",
+    "Saturday: 6:30 AM – 7:00 PM",
+    "Sunday: 6:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-house-bakery-nederland/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:21:08.335Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "napsugar-pekseg",
+  "name": "\" \"/ Napsugár pékség",
+  "city": "Берегівський район",
+  "country": "Ukraine",
+  "placeId": "ChIJyYRfdIXZQUcR8pfj7rB9Kuo",
+  "googleName": "Napsugár Pékség",
+  "formattedAddress": "Budapest, Mátyás király út 56, 1039 Hungary",
+  "phone": "06 20 935 0570",
+  "website": "https://www.retesmester.hu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16873437152772593650",
+  "rating": 4.3,
+  "reviewCount": 74,
+  "coords": [
+    47.5855297,
+    19.0523011
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/napsugar-pekseg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:57.683Z"
+}

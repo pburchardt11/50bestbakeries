@@ -1,0 +1,32 @@
+{
+  "slug": "buer-as-askim",
+  "name": "Buer AS",
+  "city": "Askim",
+  "country": "Norway",
+  "placeId": "ChIJ5xDx6X3kQ0YRDEwBxIzbDPE",
+  "googleName": "Buer AS",
+  "formattedAddress": "Trippestadveien 44, 1814 Askim, Norway",
+  "phone": "69 88 86 30",
+  "website": "http://www.buer-as.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17369499260491484172",
+  "rating": 4.1,
+  "reviewCount": 44,
+  "coords": [
+    59.59579290000001,
+    11.1936885
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/buer-as-askim/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:22.304Z"
+}

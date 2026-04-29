@@ -1,0 +1,30 @@
+{
+  "slug": "heavenly-bakery-kigali",
+  "name": "Heavenly Bakery",
+  "city": "Kigali",
+  "country": "Rwanda",
+  "placeId": "ChIJU7Rjxv-m3BkRaTp0sgBgJn4",
+  "googleName": "Heavenly Bakery",
+  "formattedAddress": "24V6+CJP, KG 231 St, Kigali, Rwanda",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9090058454004152937",
+  "rating": 4,
+  "reviewCount": 7,
+  "coords": [
+    -1.9564246,
+    30.1115908
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:10:23.611Z"
+}

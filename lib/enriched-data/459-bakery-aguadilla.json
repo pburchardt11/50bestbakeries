@@ -1,0 +1,32 @@
+{
+  "slug": "459-bakery-aguadilla",
+  "name": "459 Bakery",
+  "city": "Aguadilla",
+  "country": "Puerto Rico",
+  "placeId": "ChIJdy_0tpe9AowR4Kc_R19lnNc",
+  "googleName": "459 Bakery",
+  "formattedAddress": "Urbanización Esteves Box, PR-459 Km 2.4, Aguadilla, 00603, Puerto Rico",
+  "phone": "(787) 291-3200",
+  "website": "http://www.facebook.com/459bakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=15536404274413021152",
+  "rating": 4.7,
+  "reviewCount": 34,
+  "coords": [
+    18.459455,
+    -67.12945429999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/459-bakery-aguadilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:26.524Z"
+}

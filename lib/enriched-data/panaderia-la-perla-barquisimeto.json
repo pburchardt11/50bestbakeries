@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-perla-barquisimeto",
+  "name": "Panaderia la perla.",
+  "city": "Barquisimeto",
+  "country": "Venezuela",
+  "placeId": "ChIJOeG26thdh44RYBUyGXJ4_Z4",
+  "googleName": "Panaderia Perla Prince",
+  "formattedAddress": "2PJV+HCF, Av. Libertador, Cabudare 3023, Lara, Venezuela",
+  "phone": "0251-2633019",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11456445458544727392",
+  "rating": 4,
+  "reviewCount": 765,
+  "coords": [
+    10.0314408,
+    -69.25644009999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 10:00 PM",
+    "Tuesday: 6:30 AM – 10:00 PM",
+    "Wednesday: 6:30 AM – 10:00 PM",
+    "Thursday: 6:30 AM – 10:00 PM",
+    "Friday: 6:30 AM – 10:00 PM",
+    "Saturday: 6:30 AM – 10:00 PM",
+    "Sunday: 6:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-la-perla-barquisimeto/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:57:44.476Z"
+}

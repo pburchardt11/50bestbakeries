@@ -1,0 +1,32 @@
+{
+  "slug": "milani-caffe-apia",
+  "name": "Milani Caffe",
+  "city": "Apia",
+  "country": "Samoa",
+  "placeId": "ChIJgY4b_YQTpXER0kOYqS2I-fk",
+  "googleName": "Milani Cafè & Cakes",
+  "formattedAddress": "ACC Building, Convent St, Apia, Samoa",
+  "phone": "20584",
+  "website": "https://milanicafesamoa.com/about/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18012577914345243602",
+  "rating": 4.7,
+  "reviewCount": 182,
+  "coords": [
+    -13.8310155,
+    -171.7700849
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 2:30 PM",
+    "Tuesday: 7:30 AM – 2:30 PM",
+    "Wednesday: 7:30 AM – 2:30 PM",
+    "Thursday: 7:30 AM – 2:30 PM",
+    "Friday: 7:30 AM – 2:30 PM",
+    "Saturday: 7:30 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/milani-caffe-apia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:12:39.241Z"
+}

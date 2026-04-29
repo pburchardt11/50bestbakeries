@@ -1,0 +1,32 @@
+{
+  "slug": "ben-baker-singapore",
+  "name": "Ben Baker",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJsXjFw7cV2jERjCUn_1iZ_1k",
+  "googleName": "Ben Baker",
+  "formattedAddress": "Blk 95 Aljunied Cres, #01-523, Singapore 380095",
+  "phone": "9487 8880",
+  "website": "http://www.benbaker.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6485070595953730956",
+  "rating": 4.5,
+  "reviewCount": 19,
+  "coords": [
+    1.3209001,
+    103.886504
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ben-baker-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:09.984Z"
+}

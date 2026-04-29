@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-vina-aguada",
+  "name": "Panaderia La Viña",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJL4nE56a6AowRlgi5hu_pUZc",
+  "googleName": "Panaderia La Viña",
+  "formattedAddress": "Puerto Rico, Aguada 00602, Puerto Rico",
+  "phone": "(787) 868-8462",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10903753387807410326",
+  "rating": 4.4,
+  "reviewCount": 197,
+  "coords": [
+    18.3222017,
+    -67.17321439999999
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 9:00 PM",
+    "Tuesday: 5:30 AM – 9:00 PM",
+    "Wednesday: 5:30 AM – 9:00 PM",
+    "Thursday: 5:30 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-la-vina-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:00:46.296Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "la-chocolateria-al-mubarraz",
+  "name": "La Chocolateria",
+  "city": "Al Mubarraz",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJs6Xo5SG9Nz4Rh1OJKLB_8lI",
+  "googleName": "La Chocoletaria | لا شوكولاتيريا",
+  "formattedAddress": "3348 Al Quds Street, Al Rashdiyah, Al Mubarraz 36342, Saudi Arabia",
+  "phone": "053 056 6681",
+  "website": "https://linktr.ee/La.chocolateria",
+  "googleMapsUrl": "https://maps.google.com/?cid=5976980050045129607",
+  "rating": 4.4,
+  "reviewCount": 315,
+  "coords": [
+    25.4468828,
+    49.58105639999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 1:00 PM, 4:00 PM – 12:00 AM",
+    "Tuesday: 6:00 AM – 1:00 PM, 4:00 PM – 12:00 AM",
+    "Wednesday: 6:00 AM – 1:00 PM, 4:00 PM – 12:00 AM",
+    "Thursday: 6:00 AM – 1:00 PM, 4:00 PM – 1:30 AM",
+    "Friday: 1:00 PM – 1:30 AM",
+    "Saturday: 4:00 PM – 12:00 AM",
+    "Sunday: 6:00 AM – 1:00 PM, 4:00 PM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-chocolateria-al-mubarraz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:13:54.864Z"
+}

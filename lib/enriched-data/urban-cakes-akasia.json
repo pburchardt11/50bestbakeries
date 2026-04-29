@@ -1,0 +1,32 @@
+{
+  "slug": "urban-cakes-akasia",
+  "name": "Urban Cakes",
+  "city": "Akasia",
+  "country": "South Africa",
+  "placeId": "ChIJsdr8T-LZvx4Remgcirf7pZM",
+  "googleName": "Funky Cakes",
+  "formattedAddress": "20 Spekboom Ave, Amandasig, Akasia, 0118, South Africa",
+  "phone": "076 550 9841",
+  "website": "http://www.facebook.com/FunkyCakes99",
+  "googleMapsUrl": "https://maps.google.com/?cid=10639186460447369338",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    -25.6777358,
+    28.1145162
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 4:00 PM",
+    "Saturday: 7:30 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/urban-cakes-akasia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:26:21.362Z"
+}

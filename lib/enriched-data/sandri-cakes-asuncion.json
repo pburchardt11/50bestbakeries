@@ -1,0 +1,32 @@
+{
+  "slug": "sandri-cakes-asuncion",
+  "name": "Sandri Cakes",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJs93pb36pXZQR5jPG60fPw_k",
+  "googleName": "Sandri Cakes",
+  "formattedAddress": "Gral. Elizardo Aquino, Asunción 001225, Paraguay",
+  "phone": "0994 118261",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17997456443707896806",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    -25.2974359,
+    -57.61965360000001
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/sandri-cakes-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:54:35.016Z"
+}

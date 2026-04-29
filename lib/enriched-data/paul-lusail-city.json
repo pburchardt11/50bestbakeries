@@ -1,0 +1,32 @@
+{
+  "slug": "paul-lusail-city",
+  "name": "Paul",
+  "city": "Lusail City",
+  "country": "Qatar",
+  "placeId": "ChIJ69HvYgvDRT4RAquYQ0DMXyE",
+  "googleName": "Paul Bakery & Restaurant",
+  "formattedAddress": "CG3C+QC8 Place Vendome Mall, Lusail, Qatar",
+  "phone": "4034 1201",
+  "website": "https://www.paularabia.com/?y_source=1_MTA3NjQwNTIyMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+  "googleMapsUrl": "https://maps.google.com/?cid=2404865302423186178",
+  "rating": 4.4,
+  "reviewCount": 285,
+  "coords": [
+    25.4037488,
+    51.5209912
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 12:00 AM",
+    "Tuesday: 9:00 AM – 12:00 AM",
+    "Wednesday: 9:00 AM – 12:00 AM",
+    "Thursday: 9:00 AM – 12:00 AM",
+    "Friday: 9:00 AM – 12:00 AM",
+    "Saturday: 9:00 AM – 12:00 AM",
+    "Sunday: 9:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/paul-lusail-city/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:05:05.220Z"
+}

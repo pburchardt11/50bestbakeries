@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-feyain-canelones",
+  "name": "Panaderia FEYAIN",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJ_78IEKLSoZUREiWARzyYOb4",
+  "googleName": "Panaderia FEYAIN",
+  "formattedAddress": "Rivera &, 15900 Las Piedras, Departamento de Canelones, Uruguay",
+  "phone": "2365 8061",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13707154325543855378",
+  "rating": 4.4,
+  "reviewCount": 125,
+  "coords": [
+    -34.7259936,
+    -56.2159574
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 5:30 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-feyain-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:54:10.116Z"
+}

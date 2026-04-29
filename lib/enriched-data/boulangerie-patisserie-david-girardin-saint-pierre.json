@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-david-girardin-saint-pierre",
+  "name": "Boulangerie Pâtisserie David Girardin",
+  "city": "Saint Pierre",
+  "country": "St. Pierre & Miquelon",
+  "placeId": "ChIJYcrDNsu0bUsRQi3xNKVDSPM",
+  "googleName": "Bakery David Girardin",
+  "formattedAddress": "8 Pl. du General de Gaulle, Saint-Pierre 97500, St Pierre and Miquelon",
+  "phone": "041 41 97",
+  "website": "https://www.facebook.com/boulangeriepatisseriedavidgirardin/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17530335926376541506",
+  "rating": 4.8,
+  "reviewCount": 52,
+  "coords": [
+    46.7792578,
+    -56.1731935
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:30 PM, 2:00 – 5:00 PM",
+    "Tuesday: 6:30 AM – 12:30 PM, 2:00 – 5:00 PM",
+    "Wednesday: 6:30 AM – 12:30 PM, 2:00 – 5:00 PM",
+    "Thursday: 6:30 AM – 12:30 PM, 2:00 – 5:00 PM",
+    "Friday: 6:30 AM – 12:30 PM, 2:00 – 5:00 PM",
+    "Saturday: 6:30 AM – 12:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-david-girardin-saint-pierre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:31:36.072Z"
+}

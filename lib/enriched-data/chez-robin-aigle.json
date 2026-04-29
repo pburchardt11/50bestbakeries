@@ -1,0 +1,32 @@
+{
+  "slug": "chez-robin-aigle",
+  "name": "Chez Robin",
+  "city": "Aigle",
+  "country": "Switzerland",
+  "placeId": "ChIJNefC-VaXjkcR9DeZyQ2iwkU",
+  "googleName": "Chez Robin - Pâtisserie Chocolaterie",
+  "formattedAddress": "Chem. des Payernettes 21, 1860 Aigle, Switzerland",
+  "phone": "024 466 92 23",
+  "website": "https://chezrobin.ch/#accueil",
+  "googleMapsUrl": "https://maps.google.com/?cid=5026758314199431156",
+  "rating": 4.9,
+  "reviewCount": 55,
+  "coords": [
+    46.3140435,
+    6.9714246
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 12:00 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: Closed",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chez-robin-aigle/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:44.453Z"
+}

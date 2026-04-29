@@ -1,0 +1,32 @@
+{
+  "slug": "bushe",
+  "name": "Bushe",
+  "city": "Вінниця",
+  "country": "Ukraine",
+  "placeId": "ChIJv_5BNQBbLUcRNv43xI3UH6s",
+  "googleName": "Bushe",
+  "formattedAddress": "Zodchykh St, 16, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21037",
+  "phone": "096 057 8063",
+  "website": "https://www.instagram.com/bakery.bushe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12330808010111188534",
+  "rating": 4.5,
+  "reviewCount": 13,
+  "coords": [
+    49.21942610000001,
+    28.4446355
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bushe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:16.957Z"
+}

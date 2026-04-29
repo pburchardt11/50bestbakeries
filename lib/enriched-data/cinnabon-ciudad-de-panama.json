@@ -1,0 +1,32 @@
+{
+  "slug": "cinnabon-ciudad-de-panama",
+  "name": "Cinnabon",
+  "city": "Ciudad de Panamá",
+  "country": "Panama",
+  "placeId": "ChIJF1PzQ6KorI8R25NYCjSNAMk",
+  "googleName": "Cinnabon | Albrook Mall",
+  "formattedAddress": "XCFW+6R9, Panama City, Panamá Province, Panama",
+  "phone": null,
+  "website": "http://www.cinnabon.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14483731656274908123",
+  "rating": 3.8,
+  "reviewCount": 72,
+  "coords": [
+    8.9730398,
+    -79.5528807
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": "Counter-serve chain serving cinnamon rolls plus other baked goods & specialty frozen beverages.",
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cinnabon-ciudad-de-panama/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:12.586Z"
+}

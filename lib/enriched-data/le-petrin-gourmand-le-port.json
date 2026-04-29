@@ -1,0 +1,32 @@
+{
+  "slug": "le-petrin-gourmand-le-port",
+  "name": "Le Pétrin Gourmand",
+  "city": "Le Port",
+  "country": "Réunion",
+  "placeId": "ChIJ9-HUy_SIgiERV_xt-L5TifI",
+  "googleName": "Le Pétrin Gourmand",
+  "formattedAddress": "13 Rue Léon de Lepervanche, Le Port 97420, Réunion",
+  "phone": "0692 38 67 18",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17476591908664769623",
+  "rating": 4.2,
+  "reviewCount": 166,
+  "coords": [
+    -20.93507,
+    55.2920041
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: 5:30 AM – 7:00 PM",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: 5:30 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-petrin-gourmand-le-port/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:11:45.008Z"
+}

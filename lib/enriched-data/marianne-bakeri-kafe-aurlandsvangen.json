@@ -1,0 +1,32 @@
+{
+  "slug": "marianne-bakeri-kafe-aurlandsvangen",
+  "name": "Marianne Bakeri & Kafe",
+  "city": "Aurlandsvangen",
+  "country": "Norway",
+  "placeId": "ChIJ024khNYQPkYREEToamJ45Fk",
+  "googleName": "Marianne Bakery & Cafe",
+  "formattedAddress": "Odden 2, 5745 Aurland, Norway",
+  "phone": "94 81 23 51",
+  "website": "https://www.mariannebakeri.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6477434528161350672",
+  "rating": 4.8,
+  "reviewCount": 893,
+  "coords": [
+    60.90536400000001,
+    7.1866288
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/marianne-bakeri-kafe-aurlandsvangen/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:39.990Z"
+}

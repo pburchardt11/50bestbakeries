@@ -1,0 +1,32 @@
+{
+  "slug": "madina-baker-s-burewala",
+  "name": "Madina Baker’s",
+  "city": "Burewala",
+  "country": "Pakistan",
+  "placeId": "ChIJ2R76DRffPDkR0Q008IdijWE",
+  "googleName": "Madina Bakery",
+  "formattedAddress": "98F A Block Roads, Burewala, 61010, Pakistan",
+  "phone": "0321 6994142",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7029382929385262545",
+  "rating": 4,
+  "reviewCount": 59,
+  "coords": [
+    30.15910869999999,
+    72.6764957
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 12:00 PM",
+    "Tuesday: 6:30 AM – 12:00 PM",
+    "Wednesday: 7:00 AM – 12:00 PM",
+    "Thursday: 6:30 AM – 12:00 PM",
+    "Friday: 6:30 AM – 12:00 PM",
+    "Saturday: 6:30 AM – 12:00 PM",
+    "Sunday: 6:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/madina-baker-s-burewala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:48:47.631Z"
+}

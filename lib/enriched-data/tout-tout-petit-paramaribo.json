@@ -1,0 +1,32 @@
+{
+  "slug": "tout-tout-petit-paramaribo",
+  "name": "Tout Tout Petit",
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "placeId": "ChIJBZvzQkw1CI0RTpfOHfCRQOM",
+  "googleName": "Tout Tout Petit",
+  "formattedAddress": "Costerstraat 52, Paramaribo, Suriname",
+  "phone": "475-659",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16375248705597380430",
+  "rating": 4.9,
+  "reviewCount": 15,
+  "coords": [
+    5.833218,
+    -55.1528468
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 2:00 PM",
+    "Wednesday: 8:00 AM – 2:00 PM",
+    "Thursday: 8:00 AM – 2:00 PM",
+    "Friday: 8:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tout-tout-petit-paramaribo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:32:54.978Z"
+}

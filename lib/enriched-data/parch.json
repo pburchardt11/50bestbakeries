@@ -1,0 +1,32 @@
+{
+  "slug": "parch",
+  "name": "Parch",
+  "city": "مديرية الوحدة",
+  "country": "Yemen",
+  "placeId": "ChIJD_BhpIrbAxYRnSJReUdg-O0",
+  "googleName": "Parch بارش",
+  "formattedAddress": "بالأمام من المجمع التجاري، شارع حده، Sana'a, Yemen",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17147561441307468445",
+  "rating": 4.3,
+  "reviewCount": 357,
+  "coords": [
+    15.325143,
+    44.1988448
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:00 PM",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 3:30 – 10:00 PM",
+    "Saturday: 7:30 AM – 10:00 PM",
+    "Sunday: 7:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/parch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:58:26.988Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-michel-adelboden",
+  "name": "Bäckerei Michel",
+  "city": "Adelboden",
+  "country": "Switzerland",
+  "placeId": "ChIJ7VIZ2CMCj0cRTpeX-2laE1I",
+  "googleName": "Bäckerei Michel",
+  "formattedAddress": "Dorfstrasse 10, 3715 Adelboden, Switzerland",
+  "phone": "033 673 11 57",
+  "website": "https://baeckerei-adelboden.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5914170146906675022",
+  "rating": 4.5,
+  "reviewCount": 95,
+  "coords": [
+    46.493278,
+    7.559552000000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-michel-adelboden/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:17.769Z"
+}

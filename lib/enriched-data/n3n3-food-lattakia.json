@@ -1,0 +1,32 @@
+{
+  "slug": "n3n3-food-lattakia",
+  "name": "N3N3 Food",
+  "city": "Lattakia",
+  "country": "Syria",
+  "placeId": "ChIJTV10LDitJhUReKMX8gd8DeA",
+  "googleName": "مطعم نعنع",
+  "formattedAddress": "GQ6H+C32, Port Said, Latakia, Syria",
+  "phone": "041 222 333",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16144696612761346936",
+  "rating": 4.2,
+  "reviewCount": 46,
+  "coords": [
+    35.5110224,
+    35.7776471
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/n3n3-food-lattakia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:50.843Z"
+}

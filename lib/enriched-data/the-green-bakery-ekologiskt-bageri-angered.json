@@ -1,0 +1,32 @@
+{
+  "slug": "the-green-bakery-ekologiskt-bageri-angered",
+  "name": "The Green Bakery Ekologiskt Bageri",
+  "city": "Angered",
+  "country": "Sweden",
+  "placeId": "ChIJhdA6a5b1T0YR4NK4lFXyNa8",
+  "googleName": "Green Bakery AB",
+  "formattedAddress": "Storås Industrigata 15, 424 69 Angered, Sweden",
+  "phone": "031-331 16 00",
+  "website": "http://thegreenbakery.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12625263579784336096",
+  "rating": 4.6,
+  "reviewCount": 12,
+  "coords": [
+    57.77732289999999,
+    12.0509514
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 3:30 PM",
+    "Tuesday: 7:00 AM – 3:30 PM",
+    "Wednesday: 7:00 AM – 3:30 PM",
+    "Thursday: 7:00 AM – 3:30 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-green-bakery-ekologiskt-bageri-angered/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:09.532Z"
+}

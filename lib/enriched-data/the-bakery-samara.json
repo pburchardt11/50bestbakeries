@@ -1,0 +1,32 @@
+{
+  "slug": "the-bakery-samara",
+  "name": "The Bakery",
+  "city": "Samara",
+  "country": "Russia",
+  "placeId": "ChIJw3bI93seZkERBFnmxsZqMe8",
+  "googleName": "The Bakery",
+  "formattedAddress": "Ulitsa Penzenskaya, 57, Samara, Samarskaya oblast', Russia, 443082",
+  "phone": "8 (987) 446-85-05",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17235674650896652548",
+  "rating": 3.6,
+  "reviewCount": 5,
+  "coords": [
+    53.1917905,
+    50.1427304
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/the-bakery-samara/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:17.130Z"
+}

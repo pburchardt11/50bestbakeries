@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-reposteria-la-107-aguadilla",
+  "name": "Panaderia y Reposteria la 107",
+  "city": "Aguadilla",
+  "country": "Puerto Rico",
+  "placeId": "ChIJB7l9r3K9AowRPpTPOfFvXSk",
+  "googleName": "Café 107",
+  "formattedAddress": "m.3.5 Carretera 107, Borinquen, Aguadilla 00603, Puerto Rico",
+  "phone": "(787) 997-0195",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2980661610236843070",
+  "rating": 4.4,
+  "reviewCount": 387,
+  "coords": [
+    18.4732573,
+    -67.1532237
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 2:00 PM",
+    "Tuesday: 5:00 AM – 2:00 PM",
+    "Wednesday: 5:00 AM – 2:00 PM",
+    "Thursday: 5:00 AM – 2:00 PM",
+    "Friday: 5:00 AM – 2:00 PM",
+    "Saturday: 5:00 AM – 2:00 PM",
+    "Sunday: 5:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-y-reposteria-la-107-aguadilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:14.044Z"
+}

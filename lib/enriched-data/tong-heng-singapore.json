@@ -1,0 +1,32 @@
+{
+  "slug": "tong-heng-singapore",
+  "name": "Tong Heng",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJzSsOLQ0Z2jERqIFackFNEzI",
+  "googleName": "Tong Heng Traditional Cantonese Pastries",
+  "formattedAddress": "285 S Bridge Rd, Singapore 058833",
+  "phone": "6223 0398",
+  "website": "https://tongheng.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3608312669940646312",
+  "rating": 4.1,
+  "reviewCount": 1026,
+  "coords": [
+    1.2815761,
+    103.8450235
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tong-heng-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:29.710Z"
+}

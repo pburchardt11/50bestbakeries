@@ -1,0 +1,32 @@
+{
+  "slug": "levain-bakery-aguadilla",
+  "name": "Levain Bakery",
+  "city": "Aguadilla",
+  "country": "Puerto Rico",
+  "placeId": "ChIJ46JHey-WAowRPCEPZMJq8Wk",
+  "googleName": "Levain Artisan Breads",
+  "formattedAddress": "333 Wing Rd C, Maleza Alta, Aguadilla 00603, Puerto Rico",
+  "phone": "(787) 658-6220",
+  "website": "https://levainpr.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7634000226504614204",
+  "rating": 4.6,
+  "reviewCount": 847,
+  "coords": [
+    18.4998008,
+    -67.1304693
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/levain-bakery-aguadilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:39.033Z"
+}

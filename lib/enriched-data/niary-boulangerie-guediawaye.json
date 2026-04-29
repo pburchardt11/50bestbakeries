@@ -1,0 +1,32 @@
+{
+  "slug": "niary-boulangerie-guediawaye",
+  "name": "Niary Boulangerie",
+  "city": "Guédiawaye",
+  "country": "Senegal",
+  "placeId": "ChIJ67C09X0MwQ4R41-tH4JODwg",
+  "googleName": "Niary Boulangerie",
+  "formattedAddress": "QJH5+H5H, Guediawaye, Senegal",
+  "phone": "77 157 71 24",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=580769197738254307",
+  "rating": 3.7,
+  "reviewCount": 433,
+  "coords": [
+    14.7789439,
+    -17.3920172
+  ],
+  "openingHours": [
+    "Monday: 4:30 – 6:00 PM",
+    "Tuesday: 4:30 – 6:00 PM",
+    "Wednesday: 4:30 – 6:00 PM",
+    "Thursday: 4:30 – 6:00 PM",
+    "Friday: 4:30 – 6:00 PM",
+    "Saturday: 4:30 – 6:00 PM",
+    "Sunday: 4:30 – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/niary-boulangerie-guediawaye/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:16:29.510Z"
+}

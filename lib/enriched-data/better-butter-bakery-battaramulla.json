@@ -1,0 +1,32 @@
+{
+  "slug": "better-butter-bakery-battaramulla",
+  "name": "Better Butter Bakery",
+  "city": "Battaramulla",
+  "country": "Sri Lanka",
+  "placeId": "ChIJfVqyFxRX4joRHHzvCj7lGJw",
+  "googleName": "Better Butter Bakery (Battaramulla)",
+  "formattedAddress": "756 Battaramulla - Pannipitiya Rd, Battaramulla 10120, Sri Lanka",
+  "phone": "075 544 3443",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11247992123992013852",
+  "rating": 3.7,
+  "reviewCount": 50,
+  "coords": [
+    6.901845799999999,
+    79.9198344
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:30 PM",
+    "Tuesday: 8:30 AM – 6:30 PM",
+    "Wednesday: 8:30 AM – 6:30 PM",
+    "Thursday: 8:30 AM – 6:30 PM",
+    "Friday: 8:30 AM – 6:30 PM",
+    "Saturday: 8:30 AM – 6:30 PM",
+    "Sunday: 8:30 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/better-butter-bakery-battaramulla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:29:57.928Z"
+}

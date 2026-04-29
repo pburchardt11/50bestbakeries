@@ -1,0 +1,32 @@
+{
+  "slug": "essi-s-bakehouse-kitwe",
+  "name": "Essi's Bakehouse",
+  "city": "Kitwe",
+  "country": "Zambia",
+  "placeId": "ChIJpdKJZt_pbBkRaFpuT4rijZA",
+  "googleName": "Essi's Bakehouse",
+  "formattedAddress": "Chambeshi St, Kitwe, Zambia",
+  "phone": "097 3911843",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10416230596843821672",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    -12.8036956,
+    28.1940366
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/essi-s-bakehouse-kitwe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:58:53.973Z"
+}

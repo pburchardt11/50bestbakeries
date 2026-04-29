@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-oguia-l-etang-sale",
+  "name": "Boulangerie OGUIA",
+  "city": "L'Étang-Salé",
+  "country": "Réunion",
+  "placeId": "ChIJcXExsV6igiERdGNdfXqIBYc",
+  "googleName": "Boulangerie OGUIA",
+  "formattedAddress": "L'Étang-Salé 97427, Réunion",
+  "phone": "0262 24 31 51",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9729332629674484596",
+  "rating": 4.4,
+  "reviewCount": 125,
+  "coords": [
+    -21.2633885,
+    55.3630699
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 7:30 PM",
+    "Wednesday: 6:00 AM – 7:30 PM",
+    "Thursday: 6:00 AM – 7:30 PM",
+    "Friday: 6:00 AM – 7:30 PM",
+    "Saturday: 6:00 AM – 7:30 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-oguia-l-etang-sale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:11:01.925Z"
+}

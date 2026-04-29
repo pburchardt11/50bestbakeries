@@ -1,0 +1,32 @@
+{
+  "slug": "deli-cake",
+  "name": "Deli Cake",
+  "city": "ناحية دمشق",
+  "country": "Syria",
+  "placeId": "ChIJH-cX_UnnGBURi0zqCbIKx8o",
+  "googleName": "Deli Cake",
+  "formattedAddress": "G79M+9V6, Damascus, Syria",
+  "phone": "0944 022 440",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14611659275813670027",
+  "rating": 3.7,
+  "reviewCount": 7,
+  "coords": [
+    33.5184007,
+    36.2846397
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/deli-cake/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:37:04.736Z"
+}

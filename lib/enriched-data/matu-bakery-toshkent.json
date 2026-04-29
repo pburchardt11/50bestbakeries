@@ -1,0 +1,32 @@
+{
+  "slug": "matu-bakery-toshkent",
+  "name": "Matu Bakery",
+  "city": "Toshkent",
+  "country": "Uzbekistan",
+  "placeId": "ChIJT_NMjET1rjgRyOTajw5HtFA",
+  "googleName": "Matu Bakery",
+  "formattedAddress": "Buyuk Ipak Yo'li 256, Тоshkent, Toshkent, Uzbekistan",
+  "phone": "71 208 87 04",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5815351146710754504",
+  "rating": 4,
+  "reviewCount": 8,
+  "coords": [
+    41.3375002,
+    69.3560509
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/matu-bakery-toshkent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:55:59.944Z"
+}

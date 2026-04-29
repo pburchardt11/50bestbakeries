@@ -1,0 +1,32 @@
+{
+  "slug": "golden-krust-dar-es-salaam",
+  "name": "Golden Krust",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJ1aMuTtdNXBgRcAxNNVy_DYE",
+  "googleName": "Golden Krust Bakes",
+  "formattedAddress": "679P+C72, Dar es Salaam, Tanzania",
+  "phone": "0750 497 735",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9299299208342080624",
+  "rating": 5,
+  "reviewCount": 7,
+  "coords": [
+    -6.7814856,
+    39.2856257
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 10:30 PM",
+    "Tuesday: Closed",
+    "Wednesday: 7:30 AM – 10:30 PM",
+    "Thursday: 7:30 AM – 10:30 PM",
+    "Friday: 7:30 AM – 10:30 PM",
+    "Saturday: 7:30 AM – 10:30 PM",
+    "Sunday: 7:30 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/golden-krust-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:39:50.556Z"
+}

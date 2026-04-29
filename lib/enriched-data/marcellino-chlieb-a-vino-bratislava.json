@@ -1,0 +1,32 @@
+{
+  "slug": "marcellino-chlieb-a-vino-bratislava",
+  "name": "Marcellino chlieb a víno",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJ8WEj6LFjbEcRLx3BzBDDlmU",
+  "googleName": "Marcellino chlieb a víno",
+  "formattedAddress": "Balkánska 1136/53A, 851 10 Bratislava-Rusovce, Slovakia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7320252721259420975",
+  "rating": 4.7,
+  "reviewCount": 78,
+  "coords": [
+    48.051019,
+    17.1499713
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/marcellino-chlieb-a-vino-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:22:50.684Z"
+}

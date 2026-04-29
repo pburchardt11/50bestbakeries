@@ -1,0 +1,32 @@
+{
+  "slug": "delices-de-la-capitale-lome",
+  "name": "Délices de la Capitale",
+  "city": "Lomé",
+  "country": "Togo",
+  "placeId": "ChIJgYUG0OXhIxARoQA76N-fDwI",
+  "googleName": "Délices de la Capitale",
+  "formattedAddress": "Lomé, Togo",
+  "phone": "22 20 96 97",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=148513096749220001",
+  "rating": 3.5,
+  "reviewCount": 125,
+  "coords": [
+    6.1360633,
+    1.2199994
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/delices-de-la-capitale-lome/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:42:26.844Z"
+}

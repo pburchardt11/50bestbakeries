@@ -1,0 +1,32 @@
+{
+  "slug": "freshest-bakeries-chitungwiza",
+  "name": "Freshest Bakeries",
+  "city": "Chitungwiza",
+  "country": "Zimbabwe",
+  "placeId": "ChIJh0AQrlOZMRkRgU5L77lIbKk",
+  "googleName": "Freshest Bakeries",
+  "formattedAddress": "19713 Mutema Road, Tilcor Rd, Chitungwiza, Zimbabwe",
+  "phone": "077 244 1312",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12208212653315411585",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    -18.0210333,
+    31.0508369
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/freshest-bakeries-chitungwiza/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:00:56.235Z"
+}

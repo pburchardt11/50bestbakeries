@@ -1,0 +1,32 @@
+{
+  "slug": "semeur-bakery-nangang-district",
+  "name": "Semeur Bakery",
+  "city": "Nangang District",
+  "country": "Taiwan",
+  "placeId": "ChIJCZvI8V2rQjQREmAxwRvylAg",
+  "googleName": "Semeur Nangang Shop",
+  "formattedAddress": "115, Taiwan, Taipei City, Nangang District, 忠孝東路七段369號B棟1樓",
+  "phone": "02 2789 0568",
+  "website": "http://www.semeur.com.tw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=618385249875877906",
+  "rating": 4.5,
+  "reviewCount": 415,
+  "coords": [
+    25.05277,
+    121.606128
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:30 PM",
+    "Tuesday: 7:30 AM – 9:30 PM",
+    "Wednesday: 7:30 AM – 9:30 PM",
+    "Thursday: 7:30 AM – 9:30 PM",
+    "Friday: 7:30 AM – 10:00 PM",
+    "Saturday: 7:30 AM – 10:00 PM",
+    "Sunday: 7:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/semeur-bakery-nangang-district/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:05.223Z"
+}

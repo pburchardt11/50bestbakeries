@@ -1,0 +1,32 @@
+{
+  "slug": "melika-cafe-amphoe-krok-phra",
+  "name": "Melika Cafe‘",
+  "city": "Amphoe Krok Phra",
+  "country": "Thailand",
+  "placeId": "ChIJwXkzEgCt4TARegiyNiIZ6ns",
+  "googleName": "Melika Cafe",
+  "formattedAddress": "19 4 ต.โกรกพระ Amphoe Krok Phra, Chang Wat Nakhon Sawan 60170, Thailand",
+  "phone": "063 445 2415",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8928976845952649338",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    15.5475173,
+    100.0768812
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 5:00 PM",
+    "Wednesday: 11:00 AM – 5:00 PM",
+    "Thursday: 11:00 AM – 5:00 PM",
+    "Friday: 11:00 AM – 5:00 PM",
+    "Saturday: 11:00 AM – 5:00 PM",
+    "Sunday: 11:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/melika-cafe-amphoe-krok-phra/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:41:24.663Z"
+}

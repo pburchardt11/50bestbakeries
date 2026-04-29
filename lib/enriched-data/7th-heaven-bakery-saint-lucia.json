@@ -1,0 +1,32 @@
+{
+  "slug": "7th-heaven-bakery-saint-lucia",
+  "name": "7th Heaven Bakery",
+  "city": "Saint Lucia",
+  "country": "St. Lucia",
+  "placeId": "ChIJJ9nxj_dDQIwRqHvKe1YvPHM",
+  "googleName": "7th Heaven Bakery",
+  "formattedAddress": "The Harbor Club, Rodney Bay Marina, Gros Islet, St Lucia",
+  "phone": null,
+  "website": "https://www.theharborclub.com/restaurants-and-bars/7th-heaven/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8303563861454912424",
+  "rating": 4.3,
+  "reviewCount": 139,
+  "coords": [
+    14.0730222,
+    -60.9478173
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/7th-heaven-bakery-saint-lucia/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:31:08.963Z"
+}

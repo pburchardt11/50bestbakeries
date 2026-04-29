@@ -1,0 +1,32 @@
+{
+  "slug": "paseo-varadero-asuncion",
+  "name": "Paseo Varadero",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJPbyM0SIIXZQRwv_8aHl3gMs",
+  "googleName": "Panadería & Confitería | Paseo Varadero",
+  "formattedAddress": "Guillermo Arias 2303, Asunción 001003, Paraguay",
+  "phone": "0981 500592",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14663851750054494146",
+  "rating": 4.4,
+  "reviewCount": 183,
+  "coords": [
+    -25.2811139,
+    -57.6558698
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 2:00 PM, 4:00 – 9:00 PM",
+    "Tuesday: 8:00 AM – 2:00 PM, 4:00 – 9:00 PM",
+    "Wednesday: 8:00 AM – 2:00 PM, 4:00 – 9:00 PM",
+    "Thursday: 8:00 AM – 2:00 PM, 4:00 – 9:00 PM",
+    "Friday: 8:00 AM – 2:00 PM, 4:00 – 9:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM, 4:00 – 9:00 PM",
+    "Sunday: 8:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/paseo-varadero-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:54:01.310Z"
+}

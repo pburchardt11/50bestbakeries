@@ -1,0 +1,32 @@
+{
+  "slug": "jovnat-bakery-gulu",
+  "name": "Jovnat Bakery",
+  "city": "Gulu",
+  "country": "Uganda",
+  "placeId": "ChIJ07xeS22ncRcR2k3U7EfZp5w",
+  "googleName": "Jovnat Bakery",
+  "formattedAddress": "Q7FW+3RW, Coronation Rd, Gulu, Uganda",
+  "phone": "039 3236699",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11288229893966679514",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    2.7727261,
+    32.2970683
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/jovnat-bakery-gulu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:49:24.789Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-panamenita-barrio-colon",
+  "name": "Panaderia La Panameñita",
+  "city": "Barrio Colón",
+  "country": "Panama",
+  "placeId": "ChIJl0PU2i2YrI8RGWUmOVlt9yk",
+  "googleName": "Panaderia La Panameñita",
+  "formattedAddress": "Av San Martín, La Chorrera, Provincia de Panamá Oeste, Panama",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3024005904780911897",
+  "rating": 4.5,
+  "reviewCount": 448,
+  "coords": [
+    8.881198,
+    -79.7799692
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-la-panamenita-barrio-colon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:52:08.562Z"
+}

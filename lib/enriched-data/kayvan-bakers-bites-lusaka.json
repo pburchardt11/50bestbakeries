@@ -1,0 +1,32 @@
+{
+  "slug": "kayvan-bakers-bites-lusaka",
+  "name": "Kayvan bakers & bites",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJ79-1_39fQBkRlqUgL6V0Hss",
+  "googleName": "Kayvan bakers & bites",
+  "formattedAddress": "10 Miles, 15 miles, Great N Rd, Lusaka 10101, Zambia",
+  "phone": "077 6518604",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14636264091809785238",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -15.2659237,
+    28.2637491
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 9:00 PM",
+    "Tuesday: 5:30 AM – 9:00 PM",
+    "Wednesday: 5:30 AM – 9:00 PM",
+    "Thursday: 5:30 AM – 9:00 PM",
+    "Friday: 5:30 AM – 9:00 PM",
+    "Saturday: 5:30 AM – 9:00 PM",
+    "Sunday: 5:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kayvan-bakers-bites-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:11.987Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "tiannahs-cakery-lusaka",
+  "name": "Tiannahs Cakery",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJ53MaSACLQBkRZ4qzWlJ-bow",
+  "googleName": "Tiannahs Cakery and Supplies",
+  "formattedAddress": "Lusaka, Zambia",
+  "phone": "097 7967972",
+  "website": "http://www.giraffecreatives.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10119164304922217063",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -15.3529912,
+    28.351871
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 AM",
+    "Tuesday: 8:00 AM – 6:00 AM",
+    "Wednesday: 8:00 AM – 6:00 AM",
+    "Thursday: 8:00 AM – 6:00 AM",
+    "Friday: 8:00 AM – 6:00 AM",
+    "Saturday: 8:00 AM – 4:00 AM",
+    "Sunday: 8:00 AM – 3:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiannahs-cakery-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:41.191Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "le-fin-gourmet-dakar",
+  "name": "Le Fin Gourmet",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJs19cdINzwQ4RfezxEmHUtww",
+  "googleName": "Le Fin Gourmet",
+  "formattedAddress": "X Thiès, Rue PE 17, Dakar, Senegal",
+  "phone": "77 130 73 75",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=916434562587946109",
+  "rating": 5,
+  "reviewCount": 6,
+  "coords": [
+    14.6951019,
+    -17.4606604
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-fin-gourmet-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:46.937Z"
+}

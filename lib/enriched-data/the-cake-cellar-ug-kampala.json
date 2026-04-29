@@ -1,0 +1,32 @@
+{
+  "slug": "the-cake-cellar-ug-kampala",
+  "name": "The Cake Cellar Ug",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJPwz2Y3i7fRcRc2xMguTsRZg",
+  "googleName": "The Cake Counter",
+  "formattedAddress": "Bukoto Rd, Kampala, Uganda",
+  "phone": "0704 200677",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10972436533340826739",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    0.3526282,
+    32.595647
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-cellar-ug-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:50:27.307Z"
+}

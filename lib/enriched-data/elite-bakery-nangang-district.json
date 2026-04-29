@@ -1,0 +1,32 @@
+{
+  "slug": "elite-bakery-nangang-district",
+  "name": "Elite Bakery",
+  "city": "Nangang District",
+  "country": "Taiwan",
+  "placeId": "ChIJbzFx8l2pQjQRoJTDnsTy9K4",
+  "googleName": "Elite Bakery 一禮烘焙",
+  "formattedAddress": "115011, Taiwan, Taipei City, Nangang District, Section 7, Zhongxiao E Rd, 359號7樓",
+  "phone": "02 6615 6565",
+  "website": "https://eliteconcept.cyberbiz.co/events/elitebakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=12606968183207990432",
+  "rating": 3.6,
+  "reviewCount": 57,
+  "coords": [
+    25.0527572,
+    121.6063182
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 6:00 PM",
+    "Tuesday: 11:00 AM – 6:00 PM",
+    "Wednesday: 11:00 AM – 6:00 PM",
+    "Thursday: 11:00 AM – 6:00 PM",
+    "Friday: 11:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elite-bakery-nangang-district/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:08.084Z"
+}

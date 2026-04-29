@@ -1,0 +1,32 @@
+{
+  "slug": "eclair-samarkand",
+  "name": "Eclair",
+  "city": "Samarkand",
+  "country": "Uzbekistan",
+  "placeId": "ChIJ_XQLTDsZTT8RuHR5PAxYGwc",
+  "googleName": "Eclair",
+  "formattedAddress": "Amir Temur ko'chasi 86, Samarqand, Samarqand viloyati, Uzbekistan",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=512099792214127800",
+  "rating": 4.4,
+  "reviewCount": 17,
+  "coords": [
+    39.6500349,
+    66.9467478
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/eclair-samarkand/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:55:11.980Z"
+}

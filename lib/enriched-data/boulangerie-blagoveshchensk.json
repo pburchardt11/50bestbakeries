@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-blagoveshchensk",
+  "name": "Boulangerie",
+  "city": "Blagoveshchensk",
+  "country": "Russia",
+  "placeId": "ChIJ2WSnogNBiV4RWcU-EmhAmsU",
+  "googleName": "BOULANGERIE",
+  "formattedAddress": "Pereulok Sv. Innokentiya, 3, Blagoveshchensk, Amurskaya oblast', Russia, 675004",
+  "phone": "8 (416) 220-03-25",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14238763987612124505",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    50.2569909,
+    127.5239613
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/boulangerie-blagoveshchensk/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:35.027Z"
+}

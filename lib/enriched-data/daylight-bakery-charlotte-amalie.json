@@ -1,0 +1,32 @@
+{
+  "slug": "daylight-bakery-charlotte-amalie",
+  "name": "Daylight Bakery",
+  "city": "Charlotte Amalie",
+  "country": "U.S. Virgin Islands",
+  "placeId": "ChIJRdi3co0aBYwRK_na4XU1aAI",
+  "googleName": "Daylight Bakery And Diamond Barrel Restaurant",
+  "formattedAddress": "83RF+H6V St Thomas, Norre Gade, Charlotte Amalie, St Thomas 00802, USVI",
+  "phone": "(340) 776-1414",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=173447366070434091",
+  "rating": 4.4,
+  "reviewCount": 103,
+  "coords": [
+    18.3414796,
+    -64.9269639
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/daylight-bakery-charlotte-amalie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:46:55.208Z"
+}

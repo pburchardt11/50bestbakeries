@@ -1,0 +1,32 @@
+{
+  "slug": "nonpareil",
+  "name": "Nonpareil",
+  "city": "Дніпро",
+  "country": "Ukraine",
+  "placeId": "ChIJbSb5tLHk20AR3pAkSEYIo7c",
+  "googleName": "ТМ Nonpareil",
+  "formattedAddress": "вулиця Тверська, 8, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+  "phone": "050 773 3311",
+  "website": "http://nonpareil.ua/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13232429228095738078",
+  "rating": 3.3,
+  "reviewCount": 49,
+  "coords": [
+    48.5100059,
+    35.0801906
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nonpareil/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:35.230Z"
+}

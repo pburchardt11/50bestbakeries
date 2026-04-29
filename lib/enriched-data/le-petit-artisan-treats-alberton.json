@@ -1,0 +1,32 @@
+{
+  "slug": "le-petit-artisan-treats-alberton",
+  "name": "Le Petit Artisan Treats",
+  "city": "Alberton",
+  "country": "South Africa",
+  "placeId": "ChIJPz1d9_gPlR4RXjwW9X-ActI",
+  "googleName": "Le Petit Artisan Treats",
+  "formattedAddress": "4 Grey St, Alberante, Alberton, 1449, South Africa",
+  "phone": "083 454 1831",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15164324182370958430",
+  "rating": 4.8,
+  "reviewCount": 72,
+  "coords": [
+    -26.270685,
+    28.1034949
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-petit-artisan-treats-alberton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:26:41.077Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "orvel-buraydah",
+  "name": "Orvel",
+  "city": "Buraydah",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJQydb4ydXfxURV6Ecw_ZFMBY",
+  "googleName": "Orvel",
+  "formattedAddress": "شارع الإمام البخاري، Ar Rayan, Buraydah 52379, Saudi Arabia",
+  "phone": "054 887 4447",
+  "website": "https://orvel.sa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1598854793854230871",
+  "rating": 4.4,
+  "reviewCount": 923,
+  "coords": [
+    26.4014487,
+    43.9165632
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:30 PM",
+    "Tuesday: 7:00 AM – 12:00 AM",
+    "Wednesday: 7:00 AM – 12:00 AM",
+    "Thursday: 7:00 AM – 12:00 AM",
+    "Friday: 1:00 PM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/orvel-buraydah/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:14:40.418Z"
+}

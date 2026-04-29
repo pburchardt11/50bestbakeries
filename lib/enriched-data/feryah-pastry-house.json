@@ -1,0 +1,32 @@
+{
+  "slug": "feryah-pastry-house",
+  "name": "Feryah Pastry House",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJsSl2zujFRT4ROcNbb4HxPig",
+  "googleName": "Feryah Pastry House",
+  "formattedAddress": "Building 2, Street 835, Zone, 3 Barahat Msheireb St, Doha, Qatar",
+  "phone": "4146 1432",
+  "website": "https://feryah-pastryhouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2900020748294538041",
+  "rating": 4.1,
+  "reviewCount": 161,
+  "coords": [
+    25.2866825,
+    51.5263382
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:00 PM",
+    "Tuesday: 7:30 AM – 11:00 PM",
+    "Wednesday: 7:30 AM – 11:00 PM",
+    "Thursday: 7:30 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 7:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/feryah-pastry-house/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:01.113Z"
+}

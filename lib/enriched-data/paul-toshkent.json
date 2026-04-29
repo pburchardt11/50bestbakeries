@@ -1,0 +1,32 @@
+{
+  "slug": "paul-toshkent",
+  "name": "Paul",
+  "city": "Toshkent",
+  "country": "Uzbekistan",
+  "placeId": "ChIJV6MaIV-LrjgRHqBnef_mr20",
+  "googleName": "Paul",
+  "formattedAddress": "Амир Темур шоҳ кўчаси 60, Тоshkent, Toshkent, Uzbekistan",
+  "phone": "88 167 18 89",
+  "website": "http://paul.uz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7903789855986393118",
+  "rating": 4.2,
+  "reviewCount": 383,
+  "coords": [
+    41.3233578,
+    69.282747
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paul-toshkent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:55:41.964Z"
+}

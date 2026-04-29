@@ -1,0 +1,32 @@
+{
+  "slug": "lamane-bakery-kigali",
+  "name": "Lamane Bakery",
+  "city": "Kigali",
+  "country": "Rwanda",
+  "placeId": "ChIJoYWH8TWm3BkRDxoiDWZXLP8",
+  "googleName": "Lamane Bakery & Cafe - Kicukiro",
+  "formattedAddress": "KK 21 Ave, Kigali, Rwanda",
+  "phone": "0788 836 640",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18387167474465511951",
+  "rating": 3.9,
+  "reviewCount": 441,
+  "coords": [
+    -1.9754625,
+    30.1083008
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/lamane-bakery-kigali/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:27.123Z"
+}

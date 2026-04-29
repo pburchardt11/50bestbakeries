@@ -1,0 +1,32 @@
+{
+  "slug": "chateraise-sembawang",
+  "name": "Châteraisé",
+  "city": "Sembawang",
+  "country": "Singapore",
+  "placeId": "ChIJk5awMX0T2jERkZuYICPrR-s",
+  "googleName": "Châteraisé",
+  "formattedAddress": "30 Sembawang Dr, #01-07 Sun Plaza, Singapore 757713",
+  "phone": "6366 8687",
+  "website": "https://chateraisesg.getz.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16953777858362776465",
+  "rating": 3.6,
+  "reviewCount": 38,
+  "coords": [
+    1.4482748,
+    103.8195636
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chateraise-sembawang/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:03.627Z"
+}

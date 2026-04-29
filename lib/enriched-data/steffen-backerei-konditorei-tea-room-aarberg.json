@@ -1,0 +1,32 @@
+{
+  "slug": "steffen-backerei-konditorei-tea-room-aarberg",
+  "name": "Steffen Bäckerei Konditorei Tea Room",
+  "city": "Aarberg",
+  "country": "Switzerland",
+  "placeId": "ChIJp2cg-5QXjkcRRK2Up5K6s-w",
+  "googleName": "Steffen Bäckerei Konditorei Tea-Room",
+  "formattedAddress": "Stadtpl. 5, 3270 Aarberg, Switzerland",
+  "phone": "032 392 68 07",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17056181352821730628",
+  "rating": 4.4,
+  "reviewCount": 601,
+  "coords": [
+    47.044723,
+    7.276866
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 6:30 PM",
+    "Wednesday: 7:00 AM – 6:30 PM",
+    "Thursday: 7:00 AM – 6:30 PM",
+    "Friday: 7:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/steffen-backerei-konditorei-tea-room-aarberg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:02.142Z"
+}

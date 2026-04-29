@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-eben-ezer-chitre",
+  "name": "Panadería EBEN EZER",
+  "city": "Chitré",
+  "country": "Panama",
+  "placeId": "ChIJPV-4LS7rrY8RUhL6lwtSJKE",
+  "googleName": "Panadería Eben-Ezer",
+  "formattedAddress": "XGCP+3C4, La Arena, Herrera Province, Panama",
+  "phone": "6244-6606",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11611495949015847506",
+  "rating": 4.4,
+  "reviewCount": 45,
+  "coords": [
+    7.970126799999999,
+    -80.4639363
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 8:00 PM",
+    "Tuesday: 5:00 AM – 8:00 PM",
+    "Wednesday: 5:00 AM – 8:00 PM",
+    "Thursday: 5:00 AM – 8:00 PM",
+    "Friday: 5:00 AM – 8:00 PM",
+    "Saturday: 5:00 AM – 8:00 PM",
+    "Sunday: 5:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-eben-ezer-chitre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:52:42.099Z"
+}

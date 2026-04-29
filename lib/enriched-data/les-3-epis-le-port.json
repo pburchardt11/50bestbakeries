@@ -1,0 +1,32 @@
+{
+  "slug": "les-3-epis-le-port",
+  "name": "Les 3 Epis",
+  "city": "Le Port",
+  "country": "Réunion",
+  "placeId": "ChIJ9fG0beWJgiER5kvVgu1sS88",
+  "googleName": "Les 3 Épis",
+  "formattedAddress": "6 Rue Renaudière de Vaux, Le Port 97420, Réunion",
+  "phone": "0693 00 04 65",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14937152356462447590",
+  "rating": 4.1,
+  "reviewCount": 36,
+  "coords": [
+    -20.9358669,
+    55.28995099999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 12:30 PM",
+    "Wednesday: 6:00 AM – 12:30 PM",
+    "Thursday: 6:00 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Friday: 6:00 AM – 12:30 PM, 3:00 – 6:30 PM",
+    "Saturday: 6:00 AM – 12:30 PM",
+    "Sunday: 6:15 AM – 12:15 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-3-epis-le-port/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:11:50.305Z"
+}

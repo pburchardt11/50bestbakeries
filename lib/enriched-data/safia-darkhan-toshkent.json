@@ -1,0 +1,32 @@
+{
+  "slug": "safia-darkhan-toshkent",
+  "name": "Safia Darkhan",
+  "city": "Toshkent",
+  "country": "Uzbekistan",
+  "placeId": "ChIJb8d6py71rjgROORCvkXbmGM",
+  "googleName": "Safia",
+  "formattedAddress": "массив Алай, 1, 100000, Tashkent, Uzbekistan",
+  "phone": "78 113 40 40",
+  "website": "https://safiabakery.uz/ru",
+  "googleMapsUrl": "https://maps.google.com/?cid=7176727098806166584",
+  "rating": 4.4,
+  "reviewCount": 112,
+  "coords": [
+    41.316412,
+    69.290279
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/safia-darkhan-toshkent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:55:49.741Z"
+}

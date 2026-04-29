@@ -1,0 +1,32 @@
+{
+  "slug": "pearl-s-cookies-chitre",
+  "name": "Pearl's Cookies",
+  "city": "Chitré",
+  "country": "Panama",
+  "placeId": "ChIJPx8dKLmVrY8R3AVrF-X1aeg",
+  "googleName": "Pearl's Cookies | Cafetería y galletas en Chitré",
+  "formattedAddress": "Ave. Pérez, Chitré, Provincia de Herrera, Panama",
+  "phone": "6223-6672",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16747187053643105756",
+  "rating": 5,
+  "reviewCount": 32,
+  "coords": [
+    7.9670386,
+    -80.430786
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/pearl-s-cookies-chitre/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:52:45.541Z"
+}

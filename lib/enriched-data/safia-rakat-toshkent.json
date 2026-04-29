@@ -1,0 +1,32 @@
+{
+  "slug": "safia-rakat-toshkent",
+  "name": "Safia Rakat",
+  "city": "Toshkent",
+  "country": "Uzbekistan",
+  "placeId": "ChIJ73yApveKrjgRFUbQI37aiHk",
+  "googleName": "Safia",
+  "formattedAddress": "Imam at-Termeziy ko'chasi 54, 100100, Тоshkent, Toshkent, Uzbekistan",
+  "phone": "78 113 40 40",
+  "website": "https://safiabakery.uz/ru",
+  "googleMapsUrl": "https://maps.google.com/?cid=8757489710723515925",
+  "rating": 4.3,
+  "reviewCount": 336,
+  "coords": [
+    41.2888131,
+    69.2426186
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/safia-rakat-toshkent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:56:14.026Z"
+}

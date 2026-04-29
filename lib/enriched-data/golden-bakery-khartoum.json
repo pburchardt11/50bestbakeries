@@ -1,0 +1,32 @@
+{
+  "slug": "golden-bakery-khartoum",
+  "name": "Golden Bakery",
+  "city": "Khartoum",
+  "country": "Sudan",
+  "placeId": "ChIJPRgGpKuRjhYRu1bE28sqMoc",
+  "googleName": "المخبز الذهبي| Golden bakery",
+  "formattedAddress": "HH6H+RFV, Bashir Elnefeidi Street, Al Khurtum, Sudan",
+  "phone": "092 255 4081",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9741895999009609403",
+  "rating": 4.1,
+  "reviewCount": 37,
+  "coords": [
+    15.5621124,
+    32.57868090000001
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:00 PM",
+    "Tuesday: 7:30 AM – 11:00 PM",
+    "Wednesday: 7:30 AM – 11:00 PM",
+    "Thursday: 7:30 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 7:30 AM – 11:00 PM",
+    "Sunday: 7:30 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/golden-bakery-khartoum/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:31:49.469Z"
+}

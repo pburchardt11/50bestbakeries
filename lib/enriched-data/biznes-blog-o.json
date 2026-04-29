@@ -1,0 +1,32 @@
+{
+  "slug": "biznes-blog-o",
+  "name": "biznes_blog_o",
+  "city": "Івано-Франківськ",
+  "country": "Ukraine",
+  "placeId": "ChIJ5wK9N8PBMEcReFxdYLXrAp8",
+  "googleName": "Biznes-Tsentr Orenda Ofisiv",
+  "formattedAddress": "Nezalezhnosti St, 25, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76018",
+  "phone": "050 163 5853",
+  "website": "http://smartrentif.tilda.ws/page1/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11457979566222302328",
+  "rating": 5,
+  "reviewCount": 22,
+  "coords": [
+    48.919641,
+    24.7125418
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/biznes-blog-o/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:32.277Z"
+}

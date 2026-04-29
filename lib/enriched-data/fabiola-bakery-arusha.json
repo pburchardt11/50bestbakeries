@@ -1,0 +1,32 @@
+{
+  "slug": "fabiola-bakery-arusha",
+  "name": "Fabiola Bakery",
+  "city": "Arusha",
+  "country": "Tanzania",
+  "placeId": "ChIJeWsBhsQbNxgRYzVNEpghFic",
+  "googleName": "Vena Bakery",
+  "formattedAddress": "Kwangulelo, Tanzania",
+  "phone": "0787 008 270",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2816475553992619363",
+  "rating": 5,
+  "reviewCount": 7,
+  "coords": [
+    -3.3671403,
+    36.72756
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fabiola-bakery-arusha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:30.206Z"
+}

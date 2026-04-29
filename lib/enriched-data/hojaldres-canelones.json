@@ -1,0 +1,32 @@
+{
+  "slug": "hojaldres-canelones",
+  "name": "Hojaldres",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJB0mEI-2Bn5URBvpoAucOliE",
+  "googleName": "Masa Filo Uruguay",
+  "formattedAddress": "Francisco de Medina 1525 BIS, 11600 Montevideo, Departamento de Montevideo, Uruguay",
+  "phone": "2623 3790",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2420138235098888710",
+  "rating": 4.7,
+  "reviewCount": 15,
+  "coords": [
+    -34.8994395,
+    -56.1440589
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 4:30 PM",
+    "Tuesday: 8:30 AM – 4:30 PM",
+    "Wednesday: 8:30 AM – 4:30 PM",
+    "Thursday: 8:30 AM – 4:30 PM",
+    "Friday: 8:30 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hojaldres-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:54:04.872Z"
+}

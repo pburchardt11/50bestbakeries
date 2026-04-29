@@ -1,0 +1,24 @@
+{
+  "slug": "ofra-arad",
+  "name": "Ofra",
+  "city": "Arad",
+  "country": "Romania",
+  "placeId": "ChIJg5A4SWqYRUcRI2TWz1KP6Qg",
+  "googleName": "Ofra",
+  "formattedAddress": "Aurel Vlaicu, Arad, Romania",
+  "phone": "0257 211 210",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=642202007714030627",
+  "rating": 4.5,
+  "reviewCount": 60,
+  "coords": [
+    46.1953145,
+    21.3011513
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/ofra-arad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:51.153Z"
+}

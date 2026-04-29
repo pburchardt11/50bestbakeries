@@ -1,0 +1,32 @@
+{
+  "slug": "breads-panaderia-asuncion",
+  "name": "Breads Panadería",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJvU7h6-anXZQRmi4vM_bNexs",
+  "googleName": "Breads Panadería",
+  "formattedAddress": "Federación de Químicos del Paraguay, Azara 1175, Asunción 001220, Paraguay",
+  "phone": "(021) 212 906",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1980402918463843994",
+  "rating": 4.6,
+  "reviewCount": 14,
+  "coords": [
+    -25.2902974,
+    -57.62457759999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/breads-panaderia-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:55:19.451Z"
+}

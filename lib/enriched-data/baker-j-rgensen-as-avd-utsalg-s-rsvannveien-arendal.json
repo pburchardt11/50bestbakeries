@@ -1,0 +1,32 @@
+{
+  "slug": "baker-j-rgensen-as-avd-utsalg-s-rsvannveien-arendal",
+  "name": "Baker Jørgensen AS avd Utsalg Sørsvannveien",
+  "city": "Arendal",
+  "country": "Norway",
+  "placeId": "ChIJ67xsgeeUR0YRouqiSDHEuKY",
+  "googleName": "Baker Jørgensen Torvet",
+  "formattedAddress": "Torvet 11, 4836 Arendal, Norway",
+  "phone": "40 03 69 65",
+  "website": "http://www.bakerjorgensen.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12013567721961876130",
+  "rating": 4.3,
+  "reviewCount": 381,
+  "coords": [
+    58.46106669999999,
+    8.7668786
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/baker-j-rgensen-as-avd-utsalg-s-rsvannveien-arendal/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:55.670Z"
+}

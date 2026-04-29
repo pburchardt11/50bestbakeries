@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-walchli-aarau",
+  "name": "Bäckerei Wälchli",
+  "city": "Aarau",
+  "country": "Switzerland",
+  "placeId": "ChIJVZSEPvA7kEcRKm5yaSbyyBg",
+  "googleName": "Wälchli Bäckerei-Konditorei-Confiserie GmbH",
+  "formattedAddress": "Hintere Bahnhofstrasse 48, 5000 Aarau, Switzerland",
+  "phone": "062 822 37 37",
+  "website": "http://www.baeckerei-waelchli.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1785943499044187690",
+  "rating": 3.8,
+  "reviewCount": 146,
+  "coords": [
+    47.39102399999999,
+    8.052692
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 7:30 PM",
+    "Tuesday: 5:00 AM – 7:30 PM",
+    "Wednesday: 5:00 AM – 7:30 PM",
+    "Thursday: 5:00 AM – 7:30 PM",
+    "Friday: 5:00 AM – 7:30 PM",
+    "Saturday: 6:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-walchli-aarau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:57.411Z"
+}

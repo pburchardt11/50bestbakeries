@@ -1,0 +1,32 @@
+{
+  "slug": "lobels-biscuits-bulawayo",
+  "name": "Lobels Biscuits",
+  "city": "Bulawayo",
+  "country": "Zimbabwe",
+  "placeId": "ChIJlWepRfZTtR4R1hM-gMDTGYk",
+  "googleName": "Lobels Biscuits",
+  "formattedAddress": "Luton Street, Box 8099, Bulawayo, Zimbabwe",
+  "phone": "(029) 2269831",
+  "website": "http://www.lobelsbiscuits.co.zw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9879160081352627158",
+  "rating": 3.9,
+  "reviewCount": 27,
+  "coords": [
+    -20.170031,
+    28.5778126
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:30 PM",
+    "Tuesday: 8:00 AM – 4:30 PM",
+    "Wednesday: 8:00 AM – 4:30 PM",
+    "Thursday: 8:00 AM – 4:30 PM",
+    "Friday: 8:00 AM – 4:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lobels-biscuits-bulawayo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:00:24.276Z"
+}

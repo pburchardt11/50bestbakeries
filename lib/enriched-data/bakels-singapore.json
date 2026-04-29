@@ -1,0 +1,32 @@
+{
+  "slug": "bakels-singapore",
+  "name": "Bakels Singapore",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJq6qqOvIP2jERo-kQttgaxzs",
+  "googleName": "Bakels Singapore (Pte) Ltd",
+  "formattedAddress": "65 Quality Rd, Singapore 618820",
+  "phone": "6265 2577",
+  "website": "http://www.bakelsingapore.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4307441086672988579",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    1.3352152,
+    103.7109355
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakels-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:39.286Z"
+}

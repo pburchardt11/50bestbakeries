@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-handal-bethlehem",
+  "name": "Patisserie Handal",
+  "city": "Bethlehem",
+  "country": "Palestine",
+  "placeId": "ChIJB2qY3W_YAhURsdxX5IbNmwU",
+  "googleName": "Patisserie Handal حلويات حنضل",
+  "formattedAddress": "30 Star Street, Bethlehem",
+  "phone": "02 274 1512",
+  "website": "http://www.handalcake.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=404142570820066481",
+  "rating": 4.7,
+  "reviewCount": 81,
+  "coords": [
+    31.7105179,
+    35.2033556
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/patisserie-handal-bethlehem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:50:25.621Z"
+}

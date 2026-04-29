@@ -1,0 +1,32 @@
+{
+  "slug": "kurtosh-battaramulla",
+  "name": "Kurtosh",
+  "city": "Battaramulla",
+  "country": "Sri Lanka",
+  "placeId": "ChIJj8hYR1VX4joRQ7vqxvtM55A",
+  "googleName": "Kurtosh",
+  "formattedAddress": "769 B47, Battaramulla 94043, Sri Lanka",
+  "phone": "0117 152 191",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10441398905339558723",
+  "rating": 4.3,
+  "reviewCount": 727,
+  "coords": [
+    6.900919,
+    79.92056769999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kurtosh-battaramulla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:29:55.065Z"
+}

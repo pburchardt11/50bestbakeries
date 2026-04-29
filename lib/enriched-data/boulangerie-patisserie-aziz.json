@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-aziz",
+  "name": "Boulangerie Pâtisserie AZIZ",
+  "city": "أريانة",
+  "country": "Tunisia",
+  "placeId": "ChIJXV7RtlLL4hIR1UgmjX0U1iA",
+  "googleName": "Boulangerie Pâtisserie Aziz",
+  "formattedAddress": "V56J+45G, Ariana, Tunisia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2366101183701338325",
+  "rating": 4,
+  "reviewCount": 38,
+  "coords": [
+    36.8603244,
+    10.1804639
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-aziz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:45:53.878Z"
+}

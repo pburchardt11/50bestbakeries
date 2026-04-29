@@ -1,0 +1,32 @@
+{
+  "slug": "imholz-glutenfrei-adliswil",
+  "name": "Imholz Glutenfrei",
+  "city": "Adliswil",
+  "country": "Switzerland",
+  "placeId": "ChIJf2HN4vUJkEcRVrjwHnERG6c",
+  "googleName": "Bakery Imholz AG",
+  "formattedAddress": "Albisstrasse 9, 8134 Adliswil, Switzerland",
+  "phone": "044 710 44 45",
+  "website": "http://www.bake-house.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12041237206253221974",
+  "rating": 4.1,
+  "reviewCount": 69,
+  "coords": [
+    47.3114851,
+    8.5257706
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/imholz-glutenfrei-adliswil/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:25.202Z"
+}

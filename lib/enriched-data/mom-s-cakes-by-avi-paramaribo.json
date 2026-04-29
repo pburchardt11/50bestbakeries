@@ -1,0 +1,32 @@
+{
+  "slug": "mom-s-cakes-by-avi-paramaribo",
+  "name": "Mom's Cakes by Avi",
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "placeId": "ChIJCxwWvdU1CI0Rrr6og4cvCBg",
+  "googleName": "Mom's Cakes",
+  "formattedAddress": "Ahinsaweg #11, Paramaribo, Suriname",
+  "phone": "893-7462",
+  "website": "http://www.facebook.com/MomsCakes.byAvi",
+  "googleMapsUrl": "https://maps.google.com/?cid=1731686315799920302",
+  "rating": 4.8,
+  "reviewCount": 13,
+  "coords": [
+    5.860784799999999,
+    -55.1654127
+  ],
+  "openingHours": [
+    "Monday: 2:00 – 7:00 PM",
+    "Tuesday: 2:00 – 7:00 PM",
+    "Wednesday: 2:00 – 7:00 PM",
+    "Thursday: 2:00 – 7:00 PM",
+    "Friday: 2:00 – 7:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/mom-s-cakes-by-avi-paramaribo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:33:11.774Z"
+}

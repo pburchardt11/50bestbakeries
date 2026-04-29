@@ -1,0 +1,32 @@
+{
+  "slug": "sitolini-bakery",
+  "name": "sitolini_bakery",
+  "city": "Владикавказ",
+  "country": "Russia",
+  "placeId": "ChIJ24ZdGJsKUEARYu_C-2qaLRQ",
+  "googleName": "Cinnabon",
+  "formattedAddress": "Ulitsa Markusa, 22, Vladikavkaz, Respublika Severnaya Osetiya — Alaniya, Russia, 362011",
+  "phone": "8 (867) 299-96-67",
+  "website": "https://cinnabonrussia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1453988038991605602",
+  "rating": 4.3,
+  "reviewCount": 149,
+  "coords": [
+    43.0355791,
+    44.6832991
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Counter-serve chain serving cinnamon rolls plus other baked goods & specialty frozen beverages.",
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/sitolini-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:14.358Z"
+}

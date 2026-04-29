@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-coffee-amphoe-renu-nakhon",
+  "name": "Bakery & Coffee",
+  "city": "Amphoe Renu Nakhon",
+  "country": "Thailand",
+  "placeId": "ChIJ06QnBwA_PDERbQHIqfLE7rA",
+  "googleName": "T&Tเค้ก",
+  "formattedAddress": "352 T&Tเค้ก 9 ต.เรณู Amphoe Renu Nakhon, จ.เรณูนคร 48170, Thailand",
+  "phone": "063 670 9754",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12749344141642039661",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    17.0615712,
+    104.6995991
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 12:00 – 8:00 PM",
+    "Sunday: 12:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-coffee-amphoe-renu-nakhon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:41:58.581Z"
+}

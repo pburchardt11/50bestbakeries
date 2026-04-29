@@ -1,0 +1,32 @@
+{
+  "slug": "momi-barrio-colon",
+  "name": "Momi",
+  "city": "Barrio Colón",
+  "country": "Panama",
+  "placeId": "ChIJj38BSaNtq48RHXJBlTTlcsA",
+  "googleName": "Dulcería Momi | Plaza Millenium",
+  "formattedAddress": "Colón, Colón Province, Panama",
+  "phone": "441-9775",
+  "website": "http://www.momi.com.pa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13867398216632332829",
+  "rating": 4.1,
+  "reviewCount": 30,
+  "coords": [
+    9.345269,
+    -79.8922807
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/momi-barrio-colon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:51:58.776Z"
+}

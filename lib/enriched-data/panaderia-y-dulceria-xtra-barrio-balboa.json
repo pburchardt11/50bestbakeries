@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-dulceria-xtra-barrio-balboa",
+  "name": "Panaderia y Dulceria XTRA",
+  "city": "Barrio Balboa",
+  "country": "Panama",
+  "placeId": "ChIJBfRrNmKXrI8RtBxjTd6Drkw",
+  "googleName": "Súper Xtra",
+  "formattedAddress": "avenue Las Américas, La Chorrera, Provincia de Panamá Oeste, Panama",
+  "phone": "290-9000",
+  "website": "https://www.superxtra.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5525498783634496692",
+  "rating": 4.1,
+  "reviewCount": 3899,
+  "coords": [
+    8.885303400000002,
+    -79.77549390000001
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-y-dulceria-xtra-barrio-balboa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:51:47.899Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-tous-les-jours-l-etang-sale",
+  "name": "Boulangerie Tous les Jours",
+  "city": "L'Étang-Salé",
+  "country": "Réunion",
+  "placeId": "ChIJGSoGMYqjgiERt754h8mH7CI",
+  "googleName": "Boulangerie TOUS les JOURS - Étang Salé",
+  "formattedAddress": "81 Av. Raymond Barre, L'Étang-Salé 97427, Réunion",
+  "phone": "0262 01 32 54",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2516535591424278199",
+  "rating": 3.3,
+  "reviewCount": 76,
+  "coords": [
+    -21.2650763,
+    55.3660975
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 7:00 PM",
+    "Tuesday: 5:30 AM – 7:00 PM",
+    "Wednesday: 5:30 AM – 7:00 PM",
+    "Thursday: 5:30 AM – 7:00 PM",
+    "Friday: 5:30 AM – 7:00 PM",
+    "Saturday: 5:30 AM – 7:00 PM",
+    "Sunday: 5:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-tous-les-jours-l-etang-sale/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:11:06.704Z"
+}

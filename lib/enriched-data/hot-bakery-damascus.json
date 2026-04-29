@@ -1,0 +1,24 @@
+{
+  "slug": "hot-bakery-damascus",
+  "name": "Hot Bakery",
+  "city": "Damascus",
+  "country": "Syria",
+  "placeId": "ChIJ8Zt2azHnGBURf3T3zQkEiS0",
+  "googleName": "Hot Bakery",
+  "formattedAddress": "G78R+HQF, Maysaloon, Damascus, Syria",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3281158243672880255",
+  "rating": 4.1,
+  "reviewCount": 14,
+  "coords": [
+    33.5164431,
+    36.2919067
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hot-bakery-damascus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:28.591Z"
+}

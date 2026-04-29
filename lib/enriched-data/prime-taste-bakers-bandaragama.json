@@ -1,0 +1,32 @@
+{
+  "slug": "prime-taste-bakers-bandaragama",
+  "name": "Prime Taste Bakers",
+  "city": "Bandaragama",
+  "country": "Sri Lanka",
+  "placeId": "ChIJoSFJ4kBJ4joRc5IJ3vbwMug",
+  "googleName": "Pastry King bakers",
+  "formattedAddress": "51 A8, Bandaragama, Sri Lanka",
+  "phone": "0385 686 269",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16731700508712604275",
+  "rating": 3,
+  "reviewCount": 3,
+  "coords": [
+    6.713981899999999,
+    79.98949329999999
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 8:30 PM",
+    "Tuesday: 8:30 AM – 8:30 PM",
+    "Wednesday: 8:30 AM – 8:30 PM",
+    "Thursday: 8:30 AM – 8:30 PM",
+    "Friday: 8:30 AM – 8:30 PM",
+    "Saturday: 8:30 AM – 8:30 PM",
+    "Sunday: 8:30 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/prime-taste-bakers-bandaragama/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:29:21.277Z"
+}

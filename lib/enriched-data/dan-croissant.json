@@ -1,0 +1,32 @@
+{
+  "slug": "dan-croissant",
+  "name": "Dan Croissant",
+  "city": "Ірпінь",
+  "country": "Ukraine",
+  "placeId": "ChIJ40ODxYgzK0cRbNEyuAnU8u0",
+  "googleName": "Dan Croissant / Дан Круасан",
+  "formattedAddress": "Akademiсian Zarifa Aliyeva St, 54/1, Irpin, Kyivs'ka oblast, Ukraine, 08201",
+  "phone": null,
+  "website": "https://www.instagram.com/dan_croissant?igsh=ODl2aTVxdTZoM2lo&utm_source=qr",
+  "googleMapsUrl": "https://maps.google.com/?cid=17145999869563031916",
+  "rating": 4.4,
+  "reviewCount": 54,
+  "coords": [
+    50.5196598,
+    30.2413104
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dan-croissant/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:54.511Z"
+}

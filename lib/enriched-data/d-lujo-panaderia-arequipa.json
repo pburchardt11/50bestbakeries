@@ -1,0 +1,32 @@
+{
+  "slug": "d-lujo-panaderia-arequipa",
+  "name": "D'Lujo Panaderia",
+  "city": "Arequipa",
+  "country": "Peru",
+  "placeId": "ChIJJ79YVBBLQpERmqYNa-gV91M",
+  "googleName": "D'Lujo Panadería",
+  "formattedAddress": "C. Puente Grau 327, Arequipa 04001, Peru",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6050328712368203418",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -16.3935724,
+    -71.53657299999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/d-lujo-panaderia-arequipa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:56:35.698Z"
+}

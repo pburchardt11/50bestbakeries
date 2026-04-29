@@ -1,0 +1,32 @@
+{
+  "slug": "chef-osama-h-bethlehem",
+  "name": "Chef Osama H",
+  "city": "Bethlehem",
+  "country": "Palestine",
+  "placeId": "ChIJk_3cNXvYAhURVkftn2Ed2m0",
+  "googleName": "Hosh Al-Syrian Guesthouse",
+  "formattedAddress": "Star Street، Bethlehem",
+  "phone": "02 274 7529",
+  "website": "http://www.hoshalsyrian.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7915671600189228886",
+  "rating": 4.6,
+  "reviewCount": 98,
+  "coords": [
+    31.705094,
+    35.204162
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": "Rustic rooms in an ancient brick hotel offering a rooftop patio, plus French-Palestinian dining.",
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/chef-osama-h-bethlehem/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:50:17.749Z"
+}

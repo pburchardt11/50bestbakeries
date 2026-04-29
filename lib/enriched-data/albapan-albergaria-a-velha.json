@@ -1,0 +1,32 @@
+{
+  "slug": "albapan-albergaria-a-velha",
+  "name": "Albapan",
+  "city": "Albergaria-a-Velha",
+  "country": "Portugal",
+  "placeId": "ChIJi5Of3IF1Iw0RhexM8IkemSk",
+  "googleName": "Albapan",
+  "formattedAddress": "Praça Dr. António Albuquerque de Pinho Fracção C/D, 3850-003 Aveiro, Portugal",
+  "phone": "234 037 646",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2997460604782701701",
+  "rating": 4,
+  "reviewCount": 191,
+  "coords": [
+    40.6892853,
+    -8.4798736
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 7:00 AM – 8:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/albapan-albergaria-a-velha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:58:29.904Z"
+}

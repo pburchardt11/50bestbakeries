@@ -1,0 +1,32 @@
+{
+  "slug": "castella-shop-sankt-peterburg",
+  "name": "Castella Shop",
+  "city": "Sankt-Peterburg",
+  "country": "Russia",
+  "placeId": "ChIJ6w5-rLUxlkYR6xTNikx7YbE",
+  "googleName": "CASTELLA SHOP",
+  "formattedAddress": "7 Liniya Vasil'yevskogo Ostrova, 44а, Sankt-Peterburg, Russia, 199178",
+  "phone": "8 (921) 550-51-62",
+  "website": "https://castellashop.ru/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12781632786130605291",
+  "rating": 4.2,
+  "reviewCount": 111,
+  "coords": [
+    59.9422083,
+    30.279201
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:00 PM",
+    "Tuesday: 8:00 AM – 8:00 PM",
+    "Wednesday: 8:00 AM – 8:00 PM",
+    "Thursday: 8:00 AM – 8:00 PM",
+    "Friday: 8:00 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/castella-shop-sankt-peterburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:19.419Z"
+}

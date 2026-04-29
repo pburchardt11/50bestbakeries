@@ -1,0 +1,32 @@
+{
+  "slug": "the-country-pie-co-alberton",
+  "name": "The Country Pie Co. Alberton",
+  "city": "Alberton",
+  "country": "South Africa",
+  "placeId": "ChIJP7-fRgARlR4RDrhT5QIK014",
+  "googleName": "The Country Pie Co. Alberton, New Redruth",
+  "formattedAddress": "New Redruth, Alberton, 1449, South Africa",
+  "phone": "084 347 7075",
+  "website": "http://www.countrypies.co.za/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6832816067204855822",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -26.2680672,
+    28.1159508
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-country-pie-co-alberton/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:26:37.149Z"
+}

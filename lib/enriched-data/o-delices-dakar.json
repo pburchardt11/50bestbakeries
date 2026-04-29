@@ -1,0 +1,32 @@
+{
+  "slug": "o-delices-dakar",
+  "name": "Ô Délices",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJz4AyFzYTwQ4RWP6hMjJmsgY",
+  "googleName": "Odelices Dakar",
+  "formattedAddress": "Dakar 12000, Senegal",
+  "phone": "78 304 59 39",
+  "website": "https://www.facebook.com/odelicees/",
+  "googleMapsUrl": "https://maps.google.com/?cid=482560475865939544",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    14.7520013,
+    -17.4934408
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 10:00 AM – 8:00 PM",
+    "Wednesday: 10:00 AM – 8:00 PM",
+    "Thursday: 10:00 AM – 8:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/o-delices-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:50.466Z"
+}

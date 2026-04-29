@@ -1,0 +1,32 @@
+{
+  "slug": "chateraise-singapore",
+  "name": "Châteraisé",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJP_tUIA492jERjwlOVVE2m6Q",
+  "googleName": "Châteraisé",
+  "formattedAddress": "10 Tampines Central 1, #01-60 Tampines One, Singapore 529536",
+  "phone": "6509 8803",
+  "website": "https://www.chateraise.co.jp/global",
+  "googleMapsUrl": "https://maps.google.com/?cid=11861133766561761679",
+  "rating": 4.1,
+  "reviewCount": 206,
+  "coords": [
+    1.3537603,
+    103.9453317
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 10:00 PM",
+    "Tuesday: 10:30 AM – 10:00 PM",
+    "Wednesday: 10:30 AM – 10:00 PM",
+    "Thursday: 10:30 AM – 10:00 PM",
+    "Friday: 10:30 AM – 10:00 PM",
+    "Saturday: 10:30 AM – 10:00 PM",
+    "Sunday: 10:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chateraise-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:34.787Z"
+}

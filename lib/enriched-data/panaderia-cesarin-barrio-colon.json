@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-cesarin-barrio-colon",
+  "name": "Panaderia Cesarin",
+  "city": "Barrio Colón",
+  "country": "Panama",
+  "placeId": "ChIJ7x5vtlWZrI8RWUgbgkg3QkQ",
+  "googleName": "Panadería CESARIN Calle El Puerto",
+  "formattedAddress": "V6GC+H9R, Vía Puerto Caimito, La Chorrera, Provincia de Panamá Oeste, Panama",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4918554527602002009",
+  "rating": 4.3,
+  "reviewCount": 142,
+  "coords": [
+    8.8764846,
+    -79.779105
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-cesarin-barrio-colon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:51:56.523Z"
+}

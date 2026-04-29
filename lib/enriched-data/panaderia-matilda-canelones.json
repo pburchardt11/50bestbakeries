@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-matilda-canelones",
+  "name": "Panadería Matilda",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJA5wn4L4vo5URx62gdS_JPxM",
+  "googleName": "Matilda pan y café",
+  "formattedAddress": "Av. 12 de Octubre 1061, B1878 Quilmes, Provincia de Buenos Aires, Argentina",
+  "phone": "011 2409-2741",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1387048415927512519",
+  "rating": 4.9,
+  "reviewCount": 77,
+  "coords": [
+    -34.7319433,
+    -58.269244
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 7:30 AM – 7:30 PM",
+    "Sunday: 8:00 AM – 1:30 PM, 4:30 – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-matilda-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:54:53.606Z"
+}

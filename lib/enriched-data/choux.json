@@ -1,0 +1,32 @@
+{
+  "slug": "choux",
+  "name": "Choux",
+  "city": "Дніпро",
+  "country": "Ukraine",
+  "placeId": "ChIJJb48CDDj20ARB9-LmHO4_TY",
+  "googleName": "Restoran Shopochomu",
+  "formattedAddress": "Shevchenka Square, 1 ж, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+  "phone": "066 614 7777",
+  "website": "https://instagram.com/shopochem_",
+  "googleMapsUrl": "https://maps.google.com/?cid=3962526053775957767",
+  "rating": 4.5,
+  "reviewCount": 827,
+  "coords": [
+    48.4614006,
+    35.070074
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 9:00 PM",
+    "Tuesday: 10:00 AM – 9:00 PM",
+    "Wednesday: 10:00 AM – 9:00 PM",
+    "Thursday: 10:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/choux/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:48.392Z"
+}

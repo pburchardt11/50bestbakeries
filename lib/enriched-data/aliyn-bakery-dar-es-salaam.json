@@ -1,0 +1,32 @@
+{
+  "slug": "aliyn-bakery-dar-es-salaam",
+  "name": "Aliyn Bakery",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJxfDzvNtPXBgREDMm4L4LgEM",
+  "googleName": "ALYIN BAKERY & SHOPPING MALL",
+  "formattedAddress": "756J+9M3, Dar es Salaam, Tanzania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4863900511992427280",
+  "rating": 3.7,
+  "reviewCount": 49,
+  "coords": [
+    -6.739115699999999,
+    39.1816625
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/aliyn-bakery-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:39:52.345Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "basile",
+  "name": "& Basile",
+  "city": "Дніпро",
+  "country": "Ukraine",
+  "placeId": "ChIJVdv8DVzj20ARaNXyfPpg26E",
+  "googleName": "Double V",
+  "formattedAddress": "Lyvarna St, 4, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+  "phone": "050 207 6222",
+  "website": "https://www.instagram.com/doublev_family/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11663022288960410984",
+  "rating": 4.8,
+  "reviewCount": 773,
+  "coords": [
+    48.4651746,
+    35.05898
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/basile/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:52:50.919Z"
+}

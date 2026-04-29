@@ -1,0 +1,32 @@
+{
+  "slug": "sooper-zw-harare",
+  "name": "Sooper Zw",
+  "city": "Harare",
+  "country": "Zimbabwe",
+  "placeId": "ChIJQySBEG6lMRkR6lfY_x0vEPc",
+  "googleName": "Sooper Biscuits",
+  "formattedAddress": "43 Birmingham Road, Harare, Zimbabwe",
+  "phone": "078 759 7184",
+  "website": "http://www.facebook.com/sooperzw",
+  "googleMapsUrl": "https://maps.google.com/?cid=17802781132888496106",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "coords": [
+    -17.8543978,
+    31.022479
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sooper-zw-harare/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:01:29.642Z"
+}

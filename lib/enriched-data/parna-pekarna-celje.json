@@ -1,0 +1,30 @@
+{
+  "slug": "parna-pekarna-celje",
+  "name": "Parna Pekarna",
+  "city": "Celje",
+  "country": "Slovenia",
+  "placeId": "ChIJz_CyHf9wZUcRgxdg1DLfVUQ",
+  "googleName": "Parna pekarna, Peter Kuder s.p.",
+  "formattedAddress": "Kajuhova ulica 2, 3000 Celje, Slovenia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4924087177003931523",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    46.2310348,
+    15.2582291
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:24:15.220Z"
+}

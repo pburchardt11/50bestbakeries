@@ -1,0 +1,32 @@
+{
+  "slug": "panaderias-cairo-anaco",
+  "name": "Panaderías cairo",
+  "city": "Anaco",
+  "country": "Venezuela",
+  "placeId": "ChIJ_a7rgYKl0o0RVUl4GjVleaE",
+  "googleName": "Panaderia Kairos",
+  "formattedAddress": "CGMC+P8P, Av. Bolivar, Anaco 6003, Anzoátegui, Venezuela",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11635442391040149845",
+  "rating": 4.4,
+  "reviewCount": 402,
+  "coords": [
+    9.434338499999999,
+    -64.47915669999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 6:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderias-cairo-anaco/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:56:57.453Z"
+}

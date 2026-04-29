@@ -1,0 +1,32 @@
+{
+  "slug": "le-croustillant-lome",
+  "name": "Le Croustillant",
+  "city": "Lomé",
+  "country": "Togo",
+  "placeId": "ChIJ_YLmJ0biIxAROpqoUku8R2s",
+  "googleName": "Le Croustillant",
+  "formattedAddress": "Lomé, Togo",
+  "phone": "22 27 21 29",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7730354317100096058",
+  "rating": 3.7,
+  "reviewCount": 346,
+  "coords": [
+    6.175807499999999,
+    1.2409242
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:30 PM",
+    "Tuesday: 7:00 AM – 11:30 PM",
+    "Wednesday: 7:00 AM – 11:30 PM",
+    "Thursday: 7:00 AM – 11:30 PM",
+    "Friday: 7:00 AM – 11:30 PM",
+    "Saturday: 7:00 AM – 11:30 PM",
+    "Sunday: 7:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-croustillant-lome/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:42:33.575Z"
+}

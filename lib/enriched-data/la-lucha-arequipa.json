@@ -1,0 +1,32 @@
+{
+  "slug": "la-lucha-arequipa",
+  "name": "La Lucha",
+  "city": "Arequipa",
+  "country": "Peru",
+  "placeId": "ChIJWWbVTFdKQpERf-Rs9udmbE0",
+  "googleName": "La Lucha Sanguchería Criolla",
+  "formattedAddress": "C. Mercaderes 116-118, Arequipa 04001, Peru",
+  "phone": "977 610 571",
+  "website": "http://www.lalucha.com.pe/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5578947184863011967",
+  "rating": 4.3,
+  "reviewCount": 1278,
+  "coords": [
+    -16.3986518,
+    -71.53591039999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:59 PM",
+    "Saturday: 8:00 AM – 11:59 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/la-lucha-arequipa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:56:40.582Z"
+}

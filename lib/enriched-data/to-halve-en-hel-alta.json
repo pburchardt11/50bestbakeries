@@ -1,0 +1,32 @@
+{
+  "slug": "to-halve-en-hel-alta",
+  "name": "To halve-en hel",
+  "city": "Alta",
+  "country": "Norway",
+  "placeId": "ChIJQ3pyt30Rz0URzuAS0PsDM5s",
+  "googleName": "Flatmoen nature",
+  "formattedAddress": "Killiveien 93, 9518 Alta, Norway",
+  "phone": "91 90 05 71",
+  "website": "http://www.flatmoennatur.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11183286679753646286",
+  "rating": 4.9,
+  "reviewCount": 87,
+  "coords": [
+    69.9183567,
+    23.2853378
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/to-halve-en-hel-alta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:44:36.276Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "voila-cakes-battaramulla",
+  "name": "Voila Cakes",
+  "city": "Battaramulla",
+  "country": "Sri Lanka",
+  "placeId": "ChIJCc5w2LJQ4joRpUFNGScHeRE",
+  "googleName": "Voila Cakes & Academy",
+  "formattedAddress": "No 205/D1, Kalapaluwawa Rd, Sri Jayawardenepura Kotte, Sri Lanka",
+  "phone": "077 159 2591",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1259045435336376741",
+  "rating": 4.7,
+  "reviewCount": 25,
+  "coords": [
+    6.909838499999999,
+    79.9289985
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 5:00 PM",
+    "Tuesday: 9:30 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 9:30 AM – 5:00 PM",
+    "Friday: 9:30 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/voila-cakes-battaramulla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:08.889Z"
+}

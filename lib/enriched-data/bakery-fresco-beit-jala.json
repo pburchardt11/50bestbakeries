@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-fresco-beit-jala",
+  "name": "\"\" Bakery Fresco",
+  "city": "Beit Jala",
+  "country": "Palestine",
+  "placeId": "ChIJC9vXd9LZAhURduM_crMkjSg",
+  "googleName": "Zuwadeh Beit Jala",
+  "formattedAddress": "Sahel Street, بيت جالا",
+  "phone": "02-277-8899",
+  "website": "https://www.facebook.com/zuwadeh.deli/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2922032086367855478",
+  "rating": 4.5,
+  "reviewCount": 404,
+  "coords": [
+    31.7127662,
+    35.1953052
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/bakery-fresco-beit-jala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:50:08.289Z"
+}

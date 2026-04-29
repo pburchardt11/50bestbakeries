@@ -1,0 +1,32 @@
+{
+  "slug": "godt-br-d-asker-as-avd-trekanten-asker",
+  "name": "Godt Brød Asker AS avd Trekanten",
+  "city": "Asker",
+  "country": "Norway",
+  "placeId": "ChIJaecF67YVQUYRrQwZsvcbAd0",
+  "googleName": "Godt Brød Trekanten",
+  "formattedAddress": "Knud Askers vei 26, 1383 Asker, Norway",
+  "phone": "66 98 80 00",
+  "website": "https://www.godtbrod.no/godt-brod-bakerier/godt-brod-trekanten",
+  "googleMapsUrl": "https://maps.google.com/?cid=15925040508017642669",
+  "rating": 4.4,
+  "reviewCount": 224,
+  "coords": [
+    59.83599329999999,
+    10.4336578
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 7:00 PM",
+    "Sunday: 8:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/godt-br-d-asker-as-avd-trekanten-asker/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:09.527Z"
+}

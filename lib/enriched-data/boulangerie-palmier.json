@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-palmier",
+  "name": "Boulangerie Palmier",
+  "city": "الحمامات",
+  "country": "Tunisia",
+  "placeId": "ChIJe8aA8gGeAhMRfr_3rPrydHw",
+  "googleName": "Boulangerie Ennaim",
+  "formattedAddress": "Rue Taleb El Ezzabi, Hammamet, Tunisia",
+  "phone": "72 280 791",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8968059916459163518",
+  "rating": 4.3,
+  "reviewCount": 29,
+  "coords": [
+    36.3998493,
+    10.6191679
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:30 PM",
+    "Tuesday: 6:00 AM – 9:30 PM",
+    "Wednesday: 6:00 AM – 9:30 PM",
+    "Thursday: 6:00 AM – 9:30 PM",
+    "Friday: 6:00 AM – 9:30 PM",
+    "Saturday: 6:00 AM – 9:30 PM",
+    "Sunday: 6:00 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-palmier/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:46:12.986Z"
+}

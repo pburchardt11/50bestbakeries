@@ -1,0 +1,32 @@
+{
+  "slug": "el-chichemito-de-chepo",
+  "name": "El Chichemito de Chepo",
+  "city": "Chepo",
+  "country": "Panama",
+  "placeId": "ChIJR6f6d2yjVI4RtxsS5seCEtM",
+  "googleName": "El Chichemito de Chepo",
+  "formattedAddress": "5WF5+FP4, Chepo, Panamá Province, Panama",
+  "phone": "6621-6256",
+  "website": "http://www.facebook.com/Refresqueria",
+  "googleMapsUrl": "https://maps.google.com/?cid=15209362686653635511",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "coords": [
+    9.1736314,
+    -79.09067069999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: 7:00 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/el-chichemito-de-chepo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:52:33.379Z"
+}

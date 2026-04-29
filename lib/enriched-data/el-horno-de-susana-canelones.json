@@ -1,0 +1,30 @@
+{
+  "slug": "el-horno-de-susana-canelones",
+  "name": "El Horno de Susana",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJExhPu4IvoJURGaa2d4bVtlQ",
+  "googleName": "El Horno de Susana",
+  "formattedAddress": "Florida esq, 15700 Toledo, Departamento de Canelones, Uruguay",
+  "phone": "098 942 529",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6104301118458078745",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -34.7188025,
+    -56.0733891
+  ],
+  "openingHours": [
+    "Monday: 7:00 PM – 12:00 AM",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: 7:00 PM – 12:00 AM",
+    "Friday: 7:00 PM – 12:00 AM",
+    "Saturday: 7:00 PM – 12:00 AM",
+    "Sunday: 7:00 PM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:54:46.195Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pekaren-prievoz-bratislava",
+  "name": "Pekáreň Prievoz",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJA85iecuIbEcRlCmHTnKCK7c",
+  "googleName": "Pekáreň Prievoz",
+  "formattedAddress": "Mierová 109, 821 05 Bratislava-Ružinov, Slovakia",
+  "phone": "02 432 915 86",
+  "website": "https://prievoz.oma.sk/obchod/pekaren",
+  "googleMapsUrl": "https://maps.google.com/?cid=13198786560394733972",
+  "rating": 4.6,
+  "reviewCount": 114,
+  "coords": [
+    48.1488023,
+    17.1769267
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 PM",
+    "Tuesday: 7:00 AM – 1:00 PM",
+    "Wednesday: 7:00 AM – 1:00 PM",
+    "Thursday: 7:00 AM – 1:00 PM",
+    "Friday: 7:00 AM – 1:00 PM",
+    "Saturday: 6:00 – 10:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekaren-prievoz-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:31.678Z"
+}

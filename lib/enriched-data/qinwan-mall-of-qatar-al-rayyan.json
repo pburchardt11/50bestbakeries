@@ -1,0 +1,32 @@
+{
+  "slug": "qinwan-mall-of-qatar-al-rayyan",
+  "name": "qinwan mall of qatar",
+  "city": "Al Rayyan",
+  "country": "Qatar",
+  "placeId": "ChIJF1sfNXjfRT4RSHSnGVhF6ZA",
+  "googleName": "Qinwan",
+  "formattedAddress": "Mall of Qatar, Rawdat Al Jahhaniya, Qatar",
+  "phone": null,
+  "website": "https://www.qinwandates.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10441953455725048904",
+  "rating": 4.1,
+  "reviewCount": 14,
+  "coords": [
+    25.3275068,
+    51.3502821
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 12:00 AM",
+    "Tuesday: 10:00 AM – 12:00 AM",
+    "Wednesday: 10:00 AM – 12:00 AM",
+    "Thursday: 10:00 AM – 12:00 AM",
+    "Friday: 10:00 – 11:30 AM, 1:00 PM – 12:00 AM",
+    "Saturday: 10:00 AM – 12:00 AM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/qinwan-mall-of-qatar-al-rayyan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:44.101Z"
+}

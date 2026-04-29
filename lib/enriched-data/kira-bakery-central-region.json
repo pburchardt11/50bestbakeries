@@ -1,0 +1,32 @@
+{
+  "slug": "kira-bakery-central-region",
+  "name": "KiRA bakery",
+  "city": "Central Region",
+  "country": "Uganda",
+  "placeId": "ChIJ61BuvrC3fRcRb74ErJeA7ws",
+  "googleName": "KiRA bakery",
+  "formattedAddress": "185 Kira Rd, Kira Town, Uganda",
+  "phone": "0704 162679",
+  "website": "https://kirabakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=860047442765463151",
+  "rating": 4.5,
+  "reviewCount": 66,
+  "coords": [
+    0.4017405,
+    32.6518115
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kira-bakery-central-region/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:49:14.389Z"
+}

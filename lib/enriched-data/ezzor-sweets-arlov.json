@@ -1,0 +1,32 @@
+{
+  "slug": "ezzor-sweets-arlov",
+  "name": "Ezzor Sweets",
+  "city": "Arlöv",
+  "country": "Sweden",
+  "placeId": "ChIJNZN0TLGjU0YRbdfEOKiBurA",
+  "googleName": "Ezzor Sweets & Bakery",
+  "formattedAddress": "Lundavägen 25, 232 35 Arlöv, Sweden",
+  "phone": "076-033 21 59",
+  "website": "https://ezzorsweet.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12734633455850411885",
+  "rating": 4.8,
+  "reviewCount": 77,
+  "coords": [
+    55.631713,
+    13.070833
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 8:00 PM",
+    "Tuesday: 11:00 AM – 8:00 PM",
+    "Wednesday: 11:00 AM – 8:00 PM",
+    "Thursday: 11:00 AM – 8:00 PM",
+    "Friday: 11:00 AM – 8:00 PM",
+    "Saturday: 11:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ezzor-sweets-arlov/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:24.889Z"
+}

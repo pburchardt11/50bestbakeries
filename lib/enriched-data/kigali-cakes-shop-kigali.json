@@ -1,0 +1,32 @@
+{
+  "slug": "kigali-cakes-shop-kigali",
+  "name": "Kigali Cakes Shop",
+  "city": "Kigali",
+  "country": "Rwanda",
+  "placeId": "ChIJ-Qq2Gqil3BkRloUGON_3ckc",
+  "googleName": "Kigali Cakes Shop",
+  "formattedAddress": "KN 17 St, Kigali, Rwanda",
+  "phone": "0788 211 787",
+  "website": "http://bit.ly/kcsmenu",
+  "googleMapsUrl": "https://maps.google.com/?cid=5148449862127617430",
+  "rating": 4.6,
+  "reviewCount": 74,
+  "coords": [
+    -1.9387397,
+    30.0514843
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/kigali-cakes-shop-kigali/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:32.759Z"
+}

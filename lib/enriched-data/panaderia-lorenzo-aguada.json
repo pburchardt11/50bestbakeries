@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-lorenzo-aguada",
+  "name": "Panadería Lorenzo",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJkcB-5Ce7AowRBOBrTR8hAYE",
+  "googleName": "Panadería Lorenzo",
+  "formattedAddress": "PR-416, Aguada, 00602, Puerto Rico",
+  "phone": "(787) 252-1144",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9295747524196032516",
+  "rating": 4.3,
+  "reviewCount": 150,
+  "coords": [
+    18.3649466,
+    -67.1771227
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 9:00 PM",
+    "Tuesday: 6:30 AM – 9:00 PM",
+    "Wednesday: 6:30 AM – 9:00 PM",
+    "Thursday: 6:30 AM – 9:00 PM",
+    "Friday: 6:30 AM – 9:00 PM",
+    "Saturday: 6:30 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-lorenzo-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:01:41.929Z"
+}

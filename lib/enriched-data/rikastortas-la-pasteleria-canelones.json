@@ -1,0 +1,32 @@
+{
+  "slug": "rikastortas-la-pasteleria-canelones",
+  "name": "Rikastortas La Pastelería",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJhZVklCzNoZURmQhp3CmmLss",
+  "googleName": "Rikastortas \"La Pasteleria\"",
+  "formattedAddress": "Rafael Alonso m 115 s 12, 15900 Progreso, Departamento de Canelones, Uruguay",
+  "phone": "094 698 763",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14640822137349802137",
+  "rating": 4.6,
+  "reviewCount": 28,
+  "coords": [
+    -34.6899243,
+    -56.2214668
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rikastortas-la-pasteleria-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:54:18.097Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bake-it-krasnogorsk",
+  "name": "Bake it",
+  "city": "Krasnogorsk",
+  "country": "Russia",
+  "placeId": "ChIJbTiWolSf4jARCWwCiyomYYc",
+  "googleName": "Bake It Babe Kitchen",
+  "formattedAddress": "397 Soi Ratchada Niwet Yaek 5, Khwaeng Samsen Nok, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+  "phone": "061 660 4280",
+  "website": "https://m.facebook.com/100067850835791/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9755120232023878665",
+  "rating": 4.7,
+  "reviewCount": 20,
+  "coords": [
+    13.7772317,
+    100.5869673
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/bake-it-krasnogorsk/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:42.433Z"
+}

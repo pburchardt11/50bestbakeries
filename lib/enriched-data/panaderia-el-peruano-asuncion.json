@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-el-peruano-asuncion",
+  "name": "Panaderia El Peruano",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJk1x66AEIXZQRcth4sMW43sQ",
+  "googleName": "Panaderia El Peruano",
+  "formattedAddress": "Ntra. Sra. de la Asunción 2187, Asunción 001104, Paraguay",
+  "phone": "(021) 391 250",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14185979035472418930",
+  "rating": 4.3,
+  "reviewCount": 2986,
+  "coords": [
+    -25.2969374,
+    -57.6444503
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-el-peruano-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:54:45.138Z"
+}

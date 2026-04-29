@@ -1,0 +1,32 @@
+{
+  "slug": "home-bakery-shop",
+  "name": "Home Bakery Shop",
+  "city": "Абакан",
+  "country": "Russia",
+  "placeId": "ChIJ6x-qqbIXLF0RO341rFHmYRw",
+  "googleName": "Home bakery shop",
+  "formattedAddress": "Ulitsa Lermontova, 18, Abakan, Respúblika Khakásiya, Russia, 655001",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2045168944258842171",
+  "rating": 3.7,
+  "reviewCount": 6,
+  "coords": [
+    53.74054169999999,
+    91.4199201
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/home-bakery-shop/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:38.141Z"
+}

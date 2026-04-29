@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-mane-dakar",
+  "name": "Patisserie Manè",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJvWSTzJlzwQ4Rb-_iTtogd-k",
+  "googleName": "Patisserie Manè",
+  "formattedAddress": "656 Rue DD 54, Dakar, Senegal",
+  "phone": "77 045 67 97",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16822951055064231791",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "coords": [
+    14.7248811,
+    -17.4457865
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-mane-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:11.816Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "farma-kamenicany-belusa",
+  "name": "Farma Kameničany",
+  "city": "Beluša",
+  "country": "Slovakia",
+  "placeId": "ChIJl0Qr-s2bFEcRLCtNEYgZmto",
+  "googleName": "Farma Kameničany",
+  "formattedAddress": "Kameničany 200, 018 54 Kameničany, Slovakia",
+  "phone": "0910 451 303",
+  "website": "https://farmakamenicany.eu/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15751930718878247724",
+  "rating": 4.8,
+  "reviewCount": 95,
+  "coords": [
+    48.9972637,
+    18.1693516
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 4:00 PM",
+    "Tuesday: 11:00 AM – 4:00 PM",
+    "Wednesday: 11:00 AM – 4:00 PM",
+    "Thursday: 11:00 AM – 4:00 PM",
+    "Friday: 11:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/farma-kamenicany-belusa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:22:22.397Z"
+}

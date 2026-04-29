@@ -1,0 +1,32 @@
+{
+  "slug": "sprinkle-me-gros-islet",
+  "name": "Sprinkle Me",
+  "city": "Gros Islet",
+  "country": "St. Lucia",
+  "placeId": "ChIJZeDjfjBDQIwR7Zt1MbPCPl8",
+  "googleName": "Friday Night Street Party",
+  "formattedAddress": "32JW+9P4, Dauphin St, Gros Islet, St Lucia",
+  "phone": "(758) 721-2238",
+  "website": "https://www.facebook.com/fridaystreetparty",
+  "googleMapsUrl": "https://maps.google.com/?cid=6863136957043940333",
+  "rating": 4.5,
+  "reviewCount": 340,
+  "coords": [
+    14.0808874,
+    -60.9531576
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: 7:00 PM – 2:00 AM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sprinkle-me-gros-islet/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:31:00.875Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "milk-haus-dubai",
+  "name": "Milk Haus",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJq6poagBnXz4RB_KcTvOHY9Q",
+  "googleName": "Milk Haus",
+  "formattedAddress": "595C+F5V - Nad Al Sheba - Nad Al Sheba 3 - Dubai - United Arab Emirates",
+  "phone": "04 240 0400",
+  "website": "https://www.instagram.com/milkxhaus?igsh=YnN6NnQwY21qZnBx",
+  "googleMapsUrl": "https://maps.google.com/?cid=15304225437800788487",
+  "rating": 4.2,
+  "reviewCount": 122,
+  "coords": [
+    25.1587136,
+    55.3705023
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 12:00 AM",
+    "Saturday: 7:00 AM – 12:00 AM",
+    "Sunday: 7:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/milk-haus-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:49:04.003Z"
+}

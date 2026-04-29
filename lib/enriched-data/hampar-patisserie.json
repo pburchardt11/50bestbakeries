@@ -1,0 +1,32 @@
+{
+  "slug": "hampar-patisserie",
+  "name": "Hampar Patisserie",
+  "city": "ناحية دمشق",
+  "country": "Syria",
+  "placeId": "ChIJe4BeOebmGBUR2AHqr0_sSrE",
+  "googleName": "Hampar Patisserie",
+  "formattedAddress": "34، Al Zoubair, Damascus, Syria",
+  "phone": "011 441 7640",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12775283119987753432",
+  "rating": 4.8,
+  "reviewCount": 11,
+  "coords": [
+    33.5250789,
+    36.3162046
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hampar-patisserie/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:37:09.394Z"
+}

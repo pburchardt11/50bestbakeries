@@ -1,0 +1,32 @@
+{
+  "slug": "golfy-rolls-alto-barinas",
+  "name": "Golfy Rolls",
+  "city": "Alto Barinas",
+  "country": "Venezuela",
+  "placeId": "ChIJb00Rt2VXe44R2SRliiwN6AI",
+  "googleName": "Golfy Rolls",
+  "formattedAddress": "Ave Francia entre Ave Marquitos y, CC Galeria La Francia, Ave Los Toros, Barinas 5201, Barinas, Venezuela",
+  "phone": "0412-4214275",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=209431867624334553",
+  "rating": 4.7,
+  "reviewCount": 55,
+  "coords": [
+    8.618653799999999,
+    -70.2503059
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/golfy-rolls-alto-barinas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:56:51.105Z"
+}

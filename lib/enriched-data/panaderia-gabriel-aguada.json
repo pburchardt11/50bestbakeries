@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-gabriel-aguada",
+  "name": "Panadería Gabriel",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJn7zs_7WkAowR2FtFlv1D9iA",
+  "googleName": "Panadería Gabriel",
+  "formattedAddress": "Carr 441 KM 0.9 Bo, Aguada 00602, Puerto Rico",
+  "phone": "(787) 868-5940",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2375160609911430104",
+  "rating": 4.4,
+  "reviewCount": 408,
+  "coords": [
+    18.3887028,
+    -67.195313
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-gabriel-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:01:54.626Z"
+}

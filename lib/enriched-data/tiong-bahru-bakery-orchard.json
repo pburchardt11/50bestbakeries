@@ -1,0 +1,32 @@
+{
+  "slug": "tiong-bahru-bakery-orchard",
+  "name": "Tiong Bahru Bakery",
+  "city": "Orchard",
+  "country": "Singapore",
+  "placeId": "ChIJ18y5h40Z2jERgWinDNZA0Oc",
+  "googleName": "Tiong Bahru Bakery",
+  "formattedAddress": "310 Orchard Rd, #01-16B Tang Plaza, Singapore 238864",
+  "phone": "6735 3787",
+  "website": "http://www.tiongbahrubakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16703922305996646529",
+  "rating": 4.2,
+  "reviewCount": 1131,
+  "coords": [
+    1.3045892,
+    103.8333173
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:30 PM",
+    "Tuesday: 7:30 AM – 8:30 PM",
+    "Wednesday: 7:30 AM – 8:30 PM",
+    "Thursday: 7:30 AM – 8:30 PM",
+    "Friday: 7:30 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tiong-bahru-bakery-orchard/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:47.855Z"
+}

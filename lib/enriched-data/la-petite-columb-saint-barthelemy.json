@@ -1,0 +1,32 @@
+{
+  "slug": "la-petite-columb-saint-barthelemy",
+  "name": "La Petite Columb",
+  "city": "Saint-Barthélemy",
+  "country": "St. Barthélemy",
+  "placeId": "ChIJo2P20Tl1DowRh5jJNNDl6OM",
+  "googleName": "La Petite Colombe Bakery Colombier",
+  "formattedAddress": "D210, 97133, St Barthélemy",
+  "phone": "0590 27 95 27",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16422628723608098951",
+  "rating": 4.5,
+  "reviewCount": 161,
+  "coords": [
+    17.9115611,
+    -62.8532518
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 1:30 PM",
+    "Tuesday: 5:30 AM – 1:30 PM",
+    "Wednesday: 5:30 AM – 1:30 PM",
+    "Thursday: 5:30 AM – 1:30 PM",
+    "Friday: 5:30 AM – 1:30 PM",
+    "Saturday: 5:30 AM – 1:00 PM",
+    "Sunday: 5:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-petite-columb-saint-barthelemy/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:36.373Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "briska-pekarna-brda",
+  "name": "Briška Pekarna",
+  "city": "Brda",
+  "country": "Slovenia",
+  "placeId": "ChIJa3i9HJ-re0cRpsLPezPxvVY",
+  "googleName": "Bakery Brda",
+  "formattedAddress": "Trg 25. maja 4, 5212 Dobrovo v Brdih, Slovenia",
+  "phone": "0599 25658",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6250417061282955942",
+  "rating": 4.9,
+  "reviewCount": 658,
+  "coords": [
+    45.99720569999999,
+    13.5273266
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/briska-pekarna-brda/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:24:07.244Z"
+}

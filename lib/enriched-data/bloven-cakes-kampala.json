@@ -1,0 +1,32 @@
+{
+  "slug": "bloven-cakes-kampala",
+  "name": "Bloven Cakes",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJuUy55IG8fRcRQDcES-GUaUM",
+  "googleName": "Bloven Cakes",
+  "formattedAddress": "Level 3, Room 22, 9019, Mabirizi Complex, Plot 17/19 Kampala Road, Kampala, Uganda",
+  "phone": "0782 278880",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4857577368442910528",
+  "rating": 4,
+  "reviewCount": 4,
+  "coords": [
+    0.3153705,
+    32.5777552
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bloven-cakes-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:50:24.301Z"
+}

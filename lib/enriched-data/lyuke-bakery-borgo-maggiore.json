@@ -1,0 +1,32 @@
+{
+  "slug": "lyuke-bakery-borgo-maggiore",
+  "name": "Lyuke bakery",
+  "city": "Borgo Maggiore",
+  "country": "San Marino",
+  "placeId": "ChIJAbf4XQnrLBMRDYmX26XrPF0",
+  "googleName": "Lyuke bakery",
+  "formattedAddress": "Via Ca' Carlo n. 6, 47890 Cailungo, San Marino",
+  "phone": "333 676 0807",
+  "website": "https://www.facebook.com/lyukebakery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6718503841716209933",
+  "rating": 4.5,
+  "reviewCount": 174,
+  "coords": [
+    43.9500937,
+    12.4519448
+  ],
+  "openingHours": [
+    "Monday: 7:15 AM – 7:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 7:15 AM – 7:00 PM",
+    "Thursday: 7:30 AM – 7:00 PM",
+    "Friday: 7:15 AM – 7:00 PM",
+    "Saturday: 7:15 AM – 7:00 PM",
+    "Sunday: 7:15 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lyuke-bakery-borgo-maggiore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:12:49.115Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "juguncakes-and-cafe-kampala",
+  "name": "Juguncakes and Cafe",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJ-_mDsSS7fRcR7PhNr-TuJTs",
+  "googleName": "Juguncakes and Cafe",
+  "formattedAddress": "8HJ5+J2J, Kampala, Uganda",
+  "phone": "0778 845936",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4262075288337119468",
+  "rating": 4.5,
+  "reviewCount": 4,
+  "coords": [
+    0.3326376,
+    32.5544623
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/juguncakes-and-cafe-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:49:57.686Z"
+}

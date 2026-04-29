@@ -1,0 +1,32 @@
+{
+  "slug": "chef-town-delights-dar-es-salaam",
+  "name": "Chef Town Delights",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJY9w_HdFLXBgRw-YjzRa31E4",
+  "googleName": "Chef Town Delights",
+  "formattedAddress": "Msimbazi St, Dar es Salaam, Tanzania",
+  "phone": "0713 230 077",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5680366338579883715",
+  "rating": 3.6,
+  "reviewCount": 5,
+  "coords": [
+    -6.821198,
+    39.2721445
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chef-town-delights-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:39:00.553Z"
+}

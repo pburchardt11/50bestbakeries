@@ -1,0 +1,32 @@
+{
+  "slug": "the-cake-place-frederiksted",
+  "name": "The Cake Place",
+  "city": "Frederiksted",
+  "country": "U.S. Virgin Islands",
+  "placeId": "ChIJnQpjlqHJGowRQtO3N4kNf6o",
+  "googleName": "In the Mix Cakery & Cafe",
+  "formattedAddress": "P7H6+Q4H, Christiansted, St Croix 00820, USVI",
+  "phone": "(340) 778-6499",
+  "website": "https://www.facebook.com/pg/InTheMixVI/about/?ref=page_internal",
+  "googleMapsUrl": "https://maps.google.com/?cid=12285553191486477122",
+  "rating": 4.3,
+  "reviewCount": 53,
+  "coords": [
+    17.729435,
+    -64.7396443
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 7:00 PM",
+    "Wednesday: 11:00 AM – 7:00 PM",
+    "Thursday: 11:00 AM – 7:00 PM",
+    "Friday: 11:00 AM – 7:00 PM",
+    "Saturday: 11:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-place-frederiksted/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:47:05.990Z"
+}

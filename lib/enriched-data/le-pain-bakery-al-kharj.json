@@ -1,0 +1,32 @@
+{
+  "slug": "le-pain-bakery-al-kharj",
+  "name": "le pain bakery",
+  "city": "Al-Kharj",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJCdJZwi1FJT4RXk82GKs2AdY",
+  "googleName": "LePain Bakery",
+  "formattedAddress": "طريق الملك عبدالله، مقابل الواحة مول، Al Khuzama, Al-Kharj 16272, Saudi Arabia",
+  "phone": "055 725 2526",
+  "website": "https://lepain.tryorder.net/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15420666707566808926",
+  "rating": 4.4,
+  "reviewCount": 1357,
+  "coords": [
+    24.1288932,
+    47.26608
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 12:00 AM",
+    "Tuesday: 5:00 AM – 12:00 AM",
+    "Wednesday: 5:00 AM – 12:00 AM",
+    "Thursday: 5:00 AM – 12:00 AM",
+    "Friday: 1:30 PM – 12:00 AM",
+    "Saturday: 5:00 AM – 12:00 AM",
+    "Sunday: 5:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-pain-bakery-al-kharj/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:14:10.632Z"
+}

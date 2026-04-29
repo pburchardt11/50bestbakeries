@@ -1,0 +1,32 @@
+{
+  "slug": "rustjeva-hisa-kruha-ajdovscina",
+  "name": "Rustjeva hiša kruha",
+  "city": "Ajdovščina",
+  "country": "Slovenia",
+  "placeId": "ChIJx9YLBQAZe0cRuYghQzb-5_U",
+  "googleName": "Rustjeva hiša kruha",
+  "formattedAddress": "Prešernova ulica 5, 5270 Ajdovščina, Slovenia",
+  "phone": "0820 28980",
+  "website": "https://rustjevahisa.si/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17719410767920466105",
+  "rating": 4.7,
+  "reviewCount": 95,
+  "coords": [
+    45.8881393,
+    13.9050601
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 10:00 PM",
+    "Wednesday: 7:30 AM – 10:00 PM",
+    "Thursday: 7:30 AM – 10:00 PM",
+    "Friday: 7:30 AM – 12:00 AM",
+    "Saturday: 7:30 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rustjeva-hisa-kruha-ajdovscina/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:47.888Z"
+}

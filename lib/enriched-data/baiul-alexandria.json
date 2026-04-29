@@ -1,0 +1,32 @@
+{
+  "slug": "baiul-alexandria",
+  "name": "Baiul",
+  "city": "Alexandria",
+  "country": "Romania",
+  "placeId": "ChIJE8x-CuoTs0ARs6C_NtQ4mOw",
+  "googleName": "Vf. Baiul Mare",
+  "formattedAddress": "Unnamed Road, Romania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17048438873513762995",
+  "rating": 4.9,
+  "reviewCount": 19,
+  "coords": [
+    45.38094599999999,
+    25.6246499
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/baiul-alexandria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:38.151Z"
+}

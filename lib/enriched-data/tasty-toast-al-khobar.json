@@ -1,0 +1,24 @@
+{
+  "slug": "tasty-toast-al-khobar",
+  "name": "Tasty Toast",
+  "city": "Al Khobar",
+  "country": "Saudi Arabia",
+  "placeId": "ChIJKxqd5unpST4RE75dwbtuPTo",
+  "googleName": "Tasty Toast",
+  "formattedAddress": "7879 3672 Prince Talal St, Al Khobar Al Shamalia, Al Khobar 34425, Saudi Arabia",
+  "phone": null,
+  "website": "https://tastytoast.my.taker.io/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4196632180461256211",
+  "rating": 4,
+  "reviewCount": 947,
+  "coords": [
+    26.2960754,
+    50.2184028
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tasty-toast-al-khobar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:13:33.505Z"
+}

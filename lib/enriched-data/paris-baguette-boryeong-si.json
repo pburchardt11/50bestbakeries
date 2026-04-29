@@ -1,0 +1,30 @@
+{
+  "slug": "paris-baguette-boryeong-si",
+  "name": "Paris Baguette",
+  "city": "Boryeong-si",
+  "country": "South Korea",
+  "placeId": "ChIJ1Y0qzLuFcDUReZGQfQFIPOA",
+  "googleName": "PARIS BAGUETTE",
+  "formattedAddress": "South Korea, Chungcheongnam-do, Boryeong-si, 대천5동 1980",
+  "phone": null,
+  "website": "https://www.paris.co.kr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16157868734337290617",
+  "rating": 1,
+  "reviewCount": 2,
+  "coords": [
+    36.3054754,
+    126.5167248
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:30 PM",
+    "Tuesday: 7:00 AM – 10:30 PM",
+    "Wednesday: 7:00 AM – 10:30 PM",
+    "Thursday: 7:00 AM – 10:30 PM",
+    "Friday: 7:00 AM – 10:30 PM",
+    "Saturday: 7:00 AM – 10:30 PM",
+    "Sunday: 7:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": "Cafe & bakery chain serving French pastries, bread, cakes & sandwiches, plus tea & coffee drinks.",
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:27:31.711Z"
+}

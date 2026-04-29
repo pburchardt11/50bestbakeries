@@ -1,0 +1,32 @@
+{
+  "slug": "the-cake-junction-kitwe",
+  "name": "The Cake Junction",
+  "city": "Kitwe",
+  "country": "Zambia",
+  "placeId": "ChIJUzrk3HbpbBkRjg_c2UjBV_Y",
+  "googleName": "The Cake Junction",
+  "formattedAddress": "18 Kalungwishi St, Kitwe 10101, Zambia",
+  "phone": "097 6493073",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17750868974940983182",
+  "rating": 3.5,
+  "reviewCount": 4,
+  "coords": [
+    -12.823387,
+    28.2190839
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-junction-kitwe/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:58:58.116Z"
+}

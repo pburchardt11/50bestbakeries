@@ -1,0 +1,32 @@
+{
+  "slug": "cadasse-bakery-castries",
+  "name": "Cadasse Bakery",
+  "city": "Castries",
+  "country": "St. Lucia",
+  "placeId": "ChIJMVWKYwBnQIwRZhZNW2c67_I",
+  "googleName": "Cadasse Bakery",
+  "formattedAddress": "2255+C3G, Bridge St, Castries, St Lucia",
+  "phone": "(758) 452-5725",
+  "website": "http://www.cadassebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17505274492200228454",
+  "rating": 1,
+  "reviewCount": 2,
+  "coords": [
+    14.0085536,
+    -60.9922931
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:00 PM",
+    "Tuesday: 7:30 AM – 6:00 PM",
+    "Wednesday: 7:30 AM – 6:00 PM",
+    "Thursday: 7:30 AM – 6:00 PM",
+    "Friday: 7:30 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cadasse-bakery-castries/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:55.094Z"
+}

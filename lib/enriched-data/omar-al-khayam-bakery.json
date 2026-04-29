@@ -1,0 +1,32 @@
+{
+  "slug": "omar-al-khayam-bakery",
+  "name": "Omar Al Khayam Bakery",
+  "city": "أم صلال",
+  "country": "Qatar",
+  "placeId": "ChIJSbvLWqngRT4RYjm5y08X20M",
+  "googleName": "Omar Al Khayam Bakery",
+  "formattedAddress": "445، Umm Salal Muhammed, Qatar",
+  "phone": "4472 7927",
+  "website": "https://www.talabat.com/qatar/omar-al-khahayam-bakery",
+  "googleMapsUrl": "https://maps.google.com/?cid=4889527451928574306",
+  "rating": 4.2,
+  "reviewCount": 351,
+  "coords": [
+    25.3951481,
+    51.4249871
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:00 PM",
+    "Tuesday: 6:00 AM – 11:00 PM",
+    "Wednesday: 6:00 AM – 11:00 PM",
+    "Thursday: 6:00 AM – 11:00 PM",
+    "Friday: 6:00 AM – 11:00 PM",
+    "Saturday: 6:00 AM – 11:00 PM",
+    "Sunday: 6:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/omar-al-khayam-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:05:25.341Z"
+}

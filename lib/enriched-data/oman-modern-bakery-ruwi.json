@@ -1,0 +1,32 @@
+{
+  "slug": "oman-modern-bakery-ruwi",
+  "name": "Oman Modern Bakery",
+  "city": "Ruwi",
+  "country": "Oman",
+  "placeId": "ChIJtU88E9L5kT4RNCfNnOcCbGQ",
+  "googleName": "Modern Oman Bakery Ruwi مخبز عمان الحديث",
+  "formattedAddress": "Ruwi, Al Iskan Street, Way #2920 Building # 32 مسقط OM, مسقط 112, Oman",
+  "phone": "9916 7197",
+  "website": "https://modernomanbakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7236161895068935988",
+  "rating": 4.3,
+  "reviewCount": 1123,
+  "coords": [
+    23.6022864,
+    58.5439671
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:30 PM",
+    "Tuesday: 7:00 AM – 10:30 PM",
+    "Wednesday: 7:00 AM – 10:30 PM",
+    "Thursday: 7:00 AM – 10:30 PM",
+    "Friday: 9:00 AM – 10:30 PM",
+    "Saturday: 9:00 AM – 10:30 PM",
+    "Sunday: 7:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/oman-modern-bakery-ruwi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:46:08.268Z"
+}

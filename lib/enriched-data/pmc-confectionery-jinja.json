@@ -1,0 +1,32 @@
+{
+  "slug": "pmc-confectionery-jinja",
+  "name": "Pmc Confectionery Jinja",
+  "city": "Jinja",
+  "country": "Uganda",
+  "placeId": "ChIJ3ZXuO1N7fhcRjpYWZfZ_uvQ",
+  "googleName": "Pmc Confectionery Jinja",
+  "formattedAddress": "Main St, Jinja, Uganda",
+  "phone": "0772 438095",
+  "website": "https://www.facebook.com/PmcConfectionery/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17634547987157259918",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    0.4332138,
+    33.2119158
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 6:30 PM",
+    "Tuesday: 7:30 AM – 6:30 PM",
+    "Wednesday: 7:30 AM – 6:30 PM",
+    "Thursday: 7:30 AM – 6:30 PM",
+    "Friday: 7:30 AM – 6:30 PM",
+    "Saturday: 7:30 AM – 6:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pmc-confectionery-jinja/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:49:27.518Z"
+}

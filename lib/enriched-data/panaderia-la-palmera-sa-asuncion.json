@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-la-palmera-sa-asuncion",
+  "name": "Panadería La Palmera SA",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJKwDAaIunXZQR0mvjENoGVsw",
+  "googleName": "Panadería La Palmera SA",
+  "formattedAddress": "Nro 149 esquina Paraguay, Benjamin Constant &, Montevideo, Asunción 001012, Paraguay",
+  "phone": "0991 833530",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14723963565390392274",
+  "rating": 4.4,
+  "reviewCount": 854,
+  "coords": [
+    -25.2775887,
+    -57.6387795
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-la-palmera-sa-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:55:08.368Z"
+}

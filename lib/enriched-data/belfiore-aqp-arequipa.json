@@ -1,0 +1,32 @@
+{
+  "slug": "belfiore-aqp-arequipa",
+  "name": "Belfiore Aqp",
+  "city": "Arequipa",
+  "country": "Peru",
+  "placeId": "ChIJjcJH5lZKQpERdjT-TxwlCzw",
+  "googleName": "Tortas Fanor",
+  "formattedAddress": "C. Perú 105-A, Arequipa 04001, Peru",
+  "phone": "972 063 660",
+  "website": "http://tortasfanor.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4326592670550865014",
+  "rating": 3.7,
+  "reviewCount": 51,
+  "coords": [
+    -16.399971,
+    -71.53316
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:30 PM",
+    "Saturday: 9:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/belfiore-aqp-arequipa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:56:30.216Z"
+}

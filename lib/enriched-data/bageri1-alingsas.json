@@ -1,0 +1,32 @@
+{
+  "slug": "bageri1-alingsas",
+  "name": "Bageri1",
+  "city": "Alingsås",
+  "country": "Sweden",
+  "placeId": "ChIJUTA6Sp9TRUYRsuUzSAKi474",
+  "googleName": "Bageri1 AB",
+  "formattedAddress": "Gamla Kungsvägen 3, 441 96 Alingsås, Sweden",
+  "phone": "070-200 67 74",
+  "website": "http://www.bageri1.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13755015817604621746",
+  "rating": 4.3,
+  "reviewCount": 12,
+  "coords": [
+    57.8694636,
+    12.4926411
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: Closed",
+    "Thursday: Closed",
+    "Friday: Closed",
+    "Saturday: 8:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bageri1-alingsas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:33:50.836Z"
+}

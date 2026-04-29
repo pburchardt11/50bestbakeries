@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-banette-canne-sucre-la-possession",
+  "name": "Boulangerie Banette Canne / Sucre",
+  "city": "La Possession",
+  "country": "Réunion",
+  "placeId": "ChIJsZ0EIQCHgiERdE4dA3dJpag",
+  "googleName": "Pain & Vie",
+  "formattedAddress": "4 C Rue Andre Letoullec, La Possession 97419, Réunion",
+  "phone": "0262 43 11 01",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12152199945031339636",
+  "rating": 3.4,
+  "reviewCount": 28,
+  "coords": [
+    -20.9521409,
+    55.3420776
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:30 PM",
+    "Tuesday: 5:30 AM – 6:30 PM",
+    "Wednesday: 5:30 AM – 6:30 PM",
+    "Thursday: 5:30 AM – 6:30 PM",
+    "Friday: 5:30 AM – 6:30 PM",
+    "Saturday: 6:00 AM – 6:30 PM",
+    "Sunday: 6:30 AM – 12:15 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-banette-canne-sucre-la-possession/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:11:41.570Z"
+}

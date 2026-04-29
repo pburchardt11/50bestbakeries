@@ -1,0 +1,32 @@
+{
+  "slug": "muyoo-singapore",
+  "name": "Muyoo",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJd3Jc8_sP2jERh_GIFZDHHpQ",
+  "googleName": "MuYoo+",
+  "formattedAddress": "63 Jurong West Central 3, #01-K8/K9, Singapore 648331",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10673187588565168519",
+  "rating": 3.3,
+  "reviewCount": 68,
+  "coords": [
+    1.3390695,
+    103.7056398
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:30 PM",
+    "Tuesday: 7:00 AM – 10:30 PM",
+    "Wednesday: 7:00 AM – 10:30 PM",
+    "Thursday: 7:00 AM – 10:30 PM",
+    "Friday: 7:00 AM – 10:30 PM",
+    "Saturday: 7:00 AM – 10:30 PM",
+    "Sunday: 7:00 AM – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/muyoo-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:18.570Z"
+}

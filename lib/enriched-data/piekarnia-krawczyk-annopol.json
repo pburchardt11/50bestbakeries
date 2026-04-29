@@ -1,0 +1,32 @@
+{
+  "slug": "piekarnia-krawczyk-annopol",
+  "name": "Piekarnia Krawczyk",
+  "city": "Annopol",
+  "country": "Poland",
+  "placeId": "ChIJS8rq7zAUGEcRtfKDhot_udI",
+  "googleName": "Piekarnia Krawczyk Sklep Firmowy",
+  "formattedAddress": "aleja Armii Krajowej 28, 27-200 Starachowice, Poland",
+  "phone": "41 275 41 25",
+  "website": "http://www.piekarniakrawczyk.com.pl/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15184307855890313909",
+  "rating": 4.5,
+  "reviewCount": 283,
+  "coords": [
+    51.048587,
+    21.0842227
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:30 PM",
+    "Tuesday: 6:00 AM – 4:30 PM",
+    "Wednesday: 6:00 AM – 4:30 PM",
+    "Thursday: 6:00 AM – 4:30 PM",
+    "Friday: 6:00 AM – 4:30 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/piekarnia-krawczyk-annopol/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:57:22.951Z"
+}

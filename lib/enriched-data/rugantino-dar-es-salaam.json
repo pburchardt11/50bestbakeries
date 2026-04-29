@@ -1,0 +1,32 @@
+{
+  "slug": "rugantino-dar-es-salaam",
+  "name": "Rugantino",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJM5gBxk5LXBgRp8KzC5GNYM0",
+  "googleName": "Rugantino",
+  "formattedAddress": "8 Malik Rd, Dar es Salaam, Tanzania",
+  "phone": "0713 714 715",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14798984029645554343",
+  "rating": 4.4,
+  "reviewCount": 14,
+  "coords": [
+    -6.8045541,
+    39.2827146
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/rugantino-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:39:32.269Z"
+}

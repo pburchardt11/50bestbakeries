@@ -1,0 +1,24 @@
+{
+  "slug": "pomme-de-pain-tunis",
+  "name": "Pomme de Pain",
+  "city": "Tunis",
+  "country": "Tunisia",
+  "placeId": "ChIJu5iiMbu14hIRUBDi8TmrJWY",
+  "googleName": "Pomme de Pain La Marsa",
+  "formattedAddress": "19 Rue du 20 mars 1956, Marsa, Tunisia",
+  "phone": "29 534 460",
+  "website": "https://www.facebook.com/pommedepain.tn/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7360477431366553680",
+  "rating": 4.2,
+  "reviewCount": 9,
+  "coords": [
+    36.8834871,
+    10.3328297
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pomme-de-pain-tunis/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:45:46.117Z"
+}

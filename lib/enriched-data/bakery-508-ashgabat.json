@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-508-ashgabat",
+  "name": "Bakery 508",
+  "city": "Ashgabat",
+  "country": "Turkmenistan",
+  "placeId": "ChIJExI2N8T9bz8RNCiQYVVP03I",
+  "googleName": "Bakery 508",
+  "formattedAddress": "Памятник Владимиру Ленину, Aşgabat, Turkmenistan",
+  "phone": "8 63 204022",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8274044168537385012",
+  "rating": 4.3,
+  "reviewCount": 21,
+  "coords": [
+    37.8825563,
+    58.3759049
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-508-ashgabat/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:46:37.164Z"
+}

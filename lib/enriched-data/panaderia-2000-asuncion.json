@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-2000-asuncion",
+  "name": "Panaderia 2000",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJqaIKRPmnXZQRdREZjk78iEQ",
+  "googleName": "Panaderia2000",
+  "formattedAddress": "tercera 1516 esquina, Iturbe 001102, Paraguay",
+  "phone": "(021) 390 922",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4938474405733405045",
+  "rating": 4.6,
+  "reviewCount": 14,
+  "coords": [
+    -25.2940939,
+    -57.639343
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-2000-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:54:40.260Z"
+}

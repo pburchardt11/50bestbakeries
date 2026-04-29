@@ -1,0 +1,32 @@
+{
+  "slug": "avesta-wiener-condis-avesta",
+  "name": "Avesta Wiener-Condis",
+  "city": "Avesta",
+  "country": "Sweden",
+  "placeId": "ChIJo9RT1LnkXUYR9wWvpFSjeJ8",
+  "googleName": "Avesta Wiener-Condis AB",
+  "formattedAddress": "Axel Johnsons väg 75, 774 34 Avesta, Sweden",
+  "phone": "0226-512 17",
+  "website": "http://www.wienercondis.se/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11491114033171334647",
+  "rating": 4.7,
+  "reviewCount": 443,
+  "coords": [
+    60.14050760000001,
+    16.1679137
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/avesta-wiener-condis-avesta/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:41.115Z"
+}

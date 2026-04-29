@@ -1,0 +1,32 @@
+{
+  "slug": "maskrtky-od-ajky-banska-stiavnica",
+  "name": "Maškrtky od Ajky",
+  "city": "Banská Štiavnica",
+  "country": "Slovakia",
+  "placeId": "ChIJ-90YnJSjcYoRwsERi0fS9KE",
+  "googleName": "Maškrtky od Ajky",
+  "formattedAddress": "Križovatka 5, 969 01 Banská Štiavnica, Slovakia",
+  "phone": "0903 519 374",
+  "website": "http://www.maskrtkyodajky.sk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11670183739141505474",
+  "rating": 5,
+  "reviewCount": 21,
+  "coords": [
+    48.45091499999999,
+    18.9071729
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 9:00 AM – 4:00 PM",
+    "Wednesday: 9:00 AM – 4:00 PM",
+    "Thursday: 9:00 AM – 4:00 PM",
+    "Friday: 9:00 AM – 4:00 PM",
+    "Saturday: 9:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/maskrtky-od-ajky-banska-stiavnica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:22:13.041Z"
+}

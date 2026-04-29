@@ -1,0 +1,32 @@
+{
+  "slug": "pekarna-planika-bled",
+  "name": "Pekarna Planika",
+  "city": "Bled",
+  "country": "Slovenia",
+  "placeId": "ChIJgf-yGSKRekcRweyOBVJolY4",
+  "googleName": "Pekarna planika, d.o.o. Bled",
+  "formattedAddress": "Triglavska cesta 43, 4260 Bled, Slovenia",
+  "phone": "(04) 574 44 65",
+  "website": "https://www.pekarna-planika.si/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10274232826405514433",
+  "rating": 4.5,
+  "reviewCount": 148,
+  "coords": [
+    46.375,
+    14.0863889
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 2:00 PM",
+    "Tuesday: 7:00 AM – 2:00 PM",
+    "Wednesday: 7:00 AM – 2:00 PM",
+    "Thursday: 7:00 AM – 2:00 PM",
+    "Friday: 7:00 AM – 2:00 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekarna-planika-bled/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:56.141Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-patisserie-nourane-tataouine",
+  "name": "Boulangerie Pâtisserie Nourane",
+  "city": "Tataouine",
+  "country": "Tunisia",
+  "placeId": "ChIJwdTKj5i3VBIR_z4DDhDgs7Q",
+  "googleName": "PATISSERIE NOURANE",
+  "formattedAddress": "EN FACE HOPITAL REGIONAL, Tataouine 3263, Tunisia",
+  "phone": "20 148 822",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13020997307217428223",
+  "rating": 3.4,
+  "reviewCount": 12,
+  "coords": [
+    32.9210902,
+    10.4508956
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 1:30 AM",
+    "Tuesday: 5:00 AM – 11:00 PM",
+    "Wednesday: 5:00 AM – 11:00 PM",
+    "Thursday: 5:00 AM – 11:00 PM",
+    "Friday: 5:00 AM – 11:00 PM",
+    "Saturday: 5:00 AM – 11:00 PM",
+    "Sunday: 5:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-patisserie-nourane-tataouine/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:45:25.508Z"
+}

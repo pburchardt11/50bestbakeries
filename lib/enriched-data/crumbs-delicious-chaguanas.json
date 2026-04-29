@@ -1,0 +1,32 @@
+{
+  "slug": "crumbs-delicious-chaguanas",
+  "name": "Crumbs Delicious",
+  "city": "Chaguanas",
+  "country": "Trinidad & Tobago",
+  "placeId": "ChIJ5zeLnRn7NYwR4Tr4o8FVikQ",
+  "googleName": "Crumbs Delicious",
+  "formattedAddress": "Corner Cacandee Rd and, Greenidge Rd, Felicity, Trinidad and Tobago",
+  "phone": "(868) 760-4958",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4938854231533173473",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    10.5411963,
+    -61.4362035
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/crumbs-delicious-chaguanas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:43:30.699Z"
+}

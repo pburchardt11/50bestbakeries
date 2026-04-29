@@ -1,0 +1,32 @@
+{
+  "slug": "cake-shake-faisalabad",
+  "name": "Cake Shake",
+  "city": "Faisalabad",
+  "country": "Pakistan",
+  "placeId": "ChIJVzu4JeZpIjkRi_hgqtKaUyg",
+  "googleName": "Cake Shake",
+  "formattedAddress": "P40 , Fahad Street , West Canal Road, Canal Expy, Saeed Colony Nasar Ullah Khan Town, Faisalabad, 38000, Pakistan",
+  "phone": "0321 7653319",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2905836414176393355",
+  "rating": 4,
+  "reviewCount": 1,
+  "coords": [
+    31.4381949,
+    73.13283059999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cake-shake-faisalabad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:49:47.091Z"
+}

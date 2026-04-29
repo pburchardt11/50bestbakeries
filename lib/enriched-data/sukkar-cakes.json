@@ -1,0 +1,32 @@
+{
+  "slug": "sukkar-cakes",
+  "name": "Sukkar Cakes",
+  "city": "ירושלים",
+  "country": "Palestine",
+  "placeId": "ChIJ58qKsykpAxURz1yNOq5I8q4",
+  "googleName": "Sukkar Cakes",
+  "formattedAddress": "main street shufat, Jerusalem",
+  "phone": "02-628-7408",
+  "website": "https://www.facebook.com/pages/category/Local-Business/Sukkar-Cakes-115822035107372/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12606218220107291855",
+  "rating": 4.2,
+  "reviewCount": 11,
+  "coords": [
+    31.8138732,
+    35.2343857
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:30 PM",
+    "Tuesday: 9:00 AM – 8:30 PM",
+    "Wednesday: 9:00 AM – 8:30 PM",
+    "Thursday: 9:00 AM – 8:30 PM",
+    "Friday: 3:00 – 8:30 PM",
+    "Saturday: 9:00 AM – 8:30 PM",
+    "Sunday: 9:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/sukkar-cakes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:51:10.454Z"
+}

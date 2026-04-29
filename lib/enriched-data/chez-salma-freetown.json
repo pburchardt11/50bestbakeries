@@ -1,0 +1,32 @@
+{
+  "slug": "chez-salma-freetown",
+  "name": "Chez Salma",
+  "city": "Freetown",
+  "country": "Sierra Leone",
+  "placeId": "ChIJwyVphyDFBA8RDD1mcb8OtGQ",
+  "googleName": "Chez Salma",
+  "formattedAddress": "FPHJ+8JG, Freetown, Sierra Leone",
+  "phone": "(030) 605068",
+  "website": "https://razzouksalma.wixsite.com/website",
+  "googleMapsUrl": "https://maps.google.com/?cid=7256441115004779788",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    8.478312599999999,
+    -13.2684161
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 7:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chez-salma-freetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:12.868Z"
+}

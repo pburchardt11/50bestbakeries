@@ -1,0 +1,32 @@
+{
+  "slug": "bakers-inn-retail-stores-harare",
+  "name": "Bakers Inn Retail Stores",
+  "city": "Harare",
+  "country": "Zimbabwe",
+  "placeId": "ChIJ8eJk-2GjMRkRu9Izge9qpzs",
+  "googleName": "Baker's Inn Harare Factory 2",
+  "formattedAddress": "1 Shepperton Rd, Harare, Zimbabwe",
+  "phone": "(024) 2751481",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4298521946245812923",
+  "rating": 4.1,
+  "reviewCount": 295,
+  "coords": [
+    -17.8643766,
+    31.0515842
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-inn-retail-stores-harare/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:01:22.816Z"
+}

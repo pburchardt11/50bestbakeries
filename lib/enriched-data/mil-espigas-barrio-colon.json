@@ -1,0 +1,32 @@
+{
+  "slug": "mil-espigas-barrio-colon",
+  "name": "Mil Espigas",
+  "city": "Barrio Colón",
+  "country": "Panama",
+  "placeId": "ChIJE0bw3VWXrI8ReRqlIHbGgUk",
+  "googleName": "Panaderia mil Espiga",
+  "formattedAddress": "Principal Barriada Virgen de Guadalupe 287-3, La Chorrera, Provincia de Panamá Oeste, Panama",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5296732847420545657",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "coords": [
+    8.853839100000002,
+    -79.8115042
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 8:00 PM",
+    "Tuesday: 5:00 AM – 8:00 PM",
+    "Wednesday: 5:00 AM – 8:00 PM",
+    "Thursday: 5:00 AM – 8:00 PM",
+    "Friday: 5:00 AM – 8:00 PM",
+    "Saturday: 5:00 AM – 8:00 PM",
+    "Sunday: 5:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/mil-espigas-barrio-colon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:52:02.052Z"
+}

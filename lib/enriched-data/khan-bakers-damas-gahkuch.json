@@ -1,0 +1,32 @@
+{
+  "slug": "khan-bakers-damas-gahkuch",
+  "name": "Khan Bakers",
+  "city": "Damas Gahkuch",
+  "country": "Pakistan",
+  "placeId": "ChIJZ8UvDtHh5zgRW06FDiJB2q4",
+  "googleName": "KHAN BAKERS",
+  "formattedAddress": "5QH9+6PW, Gahkuch Paeen, Gahkuch",
+  "phone": "0355 5164516",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12599454522050694747",
+  "rating": 3.8,
+  "reviewCount": 4,
+  "coords": [
+    36.1781118,
+    73.7693343
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/khan-bakers-damas-gahkuch/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:49:20.612Z"
+}

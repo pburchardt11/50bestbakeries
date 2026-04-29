@@ -1,0 +1,32 @@
+{
+  "slug": "sedelice-french-bakery-moscow",
+  "name": "SeDelice French Bakery",
+  "city": "Moscow",
+  "country": "Russia",
+  "placeId": "ChIJf3kikUVLtUYRoaXAJeyJAmY",
+  "googleName": "FRENCH BAKERY SeDelice",
+  "formattedAddress": "Myasnitskaya Ulitsa, 30, Moskva, Russia, 101000",
+  "phone": "8 (966) 191-34-50",
+  "website": "https://sedelice.ru/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7350589189160740257",
+  "rating": 3,
+  "reviewCount": 12,
+  "coords": [
+    55.76553449999999,
+    37.6386492
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/sedelice-french-bakery-moscow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:50.911Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "glen-s-pastry-home-kampala",
+  "name": "Glen's Pastry Home",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJO4LeLZW5fRcRNTxm8RUATfc",
+  "googleName": "Glen's Delight",
+  "formattedAddress": "Nambale road, Hill, Robert Mugabe Rd, Kampala, Uganda",
+  "phone": "0788 617660",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17819899394819243061",
+  "rating": 4.8,
+  "reviewCount": 10,
+  "coords": [
+    0.3300796,
+    32.6335493
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/glen-s-pastry-home-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:49:35.169Z"
+}

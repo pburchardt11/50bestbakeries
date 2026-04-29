@@ -1,0 +1,32 @@
+{
+  "slug": "hitri-kruhek-bled",
+  "name": "Hitri Kruhek",
+  "city": "Bled",
+  "country": "Slovenia",
+  "placeId": "ChIJLY19lNGWekcRadFHlZ5QoDk",
+  "googleName": "Hitri Kruhek",
+  "formattedAddress": "Ljubljanska cesta 26, 4260 Bled, Slovenia",
+  "phone": "040 895 095",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4152407498475164009",
+  "rating": 4,
+  "reviewCount": 769,
+  "coords": [
+    46.3683477,
+    14.1153158
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hitri-kruhek-bled/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:24:00.546Z"
+}

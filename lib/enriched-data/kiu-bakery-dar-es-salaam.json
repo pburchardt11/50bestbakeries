@@ -1,0 +1,32 @@
+{
+  "slug": "kiu-bakery-dar-es-salaam",
+  "name": "KIU Bakery",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJKZV88GZMXBgRmx1MK0ewB4I",
+  "googleName": "Soul Treats",
+  "formattedAddress": "Plot 486, 486 Rose Garden Rd, Dar es Salaam, Tanzania",
+  "phone": "0768 002 332",
+  "website": "http://www.soultreats.co.tz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9369651369483181467",
+  "rating": 4.5,
+  "reviewCount": 507,
+  "coords": [
+    -6.7616456,
+    39.2514715
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 3:00 PM",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 7:00 PM",
+    "Saturday: 10:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kiu-bakery-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:39:06.972Z"
+}

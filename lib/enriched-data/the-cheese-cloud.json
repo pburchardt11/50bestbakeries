@@ -1,0 +1,32 @@
+{
+  "slug": "the-cheese-cloud",
+  "name": "The Cheese Cloud",
+  "city": "بوشر",
+  "country": "Oman",
+  "placeId": "ChIJO5g3lAb_kT4R1WwNkal1tgM",
+  "googleName": "The Cheese Cloud",
+  "formattedAddress": "Gala Al thubat 6 Gala OM, مسقط 130, Oman",
+  "phone": null,
+  "website": "http://www.thecheesecloud.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=267530599018622165",
+  "rating": 4.8,
+  "reviewCount": 56,
+  "coords": [
+    23.5380098,
+    58.38316129999999
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 8:00 PM",
+    "Tuesday: 5:00 AM – 8:30 PM",
+    "Wednesday: 5:00 AM – 8:00 PM",
+    "Thursday: 5:00 AM – 8:00 PM",
+    "Friday: 5:00 AM – 12:30 PM",
+    "Saturday: 5:00 AM – 8:00 PM",
+    "Sunday: 5:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/the-cheese-cloud/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:47:27.743Z"
+}

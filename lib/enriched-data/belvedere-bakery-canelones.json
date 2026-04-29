@@ -1,0 +1,32 @@
+{
+  "slug": "belvedere-bakery-canelones",
+  "name": "Belvedere Bakery",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJrfKMhC-Gn5URf5o6eptBBb4",
+  "googleName": "Belvedere Bakery",
+  "formattedAddress": "Av. Gabriela Mistral 2127, 15800 Ciudad de la Costa, Departamento de Canelones, Uruguay",
+  "phone": "2605 7367",
+  "website": "http://www.belvederebakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13692422378116258431",
+  "rating": 4.4,
+  "reviewCount": 188,
+  "coords": [
+    -34.8654775,
+    -56.0337988
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/belvedere-bakery-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:40.474Z"
+}

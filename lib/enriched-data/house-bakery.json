@@ -1,0 +1,32 @@
+{
+  "slug": "house-bakery",
+  "name": "House bakery",
+  "city": "Владивосток",
+  "country": "Russia",
+  "placeId": "ChIJ4w7o1BeSs18RWqIeM_j-dVs",
+  "googleName": "House Bakery",
+  "formattedAddress": "Nekrasovskaya Ulitsa, 94, Vladivostok, Primorskiy kray, Russia, 690014",
+  "phone": "8 (423) 293-87-87",
+  "website": "https://housebakery.ru/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6590453971689579098",
+  "rating": 4.6,
+  "reviewCount": 199,
+  "coords": [
+    43.129916,
+    131.912295
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: 9:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/house-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:56.529Z"
+}

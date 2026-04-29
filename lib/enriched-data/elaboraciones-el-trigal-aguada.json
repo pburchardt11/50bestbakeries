@@ -1,0 +1,32 @@
+{
+  "slug": "elaboraciones-el-trigal-aguada",
+  "name": "Elaboraciones El Trigal",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJ62dYwdakAowRaidtMAEiphw",
+  "googleName": "Elaboraciones El Trigal",
+  "formattedAddress": "carr 411 k.m 1.4, Aguada, 00602, Puerto Rico",
+  "phone": "(787) 252-0344",
+  "website": "http://www.elaboracioneseltrigal.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2064374867698722666",
+  "rating": 4.8,
+  "reviewCount": 125,
+  "coords": [
+    18.3711438,
+    -67.19737359999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/elaboraciones-el-trigal-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:02:03.191Z"
+}

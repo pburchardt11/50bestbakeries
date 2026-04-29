@@ -1,0 +1,32 @@
+{
+  "slug": "stiavnicka-spacirka-banska-stiavnica",
+  "name": "Štiavnicka Špacírka",
+  "city": "Banská Štiavnica",
+  "country": "Slovakia",
+  "placeId": "ChIJ4ZMQQcQzFUcRrJ3ZHPweHDw",
+  "googleName": "Štiavnicka Špacírka",
+  "formattedAddress": "Andreja Kmeťa, 969 01 Banská Štiavnica, Slovakia",
+  "phone": "0911 140 011",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4331371009788190124",
+  "rating": 4.9,
+  "reviewCount": 109,
+  "coords": [
+    48.4585221,
+    18.8945852
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 12:00 – 6:00 PM",
+    "Thursday: 12:00 – 6:00 PM",
+    "Friday: 12:00 – 6:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 10:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stiavnicka-spacirka-banska-stiavnica/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:22:05.988Z"
+}

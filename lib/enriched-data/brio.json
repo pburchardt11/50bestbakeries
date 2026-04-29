@@ -1,0 +1,32 @@
+{
+  "slug": "brio",
+  "name": "Brio",
+  "city": "Владивосток",
+  "country": "Russia",
+  "placeId": "ChIJLbknfw2Rs18RrJz_-sEmgMo",
+  "googleName": "BRIO",
+  "formattedAddress": "Yeniseyskaya Ulitsa, 23в, Vladivostok, Primorskiy kray, Russia, 690039",
+  "phone": "8 (423) 239-33-46",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14591705407262006444",
+  "rating": 4.5,
+  "reviewCount": 349,
+  "coords": [
+    43.1655699,
+    131.9036421
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/brio/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:06.054Z"
+}

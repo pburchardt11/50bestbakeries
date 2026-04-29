@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-konditorei-graber-aeschi-bei-spiez",
+  "name": "Bäckerei Konditorei Graber",
+  "city": "Aeschi bei Spiez",
+  "country": "Switzerland",
+  "placeId": "ChIJ9w40RMGuj0cRVCN3WqmbLf8",
+  "googleName": "Bäckerei - Konditorei Graber",
+  "formattedAddress": "Alleestrasse 7, 3703 Aeschi bei Spiez, Switzerland",
+  "phone": "033 654 18 33",
+  "website": "http://www.aeschi-beck.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18387524005293138772",
+  "rating": 4.7,
+  "reviewCount": 69,
+  "coords": [
+    46.65932,
+    7.698619999999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:30 PM, 2:00 – 6:30 PM",
+    "Tuesday: 6:00 AM – 12:30 PM",
+    "Wednesday: 6:00 AM – 12:30 PM, 2:00 – 6:30 PM",
+    "Thursday: 6:00 AM – 12:30 PM, 2:00 – 6:30 PM",
+    "Friday: 6:00 AM – 12:30 PM, 2:00 – 6:30 PM",
+    "Saturday: 6:00 AM – 12:00 PM, 1:00 – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-konditorei-graber-aeschi-bei-spiez/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:33.073Z"
+}

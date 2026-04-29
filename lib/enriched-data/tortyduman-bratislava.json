@@ -1,0 +1,32 @@
+{
+  "slug": "tortyduman-bratislava",
+  "name": "TortyDuman",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJCxgzojyGbEcRckWx_nd9nJM",
+  "googleName": "TortyDuman",
+  "formattedAddress": "Šamorínska 10333/44, 821 06 Bratislava-Podunajské Biskupice, Slovakia",
+  "phone": "0905 921 324",
+  "website": "http://www.tortyduman.sk/?sk_kontakt,2",
+  "googleMapsUrl": "https://maps.google.com/?cid=10636514374269879666",
+  "rating": 4.6,
+  "reviewCount": 8,
+  "coords": [
+    48.1205507,
+    17.2113867
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 9:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 6:00 PM",
+    "Sunday: 10:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/tortyduman-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:13.935Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "the-cake-lady-kampala",
+  "name": "The Cake Lady",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJ2bRjji66fRcR4tukrH3iIBA",
+  "googleName": "The Cake Lady",
+  "formattedAddress": "8JX8+MMM, Kampala, Uganda",
+  "phone": "0773 131924",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1162177733256862690",
+  "rating": 3.7,
+  "reviewCount": 17,
+  "coords": [
+    0.3492235,
+    32.6166765
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 7:00 PM",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:30 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-cake-lady-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:49:39.559Z"
+}

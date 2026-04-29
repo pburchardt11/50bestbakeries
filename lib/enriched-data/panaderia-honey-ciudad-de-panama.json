@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-honey-ciudad-de-panama",
+  "name": "Panaderia honey",
+  "city": "Ciudad de Panamá",
+  "country": "Panama",
+  "placeId": "ChIJBwPO-GeprI8RVPhaxGIffxE",
+  "googleName": "Panama Honey - PanamaHoney Corp.",
+  "formattedAddress": "Panama City, Panamá Province, Panama",
+  "phone": "278-0836",
+  "website": "http://www.panamahoney.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1260760929748580436",
+  "rating": 5,
+  "reviewCount": 3,
+  "coords": [
+    9.016240300000002,
+    -79.49394889999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-honey-ciudad-de-panama/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:25.947Z"
+}

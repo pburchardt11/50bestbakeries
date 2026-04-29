@@ -1,0 +1,30 @@
+{
+  "slug": "jadough-qatar",
+  "name": "JaDough Qatar",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJvePEwUDbRT4Rs41ORiK2IAU",
+  "googleName": "JaDough Qatar",
+  "formattedAddress": "New Salata Road, Doha, Qatar",
+  "phone": "4477 2667",
+  "website": "https://jadough.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=369495427769077171",
+  "rating": 3.3,
+  "reviewCount": 7,
+  "coords": [
+    25.2659508,
+    51.5087128
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T10:06:51.873Z"
+}

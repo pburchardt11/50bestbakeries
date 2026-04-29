@@ -1,0 +1,32 @@
+{
+  "slug": "the-fancy-cakes-zim-bulawayo",
+  "name": "The Fancy Cakes Zim",
+  "city": "Bulawayo",
+  "country": "Zimbabwe",
+  "placeId": "ChIJCaE1p49VtR4Re12BigKSIbk",
+  "googleName": "The Fancy Cakes Zim",
+  "formattedAddress": "29 Gifford Ave, Bulawayo, Zimbabwe",
+  "phone": "077 756 6362",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13340104110859443579",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -20.1350446,
+    28.5881629
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/the-fancy-cakes-zim-bulawayo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:00:42.448Z"
+}

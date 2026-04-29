@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-le-moulin-marigot",
+  "name": "Boulangerie Le Moulin",
+  "city": "Marigot",
+  "country": "St. Martin",
+  "placeId": "ChIJOTVSYGlvDowRfaV83KkdksM",
+  "googleName": "Chez Fernand la French Bakery",
+  "formattedAddress": "Front de Mer, 35 Bd de France, Marigot 97150, St Martin",
+  "phone": "0690 38 16 04",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14092358799381538173",
+  "rating": 4.4,
+  "reviewCount": 487,
+  "coords": [
+    18.0672446,
+    -63.086149
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 6:00 PM",
+    "Tuesday: 6:30 AM – 6:00 PM",
+    "Wednesday: 6:30 AM – 6:00 PM",
+    "Thursday: 6:30 AM – 6:00 PM",
+    "Friday: 6:30 AM – 6:00 PM",
+    "Saturday: 6:30 AM – 6:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-le-moulin-marigot/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:31:22.285Z"
+}

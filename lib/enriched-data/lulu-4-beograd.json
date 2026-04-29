@@ -1,0 +1,32 @@
+{
+  "slug": "lulu-4-beograd",
+  "name": "LuLu 4",
+  "city": "Beograd",
+  "country": "Serbia",
+  "placeId": "ChIJzap2_eFvWkcRVeu9Vefl4Cc",
+  "googleName": "Bakery LULU",
+  "formattedAddress": "Koste Glavinića 5e, Beograd, Serbia",
+  "phone": "060 3604255",
+  "website": "https://pekaralulu.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2873549344001092437",
+  "rating": 4.2,
+  "reviewCount": 337,
+  "coords": [
+    44.7956399,
+    20.4438487
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 3:00 PM",
+    "Sunday: 7:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lulu-4-beograd/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:18:07.050Z"
+}

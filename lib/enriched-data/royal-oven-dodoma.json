@@ -1,0 +1,32 @@
+{
+  "slug": "royal-oven-dodoma",
+  "name": "Royal Oven Dodoma",
+  "city": "Dodoma",
+  "country": "Tanzania",
+  "placeId": "ChIJwxZYs57lTRgRWqodl_ElBHg",
+  "googleName": "Royal Oven Dodoma",
+  "formattedAddress": "RPCX+RX2, Mashariki Ave, Dodoma, Tanzania",
+  "phone": "0750 926 203",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8648078904010844762",
+  "rating": 4.2,
+  "reviewCount": 778,
+  "coords": [
+    -6.1779837,
+    35.7498935
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/royal-oven-dodoma/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:40:26.091Z"
+}

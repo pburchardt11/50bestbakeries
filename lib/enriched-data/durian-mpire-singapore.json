@@ -1,0 +1,32 @@
+{
+  "slug": "durian-mpire-singapore",
+  "name": "Durian Mpire",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJ4-ysYQIW2jER-y0M5e0snCg",
+  "googleName": "Durian Empire",
+  "formattedAddress": "Punggol Plaza, 168 Punggol Field, Basement 1 Atrium, Singapore 820168",
+  "phone": "9767 1519",
+  "website": "https://durianempire.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2926263258145631739",
+  "rating": 4.4,
+  "reviewCount": 153,
+  "coords": [
+    1.3938372,
+    103.9131447
+  ],
+  "openingHours": [
+    "Monday: 5:30 – 10:30 PM",
+    "Tuesday: 5:30 – 10:30 PM",
+    "Wednesday: 5:30 – 10:30 PM",
+    "Thursday: 5:30 – 10:30 PM",
+    "Friday: 5:30 – 10:30 PM",
+    "Saturday: 5:30 – 10:30 PM",
+    "Sunday: 5:30 – 10:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/durian-mpire-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:36.752Z"
+}

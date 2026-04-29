@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-fouquet-s-dakar",
+  "name": "Boulangerie Fouquet's",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJM_5NEy8NwQ4RG4RN_tyb3AQ",
+  "googleName": "BOULANGERIE FOUQUET'S",
+  "formattedAddress": "rue gy331 dakar, Dakar, Senegal",
+  "phone": "77 850 22 22",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=350326244489659419",
+  "rating": 4.3,
+  "reviewCount": 32,
+  "coords": [
+    14.7412487,
+    -17.4482067
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-fouquet-s-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:19.307Z"
+}

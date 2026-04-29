@@ -1,0 +1,32 @@
+{
+  "slug": "olga-s-cupcake-damascus",
+  "name": "Olga's Cupcake",
+  "city": "Damascus",
+  "country": "Syria",
+  "placeId": "ChIJN69qQV7nGBURE_B1Db117d0",
+  "googleName": "Olga's cupcake",
+  "formattedAddress": "G857+PXH, Damascus, Syria",
+  "phone": "0932 361 993",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15991567306697601043",
+  "rating": 5,
+  "reviewCount": 7,
+  "coords": [
+    33.5093578,
+    36.3149992
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 2:00 – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/olga-s-cupcake-damascus/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:38.086Z"
+}

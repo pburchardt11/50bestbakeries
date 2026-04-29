@@ -1,0 +1,24 @@
+{
+  "slug": "societe-doha",
+  "name": "Societe",
+  "city": "Doha",
+  "country": "Qatar",
+  "placeId": "ChIJESvgWKLFRT4RKyveSPh2e0I",
+  "googleName": "Société",
+  "formattedAddress": "Sahat Wadi, Doha, Qatar",
+  "phone": "5008 9192",
+  "website": "https://www.societe.com.qa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4790553437385141035",
+  "rating": 4.3,
+  "reviewCount": 662,
+  "coords": [
+    25.2856683,
+    51.53004439999999
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/societe-doha/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:49.016Z"
+}

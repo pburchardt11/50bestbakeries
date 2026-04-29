@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-saint-honore-ancon",
+  "name": "Patisserie Saint Honore",
+  "city": "Ancón",
+  "country": "Panama",
+  "placeId": "ChIJEWuvcc6nrI8Ru4RjlLkavaE",
+  "googleName": "Patisserie Saint Honore (Bakery and French pastry)",
+  "formattedAddress": "Clayton Mall, Panamá, Provincia de Panamá, Panama",
+  "phone": "6609-4845",
+  "website": "https://www.sainthonorepty.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11654500795065533627",
+  "rating": 4.7,
+  "reviewCount": 720,
+  "coords": [
+    9.0035016,
+    -79.5732216
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/patisserie-saint-honore-ancon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:51:31.103Z"
+}

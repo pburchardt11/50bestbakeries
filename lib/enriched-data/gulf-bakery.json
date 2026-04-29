@@ -1,0 +1,32 @@
+{
+  "slug": "gulf-bakery",
+  "name": "Gulf Bakery",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJ_ZmQMmPbRT4RVakI8OnZSrI",
+  "googleName": "GULF PASTRY",
+  "formattedAddress": "Qatar Sports Club VIP Parking, Doha, Qatar",
+  "phone": "7771 2974",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12847320485805467989",
+  "rating": 4.4,
+  "reviewCount": 38,
+  "coords": [
+    25.31886,
+    51.5120432
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 1:30 AM",
+    "Tuesday: 6:30 AM – 1:30 AM",
+    "Wednesday: 6:30 AM – 1:30 AM",
+    "Thursday: 6:30 AM – 2:00 AM",
+    "Friday: 8:00 AM – 1:30 AM",
+    "Saturday: 6:30 AM – 2:00 AM",
+    "Sunday: 6:30 AM – 1:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/gulf-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:05:53.577Z"
+}

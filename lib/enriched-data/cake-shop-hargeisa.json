@@ -1,0 +1,32 @@
+{
+  "slug": "cake-shop-hargeisa",
+  "name": "Cake shop hargeisa",
+  "city": "هرغيسا",
+  "country": "Somalia",
+  "placeId": "ChIJKxbuvLK_KBYR4EDnMf6TKXs",
+  "googleName": "Cake shop hargeisa",
+  "formattedAddress": "Hargeisa, Somalia",
+  "phone": "63 3341766",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8874787260678488288",
+  "rating": 4.8,
+  "reviewCount": 14,
+  "coords": [
+    9.564215899999999,
+    44.042965
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 2:30 PM – 12:00 AM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cake-shop-hargeisa/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:26:02.030Z"
+}

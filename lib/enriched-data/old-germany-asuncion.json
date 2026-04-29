@@ -1,0 +1,32 @@
+{
+  "slug": "old-germany-asuncion",
+  "name": "Old Germany",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJicSRVBwIXZQRKqI6Vs2CANQ",
+  "googleName": "Old Germany",
+  "formattedAddress": "P963+F6W, Asunción 001014, Paraguay",
+  "phone": "0981 251541",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15276353754467312170",
+  "rating": 4.6,
+  "reviewCount": 577,
+  "coords": [
+    -25.2887573,
+    -57.6469259
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:00 AM – 7:00 PM",
+    "Wednesday: 8:00 AM – 7:00 PM",
+    "Thursday: 8:00 AM – 7:00 PM",
+    "Friday: 8:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 7:00 PM",
+    "Sunday: 8:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/old-germany-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:54:50.582Z"
+}

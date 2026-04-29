@@ -1,0 +1,32 @@
+{
+  "slug": "sugar-spice-boquete",
+  "name": "Sugar & Spice",
+  "city": "Boquete",
+  "country": "Panama",
+  "placeId": "ChIJa9QCbtjspY8RMXwrSX740V8",
+  "googleName": "Sugar and Spice Boquete",
+  "formattedAddress": "Calle Principal y, C. 7 Sur, Bajo Boquete, Provincia de Chiriquí, Panama",
+  "phone": "730-9376",
+  "website": "http://www.sugarandspiceboquete.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6904572925012835377",
+  "rating": 4.6,
+  "reviewCount": 1764,
+  "coords": [
+    8.773235,
+    -82.4326049
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 6:00 PM",
+    "Sunday: 8:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/sugar-spice-boquete/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:52:18.018Z"
+}

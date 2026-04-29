@@ -1,0 +1,32 @@
+{
+  "slug": "patisserie-salma-ariana",
+  "name": "Pâtisserie Salma",
+  "city": "Ariana",
+  "country": "Tunisia",
+  "placeId": "ChIJ0fYPnQ3T4hIRHf7h6MgtDzE",
+  "googleName": "Pâtisserie SALMA",
+  "formattedAddress": "Sidi Thabet, Tunisia",
+  "phone": "56 448 383",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3535094573432962589",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    36.8892871,
+    10.0802679
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 9:00 PM",
+    "Tuesday: 5:00 AM – 9:00 PM",
+    "Wednesday: 5:00 AM – 9:00 PM",
+    "Thursday: 5:00 AM – 9:00 PM",
+    "Friday: 5:00 AM – 9:00 PM",
+    "Saturday: 5:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/patisserie-salma-ariana/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:44:45.241Z"
+}

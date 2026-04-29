@@ -1,0 +1,32 @@
+{
+  "slug": "pastel-de-nata-belgrade",
+  "name": "Pastel De Nata",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJv2uhF9pvWkcRQmzHEE4pYrI",
+  "googleName": "Pastel De Nata Belgrade",
+  "formattedAddress": "Urosa Martinovica 6, Local 7, NOVI BEOGRAD 11070, Serbia",
+  "phone": "067 7555511",
+  "website": "http://www.pasteldenata.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12853881701734509634",
+  "rating": 4.9,
+  "reviewCount": 231,
+  "coords": [
+    44.8067982,
+    20.4010749
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:30 AM – 9:00 PM",
+    "Wednesday: 10:30 AM – 9:00 PM",
+    "Thursday: 10:30 AM – 9:00 PM",
+    "Friday: 10:30 AM – 9:00 PM",
+    "Saturday: 10:30 AM – 9:00 PM",
+    "Sunday: 10:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pastel-de-nata-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:43.515Z"
+}

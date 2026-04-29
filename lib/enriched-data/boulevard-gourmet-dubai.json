@@ -1,0 +1,32 @@
+{
+  "slug": "boulevard-gourmet-dubai",
+  "name": "Boulevard Gourmet",
+  "city": "Dubai",
+  "country": "UAE",
+  "placeId": "ChIJk0JVRTRDXz4RSc37raCO46w",
+  "googleName": "Boulevard Gourmet Cake Shop",
+  "formattedAddress": "Radisson Blu Hotel, Dubai Deira Creek - الرقة - دبي - United Arab Emirates",
+  "phone": "04 205 7316",
+  "website": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-dubai-deira-creek/restaurant-bar/boulevard-gourmet",
+  "googleMapsUrl": "https://maps.google.com/?cid=12457957815001795913",
+  "rating": 3.8,
+  "reviewCount": 30,
+  "coords": [
+    25.2648535,
+    55.3108519
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 10:00 PM",
+    "Tuesday: 7:00 AM – 10:00 PM",
+    "Wednesday: 7:00 AM – 10:00 PM",
+    "Thursday: 7:00 AM – 10:00 PM",
+    "Friday: 7:00 AM – 10:00 PM",
+    "Saturday: 7:00 AM – 10:00 PM",
+    "Sunday: 7:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulevard-gourmet-dubai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:48:22.007Z"
+}

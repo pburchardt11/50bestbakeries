@@ -1,0 +1,32 @@
+{
+  "slug": "heimbaka-aure",
+  "name": "Heimbaka",
+  "city": "Aure",
+  "country": "Norway",
+  "placeId": "ChIJg8mzfQCtE0YRKAAya6iQ9JU",
+  "googleName": "Heimbaka",
+  "formattedAddress": "Kjelklia 2, 6690 Aure, Norway",
+  "phone": "40 19 22 75",
+  "website": "http://www.heimbaka.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10805420458996006952",
+  "rating": 4.5,
+  "reviewCount": 4,
+  "coords": [
+    63.27830590000001,
+    8.531272399999999
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 4:00 PM",
+    "Tuesday: 10:00 AM – 4:00 PM",
+    "Wednesday: 10:00 AM – 4:00 PM",
+    "Thursday: 10:00 AM – 4:00 PM",
+    "Friday: 10:00 AM – 4:00 PM",
+    "Saturday: 10:00 AM – 3:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/heimbaka-aure/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:36.813Z"
+}

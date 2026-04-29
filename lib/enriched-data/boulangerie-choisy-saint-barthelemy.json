@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-choisy-saint-barthelemy",
+  "name": "Boulangerie Choisy",
+  "city": "Saint-Barthélemy",
+  "country": "St. Barthélemy",
+  "placeId": "ChIJ8-UsVdELDowRvxQ0YYkr5Es",
+  "googleName": "Choisy Boulangerie-Patisserie (Gustavia)",
+  "formattedAddress": "Place des Marais LORIENT Saint Barthelemy, Gustavia 97133, St Barthélemy",
+  "phone": "0590 27 58 40",
+  "website": "https://boulangeriechoisy.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5468543716575941823",
+  "rating": 4.5,
+  "reviewCount": 79,
+  "coords": [
+    17.897072,
+    -62.84845259999999
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:00 PM",
+    "Tuesday: 5:30 AM – 6:00 PM",
+    "Wednesday: 5:30 AM – 6:00 PM",
+    "Thursday: 5:30 AM – 6:00 PM",
+    "Friday: 5:30 AM – 6:00 PM",
+    "Saturday: 5:30 AM – 4:00 PM",
+    "Sunday: 5:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-choisy-saint-barthelemy/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:30:31.495Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "dessert-aleppo",
+  "name": "Dessert",
+  "city": "Aleppo",
+  "country": "Syria",
+  "placeId": "ChIJVUGGo8n5LxURUNb55lrRd-Y",
+  "googleName": "Fustok Rolls",
+  "formattedAddress": "649H+92G, Aleppo, Syria",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16606972339304388176",
+  "rating": 4.8,
+  "reviewCount": 12,
+  "coords": [
+    36.2184334,
+    37.1275643
+  ],
+  "openingHours": [
+    "Monday: 9:30 AM – 11:30 PM",
+    "Tuesday: 9:30 AM – 11:30 PM",
+    "Wednesday: 9:30 AM – 11:30 PM",
+    "Thursday: 9:30 AM – 11:30 PM",
+    "Friday: 9:30 AM – 11:30 PM",
+    "Saturday: 9:30 AM – 11:30 PM",
+    "Sunday: 9:30 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dessert-aleppo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:19.782Z"
+}

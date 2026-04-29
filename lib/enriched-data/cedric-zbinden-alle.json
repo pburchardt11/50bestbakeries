@@ -1,0 +1,32 @@
+{
+  "slug": "cedric-zbinden-alle",
+  "name": "Cédric Zbinden",
+  "city": "Alle",
+  "country": "Switzerland",
+  "placeId": "ChIJE8Z51SfxkUcRIBN8lBbMNvo",
+  "googleName": "Cédric Zbinden",
+  "formattedAddress": "Rue de l'Eglise 9, 2942 Alle, Switzerland",
+  "phone": "032 471 13 39",
+  "website": "https://yellow.local.ch/d/imfGikwkOQvSlYA1C1D17g",
+  "googleMapsUrl": "https://maps.google.com/?cid=18029822555576865568",
+  "rating": 4.9,
+  "reviewCount": 67,
+  "coords": [
+    47.426428,
+    7.128185999999999
+  ],
+  "openingHours": [
+    "Monday: 5:45 AM – 12:15 PM, 2:00 – 6:30 PM",
+    "Tuesday: 5:45 AM – 12:15 PM, 2:00 – 6:30 PM",
+    "Wednesday: 5:45 AM – 12:15 PM",
+    "Thursday: 5:45 AM – 12:15 PM, 2:00 – 6:30 PM",
+    "Friday: 5:45 AM – 12:15 PM, 2:00 – 6:30 PM",
+    "Saturday: 5:45 AM – 12:15 PM, 1:30 – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cedric-zbinden-alle/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:57.010Z"
+}

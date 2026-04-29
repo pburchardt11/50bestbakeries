@@ -1,0 +1,32 @@
+{
+  "slug": "hleb-kifle-beograd",
+  "name": "Hleb & kifle",
+  "city": "Beograd",
+  "country": "Serbia",
+  "placeId": "ChIJPdS0LbN6WkcRIyzAmdmLmvE",
+  "googleName": "Hleb&Kifle Knez",
+  "formattedAddress": "Kneza Mihaila 34, Beograd 11000, Serbia",
+  "phone": "064 8956279",
+  "website": "https://www.hlebikifle.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17409381076257745955",
+  "rating": 3.8,
+  "reviewCount": 273,
+  "coords": [
+    44.8179424,
+    20.4570345
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hleb-kifle-beograd/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:58.366Z"
+}

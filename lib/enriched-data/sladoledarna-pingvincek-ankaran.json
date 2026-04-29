@@ -1,0 +1,32 @@
+{
+  "slug": "sladoledarna-pingvincek-ankaran",
+  "name": "Sladoledarna Pingvincek",
+  "city": "Ankaran",
+  "country": "Slovenia",
+  "placeId": "ChIJgf11OF5pe0cRIeCr1C01DBE",
+  "googleName": "Sladoledarna Pingvincek",
+  "formattedAddress": "Regentova ulica 2, 6280 Ankaran, Slovenia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1228415269323137057",
+  "rating": 4.9,
+  "reviewCount": 128,
+  "coords": [
+    45.5796421,
+    13.7370278
+  ],
+  "openingHours": [
+    "Monday: 12:00 – 8:00 PM",
+    "Tuesday: 12:00 – 8:00 PM",
+    "Wednesday: 12:00 – 8:00 PM",
+    "Thursday: 12:00 – 8:00 PM",
+    "Friday: 12:00 – 8:00 PM",
+    "Saturday: 12:00 – 8:00 PM",
+    "Sunday: 12:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sladoledarna-pingvincek-ankaran/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:49.678Z"
+}

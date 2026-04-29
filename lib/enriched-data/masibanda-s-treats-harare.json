@@ -1,0 +1,32 @@
+{
+  "slug": "masibanda-s-treats-harare",
+  "name": "Masibanda's Treats",
+  "city": "Harare",
+  "country": "Zimbabwe",
+  "placeId": "ChIJwRK7f0ijMRkR1Z0G9eiTdA8",
+  "googleName": "Masibanda's Treats",
+  "formattedAddress": "54, 1 Philippi Way, Harare, Zimbabwe",
+  "phone": "077 271 5113",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1113677636619902421",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -17.8640703,
+    31.0562969
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 – 9:00 AM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/masibanda-s-treats-harare/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:01:40.437Z"
+}

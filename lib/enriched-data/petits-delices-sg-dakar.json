@@ -1,0 +1,32 @@
+{
+  "slug": "petits-delices-sg-dakar",
+  "name": "Petits Délices SG",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJc7SvJytzwQ4Ryxznrd27yVY",
+  "googleName": "Delice Sénégal",
+  "formattedAddress": "Zone de Captage lot Z58 Z58, Dakar, Senegal",
+  "phone": "77 634 43 44",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6253736118360415435",
+  "rating": 2,
+  "reviewCount": 2,
+  "coords": [
+    14.728783,
+    -17.4429164
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 6:00 PM",
+    "Tuesday: 8:30 AM – 6:00 PM",
+    "Wednesday: 8:30 AM – 6:30 PM",
+    "Thursday: 8:30 AM – 6:30 PM",
+    "Friday: 8:30 AM – 6:30 PM",
+    "Saturday: 9:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/petits-delices-sg-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:16:05.099Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "les-gourmandises-de-charlottes-le-tampon",
+  "name": "Les Gourmandises de Charlottes",
+  "city": "Le Tampon",
+  "country": "Réunion",
+  "placeId": "ChIJj9gmkKALeCERVhnUU8aMw6o",
+  "googleName": "Les Gourmandises de Charlottes",
+  "formattedAddress": "1 Rue Kervéguen, Le Tampon 97430, Réunion",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12304833390344149334",
+  "rating": 4.1,
+  "reviewCount": 145,
+  "coords": [
+    -21.2881365,
+    55.51208699999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: Open 24 hours",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/les-gourmandises-de-charlottes-le-tampon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:12:22.993Z"
+}

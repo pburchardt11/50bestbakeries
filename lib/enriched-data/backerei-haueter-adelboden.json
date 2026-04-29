@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-haueter-adelboden",
+  "name": "Bäckerei Haueter",
+  "city": "Adelboden",
+  "country": "Switzerland",
+  "placeId": "ChIJH5BFyiMCj0cRWTjOT8ThJyU",
+  "googleName": "Bäckerei Konditorei Confiserie Café Haueter AG",
+  "formattedAddress": "Dorfstrasse 27, 3715 Adelboden, Switzerland",
+  "phone": "033 673 12 34",
+  "website": "http://www.haueter-adelboden.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2677356736763803737",
+  "rating": 4.5,
+  "reviewCount": 503,
+  "coords": [
+    46.49231880000001,
+    7.5586973
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 7:00 AM – 4:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-haueter-adelboden/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:12.014Z"
+}

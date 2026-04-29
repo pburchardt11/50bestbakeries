@@ -1,0 +1,32 @@
+{
+  "slug": "aqsa-bakers-chakri",
+  "name": "Aqsa Bakers",
+  "city": "Chakri",
+  "country": "Pakistan",
+  "placeId": "ChIJKR0MrImDNTkRLxnqjJILJIA",
+  "googleName": "AQSA BAKER'S",
+  "formattedAddress": "3665+74H, Shahzakria road, Kandiāro, Pakistan",
+  "phone": "0302 3932291",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9233517860073642287",
+  "rating": 3.7,
+  "reviewCount": 19,
+  "coords": [
+    27.0606845,
+    68.20786489999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 11:00 PM",
+    "Tuesday: 7:00 AM – 11:00 PM",
+    "Wednesday: 7:00 AM – 11:00 PM",
+    "Thursday: 7:00 AM – 11:00 PM",
+    "Friday: 7:00 AM – 11:00 PM",
+    "Saturday: 7:00 AM – 11:00 PM",
+    "Sunday: 7:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/aqsa-bakers-chakri/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:49:06.599Z"
+}

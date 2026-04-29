@@ -1,0 +1,32 @@
+{
+  "slug": "hogan-bakery-guishan",
+  "name": "Hogan Bakery",
+  "city": "Guishan",
+  "country": "Taiwan",
+  "placeId": "ChIJWUbgU8mrQjQR_qcdT7p70r8",
+  "googleName": "Hogan Bakery Xinyi Shop",
+  "formattedAddress": "No. 18號, Lane 265, Section 4, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+  "phone": "02 2755 4444",
+  "website": "http://www.hoganbakery.com.tw/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13822246246474950654",
+  "rating": 4.4,
+  "reviewCount": 670,
+  "coords": [
+    25.0344403,
+    121.554449
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 9:00 PM",
+    "Tuesday: 7:30 AM – 9:00 PM",
+    "Wednesday: 7:30 AM – 9:00 PM",
+    "Thursday: 7:30 AM – 9:00 PM",
+    "Friday: 7:30 AM – 9:00 PM",
+    "Saturday: 7:30 AM – 9:00 PM",
+    "Sunday: 7:30 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/hogan-bakery-guishan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:37:34.637Z"
+}

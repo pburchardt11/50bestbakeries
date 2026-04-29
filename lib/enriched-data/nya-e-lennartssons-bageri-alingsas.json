@@ -1,0 +1,32 @@
+{
+  "slug": "nya-e-lennartssons-bageri-alingsas",
+  "name": "Nya E Lennartssons Bageri",
+  "city": "Alingsås",
+  "country": "Sweden",
+  "placeId": "ChIJbbsI_edTRUYRFSsPA4CapEY",
+  "googleName": "Lennartssons Café",
+  "formattedAddress": "Kungsgatan 33, 441 31 Alingsås, Sweden",
+  "phone": "0322-106 59",
+  "website": "http://www.lennartssons-café.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5090363353433320213",
+  "rating": 4,
+  "reviewCount": 44,
+  "coords": [
+    57.92997310000001,
+    12.5374585
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 6:00 PM",
+    "Tuesday: 10:00 AM – 6:00 PM",
+    "Wednesday: 10:00 AM – 6:00 PM",
+    "Thursday: 10:00 AM – 6:00 PM",
+    "Friday: 10:00 AM – 6:00 PM",
+    "Saturday: 10:00 AM – 3:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/nya-e-lennartssons-bageri-alingsas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:33:48.757Z"
+}

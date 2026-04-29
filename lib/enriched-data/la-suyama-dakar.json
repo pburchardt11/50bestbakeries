@@ -1,0 +1,32 @@
+{
+  "slug": "la-suyama-dakar",
+  "name": "La Suyama",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJoX5Vk_8NwQ4RoQvfwhEcvr4",
+  "googleName": "La Suyama",
+  "formattedAddress": "Rue GY-250, Dakar, Senegal",
+  "phone": "77 632 90 29",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13744453975390751649",
+  "rating": 4.7,
+  "reviewCount": 3,
+  "coords": [
+    14.741598,
+    -17.453339
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 9:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-suyama-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:21.133Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "muhle-burgholz-adelboden",
+  "name": "Mühle Burgholz",
+  "city": "Adelboden",
+  "country": "Switzerland",
+  "placeId": "ChIJhb4ViZWsj0cRewXOpq3zJF4",
+  "googleName": "Mühle Burgholz AG",
+  "formattedAddress": "Burgholz 14, 3753 Diemtigen, Switzerland",
+  "phone": "033 681 82 22",
+  "website": "https://muehle-burgholz.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6783814865880221051",
+  "rating": 4.4,
+  "reviewCount": 5,
+  "coords": [
+    46.6670311,
+    7.605460600000001
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 12:00 PM, 1:00 – 4:00 PM",
+    "Tuesday: 7:30 AM – 12:00 PM, 1:00 – 4:00 PM",
+    "Wednesday: 7:30 AM – 12:00 PM, 1:00 – 4:00 PM",
+    "Thursday: 7:30 AM – 12:00 PM, 1:00 – 4:00 PM",
+    "Friday: 7:30 AM – 12:00 PM, 1:00 – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/muhle-burgholz-adelboden/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:22.083Z"
+}

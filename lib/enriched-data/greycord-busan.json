@@ -1,0 +1,32 @@
+{
+  "slug": "greycord-busan",
+  "name": "Greycord",
+  "city": "Busan",
+  "country": "South Korea",
+  "placeId": "ChIJ12LUwtzraDUREYEuQ1ZUmCM",
+  "googleName": "그레이코드",
+  "formattedAddress": "South Korea, Busan, Busanjin District, Dongseong-ro 15beon-gil, 25 1층",
+  "phone": "010-2243-1109",
+  "website": "https://instagram.com/greycord.official?igshid=OGQ5ZDc2ODk2ZA==",
+  "googleMapsUrl": "https://maps.google.com/?cid=2564892717258539281",
+  "rating": 4.5,
+  "reviewCount": 2,
+  "coords": [
+    35.1517974,
+    129.0669304
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 11:00 AM – 9:00 PM",
+    "Wednesday: 11:00 AM – 9:00 PM",
+    "Thursday: 11:00 AM – 9:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: 11:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/greycord-busan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:28:02.923Z"
+}

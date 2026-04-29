@@ -1,0 +1,32 @@
+{
+  "slug": "cherry-s-bakes-aruppala-east",
+  "name": "Cherry's Bakes",
+  "city": "Aruppala East",
+  "country": "Sri Lanka",
+  "placeId": "ChIJwXGglGJn4zoRS1jK4mLnXNA",
+  "googleName": "Cherry's Bakes",
+  "formattedAddress": "77 Bomaluwa Rd, Kandy, Sri Lanka",
+  "phone": "074 158 8857",
+  "website": "http://www.facebook.com/cherrysbakeskandy",
+  "googleMapsUrl": "https://maps.google.com/?cid=15014129669644113995",
+  "rating": 4.7,
+  "reviewCount": 6,
+  "coords": [
+    7.318833000000001,
+    80.64124570000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cherry-s-bakes-aruppala-east/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:29:08.464Z"
+}

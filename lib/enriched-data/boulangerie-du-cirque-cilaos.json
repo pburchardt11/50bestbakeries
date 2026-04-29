@@ -1,0 +1,32 @@
+{
+  "slug": "boulangerie-du-cirque-cilaos",
+  "name": "Boulangerie du Cirque",
+  "city": "Cilaos",
+  "country": "Réunion",
+  "placeId": "ChIJJ54SJHWdgiER8OPKX7EXEmU",
+  "googleName": "Boulangerie du Cirque",
+  "formattedAddress": "Cilaos, 97413, Réunion",
+  "phone": "0262 31 19 00",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7282909597995295728",
+  "rating": 4.4,
+  "reviewCount": 191,
+  "coords": [
+    -21.1364946,
+    55.46978989999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 12:15 PM, 3:00 – 6:00 PM",
+    "Tuesday: 6:00 AM – 12:15 PM, 3:00 – 6:00 PM",
+    "Wednesday: 6:00 AM – 12:15 PM, 3:00 – 6:00 PM",
+    "Thursday: 6:00 AM – 12:15 PM, 3:00 – 6:00 PM",
+    "Friday: 6:00 AM – 12:15 PM, 3:00 – 6:00 PM",
+    "Saturday: 6:00 AM – 12:15 PM, 3:00 – 6:00 PM",
+    "Sunday: 6:00 AM – 12:15 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-du-cirque-cilaos/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:55.086Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "adia-cake-toshkent",
+  "name": "Adia Cake",
+  "city": "Toshkent",
+  "country": "Uzbekistan",
+  "placeId": "ChIJ-fbCvC2LrjgRIiHkEBeTAPs",
+  "googleName": "Adia Cake",
+  "formattedAddress": "Tashkent, Uzbekistan",
+  "phone": "88 008 77 71",
+  "website": "http://adia.uz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18086617830796828962",
+  "rating": 3,
+  "reviewCount": 23,
+  "coords": [
+    41.32257389999999,
+    69.20882329999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 AM – 11:00 PM",
+    "Saturday: Open 24 hours",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/adia-cake-toshkent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:56:25.185Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sweetest-moments-hougang",
+  "name": "Sweetest Moments",
+  "city": "Hougang",
+  "country": "Singapore",
+  "placeId": "ChIJsWFzaI0X2jERpNn5YGYqIg0",
+  "googleName": "Sweetest Moments Singapore",
+  "formattedAddress": "30 Tai Seng St, #08-05 BreadTalk IHQ, Singapore 534013",
+  "phone": "6286 2553",
+  "website": "http://www.sweetestmoments.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=946365490903243172",
+  "rating": 4.6,
+  "reviewCount": 672,
+  "coords": [
+    1.334332,
+    103.889569
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sweetest-moments-hougang/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:46.043Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-dulceria-marelys-chepo",
+  "name": "Panadería y Dulcería Marelys",
+  "city": "Chepo",
+  "country": "Panama",
+  "placeId": "ChIJX1SM8sijVI4RzNiM3Hh4UZ4",
+  "googleName": "Panadería y Dulceria Marelys",
+  "formattedAddress": "5W93+49G, Chepo, Panamá Province, Panama",
+  "phone": "296-8659",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11408031791597803724",
+  "rating": 4.3,
+  "reviewCount": 85,
+  "coords": [
+    9.167800999999999,
+    -79.09653569999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-y-dulceria-marelys-chepo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:52:36.310Z"
+}

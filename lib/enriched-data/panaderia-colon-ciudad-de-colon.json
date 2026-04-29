@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-colon-ciudad-de-colon",
+  "name": "Panadería Colón",
+  "city": "Ciudad de Colón",
+  "country": "Panama",
+  "placeId": "ChIJdYTdCHZtq48RQkfq_ilns88",
+  "googleName": "Panadería Colón",
+  "formattedAddress": "Colón, Colón Province, Panama",
+  "phone": "6286-8190",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=14966419416750376770",
+  "rating": 4.4,
+  "reviewCount": 1186,
+  "coords": [
+    9.3569956,
+    -79.9025321
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-colon-ciudad-de-colon/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:52:49.108Z"
+}

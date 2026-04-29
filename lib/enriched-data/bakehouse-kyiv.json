@@ -1,0 +1,32 @@
+{
+  "slug": "bakehouse-kyiv",
+  "name": "Bakehouse",
+  "city": "Kyiv",
+  "country": "Ukraine",
+  "placeId": "ChIJ0TZjOrfP1EAR3n43VMaYkJI",
+  "googleName": "Bakehouse Goodwine",
+  "formattedAddress": "Mechnykova St, 9, Kyiv, Ukraine, 01133",
+  "phone": "095 284 6192",
+  "website": "http://instagram.com/bakehouse_bh",
+  "googleMapsUrl": "https://maps.google.com/?cid=10561109103767682782",
+  "rating": 4.1,
+  "reviewCount": 36,
+  "coords": [
+    50.4380611,
+    30.5342723
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: 8:00 AM – 10:00 PM",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakehouse-kyiv/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:04.713Z"
+}

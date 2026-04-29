@@ -1,0 +1,32 @@
+{
+  "slug": "ray-s-bagels",
+  "name": "Ray's Bagels",
+  "city": "بوشر",
+  "country": "Oman",
+  "placeId": "ChIJkYeps-7_kT4RkF-9CaYGwrU",
+  "googleName": "Ray's Bagels",
+  "formattedAddress": "H9RW+CJ, Muscat 118, Oman",
+  "phone": "9633 5862",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13097037976544567184",
+  "rating": 4.6,
+  "reviewCount": 364,
+  "coords": [
+    23.5910983,
+    58.3965555
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/ray-s-bagels/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:47:19.364Z"
+}

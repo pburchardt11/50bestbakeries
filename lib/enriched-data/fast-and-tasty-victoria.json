@@ -1,0 +1,32 @@
+{
+  "slug": "fast-and-tasty-victoria",
+  "name": "Fast and Tasty",
+  "city": "Victoria",
+  "country": "Seychelles",
+  "placeId": "ChIJvYlZ1_8p4CIR5WPHPrU2Irs",
+  "googleName": "Lansiv Café",
+  "formattedAddress": "9FG2+GXH, 157 Independence Ave, Victoria, Seychelles",
+  "phone": "4 321 202",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13484400386370921445",
+  "rating": 4.1,
+  "reviewCount": 137,
+  "coords": [
+    -4.623657,
+    55.4525145
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:30 PM",
+    "Tuesday: 7:30 AM – 5:30 PM",
+    "Wednesday: 7:30 AM – 5:30 PM",
+    "Thursday: 7:30 AM – 5:30 PM",
+    "Friday: 7:30 AM – 5:30 PM",
+    "Saturday: 7:30 AM – 5:30 PM",
+    "Sunday: 9:00 AM – 4:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/fast-and-tasty-victoria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:04.673Z"
+}

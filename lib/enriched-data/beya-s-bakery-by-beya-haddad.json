@@ -1,0 +1,32 @@
+{
+  "slug": "beya-s-bakery-by-beya-haddad",
+  "name": "Beya's Bakery by Beya Haddad",
+  "city": "أريانة",
+  "country": "Tunisia",
+  "placeId": "ChIJ71ZvbfS04hIRZ_c_09O6dRY",
+  "googleName": "Baya Pâtisserie",
+  "formattedAddress": "8 Rue Ahmed Khaireddine, Ariana 2080, Tunisia",
+  "phone": "20 321 331",
+  "website": "https://www.facebook.com/patisserieBaya?ref=hl",
+  "googleMapsUrl": "https://maps.google.com/?cid=1618405060054611815",
+  "rating": 3.9,
+  "reviewCount": 121,
+  "coords": [
+    36.852449,
+    10.1814686
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 9:00 PM",
+    "Sunday: 7:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/beya-s-bakery-by-beya-haddad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:45:55.688Z"
+}

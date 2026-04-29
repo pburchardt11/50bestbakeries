@@ -1,0 +1,32 @@
+{
+  "slug": "bahari-bakery-ltd-dar-es-salaam",
+  "name": "Bahari Bakery Ltd",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJX3TvxWFRXBgRF2CAVd-2Fe4",
+  "googleName": "Bahari Bakery Ltd",
+  "formattedAddress": "Bahari Road, Dar es Salaam, Tanzania",
+  "phone": "0742 849 949",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17155819425866211351",
+  "rating": 4.2,
+  "reviewCount": 235,
+  "coords": [
+    -6.663431399999999,
+    39.2058666
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 10:00 PM",
+    "Tuesday: 6:00 AM – 10:00 PM",
+    "Wednesday: 6:00 AM – 10:00 PM",
+    "Thursday: 6:00 AM – 10:00 PM",
+    "Friday: 6:00 AM – 10:00 PM",
+    "Saturday: 6:00 AM – 10:00 PM",
+    "Sunday: 6:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bahari-bakery-ltd-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:39:54.853Z"
+}

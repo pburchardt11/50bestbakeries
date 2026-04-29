@@ -1,0 +1,32 @@
+{
+  "slug": "sofresh-bakehouse-singapore",
+  "name": "SoFresh Bakehouse",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJHwT_cRAX2jERH0o5ukJ2T_o",
+  "googleName": "Marymount Bakehouse Singapore",
+  "formattedAddress": "421 Race Course Rd, Singapore 218668",
+  "phone": "9183 3185",
+  "website": "https://marymountbakehousesg.cococart.co/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18036765061606361631",
+  "rating": 4.4,
+  "reviewCount": 370,
+  "coords": [
+    1.3158832,
+    103.857507
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 9:00 AM – 6:00 PM",
+    "Thursday: 9:00 AM – 6:00 PM",
+    "Friday: 9:00 AM – 6:00 PM",
+    "Saturday: 9:00 AM – 6:00 PM",
+    "Sunday: 9:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sofresh-bakehouse-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:47.134Z"
+}

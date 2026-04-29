@@ -1,0 +1,32 @@
+{
+  "slug": "somsom-bakery-cafe-amphoe-bo-phloi",
+  "name": "SomSom Bakery & Cafe'",
+  "city": "Amphoe Bo Phloi",
+  "country": "Thailand",
+  "placeId": "ChIJJ2CYKUrr4zAR_dHg0_YkmPc",
+  "googleName": "SomSom Bakery @ Cafe'",
+  "formattedAddress": "9 10 ม.7, Tambon Lum Rang, Amphoe Bo Phloi, Chang Wat Kanchanaburi 71160, Thailand",
+  "phone": "087 060 4031",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17841050566363501053",
+  "rating": 4.8,
+  "reviewCount": 12,
+  "coords": [
+    14.4863654,
+    99.4699425
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: 8:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/somsom-bakery-cafe-amphoe-bo-phloi/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:40:56.490Z"
+}

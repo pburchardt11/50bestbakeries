@@ -1,0 +1,32 @@
+{
+  "slug": "paul-al-mirab-al-jadeed",
+  "name": "Paul",
+  "city": "Al Mirab Al Jadeed",
+  "country": "Qatar",
+  "placeId": "ChIJ8WmY-6DbRT4RDJ33Buv0P3U",
+  "googleName": "Paul Bakery And Restaurant",
+  "formattedAddress": "Al Mirqab Al Jadeed St, Doha, Qatar",
+  "phone": "4418 9274",
+  "website": "http://paularabia.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8448740716241722636",
+  "rating": 4.5,
+  "reviewCount": 498,
+  "coords": [
+    25.2732467,
+    51.5003015
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 11:00 PM",
+    "Tuesday: 8:00 AM – 11:00 PM",
+    "Wednesday: 8:00 AM – 11:00 PM",
+    "Thursday: 8:00 AM – 11:00 PM",
+    "Friday: 8:00 – 11:30 AM, 12:30 – 11:00 PM",
+    "Saturday: 8:00 AM – 11:00 PM",
+    "Sunday: 8:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/paul-al-mirab-al-jadeed/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:41.745Z"
+}

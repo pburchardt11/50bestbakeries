@@ -1,0 +1,32 @@
+{
+  "slug": "bizcochos-la-fe-adjuntas",
+  "name": "Bizcochos la Fe",
+  "city": "Adjuntas",
+  "country": "Puerto Rico",
+  "placeId": "ChIJFa_9IHrRAowRgOTYHNsOvRc",
+  "googleName": "Panadería y Repostería La Fé",
+  "formattedAddress": "56PW+G65, Adjuntas 00601, Puerto Rico",
+  "phone": "(787) 392-3046",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1710539767715259520",
+  "rating": 4.4,
+  "reviewCount": 222,
+  "coords": [
+    18.1862566,
+    -66.754404
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 6:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/bizcochos-la-fe-adjuntas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:59:35.464Z"
+}

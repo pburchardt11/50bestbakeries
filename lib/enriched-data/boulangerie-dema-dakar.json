@@ -1,0 +1,24 @@
+{
+  "slug": "boulangerie-dema-dakar",
+  "name": "Boulangerie DEMA",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJNwJMkSkNwQ4RS3d5cD5EaR4",
+  "googleName": "Boulangerie DEMA",
+  "formattedAddress": "PHP7+RF7, Dakar, Senegal",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2191357728658126667",
+  "rating": 3.4,
+  "reviewCount": 19,
+  "coords": [
+    14.7370475,
+    -17.4363176
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/boulangerie-dema-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:17.051Z"
+}

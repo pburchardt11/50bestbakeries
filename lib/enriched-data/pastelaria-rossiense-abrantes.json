@@ -1,0 +1,32 @@
+{
+  "slug": "pastelaria-rossiense-abrantes",
+  "name": "Pastelaria Rossiense",
+  "city": "Abrantes",
+  "country": "Portugal",
+  "placeId": "ChIJdx2ub4lrGA0RA-sIaGO7zAU",
+  "googleName": "Rossiense",
+  "formattedAddress": "Av. Dr. António Augusto da Silva Martins 177 201, 2205-001 Abrantes, Portugal",
+  "phone": "932 145 223",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=417914901060184835",
+  "rating": 4.1,
+  "reviewCount": 344,
+  "coords": [
+    39.4422876,
+    -8.193129899999999
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 8:30 PM",
+    "Tuesday: 5:00 AM – 8:30 PM",
+    "Wednesday: 5:00 AM – 8:30 PM",
+    "Thursday: 5:00 AM – 8:30 PM",
+    "Friday: 5:00 AM – 8:30 PM",
+    "Saturday: 5:00 AM – 8:30 PM",
+    "Sunday: 5:00 AM – 8:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/pastelaria-rossiense-abrantes/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:57:38.179Z"
+}

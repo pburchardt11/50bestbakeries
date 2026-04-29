@@ -1,0 +1,32 @@
+{
+  "slug": "la-bigoudenne-la-possession",
+  "name": "La Bigoudenne",
+  "city": "La Possession",
+  "country": "Réunion",
+  "placeId": "ChIJnf4vRhSGgiEROIQ1ktR_t1o",
+  "googleName": "La Bigoudenne",
+  "formattedAddress": "49 Rue Gervais Barret, La Possession 97419, Réunion",
+  "phone": "0262 25 11 07",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6536833935114339384",
+  "rating": 3.8,
+  "reviewCount": 80,
+  "coords": [
+    -20.9647286,
+    55.33202989999999
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 1:00 PM, 2:30 – 7:00 PM",
+    "Tuesday: 6:30 AM – 1:00 PM, 2:30 – 7:00 PM",
+    "Wednesday: 6:30 AM – 1:00 PM, 2:30 – 7:00 PM",
+    "Thursday: 6:30 AM – 1:00 PM, 2:30 – 7:00 PM",
+    "Friday: 6:30 AM – 1:00 PM, 2:30 – 7:00 PM",
+    "Saturday: 6:30 AM – 1:00 PM, 2:30 – 7:00 PM",
+    "Sunday: 6:30 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-bigoudenne-la-possession/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:11:31.341Z"
+}

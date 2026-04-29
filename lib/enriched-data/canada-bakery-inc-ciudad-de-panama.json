@@ -1,0 +1,32 @@
+{
+  "slug": "canada-bakery-inc-ciudad-de-panama",
+  "name": "Canada Bakery Inc",
+  "city": "Ciudad de Panamá",
+  "country": "Panama",
+  "placeId": "ChIJnx0pgPNVq48RziDsmEX-51Y",
+  "googleName": "Canada Bakery Inc",
+  "formattedAddress": "Galeras los Alcazares Galera # 5 Urb. Los Pueblos, Panamá, Provincia de Panamá, Panama",
+  "phone": "398-0558",
+  "website": "https://canadabkry.netlify.app/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6262253381753774286",
+  "rating": 4.6,
+  "reviewCount": 33,
+  "coords": [
+    9.0426363,
+    -79.4509461
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 5:00 PM",
+    "Wednesday: 7:00 AM – 5:00 PM",
+    "Thursday: 7:00 AM – 5:00 PM",
+    "Friday: 7:00 AM – 5:00 PM",
+    "Saturday: 7:00 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/canada-bakery-inc-ciudad-de-panama/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:18.611Z"
+}

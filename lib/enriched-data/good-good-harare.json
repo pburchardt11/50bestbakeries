@@ -1,0 +1,32 @@
+{
+  "slug": "good-good-harare",
+  "name": "Good Good",
+  "city": "Harare",
+  "country": "Zimbabwe",
+  "placeId": "ChIJyVqr9_6jMRkRsNVdXYks7Kw",
+  "googleName": "The Good Chef",
+  "formattedAddress": "201 Rainham Rd, Harare, Zimbabwe",
+  "phone": "077 276 4925",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12460383237515892144",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    -17.8760552,
+    30.9956098
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: 2:30 – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/good-good-harare/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:01:32.777Z"
+}

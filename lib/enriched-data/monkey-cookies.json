@@ -1,0 +1,32 @@
+{
+  "slug": "monkey-cookies",
+  "name": "Monkey Cookies",
+  "city": "أم صلال",
+  "country": "Qatar",
+  "placeId": "ChIJ4wa2bbjgRT4RSc5mdn_7Bms",
+  "googleName": "Monkey Cookies",
+  "formattedAddress": "Street 760, أم صلال، Qatar",
+  "phone": "5000 2403",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7712127936784420425",
+  "rating": 4.2,
+  "reviewCount": 73,
+  "coords": [
+    25.4082679,
+    51.41891090000001
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/monkey-cookies/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:05:33.205Z"
+}

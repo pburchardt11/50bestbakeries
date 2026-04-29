@@ -1,0 +1,32 @@
+{
+  "slug": "g-l-bakery-kyiv",
+  "name": "G.L. Bakery",
+  "city": "Kyiv",
+  "country": "Ukraine",
+  "placeId": "ChIJzb_8ZJKRyzsRfsCchMeU650",
+  "googleName": "GL Bakery",
+  "formattedAddress": "IDPL X ROADS, opp. STAR COLONY, Amar Jyoti Colony, Surya Nagar, Quthbullapur, Hyderabad, Telangana 500037, India",
+  "phone": "093989 22379",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11379352468125958270",
+  "rating": 4.3,
+  "reviewCount": 288,
+  "coords": [
+    17.4894539,
+    78.45093949999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 11:30 PM",
+    "Tuesday: 6:00 AM – 11:30 PM",
+    "Wednesday: 6:00 AM – 11:30 PM",
+    "Thursday: 6:00 AM – 11:30 PM",
+    "Friday: 6:00 AM – 11:30 PM",
+    "Saturday: 6:00 AM – 11:30 PM",
+    "Sunday: 6:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/g-l-bakery-kyiv/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:51:06.325Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-burkhard-aarberg",
+  "name": "Bäckerei Burkhard",
+  "city": "Aarberg",
+  "country": "Switzerland",
+  "placeId": "ChIJncF625UXjkcRpqJi06Dv4lA",
+  "googleName": "D. Burkhard Bäckerei-Konditorei",
+  "formattedAddress": "Murtenstrasse 2, 3270 Aarberg, Switzerland",
+  "phone": "032 392 10 10",
+  "website": "http://www.baeckereiburkhard.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5828484341791105702",
+  "rating": 4.3,
+  "reviewCount": 323,
+  "coords": [
+    47.04356,
+    7.2736645
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 5:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-burkhard-aarberg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:04.211Z"
+}

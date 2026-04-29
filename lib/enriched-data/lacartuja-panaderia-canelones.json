@@ -1,0 +1,32 @@
+{
+  "slug": "lacartuja-panaderia-canelones",
+  "name": "LaCartuja Panaderia",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJ-Q1XMpTToZURlcr2CdN3uUM",
+  "googleName": "La Cartuja",
+  "formattedAddress": "Av. José Batlle y Ordoñez 342, 12400 La Paz, Departamento de Canelones, Uruguay",
+  "phone": "2362 2099",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4880063419521616533",
+  "rating": 4,
+  "reviewCount": 251,
+  "coords": [
+    -34.7627151,
+    -56.2274465
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lacartuja-panaderia-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:57.792Z"
+}

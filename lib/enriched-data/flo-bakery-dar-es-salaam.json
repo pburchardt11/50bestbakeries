@@ -1,0 +1,32 @@
+{
+  "slug": "flo-bakery-dar-es-salaam",
+  "name": "Flo Bakery",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJw2FJBDdXXBgRJg6F3byAHQU",
+  "googleName": "Flo Bakery",
+  "formattedAddress": "85VH+FQC, Dar es Salaam, Tanzania",
+  "phone": "0754 306 947",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=368592293172940326",
+  "rating": 4.8,
+  "reviewCount": 12,
+  "coords": [
+    -6.6563018,
+    39.1793958
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:30 PM",
+    "Tuesday: 8:00 AM – 6:30 PM",
+    "Wednesday: 8:00 AM – 6:30 PM",
+    "Thursday: 8:00 AM – 6:30 PM",
+    "Friday: 8:00 AM – 6:30 PM",
+    "Saturday: 8:00 AM – 6:30 PM",
+    "Sunday: 8:00 AM – 6:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/flo-bakery-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:40:18.815Z"
+}

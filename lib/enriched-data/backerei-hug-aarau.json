@@ -1,0 +1,32 @@
+{
+  "slug": "backerei-hug-aarau",
+  "name": "Backerei Hug",
+  "city": "Aarau",
+  "country": "Switzerland",
+  "placeId": "ChIJ373_-4o7kEcRMVLOLphNMtw",
+  "googleName": "Bäckerei Hug - Aarau Bahnhof",
+  "formattedAddress": "Bahnhofplatz / Busbahnhof, Bahnhofpl. 3b, 5000 Aarau, Switzerland",
+  "phone": "062 561 10 91",
+  "website": "https://filialen.baeckerei-hug.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15866829753195319857",
+  "rating": 4.4,
+  "reviewCount": 56,
+  "coords": [
+    47.39142580000001,
+    8.0509478
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/backerei-hug-aarau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:00.301Z"
+}

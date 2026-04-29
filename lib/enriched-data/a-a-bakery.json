@@ -1,0 +1,30 @@
+{
+  "slug": "a-a-bakery",
+  "name": "A.A.Bakery",
+  "city": "السيب",
+  "country": "Oman",
+  "placeId": "ChIJz14ePjPjjT4RQV1YTKQFo10",
+  "googleName": "A.bakery",
+  "formattedAddress": "شارع النزهة، Sib 103, Oman",
+  "phone": "9200 5914",
+  "website": "https://www.instagram.com/a_bakery.om/profilecard/?igsh=MXRsemJiN3picWM4eg==",
+  "googleMapsUrl": "https://maps.google.com/?cid=6747242869944769857",
+  "rating": 5,
+  "reviewCount": 5,
+  "coords": [
+    23.6072747,
+    58.1315653
+  ],
+  "openingHours": [
+    "Monday: 4:00 – 10:20 PM",
+    "Tuesday: 4:00 – 10:20 PM",
+    "Wednesday: 4:00 – 10:20 PM",
+    "Thursday: 4:00 – 10:20 PM",
+    "Friday: Closed",
+    "Saturday: 4:00 – 10:20 PM",
+    "Sunday: 4:00 – 10:20 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [],
+  "enrichedAt": "2026-04-29T09:46:29.335Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-y-reposteria-vilmary-aguadilla",
+  "name": "Panaderia y Reposteria Vilmary",
+  "city": "Aguadilla",
+  "country": "Puerto Rico",
+  "placeId": "ChIJ475dAZC8AowRws9I9i8-YDA",
+  "googleName": "Panadería y Repostería Vilmary",
+  "formattedAddress": "CR8W+WCF, Aguadilla, 00603, Puerto Rico",
+  "phone": "(787) 997-0975",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3485854487301115842",
+  "rating": 4.4,
+  "reviewCount": 120,
+  "coords": [
+    18.4173079,
+    -67.1539686
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:00 PM",
+    "Tuesday: 6:00 AM – 6:00 PM",
+    "Wednesday: 6:00 AM – 6:00 PM",
+    "Thursday: 6:00 AM – 6:00 PM",
+    "Friday: 6:00 AM – 6:00 PM",
+    "Saturday: 6:00 AM – 6:00 PM",
+    "Sunday: 6:00 AM – 6:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-y-reposteria-vilmary-aguadilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:03:57.819Z"
+}

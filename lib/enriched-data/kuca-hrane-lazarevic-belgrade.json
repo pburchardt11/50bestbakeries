@@ -1,0 +1,32 @@
+{
+  "slug": "kuca-hrane-lazarevic-belgrade",
+  "name": "Kuća hrane Lazarević",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJhTEwceZlWkcRzvCRbrw_xn8",
+  "googleName": "KUĆA HRANE LAZAREVIĆ - KETERING",
+  "formattedAddress": "lokal 12, Bulevar maršala Tolbuhina 27, Beograd 11070, Serbia",
+  "phone": "060 6406905",
+  "website": "http://www.khl.co.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9207116566747017422",
+  "rating": 4.4,
+  "reviewCount": 45,
+  "coords": [
+    44.8305482,
+    20.4142963
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 5:00 PM",
+    "Tuesday: 10:00 AM – 5:00 PM",
+    "Wednesday: 10:00 AM – 5:00 PM",
+    "Thursday: 10:00 AM – 5:00 PM",
+    "Friday: 10:00 AM – 5:00 PM",
+    "Saturday: 10:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kuca-hrane-lazarevic-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:16:55.653Z"
+}

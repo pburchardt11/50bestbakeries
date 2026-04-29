@@ -1,0 +1,32 @@
+{
+  "slug": "cafe-konditorei-ruedi-aadorf",
+  "name": "Café Konditorei Rüedi",
+  "city": "Aadorf",
+  "country": "Switzerland",
+  "placeId": "ChIJvQpFMnKUmkcRaMBSweUqj_U",
+  "googleName": "Café - Konditorei Rüedi AG",
+  "formattedAddress": "Bahnhofstrasse 7, 8355 Aadorf, Switzerland",
+  "phone": "052 365 22 17",
+  "website": "http://www.konditorei-aadorf.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17694408627241271400",
+  "rating": 4,
+  "reviewCount": 69,
+  "coords": [
+    47.489501,
+    8.9014074
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 1:00 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 7:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-konditorei-ruedi-aadorf/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:46.393Z"
+}

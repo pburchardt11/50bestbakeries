@@ -1,0 +1,24 @@
+{
+  "slug": "stay-here-today-busan",
+  "name": "Stay here, today.",
+  "city": "Busan",
+  "country": "South Korea",
+  "placeId": "ChIJwXIu1jLtaDUR68osFeoU-gk",
+  "googleName": "Stayhere",
+  "formattedAddress": "4-11 Gwanganhaebyeon-ro 295beon-gil, Suy, 부산광역시 South Korea",
+  "phone": "010-9323-6505",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=718910086129175275",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    35.157152,
+    129.125713
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/stay-here-today-busan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:28:00.110Z"
+}

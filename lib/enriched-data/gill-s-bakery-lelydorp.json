@@ -1,0 +1,32 @@
+{
+  "slug": "gill-s-bakery-lelydorp",
+  "name": "Gill's Bakery",
+  "city": "Lelydorp",
+  "country": "Suriname",
+  "placeId": "ChIJv_9x_R3GCY0R05DpvfItJEE",
+  "googleName": "Gill's Bakery",
+  "formattedAddress": "MQRR+W6G, Lelydorper weg, Lelydorp, Suriname",
+  "phone": "368-610",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4693927232218435795",
+  "rating": 4.3,
+  "reviewCount": 12,
+  "coords": [
+    5.6923011,
+    -55.2094149
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/gill-s-bakery-lelydorp/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:32:08.830Z"
+}

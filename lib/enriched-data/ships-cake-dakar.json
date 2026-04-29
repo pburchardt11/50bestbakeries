@@ -1,0 +1,32 @@
+{
+  "slug": "ships-cake-dakar",
+  "name": "Ships Cake",
+  "city": "Dakar",
+  "country": "Senegal",
+  "placeId": "ChIJ7dNbHckTwQ4RcV2h3gQz2wk",
+  "googleName": "Ships Cake",
+  "formattedAddress": "67 Rue OKM 60, Dakar, Senegal",
+  "phone": "77 401 75 93",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=710217462248988017",
+  "rating": 4.5,
+  "reviewCount": 12,
+  "coords": [
+    14.7276879,
+    -17.4847925
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 8:00 PM",
+    "Tuesday: 10:30 AM – 8:00 PM",
+    "Wednesday: 10:30 AM – 8:00 PM",
+    "Thursday: 10:30 AM – 8:00 PM",
+    "Friday: 10:30 AM – 8:00 PM",
+    "Saturday: 10:30 AM – 8:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ships-cake-dakar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:15:23.679Z"
+}

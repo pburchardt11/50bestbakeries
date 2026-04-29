@@ -1,0 +1,24 @@
+{
+  "slug": "padrutu-aiud",
+  "name": "Padrutu",
+  "city": "Aiud",
+  "country": "Romania",
+  "placeId": "ChIJTb4J3MRWSUcROcQUpM061mQ",
+  "googleName": "Aiud",
+  "formattedAddress": "515200 Aiud, Romania",
+  "phone": null,
+  "website": "http://www.aiud.ro",
+  "googleMapsUrl": "https://maps.google.com/?cid=7266059703704405049",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    46.3086633,
+    23.724558
+  ],
+  "openingHours": null,
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/padrutu-aiud/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:08.811Z"
+}

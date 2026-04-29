@@ -1,0 +1,32 @@
+{
+  "slug": "sin-elic-belgrade",
+  "name": "Sinđelić",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJ8Zyw8IZwWkcRROERT3L8NwQ",
+  "googleName": "Sinđelić",
+  "formattedAddress": "Vojislava Ilića 86, Beograd 11050, Serbia",
+  "phone": "011 3087067",
+  "website": "https://www.restoransindjelic.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=303989067753840964",
+  "rating": 4.6,
+  "reviewCount": 2311,
+  "coords": [
+    44.7907811,
+    20.4977881
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:00 PM",
+    "Tuesday: 9:00 AM – 11:00 PM",
+    "Wednesday: 9:00 AM – 11:00 PM",
+    "Thursday: 9:00 AM – 11:00 PM",
+    "Friday: 9:00 AM – 11:00 PM",
+    "Saturday: 9:00 AM – 11:00 PM",
+    "Sunday: 9:00 AM – 11:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sin-elic-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:08.827Z"
+}

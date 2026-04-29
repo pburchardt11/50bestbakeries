@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-singapore",
+  "name": "Bakery",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJ--NsrnAZ2jER-Ry6WJB26Uo",
+  "googleName": "Tiong Bahru Bakery",
+  "formattedAddress": "56 Eng Hoon St, #01-70, Singapore 160056",
+  "phone": "6220 3430",
+  "website": "http://www.tiongbahrubakery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5397975990716210425",
+  "rating": 4.3,
+  "reviewCount": 3294,
+  "coords": [
+    1.284454,
+    103.8336531
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 8:00 AM – 8:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:07.746Z"
+}

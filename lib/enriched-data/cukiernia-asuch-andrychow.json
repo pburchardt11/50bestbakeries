@@ -1,0 +1,32 @@
+{
+  "slug": "cukiernia-asuch-andrychow",
+  "name": "Cukiernia Łasuch",
+  "city": "Andrychów",
+  "country": "Poland",
+  "placeId": "ChIJg-_ckzqFFkcRWJwltspyqbU",
+  "googleName": "Cukiernia \"Łasuch\"",
+  "formattedAddress": "plac Adama Mickiewicza 7, 34-120 Andrychów, Poland",
+  "phone": "782 304 215",
+  "website": "https://wandrychowie.pl/cukiernia-lasuch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13090120006893935704",
+  "rating": 4.5,
+  "reviewCount": 43,
+  "coords": [
+    49.85395490000001,
+    19.3406865
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cukiernia-asuch-andrychow/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:57:18.315Z"
+}

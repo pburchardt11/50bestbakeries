@@ -1,0 +1,32 @@
+{
+  "slug": "brutaria-pan-lux-agarbiciu",
+  "name": "Brutăria Pan-Lux Agârbiciu",
+  "city": "Agârbiciu",
+  "country": "Romania",
+  "placeId": "ChIJ8ZE0BWFnTEcRbpdg7yTnRB4",
+  "googleName": "Brutăria Spicul Auriu",
+  "formattedAddress": "Strada Nicolae Brana 30, 557260 Șelimbăr, Romania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2181122265375086446",
+  "rating": 4.8,
+  "reviewCount": 174,
+  "coords": [
+    45.7790964,
+    24.181388
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 8:00 PM",
+    "Tuesday: 6:00 AM – 8:00 PM",
+    "Wednesday: 6:00 AM – 8:00 PM",
+    "Thursday: 6:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/brutaria-pan-lux-agarbiciu/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:07.385Z"
+}

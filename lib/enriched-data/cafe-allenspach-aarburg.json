@@ -1,0 +1,32 @@
+{
+  "slug": "cafe-allenspach-aarburg",
+  "name": "Cafe Allenspach",
+  "city": "Aarburg",
+  "country": "Switzerland",
+  "placeId": "ChIJuWkQO88vkEcRdC9aEPohBFk",
+  "googleName": "Bakery Café Wälchli Aarburg",
+  "formattedAddress": "Bahnhofstrasse 64, 4663 Aarburg, Switzerland",
+  "phone": "062 787 44 44",
+  "website": "http://www.baeckerei-waelchli.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6414289127182315380",
+  "rating": 4,
+  "reviewCount": 258,
+  "coords": [
+    47.319456,
+    7.908512999999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 6:30 PM",
+    "Tuesday: 6:00 AM – 6:30 PM",
+    "Wednesday: 6:00 AM – 6:30 PM",
+    "Thursday: 6:00 AM – 6:30 PM",
+    "Friday: 6:00 AM – 6:30 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: 8:00 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cafe-allenspach-aarburg/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:07.862Z"
+}

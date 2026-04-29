@@ -1,0 +1,32 @@
+{
+  "slug": "dona-gregoria-asuncion",
+  "name": "Doña Gregoria",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJBcaZb92nXZQRUPtfpgiivoE",
+  "googleName": "Doña Gregoria",
+  "formattedAddress": "P97H+5RM, Asunción 001218, Paraguay",
+  "phone": "0982 435505",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9349088034502474576",
+  "rating": 4.8,
+  "reviewCount": 6,
+  "coords": [
+    -25.2870352,
+    -57.62045759999999
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:00 PM",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/dona-gregoria-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:55:22.729Z"
+}

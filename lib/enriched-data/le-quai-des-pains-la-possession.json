@@ -1,0 +1,32 @@
+{
+  "slug": "le-quai-des-pains-la-possession",
+  "name": "LE QUAI DES PAINS",
+  "city": "La Possession",
+  "country": "Réunion",
+  "placeId": "ChIJH0l5utKHgiER0xvhvIL1DxY",
+  "googleName": "Boulangerie Pâtisserie ocopain Possession",
+  "formattedAddress": "44 B Rue Mahatma Gandhi, La Possession 97408, Réunion",
+  "phone": "0262 33 08 66",
+  "website": "https://www.ocopain.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1589759135348497363",
+  "rating": 4.1,
+  "reviewCount": 220,
+  "coords": [
+    -20.9556661,
+    55.3236941
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 7:00 PM",
+    "Tuesday: 6:00 AM – 7:00 PM",
+    "Wednesday: 6:00 AM – 7:00 PM",
+    "Thursday: 6:00 AM – 7:00 PM",
+    "Friday: 6:00 AM – 7:00 PM",
+    "Saturday: 6:00 AM – 7:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/le-quai-des-pains-la-possession/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:11:32.776Z"
+}

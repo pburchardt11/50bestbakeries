@@ -1,0 +1,32 @@
+{
+  "slug": "chinscook-confectioneries-freetown",
+  "name": "ChinsCook Confectioneries",
+  "city": "Freetown",
+  "country": "Sierra Leone",
+  "placeId": "ChIJjxGiLXzEBA8RqTvCjrk6bW0",
+  "googleName": "Basha Bakery & Restaurant",
+  "formattedAddress": "73 Wilkinson Road, Freetown, Sierra Leone",
+  "phone": "(076) 611000",
+  "website": "https://bashabakeryrestaurant.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7885023091234061225",
+  "rating": 4.3,
+  "reviewCount": 331,
+  "coords": [
+    8.4782777,
+    -13.2723185
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 10:00 PM",
+    "Tuesday: Closed",
+    "Wednesday: 8:00 AM – 10:00 PM",
+    "Thursday: 8:00 AM – 10:00 PM",
+    "Friday: 8:00 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 10:00 PM",
+    "Sunday: 8:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/chinscook-confectioneries-freetown/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:22.695Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "kim-1-belgrade",
+  "name": "Kim 1",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJS4EONbN6WkcR799DyhzHqZQ",
+  "googleName": "KimTec Srbija",
+  "formattedAddress": "Viline vode bb, 11000 Beograd, Beograd 11000, Serbia",
+  "phone": "011 4444560",
+  "website": "https://www.kimtec.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10712312115143892975",
+  "rating": 4,
+  "reviewCount": 451,
+  "coords": [
+    44.8257378,
+    20.4853862
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:30 PM",
+    "Tuesday: 8:00 AM – 4:30 PM",
+    "Wednesday: 8:00 AM – 4:30 PM",
+    "Thursday: 8:00 AM – 4:30 PM",
+    "Friday: 8:00 AM – 3:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kim-1-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:47.898Z"
+}

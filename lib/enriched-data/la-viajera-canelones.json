@@ -1,0 +1,32 @@
+{
+  "slug": "la-viajera-canelones",
+  "name": "La Viajera",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJDc2NSU2Gn5URhCxu631RUrc",
+  "googleName": "La Viajera",
+  "formattedAddress": "Av. de las Industrias Wilson Ferreira Aldunate, 15000 Ciudad de la Costa, Departamento de Canelones, Uruguay",
+  "phone": "2604 5400",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13209710258293714052",
+  "rating": 4.1,
+  "reviewCount": 248,
+  "coords": [
+    -34.863735,
+    -56.0570915
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 8:00 PM",
+    "Tuesday: 5:30 AM – 8:00 PM",
+    "Wednesday: 5:30 AM – 8:00 PM",
+    "Thursday: 5:30 AM – 8:00 PM",
+    "Friday: 5:30 AM – 8:00 PM",
+    "Saturday: 5:30 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/la-viajera-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:38.304Z"
+}

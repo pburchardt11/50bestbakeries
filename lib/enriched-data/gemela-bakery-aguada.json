@@ -1,0 +1,32 @@
+{
+  "slug": "gemela-bakery-aguada",
+  "name": "Gemela Bakery",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJJ5xQlKKlAowRa_fPvOI5Fzs",
+  "googleName": "Gemela Bakery",
+  "formattedAddress": "9Q3J+H6H, Aguada, 00602, Puerto Rico",
+  "phone": "(787) 252-0291",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4257935618695231339",
+  "rating": 4.8,
+  "reviewCount": 138,
+  "coords": [
+    18.3539332,
+    -67.2193947
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 9:00 PM",
+    "Tuesday: 6:00 AM – 9:00 PM",
+    "Wednesday: 6:00 AM – 9:00 PM",
+    "Thursday: 6:00 AM – 9:00 PM",
+    "Friday: 6:00 AM – 9:00 PM",
+    "Saturday: 6:00 AM – 9:00 PM",
+    "Sunday: 6:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/gemela-bakery-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:01:49.106Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "prima-deli-singapore",
+  "name": "Prima Deli",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJRzckCwAR2jEROfcFbM82zl0",
+  "googleName": "PrimaDeli Bukit Panjang Plaza",
+  "formattedAddress": "Bukit Panjang Plaza, Jelebu Rd, #02-21, Singapore 677743",
+  "phone": "6289 3852",
+  "website": "http://www.primadeli.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6759400355228153657",
+  "rating": 3.8,
+  "reviewCount": 50,
+  "coords": [
+    1.3799653,
+    103.7643089
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 10:00 PM",
+    "Tuesday: 10:00 AM – 10:00 PM",
+    "Wednesday: 10:00 AM – 10:00 PM",
+    "Thursday: 10:00 AM – 10:00 PM",
+    "Friday: 10:00 AM – 10:00 PM",
+    "Saturday: 10:00 AM – 10:00 PM",
+    "Sunday: 10:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/prima-deli-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:13.993Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "dough-loaf-busan",
+  "name": "Dough & Loaf",
+  "city": "Busan",
+  "country": "South Korea",
+  "placeId": "ChIJaYIWtAuNaDURv8Dwd1MS5S0",
+  "googleName": "도우 앤 로프",
+  "formattedAddress": "80 Sesil-ro, Haeundae, Busan, South Korea",
+  "phone": "010-5186-9002",
+  "website": "https://instagram.com/dough_and_loaf",
+  "googleMapsUrl": "https://maps.google.com/?cid=3307069651077349567",
+  "rating": 4.3,
+  "reviewCount": 3,
+  "coords": [
+    35.1725265,
+    129.1775807
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 8:00 PM",
+    "Wednesday: 9:00 AM – 8:00 PM",
+    "Thursday: 9:00 AM – 8:00 PM",
+    "Friday: 9:00 AM – 8:00 PM",
+    "Saturday: 9:00 AM – 8:00 PM",
+    "Sunday: 9:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/dough-loaf-busan/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:27:55.869Z"
+}

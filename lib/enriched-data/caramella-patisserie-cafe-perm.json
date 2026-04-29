@@ -1,0 +1,32 @@
+{
+  "slug": "caramella-patisserie-cafe-perm",
+  "name": "CARAMELLA patisserie & cafe",
+  "city": "Perm",
+  "country": "Russia",
+  "placeId": "ChIJPTpsrY7H6EMRBXcCOUFwQd0",
+  "googleName": "Caramella bistro & patisserie",
+  "formattedAddress": "Ulitsa Tolmacheva, 32, Perm, Permskiy kray, Russia, 614068",
+  "phone": "8 (922) 327-80-27",
+  "website": "http://caramella.la/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15943147581299914501",
+  "rating": 4.9,
+  "reviewCount": 49,
+  "coords": [
+    58.0055313,
+    56.2024841
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 10:00 PM",
+    "Tuesday: 9:00 AM – 10:00 PM",
+    "Wednesday: 9:00 AM – 10:00 PM",
+    "Thursday: 9:00 AM – 10:00 PM",
+    "Friday: 9:00 AM – 10:00 PM",
+    "Saturday: 9:00 AM – 10:00 PM",
+    "Sunday: 9:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/caramella-patisserie-cafe-perm/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:09:03.541Z"
+}

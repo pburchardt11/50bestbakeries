@@ -1,0 +1,32 @@
+{
+  "slug": "lviv-croissants-kyiv",
+  "name": "Lviv Croissants",
+  "city": "Kyiv",
+  "country": "Ukraine",
+  "placeId": "ChIJrXYXJ1HO1EARJkQ6e8kQ1LA",
+  "googleName": "Lviv Croissants",
+  "formattedAddress": "Khreschatyk St, 24, Kyiv, Ukraine, 02000",
+  "phone": "068 965 6578",
+  "website": "https://lvivcroissants.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12741827703279862822",
+  "rating": 4.3,
+  "reviewCount": 2641,
+  "coords": [
+    50.44902099999999,
+    30.522323
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 9:00 PM",
+    "Tuesday: 9:00 AM – 9:00 PM",
+    "Wednesday: 9:00 AM – 9:00 PM",
+    "Thursday: 9:00 AM – 9:00 PM",
+    "Friday: 9:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/lviv-croissants-kyiv/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:50:57.047Z"
+}

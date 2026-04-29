@@ -1,0 +1,32 @@
+{
+  "slug": "c-and-n-bakery-house-dar-es-salaam",
+  "name": "C and N Bakery House",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "placeId": "ChIJgccbgFBIXBgRymwDyNbBAXo",
+  "googleName": "C & N Bakery House",
+  "formattedAddress": "Dar es Salaam, Tanzania",
+  "phone": "0782 594 826",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8791521075826748618",
+  "rating": 4,
+  "reviewCount": 4,
+  "coords": [
+    -6.842645,
+    39.1856014
+  ],
+  "openingHours": [
+    "Monday: 12:00 AM – 10:00 PM",
+    "Tuesday: 12:00 AM – 10:00 PM",
+    "Wednesday: 12:00 AM – 10:00 PM",
+    "Thursday: 12:00 AM – 10:00 PM",
+    "Friday: 12:00 AM – 10:00 PM",
+    "Saturday: 12:00 AM – 10:00 PM",
+    "Sunday: 12:00 AM – 10:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/c-and-n-bakery-house-dar-es-salaam/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:38:55.486Z"
+}

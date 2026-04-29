@@ -1,0 +1,32 @@
+{
+  "slug": "kopi-tarts-paya-lebar",
+  "name": "Kopi & Tarts",
+  "city": "Paya Lebar",
+  "country": "Singapore",
+  "placeId": "ChIJqR77rxkY2jERqn6cpUbu4HM",
+  "googleName": "Kopi & Tarts @ Singpost Centre",
+  "formattedAddress": "#01-129/130, SingPost Centre, 10 Eunos Rd 8, Singapore 408600",
+  "phone": "8034 2559",
+  "website": "https://kopiandtarts.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8349935696338517674",
+  "rating": 3.3,
+  "reviewCount": 110,
+  "coords": [
+    1.3186701,
+    103.8947862
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 7:30 PM",
+    "Tuesday: 7:30 AM – 7:30 PM",
+    "Wednesday: 7:30 AM – 7:30 PM",
+    "Thursday: 7:30 AM – 7:30 PM",
+    "Friday: 7:30 AM – 7:30 PM",
+    "Saturday: 9:00 AM – 7:30 PM",
+    "Sunday: 9:00 AM – 7:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/kopi-tarts-paya-lebar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:49.455Z"
+}

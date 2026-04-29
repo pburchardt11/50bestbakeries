@@ -1,0 +1,32 @@
+{
+  "slug": "cofetaria-andreea-alexandria",
+  "name": "Cofetaria Andreea",
+  "city": "Alexandria",
+  "country": "Romania",
+  "placeId": "ChIJidkladr-sUAR57Ik2g2BYnY",
+  "googleName": "Cofetaria Andreea",
+  "formattedAddress": "Șoseaua Mihai Bravu 286, 030317 București, Romania",
+  "phone": "0728 877 033",
+  "website": "http://cofetariaandreea.ro/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8530522540687536871",
+  "rating": 4.3,
+  "reviewCount": 891,
+  "coords": [
+    44.429383,
+    26.1385165
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 8:30 PM",
+    "Tuesday: 8:00 AM – 8:30 PM",
+    "Wednesday: 8:00 AM – 8:30 PM",
+    "Thursday: 8:00 AM – 8:30 PM",
+    "Friday: 8:00 AM – 8:30 PM",
+    "Saturday: 8:00 AM – 8:30 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/cofetaria-andreea-alexandria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:36.230Z"
+}

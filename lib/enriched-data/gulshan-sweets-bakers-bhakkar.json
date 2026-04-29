@@ -1,0 +1,32 @@
+{
+  "slug": "gulshan-sweets-bakers-bhakkar",
+  "name": "Gulshan Sweets & Bakers",
+  "city": "Bhakkar",
+  "country": "Pakistan",
+  "placeId": "ChIJDzTjKjvWJTkRMewVRkjzBKE",
+  "googleName": "Gulshan Sweets & Bakers",
+  "formattedAddress": "Girls High School Rd, Bhakkar, Pakistan",
+  "phone": "0333 6841096",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11602666031752277041",
+  "rating": 4.1,
+  "reviewCount": 285,
+  "coords": [
+    31.626918,
+    71.0648015
+  ],
+  "openingHours": [
+    "Monday: 5:00 AM – 11:55 PM",
+    "Tuesday: 5:00 AM – 11:55 PM",
+    "Wednesday: 5:00 AM – 11:55 PM",
+    "Thursday: 5:00 AM – 11:55 PM",
+    "Friday: 5:00 AM – 11:55 PM",
+    "Saturday: 5:00 AM – 11:55 PM",
+    "Sunday: 12:30 AM – 11:55 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/gulshan-sweets-bakers-bhakkar/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:48:40.513Z"
+}

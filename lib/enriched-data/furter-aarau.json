@@ -1,0 +1,32 @@
+{
+  "slug": "furter-aarau",
+  "name": "Furter",
+  "city": "Aarau",
+  "country": "Switzerland",
+  "placeId": "ChIJ5cu56BU7kEcR6RFFAo-5bdU",
+  "googleName": "Furter",
+  "formattedAddress": "Bahnhofstrasse 9, 5000 Aarau, Switzerland",
+  "phone": "062 822 38 19",
+  "website": "https://www.instagram.com/baeckereifurteraarau?igsh=MTFiNmhrMmFvZTZncQ==",
+  "googleMapsUrl": "https://maps.google.com/?cid=15379152326409654761",
+  "rating": 4.5,
+  "reviewCount": 109,
+  "coords": [
+    47.3908374,
+    8.045922299999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:15 AM – 6:30 PM",
+    "Wednesday: 7:15 AM – 6:30 PM",
+    "Thursday: 7:15 AM – 6:30 PM",
+    "Friday: 7:15 AM – 6:30 PM",
+    "Saturday: 7:15 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/furter-aarau/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:34:48.940Z"
+}

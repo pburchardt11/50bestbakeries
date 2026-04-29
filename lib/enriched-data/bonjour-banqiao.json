@@ -1,0 +1,32 @@
+{
+  "slug": "bonjour-banqiao",
+  "name": "Bonjour",
+  "city": "Banqiao",
+  "country": "Taiwan",
+  "placeId": "ChIJu097oBOoQjQRRjTGpsTDYvE",
+  "googleName": "bonjour 早餐屋",
+  "formattedAddress": "No. 63, Huzhu St, Banqiao District, New Taipei City, Taiwan 220",
+  "phone": "02 8258 2226",
+  "website": "https://www.facebook.com/Bonjour1011",
+  "googleMapsUrl": "https://maps.google.com/?cid=17393679960237290566",
+  "rating": 4.4,
+  "reviewCount": 146,
+  "coords": [
+    25.0262893,
+    121.4606169
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 1:00 PM",
+    "Tuesday: 6:00 AM – 1:00 PM",
+    "Wednesday: 6:00 AM – 1:00 PM",
+    "Thursday: 6:00 AM – 1:00 PM",
+    "Friday: 6:00 AM – 1:00 PM",
+    "Saturday: 6:00 AM – 1:00 PM",
+    "Sunday: 6:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bonjour-banqiao/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:37:17.225Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "oris-bakeries-kampala",
+  "name": "Oris Bakeries",
+  "city": "Kampala",
+  "country": "Uganda",
+  "placeId": "ChIJ45NMo1-7fRcRl-1zZVMnjao",
+  "googleName": "Oris Bakeries",
+  "formattedAddress": "8GGQ+765 Lugala opposite stabex petrol station, Kampala, Uganda",
+  "phone": "0754 562929",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12289522197301816727",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    0.3256875,
+    32.5380625
+  ],
+  "openingHours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/oris-bakeries-kampala/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:50:04.511Z"
+}

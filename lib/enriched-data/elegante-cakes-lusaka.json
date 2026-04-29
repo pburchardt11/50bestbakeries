@@ -1,0 +1,32 @@
+{
+  "slug": "elegante-cakes-lusaka",
+  "name": "Elegante Cakes",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJOT_MUJbtQBkRNwvExnWMpTc",
+  "googleName": "Elegante Cakes Zambia",
+  "formattedAddress": "F91 Musamba, Chilanga 10101, Zambia",
+  "phone": "097 1755734",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4009765480717093687",
+  "rating": null,
+  "reviewCount": null,
+  "coords": [
+    -15.5702631,
+    28.2702226
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/elegante-cakes-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:15.940Z"
+}

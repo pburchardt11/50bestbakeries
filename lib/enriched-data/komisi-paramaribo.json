@@ -1,0 +1,32 @@
+{
+  "slug": "komisi-paramaribo",
+  "name": "komisi",
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "placeId": "ChIJOeCfuXjLCY0RO9gDKpPEbH8",
+  "googleName": "e-Government Suriname",
+  "formattedAddress": "Dr. Sophie Redmond Straat 219, Paramaribo, Suriname",
+  "phone": "430-007",
+  "website": "https://gov.sr/ministeries/kabinet-van-de-president/e-government/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9181929876645730363",
+  "rating": 5,
+  "reviewCount": 1,
+  "coords": [
+    5.831534,
+    -55.174602
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 2:30 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/komisi-paramaribo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:32:29.668Z"
+}

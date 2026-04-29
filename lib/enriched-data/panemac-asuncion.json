@@ -1,0 +1,32 @@
+{
+  "slug": "panemac-asuncion",
+  "name": "Panemac",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJYYnGttOnXZQReXMKe0VMB2g",
+  "googleName": "Panetown",
+  "formattedAddress": "Patria &, P98W+GX5, San Francisco, Asunción 001208, Paraguay",
+  "phone": "0982 000149",
+  "website": "https://www.facebook.com/panetown/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7496043966082216825",
+  "rating": 4.4,
+  "reviewCount": 280,
+  "coords": [
+    -25.2837375,
+    -57.60252790000001
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 7:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 7:00 AM – 7:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panemac-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:55:00.922Z"
+}

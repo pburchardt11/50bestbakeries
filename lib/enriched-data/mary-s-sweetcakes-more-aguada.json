@@ -1,0 +1,32 @@
+{
+  "slug": "mary-s-sweetcakes-more-aguada",
+  "name": "Mary's Sweetcakes & more.",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJV_of4ValAowRBiOGD1zYDvg",
+  "googleName": "Mary's Bakery",
+  "formattedAddress": "9RP4+M2G, Carretera Carrizales, Aguada, 00602, Puerto Rico",
+  "phone": "(787) 252-2893",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17874461860989117190",
+  "rating": 5,
+  "reviewCount": 4,
+  "coords": [
+    18.386699,
+    -67.1949304
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/mary-s-sweetcakes-more-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:02:52.599Z"
+}

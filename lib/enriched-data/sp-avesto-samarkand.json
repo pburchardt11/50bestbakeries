@@ -1,0 +1,32 @@
+{
+  "slug": "sp-avesto-samarkand",
+  "name": "SP Avesto",
+  "city": "Samarkand",
+  "country": "Uzbekistan",
+  "placeId": "ChIJt1Cq-E8ZTT8RD4qSMnBZXeo",
+  "googleName": "Avesto sweets",
+  "formattedAddress": "O'zbekiston ko'chasi 37, Samarqand, Samarqand viloyati, Uzbekistan",
+  "phone": "55 705 01 01",
+  "website": "https://70000001082648840.2gis.biz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16887752516128901647",
+  "rating": 4.3,
+  "reviewCount": 192,
+  "coords": [
+    39.6473993,
+    66.9544738
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 11:30 PM",
+    "Tuesday: 7:30 AM – 11:30 PM",
+    "Wednesday: 7:30 AM – 11:30 PM",
+    "Thursday: 7:30 AM – 11:30 PM",
+    "Friday: 7:30 AM – 11:30 PM",
+    "Saturday: 7:30 AM – 11:30 PM",
+    "Sunday: 7:30 AM – 2:00 PM, 6:00 – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sp-avesto-samarkand/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:55:13.888Z"
+}

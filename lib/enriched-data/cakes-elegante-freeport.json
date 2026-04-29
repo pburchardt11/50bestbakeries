@@ -1,0 +1,32 @@
+{
+  "slug": "cakes-elegante-freeport",
+  "name": "Cakes Elegante",
+  "city": "Freeport",
+  "country": "Trinidad & Tobago",
+  "placeId": "ChIJr5oEJF73NYwRwr_0vLBtvrg",
+  "googleName": "The Cake Lab Coffeehouse",
+  "formattedAddress": "134 Freeport Mission Rd, Freeport, Trinidad and Tobago",
+  "phone": "(868) 714-5581",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13312198154405593026",
+  "rating": 4.5,
+  "reviewCount": 16,
+  "coords": [
+    10.4601467,
+    -61.4097386
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 7:00 PM",
+    "Wednesday: 10:00 AM – 7:00 PM",
+    "Thursday: 10:00 AM – 7:00 PM",
+    "Friday: 10:00 AM – 8:00 PM",
+    "Saturday: 10:00 AM – 8:00 PM",
+    "Sunday: 10:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakes-elegante-freeport/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:44:06.420Z"
+}

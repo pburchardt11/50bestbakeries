@@ -1,0 +1,32 @@
+{
+  "slug": "ohh-soo-divine-harare",
+  "name": "Ohh Soo Divine",
+  "city": "Harare",
+  "country": "Zimbabwe",
+  "placeId": "ChIJRc2oexKlMRkRPbtyPAMpXo4",
+  "googleName": "Oh So Scrumptious Café",
+  "formattedAddress": "29 Montgomery Ave, Harare, Zimbabwe",
+  "phone": "077 838 3837",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=10258682095072361277",
+  "rating": 4.4,
+  "reviewCount": 39,
+  "coords": [
+    -17.821032,
+    31.0233947
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 8:30 AM – 5:00 PM",
+    "Wednesday: 8:30 AM – 5:00 PM",
+    "Thursday: 8:30 AM – 5:00 PM",
+    "Friday: 8:30 AM – 5:00 PM",
+    "Saturday: 8:30 AM – 5:00 PM",
+    "Sunday: 8:30 AM – 5:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ohh-soo-divine-harare/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:01:45.005Z"
+}

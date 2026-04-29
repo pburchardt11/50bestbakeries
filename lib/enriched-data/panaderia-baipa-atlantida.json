@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-baipa-atlantida",
+  "name": "Panadería Baipa",
+  "city": "Atlántida",
+  "country": "Uruguay",
+  "placeId": "ChIJxeMNTiv0n5URf_5I1PJK3vU",
+  "googleName": "Baipa",
+  "formattedAddress": "Gral. Artigas y, 16000 Atlántida, Departamento de Canelones, Uruguay",
+  "phone": "4372 0482",
+  "website": "https://www.baipadeatlantida.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17716680390926204543",
+  "rating": 4.7,
+  "reviewCount": 8736,
+  "coords": [
+    -34.7706227,
+    -55.7627275
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 8:00 AM – 9:00 PM",
+    "Saturday: 8:00 AM – 9:00 PM",
+    "Sunday: 8:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-baipa-atlantida/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:53:33.733Z"
+}

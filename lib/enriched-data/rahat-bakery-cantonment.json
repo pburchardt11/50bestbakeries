@@ -1,0 +1,32 @@
+{
+  "slug": "rahat-bakery-cantonment",
+  "name": "Rahat Bakery",
+  "city": "Cantonment",
+  "country": "Pakistan",
+  "placeId": "ChIJKy2pGAwFGTkRq_M6-MYgZpw",
+  "googleName": "Rahat Bakers and Departmental Store",
+  "formattedAddress": "St. John Building (Rahat Market, Aziz Bhatti Rd, Cantt, Lahore, Pakistan",
+  "phone": "0324 6148504",
+  "website": "http://www.rahatbakers.pk/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11269731156481471403",
+  "rating": 4.1,
+  "reviewCount": 7012,
+  "coords": [
+    31.5295257,
+    74.3770294
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:00 AM",
+    "Tuesday: 7:30 AM – 12:00 AM",
+    "Wednesday: 7:30 AM – 12:00 AM",
+    "Thursday: 7:30 AM – 12:00 AM",
+    "Friday: 7:30 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 11:30 PM",
+    "Sunday: 8:00 AM – 11:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/rahat-bakery-cantonment/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:48:54.783Z"
+}

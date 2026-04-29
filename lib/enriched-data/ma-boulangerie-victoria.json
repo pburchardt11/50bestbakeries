@@ -1,0 +1,32 @@
+{
+  "slug": "ma-boulangerie-victoria",
+  "name": "Ma Boulangerie",
+  "city": "Victoria",
+  "country": "Seychelles",
+  "placeId": "ChIJgYnF6Rcp4CIRZi-9hQV2nNE",
+  "googleName": "Ma Boulangerie",
+  "formattedAddress": "Victoria, Seychelles",
+  "phone": "2 643 736",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15104077016384483174",
+  "rating": 4.3,
+  "reviewCount": 43,
+  "coords": [
+    -4.6259329,
+    55.4540585
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 5:30 PM",
+    "Tuesday: 7:00 AM – 5:30 PM",
+    "Wednesday: 7:00 AM – 5:30 PM",
+    "Thursday: 7:00 AM – 5:30 PM",
+    "Friday: 7:00 AM – 5:30 PM",
+    "Saturday: 7:00 AM – 2:00 PM",
+    "Sunday: 7:00 AM – 2:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ma-boulangerie-victoria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:19:01.537Z"
+}

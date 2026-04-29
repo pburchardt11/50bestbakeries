@@ -1,0 +1,32 @@
+{
+  "slug": "patiseria-special-arad",
+  "name": "Patiseria Special",
+  "city": "Arad",
+  "country": "Romania",
+  "placeId": "ChIJQz0pDzeZRUcRqoOPlQH8bO8",
+  "googleName": "Patiseria Special",
+  "formattedAddress": "Aurel Vlaicu, Arad, Romania",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=17252441356283904938",
+  "rating": 4,
+  "reviewCount": 21,
+  "coords": [
+    46.1992692,
+    21.2944783
+  ],
+  "openingHours": [
+    "Monday: 6:00 AM – 4:00 PM",
+    "Tuesday: 6:00 AM – 4:00 PM",
+    "Wednesday: 6:00 AM – 4:00 PM",
+    "Thursday: 6:00 AM – 4:00 PM",
+    "Friday: 6:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/patiseria-special-arad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:07:53.812Z"
+}

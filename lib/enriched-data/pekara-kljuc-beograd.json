@@ -1,0 +1,32 @@
+{
+  "slug": "pekara-kljuc-beograd",
+  "name": "Pekara Ključ",
+  "city": "Beograd",
+  "country": "Serbia",
+  "placeId": "ChIJiyF6trJ6WkcRD0gie8YNYPA",
+  "googleName": "Kljuch",
+  "formattedAddress": "Topličin venac, Beograd 11000, Serbia",
+  "phone": "011 2185792",
+  "website": "https://kljucitacka.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17320859312987457551",
+  "rating": 4.6,
+  "reviewCount": 367,
+  "coords": [
+    44.8162118,
+    20.4559465
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 9:00 PM",
+    "Tuesday: 7:00 AM – 9:00 PM",
+    "Wednesday: 7:00 AM – 9:00 PM",
+    "Thursday: 7:00 AM – 9:00 PM",
+    "Friday: 7:00 AM – 9:00 PM",
+    "Saturday: 7:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/pekara-kljuc-beograd/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:18:02.350Z"
+}

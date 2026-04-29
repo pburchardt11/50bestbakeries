@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-belen-abai",
+  "name": "Panadería Belén.",
+  "city": "Abaí",
+  "country": "Paraguay",
+  "placeId": "ChIJrXCCZYHpWJQRLH4SORogsxo",
+  "googleName": "Panadería Belén.",
+  "formattedAddress": "San José Obrero, Abaí 060201, Paraguay",
+  "phone": "0984 154835",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1923916762816085548",
+  "rating": 5,
+  "reviewCount": 2,
+  "coords": [
+    -26.0426263,
+    -55.9438775
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 6:00 PM",
+    "Tuesday: 7:00 AM – 6:00 PM",
+    "Wednesday: 7:00 AM – 6:00 PM",
+    "Thursday: 7:00 AM – 6:00 PM",
+    "Friday: 7:00 AM – 6:00 PM",
+    "Saturday: 7:00 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/panaderia-belen-abai/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:40.490Z"
+}

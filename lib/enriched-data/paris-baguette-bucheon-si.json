@@ -1,0 +1,32 @@
+{
+  "slug": "paris-baguette-bucheon-si",
+  "name": "PARIS BAGUETTE",
+  "city": "Bucheon-si",
+  "country": "South Korea",
+  "placeId": "ChIJJUsIj6SdfDUR3r615LTQ37Y",
+  "googleName": "파리바게트 신월7동점",
+  "formattedAddress": "South Korea, Seoul, Yangcheon District, 신월7동 931-1",
+  "phone": "02-2607-8212",
+  "website": "https://www.paris.co.kr/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3597892132133871387",
+  "rating": 3.9,
+  "reviewCount": 8,
+  "coords": [
+    37.522121,
+    126.8333182
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 10:00 PM",
+    "Tuesday: 8:30 AM – 10:00 PM",
+    "Wednesday: 8:30 AM – 10:00 PM",
+    "Thursday: 8:30 AM – 10:00 PM",
+    "Friday: 8:30 AM – 10:00 PM",
+    "Saturday: 8:00 AM – 9:30 PM",
+    "Sunday: 8:30 AM – 10:00 PM"
+  ],
+  "editorialSummary": "Cafe & bakery chain serving French pastries, bread, cakes & sandwiches, plus tea & coffee drinks.",
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/paris-baguette-bucheon-si/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:27:39.241Z"
+}

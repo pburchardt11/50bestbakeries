@@ -1,0 +1,32 @@
+{
+  "slug": "famous-amos-singapore",
+  "name": "Famous Amos",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJ52lROnQZ2jERdXZ5n0QgaFc",
+  "googleName": "Famous Amos @ Plaza Singapura",
+  "formattedAddress": "68 Orchard Rd, #B2-30, Singapore 238839",
+  "phone": "6261 0790",
+  "website": "https://famous-amos.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6298319557983041141",
+  "rating": 4.4,
+  "reviewCount": 169,
+  "coords": [
+    1.3006954,
+    103.84475
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 9:30 PM",
+    "Tuesday: 10:30 AM – 9:30 PM",
+    "Wednesday: 10:30 AM – 9:30 PM",
+    "Thursday: 10:30 AM – 9:30 PM",
+    "Friday: 10:30 AM – 9:30 PM",
+    "Saturday: 10:30 AM – 9:30 PM",
+    "Sunday: 10:30 AM – 9:30 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/famous-amos-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:32.406Z"
+}

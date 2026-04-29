@@ -1,0 +1,32 @@
+{
+  "slug": "bakers-inn-fort-street-bulawayo",
+  "name": "Bakers Inn Fort Street",
+  "city": "Bulawayo",
+  "country": "Zimbabwe",
+  "placeId": "ChIJsZt_jnVUtR4RKcQ1nNuXskc",
+  "googleName": "Bakers Inn Fort Street",
+  "formattedAddress": "Khami Rd, Bulawayo, Zimbabwe",
+  "phone": "073 120 0032",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5166358692021781545",
+  "rating": 3.5,
+  "reviewCount": 664,
+  "coords": [
+    -20.1583542,
+    28.5801154
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-inn-fort-street-bulawayo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:00:34.142Z"
+}

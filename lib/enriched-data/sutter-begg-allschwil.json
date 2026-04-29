@@ -1,0 +1,32 @@
+{
+  "slug": "sutter-begg-allschwil",
+  "name": "Sutter Begg",
+  "city": "Allschwil",
+  "country": "Switzerland",
+  "placeId": "ChIJa9Brkx65kUcRdSHCQJWDuGY",
+  "googleName": "Sutter Begg – Bäckerei, Konditorei & Café",
+  "formattedAddress": "Baslerstrasse 310, 4123 Allschwil, Switzerland",
+  "phone": "061 685 26 02",
+  "website": "https://www.sutterbegg.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7401810664643240309",
+  "rating": 4.1,
+  "reviewCount": 96,
+  "coords": [
+    47.55754779999999,
+    7.5602038
+  ],
+  "openingHours": [
+    "Monday: 6:30 AM – 1:00 PM, 2:00 – 6:30 PM",
+    "Tuesday: 6:30 AM – 1:00 PM, 2:00 – 6:30 PM",
+    "Wednesday: 6:30 AM – 1:00 PM, 2:00 – 6:30 PM",
+    "Thursday: 6:30 AM – 1:00 PM, 2:00 – 6:30 PM",
+    "Friday: 6:30 AM – 1:00 PM, 2:00 – 6:30 PM",
+    "Saturday: 7:00 AM – 1:00 PM",
+    "Sunday: 7:00 AM – 1:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/sutter-begg-allschwil/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:36:05.565Z"
+}

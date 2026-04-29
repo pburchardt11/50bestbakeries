@@ -1,0 +1,32 @@
+{
+  "slug": "zambika-kafue",
+  "name": "Zambika",
+  "city": "Kafue",
+  "country": "Zambia",
+  "placeId": "ChIJH_llafjFQBkR__UMStIWgvc",
+  "googleName": "Zambika Bakery & Bistro",
+  "formattedAddress": "5 Buyantashi Road Kafue ZM, Kafue 10100, Zambia",
+  "phone": "076 3312030",
+  "website": "http://www.zambika.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17834842566781892095",
+  "rating": 3.9,
+  "reviewCount": 384,
+  "coords": [
+    -15.7739546,
+    28.1806826
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 8:00 PM",
+    "Tuesday: 7:30 AM – 8:00 PM",
+    "Wednesday: 7:30 AM – 8:00 PM",
+    "Thursday: 7:30 AM – 8:00 PM",
+    "Friday: 7:30 AM – 8:00 PM",
+    "Saturday: 7:30 AM – 8:00 PM",
+    "Sunday: 7:30 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/zambika-kafue/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:58:46.226Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bakers-inn-retail-stores-gweru",
+  "name": "Bakers Inn Retail Stores",
+  "city": "Gweru",
+  "country": "Zimbabwe",
+  "placeId": "ChIJbY-sO-mTNBkRhDxo2XQHKGc",
+  "googleName": "Bakers Inn Gweru",
+  "formattedAddress": "13 Boundary Rd, Gweru, Zimbabwe",
+  "phone": "073 110 0411",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=7433199383420091524",
+  "rating": 2.3,
+  "reviewCount": 3,
+  "coords": [
+    -19.4319931,
+    29.8263624
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 9:00 PM",
+    "Tuesday: 8:00 AM – 9:00 PM",
+    "Wednesday: 8:00 AM – 9:00 PM",
+    "Thursday: 8:00 AM – 9:00 PM",
+    "Friday: 10:00 AM – 9:00 PM",
+    "Saturday: 10:00 AM – 9:00 PM",
+    "Sunday: 10:00 AM – 9:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakers-inn-retail-stores-gweru/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:01:14.566Z"
+}

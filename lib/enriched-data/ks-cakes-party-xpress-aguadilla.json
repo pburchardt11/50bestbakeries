@@ -1,0 +1,32 @@
+{
+  "slug": "ks-cakes-party-xpress-aguadilla",
+  "name": "Ks Cakes & Party Xpress",
+  "city": "Aguadilla",
+  "country": "Puerto Rico",
+  "placeId": "ChIJ9X1UShy_AowRmcTgL5aGyHE",
+  "googleName": "KS Cakes And Party Express",
+  "formattedAddress": "FW36+GJM, PR-2, Aguadilla, 00603, Puerto Rico",
+  "phone": "(787) 410-4068",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=8198951101234463897",
+  "rating": 4.8,
+  "reviewCount": 12,
+  "coords": [
+    18.453847,
+    -67.0884501
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 10:00 AM – 4:00 PM",
+    "Wednesday: 10:00 AM – 4:00 PM",
+    "Thursday: 10:00 AM – 4:00 PM",
+    "Friday: 10:00 AM – 4:00 PM",
+    "Saturday: 10:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/ks-cakes-party-xpress-aguadilla/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:04:02.237Z"
+}

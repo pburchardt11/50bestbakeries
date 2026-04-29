@@ -1,0 +1,32 @@
+{
+  "slug": "bakery-hurbanic-bratislava",
+  "name": "Bakery Hurbanic",
+  "city": "Bratislava",
+  "country": "Slovakia",
+  "placeId": "ChIJS8gtHc-IbEcRgFL_4ACixr0",
+  "googleName": "BAKERY HURBANIČ",
+  "formattedAddress": "Konopná 2396/48, 821 05 Bratislava, Slovakia",
+  "phone": "0911 536 194",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=13674795443215618688",
+  "rating": 5,
+  "reviewCount": 29,
+  "coords": [
+    48.14418389999999,
+    17.1707006
+  ],
+  "openingHours": [
+    "Monday: 6:00 – 10:00 AM",
+    "Tuesday: 6:00 – 10:00 AM",
+    "Wednesday: 6:00 – 10:00 AM",
+    "Thursday: 6:00 – 10:00 AM",
+    "Friday: 6:00 – 10:00 AM",
+    "Saturday: 6:00 – 9:00 AM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakery-hurbanic-bratislava/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:23:40.471Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "kling-arad",
+  "name": "Kling",
+  "city": "Arad",
+  "country": "Romania",
+  "placeId": "ChIJATv3yuiZRUcRo5cCj-fHxVs",
+  "googleName": "Kling - Brutarie Patiserie",
+  "formattedAddress": "Strada Constantin Brâncuși 85, 310140 Arad, Romania",
+  "phone": "0745 476 853",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=6612911425214125987",
+  "rating": 4.9,
+  "reviewCount": 36,
+  "coords": [
+    46.1959372,
+    21.2961229
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 6:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/kling-arad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:22.189Z"
+}

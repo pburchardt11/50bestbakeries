@@ -1,0 +1,32 @@
+{
+  "slug": "la-dya-patiserie-cofetarie-arad",
+  "name": "La Dya Patiserie Cofetarie",
+  "city": "Arad",
+  "country": "Romania",
+  "placeId": "ChIJMSxAdwCZRUcRX8PEH0QtSZ4",
+  "googleName": "La Dya Patiserie Cofetărie",
+  "formattedAddress": "Strada Petru Rareș 45, Arad, Romania",
+  "phone": "0741 091 786",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11405697301906506591",
+  "rating": 4.8,
+  "reviewCount": 23,
+  "coords": [
+    46.1952306,
+    21.3338252
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/la-dya-patiserie-cofetarie-arad/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:08:23.958Z"
+}

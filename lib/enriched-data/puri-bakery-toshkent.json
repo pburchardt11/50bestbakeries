@@ -1,0 +1,32 @@
+{
+  "slug": "puri-bakery-toshkent",
+  "name": "Puri Bakery",
+  "city": "Toshkent",
+  "country": "Uzbekistan",
+  "placeId": "ChIJ9VN4kgf1rjgRsFrv3HTMGKg",
+  "googleName": "Soul Artisan Bakery",
+  "formattedAddress": "Паркент, 219, Ташкент, Toshkent, Uzbekistan",
+  "phone": "97 184 66 88",
+  "website": "https://instagram.com/soulbakery_uz?utm_medium=copy_link",
+  "googleMapsUrl": "https://maps.google.com/?cid=12112656000107895472",
+  "rating": 4.8,
+  "reviewCount": 140,
+  "coords": [
+    41.3118657,
+    69.3333626
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 12:00 AM",
+    "Tuesday: 8:00 AM – 12:00 AM",
+    "Wednesday: 8:00 AM – 12:00 AM",
+    "Thursday: 8:00 AM – 12:00 AM",
+    "Friday: 8:00 AM – 12:00 AM",
+    "Saturday: 8:00 AM – 12:00 AM",
+    "Sunday: 8:00 AM – 12:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/puri-bakery-toshkent/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:55:46.316Z"
+}

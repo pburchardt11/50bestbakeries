@@ -1,0 +1,32 @@
+{
+  "slug": "bakkerij-hollandia-wilhelminastraat-paramaribo",
+  "name": "Bakkerij Hollandia Wilhelminastraat",
+  "city": "Paramaribo",
+  "country": "Suriname",
+  "placeId": "ChIJzRN8Jlc1CI0RAqOTteOtTQM",
+  "googleName": "Bakkerij Hollandia Wilhelminastraat",
+  "formattedAddress": "hoek wilhelminastraat en, RVP5+P4V, S.M. Jamaludinstraat, Paramaribo, Suriname",
+  "phone": "551-580",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=238037548836037378",
+  "rating": 4,
+  "reviewCount": 60,
+  "coords": [
+    5.8368579,
+    -55.14218899999999
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 3:00 PM",
+    "Tuesday: 8:00 AM – 3:00 PM",
+    "Wednesday: 8:00 AM – 3:00 PM",
+    "Thursday: 8:00 AM – 3:00 PM",
+    "Friday: 8:00 AM – 3:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bakkerij-hollandia-wilhelminastraat-paramaribo/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:32:49.651Z"
+}

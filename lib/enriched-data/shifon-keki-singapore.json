@@ -1,0 +1,32 @@
+{
+  "slug": "shifon-keki-singapore",
+  "name": "Shifon Keki",
+  "city": "Singapore",
+  "country": "Singapore",
+  "placeId": "ChIJ2y4DvnkZ2jERkLEW--nPJ9c",
+  "googleName": "Shifon Keki",
+  "formattedAddress": "70 Shenton Wy, #01-10 Eon Shenton, Singapore 079118",
+  "phone": "8938 3902",
+  "website": "https://shifonkeki.com.sg/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15503588846093119888",
+  "rating": 5,
+  "reviewCount": 23,
+  "coords": [
+    1.2738759,
+    103.846276
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 6:00 PM",
+    "Tuesday: 9:30 AM – 6:00 PM",
+    "Wednesday: 9:30 AM – 6:00 PM",
+    "Thursday: 9:30 AM – 6:00 PM",
+    "Friday: 9:30 AM – 6:00 PM",
+    "Saturday: 9:30 AM – 6:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/shifon-keki-singapore/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:20:53.116Z"
+}

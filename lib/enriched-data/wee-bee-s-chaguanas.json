@@ -1,0 +1,32 @@
+{
+  "slug": "wee-bee-s-chaguanas",
+  "name": "Wee Bee's",
+  "city": "Chaguanas",
+  "country": "Trinidad & Tobago",
+  "placeId": "ChIJ-7KaxIL5NYwRU-7QKKSVm5k",
+  "googleName": "Kampo Vibes Restaurant",
+  "formattedAddress": "GH7Q+2WQ, Ramsaran St, Chaguanas, Trinidad and Tobago",
+  "phone": "(868) 665-4558",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=11068605041485082195",
+  "rating": 3.8,
+  "reviewCount": 532,
+  "coords": [
+    10.5125965,
+    -61.4101283
+  ],
+  "openingHours": [
+    "Monday: 10:30 AM – 10:00 PM",
+    "Tuesday: 10:30 AM – 10:00 PM",
+    "Wednesday: 10:30 AM – 10:00 PM",
+    "Thursday: 10:30 AM – 10:00 PM",
+    "Friday: 10:30 AM – 11:00 PM",
+    "Saturday: 10:30 AM – 11:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/wee-bee-s-chaguanas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:43:10.771Z"
+}

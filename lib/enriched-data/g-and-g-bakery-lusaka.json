@@ -1,0 +1,32 @@
+{
+  "slug": "g-and-g-bakery-lusaka",
+  "name": "G and G Bakery",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJ0wdY9V_zQBkRf8W2GLlBhoM",
+  "googleName": "G & G Bakery",
+  "formattedAddress": "H7MG+XXP, West Gate, Zambia",
+  "phone": null,
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=9477334729087174015",
+  "rating": 4.3,
+  "reviewCount": 23,
+  "coords": [
+    -15.4150309,
+    28.2774635
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/g-and-g-bakery-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T11:00:04.231Z"
+}

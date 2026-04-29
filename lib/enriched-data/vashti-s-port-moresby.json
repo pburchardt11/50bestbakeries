@@ -1,0 +1,32 @@
+{
+  "slug": "vashti-s-port-moresby",
+  "name": "Vashti's",
+  "city": "Port Moresby",
+  "country": "Papua New Guinea",
+  "placeId": "ChIJAUHknwE7AmkR4ozMVlDVvK8",
+  "googleName": "Vashti's Cakery",
+  "formattedAddress": "Section 253, Lot 7 Japhlom Cres, Port Moresby 111 National Capital District, Papua New Guinea",
+  "phone": "7042 9695",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12663230793289338082",
+  "rating": 3.9,
+  "reviewCount": 37,
+  "coords": [
+    -9.3894278,
+    147.1685174
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 1:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/vashti-s-port-moresby/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:53:38.259Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bejgl-belgrade",
+  "name": "Bejgl",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "placeId": "ChIJ4QYMh6J6WkcRQDtg8HJ6NcI",
+  "googleName": "Bagel Bejgl",
+  "formattedAddress": "Kneza Danila 39, Beograd, Serbia",
+  "phone": "060 3220084",
+  "website": "http://bagel.rs/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13994226051201383232",
+  "rating": 4.6,
+  "reviewCount": 189,
+  "coords": [
+    44.8090288,
+    20.4777431
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 4:00 PM",
+    "Tuesday: 8:00 AM – 4:00 PM",
+    "Wednesday: 8:00 AM – 4:00 PM",
+    "Thursday: 8:00 AM – 4:00 PM",
+    "Friday: 8:00 AM – 4:00 PM",
+    "Saturday: 8:00 AM – 4:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bejgl-belgrade/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:17:18.406Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mundo-de-los-bizcochos-aguada",
+  "name": "Mundo de los Bizcochos",
+  "city": "Aguada",
+  "country": "Puerto Rico",
+  "placeId": "ChIJl5oMGjO7AowR5go4ks2Tz-g",
+  "googleName": "Mundo de los Bizcochos",
+  "formattedAddress": "200 Cll Marina #208, Aguada, 00602, Puerto Rico",
+  "phone": "(787) 868-2590",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=16775789648109112038",
+  "rating": 4.6,
+  "reviewCount": 127,
+  "coords": [
+    18.3800098,
+    -67.18738189999999
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 5:00 PM",
+    "Tuesday: 9:00 AM – 5:00 PM",
+    "Wednesday: 9:00 AM – 5:00 PM",
+    "Thursday: 9:00 AM – 5:00 PM",
+    "Friday: 9:00 AM – 5:00 PM",
+    "Saturday: 9:00 AM – 2:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/mundo-de-los-bizcochos-aguada/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:02:11.704Z"
+}

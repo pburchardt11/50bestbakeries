@@ -1,0 +1,32 @@
+{
+  "slug": "saida-bakery",
+  "name": "Saida Bakery",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJrYPb2TDFRT4RyOvfspIz1UY",
+  "googleName": "Saida Bakery & Stores",
+  "formattedAddress": "Al Diwan St, Doha, Qatar",
+  "phone": "4442 6074",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=5104042457853586376",
+  "rating": 4.3,
+  "reviewCount": 1926,
+  "coords": [
+    25.2864601,
+    51.52316279999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 1:00 AM",
+    "Tuesday: 7:00 AM – 1:00 AM",
+    "Wednesday: 7:00 AM – 1:00 AM",
+    "Thursday: 7:00 AM – 1:00 AM",
+    "Friday: 7:00 AM – 1:00 AM",
+    "Saturday: 7:00 AM – 1:00 AM",
+    "Sunday: 7:00 AM – 1:00 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/saida-bakery/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:08.935Z"
+}

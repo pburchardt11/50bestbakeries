@@ -1,0 +1,32 @@
+{
+  "slug": "cakebites-victoria",
+  "name": "Cakebites",
+  "city": "Victoria",
+  "country": "Seychelles",
+  "placeId": "ChIJyeNI2Ucp4CIR58H9K0trwOI",
+  "googleName": "Delicious Cakes Seychelles",
+  "formattedAddress": "riverside point, Victoria, Seychelles",
+  "phone": "2 537 028",
+  "website": "https://www.facebook.com/DeliciousCakesSeychelles",
+  "googleMapsUrl": "https://maps.google.com/?cid=16339177418704929255",
+  "rating": 4.8,
+  "reviewCount": 48,
+  "coords": [
+    -4.629319199999999,
+    55.4554234
+  ],
+  "openingHours": [
+    "Monday: 8:30 AM – 5:30 PM",
+    "Tuesday: 8:30 AM – 5:30 PM",
+    "Wednesday: 8:30 AM – 5:30 PM",
+    "Thursday: 8:30 AM – 5:30 PM",
+    "Friday: 8:30 AM – 5:30 PM",
+    "Saturday: 9:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/cakebites-victoria/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:18:54.790Z"
+}

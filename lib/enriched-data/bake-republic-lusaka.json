@@ -1,0 +1,32 @@
+{
+  "slug": "bake-republic-lusaka",
+  "name": "Bake Republic",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "placeId": "ChIJ9cOb_4-LQBkRATAuXJdVn3U",
+  "googleName": "The Bake Rack",
+  "formattedAddress": "16 Mugoti Road Lusaka ZM, Lusaka 10101, Zambia",
+  "phone": "076 4541541",
+  "website": "https://www.facebook.com/thebakerack/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8475587132309516289",
+  "rating": 4.7,
+  "reviewCount": 7,
+  "coords": [
+    -15.3816147,
+    28.3123009
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 6:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 6:00 PM",
+    "Thursday: 8:00 AM – 6:00 PM",
+    "Friday: 8:00 AM – 6:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: 9:00 AM – 3:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/bake-republic-lusaka/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:59:04.411Z"
+}

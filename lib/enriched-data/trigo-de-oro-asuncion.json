@@ -1,0 +1,32 @@
+{
+  "slug": "trigo-de-oro-asuncion",
+  "name": "Trigo de Oro",
+  "city": "Asunción",
+  "country": "Paraguay",
+  "placeId": "ChIJ8b9doXWoXZQR-CBLvaGyxNk",
+  "googleName": "Trigo de Oro",
+  "formattedAddress": "e/, Herminio Gimenez &, Gral. José María Bruguéz, Asunción 001225, Paraguay",
+  "phone": "(021) 207 876",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=15691863409400946936",
+  "rating": 4.7,
+  "reviewCount": 20,
+  "coords": [
+    -25.2967238,
+    -57.61805929999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 5:00 PM",
+    "Tuesday: 7:30 AM – 5:00 PM",
+    "Wednesday: 7:30 AM – 5:00 PM",
+    "Thursday: 7:30 AM – 5:00 PM",
+    "Friday: 7:30 AM – 5:00 PM",
+    "Saturday: 7:30 AM – 12:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/trigo-de-oro-asuncion/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:54:29.985Z"
+}

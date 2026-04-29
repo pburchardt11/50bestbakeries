@@ -1,0 +1,32 @@
+{
+  "slug": "al-safa-bakery-and-sweets",
+  "name": "Al Safa Bakery and Sweets",
+  "city": "السيب",
+  "country": "Oman",
+  "placeId": "ChIJhyQo7wnkjT4R690pW2Xnsm4",
+  "googleName": "Al Safa Bakery & Sweets",
+  "formattedAddress": "Al, Sib, Oman",
+  "phone": "9596 4333",
+  "website": "https://www.instagram.com/alsafabakerysweets?r=nametag",
+  "googleMapsUrl": "https://maps.google.com/?cid=7976692312533753323",
+  "rating": 3.9,
+  "reviewCount": 229,
+  "coords": [
+    23.6367556,
+    58.1141269
+  ],
+  "openingHours": [
+    "Monday: 9:00 AM – 11:55 PM",
+    "Tuesday: 9:00 AM – 11:55 PM",
+    "Wednesday: 9:00 AM – 11:55 PM",
+    "Thursday: 9:00 AM – 11:55 PM",
+    "Friday: 9:00 AM – 11:55 PM",
+    "Saturday: 9:00 AM – 11:55 PM",
+    "Sunday: 9:00 AM – 11:55 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/al-safa-bakery-and-sweets/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:46:13.703Z"
+}

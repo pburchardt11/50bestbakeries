@@ -1,0 +1,32 @@
+{
+  "slug": "au-vieuxfournil-aigle",
+  "name": "Au vieuxfournil",
+  "city": "Aigle",
+  "country": "Switzerland",
+  "placeId": "ChIJv59s8MWXjkcR8uAMviEHz24",
+  "googleName": "Au Vieux-Fournil / Pain Pailasse",
+  "formattedAddress": "Rue du Bourg 41, 1860 Aigle, Switzerland",
+  "phone": "024 466 17 31",
+  "website": "https://aufournil.ch/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7984608505855009010",
+  "rating": 4.7,
+  "reviewCount": 139,
+  "coords": [
+    46.3196916,
+    6.9681541
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: 6:00 AM – 12:30 PM, 2:00 – 6:00 PM",
+    "Wednesday: 6:00 AM – 12:30 PM, 2:00 – 6:00 PM",
+    "Thursday: 6:00 AM – 12:30 PM, 2:00 – 6:00 PM",
+    "Friday: 6:00 AM – 12:30 PM, 2:00 – 6:00 PM",
+    "Saturday: 6:00 AM – 12:30 PM",
+    "Sunday: 6:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/au-vieuxfournil-aigle/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:35:42.047Z"
+}

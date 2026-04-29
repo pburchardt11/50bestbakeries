@@ -1,0 +1,32 @@
+{
+  "slug": "ugly-bakery-16",
+  "name": "Ugly Bakery",
+  "city": "16통",
+  "country": "South Korea",
+  "placeId": "ChIJb_X5riWZfDURfvrmfrT_BCE",
+  "googleName": "Ugly Bakery",
+  "formattedAddress": "South Korea, Seoul, Mapo-gu, World Cup-ro 13-gil, 73 1층",
+  "phone": "02-338-2018",
+  "website": "https://instagram.com/uglybakery?igshid=i3on17x2nfs9",
+  "googleMapsUrl": "https://maps.google.com/?cid=2379307653846727294",
+  "rating": 4,
+  "reviewCount": 481,
+  "coords": [
+    37.554997,
+    126.9060429
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 12:00 – 8:00 PM",
+    "Thursday: 12:00 – 8:00 PM",
+    "Friday: 12:00 – 8:00 PM",
+    "Saturday: 12:00 – 8:00 PM",
+    "Sunday: 12:00 – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ugly-bakery-16/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:27:14.123Z"
+}

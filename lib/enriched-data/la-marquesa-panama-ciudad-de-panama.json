@@ -1,0 +1,32 @@
+{
+  "slug": "la-marquesa-panama-ciudad-de-panama",
+  "name": "La Marquesa Panamá",
+  "city": "Ciudad de Panamá",
+  "country": "Panama",
+  "placeId": "ChIJY8YvpAtVq48RcD6ceQyyol4",
+  "googleName": "La Marquesa Gourmet Bakery, fabrica de productos de pastelería y panadería.",
+  "formattedAddress": "C.C Espan, Local 13, C. Pl. Tocumen, Panamá, Provincia de Panamá, Panama",
+  "phone": "261-2308",
+  "website": "http://lamarquesa.com.pa/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6819208552441986672",
+  "rating": 4.1,
+  "reviewCount": 87,
+  "coords": [
+    9.0610159,
+    -79.4213824
+  ],
+  "openingHours": [
+    "Monday: 8:00 AM – 5:00 PM",
+    "Tuesday: 8:00 AM – 5:00 PM",
+    "Wednesday: 8:00 AM – 5:00 PM",
+    "Thursday: 8:00 AM – 5:00 PM",
+    "Friday: 8:00 AM – 5:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/la-marquesa-panama-ciudad-de-panama/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:52:58.041Z"
+}

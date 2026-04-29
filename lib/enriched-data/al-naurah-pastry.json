@@ -1,0 +1,32 @@
+{
+  "slug": "al-naurah-pastry",
+  "name": "Al Naurah Pastry",
+  "city": "الدوحة",
+  "country": "Qatar",
+  "placeId": "ChIJV_4h64rPRT4R7fTe1Z3OWP4",
+  "googleName": "Al Naurah Pastry",
+  "formattedAddress": "7G7Q+P2G, Doha, Qatar",
+  "phone": "4435 3532",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=18327625860877579501",
+  "rating": 4.5,
+  "reviewCount": 66,
+  "coords": [
+    25.2643051,
+    51.5375673
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 12:30 AM",
+    "Tuesday: 7:00 AM – 12:30 AM",
+    "Wednesday: 7:00 AM – 12:30 AM",
+    "Thursday: 7:00 AM – 12:30 AM",
+    "Friday: 4:00 – 10:00 PM",
+    "Saturday: Closed",
+    "Sunday: 7:00 AM – 12:30 AM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/al-naurah-pastry/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:06:49.128Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "pekarnya1vladikavkaz",
+  "name": "Pekarnya1vladikavkaz",
+  "city": "Владикавказ",
+  "country": "Russia",
+  "placeId": "ChIJkUjzRIMKUEART29J5bk3uSI",
+  "googleName": "ВЫПЕЧКА №1",
+  "formattedAddress": "Ulitsa Dzhanayeva, 28, Vladikavkaz, Respublika Severnaya Osetiya — Alaniya, Russia, 362040",
+  "phone": "8 (867) 270-08-87",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=2502092339536293711",
+  "rating": 4.6,
+  "reviewCount": 283,
+  "coords": [
+    43.0327332,
+    44.6827335
+  ],
+  "openingHours": [
+    "Monday: 10:00 AM – 8:00 PM",
+    "Tuesday: 9:00 AM – 7:00 PM",
+    "Wednesday: 9:00 AM – 7:00 PM",
+    "Thursday: 9:00 AM – 7:00 PM",
+    "Friday: 9:00 AM – 7:00 PM",
+    "Saturday: 9:00 AM – 7:00 PM",
+    "Sunday: 9:00 AM – 7:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/pekarnya1vladikavkaz/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:10:18.261Z"
+}

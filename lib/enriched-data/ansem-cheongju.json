@@ -1,0 +1,32 @@
+{
+  "slug": "ansem-cheongju",
+  "name": "Ansem",
+  "city": "Cheongju",
+  "country": "South Korea",
+  "placeId": "ChIJido-3fsnZTURg0ui1B981kM",
+  "googleName": "Ansem",
+  "formattedAddress": "South Korea, Chungcheongbuk-do, Cheongju, Heungdeok-gu, Seohyeonjung-ro 28beon-gil, 11 1층",
+  "phone": "043-212-4948",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=4888230921710488451",
+  "rating": 4.1,
+  "reviewCount": 7,
+  "coords": [
+    36.6212726,
+    127.4302236
+  ],
+  "openingHours": [
+    "Monday: 11:00 AM – 9:00 PM",
+    "Tuesday: 11:00 AM – 9:00 PM",
+    "Wednesday: Closed",
+    "Thursday: 11:00 AM – 9:00 PM",
+    "Friday: 11:00 AM – 9:00 PM",
+    "Saturday: 11:00 AM – 9:00 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/ansem-cheongju/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:28:21.009Z"
+}

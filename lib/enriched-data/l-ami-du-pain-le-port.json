@@ -1,0 +1,32 @@
+{
+  "slug": "l-ami-du-pain-le-port",
+  "name": "L'Ami du Pain",
+  "city": "Le Port",
+  "country": "Réunion",
+  "placeId": "ChIJnaKSZ66JgiERSYyHAzBA_RQ",
+  "googleName": "L'ami du pain",
+  "formattedAddress": "25 bis Rue Léon de Lepervanche, Le Port 97420, Réunion",
+  "phone": "0262 32 09 81",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=1512435624828177481",
+  "rating": 4,
+  "reviewCount": 23,
+  "coords": [
+    -20.9373304,
+    55.29169839999999
+  ],
+  "openingHours": [
+    "Monday: 5:30 AM – 6:00 PM",
+    "Tuesday: 5:30 AM – 6:00 PM",
+    "Wednesday: 5:30 AM – 6:00 PM",
+    "Thursday: 5:30 AM – 6:00 PM",
+    "Friday: 5:30 AM – 6:00 PM",
+    "Saturday: 5:30 AM – 6:00 PM",
+    "Sunday: 5:30 AM – 12:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/l-ami-du-pain-le-port/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:11:54.444Z"
+}

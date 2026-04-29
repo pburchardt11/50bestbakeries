@@ -1,0 +1,32 @@
+{
+  "slug": "panaderia-nostro-nonno-canelones",
+  "name": "Panadería Nostro Nonno",
+  "city": "Canelones",
+  "country": "Uruguay",
+  "placeId": "ChIJk958KaMmoJURxEeFcNlvkaw",
+  "googleName": "Panadería \" Nostro Nonno\"",
+  "formattedAddress": "Francisco de Menezes 1411, 91000 Pando, Departamento de Canelones, Uruguay",
+  "phone": "2292 6055",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=12434843025833019332",
+  "rating": 3.6,
+  "reviewCount": 22,
+  "coords": [
+    -34.7233877,
+    -55.95511339999999
+  ],
+  "openingHours": [
+    "Monday: 7:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Tuesday: 7:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Wednesday: 7:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Thursday: 7:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Friday: 7:30 AM – 1:30 PM, 4:30 – 9:00 PM",
+    "Saturday: 7:30 AM – 2:30 PM",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://nvdnfrvzx5yfyxil.private.blob.vercel-storage.com/bakery-photos/panaderia-nostro-nonno-canelones/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T10:54:43.244Z"
+}

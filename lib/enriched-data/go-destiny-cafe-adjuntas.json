@@ -1,0 +1,32 @@
+{
+  "slug": "go-destiny-cafe-adjuntas",
+  "name": "Go Destiny Cafe",
+  "city": "Adjuntas",
+  "country": "Puerto Rico",
+  "placeId": "ChIJhb-Ey1PRAowRalDklX7S4i8",
+  "googleName": "Go Destiny Cafe Juan González",
+  "formattedAddress": "57JJ+3WM, PR-523, Adjuntas, 00601, Puerto Rico",
+  "phone": "(787) 508-6653",
+  "website": null,
+  "googleMapsUrl": "https://maps.google.com/?cid=3450551705641701482",
+  "rating": 4.5,
+  "reviewCount": 178,
+  "coords": [
+    18.180204,
+    -66.71771199999999
+  ],
+  "openingHours": [
+    "Monday: 7:00 AM – 8:00 PM",
+    "Tuesday: 7:00 AM – 8:00 PM",
+    "Wednesday: 7:00 AM – 8:00 PM",
+    "Thursday: 7:00 AM – 8:00 PM",
+    "Friday: 6:00 AM – 8:00 PM",
+    "Saturday: 6:00 AM – 8:00 PM",
+    "Sunday: 7:00 AM – 8:00 PM"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/go-destiny-cafe-adjuntas/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:59:30.719Z"
+}

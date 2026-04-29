@@ -1,0 +1,32 @@
+{
+  "slug": "bakstehuset-pa-ask",
+  "name": "Bakstehuset på Ask",
+  "city": "Ask",
+  "country": "Norway",
+  "placeId": "ChIJz6YUqakCPUYRvekJ2_Sc9Zw",
+  "googleName": "Bakstehuset på Ask",
+  "formattedAddress": "Askvegen 451, 5307 Ask, Norway",
+  "phone": "96 00 89 09",
+  "website": "http://bakstehuset.no/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11310118614671681981",
+  "rating": 4.9,
+  "reviewCount": 334,
+  "coords": [
+    60.48301799999999,
+    5.212869299999999
+  ],
+  "openingHours": [
+    "Monday: Closed",
+    "Tuesday: Closed",
+    "Wednesday: 12:00 – 5:00 PM",
+    "Thursday: 12:00 – 5:00 PM",
+    "Friday: 12:00 – 5:00 PM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "editorialSummary": null,
+  "photoUrls": [
+    "https://dj278tuqr9qpj0lt.public.blob.vercel-storage.com/bakery-photos/bakstehuset-pa-ask/0.jpg"
+  ],
+  "enrichedAt": "2026-04-29T09:45:01.884Z"
+}
