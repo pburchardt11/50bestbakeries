@@ -22,9 +22,13 @@ export async function generateSitemaps() {
   return ids;
 }
 
+// Use a fixed date so the sitemap doesn't change on every build.
+// Update this when you make real content changes.
+const LAST_CONTENT_UPDATE = '2026-05-11T00:00:00.000Z';
+
 export default function sitemap({ id }) {
   const baseUrl = 'https://www.50bestbakeries.com';
-  const now = new Date().toISOString();
+  const now = LAST_CONTENT_UPDATE;
 
   // Sitemap 0: all structural pages (countries, cities, types, blog, etc.)
   if (id === 0) {
