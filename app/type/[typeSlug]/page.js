@@ -11,7 +11,7 @@ import { getTypeIntro, getTypeFAQs } from '../../../lib/content';
 import BakeryCardPhoto from '../../../components/BakeryCardPhoto';
 
 export const dynamicParams = true;
-export const revalidate = 86400;
+export const revalidate = 604800; // Cache for 7 days
 
 export async function generateStaticParams() {
   return [];
