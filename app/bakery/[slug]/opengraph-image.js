@@ -1,6 +1,7 @@
 import { ImageResponse } from 'next/og';
 import { getBarBySlug } from '../../../lib/bakery-db';
 
+export const revalidate = 86400;
 export const alt = 'Bakery details';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';

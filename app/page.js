@@ -7,6 +7,8 @@ import LoadMoreBakeries from '../components/LoadMoreBakeries';
 import NearbyBakeries from '../components/NearbyBakeries';
 import AdUnit from '../components/AdUnit';
 
+export const revalidate = 3600; // Cache for 1 hour
+
 export const metadata = {
   title: "50 Best Bakeries — The World's Best Bakeries Reviewed",
   description: "Discover the 50 best bakeries in the world plus hundreds of thousands of boulangeries, patisseries, artisan sourdough shops and pastry houses across 200+ countries. Editorial rankings, verified Google ratings, real photos.",

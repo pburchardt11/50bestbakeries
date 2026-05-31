@@ -1,6 +1,8 @@
 // app/blog/page.js
 // Blog index page — lists all blog posts
 
+export const revalidate = 3600;
+
 import { getTotalBars, getCountryStats } from '../../lib/bakery-db';
 
 const BLOG_POSTS = [

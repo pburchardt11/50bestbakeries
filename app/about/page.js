@@ -1,4 +1,6 @@
 // app/about/page.js
+export const revalidate = 86400; // Cache for 24 hours
+
 import { getTotalBars, getAllCountries, getCountryStats } from '../../lib/bakery-db';
 
 export const metadata = {

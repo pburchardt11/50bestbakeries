@@ -1,6 +1,8 @@
 // app/find-a-bakery/page.js
 // Find a Bakery page — location-based bakery discovery with map
 
+export const revalidate = 3600;
+
 import { getTotalBars, getCountryStats } from '../../lib/bakery-db';
 import FindBakery from '../../components/FindBakery';
 

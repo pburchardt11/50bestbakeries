@@ -1,6 +1,7 @@
 import { ImageResponse } from 'next/og';
 import { getAllCountries, getCitiesForCountry, getBarsForCity, toSlug } from '../../../lib/bakery-db';
 
+export const revalidate = 86400; // Cache OG images for 24 hours
 export const alt = 'City bakery guide';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';

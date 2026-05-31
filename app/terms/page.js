@@ -1,5 +1,6 @@
 // app/terms/page.js
 // Terms of Service
+export const revalidate = 86400;
 
 export const metadata = {
   title: 'Terms of Service - 50 Best Bakeries',

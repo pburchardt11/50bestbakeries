@@ -22,5 +22,9 @@ export async function GET(request) {
       type: b.type,
       rating: b.rating,
     })),
+  }, {
+    headers: {
+      'Cache-Control': 'public, s-maxage=3600, stale-while-revalidate=86400',
+    },
   });
 }

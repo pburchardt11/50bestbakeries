@@ -1,5 +1,6 @@
 // app/privacy-policy/page.js
 // Privacy Policy — required for Google AdSense
+export const revalidate = 86400;
 
 export const metadata = {
   title: 'Privacy Policy — 50 Best Bakeries',

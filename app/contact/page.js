@@ -1,4 +1,6 @@
 // app/contact/page.js
+export const revalidate = 86400;
+
 export const metadata = {
   title: 'Contact Us - 50 Best Bakeries',
   description: 'Get in touch with the 50 Best Bakeries team.',
